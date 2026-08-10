@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2026-01-14"
+last_updated: "2026-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2026.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -139,11 +139,17 @@ XXI. Reserva Ecológica: Área determinada en un programa de desarrollo urbano, 
 
 XXII. Secretaría: La Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2026)</small>
 
-XXIII. Sistema: El Sistema Estatal de Información para el Ordenamiento Territorial y el Desarrollo Urbano Sustentable; y,
+XXIII. Sistema: El Sistema Estatal de Información para el Ordenamiento Territorial y el Desarrollo Urbano Sustentable;
 
-XXIV. Zona Metropolitana: El espacio territorial de influencia dominante de un centro de población.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2026)</small>
+
+XXIV. Vías de comunicación terrestre: A las franjas de terreno destinadas al tránsito vehicular o peatonal, que incluyen la superficie de rodamiento, el derecho de vía, así como las obras, construcciones e instalaciones necesarias para su funcionamiento y mantenimiento, de acuerdo con la legislación aplicable en materia de movilidad, comunicaciones y transporte; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE AGOSTO DE 2026)</small>
+
+XXV. Zona Metropolitana: Al espacio territorial de influencia predominante de un centro de población, definido por la continuidad física y funcional de los procesos urbanos, en términos de lo dispuesto por la legislación aplicable.
 
 ###### ARTÍCULO 3.
 
@@ -5271,13 +5277,29 @@ II. Las relotificaciones en fraccionamientos habitacionales de cualquier tipo y/
 
 III. Las divisiones de terrenos, cuando todas y cada una de las porciones resultantes queden con una superficie superior a una hectárea;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2026)</small>
 
-IV. Las parcelaciones que se realicen por causa de herencia, donación, compraventa o permuta entre parientes en línea recta dentro del primero y segundo grados o cónyuges o herederos y legatarios; y,
+IV. Las parcelaciones que se realicen por causa de herencia, donación, compraventa o permuta entre parientes en línea recta dentro del primero y segundo grados o cónyuges o herederos y legatarios;
 
-> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2026)</small>
 
-V. Cuando sea necesaria la subdivisión de un predio por disolución de una copropiedad.
+V. Cuando sea necesaria la subdivisión de un predio por disolución de una copropiedad; y,
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 10 DE AGOSTO DE 2026)</small>
+
+VI. Cuando la subdivisión de un terreno tenga como finalidad la construcción de vías de comunicación terrestre consideradas de utilidad pública conforme a la legislación aplicable.
+
+Para la procedencia de la exención prevista en esta fracción deberá acreditarse que:
+
+a) Se integre y valide por la autoridad competente la justificación técnica y jurídica de la obra, debiendo tratarse de proyectos incorporados en instrumentos de planeación, programas de inversión pública o autorizaciones formales de obra;
+
+b) Se garantice el interés público y no se modifique el uso o destino del suelo de los predios colindantes establecido en los programas de desarrollo urbano aplicables;
+
+c) La exención únicamente recaerá sobre la superficie destinada al derecho de vía;
+
+d) No se considere como exención válida para futuras donaciones requeridas para la autorización de desarrollos o desarrollos en condominio; y,
+
+e) Se dé cumplimiento a los requisitos legales, técnicos y normativos previstos para los procedimientos de subdivisión.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
@@ -5288,6 +5310,10 @@ Las subdivisiones de predios mayores a 1,000 metros cuadrados, estarán sujetas 
 A solicitud del propietario y exclusivamente cuando cada área de donación a que se refiere el párrafo anterior sea menor a 500 metros cuadrados, se procederá a determinar el valor comercial de dicha donación a efecto de que la pague a la Tesorería Municipal correspondiente, teniendo que calcularse mediante avalúo conforme al valor más alto, entre el valor catastral y el valor comercial.
 
 Previa aprobación del cabildo, este recurso deberá ser destinado a la adquisición de reserva territorial del municipio, o consistentes en la construcción, ampliación, remodelación y reconstrucción de inmuebles y obras de equipamiento e infraestructura urbana en el entorno de los bienes objeto de subdivisión en una distancia radial no mayor a 500 metros, teniendo que incluirse dicho concepto en la Ley de Ingresos Municipal que corresponda.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2026)</small>
+
+Además de las excepciones previstas en el artículo anterior, no estarán sujetas a la obligación de donar áreas a favor del Ayuntamiento las subdivisiones de predios que se realicen exclusivamente para la ejecución de obras, infraestructura, equipamiento o proyectos de interés público a cargo de la Federación, el Estado, los municipios u organismos públicos, siempre que los productos resultantes se destinen de manera exclusiva al cumplimiento de dichos fines y no impliquen ni den lugar a aprovechamientos inmobiliarios de carácter habitacional, comercial o industrial.
 
 ###### ARTÍCULO 430.
 
@@ -5816,3 +5842,11 @@ P.O. 14 DE ENERO DE 2026.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 10 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 518.- ARTÍCULO PRIMERO. SE ADICIONA UN ARTÍCULO 10 BIS A LA LEY DE CAMINOS Y PUENTES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE ADICIONA LA SECCIÓN TERCERA BIS DENOMINADA DE LAS EXENCIONES Y EL ARTÍCULO 175 BIS, AL CAPÍTULO XIX DENOMINADO POR SERVICIOS URBANÍSTICOS, A LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMAN LAS FRACCIONES XXIII Y XXIV DEL ARTÍCULO 2, LAS FRACCIONES IV Y V DEL ARTÍCULO 428; Y, SE ADICIONAN LA FRACCIÓN XXV AL ARTÍCULO 2; LA FRACCIÓN VI Y LOS INCISOS A), B), C), D) Y E) AL ARTÍCULO 428; Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 429, TODOS DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
