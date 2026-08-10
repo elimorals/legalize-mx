@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2026-06-26"
+last_updated: "2026-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -309,11 +309,11 @@ VII.- Las demás que esta Ley y otros ordenamientos aplicables le confieran.
 
 ### CAPÍTULO PRIMERO. DE LA POLÍTICA
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2025) (REPUBLICADO, P.O. 19 DE AGOSTO DE 2025)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 10.
 
-La política estatal en materia de igualdad entre mujeres y hombres deberá establecer las acciones tendientes a lograr la igualdad sustantiva en los ámbitos familiar, de cuidados, económico, político, saludable, social, laboral, deportivo y cultural.
+La política estatal en materia de igualdad entre mujeres y hombres deberá establecer las acciones tendientes a lograr la igualdad sustantiva en los ámbitos familiar, de cuidados, económico, político, saludable, social, laboral, científico, deportivo y cultural.
 
 La Política Estatal que establezca el Gobierno del Estado deberá considerar los siguientes lineamientos:
 
@@ -363,13 +363,17 @@ XII.- Incluir en la formulación, desarrollo y evaluación de políticas, estrat
 
 XIII.- Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se elimine el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2026)</small>
 
-XIV.- Fomentar e impulsar la participación, el desarrollo, la capacitación y el reconocimiento de las mujeres y los hombres en materia deportiva, garantizando su acceso a los espacios deportivos; y
+XIV.- Fomentar e impulsar la participación, el desarrollo, la capacitación y el reconocimiento de las mujeres y los hombres en materia deportiva, garantizando su acceso a los espacios deportivos;
 
-(REFORMADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2026)</small>
 
-XV.- Establecer medidas tendientes a erradicar en todos los ámbitos de la vida profesional y laboral la brecha salarial de género entre mujeres y hombres, para cumplir con la norma constitucional de igualdad salarial por trabajo igual, así como todas aquellas condiciones laborales que acentúen desigualdades.
+XV.- Fomentar el desarrollo, participación y reconocimiento de las mujeres en la ciencia y la tecnología, así como el desarrollo de investigadoras y científicas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2026)</small>
+
+XVI.- Establecer medidas tendientes a erradicar en todos los ámbitos de la vida profesional y laboral la brecha salarial de género entre mujeres y hombres, para cumplir con la norma constitucional de igualdad salarial por trabajo igual, así como todas aquellas condiciones laborales que acentúen desigualdades.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1016,6 +1020,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 2, LA FRACCIÓN XIII DEL ARTÍCULO 4 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 7 TER DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES XIV Y XV DEL ARTÍCULO 10 Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 10 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
