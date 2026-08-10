@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-economico-sustentable-del-estado-de-puebla-17
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-27"
-last_updated: "2026-04-17"
+last_updated: "2026-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2026.
 
 Ley publicada en la Edición Vespertina del Número 18 del Periódico Oficial del Estado de Puebla, el martes 27 de febrero de 2024.
 
@@ -374,6 +374,12 @@ III. Por clúster;
 IV. Por región del Estado, y
 
 V. Por la combinación de cualesquiera de los anteriores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2026)</small>
+
+La información podrá clasificarse de manera desagregada por sexo, edad y demas criterios estadísticos que determine la Secretaría, conforme a la normatividad aplicable en materia de protección de datos personales, con la finalidad de generar indicadores para el diseño y evaluación de politicas públicas en materia de desarrollo económico.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 10 DE AGOSTO DE 2026)</small>
 
 De manera complementaria a los indicadores generados por los Sistemas Estatal y Nacional de Información, la Secretaría analizará y agrupará la información para generar anualmente los indicadores económicos, estudios y análisis necesarios para impulsar la competitividad y el desarrollo económico sustentable de la Entidad. La información generada por la Secretaría será pública y estará disponible para consulta en su portal oficial de internet.
 
@@ -1368,6 +1374,14 @@ Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III
 P.O. 17 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 6; LAS FRACCIONES IX Y X DEL ARTÍCULO 9, Y ADICIONA LAS FRACCIONES XLI BIS AL ARTÍCULO 4; XXIV AL ARTÍCULO 5; Y XI AL ARTÍCULO 9, TODOS DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TERCER PÁRRAFO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 12, AMBOS DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
