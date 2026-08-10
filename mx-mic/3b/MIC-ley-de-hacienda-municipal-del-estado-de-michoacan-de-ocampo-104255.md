@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-de-ocampo-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-25"
-last_updated: "2026-01-09"
+last_updated: "2026-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2026.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el jueves 25 de diciembre de 2014.
 
@@ -1547,9 +1547,17 @@ Son sujetos de estos Derechos las personas físicas o morales que en carácter d
 
 Los Derechos por la prestación de estos servicios se cubrirán en la Tesorería Municipal correspondiente en el momento de su autorización, conforme a la tarifa que fijen las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo.
 
-#### SECCIÓN CUARTA. DE LAS INFRACCIONES Y SANCIONES
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE AGOSTO DE 2026)</small>
 
-#### SECCIÓN PRIMERA. DEL OBJETO
+#### SECCIÓN TERCERA BIS. DE LAS EXENCIONES
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2026)</small>
+
+ARTÍCULO 175 BIS. No se causarán los derechos establecidos en este Capítulo cuando la subdivisión de predios tenga por objeto la ejecución de obras de infraestructura pública consistentes en vías de comunicación terrestre consideradas de utilidad pública, conforme a la legislación estatal o federal aplicable en materia de movilidad, comunicaciones y transporte, y que sean realizadas por autoridades en el ámbito de sus competencias constitucionales.
+
+La exención procederá únicamente respecto de la superficie necesaria para la ejecución de la obra pública correspondiente y deberá acreditarse mediante la declaratoria de utilidad pública, autorización de obra o acto administrativo debidamente fundado y motivado emitido por autoridad competente.
+
+#### SECCIÓN CUARTA. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 176.
 
@@ -1557,25 +1565,25 @@ Las infracciones al presente Capítulo se sancionarán de conformidad con las di
 
 ### CAPÍTULO XX. POR SERVICIOS DE ASEO PÚBLICO
 
-#### SECCIÓN SEGUNDA. DE LOS SUJETOS
+#### SECCIÓN PRIMERA. DEL OBJETO
 
 ###### ARTÍCULO 177.
 
 Son objeto de los Derechos a que se refiere este Capítulo, las autorizaciones para llevar a cabo la disposición final de residuos sólidos en el relleno sanitario municipal correspondiente.
 
-#### SECCIÓN TERCERA. DEL PAGO DE LOS DERECHOS
+#### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
 ###### ARTÍCULO 178.
 
 Son sujetos de este derecho, las personas físicas y morales que realicen la disposición final de residuos sólidos en el relleno sanitario municipal correspondiente.
 
-#### SECCIÓN CUARTA. DE LAS INFRACCIONES Y SANCIONES
+#### SECCIÓN TERCERA. DEL PAGO DE LOS DERECHOS
 
 ###### ARTÍCULO 179.
 
 El pago de los Derechos referidos en este Capítulo, se realizará en la Tesorería Municipal correspondiente, conforme a lo señalado por las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo.
 
-#### SECCIÓN PRIMERA. DEL OBJETO
+#### SECCIÓN CUARTA. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 180.
 
@@ -1583,25 +1591,27 @@ Las infracciones al presente Capítulo se sancionarán conforme a lo dispuesto p
 
 ### CAPÍTULO XXI. POR SERVICIOS DE ADMINISTRACIÓN AMBIENTAL
 
-#### SECCIÓN SEGUNDA. DE LOS SUJETOS
+#### SECCIÓN PRIMERA. DEL OBJETO
 
 ###### ARTÍCULO 181.
 
 Son objeto de los Derechos a que se refiere este Capítulo, los servicios de administración ambiental, que se prestan conforme a la normatividad correspondiente, como son entre otros, los de inspección y vigilancia de las condicionantes de operación de rastros concesionados; dictamen en materia de protección al ambiente, necesaria para obtener licencia de funcionamiento municipal; y realización de simulacros contra incendios.
 
-#### SECCIÓN TERCERA. DEL PAGO DE LOS DERECHOS
+#### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
 ###### ARTÍCULO 182.
 
 Son sujetos de este derecho las personas físicas o morales que requieran los servicios de administración ambiental, como son entre otros, los de inspección y vigilancia de las condicionantes de operación de rastros concesionados; dictamen en materia de protección al ambiente, necesaria para obtener licencia de funcionamiento municipal, y realización de simulacros contra incendios.
 
-#### SECCIÓN ÚNICA
+#### SECCIÓN TERCERA. DEL PAGO DE LOS DERECHOS
 
 ###### ARTÍCULO 183.
 
 El pago de los Derechos referidos en este Capítulo, se realizará en la Tesorería Municipal correspondiente, conforme a lo señalado por las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo.
 
 ### CAPÍTULO XXII. DERECHOS DIVERSOS
+
+#### SECCIÓN ÚNICA
 
 ###### ARTÍCULO 184.
 
@@ -2199,10 +2209,10 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 
 Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado y a los 113 municipios del Estado, para sus efectos conducentes.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 0632.- SE REFORMA, EL ARTÍCULO 1438 EN SU FRACCIÓN I, EN EL TÍTULO CUARTO LA DENOMINACIÓN DEL CAPÍTULO VI, Y EL ARTÍCULO 1471, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+P.O. 10 DE AGOSTO DE 2026.
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 518 POR EL QUE "SE ADICIONA LA SECCIÓN TERCERA BIS DENOMINADA DE LAS EXENCIONES Y EL ARTÍCULO 175 BIS, AL CAPÍTULO XIX DENOMINADO POR SERVICIOS URBANÍSTICOS, A LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-P.O. 14 DE MAYO DE 2020.
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
