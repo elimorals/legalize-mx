@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2026-07-09"
+last_updated: "2026-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2026.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -1189,9 +1189,13 @@ Los Ayuntamientos con previa regulación concertada con la Procuraduría, deber�
 
 La Secretaría en coordinación con la Secretaría de Educación en el Estado, promoverá:
 
-I. La concientización de la sociedad para su corresponsabilidad en la protección y mejoramiento del medio ambiente en su dimensión humana, privilegiando la formación de valores y actitudes dentro de un proceso permanente de aprendizaje, mediante el cual el individuo interactúe en armonía con la naturaleza;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2026)</small>
 
-II. El desarrollo de una política educativa, que promueva los principios y prácticas de conservación y aprovechamiento sustentable de los recursos naturales, elaborando programas de cultura ambiental con dimensión paralela a las áreas de formación del pensamiento y el comportamiento del ser humano como conceptos básicos de una política de formación ambiental;
+I. La concientización de la sociedad para su corresponsabilidad en la protección y mejoramiento del medio ambiente en su dimensión humana, privilegiando la formación de valores, actitudes y conciencia ambiental desde la infancia y adolescencia, dentro de un proceso permanente de aprendizaje mediante el cual las personas interactúen en armonía con la naturaleza;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2026)</small>
+
+II. El desarrollo de una política educativa que promueva los principios y prácticas de conservación y aprovechamiento sustentable de los recursos naturales, incorporando acciones de educación ambiental dirigidas a niñas, niños y adolescentes, así como programas de cultura ambiental orientados al fortalecimiento de la responsabilidad social y ambiental;
 
 III. La coordinación y el fomento de acciones de educación y cultura ambiental en todo el Estado, considerando los criterios regionales pertinentes, e intensificando los esfuerzos para proteger y mejorar el estado actual del entorno, a fin de ampliar la cobertura de la educación ambiental a todos sus habitantes;
 
@@ -1213,9 +1217,11 @@ Se implementarán en las escuelas públicas y privadas campañas de jornadas de 
 
 Las Instituciones educativas en el Estado realizarán actividades relacionadas con el cuidado del medio ambiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 67.
 
-La Secretaría y los Ayuntamientos, promoverán en su ámbito de competencia, la educación ambiental para el desarrollo sustentable como eje temático transversal, como parte fundamental de los procesos educativos, en todos los diferentes ámbitos y niveles: formales, no formales e informales, a través de un proceso continuo y permanente. Promoverá, asimismo, la investigación y la generación de métodos, publicaciones, materiales educativos y técnicas que permitan un uso y aprovechamiento sustentable de los recursos naturales, así como la prevención del deterioro y en su caso la restauración de los ecosistemas.
+La Secretaría y los Ayuntamientos promoverán, en su ámbito de competencia, la educación ambiental para el desarrollo sustentable como eje temático transversal, impulsando especialmente la participación, sensibilización y formación ambiental de niñas, niños y adolescentes, mediante procesos educativos continuos y permanentes en los ámbitos formales, no formales e informales. Promoverá, asimismo, la investigación y la generación de métodos, publicaciones, materiales educativos y técnicas que permitan un uso y aprovechamiento sustentable de los recursos naturales, así como la prevención del deterioro y en su caso la restauración de los ecosistemas.
 
 Para ello, se podrán celebrar convenios con instituciones del sector educativo, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia, así como integrantes del sector económico.
 
@@ -1239,6 +1245,14 @@ V. Diseñar políticas públicas o programas para su fomento que ayuden a reduci
 
 VI. Las demás que señalen la Ley y su reglamento.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2026)</small>
+
+###### Artículo 67 Ter.
+
+Las autoridades competentes promoverán mecanismos y espacios de participación ambiental dirigidos a niñas, niños y adolescentes, a fin de fortalecer su involucramiento en acciones comunitarias de protección, cuidado y conservación del medio ambiente, así como en actividades de sensibilización frente al cambio climático y la protección de los recursos naturales.
+
+Asimismo, impulsarán la difusión de información ambiental en formatos accesibles, incluyentes y adecuados para niñas, niños y adolescentes, considerando el interés superior de la niñez como principio orientador de las acciones de educación y cultura ambiental.
+
 ###### Artículo 68.
 
 La Secretaría y los Ayuntamientos establecerán los convenios necesarios para establecer programas de capacitación de su personal con el propósito de fortalecer su formación ambiental, que les de las bases necesarias para atender procesos de sensibilización sobre el mejoramiento del ambiente con los diversos sectores de la población a través de los medios de comunicación masiva, a fin de difundir la problemática ambiental de la Entidad y sus posibles alternativas de solución.
@@ -1255,7 +1269,9 @@ III. La elaboración de una metodología para la evaluación y certificación de
 
 IV. Impulsará y realizará cursos y programas para la formación y capacitación ambiental del magisterio; sociedad civil, servidores públicos y cualquier ciudadano interesado en el tema;
 
-V. La realización de acciones de educación y cultura ambiental en toda la Entidad de manera descentralizada, a fin de ampliar la cobertura a todos sus habitantes y propiciar el fortalecimiento de una conciencia ambiental;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2026)</small>
+
+V. La realización de acciones de educación y cultura ambiental en toda la Entidad de manera descentralizada, fortaleciendo prioritariamente la conciencia ambiental de niñas, niños y adolescentes;
 
 VI. La gestión de proyectos y acciones intersectoriales para favorecer la educación, cultura y comunicación en temas ambientales prioritarios del Estado;
 
@@ -1267,13 +1283,17 @@ IX. Que las instituciones de educación superior y los organismos dedicados a la
 
 X. La inserción del componente ambiental como eje de referencia en todos los ámbitos posibles relacionados con la formación de sus recursos humanos;
 
-XI. La elaboración, producción, edición y difusión de publicaciones y materiales lúdico- educativos para facilitar el proceso de educación ambiental;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2026)</small>
+
+XI. La elaboración, producción, edición y difusión de publicaciones, materiales lúdicos y contenidos educativos accesibles que fomenten la educación y cultura ambiental en niñas, niños y adolescentes;
 
 XII. El desarrollo de mecanismos adecuados para la articulación de los diversos procesos de formación y capacitación ambiental;
 
 XIII. Fomentar actividades de educación, capacitación y cultura ambiental dentro de las Áreas Naturales Protegidas, campamentos tortugueros y estaciones biológicas de competencia del Estado; y,
 
-XIV. Impulsar la aplicación de investigación, programas, proyectos, actividades y acciones de educación, formación, capacitación, difusión y cultura ambiental para la sustentabilidad en condiciones de cambio climático.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2026)</small>
+
+XIV. Impulsar la aplicación de investigaciones, programas, proyectos, actividades y acciones de educación, formación, capacitación, difusión y cultura ambiental para la sustentabilidad en condiciones de cambio climático, promoviendo la participación activa de niñas, niños y adolescentes.
 
 ###### Artículo 70.
 
@@ -3184,3 +3204,15 @@ P.O. 9 DE JULIO DE 2026.
 PRIMERO. Notifíquese al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 10 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 484 POR EL QUE “SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 65; EL PRIMER PÁRRAFO DEL ARTÍCULO 67; LAS FRACCIONES V, XI Y XIV DEL ARTÍCULO 69; Y SE ADICIONA UN ARTÍCULO 67 TER DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Las autoridades competentes implementarán las acciones previstas en el presente Decreto conforme a la disponibilidad presupuestaria existente y en coordinación con las instancias correspondientes.
+
+CUARTO. La implementación del presente Decreto no implicará la creación de nuevas estructuras administrativas ni erogaciones adicionales al presupuesto autorizado.
