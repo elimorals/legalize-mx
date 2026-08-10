@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-consejo-economico-y-social-del-estado-de-michoacan-8434
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-28"
-last_updated: "2022-07-14"
+last_updated: "2026-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DEL CONSEJO ECONOMICO Y SOCIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NO. 500, PUBLICADO EN EL P.O. DE 10 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2026 (ABROGADA).
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Michoacán, el miércoles 28 de diciembre de 2011.
 
@@ -508,3 +510,29 @@ SEGUNDO. Respecto al nombramiento del Presidente del Consejo, se estará a lo di
 TERCERO. El Consejo, una vez integrado, contará con ciento veinte días para elaborar su Reglamento, el que será enviado al Congreso para su conocimiento, antes de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 CUARTO. Notifíquese el presente Decreto al Gobernador para su conocimiento y fines conducentes.
+
+P.O. 10 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 500.- SE REFORMAN LA FRACCIÓN ILL DEL ARTÍCULO 3, LAS FRACCIONES XLVII Y XLVIII DEL ARTÍCULO 4, LOS ARTÍCULOS 5, 6, 8, 11, 12, 13 Y 21 Y LA DENOMINACIÓN DEL CAPÍTULO SEGUNDO; SE ADICIONA LA FRACCIÓN XLIX AL ARTÍCULO 4; Y, SE DEROGAN LOS ARTÍCULOS 7, 9, 10, 14, 15, 16, 17, 18, 19, 20 Y 22 TODOS DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo del Estado, en un período no mayor a 90 días hábiles, deberá conformar e instalar el Consejo.
+
+TERCERO. A efecto de dar cumplimiento al presente Decreto, el Ejecutivo del Estado, en un término no mayor a 90 días hábiles, deberá emitir la normativa interna de funcionamiento del Consejo, así como, las reformas que se estimen procedentes a otras disposiciones administrativas aplicables.
+
+CUARTO. Se abroga la Ley del Consejo Económico y Social del Estado de Michoacán de Ocampo, publicada en el Tomo CLIII, Décima Séptima Sección, Número 32 del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con fecha 28 de diciembre de 2011.
+
+QUINTO. Se abroga el Decreto Legislativo número 195 de fecha 14 de julio del año 2022 dos mil veintidós, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEXTO. El Poder Ejecutivo del Estado, en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá emitir el Decreto de Extinción del Consejo Económico y Social del Estado de Michoacán de Ocampo; la Secretarla de Desarrollo Económico, fungirá como órgano liquidador y recibirá los recursos presupuestales que actualmente ejerce dicho Consejo. Todos los derechos laborales de los trabajadores serán respetados conforme a su categoría y la legislación aplicable.
+
+Los instrumentos jurídicos, convenios, contratos o actos equivalentes celebrados por el Consejo se considerarán vigentes y obligarán en sus términos a la Secretaría, sin perjuicio del derecho de las partes para ratificarlos, modificarlos o rescindirlos posteriormente, según corresponda.
+
+SÉPTIMO. Las personas servidoras públicas del Consejo Económico y Social del Estado de Michoacán de Ocampo, en adelante CESMICH, concluirán sus funciones al momento de la extinción del mismo.
+
+OCTAVO. Los bienes muebles e inmuebles y recursos materiales, así como de asuntos y expedientes con que cuente el CESMICH, serán transferidos a la Secretaría de Desarrollo Económico, dentro de los 90 días hábiles, siguientes a que se extinga el mismo, conforme a los lineamientos de entrega y recepción, supervisando la Secretaría de la Contraloría dichos procedimientos.
+
+NOVENO. A partir de la extinción del Consejo Económico y Social del Estado de Michoacán de Ocampo, la Secretarla de Finanzas y Administración realizará las reasignaciones y ajustes presupuestales necesarias en los términos del presente Decreto.
+
+DÉCIMO. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
