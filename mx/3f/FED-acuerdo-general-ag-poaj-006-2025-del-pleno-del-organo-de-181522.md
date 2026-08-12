@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-ag-poaj-006-2025-del-pleno-del-organo-de-181522
 country: "mx"
 rank: "acuerdo"
 publication_date: "2025-09-08"
-last_updated: "2026-06-24"
+last_updated: "2026-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181522&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2025-09-05"
 
 ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE AGOSTO DE 2026.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 8 de septiembre de 2025.
 
@@ -59,7 +59,9 @@ TERCERO. Se designa al licenciado Pedro Estuardo Rivera Hess como titular de la 
 
 CUARTO. Se designa al maestro Jaime Armando López Ramírez como titular de la Unidad de Administración del Tribunal Electoral del Poder Judicial de la Federación a partir del 1 de enero de 2026.
 
-QUINTO. Se designa al Licenciado Carlos López Guerrero como titular de la Unidad de Administración del Tribunal de Disciplina Judicial a partir del 2 de septiembre de 2025.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES, D.O.F. 12 DE AGOSTO DE 2026)</small>
+
+QUINTO. Se designa al licenciado Francisco Santiago Sáenz de Cámara Aguirre como titular de la Unidad de Administración del Tribunal de Disciplina Judicial a partir del 5 de agosto de 2026.
 
 ## TRANSITORIOS
 
@@ -92,6 +94,14 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, en la Gaceta del Se
 D.O.F. 24 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación por el Pleno del Órgano de Administración Judicial.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en la Gaceta del Semanario Judicial de la Federación, así como en el portal del Órgano de Administración Judicial del Poder Judicial de la Federación.
+
+D.O.F. 12 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación por el Pleno del Órgano de Administración Judicial.
 
