@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-derechos-el-bienestar-y-proteccion-de-los-animales-12802
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-02"
-last_updated: "2026-02-12"
+last_updated: "2026-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2026.
 
 Ley publicada en la Décima Sección del Núm. 58 del Periódico Oficial del Estado de Michoacán, el lunes 2 de abril de 2018.
 
@@ -777,11 +777,15 @@ IV. Las operaciones de carga y descarga deberán hacerse sin maltratar a los eje
 
 V. En el caso de animales no humanos transportados que fueran detenidos en su camino o arribo al lugar destinado por complicaciones accidentales, fortuitas o administrativas, se procurará proporcionarles alojamiento amplio y ventilado, abrevaderos y alimentos hasta que sea solucionado el conflicto y pueda proseguir el traslado.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 56.
 
-Queda estrictamente prohibido sacrificar animales no humanos por métodos violentos o que les provoquen agonía y sufrimiento.
+Queda estrictamente prohibido sacrificar animales no humanos por métodos violentos, envenenamiento mediante el uso de sustancias tóxicas, venenos o cualquier agente químico y en general cualquier método que les provoquen agonía y sufrimiento, cualquiera que sea su finalidad, incluyendo el control poblacional, razones de salubridad, festividades, usos y costumbres.
 
-El sacrificio de los animales no humanos, sin importar su especie o fin, deberá realizarse de manera humanitaria, evitando la agonía y el sufrimiento del ejemplar.
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, servidores públicos o terceros que actúen por cuenta de éstos, deberán abstenerse de ordenar, ejecutar, permitir o tolerar el sacrificio de animales no humanos mediante los métodos a que se refiere el párrafo anterior.
+
+El sacrificio de los animales no humanos, sin importar su especie y cualquiera que sea su fin, deberá realizarse de manera humanitaria, evitando la agonía y el sufrimiento del ejemplar, para ello deberán utilizarse los métodos y sustancias establecidas en las Normas Oficiales Mexicanas de la materia.
 
 ###### Artículo 57.
 
@@ -1132,3 +1136,11 @@ P.O. 12 DE FEBRERO DE 2026.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. La Secretaría del Medio Ambiente y los Gobiernos Municipales, contarán con un plazo de 180 días hábiles para hacer las modificaciones necesarias a sus reglamentos, para fijar los parámetros de las sanciones de multa a que se refiere el artículo 66 de la Ley de Derechos, el Bienestar y Protección de los Animales en el Estado de Michoacán de Ocampo.
+
+P.O. 12 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 485 POR EL QUE "SE REFORMA EL ARTÍCULO 56 DE LA LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
