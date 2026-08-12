@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-160360"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-28"
-last_updated: "2026-06-29"
+last_updated: "2026-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 28 de septiembre de 2022.
 
@@ -3131,9 +3131,11 @@ El Consejo General deberá emitir los acuerdos definitivos relacionados con el r
 
 Dichos acuerdos se notificarán a todos los interesados mediante publicación en los estrados y en la página de internet del Consejo, dentro de las veinticuatro horas siguientes a que hayan sido aprobados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2026)</small>
+
 ###### ARTÍCULO 209.
 
-La etapa de obtención del respaldo ciudadano para cualquier cargo al que se aspire, tendrá lugar en las fechas que sean determinadas en el calendario electoral que apruebe el Consejo General, las cuales serán coincidentes con los periodos de precampañas de los partidos políticos, sin que pueda durar más de cuarenta días para Gubernatura, ni más de veinticinco días para diputaciones y ayuntamientos.
+La etapa de obtención del respaldo ciudadano para cualquier cargo al que se aspire, tendrá lugar en las fechas que sean determinadas en el calendario electoral que apruebe el Consejo General, las cuales serán coincidentes con los periodos de precampañas de los partidos políticos, sin que pueda durar más de veinte días para Gubernatura, diputaciones y ayuntamientos.
 
 Durante este plazo, las personas aspirantes registradas podrán llevar a cabo acciones para obtener el respaldo de la ciudadan ía (sic) y utilizar propaganda, cumpliendo los requisitos que establece esta Ley para obtener la declaratoria que le dará derecho a registrarse como candidata o candidato independiente y contender en la elección constitucional.
 
@@ -3633,11 +3635,11 @@ III. De resultados y declaración de validez de las elecciones: que se inicia co
 
 Tratándose de elección extraordinaria, en la convocatoria respectiva deberá establecerse la fecha exacta para la celebración de la jornada electoral, para que con base en la misma, la Secretaría Ejecutiva del Consejo esté en la posibilidad de elaborar el calendario electoral correspondiente, en el que deberán respetarse todos los plazos que se fijan en esta Ley para cada una de las etapas del proceso electoral ordinario, las que deberán adecuarse al proceso extraordinario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2026)</small>
 
 ###### ARTÍCULO 257.
 
-El proceso de las elecciones ordinarias a la Gubernatura, diputaciones, ayuntamientos, y personas juzgadoras del Poder Judicial del Estado, comienza a partir de la sesión del Consejo General celebrada el dos de enero del año de la elección; y culmina con la declaración de validez formal pronunciada por el Consejo General, conforme a lo dispuesto por el párrafo segundo del artículo 31 de la Constitución del Estado, y el artículo 49 fracción II inciso l) de esta Ley. Sus fases serán:
+El proceso de las elecciones ordinarias a la Gubernatura, diputaciones, ayuntamientos, y personas juzgadoras del Poder Judicial del Estado, comienza a partir de la sesión del Consejo General celebrada el quince de noviembre del año inmediato anterior a la elección; y culmina con la declaración de validez formal pronunciada por el Consejo General, conforme a lo dispuesto por el párrafo segundo del artículo 31 de la Constitución del Estado, y el artículo 49 fracción II inciso l) de esta Ley. Sus fases serán:
 
 I. Proveer la debida integración de las comisiones distritales electorales, comprobando la legal instalación de éstas, a más tardar el último día del mes de enero del año de la elección;
 
@@ -4309,9 +4311,13 @@ Los procesos internos para la selección de candidatas y candidatos a cargos de 
 
 Al menos treinta días antes del inicio formal de los procesos a que se refiere el párrafo inmediato anterior, cada partido determinará, conforme a sus estatutos, el procedimiento aplicable para la selección de sus candidatas y candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo dentro de las setenta y dos horas siguientes a su aprobación, señalando la fecha de inicio del proceso interno; el método o métodos que serán utilizados; la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno; los órganos de dirección responsables de su conducción y vigilancia; la fecha de celebración de la asamblea electoral o, en su caso, de realización de la jornada comicial interna, conforme a lo siguiente:
 
-I. Tratándose de las precampañas para la elección de Gubernatura, estas tendrán una duración de cuarenta días, y se desarrollarán dentro del periodo comprendido del veinte de enero al veintiocho de febrero, del año de la elección;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2026)</small>
 
-II. Tratándose de las precampañas para la elección de diputaciones, y ayuntamientos, éstas tendrán una duración de veinticinco días, y se desarrollarán dentro del periodo comprendido del cuatro al veintiocho de febrero del año de la elección, y
+I. Tratándose de las precampañas para la elección de Gubernatura, estas tendrán una duración de veinte días, y se desarrollarán dentro del periodo comprendido del veinte de enero al ocho de febrero, del año de la elección;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2026)</small>
+
+II. Tratándose de las precampañas para la elección de diputaciones, y ayuntamientos, éstas tendrán una duración de veinte días, y se desarrollarán dentro del periodo comprendido del cuatro al veintitrés de febrero del año de la elección, y
 
 III. Las precampañas, darán inicio al día siguiente de que se apruebe el registro interno de las precandidatas y los precandidatos. Las precampañas de todos los partidos deberán celebrarse dentro de los mismos plazos. Cuando un partido tenga prevista la celebración de una jornada de consulta directa, ésta se realizará el mismo día para todas las candidaturas.
 
@@ -6267,7 +6273,9 @@ El proceso electoral de las personas juzgadoras del Poder Judicial del Estado, e
 
 Para los efectos de esta ley, el proceso de elección de las personas juzgadoras del Poder Judicial del Estado, comprende las siguientes etapas:
 
-I. Preparación de la elección, que inicia con la primera sesión que el Consejo celebre el dos de enero del año de la elección, y concluye con el inicio de la jornada electoral;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2026)</small>
+
+I. Preparación de la elección, que inicia con la primera sesión que el Consejo celebre el quince de noviembre del año inmediato anterior a la elección, y concluye con el inicio de la jornada electoral;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
@@ -6343,7 +6351,9 @@ En caso de fallecimiento, incapacidad, inhabilitación o declinación de alguna 
 
 El Consejo es la autoridad responsable de la organización, desarrollo y cómputo de la elección de personas juzgadoras del Poder Judicial del Estado. En el cumplimiento de sus atribuciones, garantizará la observancia de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad y paridad de género.
 
-La etapa de preparación de la elección iniciará con la primera sesión que el Consejo General celebre el dos de enero del año de la elección.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2026)</small>
+
+La etapa de preparación de la elección iniciará con la primera sesión que el Consejo General celebre el quince de noviembre del año inmediato anterior a la elección.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -6806,3 +6816,13 @@ TERCERO. La reforma relativa a la integración de los ayuntamientos y concejos m
 CUARTO. Para efectos exclusivos del proceso electoral local ordinario 2027 y de conformidad con el régimen transitorio previsto en el Decreto 540 publicado el 3 de junio de 2026 en el Periódico Oficial del Estado "Plan de San Luis", las personas diputadas electas en el proceso electoral local 2024 que participen en elección consecutiva no estarán obligadas a separarse de su encargo para obtener su registro como personas candidatas a una diputación.
 
 QUINTO. Toda vez que, tratándose de reformas o adiciones ordenadas por la Constitución Política de los Estados Unidos Mexicanos, que deban constar en la Constitución local, únicamente se requerirá la aprobación de cuando menos las dos terceras partes del número total de las y los diputados, para que éstas formen parte de la misma, este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"; de conformidad con el último párrafo del artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+P.O. 12 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0586.- POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 209; EL PÁRRAFO PRIMERO DEL ARTÍCULO 257; LAS FRACCIONES I Y II DEL ARTÍCULO 319; LA FRACCIÓN I DEL ARTÍCULO 477, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 481, DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. El Consejo Estatal Electoral y de Participación Ciudadana deberá adecuar su normatividad conforme a los parámetros del presente Decreto, respecto al plazo de precampaña para el cargo de gubernatura, diputaciones y ayuntamientos, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
