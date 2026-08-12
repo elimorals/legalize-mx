@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-agua-y-gestion-de-cuencas-para-el-estado-de-42641"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2025-11-27"
+last_updated: "2026-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2004.
 
@@ -204,6 +204,10 @@ LXI. Zona Reglamentada: Aquellas áreas específicas de las cuencas o regiones h
 LXII. Zona de Reserva: Las limitaciones en el uso o aprovechamiento de una porción o la totalidad del agua de una cuenca o región hidrológica, para prestar un servicio público, implantar un programa de restauración, conservar o preservar el agua o cuando el Estado resuelva explotarlos por causa de interés público; y,
 
 LXIII. Zona de Veda: La supresión total de aprovechamientos de agua adicionales a los establecidos legalmente y el control de estos mediante reglamentos específicos, en una región determinada, cuenca o acuífero, en virtud del grave deterioro del agua en cantidad o calidad o por la afectación a la sustentabilidad hidrológica.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2026)</small>
+
+LXIV. Participación Ciudadana: Es deber del Estado y los Ayuntamientos garantizar mecanismos institucionales y jurídicos que permitan a todas las personas involucrarse activamente en la gestión, uso sostenible y protección del agua, promoviendo así el pleno ejercicio del derecho humano de acceso a este recurso.
 
 ### CAPÍTULO TERCERO. DE LOS PRINCIPIOS DE LA POLÍTICA HÍDRICA
 
@@ -2190,3 +2194,11 @@ P.O. 27 DE NOVIEMBRE DE 2025.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 483 POR EL QUE "SE ADICIONA LA FRACCIÓN LXIV AL ARTÍCULO 3° DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
