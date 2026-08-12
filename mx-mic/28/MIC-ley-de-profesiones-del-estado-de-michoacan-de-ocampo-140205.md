@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-profesiones-del-estado-de-michoacan-de-ocampo-140205"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-20"
-last_updated: "2026-05-26"
+last_updated: "2026-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROFESIONES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2026.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 20 de enero de 2020.
 
@@ -495,15 +495,21 @@ XVI. Expedir los comprobantes fiscales correspondientes cuando sean requeridos.
 
 ### CAPÍTULO SÉPTIMO. SERVICIO SOCIAL ESTUDIANTIL Y PROFESIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2026)</small>
+
 ###### ARTÍCULO 23.
 
-El Servicio social estudiantil.
+El Servicio Social Estudiantil.
 
 El servicio social estudiantil constituye una obligación a cargo de los estudiantes de las instituciones de educación superior, como requisito previo para la obtención del título o grado académico que corresponda.
 
 Las instituciones educativas establecerán los lineamientos a través de los cuales se podrá liberar el servicio social, priorizando acciones en beneficio social y del cuidado del medio ambiente.
 
 Las escuelas, institutos, universidades y autoridades competentes establecerán acciones de coordinación, para la prestación de servicio social en materia de reforestación.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2026)</small>
+
+Asimismo, las instituciones educativas y autoridades competentes promoverán, en el marco de las actividades de servicio social, campañas de sensibilización y concientización sobre la importancia de la donación altruista de sangre, fomentando la participación voluntaria y solidaria de las y los estudiantes, con pleno respeto a sus condiciones de salud y derechos humanos.
 
 La acreditación del servicio social estudiantil será regulada por el Instituto de la Juventud Michoacana.
 
@@ -954,3 +960,7 @@ Tercero. Las dependencias y entidades de la Administración Pública estatal y m
 Cuarto. Los estudiantes o pasantes que, a la entrada en vigor del presente Decreto, se encuentren realizando su servicio social y cumplan con los requisitos establecidos en el artículo 23 Bis del presente Decreto, podrán solicitar la convalidación inmediata de sus actividades laborales para la liberación de dicho requisito.
 
 Quinto. La Secretaría de Educación a través de la Dirección de Profesiones cuenta con 60 días, contados a partir de la entrada en vigor del presente Decreto, para adecuar su reglamentación correspondiente, conforme a lo establecido en el artículo 26 Bis del presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2026.
+
+> <small>[N. DE E. EL DECRETO NÚMERO 486, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN DE OCAMPO.]</small>
