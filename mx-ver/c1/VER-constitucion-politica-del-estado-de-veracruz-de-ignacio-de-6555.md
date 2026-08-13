@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2026-07-24"
+last_updated: "2026-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2026.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -2419,7 +2419,15 @@ El Órgano de Fiscalización deberá guardar reserva de sus actuaciones y observ
 
 El Congreso designará al titular del Órgano de Fiscalización Superior, por el voto de las dos terceras partes de los diputados presentes, de conformidad con el procedimiento que determine la ley. El titular del Órgano durará en su encargo siete años, no podrá ser reelegido y sólo se le podrá remover por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Quinto de esta Constitución.
 
-Para ser titular del Órgano de Fiscalización Superior del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV y V del artículo 58 de esta Constitución, los que señale la ley. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], G.O. 13 DE AGOSTO DE 2026)</small>
+
+Durante el ejercicio de su cargo no podrá formar parte de ningún partido politico, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficiencia. Para ser titular del Órgano de Fiscalización Superior del Estado, se debe cumplir, además de los requisitos previstos en la ley que no se opongan a lo dispuesto en este artículo, con los siguientes:
+
+a) Poseer, al día del nombramiento, título profesional de contaduría pública, licenciatura en derecho, licenciatura en economía o licenciatura en administración pública, expedido por autoridad o institución legalmente facultada para ello, con una antigüedad mínima de cinco años;
+
+b) No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia; y
+
+c) No haber ocupado la titularidad del Poder Ejecutivo del Estado; de alguna Secretaría de Despacho; de la Fiscalía General del Estado, Senaduría, Diputación Local o Federal, ni Presidencia Municipal, durante el año previo al de su nombramiento.
 
 IV. (DEROGADA, G.O. 11 DE JUNIO DE 2025)
 
@@ -4762,3 +4770,11 @@ DÉCIMO. El Pleno del Tribunal de Disciplina Judicial deberá emitir las adecuac
 DÉCIMO PRIMERO. El periodo de las Magistradas y Magistrados del Tribunal Superior de Justicia, y del Tribunal de Conciliación y Arbitraje, así como de las Juezas y Jueces de Primera Instancia que resulten electos en la elección judicial del año 2028 conforme al presente Decreto, será de ocho años, concluyendo el treinta y uno de agosto del año 2036.
 
 DÉCIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 533 POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 67 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de VeraGac 2026-322 Jueves 13 TOMO II Extcruz (sic) de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
