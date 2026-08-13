@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transito-en-carreteras-y-puentes-de-90211"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-22"
-last_updated: "2026-05-25"
+last_updated: "2026-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90211&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-11-14"
 
 REGLAMENTO DE TRÁNSITO EN CARRETERAS Y PUENTES DE JURISDICCIÓN FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2026.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 22 de noviembre de 2012.
 
@@ -54,6 +54,10 @@ III. ACTA-CONVENIO, el documento en el que se hace constar un hecho de tránsito
 IV. AUTOBÚS, el vehículo automotor de seis o más llantas de estructura integral o convencional con capacidad de más de treinta personas;
 
 V. AUTOMÓVIL, el vehículo automotor de cuatro llantas y capacidad de hasta cinco personas, incluyendo al conductor;
+
+> <small>(ADICIONADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+V Bis. AUTORIDAD COMPETENTE: Autoridad ministerial, administrativa o cívica, según corresponda;
 
 VI. BICICLETA, el vehículo de dos llantas en orden lineal que es accionado por el movimiento de las piernas de su conductor;
 
@@ -120,6 +124,10 @@ XIX. CUOTA DIARIA, la cantidad en dinero equivalente a una Unidad de Medida y Ac
 XX. DICTAMEN TÉCNICO, la opinión que formula por escrito la persona integrante de la Guardia Nacional acerca de las causas que dieron origen al hecho de tránsito;
 
 XXI. DISPOSITIVOS PARA EL CONTROL DEL TRÁNSITO, todo señalamiento que se utilice para regular y guiar el tránsito;
+
+> <small>(ADICIONADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+XXI Bis. GRÚA: Vehículo producido de fábrica integrado por una unidad tipo chasis cabina o un automotor de doble diferencial adaptados para soportar plataformas o equipos para arrastre, salvamento o de ambos tipos, que cumple con las características y especificaciones técnicas y de seguridad establecidas en el Reglamento de los Servicios Auxiliares al Autotransporte Federal de Arrastre, de Arrastre y Salvamento y de Depósito de Vehículos y la norma oficial mexicana correspondiente;
 
 XXII. GRÚA INDUSTRIAL, maquina de diseño especial montada sobre un vehículo o autopropulsable para efectuar maniobras de carga, descarga, montaje y desmontaje;
 
@@ -231,11 +239,11 @@ LXVII. ZONA DE CRUCE DE PEATONES, el área de la superficie de rodamiento de una
 
 LXVIII. ZONA DE SEGURIDAD, el área demarcada sobre la superficie de rodamiento de una vía federal que está destinada para el uso exclusivo de peatones.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 3.
 
-Las disposiciones en materia de tránsito en las vías federales deberán garantizar la seguridad pública y la fluidez vehicular a cargo de la Secretaría, a través de la Guardia Nacional y de la Secretaría de Infraestructura, Comunicaciones y Transportes.
+Las disposiciones en materia de tránsito en las vías federales deberán garantizar el derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad, así como la preservación de la vida e integridad física y material de los usuarios y la fluidez vehicular.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -581,7 +589,9 @@ Los vibradores son acanalamientos transversales al eje de la vía federal constr
 
 Al cruzar los vibradores, los conductores deben disminuir la velocidad de sus vehículos y extremar sus precauciones sin evadirlos hasta en tanto se supere la situación que haya motivado su colocación.
 
-Los conductores que no atiendan la restricción propia de los vibradores serán sancionados con 15 a 20 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+Los conductores que no atiendan la restricción de los vibradores serán sancionados con 7 a 10 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 14.
 
@@ -589,7 +599,9 @@ Los topes son semiesferas o prismas cuadrangulares, de metal, concreto, hule o c
 
 La colocación de topes sólo podrá realizarse en carreteras urbanas o en tramos próximos a cualquier asentamiento humano.
 
-Los conductores de vehículos para cruzar un tope, tendrán que reducir la velocidad a un máximo de cinco kilómetros por hora. El conductor que exceda dicha velocidad será sancionado con 15 a 20 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+Los conductores de vehículos para cruzar un tope tienen que reducir la velocidad a un máximo de cinco kilómetros por hora. El conductor que exceda dicha velocidad será sancionado con 7 a 10 veces la cuota diaria que establece este Reglamento.
 
 ### CAPÍTULO V. DE LAS GUÍAS Y ESCALAS PARA VADOS
 
@@ -611,7 +623,9 @@ I. ALTO, cuando la bandera sea sostenida en posición fija con el brazo horizont
 
 II. SIGA CON PRECAUCIÓN, cuando la bandera sea sostenida en posición fija con el brazo extendido hacia abajo, mientras el otro brazo es movido en el sentido del tránsito en la vía federal.
 
-Los conductores que no obedezcan los dispositivos y señales antes referidos, serán sancionados con multa de 20 a 30 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+Los conductores que no obedezcan los dispositivos y señales a que se refiere este artículo, serán sancionados con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ### CAPÍTULO VII. DE LOS SEMÁFOROS
 
@@ -665,17 +679,29 @@ La inobservancia de las conductas ordenadas a los conductores y a los peatones e
 
 I. Tratándose de conductores de vehículos:
 
-a) Multa de 40 a 50 veces la cuota diaria establecida por este Reglamento, cuando se trate de la infracción a las órdenes de que trata el inciso a) de la fracción I;
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) Multa de 30 a 40 veces la cuota diaria establecida por este Reglamento, cuando se ignoren las advertencias que establece el inciso a) de la fracción II;
+a) Multa de 20 a 23 veces la cuota diaria establecida por este Reglamento, cuando se trate de la infracción a las órdenes de que trata el inciso a) de la fracción I;
 
-c) Multa de 10 a 15 veces la cuota diaria establecida por este Reglamento, cuando se trate de la violación del inciso a) de la fracción III;
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-d) Multa de 10 a 15 veces la cuota diaria establecida por este Reglamento, cuando se trate de la violación al inciso a) de la fracción IV;
+b) Multa de 15 a 18 veces la cuota diaria establecida por este Reglamento, cuando se ignoren las advertencias que establece el inciso a) de la fracción II;
 
-e) Multa de 40 a 50 veces la cuota diaria establecida por este Reglamento, cuando se trate de la infracción a la orden a que se refiere la fracción V, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-f) Multa de 10 a 15 veces la cuota diaria establecida por este Reglamento, cuando se trate de la infracción a la orden a que se refiere la fracción VI.
+c) Multa de 5 a 8 veces la cuota diaria establecida por este Reglamento, cuando se trate de la violación del inciso a) de la fracción III;
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+d) Multa de 5 a 8 veces la cuota diaria establecida por este Reglamento, cuando se trate de la violación al inciso a) de la fracción IV;
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+e) Multa de 20 a 23 veces la cuota diaria establecida por este Reglamento, cuando se trate de la infracción a la orden a que se refiere la fracción V, y
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+f) Multa de 5 a 8 veces la cuota diaria establecida por este Reglamento, cuando se trate de la infracción a la orden a que se refiere la fracción VI.
 
 II. Tratándose de peatones, mediante amonestación verbal que se aplique en los términos del artículo 195 de este Reglamento por la violación a cualquiera de las órdenes de referencia.
 
@@ -703,7 +729,9 @@ I. Una equis mayúscula roja, que los conductores no deben proseguir por el carr
 
 II. Una flecha verde vertical, que los conductores pueden proseguir su tránsito por el carril autorizado en esa forma.
 
-Los conductores que desobedezcan las órdenes de los semáforos para el control de circulación en carriles, serán sancionados mediante multa de 30 a 40 veces la cuota diaria establecida por este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+Los conductores que desobedezcan las órdenes de los semáforos para el control de circulación en carriles, serán sancionados con multa de 15 a 18 veces la cuota diaria establecida por este Reglamento.
 
 #### SECCIÓN CUARTA. DE LOS SEMÁFOROS EN CRUCEROS DE FERROCARRIL
 
@@ -711,9 +739,13 @@ Los conductores que desobedezcan las órdenes de los semáforos para el control 
 
 Los semáforos en cruceros de ferrocarril indican a los conductores y peatones que se aproxima o ya está pasando un tren. Dichos aparatos consisten en un juego de luces rojas que se encienden y apagan alternadamente o en una luz roja en el centro de un disco que oscila como péndulo. En algunos casos, estos semáforos se complementan con campanas eléctricas sincronizadas con las luces y las barreras que atraviesan los carriles de circulación de las vías federales.
 
-Los conductores que desobedezcan la orden de alto de semáforos en cruceros de ferrocarril, serán sancionados mediante multa de 40 a 50 veces la cuota diaria establecida por este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-Cuando se trate de vehículos destinados al servicio de autotransporte federal, sus servicios auxiliares, transporte privado y público local, se sancionará al conductor mediante multa de 100 a 120 veces la cuota diaria establecida por este Reglamento.
+Los conductores que desobedezcan la orden de alto de semáforos en cruceros de ferrocarril, serán sancionados con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+Cuando se trate de vehículos destinados al servicio de autotransporte federal, sus servicios auxiliares, transporte privado y público local, se sancionará al conductor con multa de 50 a 55 veces la cuota diaria que establece este Reglamento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -1317,31 +1349,55 @@ Cuando se trate de vehículos automotores que no estén considerados en los art�
 
 I. La falta total o parcial de luces ordinarias:
 
-a) 20 a 25 veces la cuota diaria, tratándose de las luces principales delanteras a que se refiere el artículo 25 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) 20 a 25 veces la cuota diaria, tratándose de las luces rojas posteriores a que se refiere el artículo 26 de este Reglamento;
+a) 10 a 13 veces la cuota diaria, tratándose de las luces principales delanteras a que se refiere el artículo 25 de este Reglamento;
 
-c) 20 a 25 veces la cuota diaria, tratándose de las luces de freno a que se refiere el artículo 30 de este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-d) 20 a 25 veces la cuota diaria, tratándose de las luces direccionales a que se refiere el artículo 31 de este Reglamento.
+b) 10 a 13 veces la cuota diaria, tratándose de las luces rojas posteriores a que se refiere el artículo 26 de este Reglamento;
 
-II. 5 a 10 veces la cuota diaria, por la falta de dispositivos acústicos o por la violación a lo dispuesto en el artículo 45 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-III. 20 a 30 veces la cuota diaria, por la falta total o parcial de los frenos de servicio o de estacionamiento a que se refiere el artículo 42 de este Reglamento;
+c) 10 a 13 veces la cuota diaria, tratándose de las luces de freno a que se refiere el artículo 30 de este Reglamento, y
 
-IV. 10 a 15 veces la cuota diaria, por la violación a lo dispuesto en el artículo 50 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-V. 10 a 20 veces la cuota diaria, por la falta total o parcial de espejos retrovisores a los que se refiere el artículo 47 de este Reglamento;
+d) 10 a 13 veces la cuota diaria, tratándose de las luces direccionales a que se refiere el artículo 31 de este Reglamento.
 
-VI. 10 a 15 veces la cuota diaria, por violación a lo dispuesto en el artículo 48 de este Reglamento, en relación con el parabrisas, la ventana posterior, las ventanillas y las aletas laterales;
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+II. 2 a 5 veces la cuota diaria, por la falta de dispositivos acústicos o por la violación a lo dispuesto en el artículo 45 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+III. 10 a 13 veces la cuota diaria, por la falta total o parcial de los frenos de servicio o de estacionamiento a que se refiere el artículo 42 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+IV. 5 a 8 veces la cuota diaria, por la violación a lo dispuesto en el artículo 50 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+V. 5 a 8 veces la cuota diaria, por la falta total o parcial de espejos retrovisores a los que se refiere el artículo 47 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+VI. 5 a 8 veces la cuota diaria, por violación a lo dispuesto en el artículo 48 de este Reglamento, en relación con el parabrisas, la ventana posterior, las ventanillas y las aletas laterales;
 
 VII. Con relación al silenciador de escape:
 
-a) 15 a 25 veces la cuota diaria, por violación a lo dispuesto en el párrafo primero del artículo 46 de este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) 40 a 50 veces la cuota diaria, por violación a lo dispuesto en los párrafos segundo y tercero del artículo 46 de este Reglamento.
+a) 7 a 10 veces la cuota diaria, por violación a lo dispuesto en el párrafo primero del artículo 46 de este Reglamento, y
 
-VIII. De 20 a 25 veces la cuota diaria, por la falta total o parcial de los reflectantes a que se refiere el artículo 29 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+b) 20 a 23 veces la cuota diaria, por violación a lo dispuesto en los párrafos segundo y tercero del artículo 46 de este Reglamento.
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+VIII. De 10 a 13 veces la cuota diaria, por la falta total o parcial de los reflectantes a que se refiere el artículo 29 de este Reglamento.
 
 ###### Artículo 54.
 
@@ -1349,41 +1405,71 @@ Cuando se trate de vehículos destinados al servicio de autotransporte federal, 
 
 I. La falta total o parcial de luces ordinarias:
 
-a) 30 a 40 veces la cuota diaria, tratándose de las luces principales delanteras a que se refiere el artículo 25 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) 30 a 40 veces la cuota diaria, tratándose de las luces rojas posteriores y la luz blanca de la placa a que se refieren los artículos 26 a 28 de este Reglamento;
+a) 15 a 18 veces la cuota diaria, tratándose de las luces principales delanteras a que se refiere el artículo 25 de este Reglamento;
 
-c) 30 a 40 veces la cuota diaria, tratándose de las luces de freno a que se refiere el artículo 30 de este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-d) 30 a 40 veces la cuota diaria, tratándose de las luces direccionales a que se refiere el artículo 31 de este Reglamento.
+b) 15 a 18 veces la cuota diaria, tratándose de las luces rojas posteriores y la luz blanca de la placa a que se refieren los artículos 26 a 28 de este Reglamento;
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+c) 15 a 18 veces la cuota diaria, tratándose de las luces de freno a que se refiere el artículo 30 de este Reglamento, y
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+d) 15 a 18 veces la cuota diaria, tratándose de las luces direccionales a que se refiere el artículo 31 de este Reglamento.
 
 II. La falta total o parcial de luces extraordinarias:
 
-a) 10 a 20 veces la cuota diaria, tratándose de las luces de gálibo, luces de identificación o luces demarcadoras a que se refieren los artículos 32 al 35 de este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) 10 a 20 veces la cuota diaria, tratándose de las luces de marcha atrás a que se refiere el artículo 33, párrafo segundo, de este Reglamento.
+a) 5 a 8 veces la cuota diaria, tratándose de las luces de gálibo, luces de identificación o luces demarcadoras a que se refieren los artículos 32 al 35 de este Reglamento, y
 
-III. 10 a 15 veces la cuota diaria, por la falta de dispositivos acústicos o por la violación a lo dispuesto en el artículo 45 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-IV. 20 a 30 veces la cuota diaria, por la falta total o parcial de los frenos de servicio o de estacionamiento a que se refiere el artículo 42 de este Reglamento;
+b) 5 a 8 veces la cuota diaria, tratándose de las luces de marcha atrás a que se refiere el artículo 33, párrafo segundo, de este Reglamento.
 
-V. 15 a 20 veces la cuota diaria, por violación a lo dispuesto en el artículo 50 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-VI. 10 a 20 veces la cuota diaria, por la falta total o parcial de espejos retrovisores a los que se refiere el artículo 47 de este Reglamento;
+III. 5 a 8 veces la cuota diaria, por la falta de dispositivos acústicos o por la violación a lo dispuesto en el artículo 45 de este Reglamento;
 
-VII. 20 a 30 veces la cuota diaria, por violación a lo dispuesto en el artículo 48 de este Reglamento, en relación con el parabrisas, la ventana posterior, las ventanillas y las aletas laterales, y
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+IV. 10 a 13 veces la cuota diaria, por la falta total o parcial de los frenos de servicio o de estacionamiento a que se refiere el artículo 42 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+V. 7 a 10 veces la cuota diaria, por violación a lo dispuesto en el artículo 50 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+VI. 5 a 8 veces la cuota diaria, por la falta total o parcial de espejos retrovisores a los que se refiere el artículo 47 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+VII. 10 a 13 veces la cuota diaria, por violación a lo dispuesto en el artículo 48 de este Reglamento, en relación con el parabrisas, la ventana posterior, las ventanillas y las aletas laterales, y
 
 VIII. Con relación al silenciador de escape:
 
-a) 20 a 25 veces la cuota diaria, por violación a lo dispuesto en el párrafo primero del artículo 46 de este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) 45 a 50 veces la cuota diaria, por violación a lo dispuesto en los párrafos segundo y tercero del artículo 46 de este Reglamento.
+a) 10 a 13 veces la cuota diaria, por violación a lo dispuesto en el párrafo primero del artículo 46 de este Reglamento, y
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+b) 22 a 25 veces la cuota diaria, por violación a lo dispuesto en los párrafos segundo y tercero del artículo 46 de este Reglamento.
 
 IX. La falta total o parcial de reflectantes:
 
-a) 10 a 20 veces la cuota diaria, tratándose de los reflectantes propios de las lámparas extraordinarias y de los referidos en los artículos 32 al 35 de este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) 30 a 40 veces la cuota diaria, tratándose de los reflectantes a que se refiere el artículo 29 de este Reglamento.
+a) 5 a 8 veces la cuota diaria, tratándose de los reflectantes propios de las lámparas extraordinarias y de los referidos en los artículos 32 al 35 de este Reglamento, y
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+b) 15 a 18 veces la cuota diaria, tratándose de los reflectantes a que se refiere el artículo 29 de este Reglamento.
 
 ###### Artículo 55.
 
@@ -1391,27 +1477,47 @@ Cuando se trate de motocicletas, trimotos y cuatrimotos, se sancionará en los s
 
 I. Falta total o parcial de luces ordinarias:
 
-a) 20 a 25 veces la cuota diaria, tratándose del faro delantero a que se refiere el artículo 37, fracción I, inciso a), de este Reglamento;
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) 20 a 25 veces la cuota diaria, tratándose de las lámparas posteriores a que se refiere el artículo 37, fracción I, inciso b), de este Reglamento;
+a) 10 a 13 veces la cuota diaria, tratándose del faro delantero a que se refiere el artículo 37, fracción I, inciso a), de este Reglamento;
 
-c) 20 a 25 veces la cuota diaria, tratándose de las luces de freno a que se refiere el artículo 37, fracción I, inciso c), de este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-d) 20 a 25 veces la cuota diaria, tratándose de las luces direccionales a que se refiere el artículo 37, fracción III, de este Reglamento.
+b) 10 a 13 veces la cuota diaria, tratándose de las lámparas posteriores a que se refiere el artículo 37, fracción I, inciso b), de este Reglamento;
 
-II. 5 a 10 veces la cuota diaria, por la falta de dispositivos acústicos o por la violación a lo dispuesto en el artículo 45 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-III. 20 a 30 veces la cuota diaria, por la falta total o parcial de los frenos de servicio o de estacionamiento a que se refiere el artículo 42, fracción V, de este Reglamento;
+c) 10 a 13 veces la cuota diaria, tratándose de las luces de freno a que se refiere el artículo 37, fracción I, inciso c), de este Reglamento, y
 
-IV. 10 a 20 veces la cuota diaria, por la falta total o parcial de espejos retrovisores a los que se refiere el artículo 47 de este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+d) 10 a 13 veces la cuota diaria, tratándose de las luces direccionales a que se refiere el artículo 37, fracción III, de este Reglamento.
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+II. 2 a 5 veces la cuota diaria, por la falta de dispositivos acústicos o por la violación a lo dispuesto en el artículo 45 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+III. 10 a 13 veces la cuota diaria, por la falta total o parcial de los frenos de servicio o de estacionamiento a que se refiere el artículo 42, fracción V, de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+IV. 5 a 8 veces la cuota diaria, por la falta total o parcial de espejos retrovisores a los que se refiere el artículo 47 de este Reglamento, y
 
 V. Con relación al silenciador de escape:
 
-a) 15 a 25 veces la cuota diaria, por violación a lo dispuesto en el párrafo primero del artículo 46 de este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) 40 a 50 veces la cuota diaria, por violación a lo dispuesto en los párrafos segundo y tercero del artículo 46 de este Reglamento.
+a) 7 a 10 veces la cuota diaria, por violación a lo dispuesto en el párrafo primero del artículo 46 de este Reglamento, y
 
-VI. 20 a 25 veces la cuota diaria, por la falta total o parcial de los reflectantes a que se refiere el artículo 37, fracción II, de este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+b) 20 a 23 veces la cuota diaria, por violación a lo dispuesto en los párrafos segundo y tercero del artículo 46 de este Reglamento.
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+VI. 10 a 13 veces la cuota diaria, por la falta total o parcial de los reflectantes a que se refiere el artículo 37, fracción II, de este Reglamento.
 
 ###### Artículo 56.
 
@@ -1439,13 +1545,13 @@ Los dispositivos para el control de tránsito serán aplicables desde el punto d
 
 Los dispositivos para el control del tránsito prevalecen sobre las reglas de tránsito.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE DE 2026)</small>
 
 Las indicaciones de las personas integrantes de la Guardia Nacional prevalecen sobre los dispositivos para el control del tránsito y cualquier otra regla aplicable.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-La contravención a lo establecido en los dispositivos para el control del tránsito y a las órdenes para el control del tránsito de las personas integrantes de la Guardia Nacional en las vías federales será sancionada mediante multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+La contravención a lo establecido en los dispositivos para el control del tránsito y a las órdenes para el control del tránsito de las personas integrantes de la Guardia Nacional en las vías federales será sancionada mediante multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 Las sanciones anteriores se aplicarán cuando en el presente Reglamento no se establezca una sanción particular por la contravención de señales o la desobediencia de órdenes específicas.
 
@@ -1467,13 +1573,17 @@ Las personas usuarias de las vías federales deberán abstenerse de todo acto u 
 
 Está prohibido dejar o tirar cualquier material o sustancia que constituya un peligro u obstrucción para el libre tránsito de vehículos o de personas en las vías federales, o bien, que puedan dañar la propiedad pública o privada.
 
-La inobservancia de lo dispuesto por este artículo se sancionará mediante la aplicación de multa de 25 a 30 veces la cuota diaria establecida por el presente Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La inobservancia de lo dispuesto por este artículo se sancionará mediante la aplicación de multa de 12 a 15 veces la cuota diaria que establece el presente Reglamento.
 
 ###### Artículo 65.
 
 Las personas que hayan participado en un hecho de tránsito y suscriban Acta-convenio, deberán remover los vehículos de la vía federal y retirar de la superficie de rodamiento la basura, vidrio, lámina, plástico o cualquier otro material o sustancia que haya caído sobre la misma.
 
-La falta de observancia de lo dispuesto por este artículo será sancionada mediante multa de 10 a 15 veces la cuota diaria establecida por el presente Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La falta de observancia de lo dispuesto por este artículo será sancionada mediante multa de 5 a 8 veces la cuota diaria que establece el presente Reglamento.
 
 En los casos de que, con motivo del hecho de tránsito resulten personas muertas o lesionadas se estará a lo dispuesto en el artículo 183 del presente Reglamento y el retiro de la superficie de rodamiento de basura, vidrio, lámina, plástico o cualquier otro material o sustancia que haya caído sobre la misma, estará a cargo de la autoridad o concesionario de las vías federales.
 
@@ -1507,13 +1617,17 @@ Para la realización de eventos deportivos y tránsito de caravanas de vehículo
 
 Los conductores tienen prohibido entorpecer o cruzar la marcha de columnas militares o de escolares y el paso de los desfiles cívicos, eventos deportivos, peregrinaciones, cortejos fúnebres y caravanas.
 
-La infracción de este artículo se sancionará con multa de 20 a 25 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La infracción de este artículo se sancionará con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 70.
 
 Se prohíbe conducir vehículos con mayor número de personas al de los asientos diseñados para ese objeto, conforme a la Norma Oficial Mexicana aplicable o, en caso de no existir ésta, conforme a las especificaciones del fabricante. Asimismo, no deberá transportar personas en el lugar destinado para la carga.
 
-La violación a este artículo se sancionará con multa de 20 a 25 veces la cuota diaria establecida por este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación a este artículo se sancionará con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 71.
 
@@ -1523,7 +1637,9 @@ El tránsito de vehículos destinados al servicio de autotransporte de pasajeros
 
 Queda prohibido a los conductores llevar bultos y objetos que obstruyan su visibilidad durante el tránsito.
 
-La infracción de la disposición anterior será sancionada con multa de 20 a 25 veces la cuota diaria establecida por este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La infracción de la disposición anterior será sancionada con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 73.
 
@@ -1531,15 +1647,21 @@ Queda prohibido a los conductores abastecer sus vehículos de combustible con el
 
 La contravención de este artículo, se sancionará con:
 
-I. Multa de 20 a 25 veces la cuota diaria que establece este Reglamento, cuando se trate de abastecimiento de combustible con el motor en marcha, y
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-II. Multa de 100 a 150 veces la cuota diaria que establece este Reglamento, cuando se trate de abastecimiento de combustible de autobuses u otros vehículos de transporte de pasajeros con éstos a bordo.
+I. Multa de 10 a 13 veces la cuota diaria que establece este Reglamento, cuando se trate de abastecimiento de combustible con el motor en marcha, y
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+II. Multa de 50 a 55 veces la cuota diaria que establece este Reglamento, cuando se trate de abastecimiento de combustible de autobuses u otros vehículos de transporte de pasajeros con estos a bordo.
 
 ###### Artículo 74.
 
 Ningún tipo de vehículo podrá llevar personas en su interior cuando sea transportado o remolcado en maniobras de arrastre.
 
-La omisión al cumplimiento de lo previsto en el primer párrafo de este artículo se sancionará con multa de 50 a 60 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La omisión al cumplimiento de lo previsto en el párrafo primero de este artículo se sancionará con multa de 25 a 30 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 75.
 
@@ -1553,7 +1675,9 @@ III. No estorbe la visibilidad del conductor ni comprometa la estabilidad en la 
 
 IV. No oculte o disminuya la función de las luces y reflectantes que este Reglamento exige como obligatorios a los vehículos, remolques y semirremolques, para transitar.
 
-La omisión al cumplimiento de lo previsto en este artículo se sancionará con multa de 30 a 60 veces la cuota diaria que establece este Reglamento. La sanción pecuniaria se duplicará cuando el infractor conduzca un vehículo de autotransporte federal.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La omisión al cumplimiento de lo previsto en este artículo se sancionará con multa de 15 a 18 veces la cuota diaria que establece este Reglamento. La sanción pecuniaria se duplicará cuando la persona infractora conduzca un vehículo de autotransporte federal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -1561,7 +1685,9 @@ La omisión al cumplimiento de lo previsto en este artículo se sancionará con 
 
 La carga que genere mal olor o que sea repugnante a la vista será transportada en caja cerrada o debidamente cubierta.
 
-La inobservancia de este artículo será sancionada con multa de 20 a 30 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La inobservancia de este artículo será sancionada con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 77.
 
@@ -1569,13 +1695,17 @@ Queda prohibido el tránsito de vehículos cuyas dimensiones excedan el alto, an
 
 En términos del párrafo que antecede, queda prohibido el tránsito de vehículos cuando transporten carga que sobresalga lateralmente, cuando transporten carga que sobrepase el alto máximo permitido para el vehículo, cuando transporten carga que sobresalga longitudinalmente más de 0.50 metros o cuando no porten los indicadores a que se refiere el artículo 36 de este Reglamento, salvo las excepciones previstas en las disposiciones aplicables a los vehículos del servicio de autotransporte federal, sus servicios auxiliares y transporte privado.
 
-La trasgresión de la prohibición que este artículo establece, se sancionará con la aplicación de una multa de 30 a 40 veces la cuota diaria que establece este Reglamento, salvo cuando los vehículos sean destinados al servicio de autotransporte federal, sus servicios auxiliares y transporte privado y excedan las dimensiones de alto, ancho y largo máximo permitido en las disposiciones aplicables, caso en el cual se impondrá sanción conforme a las mismas.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La trasgresión de la prohibición que este artículo establece, se sancionará con la aplicación de una multa de 15 a 18 veces la cuota diaria que establece este Reglamento, salvo cuando los vehículos sean destinados al servicio de autotransporte federal, sus servicios auxiliares y transporte privado y excedan las dimensiones de alto, ancho y largo máximo permitido en las disposiciones aplicables, caso en el cual se impondrá sanción conforme a dichas disposiciones.
 
 ###### Artículo 78.
 
 Sólo se permitirá carga que sobresalga por la parte de atrás de los vehículos de carga, cuando el vehículo no exceda las dimensiones máximas permitidas en el Reglamento Sobre el Peso, Dimensiones y Capacidad de los Vehículos de Autotransporte que Transitan en los Caminos y Puentes de Jurisdicción Federal y demás disposiciones administrativas y técnicas que de éste emanen, debiéndose observar lo previsto en el artículo 36 y 77 de este Reglamento.
 
-La contravención a lo dispuesto en este artículo se sancionará con multa de 30 a 40 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La contravención a lo dispuesto en este artículo se sancionará con multa de 15 a 18 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 79.
 
@@ -1593,9 +1723,9 @@ El tránsito en las vías federales sólo podrá ser hecho por vehículos que se
 
 Tratándose de vehículos destinados al autotransporte federal, sus servicios auxiliares y transporte privado, además de lo previsto en el párrafo anterior, para poder transitar requieren cumplir con las obligaciones que les impone la Ley, el Reglamento de Autotransporte Federal y Servicios Auxiliares, y las demás disposiciones generales aplicables al tipo de servicio que les corresponde.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-La violación de lo dispuesto por este artículo se sancionará con multa de 20 a 30 veces la cuota diaria.
+La violación de lo dispuesto por este artículo se sancionará con multa de 10 a 13 veces la cuota diaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -1607,7 +1737,9 @@ I. Estar en pleno uso de sus facultades físicas y mentales, y
 
 II. Portar su licencia de manejo vigente o el documento que la supla.
 
-La inobservancia de la fracción I, se sanciona con multa de 10 a 15 veces la cuota diaria establecida por este Reglamento; la de la fracción II, se sanciona con multa de 20 a 40 veces la misma cuota.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La inobservancia de la fracción I de este artículo, se sanciona con multa de 5 a 8 veces la cuota diaria que establece este Reglamento; la de la fracción II de este artículo, se sanciona con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -1627,9 +1759,13 @@ II. Aplicar el freno de estacionamiento, y
 
 III. Hacer uso de señalamientos de advertencia a través de luces de estacionamiento y triángulos fluorescentes o de cualquier otro dispositivo visible para los demás conductores.
 
-La infracción al presente artículo será sancionada con multa de 10 a 20 veces la cuota diaria.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-Los vehículos automotores que se encuentren por más de veinticuatro horas en las condiciones a que se refiere el párrafo primero de este artículo, serán remolcados al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes que corresponda, para su guarda y custodia.
+La infracción al presente artículo será sancionada con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+Los vehículos automotores que se encuentren por más de veinticuatro horas en las condiciones a que se refiere el párrafo primero de este artículo, serán sancionados con una multa de 25 a 30 veces la cuota diaria que establece este Reglamento.
 
 No se sancionará a los conductores que hagan parada en situaciones de emergencia en lugares donde no haya acotamiento, cuando ocupen el mínimo de la superficie de rodamiento y hayan implementado las medidas de seguridad descritas en el párrafo primero de este artículo.
 
@@ -1671,15 +1807,17 @@ IX. Casos de excepción en los que el conductor pueda excederse de la jornada, y
 
 X. Firmas del conductor y del permisionario o de la persona que éste designe.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-La falta de bitácora o la omisión de algún dato será sancionada con multa de 20 a 30 veces la cuota diaria.
+La falta de bitácora o la omisión de algún dato será sancionada con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 84.
 
 El conductor y los pasajeros de un vehículo automotor deberán utilizar los cinturones de seguridad con los que éstos estén equipados; en los casos de los automóviles y vagonetas, los menores de 7 años deberán viajar en los asientos posteriores de los vehículos.
 
-El desacato de esta disposición se sancionará con multa de 20 a 25 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El desacato de esta disposición se sancionará con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 85.
 
@@ -1715,9 +1853,13 @@ La Secretaría de Infraestructura, Comunicaciones y Transportes establecerá las
 
 La falta parcial o total de placas metálicas de identificación vehicular, tarjeta de circulación o, en su caso, engomado, vigentes, referidos en el artículo anterior, se sancionará de acuerdo a lo siguiente:
 
-I. 15 a 20 veces la cuota diaria establecida por este Reglamento, tratándose de vehículos de servicio particular, y
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-II. 30 a 40 veces la cuota diaria establecida por este Reglamento, tratándose de vehículos destinados al servicio de autotransporte federal, sus servicios auxiliares y transporte privado.
+I. 7 a 10 veces la cuota diaria que establece este Reglamento, tratándose de vehículos de servicio particular, y
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+II. 15 a 18 veces la cuota diaria que establece este Reglamento, tratándose de vehículos destinados al servicio de autotransporte federal, sus servicios auxiliares y transporte privado.
 
 > <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -1733,7 +1875,9 @@ II. Constancia original que acredite haber realizado el trámite de reposición 
 
 Se prohíbe la utilización de placas metálicas de identificación vehicular, tarjeta de circulación y engomados distintos de aquéllos expedidos para el vehículo que se encuentre en tránsito.
 
-La violación al presente artículo se sancionará con multa de 40 a 60 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación al presente artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 88.
 
@@ -1743,7 +1887,9 @@ Los vehículos, remolques y semirremolques matriculados en un país extranjero, 
 
 La internación legal a territorio nacional de los vehículos que transiten con placas o documentación extranjera, deberá ser acreditada por sus respectivos conductores, mismos que si son de alguna otra nacionalidad demostrarán su legal estancia en el territorio nacional y ser titulares de la respectiva licencia de manejo que les haya otorgado la autoridad competente de su domicilio.
 
-En caso de violación a lo dispuesto en el párrafo que antecede, además de la imposición de las sanciones pecuniarias que apliquen en materia de tránsito, se dará aviso a las autoridades fiscales y de las del Instituto Nacional de Migración que correspondan. El conductor extranjero será entregado a la autoridad migratoria y el vehículo remitido al depósito más cercano para su resguardo y custodia.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+En caso de violación a lo dispuesto en el párrafo anterior, además de la imposición de las sanciones pecuniarias que apliquen en materia de tránsito, se dará aviso a las autoridades competentes. El conductor extranjero será entregado a la autoridad migratoria y el vehículo puesto a disposición de la autoridad competente.
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -1761,41 +1907,37 @@ Las personas integrantes de la Guardia Nacional apoyarán al personal de la unid
 
 Se entenderá por cansancio la sensación de sueño o el cansancio físico o psíquico que disminuya la capacidad del conductor y ponga en riesgo o peligro la seguridad del mismo o de terceros con motivo de la operación del vehículo.
 
-El conductor que transite con cansancio, será sancionado con multa de 25 a 50 veces la cuota diaria que establece este Reglamento y con inhabilitación para conducir durante el lapso de tiempo necesario para recuperar su capacidad de manejo.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El conductor que transite con cansancio será sancionado con multa de 10 a 13 veces la cuota diaria que establece este Reglamento y con inhabilitación para conducir durante el tiempo que se requiera para recuperar su capacidad de manejo.
 
 ###### Artículo 92.
 
 Todo conductor, previo a poner en movimiento un vehículo en una vía federal, deberá cerciorarse de que puede hacerlo con seguridad y sin causar daños a terceros.
 
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 93.
 
-Queda prohibido conducir en estado de alteración psicofísica, o bajo sospecha de ingestión de alcohol, de sustancias psicotrópicas, estupefacientes, incluyendo medicamentos con este efecto y de todos aquellos fármacos cuyo uso afecte su capacidad para conducir. La prescripción médica no exime la prohibición.
+Queda prohibido conducir en estado de alteración psicofísica o de ingestión de alcohol, de sustancias psicotrópicas o estupefacientes, incluidos medicamentos con este efecto y de todos aquellos fármacos cuyo uso afecte su capacidad para conducir. La prescripción médica no exime de esta prohibición.
 
-Los conductores particulares tienen prohibido conducir cuando tenga una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire expirado superior a 0.4 miligramos por litro. Los conductores de vehículos destinados al servicio de autotransporte federal y transporte privado tienen prohibido conducir cuando tenga una cantidad de alcohol en la sangre superior a 0.3 gramos por litro o de alcohol en aire expirado superior a 0.0 miligramos por litro.
+Los conductores particulares tienen prohibido conducir cuando tengan una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire expirado superior a 0.4 miligramos por litro. Los conductores de vehículos destinados al servicio de autotransporte federal, transporte privado y servicios auxiliares tienen prohibido conducir cuando tengan una cantidad de alcohol en la sangre superior a 0.3 gramos por litro o de alcohol en aire expirado superior a 0.0 miligramos por litro.
 
-El conductor que incurra en la infracción de este artículo será sancionado con:
+El conductor que incurra en la infracción de este artículo será sancionado con multa de 50 a 55 veces la cuota diaria que establece este Reglamento.
 
-I. Multa de 100 a 200 veces la cuota diaria que establece este Reglamento, y
+Además de la sanción señalada en el párrafo anterior, la persona integrante de la Guardia Nacional pondrá al conductor a disposición de la autoridad competente para los efectos a que haya lugar, e informará a la autoridad que emitió la licencia sobre la infracción cometida, para los efectos legales correspondientes.
 
-II. Retiro de la circulación del vehículo.
+En el caso del vehículo, este podrá ser conducido por un acompañante que cuente con licencia de conducir vigente y válida para el tipo de vehículo de que se trate, a fin de ser puesto a disposición de la autoridad competente.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
-
-Además de la sanción señalada en el párrafo anterior, la persona integrante de la Guardia Nacional pondrá al conductor a disposición del Ministerio Público de la Federación, para los efectos a que haya lugar, e informará a la autoridad que emitió la licencia sobre la infracción cometida, para los efectos legales correspondientes.
-
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
-
-Los conductores deben someterse a las pruebas de detección de ingestión de alcohol, de sustancias psicotrópicas y estupefacientes, incluidos los medicamentos con este efecto, y de todos aquellos fármacos o sustancias cuyo uso afecte su capacidad de conducir, cuando lo solicite el personal médico autorizado de la Secretaría de Infraestructura, Comunicaciones y Transportes a cargo de la verificación, o en su caso, de las personas integrantes de la Guardia Nacional que realicen las pruebas de detección a que se refiere este párrafo. En caso de que el conductor se oponga a realizarse las pruebas será sancionado conforme a lo establecido en las fracciones I y II del párrafo tercero de este artículo.
-
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
-
-Las personas integrantes de la Guardia Nacional apoyarán al personal médico de la unidad administrativa competente de la Secretaría de Infraestructura, Comunicaciones y Transportes a cargo de la verificación, en términos de las disposiciones aplicables, para detectar cualquier alteración de las que se refiere el párrafo primero del presente artículo.
+Los conductores deben someterse a las pruebas de detección de ingestión de alcohol, de sustancias psicotrópicas y estupefacientes, incluidos los medicamentos con este efecto, y de todos aquellos fármacos o sustancias cuyo uso afecte su capacidad de conducir, cuando lo solicite el personal médico autorizado de la Secretaría de Infraestructura, Comunicaciones y Transportes a cargo de la verificación, o en su caso, de las personas integrantes de la Guardia Nacional que realicen las pruebas de detección a que se refiere este párrafo. En caso de que el conductor se oponga a realizarse las pruebas será sancionado conforme a lo establecido en los párrafos tercero, cuarto y quinto de este artículo.
 
 ###### Artículo 94.
 
 Queda prohibido a conductores, pasajeros y peatones orinar y defecar en las vías federales, cuando no se efectúe al interior de los sanitarios que forman parte de los servicios auxiliares vinculados a la infraestructura, asimismo les está prohibida cualquier conducta que atente contra la moral pública o el pudor de los demás usuarios.
 
-La contravención a este artículo se sancionará con multa de 5 a 10 veces la cuota diaria que establece este Reglamento, salvo los peatones, quienes serán sancionados con amonestación verbal.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La contravención de este artículo se sancionará con multa de 2 a 5 veces la cuota diaria que establece este Reglamento, salvo los peatones, quienes serán sancionados con amonestación verbal.
 
 ###### Artículo 95.
 
@@ -1815,19 +1957,25 @@ V. Evitar llevar bultos u objetos de gran tamaño entre la puerta del vehículo 
 
 VI. Evitar sostener, cargar o colocar personas o animales entre sus brazos o piernas.
 
-A los conductores que contravengan las disposiciones de este artículo, se les aplicará multa de 15 a 20 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+A los conductores que contravengan las disposiciones de este artículo, se les aplicará multa de 7 a 10 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 96.
 
 Queda prohibido transitar sobre las rayas longitudinales marcadas en la superficie de rodamiento que delimitan los carriles de circulación, así como cruzar una línea longitudinal continua.
 
-El incumplimiento de esta regla de circulación se sancionará con multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de esta regla de circulación se sancionará con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 97.
 
 Ningún vehículo deberá ser conducido a través o dentro de una isleta, sus marcas de aproximación o una zona de seguridad para peatones.
 
-La infracción a lo antes dispuesto se sancionará con multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La infracción de este artículo se sancionará con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 98.
 
@@ -1837,19 +1985,25 @@ Los conductores deberán tener el debido cuidado para evitar atropellamientos y 
 
 Queda prohibido a los conductores hacer cualquier tipo de indicaciones luminosas, sonoras o manuales cuando no vayan a efectuar la maniobra a que tales indicaciones correspondan.
 
-Las maniobras sin el aviso a que haya lugar o el aviso no seguido de la maniobra correspondiente, será sancionado mediante multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+Las maniobras sin el aviso a que haya lugar o el aviso no seguido de la maniobra correspondiente, será sancionado mediante multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 100.
 
 Queda prohibido a los conductores usar innecesariamente la bocina, especialmente cerca de hospitales, sanatorios y escuelas, debiendo utilizarla sólo para evitar un hecho de tránsito.
 
-El desacato de la restricción anterior se sancionará con multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 101.
 
 Queda prohibido a los conductores producir con sus vehículos ruidos innecesarios que molesten u ofendan a otras personas.
 
-La inobservancia de la restricción anterior se sancionará con multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 102.
 
@@ -1859,45 +2013,61 @@ Siempre que las condiciones lo permitan, los conductores de cualquier tipo de ve
 
 Los camiones remolque, tractocamiones articulados y tractocamiones doblemente articulados, no deberán transitar cuando se presenten condiciones climatológicas desfavorables como niebla, granizo, hielo, nieve y lluvia intensa; debiendo estacionar la unidad en un lugar adecuado que no represente peligro para los demás usuarios de la vía federal. Además deberán ceder el paso cuando la vía federal se encuentre congestionada y no podrán transitar en caravana o convoy cuando lleven el mismo sentido de circulación.
 
-La contravención de lo dispuesto en los párrafos primero y segundo de este artículo será sancionada con multa de 20 a 25 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-La contravención a lo dispuesto en el tercer párrafo de este artículo será sancionada con multa de 50 a 55 veces la cuota diaria que establece este Reglamento.
+La contravención de lo dispuesto en los párrafos primero y segundo de este artículo será sancionada con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La contravención a lo dispuesto en el párrafo tercero de este artículo será sancionada con multa de 25 a 30 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 103.
 
 En vías federales de dos o más carriles en el mismo sentido, el vehículo deberá ser conducido hasta donde las circunstancias lo permitan en el mismo carril y sólo se desviará a otro cuando el conductor se haya cerciorado de que podrá llevar a cabo esta maniobra con la necesaria seguridad. Queda prohibido iniciar la maniobra cuando exista una línea longitudinal continua.
 
-El cambio de carril que contravenga lo antes señalado será infraccionado con multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El cambio de carril que contravenga lo antes señalado será sancionado con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 104.
 
 Los conductores que vayan a entrar a una vía federal principal deberán tomar el carril de aceleración. Si no existe tal carril, deberán ceder el paso a los vehículos que ya circulan por la vía federal principal.
 
-La contravención al presente artículo será sancionada con multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La contravención al presente artículo será sancionada con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 105.
 
 Los conductores que vayan a salir o retornar de una vía federal deberán pasar su vehículo con suficiente anticipación al carril de su extrema derecha o en su caso, el de su extrema izquierda, a fin de tomar desde su inicio el carril de desaceleración.
 
-La infracción de lo antes dispuesto se sancionará con multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La infracción de lo antes dispuesto se sancionará con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 106.
 
 En vías federales de acceso controlado se prohíbe la entrada y salida de vehículos por lugares que no sean los expresamente señalados para esos efectos.
 
-La omisión al cumplimiento de lo previsto en el primer párrafo de este artículo se sancionará con multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La omisión al cumplimiento de lo previsto en el párrafo primero de este artículo se sancionará con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 107.
 
 Los conductores que decidan utilizar las vías federales de acceso controlado deberán cubrir el pago correspondiente en las casetas instaladas para el efecto.
 
-La contravención de lo antes dispuesto se sancionará con multa de 50 a 60 veces la cuota diaria que establece este Reglamento; adicionalmente se le requerirá el pago inmediato del peaje eludido en la caseta correspondiente.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La contravención de lo antes dispuesto se sancionará con multa de 25 a 30 veces la cuota diaria que establece este Reglamento; adicionalmente se le requerirá el pago inmediato del peaje eludido en la caseta correspondiente.
 
 ###### Artículo 108.
 
 Solamente cuando la vía federal cuente con acotamiento, se permitirá dar marcha atrás sobre éste hasta por una distancia de 50 metros y el movimiento pueda hacerse con seguridad y sin interferir el tránsito. Se prohíbe dar marcha atrás en intersecciones, curvas o pendientes.
 
-Por la violación de este artículo se impondrá sanción pecuniaria de 30 a 40 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 15 a 18 veces la cuota diaria que establece este Reglamento.
 
 #### SECCIÓN SEGUNDA. DE LOS CARRILES DE TRÁNSITO Y DEL CAMBIO DE DIRECCIÓN
 
@@ -1915,7 +2085,9 @@ IV. La vía federal esté dividida en tres carriles atendiendo a lo previsto en 
 
 V. La vía federal sea para el tránsito en un solo sentido.
 
-La circulación fuera del carril derecho de la vía federal que no esté en caso de excepción, se sancionará con multa de 30 a 40 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La circulación fuera del carril derecho de la vía federal que no esté en caso de excepción, se sancionará con multa de 15 a 18 veces la cuota diaria que establece este Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -1923,7 +2095,9 @@ La circulación fuera del carril derecho de la vía federal que no esté en caso
 
 En una carretera de cuatro o más carriles con circulación en ambos sentidos, el vehículo no deberá ser conducido por el lado izquierdo del eje de la vía federal.
 
-La violación de este artículo se sancionará con multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 111.
 
@@ -1933,19 +2107,25 @@ I. Adelantar a otro vehículo, y
 
 II. Dar vuelta a la izquierda.
 
-La violación de este artículo se sancionará con multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 112.
 
 Para transitar alrededor de una glorieta, los vehículos serán conducidos dejando a la izquierda el centro de la misma.
 
-La violación de lo antes dispuesto se sancionará con multa de 20 a 30 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de lo antes dispuesto se sancionará con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 113.
 
 En una vía federal dividida, ningún vehículo transitará o cruzará por el espacio divisorio ni se estacionará en éste.
 
-La violación de este artículo se sancionará con multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 114.
 
@@ -1955,7 +2135,9 @@ I. A la derecha, mediante la colocación de su brazo izquierdo en el exterior de
 
 II. A la izquierda, mediante la colocación de su brazo izquierdo en el exterior del vehículo extendido horizontalmente.
 
-El infractor de la obligación que este artículo establece será multado con 20 a 25 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La persona infractora de la obligación que este artículo establece será sancionada con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 115.
 
@@ -1977,13 +2159,17 @@ d) En una vía federal de doble sentido para ir a una de uno solo, la aproximaci
 
 e) Cuando la vuelta a la izquierda sea permisible el conductor deberá dejar a la derecha el centro de la intersección.
 
-La infracción de este artículo se sancionará con multa de 20 a 25 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La infracción de este artículo se sancionará con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 116.
 
 Ningún conductor deberá dar vuelta en "U" para colocarse en sentido opuesto en o cerca de una curva o de una cima que impida que su vehículo pueda ser visto por el conductor que se aproxime en sentido opuesto, desde una distancia de seguridad conforme a la velocidad máxima permitida en la carretera.
 
-La infracción de este artículo será motivo de multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La infracción de este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 #### SECCIÓN TERCERA. DE LA CESIÓN DEL PASO
 
@@ -2001,49 +2187,65 @@ II. Ambulancias, y
 
 III. Cualquier institución de seguridad pública de jurisdicción federal o local.
 
-La omisión de ceder el paso a los vehículos anteriores en situaciones de emergencia, se sancionará con multa de 50 a 60 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La omisión de ceder el paso a los vehículos anteriores en situaciones de emergencia, se sancionará con multa de 25 a 30 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 119.
 
 Queda estrictamente prohibido a los conductores seguir a los vehículos de emergencia, cuando lleven encendidas sus señales luminosas y audibles.
 
-La violación de este artículo se sancionará con multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 120.
 
 El conductor deberá extremar sus precauciones y reducirá la velocidad del vehículo al tener contacto visual con vehículos de emergencia que se encuentren sobre la superficie de rodamiento en cumplimiento de sus funciones. Una vez que el vehículo de emergencia se adelante, el conductor podrá retomar la velocidad autorizada en dicha vía federal.
 
-La violación de este artículo se sancionará con multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 121.
 
 Queda estrictamente prohibido a los conductores detener o estacionar sus vehículos a una distancia menor de 150 metros del lugar en donde se encuentren en operación el personal, los vehículos y los equipos de emergencia.
 
-La violación de este artículo se sancionará con multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 122.
 
 Ningún vehículo deberá pasar sobre una manguera contra incendio desprotegida sin el consentimiento del personal de bomberos.
 
-Ante el incumplimiento de lo dispuesto por este artículo, se aplicará sanción de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 123.
 
 En intersecciones o zonas marcadas de cruce de peatones desprovistos de semáforos y de agentes que regulen la circulación, los conductores cederán el paso a los peatones que se encuentren sobre la parte de la superficie de rodamiento correspondiente al sentido de circulación del vehículo. En vías federales de doble circulación en las que no haya refugio central para peatones, también deberán ceder el paso a los que se aproximen provenientes de la parte de la superficie de rodamiento del sentido opuesto.
 
-La violación de este artículo se sancionará con multa de 20 a 25 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 124.
 
 El conductor de un vehículo que se acerque a una intersección que carezca de dispositivos para el control de tránsito, cederá el paso a todo vehículo que ya se encuentre dentro de dicha intersección.
 
-La violación de este artículo se sancionará con multa de 20 a 25 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 125.
 
 Cuando varios vehículos que procedan de vías diferentes se acerquen simultáneamente a una intersección que carezca de dispositivos para el control de tránsito, deberán hacer alto y cruzará primero el que transite por la derecha del otro, para que los demás procedan a hacerlo uno por uno.
 
-La violación de este artículo se sancionará con multa de 15 a 20 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 7 a 10 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 126.
 
@@ -2053,7 +2255,9 @@ I. La vía federal en que circule sea de mayor amplitud que la otra o tenga mayo
 
 II. La vía federal de la derecha se encuentre sin pavimentar.
 
-La violación de este artículo se sancionará con multa de 30 a 40 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 15 a 18 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 127.
 
@@ -2069,7 +2273,9 @@ IV. Obedecer las señales de los semáforos y detener su vehículo en la línea 
 
 V. Reconocer en las glorietas la preferencia de paso de los vehículos que ya se hallen dentro de la vía federal circular.
 
-La violación de las regulaciones de este artículo se sancionará con multa de 15 a 20 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 7 a 10 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 128.
 
@@ -2077,13 +2283,17 @@ Los vehículos que se desplazan sobre rieles tienen preferencia de paso respecto
 
 En este caso y con motivo de la seguridad del tránsito, las empresas ferroviarias implementarán las medidas de seguridad que se requieran en cada intersección y que establezcan las normas aplicables.
 
-El no ceder el paso que otorga este artículo, se sancionará con multa de 30 a 40 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El no ceder el paso que otorga este artículo, se sancionará con multa de 15 a 18 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 129.
 
 Los conductores que tengan que entrar o salir de una cochera, estacionamiento, centro comercial, área de servicios o calle privada, deberán ceder el paso a peatones y vehículos.
 
-La violación de este artículo se sancionará con multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 #### SECCIÓN CUARTA. DE LA REDUCCIÓN DE VELOCIDAD
 
@@ -2093,7 +2303,9 @@ Ningún conductor podrá reducir intempestivamente la velocidad de su vehículo 
 
 Cuando fallen las luces de freno o se quiera reiterar la maniobra, el conductor avisará su iniciación a través de la colocación de su brazo izquierdo extendido hacia abajo en el exterior del vehículo.
 
-La trasgresión de lo dispuesto en este artículo se sancionará con multa de 20 a 25 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 #### SECCIÓN QUINTA. DEL EMPLEO DE LAS LUCES
 
@@ -2131,17 +2343,19 @@ X. Cuando un vehículo remolque a otro, no habrá necesidad de que lleven encend
 
 XI. Queda prohibido en vehículos particulares, la instalación, uso y operación de luces destellantes y demás aditamentos, similares o parecidos a los utilizados por vehículos de seguridad y emergencia.
 
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 132.
 
-Las infracciones a las disposiciones del artículo que antecede, serán sancionadas mediante multa que se imponga con base en la cuota diaria establecida por este Reglamento:
+Las infracciones a las disposiciones establecidas en el artículo 131 de este ordenamiento serán sancionadas mediante multa que se imponga con base en la cuota diaria que establece este Reglamento, conforme a lo siguiente:
 
-I. 10 a 15 veces, por la inobservancia de las fracciones VII y VIII;
+I. 5 a 8 veces, por la inobservancia de las fracciones VII y VIII;
 
-II. 20 a 25 veces, por la contravención a las fracciones I, II, III, IV, VI y IX;
+II. 10 a 13 veces, por la contravención a las fracciones I, II, III, IV, VI y IX;
 
-III. 40 a 50 veces, por la contravención a la fracción XI, y
+III. 20 a 23 veces, por la contravención a la fracción XI, y
 
-IV. 60 a 80 veces, por las violaciones en que incurran los conductores de autobuses y camiones destinados al servicio de autotransporte federal, sus servicios auxiliares y de transporte privado.
+IV. 30 a 35 veces, por las violaciones en que incurran los conductores de autobuses y camiones destinados al servicio de autotransporte federal, sus servicios auxiliares y de transporte privado.
 
 ###### Artículo 133.
 
@@ -2199,7 +2413,9 @@ Tabla. 50 50 Carretera Urbana
 
 No obstante los límites de velocidad genéricos señalados por el artículo anterior o los específicos que fijen los dispositivos para el control del tránsito para determinados tramos de la vía federal, los conductores limitarán su velocidad, tomando en cuenta las condiciones de tránsito, las de la vía federal y las del vehículo, así como las climatológicas que afecten la visibilidad y la adherencia a la superficie de rodamiento.
 
-La violación al presente artículo se sancionará con multa de 30 a 40 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación al presente artículo se sancionará con multa de 15 a 18 veces la cuota diaria que establece este Reglamento
 
 ###### Artículo 136.
 
@@ -2207,57 +2423,95 @@ Aquellos conductores que rebasen los límites de velocidad que establece el art�
 
 I. Cuando se trate de autobuses:
 
-a) Si el exceso de velocidad es inferior a 20 km/h, 80 a 100 veces la cuota diaria que establece este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) Si el exceso de velocidad es de 20 km/h o mayor, 100 a 120 veces la cuota diaria que establece este Reglamento;
+a) Si el exceso de velocidad es inferior a 20 km/h, 40 a 45 veces la cuota diaria que establece este Reglamento, y
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+b) Si el exceso de velocidad es de 20 km/h o mayor, 50 a 55 veces la cuota diaria que establece este Reglamento;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 II. Cuando se trate de camiones unitarios ligeros y pesados y camión remolque:
 
-a) Si el exceso es de hasta 20 km/h, 60 a 70 veces la cuota diaria que establece este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) Si el exceso es mayor a 20 km/h, 80 a 100 veces la cuota diaria que establece este Reglamento;
+a) Si el exceso es de hasta 20 km/h, 30 a 35 veces la cuota diaria que establece este Reglamento, y
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+b) Si el exceso es mayor a 20 km/h, 40 a 45 veces la cuota diaria que establece este Reglamento;
 
 III. Automóviles, vagonetas y motocicletas sin remolque:
 
-a) Si el exceso es de hasta 20 km/h, 50 a 60 veces la cuota diaria que establece este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) Si el exceso es mayor a 20 km/h, 60 a 70 veces la cuota diaria que establece este Reglamento;
+a) Si el exceso es de hasta 20 km/h, 25 a 30 veces la cuota diaria que establece este Reglamento, y
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+b) Si el exceso es mayor a 20 km/h, 30 a 35 veces la cuota diaria que establece este Reglamento;
 
 IV. Automóviles, vagonetas y motocicletas con remolque:
 
-a) Si el exceso es de hasta 20 km/h, 60 a 70 veces la cuota diaria que establece este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) Si el exceso es mayor a 20 km/h, 70 a 80 veces la cuota diaria que establece este Reglamento.
+a) Si el exceso es de hasta 20 km/h, 30 a 35 veces la cuota diaria que establece este Reglamento, y
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+b) Si el exceso es mayor a 20 km/h, 35 a 40 veces la cuota diaria que establece este Reglamento.
 
 V. Cuando se trate de tractocamión articulado:
 
-a) Si el exceso es de hasta 20 km/h, 60 a 70 veces la cuota diaria que establece este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) Si el exceso es mayor a 20 km/h, 80 a 100 veces la cuota diaria que establece este Reglamento.
+a) Si el exceso es de hasta 20 km/h, 30 a 35 veces la cuota diaria que establece este Reglamento, y
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+b) Si el exceso es mayor a 20 km/h, 40 a 45 veces la cuota diaria que establece este Reglamento.
 
 VI. Cuando se trate de tractocamión doblemente articulado:
 
-a) Si el exceso es de hasta 20 km/h, 60 a 70 veces la cuota diaria que establece este Reglamento, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-b) Si el exceso es mayor a 20 km/h, 80 a 100 veces la cuota diaria que establece este Reglamento.
+a) Si el exceso es de hasta 20 km/h, 30 a 35 veces la cuota diaria que establece este Reglamento, y
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+b) Si el exceso es mayor a 20 km/h, 40 a 45 veces la cuota diaria que establece este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+###### Artículo 136 Bis.
+
+En caso de las infracciones a que se refiere el artículo 136 de este Reglamento por rebasar los límites de velocidad, podrán ser impuestas mediante la detección de dispositivos electrónicos.
 
 ###### Artículo 137.
 
 Los conductores que operen sus vehículos a una velocidad tan baja que entorpezca el tránsito de la vía federal y que lo hagan cuando no existan razones de seguridad para vehículos o peatones o cualquier otra causa justificada para ello, serán sancionados con:
 
-I. Multa de 10 a 15 veces la cuota diaria que establece este Reglamento, cuando se trate de automóviles;
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-II. Multa de 30 a 40 veces la cuota diaria que establece este Reglamento, cuando se trate de autobuses, y
+I. Multa de 5 a 8 veces la cuota diaria que establece este Reglamento, cuando se trate de automóviles;
 
-III. Multa de 20 a 30 veces la cuota diaria que establece este Reglamento, cuando se trate de camiones, camiones remolque, tractocamiones, tractocamiones articulados y doblemente articulados.
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+II. Multa de 15 a 18 veces la cuota diaria que establece este Reglamento, cuando se trate de autobuses, y
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+III. Multa de 10 a 13 veces la cuota diaria que establece este Reglamento, cuando se trate de camiones, camiones remolque, tractocamiones, tractocamiones articulados y doblemente articulados.
 
 ###### Artículo 138.
 
 Queda prohibido a los conductores entablar competencias de velocidad o de aceleración en las vías federales.
 
-A los conductores de automóviles que violen lo previsto en el primer párrafo de este artículo se les aplicará sanción de 50 a 75 veces la cuota diaria que establece este Reglamento. El importe de la multa será duplicado cuando se trate de conductores de autobuses, de camiones, camiones remolque, tractocamiones, tractocamiones articulados y doblemente articulados.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+A los conductores de automóviles que violen lo previsto en el párrafo primero de este artículo serán sancionados con multa de 25 a 30 veces la cuota diaria que establece este Reglamento. El importe de la multa será el doble cuando se trate de conductores de autobuses, de camiones, camiones remolque, tractocamiones, tractocamiones articulados y doblemente articulados.
 
 ###### Artículo 139.
 
@@ -2267,7 +2521,9 @@ Cuando un vehículo sea conducido a una velocidad más lenta que la velocidad pr
 
 En pendiente descendente, la velocidad del vehículo se deberá controlar mediante el motor; razón por la que se prohíbe transitar con la caja de velocidad en punto neutral o con el pedal de embrague oprimido.
 
-La infracción al presente artículo se sancionará con multa de 15 a 20 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La infracción al presente artículo se sancionará con multa de 7 a 10 veces la cuota diaria que establece este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -2299,7 +2555,9 @@ VII. En general, cuidar el orden y la seguridad pública.
 
 Queda prohibido adelantar a cualquier vehículo que se haya detenido frente a una zona de cruce de peatones para permitir adecuadamente el cruce de la vía federal.
 
-El incumplimiento de la restricción establecida se castiga con multa de 20 a 25 veces la cuota diaria establecida en este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 144.
 
@@ -2307,7 +2565,9 @@ El adelantamiento de una hilera de vehículos mediante el uso de un carril del s
 
 Se entenderá por hilera de vehículos cuando transiten en línea sobre un carril de un sólo sentido tres o más vehículos.
 
-El adelantamiento imprudente de una hilera de vehículos será sancionado con multa de 20 a 40 veces la cuota diaria establecida en este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El adelantamiento imprudente de una hilera de vehículos se sancionará con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 145.
 
@@ -2327,19 +2587,25 @@ III. Proceder a efectuar la maniobra por la izquierda a una distancia segura, un
 
 IV. Volver al carril de la derecha tan pronto como sea posible y sin obstruir la marcha del vehículo adelantado.
 
-La inobservancia de las reglas establecidas por este precepto será sancionada con multa de 15 a 20 veces la cuota diaria establecida por este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 7 a 10 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 146.
 
 El conductor de un vehículo que vaya a ser adelantado por la izquierda, tomará su extrema derecha en favor del vehículo que lo adelanta, ya sea por habérselo anunciado con señal audible, luz direccional o cambio de luces, y no aumentará la velocidad de su vehículo hasta que haya sido completamente adelantado.
 
-La inobservancia de lo antes dispuesto se sancionará con multa de 15 a 20 veces la cuota diaria establecida en este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 7 a 10 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 147.
 
 El conductor de un vehículo lento, de grandes dimensiones u obligado a respetar un límite de velocidad, reducirá su velocidad y se apartará de inmediato hacia la derecha de la vía federal para facilitar el paso de los vehículos que le sigan, cuando la densidad del tránsito en sentido contrario, la anchura insuficiente de la superficie de rodamiento, su perfil o su estado no permitan adelantarlo con facilidad y sin peligro.
 
-La inobservancia de lo antes dispuesto se sancionará con multa de 15 a 20 veces la cuota diaria establecida en este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 7 a 10 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 148.
 
@@ -2349,19 +2615,25 @@ I. El vehículo alcanzado esté a punto de dar vuelta a la izquierda, y
 
 II. La vía federal cuente con dos o más carriles en el mismo sentido.
 
-El conductor de un vehículo que adelante por la derecha a otro en forma distinta a los supuestos de las fracciones I y II del presente artículo se sancionará con multa de 15 a 20 veces la cuota diaria establecida en este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El conductor de un vehículo que adelante por la derecha a otro en forma distinta a los supuestos de las fracciones I y II del presente artículo se sancionará con multa de 7 a 10 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 149.
 
 Queda prohibido adelantar vehículos cuando existan rayas continuas separadoras del sentido o de carriles de circulación o por el acotamiento.
 
-El conductor que incurra en la infracción de este artículo, será sancionado con multa de 30 a 40 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El conductor que incurra en la infracción de este artículo será sancionado con multa de 15 a 18 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 150.
 
 Queda prohibido transitar en sentido contrario al de la circulación, así como sobre el acotamiento, banquetas, camellones y espacios divisorios, andadores, isletas, marcas de aproximación y carriles de contra flujo e invadir el carril contrario, así como las rayas longitudinales.
 
-La violación de este artículo se sancionará con multa de 30 a 40 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación de este artículo se sancionará con multa de 15 a 18 veces la cuota diaria que establece este Reglamento.
 
 #### SECCIÓN OCTAVA. DE LA PARADA Y DEL ESTACIONAMIENTO EN LAS VÍAS FEDERALES
 
@@ -2377,17 +2649,29 @@ III. Durante la noche las luces deberán quedarse encendidas, excepto cuando el 
 
 IV. Si el conductor se retira del vehículo, apagará el motor, retirará la llave de encendido, aplicará el freno de estacionamiento y cerrará las puertas con llave.
 
-Los vehículos que sean estacionados en lugares prohibidos y cuyos conductores no se encuentren dentro o cerca de éstos, serán retirados del lugar y trasladados al depósito de vehículos permisionado por la Secretaría de Comunicaciones y Transportes, para su guarda y custodia.
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+Los vehículos que sean estacionados en lugares prohibidos y cuyos conductores no se encuentren dentro o cerca de estos, serán sancionados con una multa de 30 a 35 veces la cuota diaria que establece este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+En caso de que los vehículos estacionados en lugares prohibidos afecten el tránsito y pongan en riesgo la seguridad vial, serán retirados del lugar y trasladados al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes, para su guarda y custodia.
 
 ###### Artículo 152.
 
 Las infracciones a las disposiciones del artículo 151 que antecede serán sancionadas mediante:
 
-I. Multa de 10 a 15 veces la cuota diaria establecida en el presente Reglamento, por contravención a la fracción I;
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-II. Multa de 15 a 25 veces la cuota diaria establecida en el presente Reglamento, por contravención a las fracciones II y IV, y
+I. Multa de 5 a 8 veces la cuota diaria que establece el presente Reglamento, por contravención a la fracción I;
 
-III. Multa de 20 a 25 veces la cuota diaria establecida en el presente Reglamento, por contravención a la fracción III y último párrafo.
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+II. Multa de 7 a 10 veces la cuota diaria que establece el presente Reglamento, por contravención a las fracciones II y IV, y
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+III. Multa de 10 a 13 veces la cuota diaria que establece el presente Reglamento, por contravención a la fracción III y párrafo último.
 
 ###### Artículo 153.
 
@@ -2395,7 +2679,9 @@ Los conductores de vehículos de transporte escolar estarán obligados a poner e
 
 Los conductores que alcancen vehículos de transporte escolar que estén detenidos, según lo avisen sus dispositivos luminosos especiales, detendrán su vehículo hasta en tanto dichos dispositivos dejen de funcionar y el transporte escolar reinicie su tránsito.
 
-La infracción de los casos dispuestos se sancionará con multa de 20 a 30 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de los supuestos previstos en este artículo se sancionará con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 154.
 
@@ -2413,7 +2699,9 @@ IV. Cuando el estacionamiento se haya hecho a menos de 150 metros de una curva, 
 
 De día deberán usarse las banderolas o su equivalente como dispositivos de emergencia, y de noche las lámparas, reflectantes, luces de bengala o antorchas. Tratándose de vehículos que transporten materiales y residuos peligrosos que reaccionan al fuego o son susceptibles de explotar o inflamarse, o de vehículos que utilizan como combustible gas comprimido, no deberán usar las referidas luces de bengala o antorchas.
 
-La falta de aviso de peligro prevista por este artículo, será sancionada con multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La falta de aviso de peligro prevista por este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 155.
 
@@ -2465,21 +2753,29 @@ XI. A menos de 150 metros de una curva o cima.
 
 Las infracciones a las disposiciones del artículo anterior serán sancionadas mediante:
 
-I. Multa de 10 a 15 veces la cuota diaria establecida en el presente Reglamento, por contravención a las fracciones I a VII y X, y
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-II. Multa de 20 a 25 veces la cuota diaria establecida en el presente Reglamento, por contravención a las fracciones VIII, IX y XI.
+I. Multa de 5 a 8 veces la cuota diaria que establece el presente Reglamento, por contravención a las fracciones I a VII y X, y
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+II. Multa de 10 a 13 veces la cuota diaria que establece el presente Reglamento, por contravención a las fracciones VIII, IX y XI.
 
 ###### Artículo 157.
 
 Está prohibido remolcar vehículos si no se cuenta con el equipo especial para ello, que permita circular en condiciones de seguridad.
 
-La violación de la restricción que este artículo dispone se multará con 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 158.
 
 Queda prohibido empujar un vehículo con la defensa o interponiendo un objeto entre ellos, salvo que éste presente un obstáculo o riesgo inminente en la vía federal, caso en el cual se le trasladará al lugar seguro más inmediato.
 
-La violación de la restricción que este artículo dispone se multará con 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 159.
 
@@ -2487,7 +2783,9 @@ Ninguna persona podrá abrir las portezuelas de un vehículo por el lado de la c
 
 Queda prohibido a los demás ocupantes del vehículo abrir las portezuelas o dejarlas abiertas, sin cerciorarse antes de que no existe peligro para él u otros usuarios de la vía federal.
 
-El conductor deberá instruir a los ocupantes del vehículo en cuanto al sentido de este artículo y él mismo será el responsable de las infracciones que se cometan, mismas que se sancionarán con multa de 30 a 40 veces la cuota diaria establecida en este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El conductor deberá instruir a los ocupantes del vehículo en cuanto al contenido de este artículo y él mismo será el responsable de las infracciones que se cometan, las cuales se sancionarán con multa de 15 a 18 veces la cuota diaria que establece este Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -2495,13 +2793,17 @@ El conductor deberá instruir a los ocupantes del vehículo en cuanto al sentido
 
 Para el ascenso o descenso de pasajeros, los conductores deberán detener sus vehículos a la orilla de la vía federal y utilizar las paradas establecidas, de tal manera que los pasajeros no tengan que pisar la superficie de rodamiento.
 
-La violación a lo dispuesto por este artículo se sancionará con multa de 40 a 50 veces la cuota diaria establecida por este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La violación a lo dispuesto por este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 161.
 
 Al aproximarse a un cruce de ferrocarril, todo conductor deberá hacerlo a velocidad moderada debiendo hacer alto antes de cruzar la vía férrea a fin de cerciorarse de que no se aproxima ningún vehículo que circule sobre los rieles.
 
-El cruce de la vía férrea sin atender lo dispuesto por este artículo, se sancionará con multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El cruce de la vía férrea sin atender lo dispuesto por este artículo, se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 162.
 
@@ -2517,7 +2819,9 @@ IV. Obstrucciones que impidan ver si se aproxima un tren, y
 
 V. Haya una señal de ALTO.
 
-La inobservancia del presente artículo se sancionará con multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La inobservancia del presente artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 163.
 
@@ -2525,13 +2829,17 @@ Queda estrictamente prohibido a los conductores franquear una barrera de cruce d
 
 Los vehículos deberán reanudar su marcha una vez que la vía federal quede libre, prosiguiéndola sin hacer cambio de velocidades al cruzar los rieles.
 
-Por la inobservancia de lo dispuesto en este artículo, se aplicará multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+Por la inobservancia de lo dispuesto en este artículo, se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 164.
 
 Ningún conductor deberá demorarse innecesariamente al cruzar una vía férrea. En caso de inmovilización forzosa de un vehículo sobre los rieles, su conductor deberá esforzarse por colocarlo fuera de ellos y, si no lo consigue, deberá adoptar inmediatamente todas las medidas a su alcance para que los maquinistas de los vehículos que circulen sobre rieles, sean advertidos de la existencia del peligro con la suficiente antelación.
 
-La falta del cumplimiento de lo arriba dispuesto, será sancionada con multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 20 a 23 veces la cuota diaria que establece este Reglamento.
 
 #### SECCIÓN NOVENA. DE LAS EXCEPCIONES AL TRÁNSITO DE VEHÍCULOS DE EMERGENCIA
 
@@ -2561,7 +2869,9 @@ Las excepciones que se conceden a los conductores de vehículos de emergencia re
 
 Queda prohibido a los conductores de los vehículos de emergencia hacer uso de señales luminosas o audibles especiales cuando no viajen en tales situaciones.
 
-La contravención de lo anterior será sancionada mediante multa de 50 a 60 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 25 a 30 veces la cuota diaria que establece este Reglamento.
 
 ### CAPÍTULO III. DE LA CONDUCCIÓN DE BICICLETAS Y TRICICLOS Y DE MOTOCICLETAS, TRIMOTOS Y CUATRIMOTOS
 
@@ -2613,19 +2923,25 @@ Las violaciones a lo dispuesto en el artículo que antecede, serán sancionadas 
 
 I. Amonestación verbal, tratándose de la fracción I, y
 
-II. Multa de 50 a 60 veces la cuota diaria establecida por el presente Reglamento, tratándose de la fracción II.
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+II. Multa de 25 a 30 veces la cuota diaria que establece el presente Reglamento, tratándose de la fracción II.
 
 ###### Artículo 170.
 
 Los conductores de vehículos de motor de cuatro o más llantas deberán respetar el derecho que tienen los vehículos de dos o tres llantas para usar un carril de circulación.
 
-La falta de respeto a la circulación establecida por este artículo, será sancionada con multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La falta de respeto a la circulación establecida por este artículo, se sancionará con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 171.
 
 Las bicicletas y las motocicletas no podrán ser conducidas entre los carriles de tránsito o entre hileras adyacentes de vehículos.
 
-La infracción de la restricción establecida motivará la amonestación escrita a los conductores de bicicletas y la aplicación de multa de 10 a 15 veces la cuota diaria que establece este Reglamento a los de motocicletas.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con amonestación escrita a los conductores de bicicletas y multa de 5 a 8 veces la cuota diaria que establece este Reglamento a los de motocicletas.
 
 ###### Artículo 172.
 
@@ -2643,13 +2959,17 @@ La infracción de la restricción establecida se sancionará con amonestación v
 
 El conductor de una motocicleta está autorizado para el uso total de un carril de circulación, aunque el mismo pueda ser compartido con otro vehículo de igual naturaleza. Los demás conductores no deberán transitar en forma tal que priven al conductor o conductores de las motocicletas de alguna parte de su carril para circular.
 
-La infracción de la restricción establecida se sancionará con multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 ###### Artículo 175.
 
 El conductor de una motocicleta no deberá rebasar por el mismo carril a otro vehículo de cuatro o más llantas.
 
-La infracción de la restricción establecida se sancionará con multa de 10 a 15 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+El incumplimiento de este artículo se sancionará con multa de 5 a 8 veces la cuota diaria que establece este Reglamento.
 
 ### CAPÍTULO IV. DE LOS PEATONES
 
@@ -2715,7 +3035,9 @@ El incumplimiento de este artículo será sancionado mediante amonestación escr
 
 El conductor de cualquier vehículo implicado en un hecho de tránsito en el que resulten personas muertas o lesionadas, o bien se causen daños materiales a otros vehículos o propiedades, deberá detenerse inmediatamente en el lugar del evento si las circunstancias lo permiten o lo más cerca posible, y permanecer en dicho sitio hasta que la autoridad competente tome el conocimiento que corresponda, salvo en los casos a que se refiere el artículo 184 de este Reglamento.
 
-La infracción al párrafo que antecede se sancionará con multa de 50 a 60 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+La infracción al párrafo anterior se sancionará con multa de 25 a 30 veces la cuota diaria que establece este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -2735,7 +3057,9 @@ Los conductores de los demás vehículos que pasen por el lugar del hecho estar�
 
 La misma obligación se impone a toda persona que llegue al lugar del evento, sea pasajero o peatón.
 
-La infracción a que se refiere este artículo en los párrafos primero y segundo, se sancionará con multa de 50 a 60 veces la cuota diaria que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+Las infracciones a que se refieren los párrafos primero y segundo de este artículo, se sancionarán con multa de 25 a 30 veces la cuota diaria que establece este Reglamento.
 
 La infracción a que se refiere este artículo en los párrafos tercero y cuarto, se sancionará con amonestación verbal.
 
@@ -2765,13 +3089,13 @@ II. Cuando alguno de los conductores se encuentre en estado de ebriedad o bajo e
 
 III. Cuando por virtud del hecho de tránsito se causen daños a personas físicas, a las vías federales u a otros bienes propiedad de la Nación.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 187.
 
-Cuando no proceda la celebración del Acta-Convenio o los conductores involucrados no se pongan de acuerdo respecto de la responsabilidad en que hayan incurrido, la persona integrante de la Guardia Nacional que tome conocimiento del hecho de tránsito los remitirá de inmediato ante la instancia correspondiente y elaborará el dictamen técnico a que haya lugar.
+Cuando no proceda la celebración de Acta-Convenio o los conductores involucrados no se pongan de acuerdo respecto de la responsabilidad en que hayan incurrido, la persona integrante de la Guardia Nacional que tome conocimiento del hecho de tránsito los remitirá de inmediato ante la instancia correspondiente y elaborará el dictamen técnico a que haya lugar.
 
-Asimismo, los vehículos involucrados serán remitidos a los depósitos de vehículos permisionados por la Secretaría de Infraestructura, Comunicaciones y Transportes.
+Asimismo, los vehículos involucrados serán puestos a disposición de la autoridad competente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -2875,9 +3199,11 @@ La amonestación escrita es el acto por el cual la persona integrante de la Guar
 
 La amonestación escrita se expedirá a través del formato establecido para ese efecto y autorizado por la Secretaría, en el que se hará notar objetivamente al infractor la conducta que contravino las disposiciones de este Reglamento, de los dispositivos para el control del tránsito o de las órdenes de las personas integrantes de la Guardia Nacional, así como las consecuencias que esta pudo haber causado.
 
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 198.
 
-Los usuarios de las vías federales que reincidan en conductas sancionables mediante amonestación escrita, recibirán multa de 20 a 25 veces la cuota diaria que establece este Reglamento.
+Las personas usuarias de las vías federales que reincidan en conductas sancionables mediante amonestación escrita, recibirán multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -2885,17 +3211,15 @@ Los usuarios de las vías federales que reincidan en conductas sancionables medi
 
 La multa o sanción pecuniaria que se imponga a los infractores de las disposiciones de este Reglamento, de los dispositivos para el control del tránsito o de las órdenes de las personas integrantes de la Guardia Nacional, será cuantificada tomando como base la cuota diaria.
 
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 200.
 
-La cuantificación de las sanciones pecuniarias, se hará tomando como límites de referencia el mínimo y el máximo de su monto y atenderá a los criterios que se establecen en la Ley Federal de Procedimiento Administrativo.
+La cuantificación de las multas se hará tomando como límites de referencia el mínimo y el máximo de su monto y atenderá a los criterios que se establecen en la Ley Federal de Procedimiento Administrativo.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+El monto de la multa se aplicará en un mínimo a las personas infractoras que reconozcan expresamente en la boleta respectiva, la falta en que hayan incurrido. En estos casos, el monto de la multa se reducirá en un 25 por ciento.
 
-El monto de la multa se aplicará en un mínimo a los infractores que reconozcan expresamente en la boleta de infracción respectiva, la falta en que hayan incurrido. En estos casos, el monto de la multa se reducirá en un 25 por ciento.
-
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
-
-El infractor gozará de un beneficio de reducción de un 25 por ciento adicional en el monto de la multa, cuando esta sea cubierta dentro de los quince días hábiles siguientes a que fue impuesta.
+Cuando el pago se efectúe dentro de los quince días hábiles posteriores a la imposición de la multa, esta se reducirá en un 25 por ciento adicional al beneficio señalado en el párrafo anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -3025,6 +3349,16 @@ XII. Nombre, grado, número de expediente, adscripción y firma de la persona in
 
 La falta de firma del infractor en los términos de las fracciones X y XI, no invalidará la sanción impuesta por lo que será eficaz y exigible. En este caso, la persona integrante de la Guardia Nacional hará constar la razón en la boleta de infracción respectiva.
 
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+###### Artículo 205 Bis.
+
+Las infracciones que se impongan por el incumplimiento a las disposiciones del presente Reglamento se harán constar en la boleta de infracción de acuerdo con lo establecido en el artículo 205 de este Reglamento. Asimismo, las infracciones serán dadas a conocer a través del sitio oficial de internet de la Guardia Nacional, en los términos previstos en el presente artículo.
+
+La Guardia Nacional deberá habilitar un sitio oficial de internet para la consulta de las infracciones, en el que se deberá indicar el número de la boleta de infracción, el concepto de la infracción conforme a las disposiciones jurídicas aplicables, el número de placa de identificación del vehículo y el estado que guarda el pago de la multa.
+
+El personal de la Guardia Nacional contará con un plazo de 72 horas, contado a partir de la imposición de la infracción, para incorporar la información correspondiente al sitio oficial de internet.
+
 ###### Artículo 206.
 
 Si la sanción pecuniaria no es cubierta dentro del plazo de treinta días hábiles concedido para su pago, se formulará la liquidación y se turnará a la autoridad fiscal competente para la ejecución de los actos relativos a su cobro y, en su caso, de la garantía otorgada.
@@ -3055,11 +3389,11 @@ II. Flagrancia en la comisión de algún delito, y
 
 III. Ejecución de alguna orden de detención o presentación del conductor o de alguno de sus acompañantes o pasajeros, en cumplimiento de una orden del Ministerio Público competente.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 210.
 
-Cuando los vehículos deban ser retenidos por las personas integrantes de la Guardia Nacional por estar involucrados en alguno de los supuestos a que se refiere el artículo anterior, serán remitidos a los depósitos de vehículos permisionados por la Secretaría de Infraestructura, Comunicaciones y Transportes, para su guarda y custodia.
+Cuando los vehículos deban ser retenidos por las personas integrantes de la Guardia Nacional por estar involucrados en alguno de los supuestos a que se refiere el artículo 209 de este Reglamento, serán puestos a disposición de la autoridad competente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -3103,29 +3437,49 @@ La Secretaría, a través de la Guardia Nacional, podrá celebrar convenios con 
 
 Las sanciones que se impongan con base en este Reglamento, podrán ser impugnadas en términos de la Ley Federal de Procedimiento Administrativo. Esta circunstancia será hecha formalmente del conocimiento del infractor al momento en que se imponga la sanción respectiva.
 
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 215.
 
-Cualquier infracción a las disposiciones del presente Reglamento cuya sanción no esté expresamente prevista dentro del mismo, será sancionada con multa de 20 a 30 veces la cuota diaria que establece este Reglamento.
+Cualquier infracción a las disposiciones del presente Reglamento cuya sanción no esté expresamente prevista en este, se sancionará con multa de 10 a 13 veces la cuota diaria que establece este Reglamento.
 
 ### CAPÍTULO II. DEL RETIRO DE LA CIRCULACIÓN
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 216.
 
-Se entenderá por retiro de la circulación el acto mediante el cual las personas integrantes de la Guardia Nacional suspenden el tránsito de los vehículos y realizan su remisión a los depósitos de vehículos permisionados por la Secretaría de Infraestructura, Comunicaciones y Transportes en el respectivo tramo carretero, de conformidad con los supuestos previstos en el artículo 74 Ter de la Ley.
+Se entenderá por retiro de la circulación el acto mediante el cual las personas integrantes de la Guardia Nacional suspenden el tránsito de los vehículos y remiten a la autoridad competente, o en su caso, realizan su remisión a los depósitos de vehículos permisionados por la Secretaría de Infraestructura, Comunicaciones y Transportes en el respectivo tramo carretero.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+###### Artículo 216 Bis.
+
+En los casos en que los vehículos sean retirados de la circulación o puestos a disposición de la autoridad competente y puedan circular por sus propios medios, serán conducidos por el propio conductor en compañía de las personas integrantes de la Guardia Nacional hasta el lugar que legalmente corresponda, con excepción de lo previsto en el artículo 93, párrafo quinto, de este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 217.
 
-Los vehículos que sean retirados de la circulación por las causas que establecen las fracciones I, II y V del artículo 74 Ter de la Ley, serán remitidos al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes y sólo serán liberados después de realizado el pago de las sanciones impuestas o de haberse otorgado garantía suficiente en términos del artículo 76 de la Ley y 204 de este Reglamento.
+Los vehículos que se encuentren en alguno de los supuestos previstos en las fracciones I, II y V del artículo 74 Ter de la Ley, serán sancionados con multa de 50 a 55 veces la cuota diaria que establece el presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+En caso de reincidencia, o cuando el conductor no demuestre contar con el documento que acredite la circulación del vehículo, este será remitido al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes, y sólo podrá ser liberado previo pago de las sanciones impuestas o una vez otorgada garantía suficiente, en términos de lo dispuesto por el artículo 76 de la Ley y 204 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+Para efectos del presente artículo, se considerará reincidencia, la comisión de una cuarta o subsecuente infracción de la misma naturaleza dentro de un periodo de seis meses, contados a partir de la fecha en que se cometió la primera infracción.
 
 Los vehículos respecto de los cuales el retiro de la circulación se fundamente en la fracción III del artículo 74 Ter de la Ley, serán puestos a disposición de la autoridad competente, en términos del artículo 89 de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-Aquellos vehículos retirados de la circulación por exceder las especificaciones de peso, dimensiones y capacidad máximas permitidas por las disposiciones aplicables y, por tanto, no cumplir con las condiciones mínimas de seguridad a que se refiere el artículo 74 Ter, fracción IV, de la Ley, deberán ser conducidos y remitidos al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes, en el respectivo tramo carretero, y únicamente podrán reincorporarse al tránsito hasta que hayan sido subsanadas las deficiencias detectadas.
+Aquellos vehículos que excedan las especificaciones de peso, dimensiones y capacidad máximas permitidas por las disposiciones aplicables y, por tanto, no cumplir con las condiciones mínimas de seguridad a que se refiere el artículo 74 Ter, fracción IV, de la Ley, deberán ser conducidos y remitidos al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes, en el respectivo tramo carretero, y únicamente podrán reincorporarse al tránsito hasta que hayan sido subsanadas las deficiencias detectadas. Adicionalmente se impondrá la multa correspondiente de acuerdo con lo establecido en el Reglamento Sobre el Peso, Dimensiones y Capacidad de los Vehículos de Autotransporte que Transitan en los Caminos y Puentes de Jurisdicción Federal.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+En caso de las infracciones a que se refieDE re el párrafo anterior, estas podrán ser impuestas mediante la detección de dispositivos electrónicos.
 
 El retiro de la circulación de los vehículos será independiente de las sanciones que hayan sido impuestas.
 
@@ -3151,19 +3505,21 @@ a) Cuando se trate del servicio de autotransporte federal de pasaje o turismo, e
 
 1. Se dispondrá que el pasaje abandone el vehículo para su trasbordo a otra unidad que lo conduzca a la terminal más cercana o que, de ser posible, lo aproxime a su destino final;
 
-Para efectos de lo dispuesto en el párrafo que antecede, se requerirá el apoyo de los demás permisionarios de autotransporte federal de pasaje o turismo;
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+Para efectos de lo dispuesto en el párrafo anterior, se requerirá, en su caso, el apoyo de los demás permisionarios de autotransporte federal de pasaje o turismo. Los gastos que se generen quedarán a cargo del permisionario infractor o de quien ostente la propiedad del vehículo;
 
-2. Concluidos los actos anteriores, el vehículo será conducido al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes que corresponda, acompañado por las personas integrantes de la Guardia Nacional, estas elaborarán el inventario de la unidad respectiva.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+2. Concluidos los actos anteriores, el vehículo será conducido por el propio conductor al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes que corresponda, acompañado por las personas integrantes de la Guardia Nacional, estas elaborarán el inventario de la unidad respectiva.
 
 La responsabilidad del permisionario cuyo vehículo sea retirado de la circulación, respecto de los recursos necesarios para el traslado final del pasaje trasbordado, se hará efectiva de conformidad con las disposiciones aplicables en materia de autotransporte federal, y
 
 b) Cuando se trate del servicio de autotransporte federal de carga general o especializada, así como de los servicios de arrastre o arrastre y salvamento:
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-1. El vehículo será conducido al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes que corresponda, siendo acompañado por las personas integrantes de la Guardia Nacional, estas elaborarán el inventario respectivo;
+1. El vehículo será conducido por el propio conductor al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes que corresponda, siendo acompañado por las personas integrantes de la Guardia Nacional, estas elaborarán el inventario respectivo;
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
@@ -3181,15 +3537,17 @@ I. Establecida la infracción del conductor y, en atención a las característic
 
 II. En caso de que de la documentación entregada a las personas integrantes de la Guardia Nacional se desprende la legal estancia del vehículo en el territorio nacional, procederán a requisitar la boleta de infracción.
 
-En caso contrario, además de requisitar la boleta de infracción, las personas integrantes de la Guardia Nacional dispondrán la remisión del vehículo al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes que corresponda en el tramo carretero respectivo, avisando a la autoridad aduanera competente, y quedando el vehículo a su disposición, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+En caso contrario, además de requisitar la boleta de infracción, las personas integrantes de la Guardia Nacional pondrán el vehículo a disposición de la autoridad competente.
 
-III. En caso de que los vehículos estén destinados al servicio de autotransporte federal de pasaje o turismo, las personas integrantes de la Guardia Nacional estarán a lo dispuesto en la fracción III del apartado A del presente artículo.
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+III. En caso de que los vehículos estén destinados al servicio de autotransporte federal de pasaje o turismo, las personas integrantes de la Guardia Nacional estarán a lo dispuesto en la fracción III del apartado A del presente artículo y el vehículo será puesto a disposición de la autoridad competente.
 
-C. Cuando el retiro de la circulación de los vehículos obedezca al caso previsto por la fracción IV del artículo 74 Ter de la Ley, estos serán remitidos a los depósitos de vehículos permisionados por la Secretaría de Infraestructura, Comunicaciones y Transportes, conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+C. Cuando obedezca al caso previsto por la fracción IV del artículo 74 Ter de la Ley, estos serán sancionados, conforme a lo siguiente:
 
 I. Para efectos de lo dispuesto en este apartado, se entenderá que los vehículos no cumplen con las condiciones mínimas de seguridad, en los casos en que el equipo de éstos falte, presente descomposturas, sea inoperante o tenga un funcionamiento deficiente, de conformidad con lo siguiente:
 
@@ -3263,31 +3621,35 @@ III. Verificada la falta de alguna de las condiciones mínimas de seguridad:
 
 a) Si el vehículo presta el servicio autotransporte (sic) federal de pasaje o turismo:
 
-1. Se seguirá en lo conducente el procedimiento establecido en el apartado A, fracción III, inciso a), de este artículo, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+1. Se seguirá en lo conducente el procedimiento establecido en el apartado A, fracción III, inciso a), de este artículo y el vehículo será retirado de la circulación a un lugar seguro donde no obstruya la circulación, y
 
-2. Será trasladado por su conductor al lugar más cercano para su reparación, acompañado, de ser posible, por las personas integrantes de la Guardia Nacional, una vez que el pasaje haya sido reubicado en las unidades que le permitan la continuación de su traslado.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+2. El vehículo será trasladado por su conductor al lugar más cercano para su reparación, acompañado, de ser posible, por las personas integrantes de la Guardia Nacional, una vez que el pasaje haya sido reubicado en las unidades que le permitan la continuación de su traslado;
 
 b) Si el vehículo presta el servicio de autotransporte federal de carga general o especializada, así como los servicios de arrastre y de arrastre y salvamento:
 
-1. Se seguirá en lo conducente el procedimiento establecido en el apartado A, fracción III, inciso b), y
+1. (DEROGADO, D.O.F. 13 DE AGOSTO DE 2026)
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
 
-2. Será trasladado por su conductor al lugar más cercano para su reparación, acompañado, de ser posible, por las personas integrantes de la Guardia Nacional.
+2. El vehículo será trasladado por su conductor al lugar más cercano para su reparación, acompañado, de ser posible, por las personas integrantes de la Guardia Nacional.
 
-c) Si el vehículo es de uso particular, se aplicará el punto dos del inciso precedente.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2026)</small>
+
+c) Si el vehículo es de uso particular, se aplicará el punto dos del inciso anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 IV. Se entenderá que los vehículos no cumplen con las condiciones mínimas de seguridad y serán remitidos a depósitos de vehículos permisionados por la Secretaría de Infraestructura, Comunicaciones y Transportes en el respectivo tramo carretero, cuando se encuentren en tránsito bajo las siguientes circunstancias:
 
-a) No estén provistos de placas metálicas de identificación vehicular, tarjeta de circulación y, en su caso, engomado vigente, conforme al artículo 85 de este Reglamento, y el conductor no porte su licencia de manejo vigente o el documento que la supla, conforme al artículo 81, fracción II, del mismo ordenamiento;
+a) (DEROGADO, D.O.F. 13 DE AGOSTO DE 2026)
 
 b) Excedan las especificaciones de peso, dimensiones y capacidad máximas permitidas en la correspondiente Norma Oficial Mexicana, y
 
-c) La carga sobresaliente exceda más de 0.50 metros o no porte los indicadores a que se refiere el artículo 36 de este Reglamento.
+c) (DEROGADO, D.O.F. 13 DE AGOSTO DE 2026)
 
 ###### Artículo 219.
 
@@ -3500,3 +3862,11 @@ SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor e imp
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 CUARTO.- A partir de la entrada en vigor del presente Decreto, se otorga un plazo de ciento ochenta días para que la Secretaría de la Defensa Nacional emita el acuerdo por el que se establecen los formatos de boleta de infracción, amonestación escrita, Acta-Convenio y dictamen técnico de hecho de tránsito.
+
+D.O.F. 13 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO EN CARRETERAS Y PUENTES DE JURISDICCIÓN FEDERAL”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de la Defensa Nacional, por lo que no se incrementará su presupuesto autorizado y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
