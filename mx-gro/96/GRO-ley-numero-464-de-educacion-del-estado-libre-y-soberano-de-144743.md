@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-464-de-educacion-del-estado-libre-y-soberano-de-1447
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-23"
-last_updated: "2026-06-16"
+last_updated: "2026-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2020.
 
@@ -536,6 +536,10 @@ La autoridad educativa estatal generará mecanismos para apoyar y promover la cr
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 2024)</small>
 
 Con la finalidad de mejorar la cohesión y la integración social, fortaleciendo la creatividad, la resolución de problemas, la intuición, el desarrollo de la memoria y las facultades analíticas, se promoverá como estrategia pedagógica integral al ajedrez.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2026)</small>
+
+Asimismo, la autoridad educativa estatal promoverá y garantizará la continuidad, difusión y aprovechamiento pedagógico del periódico-cartel "Así somos…", como instrumento de divulgación histórica, cultural y educativa que contribuya al fortalecimiento de la identidad guerrerense, la enseñanza de la historia regional, la valoración del patrimonio cultural del estado y el conocimiento de las tradiciones y expresiones culturales de las distintas regiones de Guerrero.
 
 ### Capítulo VIII. Educación inclusiva
 
@@ -1279,7 +1283,11 @@ XV. Emitir la Guía Operativa para la Organización y Funcionamiento de los Serv
 
 XVI. Presentar un informe anual sobre los principales aspectos de mejora continua de la educación que hayan sido implementados en el Estado, y
 
-XVII. Las demás que con tal carácter establezcan la Ley General, esta Ley y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2026)</small>
+
+XVII. Publicar y difundir de manera periódica, en medios impresos y electrónicos, el periódico-cartel educativo y cultural denominado "Así somos…", a través del Departamento de Extensión Educativa de la Subsecretaría de Educación Básica, garantizando su actualización, preservación, distribución y accesibilidad en las instituciones educativas del Estado, como herramienta de divulgación histórica, cultural y pedagógica para la comunidad educativa.
+
+XVIII. Las demás que con tal carácter establezcan la Ley General, esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 107.
 
@@ -2038,3 +2046,19 @@ SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado para su conocimie
 TERCERO. Las autoridades educativas estatal y municipal deberán emitir, en un plazo no mayor a 90 días naturales, los lineamientos específicos para dar cumplimiento a lo dispuesto en este Decreto.
 
 CUARTO. Las escuelas públicas y privadas contarán con un plazo máximo de 180 días naturales para adecuar sus cooperativas escolares y puntos de venta conforme a las nuevas disposiciones.
+
+P.O. 14 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 546 POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 43, Y SE ADICIONA AL ARTICULO 106 LA FRACCIÓN XVII, RECORRIÉNDOSE LA SUBSECUENTE EN SU ORDEN, DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. La Secretaría de Educación, hará en su oportunidad, la redistribución de los recursos humanos, materiales y financieros, que estime pertinentes y suficientes, para la implementación de esta reforma y se garantice la continuidad, actualización, publicación y difusión del periódico-cartel "Así somos…".
+
+TERCERO. La Secretaría de Educación, en un término de ciento veinte días naturales a la entrada en vigor del presente Decreto, expedirá el Manual de Organización correspondiente y realizará las adecuaciones necesarias a los reglamentos, lineamientos y demás disposiciones administrativas complementarias, quedando derogadas aquellas que se opongan al presente Decreto.
+
+CUARTO. La Secretaría de Educación Guerrero establecerá mecanismos de distribución del periódico-cartel "Así somos…" en las instituciones educativas del estado, así como en medios electrónicos institucionales, a fin de fortalecer su aprovechamiento pedagógico y su acceso por parte de la comunidad educativa.
+
+QUINTO. La implementación del presente Decreto deberá realizarse garantizando en todo momento los derechos laborales, administrativos y de seguridad social del personal adscrito al periódico-cartel “Así somos…”, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero, la legislación laboral aplicable y las disposiciones administrativas correspondientes, procurando la continuidad operativa y funcional del personal que actualmente desarrolla actividades vinculadas con el periódico-cartel “Así somos…”, evitando afectaciones derivadas de procesos de reorganización administrativa o adecuaciones normativas derivadas del presente Decreto.
+
+SEXTO. Publíquese en el portal electrónico del Poder Legislativo del Estado de Guerrero para efectos de máxima publicidad y transparencia.
