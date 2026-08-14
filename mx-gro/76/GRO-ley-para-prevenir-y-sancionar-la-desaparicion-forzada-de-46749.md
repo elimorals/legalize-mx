@@ -4,7 +4,7 @@ identifier: "GRO-ley-para-prevenir-y-sancionar-la-desaparicion-forzada-de-46749"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-14"
-last_updated: "2005-10-14"
+last_updated: "2026-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY PARA PREVENIR Y SANCIONAR LA DESAPARICION FORZADA DE PERSONAS EN EL ESTADO DE GUERRERO NUMERO 569
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR LA DESAPARICIÓN DE PERSONAS DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 14 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA PREVENIR Y SANCIONAR LA DESAPARICION FORZADA DE PERSONAS EN EL ESTADO DE GUERRERO NUMERO 569
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2026 (ABROGADA).
 
 Ley publicada en el Alcance I al Periódico Oficial del Estado de Guerrero, el viernes 14 de octubre de 2005.
 
@@ -280,3 +282,49 @@ El Secretario General de Gobierno.
 C. LIC. ARMANDO CHAVARRIA BARRERA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 562 PARA PREVENIR, INVESTIGAR Y SANCIONAR LA DESAPARICIÓN DE PERSONAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO"]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley para Prevenir y Sancionar la Desaparición Forzada de Personas en el Estado de Guerrero, número 569.
+
+TERCERO. En un plano no mayor de treinta días, contados a partir de la entrada en vigor de la presente Ley, el Ejecutivo Estatal iniciará el procedimiento señalado en el artículo 29 para el nombramiento de la persona Titular de la Comisión Estatal de Búsqueda.
+
+En tanto ocurre y se desahoga el procedimiento correspondiente, continuará en el cargo al servidor público en funciones a la fecha. Dicho servidor público podrá participar en el proceso de designación al que se refiere este artículo tercero transitorio.
+
+CUARTO. Dentro de los treinta días siguientes al inicio de sus funciones de la persona titular, la Comisión Estatal de Búsqueda emitirá los Lineamientos y Normas Reglamentarias señalados en la fracción VII del artículo 30 de la presente Ley.
+
+QUINTO. Los servidores públicos que integren la Fiscalía Especializada y la Comisión Estatal de Búsqueda de Personas, deberán estar certificados dentro del año posterior a la entrada en vigor de la presente Ley.
+
+SEXTO. En un plazo no mayor a los sesenta días de la entrada en vigor de la presente Ley, la persona titular del Ejecutivo Estatal, a través de la Secretaría General, designará a los integrantes del Consejo Estatal Ciudadano; y en un plazo de treinta días posteriores a su conformación, éste deberá emitir sus reglas de funcionamiento.
+
+SÉPTIMO. En un plazo no mayor a ciento veinte días, contado a partir de la entrada en vigor de la presente Ley, el Congreso del Estado aprobará las reformas que resulten necesarias a la legislación local, a efecto de armonizarla a las disposiciones establecidas en la presente Ley.
+
+OCTAVO. En tanto se crea el Centro Estatal de Identificación Humana, la persona titular del Ejecutivo Estatal y el Poder Legislativo del Estado, dotarán al Servicio Médico Forense de presupuesto adecuado para el correcto desempeño de sus funciones.
+
+NOVENO. Se deberán considerar las asignaciones presupuestales suficientes para garantizar la operatividad de la Fiscalía Especializada, Comisión Estatal de Búsqueda, Comisión Ejecutiva Estatal de Víctimas, Servicio Médico Forense, Servicios Periciales y demás instancias competentes en la investigación, búsqueda e identificación de personas.
+
+DÉCIMO. Los Servicios Periciales, Fiscalías y en general las autoridades responsables de los procesos de identificación, tienen la obligación de aplicar los protocolos de identificación humana aprobados por la Conferencia Nacional de Procuración de Justicia o el Sistema Nacional de Búsqueda de Personas, en un plazo no mayor de tres meses contados a partir de su publicación oficial.
+
+DÉCIMO PRIMERO. La persona titular del Ejecutivo Estatal en un plazo no mayor a los cuarenta y cinco días contados a partir de la entrada en vigor de la presente Ley, deberá emitir su Reglamento correspondiente.
+
+DÉCIMO SEGUNDO. Se constituye una coordinación interinstitucional para formular proyectos para gestionar recursos económicos ante el Gobierno Federal y la Cámara de Diputados del H. Congreso de la Unión, en materia de esta ley, con participación de las víctimas.
+
+DÉCIMO TERCERO. La Fiscalía Especializada y la Coordinación General de Servicios Periciales, en el ámbito de sus respectivas competencias, deberán adecuar su reglamento y normativa interna en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, a fin de garantizar la elaboración de un anteproyecto de presupuesto que asegure el cumplimiento efectivo de las obligaciones establecidas en esta Ley.
+
+DÉCIMO CUARTO. La Comisión Estatal de Búsqueda de Personas del Estado de Guerrero, creada mediante Decreto publicado en el Periódico Oficial del Gobierno del Estado de Guerrero el 20 de abril de 2018, continuará vigente y en funciones, bajo la naturaleza jurídica y facultades previstas en la presente Ley.
+
+A partir de la entrada en vigor de este ordenamiento, el Decreto de creación de la Comisión Estatal de Búsqueda de Personas del Estado de Guerrero de 2018, se armonizará, interpretará y aplicará conforme a las disposiciones de la presente Ley. Los procedimientos, investigaciones, expedientes, registros y demás asuntos que se encuentren en trámite ante esa Comisión, serán integrados y concluidos, garantizando los derechos de las víctimas y las diligencias necesarias para la búsqueda inmediata.
+
+Se derogan todas las disposiciones administrativas y reglamentarias, emitidas con anterioridad, que se opongan al presente ordenamiento, en lo que respecta a la estructura, funcionamiento y atribuciones de la Comisión Estatal de Búsqueda de Personas.
+
+DÉCIMO QUINTO. Quedan derogadas todas las disposiciones legales, reglamentarias y administrativas, que se opongan o contravengan lo establecido en el presente Decreto.
+
+DÉCIMO SEXTO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+DÉCIMO SÉPTIMO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado, la Gaceta, en el Portal Web del H. Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
