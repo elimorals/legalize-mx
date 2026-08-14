@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2026-07-07"
+last_updated: "2026-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -1119,9 +1119,9 @@ La atención materno-infantil es prioritaria para el Sistema Estatal de Salud, y
 
 I. La atención de la mujer durante el embarazo, parto, puerperio, y muerte fetal o perinatal;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2026)</small>
 
-II. La atención del niño y la vigilancia de su crecimiento, nutrición adecuada, y desarrollo integral, incluyendo la promoción de la vacunación oportuna, la detección temprana y atención de cáncer infantil y las medidas necesarias para evitar el sobrepeso y obesidad, y
+II. La atención del niño y la vigilancia de su crecimiento, nutrición adecuada, y desarrollo integral, incluyendo la promoción de la vacunación oportuna, la detección temprana y atención de cáncer infantil y las medidas necesarias para evitar el sobrepeso y obesidad, así como del diagnóstico y atención de la displasia en el desarrollo de cadera en los menores de 5 años;
 
 III. La promoción de la integración y del bienestar familiar.
 
@@ -3494,5 +3494,17 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO. Para la implementación de lo dispuesto en el presente Decreto, las autoridades de salud del Estado de Guerrero deberán coordinarse con la Secretaría de Asuntos Indígenas del Estado y con el Instituto Nacional de los Pueblos Indígenas, a fin de garantizar la participación de dichas instituciones en el diseño, capacitación y operación de los servicios de interpretación en salud. La ejecución de estas acciones estará sujeta a la disponibilidad presupuestal, de manera que se asegure la viabilidad financiera y la colaboración institucional necesaria para cumplir con el objetivo de garantizar el acceso universal, incluyente y digno a los servicios de salud.
+
+CUARTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta Parlamentaria del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 14 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUMERO 542 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 79 DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO, EN MATERIA DE DISPLASIA DE CADERA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Para la implementación de lo dispuesto en el presente Decreto, las autoridades de salud del Estado de Guerrero deberán coordinarse con la Secretarías (sic) de Finanzas y Administración del gobierno del Estado, para analizar la propuesta, generar las condiciones de su viabilidad presupuestaria y operatividad.
 
 CUARTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta Parlamentaria del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
