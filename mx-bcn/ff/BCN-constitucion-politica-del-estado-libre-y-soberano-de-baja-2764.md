@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2026-06-12"
+last_updated: "2026-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE JUNIO DE 2026.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -163,7 +161,7 @@ El procedimiento para la liquidación de los partidos políticos estatales que p
 
 El incumplimiento de las normas que regulen la comprobación de ingresos, egresos, topes de gastos y aportaciones, así como la liquidación de los partidos políticos, serán sancionados en los términos de las leyes correspondientes.
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE AGOSTO DE 2026)</small>
 
 APARTADO B.- Del Instituto Estatal Electoral.
 
@@ -235,37 +233,45 @@ El órgano de dirección superior denominado Consejo General Electoral, se integ
 
 La persona Consejera Presidenta y las Consejerías Electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la Ley General correspondiente. Las y los Consejeros Electorales estatales deberán ser originarios del Estado o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2026)</small>
 
-Las Consejerías Electorales estatales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley respectiva.
+Las Consejerías Electorales estatales tendrán un período de desempeño de siete años y no podrán ser reelectas; percibirán una remuneración acorde con sus funciones, la cual no excederá del límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos; y podrán ser removidas por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley respectiva.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2026)</small>
 
-Las Consejerías Electorales estatales y demás personas servidoras públicas que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postuladas o postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+Las remuneraciones de las personas consejeras electorales, las magistradas y magistrados electorales del Tribunal de Justicia Electoral, titulares de las secretarías de órganos administrativos y titulares de áreas ejecutivas y técnicas u homólogos del Instituto Estatal Electoral y del Tribunal de Justicia Electoral, no excederán el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2026)</small>
+
+Las Consejerías Electorales estatales y demás personas servidoras públicas que establezca la ley no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postuladas o postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE AGOSTO DE 2026)</small>
 
 La Secretaría Ejecutiva estará investida de fe pública para actos de naturaleza electoral, será nombrada o nombrado en los términos de ley, por el órgano de dirección superior a propuesta de la Consejera o Consejero Presidente, con la aprobación de las dos terceras partes de sus integrantes, durará en su encargo cuatro años y podrá ser reelecto una sola vez; en el supuesto de que transcurridas dos rondas de votación, la persona propuesta que no alcanzare la votación requerida, la designación se hará por mayoría simple del Consejo General Electoral.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2026)</small>
 
-Los Consejos Distritales son órganos operativos del Instituto Estatal Electoral, que se integrarán por cinco Consejerías Electorales Distritales nombrados por las dos terceras partes de los integrantes del órgano de dirección superior del cual dependen; así como por representantes acreditados por los partidos políticos, con voz pero sin voto, en la forma que establezca la Ley y, un Secretario Fedatario nombrado mediante votación de las dos terceras partes de los Consejos Distritales a propuesta de cada uno de las Consejeras y los Consejeros Presidentes, la Ley establecerá los requisitos que deberán reunir para su designación.
+Los Consejos Distritales son órganos operativos del Instituto Estatal Electoral, que se integrarán por cinco Consejerías Electorales Distritales nombradas por las dos terceras partes de los integrantes del órgano de dirección superior del cual dependen; así como por representantes acreditados por los partidos políticos, con voz pero sin voto, en la forma que establezca la Ley y, un Secretario Fedatario nombrado mediante votación de las dos terceras partes de los Consejos Distritales a propuesta de cada una de las Consejeras y los Consejeros Presidentes, la Ley establecerá los requisitos que deberán reunir para su designación.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE AGOSTO DE 2026)</small>
 
 Las y los trabajadores incorporados al Servicio Profesional Electoral Nacional, regirán sus relaciones laborales por las disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE AGOSTO DE 2026)</small>
+
 La selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina de los servidores públicos en el Servicio Profesional Electoral Nacional, será en los términos en que se regule por el Instituto Nacional Electoral.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE AGOSTO DE 2026)</small>
 
 Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la Ley.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE AGOSTO DE 2026)</small>
 
 El Instituto Estatal Electoral contará con un Órgano Interno de Control con autonomía técnica y de gestión que tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto, el cual mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado, mismo que será designado de conformidad con la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2026)</small>
 
-La Ley fijará el régimen de responsabilidades a que estarán sujetos (sic) las personas servidoras públicas del Instituto Estatal Electoral.
+La Ley fijará el régimen de responsabilidades a que estarán sujetas las personas servidoras públicas del Instituto Estatal Electoral.
 
 > <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE MARZO DE 2026)</small>
 
@@ -1003,9 +1009,9 @@ CADA MUNICIPIO QUE INTEGRA EL ESTADO, DEBERÁ TENER POR LO MENOS UN DISTRITO ELE
 
 Todos los Diputados tendrán idéntica categoría e igualdad de obligaciones y gozarán de las mismas prerrogativas.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2026)</small>
 
-Los Diputados, como representantes del pueblo, podrán auxiliar a sus representados y a las comunidades del Estado en sus demandas sociales y de orden administrativo de interés general, a fin de lograr su oportuna solución, por lo que las autoridades administrativas del Estado y los Ayuntamientos deberán atender su intervención y ver por la oportuna resolución de sus promociones.
+El Congreso del Estado deberá garantizar los principios de paridad, igualdad sustantiva y perspectiva de género, en la integración y funcionamiento de sus órganos legislativos.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2717,11 +2723,11 @@ El Ayuntamiento es el órgano colegiado de representación popular, depositario 
 
 ### CAPITULO II.. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 78.
 
-Los ayuntamientos se compondrán de munícipes electos por el sufragio universal, libre, secreto, directo, personal e intransferible y mediante los principios de mayoría relativa y de representación proporcional.
+Los Ayuntamientos se compondrán de munícipes electos por el sufragio universal, libre, secreto, directo, personal e intransferible y mediante los principios de mayoría relativa y de representación proporcional, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -2743,17 +2749,25 @@ Durante los actos de precampaña o campaña respectiva, quien pretenda participa
 
 Los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatas y candidatos deberán respetar el principio de paridad de género en su aspecto cualitativo y cuantitativo.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 79.
 
-Los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y por regidores de mayoría relativa y de representación proporcional, en el número que resulte de la aplicación a cada Municipio de las siguientes bases:
+Los Ayuntamientos se integrarán por un Presidente Municipal, una Sindicatura Procuradora y por regidores de mayoría relativa y de representación proporcional, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal, sin que en ningún caso el número total de regidurías exceda de quince, en el número que resulte de la aplicación a cada Municipio de las siguientes bases:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2015)</small>
 
 I.- El número de Regidores de mayoría relativa y de representación proporcional será:
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 a) Los Municipios cuya población sea menor de doscientos cincuenta mil habitantes, tendrán cinco regidores electos según el principio de mayoría relativa y hasta cinco regidores de representación proporcional;
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 b) Los municipios cuya población se encuentre en el rango comprendido de doscientos cincuenta mil a quinientos mil habitantes, tendrán siete regidores electos según el principio de mayoría relativa y hasta seis de representación proporcional;
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 c) Los Municipios cuya población exceda de quinientos mil habitantes, tendrán ocho Regidores electos según el principio de mayoría relativa y hasta siete regidores de representación proporcional.
 
@@ -2761,11 +2775,19 @@ c) Los Municipios cuya población exceda de quinientos mil habitantes, tendrán 
 
 II.- Para que los partidos políticos o candidatos independientes tengan derecho a la asignación de regidores por el principio de representación proporcional, deberán cumplir los siguientes requisitos:
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 a) Haber obtenido el registro de planilla completa de candidatos a munícipes en el Municipio que corresponda;
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 b) Haber obtenido por lo menos el tres por ciento de la votación emitida en la elección de munícipes correspondientes; y
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 c) No haber obtenido la constancia de mayoría respectiva, y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2015)</small>
 
 III.- La asignación de regidores mediante el principio de representación proporcional se sujetará, a lo que disponga la Ley respectiva y mediante el siguiente procedimiento:
 
@@ -2778,6 +2800,8 @@ a) El Instituto Estatal Electoral determinará qué partidos políticos o candid
 b) Primeramente asignará un Regidor a cada partido político o candidato independiente con derecho a la representación proporcional.
 
 En caso de que el número de partidos políticos o candidatos independientes sea mayor que el de regidurías por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarlas;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2015)</small>
 
 c) Si después de efectuada la operación indicada en el inciso anterior aún hubiera regidurías por asignar, se realizarán las siguientes operaciones:
 
@@ -2809,7 +2833,11 @@ e) En caso de que aún hubiere más regidurías por repartir, se asignarán a lo
 
 f) La asignación de las regidurías de representación proporcional que correspondan a cada partido político o candidato independiente, la hará el Instituto Estatal Electoral de la lista de candidatos a Regidores que haya registrado cada partido político o candidato independiente, en el orden que los mismos fueron registrados.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 Los integrantes de los ayuntamientos contarán con sus respectivos suplentes.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 Los conceptos que señala el Artículo 15 de esta Constitución, serán aplicables para el desarrollo de la fórmula de asignación aquí prevista.
 
@@ -3134,6 +3162,10 @@ Para la aprobación del presupuesto anual del Poder Judicial, el Congreso podrá
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 El Poder Judicial contará y administrará igualmente, los recursos que se señalan para el Fondo de Administración de Justicia en las Leyes respectivas, administrado por su Consejo de Administración. Dicho Fondo se destinará exclusivamente al mejoramiento de la impartición de justicia, y para otorgar estímulos al personal jurisdiccional del Poder Judicial, excluyendo a las personas juzgadoras del Poder Judicial del Estado. La Ley establecerá los mecanismos para la plena fiscalización del Fondo por el Congreso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2026)</small>
+
+El presupuesto anual del Congreso del Estado, no excederá el cero punto setenta por ciento del presupuesto de egresos del Estado de Baja California.
 
 ## TITULO OCTAVO
 
@@ -6134,3 +6166,25 @@ TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 CUARTO. Dentro de los 360 días naturales siguientes, contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado de Baja California, el Honorable Congreso del Estado de Baja California deberá expedir la Ley reglamentaria del artículo 7, Apartado A, de la Constitución Política del Estado Libre y Soberano de Baja California, relativa al sistema de cuidados.
 
 QUINTO. Las entidades, dependencias y organismos públicos del orden estatal y municipal operarán el sistema de cuidados de acuerdo con su disponibilidad presupuestal, en los términos de la legislación secundaria que en su momento se expida.
+
+P.O. 14 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 302 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Aprobada que sea la presente reforma por el Pleno del Congreso del Estado, remítase a los Ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Cumplido el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, procédase a realizar la declaración de incorporación constitucional correspondiente, y remítase el presente Decreto para su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- La integración de los Ayuntamientos establecida en lo dispuesto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, reformado, surtirá efectos a partir del periodo administrativo municipal subsecuente. Los Ayuntamientos que a la entrada en vigor del presente Decreto cuenten con un número de regidurías menor a quince, conservarán su integración actual. Solo en los casos que se requiera alguna modificación de la integración por criterios de variación poblacional, se realizará conforme a lo establecido en esta Constitución y las leyes aplicables.
+
+QUINTO.- A partir del ejercicio fiscal inmediato siguiente a la entrada en vigor del presente Decreto, el presupuesto anual autorizado para el Congreso del Estado deberá ajustarse de manera progresiva durante los cuatro ejercicios fiscales subsecuentes, con el objeto de alcanzar, al término de dicho periodo, una reducción acumulada equivalente al quince por ciento en términos reales, respecto del presupuesto base vigente para el ejercicio fiscal 2026. La reducción no podrá afectar los derechos laborales de las personas trabajadoras, conforme a las Condiciones Generales de Trabajo aplicables.
+
+SEXTO.- Si a la entrada en vigor del presente Decreto el presupuesto anual del Congreso del Estado representa un porcentaje igual o menor al cero punto setenta por ciento del presupuesto de egresos del Estado, no podrá incrementar dicha proporción en los ejercicios fiscales subsecuentes. El monto únicamente podrá actualizarse conforme a la inflación anual. Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido será nulo de pleno derecho.
+
+SÉPTIMO.- Los recursos públicos que resulten como economías o ahorros derivados de las reducciones al presupuesto del Congreso y en la integración de los Ayuntamientos, quedarán en el patrimonio de la hacienda pública de cada municipio. El Congreso del Estado destinará estos recursos excedentes a obras de infraestructura pública en beneficio de la población, garantizando los principios de legalidad, honradez, transparencia y austeridad.
+
+OCTAVO.- El Instituto Estatal Electoral de Baja California y el Tribunal de Justicia Electoral del Estado revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente Decreto, dentro de los noventa días naturales siguientes a su entrada en vigor.
+
+NOVENO.- El presente Decreto no contraviene, modifica, ni afecta las disposiciones transitorias previstas en el Decreto número 207, publicado en el Periódico Oficial del Estado de Baja California número 78, Sección VII, de fecha 30 de diciembre de 2025, en materia de no reelección y nepotismo electoral, las cuales subsistirán y continuarán aplicándose en los términos y plazos originalmente establecidos hasta el año 2030.
