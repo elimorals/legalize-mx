@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-seguridad-vial-y-transporte-del-estado-de-1606
 country: "mx"
 rank: "ley"
 publication_date: "2022-10-19"
-last_updated: "2026-06-27"
+last_updated: "2026-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2026.
 
 Ley publicada en la Edición Especial 30 Bis del Periódico Oficial del Estado de Jalisco, el miércoles 19 de octubre de 2022.
 
@@ -1649,9 +1649,17 @@ XXXII. Llevar a cabo el acto procesal del allanamiento cuando así proceda a las
 
 XXXIII. Gestionar el sistema de datos de siniestralidad vial, recabando datos e información referentes, relacionados y relevantes a la siniestralidad vial por parte de las dependencias correspondientes, mismas que estarán obligadas a compartir dicha información;
 
-XXXIV. Autorizar la instalación de publicidad en todos los vehículos e infraestructura auxiliar de los mismos, que circulen en la vía pública; así como emitir dictamen de aquellos que se instalen en los lugares que impidan la buena conducción u operación de los diversos sistemas de transporte establecidos en esta Ley y su reglamento, o que atenten contra la seguridad de las personas usuarias, transeúntes o conductores de vehículos, y vigilar su cumplimiento; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2026)</small>
 
-XXXV. Realizar, en general, todas aquellas acciones encomendadas por esta Ley, y las demás que se establezcan en otros ordenamientos y normatividad aplicables.
+XXXIV. Autorizar la instalación de publicidad en todos los vehículos e infraestructura auxiliar de los mismos, que circulen en la vía pública; así como emitir dictamen de aquellos que se instalen en los lugares que impidan la buena conducción u operación de los diversos sistemas de transporte establecidos en esta Ley y su reglamento, o que atenten contra la seguridad de las personas usuarias, transeúntes o conductores de vehículos, y vigilar su cumplimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE AGOSTO DE 2026)</small>
+
+XXXV. Establecer en el reglamento las disposiciones para la instalación de dispositivos y señalamientos visuales y auditivos en los cruceros de las calles y avenidas, que garanticen el cruce sin riesgo de las personas con discapacidad, en particular de aquellas con discapacidad visual y auditiva, parcial o total, así como promover con las autoridades municipales y organismos de coordinación metropolitana, la realización de estas acciones; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE AGOSTO DE 2026)</small>
+
+XXXVI. Realizar, en general, todas aquellas acciones encomendadas por esta Ley, y las demás que se establezcan en otros ordenamientos y normatividad aplicables.
 
 ###### Artículo 58.
 
@@ -7172,5 +7180,11 @@ P.O. 18 DE JUNIO DE 2026.
 P.O. 27 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 30202/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 44 DE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30164/LXIV/26 DEL CONGRESO DEL ESTADO QUE MODIFICA EL ARTÍCULO 28 DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, ASÍ COMO EL ARTÍCULO 57 DE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
