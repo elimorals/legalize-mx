@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2024-10-31"
+last_updated: "2026-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -505,17 +505,21 @@ XX. Tramitar y resolver el recurso administrativo previsto en esta Ley; y
 
 XXI. Establecer los albergues y refugios temporales de su comunidad;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2026)</small>
 
-XII (SIC). Firmar convenios de colaboración con la Unidad Estatal de Protección Civil para el debido registro, certificación, capacitación, formación y coordinación de los Brigadistas Comunitarios;
+XXII. Firmar convenios de colaboración con la Unidad de Protección Civil para el debido registro, certificación, capacitación, formación y coordinación de los Brigadistas Comunitarios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2026)</small>
 
-XIII (SIC). Realizar las medidas necesarias tendientes a promover, prevenir, diagnosticar, atender, conservar y mejorar la salud mental del personal de las unidades municipales de protección civil con enfoque de derechos humanos, perspectiva de género y de juventudes en su caso; y
+XXIII. Realizar las medidas necesarias tendientes a promover, prevenir, diagnosticar, atender, conservar y mejorar la salud mental del personal de las unidades municipales de protección civil con enfoque de derechos humanos, perspectiva de género y de juventud en su caso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE AGOSTO DE 2026)</small>
+
+XXIV. Elaborar, actualizar y publicar el atlas de riesgo municipal. La actualización ordinaria deberá realizarse durante los primeros doce meses contados a partir de la (sic) iniciada la administración municipal que corresponda, y de forma extraordinaria cuando se acrediten cambios sustanciales en las condiciones de amenaza, vulnerabilidad, o exposición derivados de la naturaleza dinámica del riesgo o de transformaciones relevantes en el territorio que alteren el nivel de peligro previamente determinado, y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2023)</small>
 
-XIV (SIC). Las demás que le señalen esta Ley y otras normas y reglamentos aplicables.
+XXV. Las demás que le señalen esta Ley y otras normas y reglamentos aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -1205,9 +1209,13 @@ I. Elaborar el proyecto de Programa Estatal de Protección Civil y presentarlo a
 
 II. Elaborar el proyecto del Programa Operativo Anual y presentarlo al Consejo Estatal para su autorización;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2026)</small>
 
-III. Identificar los riesgos que se presentan en la entidad integrando el Atlas Estatal de Riesgos;
+III. Identificar los riesgos presentes en la Entidad, mediante la integración y actualización trienal del Atlas Estatal de Riesgos de manera ordinaria, y de forma extraordinaria cuando acrediten cambios sustanciales en las condiciones de amenaza, vulnerabilidad o exposición derivados de la naturaleza dinámica del riesgo o de transformaciones relevantes en el territorio que alteren el nivel de peligro previamente determinado;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2026)</small>
+
+III. Bis. Apoyar a los municipios que así lo soliciten, para la elaboración o actualización, de sus respectivos atlas de riesgos, según sea el caso;
 
 IV. Establecer y ejecutar los subprogramas básicos de prevención, auxilio y recuperación o restablecimiento;
 
@@ -2772,3 +2780,15 @@ DÉCIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tan
 DÉCIMO PRIMERO. El Titular del Poder Ejecutivo, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de las dependencias que conforman la Administración Pública Centralizada en los términos del presente Decreto.
 
 En el caso de la Secretaría de Seguridad y de la Fiscalía del Estado, sus reglamentos deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
+
+P.O. 15 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 30189/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 13 Y 15, AMBOS DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO; Y ADICIONA Y REFORMA LOS ARTÍCULOS 12 Y 38 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Para el caso del Atlas de Riesgos del Estado de Jalisco, la actualización a la que se refiere el presente Decreto, deberá realizarse cada tres años, contados a partir de la última actualización de la que haya sido objeto, por lo que será obligatorio para la actual administración estatal, y las subsecuentes, realizar dos ejercicios de actualización a lo largo de su respectivo periodo, los cuales tendrán verificativo en los años 2027, y 2030, así sucesivamente.
+
+En caso de alguna eventualidad emergente que represente un riesgo para la vida y la seguridad de las personas, se llevarán a cabo las actualizaciones extraordinarias que resulten necearías (sic) en el respectivo Atlas de Riesgos del Estado de Jalisco.
+
+TERCERO. Para el caso de los Atlas de Riesgos Municipales, estas actualizaciones deban realizarse en los primeros doce meses contados a partir del inicio de la administración municipal que corresponda y, en caso de alguna eventualidad emergente que represente un riesgo para la vida y la seguridad de las personas, se llevarán a cabo las actualizaciones extraordinarias que resulten necesarias.
