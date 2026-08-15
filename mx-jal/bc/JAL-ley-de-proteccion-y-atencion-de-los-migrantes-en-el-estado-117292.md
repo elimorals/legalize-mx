@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-atencion-de-los-migrantes-en-el-estado-1172
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-17"
-last_updated: "2024-03-09"
+last_updated: "2026-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2026.
 
 Ley publicada en la Sección II al Número 4 del Periódico Oficial del Estado de Jalisco, el jueves 17 de noviembre de 2016.
 
@@ -147,13 +147,19 @@ XII. Proveer protección y apoyo con documentación, traslado, alimentación, al
 
 XIII. Promover mecanismos de reunificación familiar y, en su caso, procesos de custodia para aquellas personas menores de edad, de conformidad con lo dispuesto con la legislación federal de la materia;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2026)</small>
 
-XIV. Prevenir e impedir la explotación laboral y sexual de los migrantes en el Estado, con enfoque especial hacia mujeres, niñas, niños, adolescentes, menores de edad no acompañados, discapacitados e indígenas; y
+XIV. Prevenir e impedir la explotación laboral y sexual de los migrantes en el Estado, con enfoque especial hacia mujeres, niñas, niños, adolescentes, menores de edad no acompañados, discapacitados e indígenas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE AGOSTO DE 2026)</small>
+
+XV. Gestionar las condiciones para que los espacios, instalaciones o inmuebles habilitados, administrados, coordinados, financiados o supervisados por autoridades estatales o municipales, destinados a brindar hospedaje provisional, asistencia humanitaria y servicios básicos a personas migrantes en situación de tránsito, destino o retorno en el Estado de Jalisco, distintos de las estaciones migratorias o estancias provisionales dependientes de la autoridad federal en materia migratoria, cuenten con el equipamiento y la infraestructura que incluya condiciones dignas de estancia, servicios adecuados de alimentación, agua potable, higiene y atención médica.
+
+Asimismo, establecer e implementar protocolos especializados de atención y protección para niñas, niños, adolescentes y mujeres migrantes, con enfoque de derechos humanos y protección reforzada a grupos en situación de vulnerabilidad, conforme a los lineamientos que emita la autoridad competente; y
 
 > <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-XV. Las demás que contribuyan al mejoramiento de las condiciones de vida de los migrantes y que establezcan las leyes
+XVI. Las demás que contribuyan al mejoramiento de las condiciones de vida de los migrantes y que establezcan las leyes
 
 ### CAPÍTULO V. DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
@@ -296,3 +302,9 @@ P.O. 9 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29528/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; 7º DE LA LEY DE COMISIÓN ESTATAL DE DERECHOS HUMANOS; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO; 16 DE LA LEY DE EDUCACIÓN; Y 5º, 7º Y 8º DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES, ORDENAMIENTOS TODOS DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 UNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”
+
+P.O. 15 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30181/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA LAS FRACCIONES XIV Y XV; Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
