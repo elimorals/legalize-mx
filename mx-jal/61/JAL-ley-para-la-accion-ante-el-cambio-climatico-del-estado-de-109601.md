@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-accion-ante-el-cambio-climatico-del-estado-de-10960
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2021-09-04"
+last_updated: "2026-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2026.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 27 de agosto de 2015.
 
@@ -293,7 +293,9 @@ IX. Coadyuvar en la difusión de proyectos, acciones y medidas de reducción de 
 
 X. Diseñar, integrar, operar, actualizar y difundir los datos e Información del Registro Estatal, así como el registro de las fuentes fijas competencia del Estado y el registro estatal de descargas de aguas residuales que se viertan en los sistemas de drenaje y alcantarillado o a cuerpos receptores de su competencia;
 
-XI. Colaborar con la Unidad Estatal de Protección Civil y Bomberos en la elaboración, integración y actualización del Atlas de Riesgo ante el cambio climático correspondiente;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2026)</small>
+
+XI. Colaborar con la Unidad Estatal de Protección Civil y Bomberos en la elaboración, integración y actualización trienal del Atlas de Riesgo ante el cambio climático correspondiente;
 
 XII. Diseñar e implementar un programa de modelación del clima y un sistema de información climática;
 
@@ -358,6 +360,14 @@ IV. Coadyuvar con el Gobierno del Estado y la federación, en la difusión de pr
 V. Proporcionar a la Secretaría la información con que cuente de fuentes emisoras de su competencia, para efectos de la integración del Registro Estatal que opere en la entidad;
 
 VI. Elaborar, actualizar y publicar el atlas de riesgos municipal incluyendo en éste una sección correspondiente a la problemática y política municipal en materia de cambio climático;
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2026)</small>
+
+La elaboración o actualización del atlas de riesgos municipal, según sea el caso, se realizará de manera ordinaria durante los primeros doce meses de iniciada la administración municipal que corresponda y a su vez existirán actualizaciones extraordinarias cuando se acrediten cambios sustanciales en las condiciones de amenaza, vulnerabilidad, o exposición derivados de la naturaleza dinámica del riesgo o de transformaciones relevantes en el territorio que alteren el nivel de peligro previamente determinado.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2026)</small>
+
+En caso de que por las capacidades operativas del municipio no sea posible actualizar el atlas de riesgos, se deberá solicitar apoyo al Ejecutivo Estatal conforme a lo dispuesto en la Ley de Protección Civil del Estado de Jalisco;
 
 VII. Promover y realizar acciones e inversiones para la conservación, mejoramiento y crecimiento de los centros de población, atendiendo a los atlas de riesgos:
 
@@ -2222,3 +2232,15 @@ P.O. 4 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28432/LXII/21 SE ADICIONA EL ARTÍCULO 45 BIS A LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor un día después de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 15 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30189/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 13 Y 15, AMBOS DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO; Y ADICIONA Y REFORMA LOS ARTÍCULOS 12 Y 38 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Para el caso del Atlas de Riesgos del Estado de Jalisco, la actualización a la que se refiere el presente Decreto, deberá realizarse cada tres años, contados a partir de la última actualización de la que haya sido objeto, por lo que será obligatorio para la actual administración estatal, y las subsecuentes, realizar dos ejercicios de actualización a lo largo de su respectivo periodo, los cuales tendrán verificativo en los años 2027, y 2030, así sucesivamente.
+
+En caso de alguna eventualidad emergente que represente un riesgo para la vida y la seguridad de las personas, se llevarán a cabo las actualizaciones extraordinarias que resulten necearías (sic) en el respectivo Atlas de Riesgos del Estado de Jalisco.
+
+TERCERO. Para el caso de los Atlas de Riesgos Municipales, estas actualizaciones deban realizarse en los primeros doce meses contados a partir del inicio de la administración municipal que corresponda y, en caso de alguna eventualidad emergente que represente un riesgo para la vida y la seguridad de las personas, se llevarán a cabo las actualizaciones extraordinarias que resulten necesarias.
