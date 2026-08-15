@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2026-06-18"
+last_updated: "2026-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2026.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -3571,21 +3571,113 @@ VI. Establecer mecanismos e instrumentos de integración y concertación para la
 
 VII. Fungir como laboratorio de referencia estatal para pruebas de calidad de la sangre, microbiológicas e inmunológicas;
 
-VIII. Fomentar la donación voluntaria y efectuar campañas de educación para la donación altruista y salud en materia de disposición y uso de sangre segura;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2026)</small>
+
+VIII. Fomentar la donación voluntaria y periódica, además de efectuar campañas de educación para la donación altruista y salud en materia de disposición y uso de sangre segura;
 
 IX. Procurar el acceso de sangre segura a los pacientes que lo requieran;
 
 X. Gestionar ante los bancos de sangre de cada unidad hospitalaria la obtención de sangre, células progenitoras hematopoyéticas y sus hemoderivados en favor de las Regiones Sanitarias y Hospitales autorizados que así lo requieran;
 
-XI. Promover la certificación de los bancos de sangre en la Entidad y del personal que labore en éstos, así como expedir constancias de cumplimiento de normas a los bancos de sangre; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2026)</small>
+
+XI. Promover la certificación de los bancos de sangre en la Entidad y del personal que labore en éstos, así como expedir constancias de cumplimiento de normas a los bancos de sangre;
 
 XII. Capacitar al personal médico, paramédico, técnico y auxiliar en materia de medicina transfusional, extracción y fraccionamiento de sangre, bioseguridad en su manejo y, en general, en todos los aspectos relacionados con la sangre y los productos sanguíneos.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2026)</small>
+
+XIII. Promover en base a la suficiencia presupuestaria, la modernización constante de la tecnología relacionada con los procedimientos del manejo de la sangre, así como el desarrollo de herramientas digitales integrales orientadas a eficientar la gestión institucional interna y simplificar los trámites para los donantes;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2026)</small>
+
+XIV. Proyectar en su caso la calendarización de jornadas de concientización y donación altruista de sangre y sus componentes a realizarse durante el año; para lo cual podrán coordinarse con las autoridades de salud en todos los municipios que conforman el Estado, tomando en consideración la suficiencia presupuestal de los Ayuntamientos; e
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2026)</small>
+
+XV. Implementar mecanismos e instrumentos de reconocimiento social de carácter estrictamente honorífico, orientados a incentivar y visibilizar de manera pública a las personas física (sic) que realicen donaciones altruistas de forma reiterada, así como a las organizaciones de los sectores público, privado y social que implementen políticas internas activas de apoyo y fomento a la donación de sangre y sus componentes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE AGOSTO DE 2026)</small>
+
+### CAPÍTULO III
+
+DE LAS PERSONAS DONADORAS ALTRUISTAS.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2026)</small>
+
+###### Artículo 242 Bis.
+
+Donante Altruista.
+
+1. Se considera donante altruista a toda persona física que proporcione sangre o componentes sanguíneos con fines terapéuticos, motivada de forma exclusiva por la solidaridad social, dicho acto se caracteriza por la ausencia de retribución alguna en efectivo o en especie, la inexistencia de un vínculo hacia un receptor en particular, y por realizarse de forma independiente a cualquier requerimiento institucional o familiar.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2026)</small>
+
+###### Artículo 242 Ter.
+
+Del Banco de Sangre.
+
+1. Los bancos de sangre y demás establecimientos autorizados para la disposición de sangre y componentes sanguíneos tendrán la obligación de proporcionar información clara, precisa y accesible a los donantes sobre la trascendencia e impacto de la donación voluntaria y altruista, destacado (sic) su valor en los procedimientos terapéuticos y en la preservación de la salud de los receptores.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2026)</small>
+
+###### Artículo 242 Quáter.
+
+Derechos del donante altruista durante el proceso de donación de sangre y/o sus componentes.
+
+1. El donante altruista tendrá los siguientes derechos:
+
+I. Recibir un trato digno, respetuoso, con estricto apego a los derechos humanos y libre de cualquier forma de discriminación durante todo el proceso de donación;
+
+II. Se garantice su privacidad durante la entrevista clínica y los procedimientos de extracción, así como la confidencialidad absoluta de sus datos personales, historial médico, resultados epidemiológicos y de laboratorio, de conformidad con la normativa vigente en materia de protección de datos personales;
+
+III. Recibir la atención médica y orientación oportuna, en caso de presentarse alguna reacción adversa o complicación derivada del proceso de extracción;
+
+IV. Recibir la información clara, suficiente, veraz y compresible (sic) sobre el proceso de donación de sangre y/o componentes sanguíneos en lenguaje sencillo, con accesibilidad y perspectiva intercultural;
+
+V. Decidir su retiro voluntario en cualquier fase de la donación, ante lo cual el personal de salud a cargo interrumpirá el procedimiento y proporcionará las recomendaciones y cuidados médicos que resulten necesarios;
+
+VI. Obtener, al concluir el proceso de extracción, el comprobante que certifique la donación de sangre o sus componentes sanguíneos.
+
+Asimismo, el donante tendrá derecho a recibir las constancias digitales o físicas, con validez oficial, que acrediten su participación solidaria de manera reiterada, en los términos y condiciones que determine la Secretaría Salud;
+
+VII. Conocer, bajo estrictos criterios de disociación de datos y anonimato, información estadística respecto al destino y uso de su donación, comprendiendo el estatus de utilización de los componentes sanguíneos extraídos, el perfil general o grupo demográfico del paciente beneficiado y el impacto social o terapéutico derivado de su participación solidaria; y
+
+VIII. Ejercer los derechos previstos en la Norma Oficial Mexicana NOM-253-SSAA1-2012.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2026)</small>
+
+Artículo 242 Quinquíes. Derechos del donante altruista en caso de que no sea apta la donación.
+
+1. En caso de que la donación no resulte ser apta, el donante altruista tendrá los siguientes derechos:
+
+I. Recibir del personal debidamente autorizado, de manera estrictamente confidencial los resultados de los análisis de laboratorio practicados;
+
+II. Conocer mediante una explicación clara, oportuna, en lenguaje accesible y de forma no estigmatizante las causas precisas por las cuales se determina el diferimiento o la exclusión del proceso de donación;
+
+Este derecho se garantizará bajo las siguientes condiciones:
+
+a) La resolución deberá estar debidamente sustentada en criterios científicos y las disposiciones normativas en materia sanitaria vigentes.
+
+b) Se deberá informar con precisión si la exclusión tiene el carácter de temporal o permanente, especificando, en caso de ser temporal, el periodo o la fecha exacta en que el donante podrá postularse nuevamente; y
+
+III. Recibir orientación médica oportuna con base en los resultados de los análisis de laboratorio practicados y, en su caso, ser canalizado a la institución del Sistema Estatal de Salud que le corresponda para su debida atención médica y seguimiento.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2026)</small>
+
+Artículo 242 Sexties. Del fomento a la donación.
+
+Las autoridades sanitarias, educativas y laborales del Estado, en el ámbito de sus respectivas competencias, apoyarán y fomentarán, de manera enunciativa más no limitativa, las siguientes acciones:
+
+I. El diseño e implementación de programas permanentes de información y sensibilización orientados a concientizar a la población sobre la donación de sangre y sus componentes como una responsabilidad colectiva;
+
+II. El otorgamiento de permisos laborales e incentivos no económicos en favor de las personas que realicen donaciones altruistas de sangre o sus componentes; y
+
+III. El desarrollo de actividades de educación, información y difusión masiva para arraigar una cultura de donación altruista en la población.
 
 ## TÍTULO NOVENO. DE LA INFRAESTRUCTURA EN SALUD
 
-### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
+### CAPÍTULO ÚNICO
 
 ###### Artículo 243.
 
@@ -3619,15 +3711,7 @@ Infraestructura en Salud. Centros de Recreo.
 
 ## TÍTULO DÉCIMO. INVESTIGACIÓN EN SALUD
 
-### CAPÍTULO ÚNICO
-
-Artículo. 252. Expendios de Alimentos Bebidas no Alcohólicas y Alcohólicas. Autorización.
-
-1. De conformidad con los criterios y lineamientos técnicos que expida la Secretaría de Salud, se autorizará el funcionamiento de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas, y alcohólicas en estado natural, mezcladas, preparadas, adicionadas o acondicionadas para su consumo dentro o fuera de los mismos.
-
-2. En el caso de los establecimientos que expendan o suministren al público bebidas alcohólicas en estado natural, mezcladas, preparadas o adicionadas, deberán cumplir con todas las medidas específicas impuestas por la Secretaría de Salud en el acuerdo que emita, cuya observación será motivo de verificación constante por parte de las autoridades sanitarias competentes.
-
-3. La Secretaría de Salud podrá efectuar visitas de verificación a establecimientos de conformidad a lo dispuesto por la Ley General de Salud, efectuando revisión de los envases o empaques que contenían las bebidas a fin de corroborar si los sellos de seguridad con que cuentan presentan o no huellas de haber sido quebrantados y su contenido alterado substituido o mezclado, así como pruebas químicas a fin de comprobar la calidad y contenido de las mismas con muestreos para pruebas de laboratorio en cantidades estrictamente necesarias y que puedan ocasionar un daño a la salud.
+### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
 
 ###### Artículo 246.
 
@@ -3695,7 +3779,15 @@ Investigación de la Salud. Sanciones.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
+
+Artículo. 252. Expendios de Alimentos Bebidas no Alcohólicas y Alcohólicas. Autorización.
+
+1. De conformidad con los criterios y lineamientos técnicos que expida la Secretaría de Salud, se autorizará el funcionamiento de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas, y alcohólicas en estado natural, mezcladas, preparadas, adicionadas o acondicionadas para su consumo dentro o fuera de los mismos.
+
+2. En el caso de los establecimientos que expendan o suministren al público bebidas alcohólicas en estado natural, mezcladas, preparadas o adicionadas, deberán cumplir con todas las medidas específicas impuestas por la Secretaría de Salud en el acuerdo que emita, cuya observación será motivo de verificación constante por parte de las autoridades sanitarias competentes.
+
+3. La Secretaría de Salud podrá efectuar visitas de verificación a establecimientos de conformidad a lo dispuesto por la Ley General de Salud, efectuando revisión de los envases o empaques que contenían las bebidas a fin de corroborar si los sellos de seguridad con que cuentan presentan o no huellas de haber sido quebrantados y su contenido alterado substituido o mezclado, así como pruebas químicas a fin de comprobar la calidad y contenido de las mismas con muestreos para pruebas de laboratorio en cantidades estrictamente necesarias y que puedan ocasionar un daño a la salud.
 
 ###### Artículo 253.
 
@@ -3711,7 +3803,7 @@ Expendios de Alimentos Bebidas no Alcohólicas y Alcohólicas. Distancias.
 
 ## TÍTULO DÉCIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 255.
 
@@ -3815,7 +3907,7 @@ Salubridad Local. Supletoriedad.
 
 1. En todo lo no previsto por este Capítulo se estará a lo que dispongan esta Ley y sus reglamentos respectivos, disposiciones legales aplicables y las normas oficiales mexicanas correspondientes, así como los criterios y lineamientos de carácter técnico que se llegaran a expedir.
 
-### CAPÍTULO III. DE LA INGENIERÍA SANITARIA
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 264.
 
@@ -3835,7 +3927,7 @@ Mercados y Centros de Abasto. Condiciones Higiénicas.
 
 1. Los vendedores, locatarios y personal cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar en esos lugares las condiciones higiénicas indispensables para el debido mantenimiento de sus locales.
 
-### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
+### CAPÍTULO III. DE LA INGENIERÍA SANITARIA
 
 ###### Artículo 267.
 
@@ -3907,7 +3999,7 @@ Edificaciones. Suspensión y Demolición.
 
 1. Cuando se contravengan algunas de las disposiciones anteriores o las del Reglamento respectivo, la autoridad sanitaria competente podrá, previo el cumplimiento de los requisitos legales respectivos, ordenar la suspensión de las obras o su demolición apoyándose en las demás autoridades competentes.
 
-### CAPÍTULO V. DE LOS RECLUSORIOS
+### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
 
 ###### Artículo 278.
 
@@ -3945,7 +4037,7 @@ I. Cuando se trate de cadáveres de personas que hubieren padecido enfermedades 
 
 II. Cuando el traslado se pretenda realizar después de las cuarenta y ocho horas posteriores a la muerte de que se trata.
 
-### CAPÍTULO VI. DE LAS ALBERCAS, BAÑOS Y SANITARIOS PÚBLICOS
+### CAPÍTULO V. DE LOS RECLUSORIOS
 
 ###### Artículo 282.
 
@@ -3965,7 +4057,7 @@ Reclusorios. Baños y Área de Enfermería.
 
 1. Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas oficiales mexicanas correspondientes, con un departamento de baños y otro de enfermería, este último para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el traslado de éstos a un hospital.
 
-### CAPÍTULO VII. DE LOS CENTROS DE REUNIÓN Y ESPECTÁCULOS
+### CAPÍTULO VI. DE LAS ALBERCAS, BAÑOS Y SANITARIOS PÚBLICOS
 
 ###### Artículo 285.
 
@@ -3985,7 +4077,7 @@ Baños Públicos. Apertura.
 
 1. Para abrir al servicio público estos establecimientos deberá notificarse sin excepción a la autoridad sanitaria competente.
 
-### CAPÍTULO VIII. DE LOS CENTROS DE HOSPEDAJE
+### CAPÍTULO VII. DE LOS CENTROS DE REUNIÓN Y ESPECTÁCULOS
 
 ###### Artículo 287.
 
@@ -4005,7 +4097,7 @@ Centros de Reunión y Espectáculos. Normativa.
 
 1. El funcionamiento de los establecimientos a que se refiere el artículo 287 deberá ajustarse a lo dispuesto por las disposiciones legales aplicables, y contará con los servicios de seguridad e higiene que establezcan las normas correspondientes.
 
-### CAPÍTULO I. DE LAS AUTORIZACIONES
+### CAPÍTULO VIII. DE LOS CENTROS DE HOSPEDAJE
 
 ###### Artículo 290.
 
@@ -4029,7 +4121,7 @@ Hoteles, Moteles, Pensiones y Casas de Huéspedes. Normatividad.
 
 ## TÍTULO DÉCIMO TERCERO. AUTORIZACIONES Y CERTIFICACIONES
 
-### CAPÍTULO II. DE LA REVOCACIÓN DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. DE LAS AUTORIZACIONES
 
 ###### Artículo 292.
 
@@ -4117,7 +4209,7 @@ Autorizaciones Sanitarias. Revocación.
 
 1. Las autorizaciones a que se refiere esta Ley podrán ser revocadas por la autoridad sanitaria competente en los términos de las disposiciones legales aplicables.
 
-### CAPÍTULO III. DE LOS CERTIFICADOS
+### CAPÍTULO II. DE LA REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 #### SECCIÓN PRIMERA. CAUSAS DE REVOCACIÓN
 
@@ -4195,7 +4287,7 @@ Revocación. Efectos.
 
 1. La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, de prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO III. DE LOS CERTIFICADOS
 
 ###### Artículo 308.
 
@@ -4241,7 +4333,7 @@ Certificados. Expedición en Formatos Aprobados.
 
 ## TÍTULO DÉCIMO CUARTO. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
-### CAPÍTULO II. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 313.
 
@@ -4351,7 +4443,7 @@ Medidas de Seguridad. Desocupación de Inmuebles.
 
 1. La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y del dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPÍTULO I. DE LA VIGILANCIA SANITARIA
+### CAPÍTULO II. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 325.
 
@@ -4451,7 +4543,7 @@ Procedimientos Administrativos. Posible Comisión del Delito.
 
 ## TÍTULO DÉCIMO QUINTO. VIGILANCIA SANITARIA, SANCIONES Y RECURSO DE REVISIÓN
 
-### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. DE LA VIGILANCIA SANITARIA
 
 ###### Artículo 335.
 
@@ -4527,7 +4619,7 @@ IV. Al concluir la verificación, se dará oportunidad al propietario, responsab
 
 La negativa a firmar el acta o recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
 
-### CAPÍTULO III. DEL RECURSO DE REVISIÓN
+### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 344.
 
@@ -4643,7 +4735,7 @@ II. A la persona que, en rebeldía, se niegue a cumplir los requerimientos o dis
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO IV. DE LA PRESCRIPCIÓN
+### CAPÍTULO III. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 357.
 
@@ -4720,6 +4812,8 @@ III. Que sean de difícil reparación los daños y perjuicios que se causen al r
 Recurso de Revisión. Supletoriedad.
 
 1. En la tramitación del recurso de revisión se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
+
+### CAPÍTULO IV. DE LA PRESCRIPCIÓN
 
 ###### Artículo 366.
 
@@ -5180,3 +5274,9 @@ P.O. 18 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30199/LXIV/26 QUE REFORMA EL ARTÍCULO 73 DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 15 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30185/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA LAS FRACCIONES VIII Y XI ADICIONA LAS FRACCIONES XIII, XIV Y XV TODAS DEL ARTÍCULO 242, Y ADICIONA AL TÍTULO OCTAVO EL CAPÍTULO III DENOMINADO "DE LAS PERSONAS DONADORAS ALTRUISTAS" ASÍ COMO LOS ARTÍCULOS 242 BIS, 242 TER, 242 QUATER, 242 QUINQUÍES Y 242 SEXIES TODOS DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
