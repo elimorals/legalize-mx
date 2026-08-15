@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2024-03-09"
+last_updated: "2026-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2026.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -773,27 +773,41 @@ XVII. Establecer las bases, requisitos y certificar para la certificación de in
 
 XVIII. Las demás previstas en esta Ley y la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 28.
 
-Corresponde a la Secretaría de Movilidad:
+Corresponde a la Secretaría de Transporte:
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 I. Implementar programas en materia de educación, cultura y seguridad vial para que a las personas con discapacidad se les respete el orden y derecho de preferencia de paso en los cruceros, accesos o zonas de paso peatonal; y se les otorguen las facilidades necesarias para que puedan abordar las unidades de transporte;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 II. Exigir y vigilar que el transporte en general, y en particular los vehículos del servicio colectivo de pasajeros, cuenten con elevadores para el acceso de personas con discapacidad, en funcionamiento correcto, así como espacios adecuados para el ingreso y traslado de la persona con discapacidad y su perro guía o animal de servicio, y de los implementos necesarios para su desplazamiento;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 III. Exigir y vigilar que el transporte cuente con accesibilidad y los requisitos de diseño universal, para que las personas con discapacidad puedan hacer uso del mismo;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 IV. Establecer las medidas para que se instalen señales visuales y auditivas en las unidades de transporte público, para garantizar el acceso seguro por parte de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 V. Vigilar que los medios de compra o prepago o boletos del servicio colectivo de pasajeros sean accesibles a personas con discapacidad;
 
-VI. Establecer las medidas para la instalación de señalamientos visuales y auditivos en los cruceros de las principales calles y avenidas que garanticen el cruce sin riesgo de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2026)</small>
+
+VI. Establecer en el reglamento en materia de movilidad las disposiciones para la instalación de dispositivos y señalamientos visuales y auditivos en los cruceros de las calles y avenidas, que garanticen el cruce sin riesgo de las personas con discapacidad, en particular de aquellas con discapacidad visual y auditiva, parcial o total, así como promover con las autoridades municipales y organismos de coordinación metropolitana, la realización de estas acciones;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 VII. Determinar, en coordinación con la Secretaría, los criterios técnicos y mecanismos para el otorgamiento de los distintivos oficiales que acrediten a los vehículos de las personas con discapacidad; y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 VIII. Las demás previstas por esta Ley y la legislación estatal aplicable.
 
@@ -1614,3 +1628,9 @@ P.O. 9 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29536/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO AL ARTÍCULO 71 DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO".]
 
 Único: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 10 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30164/LXIV/26 DEL CONGRESO DEL ESTADO QUE MODIFICA EL ARTÍCULO 28 DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, ASÍ COMO EL ARTÍCULO 57 DE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
