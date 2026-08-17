@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2026-07-06"
+last_updated: "2026-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -573,9 +573,15 @@ VIII.- Favorecer el desarrollo de la enseñanza y la investigación científica 
 
 VIII Bis.- Promover el reconocimiento a los conocimientos y desarrollo de la medicina tradicional indígena, de la herbolaria y de la partería tradicional;
 
-IX.- Fortalecer la integración, operación y evaluación de consejos, comités y comisiones en materia de salud, y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2026)</small>
 
-X.- Las demás que sean necesarias para el cumplimiento de su objetivo, de conformidad con las disposiciones normativas.
+IX.- Fortalecer la integración, operación y evaluación de consejos, comités y comisiones en materia de salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE AGOSTO DE 2026)</small>
+
+X.- Incorporar de manera transversal el enfoque de cuidados en las políticas públicas de asistencia social y salud integral; y
+
+XI.- Las demás que sean necesarias para el cumplimiento de su objetivo, de conformidad con las disposiciones normativas.p
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2023)</small>
 
@@ -2950,5 +2956,11 @@ P.O. 28 DE ABRIL DE 2026.
 P.O. 6 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 659 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROCEDIMIENTOS MÉDICO ESTÉTICOS Y CIRUGÍA PLÁSTICA EN ADOLESCENTES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 686 - LXVI POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 11 TER DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE ENFOQUE DE CUIDADOS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
