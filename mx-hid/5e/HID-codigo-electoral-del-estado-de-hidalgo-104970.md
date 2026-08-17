@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2025-08-07"
+last_updated: "2026-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2026.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -3859,11 +3859,9 @@ III. REGISTRAR EN LO INDIVIDUAL, FÓRMULAS DE CANDIDATOS DE MAYORÍA RELATIVA, E
 
 IV. GARANTIZAR LA PARIDAD DE GÉNERO EN SUS CANDIDATURAS, Y
 
-(NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 573 POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
-
-V. GARANTIZAR EN AL MENOS UNA DE LAS DOCE FÓRMULAS A DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL A ASIGNAR, EL ACCESO AL CARGO DE PERSONAS CON DISCAPACIDAD Y PERSONAS DE LA DIVERSIDAD SEXUAL Y DE GÉNERO.
+V. Garantizar en al menos una de las doce fórmulas a diputaciones por el principio de representación proporcional a asignar, el acceso al cargo de personas con discapacidad y personas de la diversidad sexual y de género.
 
 ###### Artículo 208.
 
@@ -7336,5 +7334,11 @@ P.O. 24 DE JULIO DE 2025.
 P.O. 7 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 313 - LXVI POR EL QUE SE REFORMA EL INCISO D DE LA FRACCIÓN I DEL ARTÍCULO 6 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, EN MATERIA DEL PRINCIPIO DE PARIDAD DE GÉNERO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 705 - LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 207 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
