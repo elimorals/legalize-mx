@@ -4,7 +4,7 @@ identifier: "HID-ley-de-victimas-para-el-estado-de-hidalgo-150923"
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-01"
-last_updated: "2024-09-17"
+last_updated: "2026-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance Diez del Número 35 del Periódico Oficial del Estado de Hidalgo, el miércoles 1 de Septiembre de 2021.
 
@@ -184,6 +184,14 @@ La Comisión Estatal requerirá a la víctima en un plazo de treinta días hábi
 Las víctimas tendrán derecho a la asistencia y a la atención, el derecho a la asistencia comprenderá el conjunto integrado de mecanismos, procedimientos, programas, medidas y recursos de orden político, económico, social, cultural, entre otros, a cargo del Estado, orientado a restablecer la vigencia efectiva de los derechos de las víctimas, brindarles condiciones para llevar una vida digna y garantizar su incorporación a la vida social, económica y política. Entre estas medidas, las víctimas contarán con asistencia médica especializada incluyendo la psiquiátrica, psicológica, traumatológica y tanatológica.
 
 El derecho a la atención comprenderá recibir información, orientación y acompañamiento jurídico y psicosocial a las víctimas, con el objeto de facilitar su acceso a los derechos a la verdad, a la justicia y a la reparación integral del daño, cualificando el ejercicio de los mismos.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2026)</small>
+
+###### Artículo 8 Bis.
+
+Las autoridades estatales y municipales que tengan el primer contacto con una mujer víctima, en el ámbito de sus atribuciones, deberán informarle de manera clara, accesible y oportuna sobre sus derechos y los servicios de ayuda, asistencia, atención, protección, asesoría jurídica y acompañamiento; actuar con perspectiva de género, enfoque diferencial y especializado, debida diligencia y respeto a su autonomía; evitar cualquier práctica de revictimización o victimización secundaria; y, con su consentimiento, facilitar su canalización a las instituciones especializadas competentes.
+
+Cuando el primer contacto derive de una denuncia, querella o acto de investigación penal, su recepción, trámite y diligencias se regirán por el Código Nacional de Procedimientos Penales y demás legislación nacional aplicable, sin perjuicio de las obligaciones previstas en esta Ley.
 
 ###### Artículo 9.
 
@@ -1966,3 +1974,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1108 QUE REFORMAN LOS ARTÍCULOS 2 FRACCIÓN I Y 12 PÁRRAFO PRIMERO, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 690 – LXVI POR EL QUE SE ADICIONA UN ARTÍCULO 8 BIS A LA LEY DE VÍCTIMAS PARA EL ESTADO DE HIDALGO, EN MATERIA DE PRIMER CONTACTO CON MUJERES VÍCTIMAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
