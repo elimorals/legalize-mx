@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2026-08-06"
+last_updated: "2026-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2026.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -1609,6 +1609,12 @@ El Ejecutivo Federal y el Ejecutivo del Estado de Hidalgo podrán celebrar conve
 
 Además de las atribuciones concurrentes señaladas en esta Ley, las autoridades educativas federal y estatal, en el ámbito de sus competencias, tendrán las correspondientes en materia de educación superior que se establezcan en la Ley General de Educación Superior.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2026)</small>
+
+###### Artículo 117 Bis.
+
+Las autoridades educativas, en el ámbito de sus respectivas competencias, deberán respetar y garantizar el derecho a la presunción de inocencia de las maestras, los maestros y el personal administrativo en todas las actuaciones administrativas vinculadas con el ejercicio de su función, evitando cualquier trato, medida o comunicación que implique un juicio previo sobre su responsabilidad.
+
 ###### Artículo 118.
 
 El ayuntamiento de cada municipio podrá promover servicios educativos de cualquier tipo o modalidad, sin perjuicio de la concurrencia de las autoridades educativas federal y estatal.
@@ -2720,5 +2726,11 @@ P.O. 8 DE JULIO DE 2026.
 P.O. 6 DE AGOSTO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 684 - LXVI POR EL QUE SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN PARA LA SALUD Y PREVENCIÓN DEL SOBREPESO Y LA OBESIDAD EN EL ENTORNO ESCOLAR".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 689 – LXVI POR EL QUE SE ADICIONA EL ARTÍCULO 117 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE PRESUNCIÓN DE INOCENCIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
