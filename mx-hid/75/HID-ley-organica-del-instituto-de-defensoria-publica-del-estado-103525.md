@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-instituto-de-defensoria-publica-del-estado-103
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2017-10-09"
+last_updated: "2026-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -322,6 +322,10 @@ XIII. Concurrir a las reuniones, plenos, juntas y eventos a los que sean convoca
 XIV. Atender y desahogar las consultas jurídicas que les sean planteadas;
 
 XV. Plantear una adecuada defensa con sujeción a las normas jurídicas que prevén los procedimientos que establece el derecho adjetivo, acorde con los principios de los derechos humanos de las personas;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2026)</small>
+
+XV Bis. Respetar los sistemas normativos de las personas integrantes de los pueblos originarios y comunidades afromexicanas que soliciten una defensa o asesoría.
 
 XVI. Dar aviso al defensor público adscrito a la Sala Civil y Familiar del Tribunal Superior de Justicia del Estado, de los recursos interpuestos en materia civil, a efecto de que formule los agravios correspondientes;
 
@@ -700,3 +704,9 @@ P.O. 9 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 224 QUE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 8 DE LA LEY ORGÁNICA DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 688 POR EL QUE SE ADICIONA UNA FRACCIÓN XV BIS AL ARTÍCULO 19 DE LA LEY ORGÁNICA DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE HIDALGO, EN MATERIA DE ATENCIÓN JURÍDICA CON ENFOQUE INTERCULTURAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
