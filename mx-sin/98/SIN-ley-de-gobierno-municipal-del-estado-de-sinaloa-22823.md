@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2026-07-22"
+last_updated: "2026-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -1357,9 +1357,17 @@ III. Contar al momento de su designación con una experiencia de al menos cinco 
 
 IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
 
-V. No pertenecer o haber pertenecido en los cinco años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Ayuntamiento o haber fungido como consultor o auditor externo al Ayuntamiento, en lo individual durante ese periodo; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2026)</small>
 
-VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+V. No pertenecer o haber pertenecido en los cinco años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Ayuntamiento o haber fungido como consultor o auditor externo al Ayuntamiento, en lo individual durante ese periodo;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2026)</small>
+
+VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2026)</small>
+
+VII. No haber sido postulado o haber desempeñado cargo de elección popular, de tesorería, secretaría o dirección municipal; o responsable del manejo de los recursos públicos de algún partido político, en los cuatro años anteriores a la propia designación.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE MARZO DE 2021)</small>
 
@@ -2216,5 +2224,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes a las disposiciones reglamentarias correspondientes, en un plazo que no exceda de los 90 días naturales posteriores al inicio de vigencia del presente Decreto.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 500 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 67 BIS H DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
