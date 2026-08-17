@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2026-07-27"
+last_updated: "2026-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -547,11 +547,9 @@ Los Municipios de la Entidad ejercerán la debida concurrencia con el Estado enc
 
 Al efecto se observará el contenido del Capítulo Cuarto, Título Tercero de la Ley Orgánica Municipal.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
-
 ###### Artículo 34 Bis.
 
-El Instituto Hidalguense del Deporte y los Ayuntamientos conforme a sus atribuciones y competencias, promoverán mecanismos y acciones encaminadas a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y Protección Civil.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2026)
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
@@ -594,6 +592,10 @@ DE LA PARTICIPACIÓN Y ATRIBUCIONES DE LOS MUNICIPIOS.
 ###### Artículo 37.
 
 Las Autoridades Municipales, administrarán con transparencia y legalidad de manera directa las instalaciones deportivas Municipales, con el objeto de facilitar el acceso y uso de las mismas a las ligas, clubes, equipos y a las y los deportistas inscritos en el Registro Municipal correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2026)</small>
+
+Los bienes inmuebles que sirvan como instalaciones deportivas, que pertenezcan o se encuentren bajo el resguardo de los municipios, deberán administrarse con responsabilidad, privilegiando su destino para actividades de cultura física, deporte y recreación. Cuando en ellos se autoricen eventos distintos o actividades que impliquen la venta o consumo de bebidas alcohólicas, los ayuntamientos deberán observar la reglamentación municipal aplicable y adoptar, en el ámbito de sus atribuciones, las medidas de prevención, seguridad y protección civil que correspondan.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
@@ -1077,9 +1079,11 @@ II.- Participar con la Autoridad Deportiva en las actividades que tengan por obj
 
 III.- Fomentar el deporte entre sus compañeros.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2026)</small>
+
 #### SECCIÓN III
 
-DEL JUEGO LIMPIO.
+DEL JUEGO LIMPIO Y LA PREVENCIÓN DE LA VIOLENCIA EN EL DEPORTE.
 
 ###### Artículo 86.
 
@@ -1101,13 +1105,55 @@ IV.- La honestidad, la lealtad y una actitud firme y digna en su comportamiento 
 
 V.- Evitar el juego desleal, ingerir estimulantes u otras sustancias prohibidas por los ordenamientos legales aplicables, y el Reglamento de esta Ley; y
 
-VI.- Procurar observar acciones ejemplares durante el desempeño de la práctica deportiva;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2026)</small>
+
+VI.- Procurar observar acciones ejemplares durante el desempeño de la práctica deportiva.
 
 Las faltas del juego limpio se sancionan conforme a las disposiciones de esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2026)</small>
+
+Cuando las conductas a que se refiere este artículo constituyan infracciones administrativas o hechos que puedan ser constitutivos de delito, se dará vista a la autoridad competente, de conformidad con la Ley General de Cultura Física y Deporte, esta Ley y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2026)</small>
+
+Cuando exista resolución firme que imponga la suspensión del derecho de asistir a eventos deportivos masivos o con fines de espectáculo, las autoridades competentes realizarán las comunicaciones que procedan para la inscripción correspondiente en el padrón previsto en el artículo 155 de la Ley General de Cultura Física y Deporte, conforme a las disposiciones aplicables.
 
 ###### Artículo 88.
 
 El desarrollo de las actividades del deporte adaptado, se dará siempre en un marco de respeto e igualdad, vigilándose la salud física y mental de las y los deportistas.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2026)</small>
+
+###### Artículo 88 Bis.
+
+Las disposiciones de esta sección serán aplicables a los eventos deportivos que se celebren en el Estado, en el ámbito de competencia de las autoridades estatales y municipales, sin perjuicio de lo previsto en la Ley General de Cultura Física y Deporte y demás ordenamientos aplicables.
+
+Para efectos de las acciones de prevención y coordinación previstas en esta Ley, de manera enunciativa y no limitativa, constituyen actos o conductas violentas o que incitan a la violencia en el deporte:
+
+I. La participación activa de las personas deportistas, entrenadoras, juezas o árbitras, espectadoras, organizadoras, directivas o cualquier persona involucrada en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
+
+II. La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen, inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+III. La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, así como aquellos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+IV. La irrupción no autorizada en los terrenos de juego;
+
+V. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a las personas participantes o asistentes, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre participantes o asistentes;
+
+VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, así como la creación, difusión o utilización de soportes digitales para la realización de estas actividades; y
+
+VII. Las demás que establezcan la Ley General de Cultura Física y Deporte, esta Ley, su Reglamento, el Código de Conducta de cada disciplina y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2026)</small>
+
+###### Artículo 88 Ter.
+
+El Instituto Hidalguense del Deporte y los ayuntamientos, en el ámbito de sus respectivas atribuciones y conforme a la disponibilidad presupuestaria, promoverán mecanismos y acciones para prevenir la violencia, propiciar la cultura de paz y procurar el desarrollo seguro y ordenado de los eventos deportivos, en coordinación con las autoridades competentes en materia de seguridad pública y protección civil, así como, cuando corresponda, con prestadores de servicios de seguridad privada debidamente autorizados.
+
+La persona titular del Instituto Hidalguense del Deporte encabezará la Comisión Local contra la Violencia en el Deporte prevista en el artículo 139 de la Ley General de Cultura Física y Deporte. El Instituto coordinará sus trabajos y promoverá la elaboración y ejecución del programa anual de trabajo para la prevención de la violencia en eventos deportivos, conforme a dicha Ley General, su Reglamento y las demás disposiciones aplicables.
+
+Las acciones a que se refiere este artículo podrán comprender campañas de información y sensibilización, mecanismos de coordinación con organizadores y autoridades, medidas de orientación para el uso seguro de instalaciones deportivas y las demás que resulten procedentes para prevenir conductas violentas, sin perjuicio de las atribuciones de las autoridades competentes.
 
 ## TÍTULO OCTAVO
 
@@ -1976,5 +2022,11 @@ P.O. 8 DE JULIO DE 2026.
 P.O. 27 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 672 – LXVI POR EL CUAL SE REFORMA EL ARTÍCULO 2 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN DE LA ACTIVACIÓN FÍSICA REGULAR”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 687 - LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE PREVENCIÓN DE LA VIOLENCIA EN EL DEPORTE".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
