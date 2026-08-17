@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-diario-oficial-del-gobierno-del-estado-de-yucatan-68202
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-06"
-last_updated: "2025-12-24"
+last_updated: "2026-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATAN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE AGOSTO DE 2026.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 6 de abril de 2009.
 
@@ -213,11 +213,11 @@ La publicación del Diario podrá ser matutina, vespertina o especial. En caso d
 
 Por la importancia de su contenido o por la urgencia del asunto, el Director podrá autorizar la publicación de ediciones especiales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 16.
 
-La publicación de documentos y la emisión de copias certificadas del Diario causarán los derechos que para tal efecto establezca la Ley General de Hacienda del Gobierno del Estado de Yucatán.
+La publicación de documentos y la emisión de copias certificadas del Diario causarán los derechos que para tal efecto establezca la Ley General de Hacienda del Estado de Yucatán.
 
 Quedan exceptuados del pago de los derechos señalados en el párrafo anterior:
 
@@ -227,9 +227,15 @@ I. Los poderes Ejecutivo, Legislativo y Judicial del Gobierno del Estado;
 
 II. Los organismos públicos descentralizados del Estado, respecto a las publicaciones de sus estatutos orgánicos o reglas de operación de sus programas;
 
-III. Las autoridades o las instituciones públicas o privadas que suscriban un convenio al respecto con el Poder Ejecutivo del Estado, y
+> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2026)</small>
 
-IV. Las demás personas físicas o morales que disponga el Ejecutivo del Estado.
+III. Las autoridades o las instituciones públicas o privadas que suscriban un convenio al respecto con el Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2026)</small>
+
+IV. Los órganos jurisdiccionales que dispongan la publicación de edictos o avisos en los procedimientos de Declaración Especial de Ausencia, y
+
+V. Las demás personas físicas o morales que disponga el Ejecutivo del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
@@ -438,3 +444,11 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Artículo segundo. Derogación expresa
 
 Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
+
+D.O. 17 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 222/2026 POR EL QUE SE MODIFICA LA LEY DEL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATÁN, SOBRE DECLARACIÓN ESPECIAL DE AUSENCIA".]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
