@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-hacendaria-presupuesto-gasto-publico-y-99750"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2025-12-09"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 20 de marzo de 2014.
 
@@ -819,9 +819,11 @@ Las autorizaciones a las que se hace mención en dichos artículos serán realiz
 
 Los presupuestos de los municipios, serán aprobados por los ayuntamientos, en el mes de diciembre del año anterior al del ejercicio fiscal de que se trate; previamente los de las entidades paramunicipales serán aprobados por sus órganos de gobierno.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### ARTÍCULO 33.
 
-El Presidente Municipal ordenará la publicación del Presupuesto de Egresos aprobado por el Ayuntamiento, las Plantillas de Personal, el Tabulador de Sueldos y las modificaciones de ellos, y las que se autoricen en el transcurso del año, en el Periódico Oficial, dentro de los tres días siguientes a los de su aprobación. Deberá enviarse a la Auditoría, un ejemplar para la vigilancia de su ejercicio, dentro de los cinco días hábiles siguientes a su publicación.
+El Presidente Municipal ordenará la publicación del Presupuesto de Egresos aprobado por el Ayuntamiento, las Plantillas de Personal, el Tabulador de Sueldos y las modificaciones de ellos, y las que se autoricen en el transcurso del año, en el Periódico Oficial, dentro de los ocho días hábiles siguientes a los de su aprobación. De igual manera, deberán de entregar la documentación impresa y digital a la Auditoría Superior de Michoacán, anexando el acuse del oficio de la solicitud de publicación en el Periódico Oficial.
 
 ## TÍTULO CUARTO. DEL EJERCICIO DEL GASTO PÚBLICO Y ADECUACIONES PRESUPUESTALES
 
@@ -1796,3 +1798,15 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Dese cuenta el presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Tercero. Remítase copia del presente Decreto a la Secretaría de Finanzas y Administración del Estado de Michoacán de Ocampo, para conocimiento y efectos conducentes.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 514 POR EL QUE "SE REFORMA EL ARTÍCULO 33 DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular de la Auditoría Superior de Michoacán, para conocimiento y efectos conducentes.
+
+TERCERO. Notifíquese el presente Decreto a los 112 Ayuntamientos del Estado de Michoacán y al Concejo Mayor de Cherán, Michoacán.
+
+CUARTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación.
