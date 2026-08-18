@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2026-07-06"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -297,7 +297,9 @@ IV.- Cartilla Estatal de Salud de la Mujer.- Es el documento oficial para dar se
 
 V.- Certificado.- El documento expedido por las autoridades sanitarias para hacer constar hechos determinados;
 
-VI.- Consejo General de Salud.- El órgano cuyas atribuciones fundamentales son asesorar al Ejecutivo del Estado y definir las políticas del Sistema Estatal de Salud;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VI.- Consejo General de Salud.- El órgano cuyas atribuciones fundamentales son asesorar al Ejecutivo del Estado y definir las políticas del Sistema Estatal de Salud; asimismo, constituye la instancia superior de coordinación, consulta, evaluación y concertación del Sistema Estatal de Salud;
 
 VII.- Control sanitario.- El conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones administrativas que ejercita la autoridad sanitaria;
 
@@ -445,7 +447,9 @@ I.- Establecer y conducir la política estatal en materia de salud, en los térm
 
 II.- Coordinar los programas de servicios de salud y telesalud de las dependencias y entidades de la administración pública estatal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen;
 
-III.- Establecer y coordinar el Consejo General de Salud, con el fin de asesorar al Ejecutivo del Estado en materia de salud;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+III.- Coordinar el funcionamiento del Consejo General de Salud para el cumplimiento de su objeto, por conducto de la Presidencia Ejecutiva;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
@@ -637,37 +641,101 @@ XII.- Participar, en coordinación con las unidades administrativas competentes 
 
 XIII.- Las demás facultades que otras disposiciones legales le confieren a la Secretaría de Salud del Estado de Tamaulipas, en las materias que conforme a lo dispuesto en este artículo sean de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### ARTICULO 11.
 
-El Consejo General de Salud es un órgano asesor del Ejecutivo del Estado, en los términos del artículo 145 de la Constitución Política del Estado de Tamaulipas, y estará integrado de la forma siguiente:
+El Consejo General de Salud es un órgano asesor del Ejecutivo del Estado, en los términos del artículo 145 de la Constitución Política del Estado de Tamaulipas, asimismo constituye la instancia superior de coordinación, consulta, evaluación y concertación del Sistema Estatal de Salud, y estará integrado de la forma siguiente:
 
-I.- Un Presidente, que será el Secretario de Salud;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-II.- Un secretario técnico; y
+I.- Una Presidencia, que será ejercida por la persona Titular del Poder Ejecutivo del Estado;
 
-III.- Diez vocales, que serán:
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+II.- Una Presidencia Ejecutiva, que será ejercida por la persona Titular de la Secretaría de Salud;
 
-A).- El Secretario de Educación;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-B).- Un representante del Poder Legislativo;
+III.- Una secretaría técnica; y
 
-C).- El Delegado del Instituto Mexicano del Seguro Social;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE AGOSTO DE 2026)</small>
 
-D).- El Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+IV.- Vocales, integrados por las personas titulares o representantes de:
 
-E).- El Director General del Sistema para el Desarrollo Integral de la Familia de Tamaulipas;
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
-F).- El Rector de la Universidad Autónoma de Tamaulipas;
+A).- La Secretaría de Educación;
 
-G).- El Presidente de la Red Estatal de Municipios Saludables;
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
-H).- El Delegado Estatal de la Cruz Roja;
+B).- El Poder Legislativo;
 
-I).- El Presidente de la Asociación de Médicos Generales y Familiares del Centro de Tamaulipas, A.C.; y
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
-J).- Un representante de las Jurisdicciones Sanitarias.
+C).- El Instituto Mexicano del Seguro Social;
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+D).- El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+E).- La Dirección General del Sistema para el Desarrollo Integral de la Familia de Tamaulipas;
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+F).- La Universidad Autónoma de Tamaulipas;
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+G).- La Presidencia de la Red Estatal de Municipios Saludables;
+
+H).- (DEROGADO, P.O. 18 DE AGOSTO DE 2026)
+
+I).- (DEROGADO, P.O. 18 DE AGOSTO DE 2026)
+
+J).- (DEROGADO, P.O. 18 DE AGOSTO DE 2026)
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+K).- El IMSS Bienestar Tamaulipas;
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+L).- Servicios Médicos de Petróleos Mexicanos;
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+M).- El Servicio de Sanidad Militar;
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+N).- El Sistema de Sanidad Naval;
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+Ñ).- Representación de los Distritos de Salud para el Bienestar;
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+O).- El Patrimonio de la Beneficencia Pública del Estado de Tamaulipas;
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+P).- Representación de las instituciones privadas prestadoras de servicios de salud legalmente establecidas en la entidad;
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+Q).- Representación de colegios, asociaciones y organizaciones de profesionales de la salud;
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+R).- Representación de las instituciones de educación superior privadas que impartan programas en ciencias de la salud; y
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+S).- Los demás integrantes que determine el Reglamento Interior del Consejo.
 
 Asimismo, el Consejo podrá invitar a las sesiones, a personas que, por los asuntos a tratar, deban emitir su opinión.
 
@@ -683,9 +751,19 @@ II.- Sugerir reformas o adiciones a las disposiciones legales en materia de salu
 
 III.- Requerir a los Consejos Estatales, informes de resultados de los programas a su cargo;
 
-IV.- Proponer a las autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-V.- Las demás que sean necesarias para el cumplimiento de sus funciones.
+IV.- Proponer a las autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+V.- Evaluar periódicamente el desempeño del Sistema Estatal de Salud;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VI.- Solicitar información a los integrantes del Sistema Estatal de Salud para efectos de evaluación, coordinación y seguimiento; y
+
+VII.- Las demás que sean necesarias para el cumplimiento de sus funciones.
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
 
@@ -4456,3 +4534,19 @@ La Secretaría de Salud, en coordinación con las autoridades competentes, emiti
 ###### ARTÍCULO TERCERO.
 
 Las instituciones de salud públicas y privadas deberán realizar las adecuaciones administrativas, operativas y de capacitación que resulten necesarias para cumplir lo dispuesto en este Decreto.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1353 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo General de Salud deberá instalarse conforme a la nueva integración, dentro de los 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La persona Titular de la Secretaría de Salud presentará ante el Consejo, durante la sesión de instalación para su aprobación, y posteriormente a la persona titular del Poder Ejecutivo, el proyecto de reforma del Reglamento Interior del Consejo General de Salud.
