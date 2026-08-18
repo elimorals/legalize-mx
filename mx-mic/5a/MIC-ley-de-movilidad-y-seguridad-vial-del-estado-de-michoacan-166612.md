@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-movilidad-y-seguridad-vial-del-estado-de-michoacan-16661
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-02"
-last_updated: "2026-06-04"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en la Novena Sección del Número 7 del Periódico Oficial del Estado de Michoacán, el viernes 2 de junio de 2023.
 
@@ -153,6 +153,10 @@ IV. Diseño universal. Todos los componentes de los sistemas de movilidad deben 
 
 V. Eficiencia. Maximizar los desplazamientos ágiles y asequibles, tanto de personas usuarias como de bienes y mercancías, optimizando los recursos ambientales y económicos disponibles, haciendo uso de las tecnologías de la información y comunicación disponibles;
 
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+V Bis. Electromovilidad. El conjunto de políticas públicas, acciones, infraestructura y tecnologías aplicables al sistema de movilidad, orientadas al uso de vehículos impulsados total o parcialmente por energía eléctrica, así como a los sistemas de recarga necesarios para su operación, con el fin de promover una movilidad sustentable, eficiente y de bajas o cero emisiones en el Estado;
+
 VI. Equidad. Considerar y reconocer condiciones y aspiraciones de las personas con perspectiva de género e inclusión social, para brindar la igualdad de derechos y oportunidades, tanto para mujeres y hombres, así como de los grupos en situación de vulnerabilidad, y de las personas que realizan la movilidad de cuidado;
 
 VII. Habitabilidad. Generar condiciones para que las vías cumplan con las funciones de movilidad y creación de espacio público de calidad, a través de la interacción social, la diversidad de actividades y la articulación de servicios, equipamientos e infraestructura;
@@ -275,7 +279,9 @@ XL. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estad
 
 XLI. Perito: Experto en hechos de tránsito terrestre, autorizado por la SSP para intervenir con motivo de un siniestro de tránsito, a fin de emitir su dictamen de pro bable (sic) responsabilidad y a requerimiento de la autoridad competente;
 
-XLII. Permiso para conducir: Documento expedido por la SSP a menores de dieciocho y mayores de dieciséis años, que reúnan las condiciones de madurez y capacidad necesarias para conducir vehículos con base en los exámenes que se les practiquen, por el tiempo y en los términos establecidos en la presente Ley y su Reglamento, previa autorización de quien ejerza la patria potestad;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XLII. Permiso para conducir: Documento expedido de manera material o digital por la SSP a menores de dieciocho y mayores de dieciséis años, que reúnan las condiciones de madurez y capacidad necesarias para conducir vehículos con base en los exámenes que se les practiquen, por el tiempo y en los términos establecidos en la presente Ley y su Reglamento, previa autorización de quien ejerza la patria potestad;
 
 XLIII. Permiso: Acto administrativo por virtud del cual, el Ejecutivo del Estado, confiere a una persona física o moral la prestación temporal del servicio de transporte especializado, mediante el pago de una remuneración;
 
@@ -336,6 +342,10 @@ LXX. SSP: A la Secretaría de Seguridad Pública;
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
 LXXI. Tarifa: La contraprestación previamente autorizada por el servicio de transporte público y especializado que se preste en territorio estatal, la cual podrá ser mediante pago en efectivo, tarjeta de prepago o cualquier otra modalidad autorizada en esta Ley, su Reglamento y demás normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+LXXI BIS. Tarjeta de circulación: Documento oficial expedido por la autoridad competente que acredita la inscripción de un vehículo en el Registro Estatal Vehicular y sus características de identificación, el cual podrá emitirse y exhibirse en formato físico o digital, en los términos previstos en esta Ley y su Reglamento;
 
 LXXII. Titular del Poder Ejecutivo: Al Titular del Poder Ejecutivo del Estado;
 
@@ -1833,11 +1843,19 @@ El respeto a los espacios de circulación peatonal, ciclista y de transporte pú
 
 XI. Dar a conocer las medidas y cumplimiento de programas establecidos para protección del medio ambiente y las sanciones en las que se incurren;
 
-XII. La prevención de hechos de tránsito, particularmente sobre los ocasionados por conductores que circulan excediendo los límites de velocidad permitidos, en estado de ebriedad o bajo el influjo de sustancias que alteren la capacidad para conducir; y,
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XII. La prevención de hechos de tránsito, particularmente sobre los ocasionados por conductores que circulan excediendo los límites de velocidad permitidos, en estado de ebriedad o bajo el influjo de sustancias que alteren la capacidad para conducir;
 
 XIII. Los procedimientos para reaccionar ante condiciones de emergencia con motivo del tránsito, para autoprotegerse y en su caso, prestar ayuda y protección a las víctimas de hechos de tránsito, informando a los cuerpos de seguridad y unidades de protección civil.
 
-Las campañas de comunicación en materia de movilidad y educación vial, de manera enunciativa más no limitativa, deberán difundirse en los sistemas de comunicación públicos, así como en las páginas digitales oficiales de las dependencias y entidades que tengan funciones relacionadas con la movilidad en el Estado.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+Las campañas de comunicación en materia de movilidad y educación vial, de manera enunciativa más no limitativa, deberán difundirse en los sistemas de comunicación públicos, así como en las páginas digitales oficiales de las dependencias y entidades que tengan funciones relacionadas con la movilidad en el Estado; y,
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XIV. Promover el conocimiento, adopción y beneficios de la electromovilidad y de las tecnologías de bajas o cero emisiones en el transporte, como parte de las estrategias de movilidad sustentable, asegurando que la difusión de la información se realice en formatos accesibles y con pertinencia cultural y lingüística.
 
 ###### Artículo 90.
 
@@ -1999,9 +2017,11 @@ La información que contenga el registro de los vehículos a que alude este cap�
 
 ### CAPÍTULO III. DE LA CIRCULACIÓN DE VEHÍCULOS
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 105.
 
-Los propietarios, legítimos poseedores o conductores de vehículos que circulen en territorio estatal deberán cumplir con las disposiciones de la presente Ley y su Reglamento, estar inscritos en el Registro Estatal Vehicular, así como portar Licencia de conducir vigente, ambas placas y tarjeta de circulación, calcomanía u holograma y cumplir con las condiciones de seguridad vial que establece la Ley de la materia;
+Los propietarios, legítimos poseedores o conductores de vehículos que circulen en territorio estatal deberán cumplir con las disposiciones de la presente Ley y su Reglamento, estar inscritos en el Registro Estatal Vehicular, así como portar las placas del vehículo y la calcomanía u holograma correspondiente; la licencia de conducir vigente y la tarjeta de circulación, las cuales podrán presentarse en formato físico o digital, emitida a través de las plataformas oficiales de Gobierno Digital del Estado de Michoacán, en los términos previstos en esta Ley; y cumplir con las condiciones de seguridad vial que establece la Ley de la materia.
 
 ###### Artículo 106.
 
@@ -4440,3 +4460,19 @@ SEGUNDO. El Titular del Poder Ejecutivo del Estado, por conducto de la Secretar�
 TERCERO. El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Urbano y Movilidad del Estado de Michoacán, en coordinación con los municipios, realizará de manera gradual la adecuación de la señalización vertical y horizontal prevista en el presente Decreto, conforme a la disponibilidad presupuestaria aprobada en los ejercicios fiscales correspondientes, utilizando los recursos autorizados.
 
 CUARTO. El Titular del Poder Ejecutivo del Estado, a través de las autoridades competentes, así como los municipios, en el ejercicio de sus respectivas atribuciones, deberán llevar a cabo la revisión, adecuación y armonización de sus reglamentos, disposiciones administrativas y protocolos de actuación en materia de tránsito.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 510 POR EL QUE "SE REFORMA LA FRACCIÓN XLII Y SE ADICIONA LA FRACCIÓN LXXI BIS AL ARTÍCULO 6; Y, SE REFORMA EL ARTÍCULO 105 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El Poder Ejecutivo del Estado deberá incluir en el Proyecto de Presupuesto de Egresos del Estado correspondiente al ejercicio fiscal 2027, las previsiones presupuestales necesarias para la implementación y operación de las adecuaciones derivadas del presente Decreto, conforme a la normativa aplicable en materia de disciplina presupuestaria.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 511 POR EL QUE "SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 5; Y, SE REFORMAN LAS FRACCIONES XII Y XIII Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 89 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán.
+
+Segundo. Notifíquese el Presente Decreto al Titular del Ejecutivo del Estado para los efectos legales correspondientes.
