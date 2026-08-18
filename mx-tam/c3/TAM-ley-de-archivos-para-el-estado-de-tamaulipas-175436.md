@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-archivos-para-el-estado-de-tamaulipas-175436"
 country: "mx"
 rank: "ley"
 publication_date: "2024-12-21"
-last_updated: "2026-02-12"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en Número 42 Extraordinario del Periódico Oficial del Estado de Tamaulipas, el sábado 21 de diciembre de 2024.
 
@@ -103,7 +103,9 @@ V. Archivo de trámite: Al integrado por documentos de archivo de uso cotidiano 
 
 VI. Archivo General: Al Archivo General de la Nación;
 
-VII. Archivo General del Estado: A la entidad especializada en materia de archivos en el Estado de Tamaulipas, que tiene por objeto promover la administración homogénea de los archivos, preservar, incrementar y difundir el patrimonio documental de la entidad, con el fin de salvaguardar su memoria de corto, mediano y largo plazo, así como contribuir a la transparencia y rendición de cuentas;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VII. Archivo General del Estado de Tamaulipas: A la entidad especializada en materia de archivos en el Estado de Tamaulipas, que tiene por objeto promover la administración homogénea de los archivos, preservar, incrementar y difundir el patrimonio documental de la entidad, con el fin de salvaguardar su memoria de corto, mediano y largo plazo, así como contribuir a la transparencia y rendición de cuentas;
 
 VIII. Archivo histórico: Al integrado por documentos de conservación permanente y de relevancia para la memoria nacional, regional o local de carácter público;
 
@@ -133,7 +135,9 @@ XX. Cuadro general de clasificación archivística: Al instrumento técnico que 
 
 XXI. Datos abiertos: A los datos digitales de carácter público que son accesibles en línea y pueden ser usados, reutilizados y redistribuidos, por cualquier interesado;
 
-XXII. Director General: Al Director General del Archivo General del Estado;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XXII. Directora o Director General: Persona titular de la Dirección General del Archivo General del Estado de Tamaulipas;
 
 XXIII. Disposición documental: A la selección sistemática de los expedientes de los archivos de trámite o concentración cuya vigencia documental o uso ha prescrito, con el fin de realizar transferencias ordenadas o bajas documentales;
 
@@ -159,7 +163,7 @@ XXXIII. Gestión documental: Al tratamiento integral de la documentación a lo l
 
 XXXIV. Grupo interdisciplinario: Al conjunto de personas que deberá estar integrado por el titular del área coordinadora de archivos; la unidad de transparencia; los titulares de las áreas de planeación estratégica, jurídica, mejora continua, órganos internos de control o sus equivalentes; las áreas responsables de la información, así como el responsable del archivo histórico, con la finalidad de coadyuvar en la valoración documental;
 
-XXXV. Instituto de Transparencia: El Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas;
+XXXV. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
 XXXVI. Interoperabilidad: A la capacidad de los sistemas de información de compartir datos y posibilitar el intercambio entre ellos;
 
@@ -177,9 +181,13 @@ XLII. Metadatos: Al conjunto de datos que describen el contexto, contenido y est
 
 XLIII. Organización: Al conjunto de operaciones intelectuales y mecánicas destinadas a la clasificación, ordenación y descripción de los distintos grupos documentales con el propósito de consultar y recuperar, eficaz y oportunamente, la información. Las operaciones intelectuales consisten en identificar y analizar los tipos de documentos, su procedencia, origen funcional y contenido, en tanto que las operaciones mecánicas son aquellas actividades que se desarrollan para la ubicación física de los expedientes;
 
-XLIV. Órgano de Gobierno: Al Órgano de Gobierno del Archivo General del Estado;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-XLV. Órgano de Vigilancia: Al Órgano de Vigilancia en el Archivo General del Estado;
+XLIV. Órgano de Gobierno: Al Órgano de Gobierno del Archivo General del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XLV. Órgano de Vigilancia: Al Órgano de Vigilancia del Archivo General del Estado de Tamaulipas;
 
 XLVI. Patrimonio documental: A los documentos que, por su naturaleza, no son sustituibles y dan cuenta de la evolución del Estado y de las personas e instituciones que han contribuido en su desarrollo; además de transmitir y heredar información significativa de la vida intelectual, social, política, económica, cultural y artística de una comunidad, incluyendo aquellos que hayan pertenecido o pertenezcan a los archivos del Estado y sus municipios, casas curales o cualquier otra organización, sea religiosa o civil;
 
@@ -206,6 +214,10 @@ LVI. Subserie: A la división de la serie documental;
 LVII. Sujetos obligados: A cualquier autoridad, entidad, órgano y organismo de los Poderes Legislativo, Ejecutivo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos; así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, así como a las personas físicas o morales que cuenten con archivos privados de interés público;
 
 LVIII. Transferencia: Al traslado controlado y sistemático de expedientes de consulta esporádica de un archivo de trámite a uno de concentración y de expedientes que deben conservarse de manera permanente, del archivo de concentración al archivo histórico;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+LVIII Bis. Transparencia para el Pueblo de Tamaulipas: Es el Órgano Desconcentrado de la Secretaría Anticorrupción y Buen Gobierno del Estado de Tamaulipas;
 
 LIX. Trazabilidad: A la cualidad que permite, a través de un sistema automatizado para la gestión documental y administración de archivos, identificar el acceso y la modificación de documentos electrónicos;
 
@@ -301,7 +313,9 @@ Los sujetos obligados deberán contar con los instrumentos de control y de consu
 
 I. Cuadro general de clasificación archivística;
 
-II. Catálogo de disposición documental; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+II. Catálogo de disposición documental; e
 
 III. Inventarios documentales.
 
@@ -333,9 +347,11 @@ En caso de que algún sujeto obligado, área o unidad de éste, se fusione, exti
 
 Las leyes y los instrumentos jurídicos en que se sustenten los procesos de transformación deberán prever el tratamiento que se dará a los archivos e instrumentos de control y consulta archivísticos en el ámbito estatal y municipal, en los supuestos previstos en el primer párrafo del presente artículo.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 19.
 
-Tratándose de la liquidación o extinción de un sujeto obligado del gobierno estatal, será obligación del liquidador remitir copia del inventario de los expedientes, del fondo que se resguardará, al Archivo General del Estado.
+Tratándose de la liquidación o extinción de un sujeto obligado del gobierno estatal, será obligación del liquidador remitir copia del inventario de los expedientes, del fondo que se resguardará, al Archivo General del Estado de Tamaulipas.
 
 ### CAPÍTULO IV. DEL SISTEMA INSTITUCIONAL DE ARCHIVOS
 
@@ -387,7 +403,13 @@ c) Archivo de concentración; y
 
 d) Archivo histórico, en su caso, sujeto a la capacidad presupuestal y técnica del sujeto obligado.
 
-Las personas responsables de los archivos de trámite, serán nombradas por la persona titular de cada área o unidad; las personas responsables del archivo de concentración y del archivo histórico serán nombrados por la persona titular del sujeto obligado de que se trate.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+Las personas responsables de los archivos de trámite serán designadas por la persona titular de cada área o unidad; las personas responsables del Área Coordinadora de Archivos, archivo de concentración y del archivo histórico serán nombradas por la persona titular del sujeto obligado de que se trate.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+Las personas responsables de las áreas de correspondencia podrán ser designadas por el titular del Sujeto Obligado o por la persona titular del área o unidad administrativa productora.
 
 Las personas encargadas y responsables de cada área deberán contar con licenciatura en áreas afines o tener conocimientos, habilidades, competencias y experiencia acreditada en archivística.
 
@@ -505,7 +527,9 @@ VIII. Integrar a sus respectivos expedientes, el registro de los procesos de dis
 
 IX. Publicar, al final de cada año, los dictámenes y actas de baja documental y transferencia secundaria, en los términos que establezcan las disposiciones en la materia y conservarlos en el archivo de concentración por un periodo mínimo de siete años a partir de la fecha de su elaboración;
 
-X. Realizar la transferencia secundaria de las series documentales que hayan cumplido su vigencia documental y posean valores evidenciales, testimoniales e informativos al archivo histórico del sujeto obligado, o al Archivo General del Estado, según corresponda; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+X. Realizar la transferencia secundaria de las series documentales que hayan cumplido su vigencia documental y posean valores evidenciales, testimoniales e informativos al archivo histórico del sujeto obligado, o al Archivo General del Estado de Tamaulipas, según corresponda; y
 
 XI. Las que establezcan en el respectivo ámbito de sus competencias el Consejo Nacional, el Consejo Estatal y las disposiciones aplicables en la materia.
 
@@ -531,13 +555,17 @@ VI. Las demás que establezcan las disposiciones aplicables.
 
 Las personas responsables de los archivos históricos deben contar con los conocimientos, habilidades, competencias y experiencia acordes con su responsabilidad; de no ser así, las personas titulares del sujeto obligado tienen la obligación de establecer las condiciones que permitan la capacitación de las personas responsables para el buen funcionamiento de los archivos.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 33.
 
-Los sujetos obligados que no cuenten con archivo histórico deberán promover su creación o establecimiento, mientras tanto, deberán transferir sus documentos con valor histórico al Archivo General del Estado, o al organismo que se determine de acuerdo con las disposiciones aplicables o los convenios de colaboración que se suscriban para tal efecto.
+Los sujetos obligados que no cuenten con archivo histórico deberán promover su creación o establecimiento, mientras tanto, deberán transferir sus documentos con valor histórico al Archivo General del Estado de Tamaulipas, o al organismo que se determine de acuerdo con las disposiciones aplicables o los convenios de colaboración que se suscriban para tal efecto.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 34.
 
-Cuando los documentos históricos presenten un deterioro físico que impida su consulta directa, el Archivo General del Estado, así como los sujetos obligados, proporcionarán la información, cuando las condiciones lo permitan, mediante un sistema de reproducción que no afecte la integridad del documento.
+Cuando los documentos históricos presenten un deterioro físico que impida su consulta directa, el Archivo General del Estado de Tamaulipas, así como los sujetos obligados, proporcionarán la información, cuando las condiciones lo permitan, mediante un sistema de reproducción que no afecte la integridad del documento.
 
 ###### Artículo 35.
 
@@ -555,9 +583,11 @@ Los documentos que contengan datos personales sensibles, de acuerdo con la norma
 
 El sujeto obligado deberá asegurar que se cumplan los plazos de conservación establecidos en el catálogo de disposición documental y que los mismos no excedan el tiempo que la normatividad específica que rija las funciones y atribuciones del sujeto obligado disponga, o en su caso, del uso, consulta y utilidad que tenga su información. En ningún caso el plazo podrá exceder de 25 años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 38.
 
-El Instituto de Transparencia, de acuerdo con la legislación en materia de transparencia y acceso a la información pública, determinará el procedimiento para permitir el acceso a la información de un documento con valores históricos, que no haya sido transferido a un archivo histórico y que contenga datos personales sensibles, de manera excepcional en los siguientes casos:
+Las Autoridades Garantes, de acuerdo con la legislación en materia de transparencia y acceso a la información pública, determinarán el procedimiento para permitir el acceso a la información de un documento con valores históricos que no haya sido transferido a un archivo histórico y que contenga datos personales sensibles, de manera excepcional en los siguientes casos:
 
 I. Se solicite para una investigación o estudio que se considere relevante, siempre que el mismo no se pueda realizar sin acceso a la información confidencial y la persona que realice la investigación o el estudio quede obligado por escrito a no divulgar la información obtenida del archivo con datos personales sensibles;
 
@@ -567,7 +597,9 @@ III. El acceso a dicha información beneficie de manera contundente al titular d
 
 IV. Sea solicitada por un familiar directo del titular de la información o un biógrafo autorizado por él mismo.
 
-Los particulares podrán impugnar las determinaciones o resoluciones del Instituto de Transparencia a que se refiere el presente artículo, ante el Poder Judicial de la Federación.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+Los particulares podrán impugnar las determinaciones o resoluciones de las autoridades referidas en el párrafo primero a que se refiere el presente artículo, ante el Poder Judicial de la Federación.
 
 ###### Artículo 39.
 
@@ -735,13 +767,17 @@ El Consejo Estatal establecerá lineamientos para analizar, valorar y decidir la
 
 Los sujetos obligados deberán publicar en su portal electrónico con vínculo al portal de transparencia, los dictámenes y actas de baja documental y transferencia secundaria, los cuales se conservarán en el archivo de concentración por un periodo mínimo de siete años a partir de la fecha de su elaboración.
 
-Para aquellos sujetos obligados que no cuenten con un portal electrónico, la publicación se realizará a través del Archivo General del Estado, en los términos que establezcan las disposiciones en la materia.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+Para aquellos sujetos obligados que no cuenten con un portal electrónico, la publicación se realizará a través del Archivo General del Estado de Tamaulipas, en los términos que establezcan las disposiciones en la materia.
 
 Los sujetos obligados distintos al Poder Ejecutivo del Estado transferirán a los respectivos archivos históricos para su conservación permanente dichos dictámenes y actas.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 58.
 
-Los sujetos obligados que cuenten con un archivo histórico deberán transferir los documentos con valor histórico a dicho archivo, debiendo informar al Archivo General del Estado, en un plazo de cuarenta y cinco días naturales posteriores a la transferencia secundaria.
+Los sujetos obligados que cuenten con un archivo histórico deberán transferir los documentos con valor histórico a dicho archivo, debiendo informar al Archivo General del Estado de Tamaulipas, en un plazo de cuarenta y cinco días naturales posteriores a la transferencia secundaria.
 
 ### CAPÍTULO II. DE LA CONSERVACIÓN
 
@@ -797,13 +833,15 @@ El Sistema Estatal se coordinará con el Sistema Nacional en un marco de respeto
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE ARCHIVOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 64.
 
-Los representantes referidos en las fracciones V y VI de este artículo serán designados en los términos que disponga la normativa de los órganos a que pertenecen.
+Los representantes referidos en las fracciones V, VI y VII Bis de este artículo serán designados en los términos que disponga la normativa de los órganos a que pertenecen.
 
-I. La persona titular del Archivo General del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+I. La persona titular del Archivo General del Estado de Tamaulipas, quien lo presidirá;
 
 II. La persona titular de la Secretaría General de Gobierno;
 
@@ -819,13 +857,25 @@ VI. Una persona representante del Poder Judicial del Estado;
 
 VII. (DEROGADA, P.O. 12 DE FEBRERO DE 2026)
 
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VII Bis. La persona titular de Transparencia para el Pueblo de Tamaulipas;
+
 VIII. La persona titular de la Auditoría Superior del Estado;
 
 IX. Las personas representantes de los Municipios del Estado en los términos del presente capítulo;
 
-X. La persona representante de los archivos privados en el Estado; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-XI. La persona representante del Consejo Técnico y Científico Archivístico.
+X. La persona representante de los archivos privados en el Estado;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XI. La persona representante del Consejo Técnico y Científico Archivístico; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XII. La persona representante de la Universidad Autónoma de Tamaulipas.
 
 Los representantes referidos en las fracciones IV, V y VI de este artículo serán designados en los términos que disponga la normativa de los órganos a que pertenecen.
 
@@ -833,9 +883,9 @@ La designación de la representación de los archivos privados referidos en la f
 
 La persona que presida o, a propuesta de las personas integrantes del Consejo Estatal, podrá invitar a las sesiones de éste a las personas que considere pertinentes, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz, pero sin voto.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
-Serán invitados permanentes del Consejo Estatal con voz, pero sin voto, los órganos a los que la Constitución Estatal reconoce autonomía, distintos a los referidos en la fracción VIII del presente artículo, quienes designarán un representante.
+Serán invitados permanentes del Consejo Estatal con voz, pero sin voto, los órganos a los que la Constitución Estatal reconoce autonomía, distintos a los referidos en la fracción XII del presente artículo, quien designará un representante.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
@@ -863,9 +913,11 @@ Para la designación por primera vez de la representación de las regiones en qu
 
 Para el caso de que alguna persona representante concluya o sea removida de su cargo, el Consejo Estatal convocará a dicha región a nuevas elecciones, siguiendo las reglas del párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 66.
 
-El Consejo Estatal de Archivos sesionará en la sede del Archivo General del Estado de manera ordinaria y extraordinaria. Las sesiones ordinarias se efectuarán, dos veces al año, y serán convocadas por su presidente, a través de la Secretaría Técnica.
+El Consejo Estatal de Archivos sesionará en la sede del Archivo General del Estado de Tamaulipas de manera ordinaria y extraordinaria. Las sesiones ordinarias se efectuarán, dos veces al año, y serán convocadas por su presidente, a través de la Secretaría Técnica.
 
 Las convocatorias a las sesiones ordinarias se efectuarán con quince días hábiles de anticipación, a través de los medios que resulten idóneos, incluyendo los electrónicos, y contendrán, cuando menos, el lugar, fecha y hora de la celebración de la sesión, el orden del día y, en su caso, los documentos que serán analizados.
 
@@ -933,13 +985,15 @@ El Consejo Estatal adoptará, con carácter obligatorio, en el ámbito de sus re
 
 El Consejo Estatal, con base en las determinaciones que emita el Consejo Nacional, publicará en el Periódico Oficial del Estado, las disposiciones que sean necesarias para dar cumplimiento a lo previsto en la Ley.
 
-### CAPÍTULO III
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2026)</small>
 
-DE LA COORDINACIÓN CON EL INSTITUTO DE TRANSPARENCIA, DE ACCESO A LA INFORMACIÓN Y DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE TAMAULIPAS Y EL SISTEMA ESTATAL ANTICORRUPCIÓN
+### CAPÍTULO III. DE LA COORDINACIÓN CON TRANSPARENCIA PARA EL PUEBLO DE TAMAULIPAS Y EL SISTEMA ESTATAL ANTICORRUPCIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 71.
 
-El Sistema Estatal estará coordinado con el Instituto de Transparencia y el Sistema Estatal Anticorrupción y deberá:
+El Sistema Estatal estará coordinado con Transparencia para el Pueblo de Tamaulipas y el Sistema Estatal Anticorrupción y deberá:
 
 I. Fomentar en la entidad, la capacitación y la profesionalización del personal encargado de la organización y coordinación de los sistemas de archivo con una visión integral;
 
@@ -955,11 +1009,15 @@ IV. Promover la digitalización de la información generada con motivo del ejerc
 
 Las personas físicas y morales, propietarias o poseedoras de documentos o archivos considerados de interés público, deberán garantizar su conservación, preservación y acceso en términos de la Ley General y demás disposiciones aplicables.
 
-Asimismo, los particulares podrán solicitar al Archivo General del Estado asistencia técnica en materia de gestión documental y administración de archivos.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+Asimismo, los particulares podrán solicitar al Archivo General del Estado de Tamaulipas asistencia técnica en materia de gestión documental y administración de archivos.
 
 Se consideran de interés público los documentos o archivos cuyo contenido resulte de importancia o de relevancia para el conocimiento de la historia Estatal y Nacional, de conformidad con los criterios que establezca el Consejo Nacional, considerando los elementos característicos del patrimonio documental de la Nación.
 
-El Archivo General convendrá con los particulares o con quien legalmente los represente, las bases, procedimientos, condicionantes y garantías para realizar una versión facsimilar o digital de los documentos o archivos de interés público que se encuentren en posesión de particulares.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+El Archivo General del Estado de Tamaulipas convendrá con los particulares o con quien legalmente los represente, las bases, procedimientos, condicionantes y garantías para realizar una versión facsimilar o digital de los documentos o archivos de interés público que se encuentren en posesión de particulares.
 
 ###### Artículo 73.
 
@@ -997,9 +1055,11 @@ El patrimonio documental del Estado está sujeto a la jurisdicción de los poder
 
 Para que pueda aplicarse la protección que la Ley General otorga al patrimonio documental de la Nación, se hará extensiva dicha naturaleza a los documentos que tengan la categoría de patrimonio documental del Estado de Tamaulipas, siempre y cuando cumplan con la normativa que corresponda.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 79.
 
-El Ejecutivo Estatal, a través de la persona titular del Archivo General del Estado, podrá emitir declaratorias de patrimonio documental del Estado en los términos previstos por las disposiciones jurídicas aplicables, las cuales serán publicadas en el Periódico Oficial del Estado.
+El Ejecutivo Estatal, a través de la persona titular del Archivo General del Estado de Tamaulipas, podrá emitir declaratorias de patrimonio documental del Estado en los términos previstos por las disposiciones jurídicas aplicables, las cuales serán publicadas en el Periódico Oficial del Estado.
 
 ### CAPÍTULO II. DE LA PROTECCIÓN DEL PATRIMONIO DOCUMENTAL DEL ESTADO
 
@@ -1025,35 +1085,47 @@ Para los casos previstos en el párrafo anterior, será necesario contar con el 
 
 La Secretaría de Relaciones Exteriores, en coordinación con las autoridades competentes, será la encargada de gestionar la restitución del bien o los bienes considerados patrimonio documental del Estado que ilegalmente salgan o permanezcan fuera del país.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 83.
 
-El Archivo General del Estado, podrá recibir documentos de archivo de los sujetos obligados en comodato para su estabilización.
+El Archivo General del Estado de Tamaulipas, podrá recibir documentos de archivo de los sujetos obligados en comodato para su estabilización.
 
-En los casos en que el Archivo General del Estado considere que los archivos privados de interés público se encuentran en peligro de destrucción, desaparición o pérdida, éstos podrán ser objeto de expropiación mediante indemnización, en los términos de la normatividad aplicable, a fin de preservar su integridad.
+En los casos en que el Archivo General del Estado de Tamaulipas considere que los archivos privados de interés público en la entidad se encuentran en peligro de destrucción, desaparición o pérdida, éstos podrán ser objeto de expropiación mediante indemnización, en los términos de la normatividad aplicable, a fin de preservar su integridad.
 
-Para efectos de lo establecido en el párrafo anterior, deberá conformarse un Consejo integrado por una persona representante del Archivo General de la Nación, una persona representante del Archivo General del Estado, dos personas representantes de instituciones académicas y la o el consejero representante de los archivos privados en el Consejo Nacional, quienes emitirán una opinión técnica, la cual deberá considerarse para efectos de determinar la procedencia de la expropiación.
+Para efectos de lo establecido en el párrafo anterior, deberá conformarse un Consejo integrado por una persona representante del Archivo General de la Nación, una persona representante del Archivo General del Estado de Tamaulipas, dos personas representantes de instituciones académicas y la o el consejero representante de los archivos privados en el Consejo Nacional, quienes emitirán una opinión técnica, la cual deberá considerarse para efectos de determinar la procedencia de la expropiación.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 84.
 
-El Archivo General del Estado podrá coordinarse con las autoridades federales para la realización de las acciones conducentes a la conservación de los archivos, cuando la documentación o actividad archivística de alguna región del Estado esté en peligro o haya resultado afectada por fenómenos naturales o cualquiera de otra índole, que pudieran dañarlos o destruirlos.
+El Archivo General del Estado de Tamaulipas podrá coordinarse con las autoridades federales para la realización de las acciones conducentes a la conservación de los archivos, cuando la documentación o actividad archivística de alguna región del Estado esté en peligro o haya resultado afectada por fenómenos naturales o cualquiera de otra índole, que pudieran dañarlos o destruirlos.
 
 ### CAPÍTULO III. DEL PATRIMONIO DOCUMENTAL DEL ESTADO EN POSESIÓN DE PARTICULARES
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 85.
 
-Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado, podrán custodiarlos, siempre y cuando apliquen las medidas técnicas, administrativas, ambientales o tecnológicas para la conservación y divulgación de los archivos, conforme a los criterios que emita el Archivo General del Estado, el Consejo Estatal, el Archivo General de la Nación y el Consejo Nacional.
+Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado, podrán custodiarlos, siempre y cuando apliquen las medidas técnicas, administrativas, ambientales o tecnológicas para la conservación y divulgación de los archivos, conforme a los criterios que emita el Archivo General del Estado de Tamaulipas, el Consejo Estatal, el Archivo General de la Nación y el Consejo Nacional.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 86.
 
-Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado podrán restaurarlos, previa autorización y bajo la supervisión del Archivo General del Estado.
+Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado podrán restaurarlos, previa autorización y bajo la supervisión del Archivo General del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 87.
 
-Con el fin de dar cumplimiento al artículo 97 de la Ley General, el Archivo General del Estado deberá coadyuvar con el Archivo General de la Nación cuando se trate de recuperar la posesión del documento de archivo que constituya patrimonio documental del Estado y que forme parte del patrimonio documental de la nación.
+Con el fin de dar cumplimiento al artículo 97 de la Ley General, el Archivo General del Estado de Tamaulipas deberá coadyuvar con el Archivo General de la Nación cuando se trate de recuperar la posesión del documento de archivo que constituya patrimonio documental del Estado y que forme parte del patrimonio documental de la nación.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 88.
 
-Para vigilar el cumplimiento de lo establecido en el presente capítulo, el Archivo General del Estado o entes especializados en materia de archivos a nivel local, podrá efectuar visitas de verificación, en los términos establecidos en las disposiciones aplicables.
+Para vigilar el cumplimiento de lo establecido en el presente capítulo, el Archivo General del Estado de Tamaulipas o entes especializados en materia de archivos a nivel local, podrá efectuar visitas de verificación, en los términos establecidos en las disposiciones aplicables.
 
 ### CAPÍTULO IV. DE LA CAPACITACIÓN Y CULTURA ARCHIVÍSTICA
 
@@ -1087,17 +1159,23 @@ Los usuarios de los archivos deberán respetar las disposiciones aplicables para
 
 ### CAPÍTULO I. DE LA ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 93.
 
-El Archivo General del Estado es un organismo público descentralizado no sectorizado con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines.
+El Archivo General del Estado de Tamaulipas es un organismo público descentralizado no sectorizado con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 94.
 
-El Archivo General del Estado es la entidad especializada en materia de archivos, que tiene por objeto promover la organización y administración homogénea de archivos, preservar, incrementar y difundir el patrimonio documental de la (sic) Estado de Tamaulipas, con el fin de salvaguardar la memoria estatal de corto, mediano y largo plazo; así como contribuir a la transparencia y rendición de cuentas.
+El Archivo General del Estado de Tamaulipas es la entidad especializada en materia de archivos, que tiene por objeto promover la organización y administración homogénea de archivos, preservar, incrementar y difundir el patrimonio documental del Estado de Tamaulipas, con el fin de salvaguardar la memoria estatal de corto, mediano y largo plazo; así como contribuir a la transparencia y rendición de cuentas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 95.
 
-Para el cumplimiento de su objeto, el Archivo General del Estado tiene las siguientes atribuciones:
+Para el cumplimiento de su objeto, el Archivo General del Estado de Tamaulipas tiene las siguientes atribuciones:
 
 I. Presidir el Consejo Estatal de Archivos;
 
@@ -1117,7 +1195,9 @@ VIII. Analizar la pertinencia de recibir transferencias de documentos de archivo
 
 IX. Recibir transferencias de documentos de archivo con valor histórico de sujetos obligados distintos al Poder Ejecutivo Estatal;
 
-X. Analizar y aprobar, en su caso, las peticiones de particulares que posean documentos y soliciten sean incorporados de manera voluntaria a acervos del Archivo General del Estado;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+X. Analizar y aprobar, en su caso, las peticiones de particulares que posean documentos y soliciten sean incorporados de manera voluntaria a acervos del Archivo General del Estado de Tamaulipas;
 
 XI. Establecer técnicas de reproducción que no afecten la integridad física de los documentos;
 
@@ -1163,13 +1243,17 @@ XXXI. Organizar y participar en eventos estatales, nacionales e internacionales 
 
 XXXII. Las demás establecidas en esta Ley y en otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 96.
 
-Las relaciones laborales entre el Archivo General del Estado y sus trabajadoras y trabajadores, se regirán por la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas, y las demás disposiciones legales aplicables.
+Las relaciones laborales entre el Archivo General del Estado de Tamaulipas y sus trabajadoras y trabajadores, se regirán por la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas, y las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 97.
 
-Para el cumplimiento de su objeto, el Archivo General del Estado contará con los siguientes órganos:
+Para el cumplimiento de su objeto, el Archivo General del Estado de Tamaulipas contará con los siguientes órganos:
 
 I. Órgano de Gobierno;
 
@@ -1185,11 +1269,15 @@ El Consejo Técnico operará conforme a los lineamientos emitidos por el Órgano
 
 ### CAPÍTULO II. DEL ÓRGANO DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 98.
 
-El Órgano de Gobierno es el cuerpo colegiado de administración del Archivo General del Estado que, además de lo previsto en la Ley de Entidades Paraestatales del Estado de Tamaulipas y las disposiciones reglamentarias, tendrá las siguientes atribuciones:
+El Órgano de Gobierno es el cuerpo colegiado de administración del Archivo General del Estado de Tamaulipas que, además de lo previsto en la Ley de Entidades Paraestatales del Estado de Tamaulipas y las disposiciones reglamentarias, tendrá las siguientes atribuciones:
 
-I. Evaluar la operación administrativa así como el cumplimiento de los objetivos y metas del Archivo General del Estado;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+I. Evaluar la operación administrativa, así como el cumplimiento de los objetivos y metas del Archivo General del Estado de Tamaulipas;
 
 II. Emitir los lineamientos para el funcionamiento del Consejo Técnico; y
 
@@ -1199,23 +1287,33 @@ III. Las demás previstas en otras disposiciones jurídicas aplicables.
 
 El Órgano de Gobierno estará integrado por un miembro de las siguientes instancias:
 
-I. La Secretaría de General, quien lo presidirá;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+I. La Secretaría General de Gobierno, quien lo presidirá;
 
 II. La Secretaría de Finanzas;
 
-III. La Secretaría de Educación Pública;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-IV. (DEROGADA, P.O. 12 DE FEBRERO DE 2026)
+III. La Secretaría de Educación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2026)</small>
+
+IV. La Secretaría de Administración;
 
 V. El Instituto Tamaulipeco para la Cultura y las Artes; y
 
 VI. Consejo Tamaulipeco de Ciencia y Tecnología.
 
-Las personas integrantes del Órgano de Gobierno deberán tener, por lo menos, nivel de Subsecretario o su equivalente. Por cada miembro propietario habrá una persona suplente que deberá tener nivel, por lo menos, de director general o su equivalente.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+Las personas integrantes del Órgano de Gobierno deberán tener, por lo menos, nivel de Subsecretario o su equivalente. Por cada miembro propietario habrá una persona suplente que deberá tener nivel, por lo menos, de directora o director o su equivalente.
 
 La persona presidente o a propuesta de alguno de los integrantes del Órgano de Gobierno, podrá invitar a las sesiones a representantes de todo tipo de instituciones públicas o privadas, quienes intervendrán con voz pero sin voto. Las personas integrantes del Órgano de Gobierno, no obtendrán remuneración, compensación o emolumento por su participación.
 
-### CAPÍTULO III. DEL DIRECTOR GENERAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2026)</small>
+
+### CAPÍTULO III. DE LA DIRECTORA O DIRECTOR GENERAL
 
 ###### Artículo 100.
 
@@ -1225,7 +1323,9 @@ I. Ser ciudadana o ciudadano mexicano;
 
 II. Poseer, al día de la designación, preferentemente el grado académico de doctorado en ciencias sociales o humanidades, expedido por autoridad o institución facultada para ello, o bien, contar con experiencia mínima de cinco años en materia archivística;
 
-III. No estar sujeto a condena por la comisión de algún delito doloso;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+III. No estar sujeto a condena por la comisión de algún delito doloso, no tener litigios pendientes contra el organismo de que se trate, ni inhabilitaciones para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público;
 
 IV. Tener cuando menos treinta años de edad al día de la designación;
 
@@ -1233,19 +1333,27 @@ V. No ser cónyuge, ni tener relación de parentesco por consanguinidad o afinid
 
 VI. No haber ejercido la titularidad del Poder Ejecutivo o de sus Secretarías, Fiscalía General, Senaduría, Diputación, dirigencia de un partido o agrupación política, en los ámbitos federal o local según corresponda, durante el año previo al día de su nombramiento.
 
-Durante su gestión, la persona titular de la Dirección General no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos que puede desempeñar en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Archivo General del Estado.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+Durante su gestión, la persona titular de la Dirección General no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos que puede desempeñar en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Archivo General del Estado de Tamaulipas.
 
 ###### Artículo 101.
 
 La persona titular de la Dirección General, además de lo previsto en la Ley de Entidades Paraestatales del Estado de Tamaulipas y las disposiciones reglamentarias correspondientes, tendrá las siguientes facultades:
 
-I. Supervisar que la actividad del Archivo General del Estado cumpla con las disposiciones legales, administrativas y técnicas aplicables, así como con los programas y presupuestos aprobados;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-II. Proponer al Órgano de Gobierno las medidas necesarias para el funcionamiento del Archivo General del Estado;
+I. Supervisar que la actividad del Archivo General del Estado de Tamaulipas cumpla con las disposiciones legales, administrativas y técnicas aplicables, así como con los programas y presupuestos aprobados;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+II. Proponer al Órgano de Gobierno las medidas necesarias para el funcionamiento del Archivo General del Estado de Tamaulipas;
 
 III. Proponer al Órgano de Gobierno el proyecto de Estatuto Orgánico;
 
-IV. Nombrar y remover a las personas servidoras públicas del Archivo General del Estado, cuyo nombramiento no corresponda al Órgano de Gobierno; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+IV. Nombrar y remover a las personas servidoras públicas del Archivo General del Estado de Tamaulipas, cuyo nombramiento no corresponda al Órgano de Gobierno; y
 
 V. Las demás previstas en esta Ley y en otras disposiciones jurídicas aplicables.
 
@@ -1257,21 +1365,29 @@ El archivo General del Estado contará con un Comisario, de conformidad con lo d
 
 ### CAPÍTULO V. DEL CONSEJO TÉCNICO Y CIENTÍFICO ARCHIVÍSTICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 103.
 
-El Archivo General del Estado contará con un Consejo Técnico que lo asesorará en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico.
+El Archivo General del Estado de Tamaulipas contará con un Consejo Técnico que lo asesorará en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico.
 
-El Consejo Técnico estará formado por 13 integrantes designados por el Consejo Estatal a convocatoria pública del Archivo General del Estado entre representantes de instituciones de docencia, investigación o preservación de archivos, académicos y expertos destacados. Operará conforme a los lineamientos aprobados por el Consejo Estatal.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+El Consejo Técnico estará formado por 13 integrantes designados por el Consejo Estatal a convocatoria pública del Archivo General del Estado de Tamaulipas entre representantes de instituciones de docencia, investigación o preservación de archivos, académicos y expertos destacados. Operará conforme a los lineamientos aprobados por el Consejo Estatal.
 
 Las personas integrantes del Consejo Técnico no obtendrán remuneración, compensación o emolumento por su participación.
 
-## TÍTULO SEGUNDO. DEL PATRIMONIO DEL ARCHIVO GENERAL DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2026)</small>
+
+## TÍTULO SEGUNDO. DEL PATRIMONIO DEL ARCHIVO GENERAL DEL ESTADO DE TAMAULIPAS
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 104.
 
-El patrimonio del Archivo General del Estado estará integrado por:
+El patrimonio del Archivo General del Estado de Tamaulipas estará integrado por:
 
 I. Los recursos que le sean asignados anualmente conforme al Presupuesto de Egresos de la (sic) Estado de Tamaulipas, correspondiente;
 
@@ -1299,7 +1415,9 @@ IV. Usar, sustraer, divulgar, ocultar, alterar, mutilar, destruir o inutilizar, 
 
 V. Omitir la entrega de algún documento de archivo bajo la custodia de una persona al separarse de un empleo, cargo o comisión;
 
-VI. No publicar el catálogo de disposición documental, el dictamen y el acta de baja documental autorizados por el Archivo General del Estado, así como el acta que se levante en caso de documentación siniestrada en los portales electrónicos; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VI. No publicar el catálogo de disposición documental, el dictamen y el acta de baja documental autorizados por el Archivo General del Estado de Tamaulipas, así como el acta que se levante en caso de documentación siniestrada en los portales electrónicos, y;
 
 VII. Cualquier otra acción u omisión que contravenga lo dispuesto en esta Ley y demás disposiciones aplicables que de ellos deriven.
 
@@ -1349,9 +1467,11 @@ La facultad para perseguir dichos delitos prescribirá en los términos previsto
 
 Será sancionado con pena de tres a diez años de prisión y multa de tres mil veces la unidad de medida y actualización hasta el valor del daño causado, la persona que destruya documentos relacionados con violaciones graves a derechos humanos, alojados en algún archivo, que así hayan sido declarados previamente por autoridad competente.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 110.
 
-El Archivo General del Estado podrá denunciar ante las autoridades competentes cualquier acto u omisión violatoria de esta Ley y aportar las pruebas que considere pertinentes en los términos de las leyes aplicables.
+El Archivo General del Estado de Tamaulipas podrá denunciar ante las autoridades competentes cualquier acto u omisión violatoria de esta Ley y aportar las pruebas que considere pertinentes en los términos de las leyes aplicables.
 
 ###### Artículo 111.
 
@@ -1446,3 +1566,27 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 ###### ARTÍCULO TERCERO.
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1361 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las menciones y atribuciones contenidas en otras leyes, reglamentos y en cualquier disposición normativa, respecto al Archivo General del Estado se entenderán hechas o conferidas al Archivo General del Estado de Tamaulipas. Todos los actos jurídicos celebrados antes de la entrada en vigor del presente Decreto, por el Archivo General del Estado, se entenderán vigentes hasta en tanto las partes acuerden lo contrario.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Archivo General del Estado de Tamaulipas deberá instalar el Órgano de Gobierno con la nueva integración.
+
+###### ARTÍCULO QUINTO.
+
+Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, el Archivo General del Estado de Tamaulipas deberá llevar a cabo la modificación de sus reglamentos y demás normatividad secundaria aplicable.
