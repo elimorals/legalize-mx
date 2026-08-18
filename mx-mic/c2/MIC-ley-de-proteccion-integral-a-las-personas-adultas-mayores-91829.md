@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-integral-a-las-personas-adultas-mayores-91829
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-24"
-last_updated: "2023-03-31"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el jueves 24 de enero de 2013.
 
@@ -129,6 +129,26 @@ c) Violencia patrimonial. Cualquier acto u omisión que afecta la supervivencia 
 
 d) Violencia psicológica. Cualquier acto u omisión que dañe la estabilidad psicológica; que puede consistir en negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas; las cuales conlleven a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso, al suicidio.
 
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XXIV. Ajustes razonables. Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada, para garantizar a la persona mayor el goce de sus derechos en igualdad de condiciones;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XXV. Abandono. La falta de acción deliberada o no para atender de manera integral las necesidades de una persona mayor que ponga en peligro su integridad física, psíquica o moral;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XXVI. Cuidados paliativos. Atención activa, integral e interdisciplinaria de pacientes cuya enfermedad no responde a tratamiento curativo, a fin de mejorar su calidad de vida y procurar una muerte digna;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XXVII. Consentimiento libre e informado. Derecho irrenunciable de la persona mayor a manifestar su voluntad previa y expresa en relación con cualquier decisión, tratamiento o intervención en el ámbito de la salud; y,
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XXVIII. Maltrato institucional. Actos u omisiones de las instituciones o personas servidoras públicas que ejerzan abuso o negligencia en perjuicio de las personas mayores o les impidan el pleno goce de sus derechos.
+
 ###### ARTÍCULO 3.
 
 Toda persona adulta mayor gozará de los beneficios de esta Ley sin perjuicio de los contenidos en otras disposiciones.
@@ -203,9 +223,17 @@ III. Participación e integración. La inserción de las personas adultas mayore
 
 IV. Corresponsabilidad. La concurrencia y responsabilidad compartida entre los sectores público, privado, social y en especial de las familias con una actitud de responsabilidad compartida;
 
-V. Dignificación. El respeto a su integridad física, psíquica y moral, así como la protección a su imagen, autonomía, pensamiento, dignidad y valores, los cuales deberán ser considerados en los planes y programas gubernamentales, de igual forma en las acciones que emprendan las organizaciones públicas y privadas; y,
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-VI. Atención Preferente. Es aquella que obliga al Poder Ejecutivo y a los gobiernos municipales a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
+V. Dignificación. El respeto a su integridad física, psíquica y moral, así como la protección a su imagen, autonomía, pensamiento, dignidad y valores, los cuales deberán ser considerados en los planes y programas gubernamentales, de igual forma en las acciones que emprendan las organizaciones públicas y privadas;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VI. Atención Preferente. Es aquella que obliga al Poder Ejecutivo y a los gobiernos municipales a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores; y,
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VII. Enfoque de curso de vida. El reconocimiento del envejecimiento como un proceso gradual que conlleva interacciones dinámicas durante toda la existencia.
 
 ### CAPÍTULO III. DE LOS DERECHOS
 
@@ -344,6 +372,12 @@ VII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la di
 ###### ARTÍCULO 9 Quater.
 
 A fin de eliminar toda forma de violencia contra las personas adultas mayores, las autoridades pertenecientes a los Poderes Públicos, organismos autónomos y municipios del Estado, en el ámbito de sus respectivas competencias, deberán realizar todas las acciones necesarias, para erradicar el maltrato y la violencia.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+###### ARTÍCULO 9 Quinquies.
+
+La persona mayor tiene derecho a un sistema de cuidados que provea protección de la salud, seguridad alimentaria, vivienda adecuada y servicios sociales. El Ejecutivo del Estado diseñará medidas de apoyo para las familias y cuidadores con perspectiva de género.
 
 ### CAPÍTULO IV. DEL PODER EJECUTIVO
 
@@ -573,7 +607,9 @@ IX. Fomentar la creación de redes de atención en materia de asistencia médica
 
 X. Capacitar a la familia mediante la realización de talleres en el que participen en forma conjunta con las personas adultas mayores;
 
-XI. Fomentar que las instituciones educativas y de seguridad social establezcan las disciplinas para la formación de especialistas en geriatría, gerontología y tanatología, con el fin de garantizar la cobertura de los servicios de salud requeridos;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XI. Fomentar que las instituciones educativas y de seguridad social establezcan las disciplinas para la formación de especialistas en geriatría, gerontología y tanatología, y ciudados (sic) paliativos con el fin de garantizar la cobertura de los servicios de salud requeridos;
 
 XII. Brindar información gerontológica, geriátrica y tanatológica, así como promover acciones de prevención que permitan a la población en general prepararse para la senectud;
 
@@ -609,7 +645,9 @@ XXVII. Verificar que las casas hogar, albergues, estancias y centros de atenció
 
 XXVIII. Apoyar a unidades médicas y organizaciones civiles dedicadas a la atención de la salud física y mental de las personas adultas mayores;
 
-XXIX. Orientar a los adultos mayores acerca de la existencia de tratamientos experimentales y del acceso a los mismos;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XXIX. Orientar a los adultos mayores acerca de la existencia de tratamientos experimentales y del acceso a los mismos, así como garantizar que el personal médico respete el derecho a la voluntad anticipada y evite el encarnizamiento terapéutico;
 
 XXX. Impedir actos de investigación clínica en el organismo de las personas adultas mayores que por cualquier circunstancia no pudieran resistirse a la realización de la misma;
 
@@ -865,13 +903,11 @@ VIII. Incluir dentro del presupuesto de egresos municipal los recursos necesario
 
 IX. Vigilar en la esfera de su competencia, el cumplimiento de la presente Ley, así como de las demás disposiciones legales y reglamentarias aplicables en esta materia.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### ARTÍCULO 23.
 
-Cada Gobierno Municipal dentro del DIF, deberá contar con un CEMAIPAM, el cual en su estructura orgánica tendrá una Dirección, un área de atención médica, psicológica, jurídica y de orientación para la asistencia social.
-
-El CEMAIPAM, fungirá como Unidad de atención de la Procuraduría en los Municipios.
+Cada Gobierno Municipal, en el ámbito de sus atribuciones y de conformidad con su disponibilidad presupuestaria y capacidad institucional, deberá contar con un Centro Multidisciplinario para la Atención Integral de las Personas Adultas Mayores (CEMAIPAM), garantizando al menos áreas de atención médica, psicológica, jurídica y de orientación para la asistencia social, el cual fungirá como unidad de atención de la Procuraduría en los municipios para la protección efectiva de derechos.
 
 ###### ARTÍCULO 24.
 
@@ -1574,3 +1610,15 @@ PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 508.- ARTÍCULO ÚNICO. SE REFORMA EL ARTÍCULO 8 FRACCIONES V Y VI, EL ARTÍCULO 16 FRACCIONES XI Y XXIX, EL ARTÍCULO 23; Y, SE ADICIONAN LAS FRACCIONES XXIV, XXV, XXVI, XXVII Y XXVIII AL ARTÍCULO 2, LA FRACCIÓN VII AL ARTÍCULO 8 Y EL ARTÍCULO 9 QUINQUIES TODOS DE LA LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado de Michoacán dispondrá de un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a los marcos normativos correspondientes a fin de armonizarlos con las contenidas en esta reforma.
+
+TERCERO. El Poder Ejecutivo del Estado, a través de la Secretaría de Salud y el Sistema DIF Michoacán, deberá emitir el Protocolo de Consentimiento Informado y Atención Preferencial para Personas Mayores en un plazo no mayor a 180 días naturales posteriores a la vigencia de este Decreto.
+
+CUARTO. El Consejo Estatal para la Protección y Atención de las Personas Adultas Mayores deberá actualizar los programas de atención a personas mayores bajo el enfoque de curso de vida y envejecimiento activo en un plazo no mayor a 180 días naturales posteriores a la vigencia de este Decreto.
