@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2026-06-26"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -1741,9 +1741,11 @@ III.- Clausura del plantel, respecto a las infracciones señaladas en las fracci
 
 Para determinar la sanción, se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos y estudiantes, la gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### ARTÍCULO 139.
 
-Las multas que imponga la autoridad educativa estatal serán ejecutadas por la instancia que determine el Ejecutivo Estatal, a través de los procedimientos y disposiciones aplicables por dicho órgano.
+Las multas que imponga la Secretaría de Educación, a través de la Subsecretaría de Planeación y la Subsecretaría de Educación Media Superior y Superior, serán ejecutadas por la Secretaría de Finanzas del Gobierno del Estado de Tamaulipas, mediante el procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado de Tamaulipas.
 
 ###### ARTÍCULO 140.
 
@@ -1964,3 +1966,15 @@ P.O. 26 DE JUNIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1354 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 139 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS Y SE ADICIONA EL ARTÍCULO 71 BIS A LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
