@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2026-02-12"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -2535,6 +2535,20 @@ IV.- Trámites para Instituciones Particulares Formadoras de Docentes:
 
 18.- Validación y registro de título profesional de nivel de Posgrado para Docentes; cinco veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+###### Artículo 71 Bis.
+
+Las multas impuestas por la Secretaría de Educación, derivadas de las infracciones a las disposiciones de la Ley de Educación para el Estado de Tamaulipas, en los términos previstos por el artículo 137 de dicho ordenamiento, se harán efectivas por la Secretaría de Finanzas del Estado como créditos fiscales, y se calcularán y aplicarán conforme a las siguientes bases:
+
+I.- Tratándose de infracciones cometidas por particulares que presten servicios educativos con autorización o reconocimiento de validez oficial de estudios, la multa será por el equivalente de 100 hasta 15,000 veces el valor diario de la Unidad de Medida y Actualización (UMA), atendiendo a la gravedad de la infracción y a la capacidad económica del infractor;
+
+II.- En caso de reincidencia, el monto de la multa podrá duplicarse, sin que exceda del doble del máximo establecido en la fracción anterior; y
+
+III.- Los ingresos recaudados por concepto de estas multas se destinarán a fortalecer a las áreas específicas que llevan a cabo las supervisiones a instituciones educativas particulares en los niveles de educación básica, media superior y superior, pertenecientes a la Secretaría de Educación del Estado, conforme lo determine el presupuesto de egresos correspondiente.
+
+La Secretaría de Educación notificará los créditos fiscales a la Secretaría de Finanzas para su cobro y ejecución mediante el procedimiento administrativo de ejecución, cuando los infractores no cumplan con el pago voluntario dentro de los plazos legales establecidos.
+
 ### CAPITULO IV. DE LOS SERVICIOS CATASTRALES
 
 ###### Artículo 72.
@@ -5034,3 +5048,15 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 ###### ARTÍCULO TERCERO.
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1354 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 139 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS Y SE ADICIONA EL ARTÍCULO 71 BIS A LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
