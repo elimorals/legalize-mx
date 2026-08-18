@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cultura-fisica-y-deporte-del-estado-de-michoacan-de-3718
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-16"
-last_updated: "2026-03-11"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley Publicada en Periódico Oficial del Estado de Michoacán, el lunes 16 de febrero del 2004.
 
@@ -51,9 +51,9 @@ La presente Ley es de orden e interés público y observancia general en todo el
 
 El ejercicio y desarrollo del derecho humano fundamental a la cultura física y al deporte tiene como base los siguientes principios:
 
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-I. Es un derecho humano fundamental para todas y todos, su difusión práctica, debe hacerse sin distinción, exclusión o restricción que pueda dar inicio a la discriminación por origen étnico, sexo, edad, discapacidad, condición social y económica, condición de salud, lengua, opiniones, preferencia sexual, estado civil, ideología o creencia religiosa;
+I. Es un derecho para todos; su difusión práctica, debe hacerse sin distinción, exclusión o restricción, que pueda dar origen a la discriminación por origen étnico, sexo, edad, discapacidad, condición social y económica, condición de salud, lengua, opiniones, preferencia sexual, estado civil, ideología o creencia religiosa; siendo las niñas, niños y adolescentes sujetos prioritarios en el ejercicio de este derecho, debiéndose garantizar condiciones de equidad, inclusión, protección y participación en todas las actividades, programas, instalaciones y políticas públicas relacionadas con el deporte y la cultura física;
 
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
@@ -103,13 +103,13 @@ XII. La existencia de una adecuada cooperación a nivel Estatal y municipal es n
 
 XIII. Garantizar la prevención, atención, sanción y erradicación del hostigamiento y acoso en el deporte, promoviendo un entorno seguro e inclusivo para todas las personas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 2°.
 
-Esta ley y su reglamento tienen como finalidad regular el derecho humano fundamental al deporte social, estudiantil y escolar, de alto rendimiento, así como el deporte profesional en su modalidad de espectáculo público; además, de establecer la obligación del Ejecutivo del Estado de fomentar, promover, organizar y conducir la política estatal en la materia, de conformidad con el Programa Operativo Estatal. Asimismo, servir como instrumento para promover y organizar la participación de la población del Estado en las actividades deportivas.
+Esta ley y su reglamento tienen como finalidad regular el derecho humano fundamental al deporte social, estudiantil y escolar, de alto rendimiento, así como el deporte profesional en su modalidad de espectáculo público; reconociendo a niñas, niños y adolescentes como grupo de atención prioritaria, por lo que el Ejecutivo del Estado deberá fomentar, promover, organizar y conducir la política estatal en la materia, de conformidad con el Programa Operativo Estatal; asimismo, servir como instrumento para promover y organizar la participación de la población del Estado en las actividades deportivas.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MAYO DE 2015)</small>
 
 Estableciendo las bases generales de coordinación y colaboración entre el Estado y sus Municipios y la concertación para la participación de los sectores social y privado en materia de cultura física y deporte, teniendo las finalidades generales siguientes:
 
@@ -1846,3 +1846,13 @@ P.O. 11 DE MARZO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Titular del Poder Ejecutivo, a través de la CECUFID, contará con un plazo no mayor a 90 días naturales, para adecuar el Reglamento de la presente Ley, en los términos del presente Decreto.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 502 POR EL QUE "SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1º BIS Y EL PRIMER PÁRRAFO DEL ARTÍCULO 2° DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El Titular del Poder Ejecutivo del Estado, a través de la Comisión Estatal de Cultura Física y Deporte (CECUFID), deberá ajustar sus programas, lineamientos y estrategias conforme a las disposiciones contenidas en este Decreto en un plazo no mayor a 90 días naturales.
+
+Tercero. Los gobiernos municipales deberán, en el ámbito de sus atribuciones, armonizar sus reglamentos y políticas locales de cultura física y deporte con base en esta reforma, priorizando la atención de niñas, niños y adolescentes. En un plazo no mayor a 90 días naturales.
