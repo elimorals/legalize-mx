@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-de-103774"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-21"
-last_updated: "2024-11-11"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 21 de noviembre de 2014.
 
@@ -1267,19 +1267,23 @@ Las instancias gubernamentales, órganos autónomos del Estado, así como las or
 
 La queja sólo podrá presentarse dentro del plazo de un año, contado a partir de la fecha en que se hubiere iniciado la ejecución del hecho que el quejoso estime violatorio o de que este último hubiese tenido conocimiento del mismo. En casos excepcionales y tratándose de violaciones graves a los Derechos Humanos, la Comisión podrá ampliar dicho plazo mediante una resolución razonada. No contará plazo alguno cuando se trate de hechos que por su gravedad puedan ser considerados violaciones de lesa humanidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 88.
 
-La queja deberá presentarse de manera oral, por escrito, en lenguaje de señas mexicana y de sginos o en lenguas maternas indígenas; podrá formularse por cualquier medio de comunicación eléctrica, electrónica, digital o telefónica y a través de mecanismos accesibles para personas con discapacidad. No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los cinco días siguientes a su presentación.
+La queja deberá presentarse de manera oral, por escrito, en lenguaje de señas mexicana y de signos o en lenguas maternas indígenas; podrá formularse por cualquier medio de comunicación eléctrica, electrónica, digital o telefónica y a través de mecanismos accesibles para personas con discapacidad. No se admitirán comunicaciones anónimas.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
-En caso de una queja presentada por dos o más personas, deberá nombrarse un representante común quien la ratificará en los términos del párrafo anterior.
+En caso de una queja presentada por dos o más personas, deberá nombrarse un representante común.
 
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
 La comisión en su página de internet, en su micrositio en el que se establece el buzón, este deberá operar para la recepción de quejas y denuncias que facilite a las personas el acceso a la defensa de sus derechos.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+Los menores de dieciocho años podrán presentar quejas o reclamaciones, sin que sea requisito indispensable el ser acompañados por su madre, padre o tutor, para el registro e inicio del trámite correspondiente, debiendo el personal de la Comisión brindarles la asesoría adecuada durante el desarrollo del procedimiento, podrán los quejosos en cualquier etapa, solicitar la asesoría de personal del DIF, a quien se les deberá notificar de manera inmediata para que les brinde el acompañamiento correspondiente.
 
 ###### Artículo 89.
 
@@ -1315,7 +1319,9 @@ Las quejas que se presenten ante la Comisión, así como los acuerdos, peticione
 
 La queja se integrará con los siguientes datos:
 
-I. Nombre, edad, sexo, nacionalidad, ocupación o profesión, domicilio, número telefónico en su caso y firma de la persona que la promueva. En el caso de no saber firmar, estampará su huella digital y otra persona podrá firmar a su ruego y en su nombre; cuando la queja sea presentada por una persona distinta al directamente agraviado, se deberá indicar el nombre y demás datos que se tengan del mismo, los que se complementarán una vez que se lleve a cabo la ratificación de la queja;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+I. Nombre, edad, sexo, nacionalidad, ocupación o profesión, domicilio, número telefónico en su caso y firma de la persona que la promueva. En el caso de no saber firmar, estampará su huella digital y otra persona podrá firmar a su ruego y en su nombre; cuando la queja sea presentada por una persona distinta al directamente agraviado, se deberá indicar el nombre y demás datos que se tengan del mismo.
 
 II. Una breve relación de los hechos motivo de la queja, especificando circunstancias de tiempo, modo y lugar;
 
@@ -1680,3 +1686,15 @@ Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódic
 ###### ARTÍCULO TERCERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 506 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 88 Y 94 FRACCIÓN I DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 509.- ARTÍCULO ÚNICO.- SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 88 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
