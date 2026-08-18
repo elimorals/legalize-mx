@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2026-06-15"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -1263,9 +1263,37 @@ IX. Establecer mecanismos de participación conjunta con la dependencia estatal 
 
 X. Vincularse con la Comisión Estatal de los Derechos Humanos, el Consejo Estatal para Prevenir y Eliminar la Discriminación y la Violencia del Estado de Michoacán y la Comisión Ejecutiva Estatal de Atención a Víctimas, con la finalidad de brindar y dar acompañamiento a las víctimas, la defensa de los derechos humanos de las personas que viven o transitan por el municipio;
 
-XI. Coadyuvar con las instancias y áreas competentes al impulso del desarrollo regional de los pueblos originarios que cuentan con población originaria, reconociendo el derecho a la «auto adscripción», con el propósito de fortalecer las economías locales y mejorar las condiciones de seguridad y de vida de sus pueblos, mediante las acciones coordinadas entre los tres niveles de gobierno y con la participación de las comunidades indígenas; y,
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-XII. Las demás que le señale esta Ley u otras disposiciones aplicables.
+XI. Coadyuvar con las instancias y áreas competentes al impulso del desarrollo regional de los pueblos originarios que cuentan con población originaria, reconociendo el derecho a la «auto adscripción», con el propósito de fortalecer las economías locales y mejorar las condiciones de seguridad y de vida de sus pueblos, mediante las acciones coordinadas entre los tres niveles de gobierno y con la participación de las comunidades indígenas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2026)</small>
+
+XII. Proponer las políticas, directrices, estrategias, programas, proyectos y acciones hacia las personas adultas mayores, de acuerdo con lo previsto en las leyes de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2026)</small>
+
+XIII. Promover la generación de lineamientos, mecanismos e instrumentos para la vigilancia de las instituciones de atención a las personas adultas mayores, en términos de lo señalado en las leyes federales y estatales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2026)</small>
+
+XIV. Promover acciones orientadas al bienestar y la calidad de vida de las personas adultas mayores, incluyendo su acceso a servicios de salud, recreación, participación socioeconómica, así como el fortalecimiento o creación de espacios de atención geriátrica y gerontológica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2026)</small>
+
+XV. Promover el reconocimiento, respeto, ejercicio de los derechos humanos y la igualdad de oportunidades de las personas adultas mayores, así como el fortalecimiento de una cultura de inclusión y aprecio en la sociedad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2026)</small>
+
+XVI. Promover e impulsar acciones y programas de prevención, atención y protección de las personas adultas mayores, en especial aquellas en situación de riesgo o desamparo, en coordinación con autoridades estatales y federales, así como con instituciones públicas, sociales y privadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2026)</small>
+
+XVII. Impulsar acciones de capacitación, sensibilización y formación para el cuidado de las personas adultas mayores, dirigidas principalmente al personal que labore en estancias y a los servidores públicos municipales; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XII], P.O. 18 DE AGOSTO DE 2026)</small>
+
+XVIII. Las demás que le señale esta Ley u otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
@@ -3828,5 +3856,11 @@ SEGUNDO. Los ayuntamientos tendrán un plazo no mayor a 90 días naturales, para
 P.O. 15 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 465.- ÚNICO. SE REFORMAN LOS ARTÍCULOS 68 Y 69 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 503.- ÚNICO. SE REFORMA EL ARTÍCULO 54 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
