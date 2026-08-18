@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-de-la-violencia-escolar-en-el-estado-89252
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2025-09-02"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en la Novena Sección del Periódico Oficial del Estado de Michoacán, el viernes 17 de agosto del 2012.
 
@@ -127,9 +127,9 @@ III. Psicoemocional: Toda acción o comunicación, dirigida a desvalorar, intimi
 
 IV. Sexual: Toda acción u omisión que amenace, ponga en riesgo o lesione la libertad, seguridad, integridad y desarrollo psicosexual de los estudiantes.
 
-> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-V. Digital: Todo acto intencionalmente dañino que se presente a través de las tecnologías de la información y de la comunicación de manera reiterada en el entorno escolar; y,
+V. Digital: Toda acción dolosa que se realice a través de las tecnologías de la información y de la comunicación que afecten la integridad, la dignidad, la intimidad, la libertad y la vida privada y cause daño físico, económico o psicológico en el entorno escolar; y,
 
 > <small>(ADICIONADA, P.O. 25 DE JULIO DE 2023)</small>
 
@@ -205,9 +205,17 @@ A fin de combatir los fenómenos de violencia escolar, la Secretaría deberá:
 
 I. Promover la generación de contenidos en los medios de comunicación que fomenten la reflexión colectiva sobre el fenómeno de la violencia en la convivencia escolar y estimulen a los estudiantes, padres de familia o tutores y trabajadores de la educación, de todos los ámbitos a identificar los actos de violencia en las instituciones educativas y lo denuncien;
 
-II. Adoptar y difundir planes y programas de sensibilización y capacitación de profesores para la identificación, prevención, seguimiento y resolución de conflictos de violencia escolar; y,
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-III. Establecer por cualquier medio, los servicios de recepción de denuncias y apoyo psicológico especializado.
+II. Adoptar y difundir planes y programas de sensibilización y capacitación de profesores para la identificación, prevención, seguimiento y resolución de conflictos de violencia escolar;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+III. Establecer por cualquier medio, los servicios de recepción de denuncias y apoyo psicológico especializado; y,
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+IV. Fomentar la capacitación digital para la prevención y atención de violencia digital.
 
 ###### ARTÍCULO 9.
 
@@ -489,9 +497,17 @@ XV. Señalar el procedimiento para informar de manera periódica y constante a l
 
 XVI. Establecer el procedimiento para documentar cualquier incidente de violencia escolar, mismo que será entregado al Secretario Técnico del Consejo para que sean incluidos en el informe trimestral que se le presentará al Consejo;
 
-XVII. Señalar el procedimiento para capacitar a toda la comunidad educativa sobre el conocimiento de los derechos humanos, la identificación, prevención y la forma de responder a actos de violencia; y,
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-XVIII. Mencionar la información sobre el tipo de servicios de apoyo para receptores, generadores y terceros afectados.
+XVII. Señalar el procedimiento para capacitar a toda la comunidad educativa sobre el conocimiento de los derechos humanos, la identificación, prevención y la forma de responder a actos de violencia;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XVIII. Mencionar la información sobre el tipo de servicios de apoyo para receptores, generadores y terceros afectados; y,
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XIX. Fortalecer los lineamientos para la prevención de la violencia escolar y digital.
 
 ###### ARTÍCULO 25.
 
@@ -730,3 +746,9 @@ Artículo Segundo. El Protocolo del Consejo Preventivo de la Violencia Escolar e
 Artículo Tercero. El Consejo Preventivo de la Violencia Escolar en el Estado de Michoacán, cuenta con 60 días hábiles contados a partir de la publicación del presente Decreto, para la integración de tres comités técnicos especializados, quienes serán los encargados de la creación de los protocolos.
 
 Artículo Cuarto. Cada comité técnico estará integrado por 10 personas, que deberán ser expertos en la materia o en actividades sociales de reconocida trayectoria.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 505 POR EL QUE "SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 4°; SE REFORMAN LAS FRACCIONES II Y III; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 8°; Y, SE REFORMAN LAS FRACCIONES XVII Y XVIII; Y SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 24 DE LA LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
