@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-10238
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2025-12-19"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -162,6 +162,12 @@ X. Atención integral con personal calificado en las áreas de atención al púb
 ###### Artículo 4 Bis.
 
 Los Poderes Ejecutivo, Legislativo y Judicial, los gobiernos municipales y los órganos autónomos del Estado de Michoacán de Ocampo, están obligados a realizar los ajustes razonables necesarios para que en todos los eventos de orden público que realicen, cuenten con intérpretes de Lengua de Señas Mexicana, tanto para el evento en vivo, como para su transmisión, para lo cual se sujetarán a lo previsto en los Lineamientos Generales de Accesibilidad al Servicio de Televisión Radiodifundida y demás disposiciones aplicables.
+
+> <small>(ADICIONADO. P.O. 18 DE AGOSTO DE 2026)</small>
+
+###### Artículo 4 Ter.
+
+Todas las dependencias del Poder Ejecutivo, Legislativo y Judicial, los órganos autónomos, organismos descentralizados y los gobiernos municipales del Estado de Michoacán de Ocampo, deberán contar de forma permanente con intérpretes de Lengua de Señas Mexicana o con personal debidamente capacitado en comunicación accesible para personas con discapacidad auditiva en sus oficinas, módulos y unidades de atención ciudadana. Esta medida tiene como propósito garantizar el derecho a la comunicación accesible, la atención digna, y el ejercicio efectivo de los derechos humanos de las personas con discapacidad. Su implementación deberá ser progresiva y prioritaria en las áreas con mayor contacto con el público.
 
 ###### Artículo 5.
 
@@ -1388,3 +1394,11 @@ P.O. 19 DE DICIEMBRE DE 2025.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. El Titular del Poder Ejecutivo del Estado, a través de la dependencia competente, dispondrá en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, lo necesario para establecer el mecanismo de registro y acreditación de los animales de servicio, asistencia y/o de terapia, a fin de dar cumplimiento a lo previsto en el artículo 13 Quater de ésta Ley.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NUMERO 507 POR EL QUE “SE ADICIONA EL ARTÍCULO 4 TER A LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrarai (sic) en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El Gobierno del Estado y los Ayuntamientos del Estado de Michoacán de Ocampo, contarán con un plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, para emitir, adecuar o actualizar la normatividad secundaria y reglamentaria necesaria para el cumplimiento de lo dispuesto en el artículo 4 Ter de esta Ley.
