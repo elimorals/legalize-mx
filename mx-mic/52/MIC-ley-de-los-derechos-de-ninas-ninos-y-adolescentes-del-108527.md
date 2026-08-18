@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2026-08-05"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -283,7 +283,9 @@ VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral
 
 VIII. Derecho a una vida libre de maltrato o violencia, de adicciones, así como a la protección de su integridad personal y psicoemocional;
 
-IX. Derecho a la protección de la salud y a la seguridad social;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+IX. Derecho a la protección de la salud, la seguridad social y a la alimentación adecuada;
 
 X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
 
@@ -753,13 +755,19 @@ Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Estatal
 
 Artículo 32 ter. Adicionalmente, en los casos de violencia sexual en contra de niñas, niños y adolescentes, las autoridades estatales y municipales deberán actuar bajo los lineamientos establecidos en el Protocolo de Atención Inmediata.
 
-### CAPÍTULO X. DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+### CAPÍTULO X. DERECHO A LA PROTECCIÓN DE LA SALUD, LA SEGURIDAD SOCIAL Y A LA ALIMENTACIÓN ADECUADA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 33.
 
-Niñas, Niños y Adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica y psicológica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud física y mental.
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+Niñas, niños y adolescentes tienen derecho a la alimentación adecuada, concepto fundado por el que se garantiza una dieta con los nutrientes para su sano desarrollo físico, mental y emocional en condiciones de disponibilidad y accesibilidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE JUNIO DE 2016)</small>
 
@@ -788,6 +796,10 @@ VII. Promover la importancia de la lactancia materna, exclusiva dentro de los pr
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
 VIII. Impulsar programas de prevención e información, así como la asistencia para combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación, nutritiva, suficiente, de calidad y equilibrada, el consumo de agua potable y el fomento del ejercicio físico, así como a recibir educación para fomentar buenos hábitos nutricionales;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VIII Bis. Prestar a las familias los servicios de atención nutricional que brinden apoyo profesional para fortalecer la educación alimentaria y combatir las enfermedades asociadas a la malnutrición;
 
 IX. Fomentar y ejecutar los programas de vacunación, el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
 
@@ -1779,9 +1791,9 @@ II. Apoyar el desarrollo de la familia y la comunidad, resaltando una cultura de
 
 III. Impulsar la cooperación y coordinación de las autoridades en los diferentes niveles en el ámbito de sus respectivas competencias en materia de protección y restitución en el ejercicio de derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-IV. Prestar servicios de asistencia social y en su caso, celebrar los convenios de colaboración con los Sistemas Municipales DIF, así como con organizaciones e instituciones de los sectores público, privado y social, en la medida que favorezca la salvaguarda del interés superior de la niñez y adolescencia;
+IV. Prestar servicios de asistencia social y, en su caso, celebrar los convenios de colaboración con los Sistemas Municipales DIF, así como con organizaciones e instituciones de los sectores público, privado y social, en la medida que favorezca la salvaguarda del interés superior de la niñez y adolescencia; asimismo, deberá implementar cuando menos dos jornadas de capacitación al año dirigidas a los Sistemas DIF municipales en materia de protección integral de los derechos de niñas, niños y adolescentes, mecanismos de atención y canalización de casos, restitución de derechos vulnerados y aplicación de protocolos de actuación en casos de violencia, abuso, negligencia u otras situaciones que pongan en riesgo su integridad física, psicológica o emocional;
 
 V. Operar y monitorear todas las acciones, programas y establecimientos destinados a brindar asistencia social en beneficio de niñas, niños y adolescentes; especialmente con aquellos que sufren algún tipo de discapacidad;
 
@@ -2706,3 +2718,19 @@ P.O. 5 DE AGOSTO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, realizarán las acciones necesarias para el cumplimiento del presente Decreto.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 493 POR EL QUE "SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 10; SE MODIFICA LA NOMENCLATURA DEL CAPÍTULO X; SE REFORMA EL PRIMER PÁRRAFO; SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES; Y, LA FRACCIÓN VIII BIS AL ARTÍCULO 33 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 513.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 74 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Sistema para el Desarrollo Integral de la Familia del Estado de Michoacán, implementará las acciones necesarias para dar cumplimiento a lo dispuesto en el presente Decreto dentro de los noventa días naturales siguientes a su entrada en vigor.
+
+TERCERO. Las capacitaciones previstas en la fracción IV del artículo 74 deberán incorporarse de manera permanente a los programas institucionales de fortalecimiento y profesionalización dirigidos a los Sistemas DIF municipales, de conformidad con la disponibilidad presupuestaria correspondiente.
