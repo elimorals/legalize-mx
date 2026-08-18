@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2026-04-09"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -173,9 +173,11 @@ Las Dependencias del Ejecutivo se coordinarán para el mejor cumplimiento de sus
 
 4. Las comisiones intersecretariales podrán invitar a participar en sus reuniones a representantes de los sectores sociales y privado, cuando así lo amerite la materia del asunto a tratar.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
 ###### ARTÍCULO 21.
 
-Los titulares de las Dependencias a que se refieren los artículos 24 al 41 de esta Ley, acordarán directamente con el titular del Ejecutivo; los titulares de las Entidades lo harán a través del Secretario del ramo a que correspondan, salvo disposición en contrario del Gobernador del Estado, sin perjuicio de las facultades que a la Secretaría General de Gobierno le confieren los artículos 87 y 95 de la Constitución Política del Estado.
+Las personas titulares de las Dependencias a que se refieren los artículos 24 al 41, 42 Bis y 42 Ter de esta Ley, acordarán directamente con la persona titular del Ejecutivo; los titulares de las Entidades lo harán a través del (sic) Secretaria o Secretario del ramo a que correspondan, salvo disposición en contrario del (sic) Gobernadora o Gobernador del Estado, sin perjuicio de las facultades que a la Secretaría General de Gobierno le confieren los artículos 87 y 95 de la Constitución Política del Estado.
 
 ###### ARTÍCULO 22.
 
@@ -225,11 +227,21 @@ XIV. Secretaría de Desarrollo Urbano y Medio Ambiente;
 
 XV. Secretaría de Obras Públicas;
 
-XVI. Secretaría de Seguridad Pública; y
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+XVI. Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
 XVII. Secretaría Anticorrupción y Buen Gobierno;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE AGOSTO DE 2026)</small>
+
+XVIII. Secretaría de Innovación e Inteligencia Digital; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XIX. Secretaría de las Mujeres.
 
 #### Sección I. De la Oficina del Gobernador
 
@@ -275,55 +287,31 @@ XVI. Formular y proponer al Gobernador políticas públicas, planes, programas y
 
 XVII. Dar seguimiento a las políticas, planes, programas y acciones de gobierno y evaluar sus resultados presupuestales, económicos y sociales, informando al Gobernador de ellos;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
+XVIII. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-XVIII. Planificar, administrar y supervisar la Red Estatal de Comunicaciones, coordinándose para tal efecto con las instancias federales, estatales, municipales y particulares que se requiera;
+XIX. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
+XX. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-XIX. Analizar las necesidades de información de las diferentes Dependencias y Entidades, con objeto de hacer más eficiente y optimizar los sistemas actuales; y proponer, desarrollar, ejecutar proyectos ya sea de manera interna o a través de terceros, así como autorizar los proyectos de desarrollos tecnológicos que se lleven a cabo en el ámbito de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
-
-XX. Emitir disposiciones para la adquisición, arrendamiento y prestación de servicios en materia de tecnologías de la información y comunicaciones, telecomunicaciones, y desarrollo de software, así como dictaminar su aprovisionamiento de las Dependencias y Entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
-
-XXI. Definir, desarrollar, regular, operar y conducir la política pública estatal en materia de informática, tecnologías de la información, telecomunicaciones, gobierno digital, datos abiertos, gobierno abierto, gestión de datos y mejora regulatoria en las Dependencias y Entidades de la Administración Pública Estatal y los municipios, asegurando su correcta implementación y cumplimiento conforme a las disposiciones aplicables;
+XXI. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
 XXII. (DEROGADA, P.O. 22 DE MAYO DE 2025)
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
+XXIII. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-XXIII. Diseñar, desarrollar y optimizar las redes de voz, video y datos para mejorar la operación de las Dependencias y Entidades de la Administración Pública Estatal;
+XXIV. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
+XXV. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-XXIV. Fomentar el cumplimiento de las políticas públicas en materia de inclusión digital, innovación e inteligencia digital en el Estado de Tamaulipas;
+XXVI. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
+XXVII. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-XXV. Gestionar la ejecución de la política de simplificación y digitalización, integrando la tecnología en los procesos regulatorios del Gobierno del Estado y municipios;
+XXVIII. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
+XXIX. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-XXVI. Coordinar la simplificación y digitalización de trámites y servicios a cargo de las Dependencias y Entidades de la Administración Pública Estatal;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
-
-XXVII. Diseñar y conducir proyectos de simplificación y digitalización en coordinación con los municipios del Estado de Tamaulipas;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
-
-XXVIII. Gestionar el análisis de las bases de datos que las Dependencias y Entidades de la Administración Pública Estatal generen, mediante una arquitectura de datos consumibles, excluyendo la información en materia de seguridad para identificar información que contribuya a la toma de decisiones y al diseño de políticas públicas;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
-
-XXIX. Definir los instrumentos, herramientas y mecanismos para la implementación del modelo integral de contacto ciudadano de la Agencia para las Dependencias y Entidades de la Administración Pública Estatal;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
-
-XXX. Fungir como Autoridad en materia de Firma Electrónica Avanzada, en término de la normatividad aplicable; y
+XXX. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
 XXXI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
@@ -961,11 +949,13 @@ XIII. Diseñar y promover políticas y programas para la atención de las micror
 
 XIV. Ejecutar los planes de desarrollo regional y los convenios de desarrollo social celebrados con la Federación, Ayuntamientos y grupos sociales, así como las obras de desarrollo social que favorezcan a las comunidades, en el marco de la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas;
 
-XV. Planear, promover y ejecutar acciones tendentes a propiciar la participación de la mujer en la vida política, económica, social y cultural del Estado, fomentándose la equidad de género en toda actividad pública;
+XV. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-XVI. Elaborar y presentar al Ejecutivo del Estado el proyecto del Programa Estatal de la Mujer y, aprobado éste, llevar a cabo las acciones necesarias para su ejecución;
+XVI. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-XVII. Organizar, coordinar y vigilar el funcionamiento del Instituto de las Mujeres en Tamaulipas, del Instituto Tamaulipeco para la Cultura y las Artes, y del Instituto del Deporte de Tamaulipas;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XVII. Organizar, coordinar y vigilar el funcionamiento del Instituto Tamaulipeco para la Cultura y las Artes, y del Instituto del Deporte de Tamaulipas;
 
 XVIII. Participar en la elaboración de políticas y estrategias para la prevención social de la violencia e incentivar la participación ciudadana en su diseño;
 
@@ -1479,9 +1469,9 @@ XX. Emitir los dictámenes de las estructuras orgánicas de las dependencias y e
 
 XXI. Verificar a través de los Órganos Internos de Control y las y los comisarios según corresponda, el cumplimiento de la normatividad aplicable en materia de contrataciones públicas, mediante la vigilancia permanente de las disposiciones normativas emitidas por la Secretaría de Administración y la Secretaría de Obras Públicas, así como asesorar a través de sus áreas competentes, en materia de adquisiciones, obras públicas y servicios relacionados con las mismas, cuando así lo requieran las dependencias y entidades de la Administración Pública Estatal, (sic) en su caso, los municipios;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-XXII. Vigilar que las dependencias y entidades de la Administración Pública Estatal cumplan con las políticas y acciones emitidas por la Agencia de Innovación e Inteligencia Digital en materia de gobierno digital, gobierno abierto y datos abiertos, sin perjuicio de las atribuciones que la Ley le otorga a la Oficina del Gobernador;
+XXII. Vigilar que las dependencias y entidades de la Administración Pública Estatal cumplan con las políticas y acciones emitidas por la Secretaría de Innovación e Inteligencia Digital en materia de gobierno digital, gobierno abierto y datos abiertos, sin perjuicio de las atribuciones que la Ley le otorga a esa dependencia;
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
@@ -1680,6 +1670,136 @@ b) Resumen ejecutivo de las recomendaciones preventivas y al desempeño;
 c) Resumen ejecutivo de las observaciones correctivas; y
 
 d) Las promociones de responsabilidades administrativas sancionatorias.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+#### Sección XVIII. De la Secretaría de Innovación e Inteligencia Digital
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+ARTÍCULO 42 BIS.
+
+A la Secretaría de Innovación e Inteligencia Digital, le corresponde el despacho de los siguientes asuntos:
+
+I. Definir, desarrollar, regular, operar y conducir la política pública estatal en materia de informática, tecnologías de la información, telecomunicaciones, gobierno digital, datos abiertos, gobierno abierto, gestión de datos y mejores prácticas regulatorias en las Dependencias y Entidades de la Administración Pública Estatal y los municipios, asegurando su correcta implementación y cumplimiento conforme a las disposiciones aplicables;
+
+II. Fungir, por conducto de su titular, como Autoridad Local de Simplificación y Digitalización del Estado de Tamaulipas, y ejercer las atribuciones previstas en la Ley Nacional para Eliminar Trámites Burocráticos, sus lineamientos, los Modelos Nacionales y demás disposiciones jurídicas aplicables;
+
+III. Fungir como Autoridad Certificadora del Poder Ejecutivo del Estado en materia de firma electrónica avanzada y ejercer las atribuciones previstas en la legislación y demás disposiciones jurídicas aplicables;
+
+IV. Emitir políticas, normas, lineamientos, estándares, criterios técnicos, manuales, protocolos y demás disposiciones de observancia obligatoria para las Dependencias y Entidades de la Administración Pública Estatal en las materias de su competencia;
+
+V. Definir, emitir y coordinar las políticas, estándares y protocolos en materia de seguridad de la información, ciberseguridad, gestión de riesgos tecnológicos, continuidad operativa, recuperación ante desastres y atención de incidentes de la Administración Pública Estatal, sin perjuicio de las atribuciones que correspondan a otras autoridades y observando las disposiciones aplicables en materia de seguridad pública, protección de datos personales, información reservada y confidencialidad;
+
+VI. Definir, implementar y coordinar la arquitectura digital gubernamental, la interoperabilidad de sistemas y bases de datos, los mecanismos de identificación y autenticación digital, el expediente digital, las ventanillas digitales y las plataformas tecnológicas transversales de la Administración Pública Estatal, así como su integración con las plataformas nacionales;
+
+VII. Formular y conducir la política para la adopción, desarrollo, implementación, evaluación y uso responsable, seguro, ético y transparente de la inteligencia artificial, la automatización y demás tecnologías emergentes en la Administración Pública Estatal;
+
+VIII. Planificar, administrar y supervisar la Red Estatal de Comunicaciones, coordinándose para tal efecto con las instancias federales, estatales, municipales y particulares que se requiera;
+
+IX. Diseñar desarrollar y optimizar las redes de voz, video y datos para mejorar la operación de las Dependencias y Entidades de la Administración Pública Estatal;
+
+X. Analizar las necesidades de información de las diferentes Dependencias y Entidades de la Administración Pública Estatal, con objeto de hacer más eficiente y optimizar los sistemas actuales así como proponer, desarrollar, ejecutar proyectos ya sea de manera interna o a través de terceros, así como autorizar los proyectos de desarrollos tecnológicos que se lleven a cabo en el ámbito de la Administración Pública Estatal;
+
+XI. Diseñar, desarrollar, implementar, administrar, reutilizar y compartir software, plataformas y soluciones tecnológicas públicas; integrar el Portafolio Estatal de Proyectos Tecnológicos y coordinar la incorporación de las soluciones estatales al Repositorio Nacional de Tecnología Pública;
+
+XII. Emitir disposiciones para la adquisición, arrendamiento y prestación de servicios en materia de tecnologías de la información y comunicaciones, telecomunicaciones, y desarrollo de software, así como dictaminar su aprovisionamiento de las Dependencias y Entidades de la Administración Pública Estatal;
+
+XIII. Gestionar la ejecución de la política de simplificación y digitalización, integrando la tecnología en los procesos regulatorios del Gobierno del Estado y municipios;
+
+XIV. Coordinar la simplificación y digitalización de trámites y servicios a cargo de las Dependencias y Entidades de la Administración Pública Estatal;
+
+XV. Diseñar y conducir proyectos de simplificación y digitalización en coordinación con los municipios del Estado de Tamaulipas, mediante los convenios, acuerdos o instrumentos jurídicos aplicables;
+
+XVI. Diseñar, administrar, operar, coordinar y difundir el Sistema Estatal de Atención Ciudadana para Trámites y Servicios, incluyendo la línea telefónica 070, portales electrónicos, ventanillas digitales, módulos de atención, medios digitales, aplicaciones, sistemas de mensajería y demás canales de contacto ciudadano, con el objeto de brindar información, orientación, asesoría, acompañamiento, seguimiento y soluciones de primer nivel a las personas usuarias de trámites y servicios públicos, conforme al Modelo Nacional de Atención Ciudadana de la Ley Nacional para Eliminar Trámites Burocráticos y demás disposiciones aplicables;
+
+XVII. Definir los instrumentos, herramientas y mecanismos para la implementación del modelo integral de contacto ciudadano de la Agencia para las Dependencias y Entidades de la Administración Pública Estatal;
+
+XVIII. Gestionar el análisis de las bases de datos que las Dependencias y Entidades de la Administración Pública Estatal generen, mediante una arquitectura de datos consumibles, excluyendo la información en materia de seguridad para identificar información que contribuya a la toma de decisiones y al diseño de políticas públicas;
+
+XIX. Requerir a las Dependencias y Entidades de la Administración Pública Estatal la información necesaria para el ejercicio de sus atribuciones, así como definir indicadores, métricas y mecanismos de seguimiento y evaluación de las políticas, programas, proyectos, sistemas y acciones en las materias de su competencia;
+
+XX. Aplicar, vigilar y verificar, en el ámbito de su competencia, el cumplimiento de las disposiciones jurídicas, administrativas y técnicas aplicables, así como de las políticas, normas, lineamientos, estándares, criterios técnicos, protocolos y demás instrumentos que emita la Secretaría, y formular las recomendaciones o medidas de mejora que correspondan;
+
+XXI. Emitir opiniones, dictámenes, evaluaciones y validaciones técnicas y, en su caso, otorgar las autorizaciones que correspondan, en las materias de su competencia, conforme a las disposiciones jurídicas aplicables;
+
+XXII. Proporcionar asesoría, asistencia técnica, acompañamiento y capacitación a las Dependencias y Entidades de la Administración Pública Estatal y, mediante los instrumentos de coordinación correspondientes, a los municipios, en las materias de su competencia;
+
+XXIII. Fomentar el cumplimiento de las políticas públicas en materia de inclusión digital, innovación e inteligencia digital en el Estado de Tamaulipas;
+
+XXIV. Promover, coordinar y apoyar la realización de estudios, investigaciones, proyectos de experimentación e innovación, así como el desarrollo de capacidades digitales y tecnológicas en el servicio público, en colaboración con instituciones académicas y de investigación y con los sectores social y privado;
+
+XXV. Celebrar convenios, acuerdos y demás instrumentos de colaboración, coordinación y concertación con autoridades federales, estatales y municipales, poderes públicos, organismos constitucionalmente autónomos, instituciones académicas y de investigación, organismos nacionales e internacionales, así como con los sectores social y privado, en las materias de su competencia;
+
+XXVI. Participar en sistemas de coordinación institucional, consejos, comités, comisiones, grupos de trabajo y demás órganos colegiados relacionados con las materias de su competencia, así como ejercer la representación del Estado cuando le sea encomendada conforme a las disposiciones aplicables;
+
+XXVII. Proponer a la Gobernadora o Gobernador del Estado los programas, estrategias, proyectos prioritarios y acciones transversales en materia de innovación, inteligencia digital, gobierno digital, simplificación, digitalización y desarrollo tecnológico gubernamental;
+
+XXVIII. Formular, proponer, ejecutar, dar seguimiento y evaluar los planes, programas, estrategias, proyectos y acciones estatales en las materias de su competencia, en congruencia con el Plan Estatal de Desarrollo y demás instrumentos de planeación aplicables; y
+
+XXIX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende la Gobernadora o Gobernador del Estado con relación a sus competencias.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+#### Sección XIX. De la Secretaría de las Mujeres
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+ARTÍCULO 42 TER.
+
+A la Secretaría de las Mujeres le corresponderá el despacho de los siguientes asuntos:
+
+I. Formular, conducir, coordinar, ejecutar, dar seguimiento y evaluar la política estatal en materia de igualdad sustantiva entre mujeres y hombres;
+
+II. Formular, articular, fortalecer, vigilar y monitorear políticas públicas con perspectiva de género, enfoque interseccional y de derechos humanos para garantizar la igualdad sustantiva, el acceso de las mujeres a una vida libre de violencias y el impulso al sistema público de cuidados;
+
+III. Incorporar y coordinar la transversalización de la perspectiva de género en la planeación, programación, presupuestación, ejecución y evaluación de las políticas públicas de la Administración Pública Estatal;
+
+IV. Diseñar, implementar y evaluar acciones afirmativas, programas, proyectos y estrategias orientadas al avance de los derechos humanos de las mujeres y la reducción de brechas de desigualdad;
+
+V. Coordinar acciones para prevenir, atender, sancionar y contribuir a erradicar las violencias contra las mujeres, promoviendo mecanismos de actuación interinstitucional;
+
+VI. Elaborar, conducir y dar seguimiento a los programas estatales en materia de igualdad sustantiva y de prevención, atención, sanción y erradicación de las violencias contra las mujeres;
+
+VII. Coordinar la operación, seguimiento y evaluación del Sistema Estatal para la Igualdad entre Mujeres y Hombres y promover el cumplimiento de sus acuerdos e instrumentos;
+
+VIII. Coordinar, en el ámbito de su competencia, las acciones derivadas del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+IX. Coordinar la elaboración, implementación, seguimiento y evaluación de los sistemas estatales, comités y grupos vinculados con los derechos de las mujeres así como, de manera permanente con las autoridades de procuración y administración de justicia y en su caso, coadyuvar con las autoridades competentes en la implementación de acciones para fortalecer el acceso a la justicia de mujeres y niñas en el Estado;
+
+X. Diseñar e implementar programas de formación, capacitación, sensibilización, profesionalización y certificación dirigidos a personas servidoras públicas y población en general;
+
+XI. Impulsar mecanismos institucionales que incorporen la perspectiva de género en la gestión pública estatal;
+
+XII. Promover que los medios de comunicación masiva y los entes públicos fomenten una cultura que elimine estereotipos e imágenes que atenten contra la dignidad de las mujeres; propiciar y difundir masivamente la cultura de no violencia contra las mujeres, de igualdad, lenguaje incluyente y no discriminación;
+
+XIII. Promover programas y acciones para fortalecer el acceso de las mujeres a la salud integral y al ejercicio pleno de sus derechos sexuales y reproductivos, en coordinación con la Secretaría de Salud e instituciones que integran el Sistema Estatal de Salud;
+
+XIV. Promover y proponer acciones orientadas a fortalecer la autonomía económica, inclusión productiva, empleo digno y desarrollo integral de las mujeres, en coordinación con la Secretaría del Trabajo y Previsión Social, así como el Servicio Nacional del Empleo;
+
+XV. Impulsar mecanismos para el reconocimiento, redistribución y fortalecimiento social del cuidado;
+
+XVI. Proponer a la persona titular del Ejecutivo Estatal los proyectos de iniciativas de leyes, decretos, reglamentos y acuerdos sobre los asuntos de las competencias de la Secretaría;
+
+XVII. Promover, concertar y suscribir convenios de colaboración, así como demás instrumentos jurídicos con autoridades federales, estatales, municipales, organismos autónomos, instituciones académicas y sectores social y privado;
+
+XVIII. Generar, integrar, sistematizar y difundir información, indicadores y estadísticas para el diseño y evaluación de políticas públicas;
+
+XIX. Coordinar los mecanismos estatales de registro, análisis e intercambio de información sobre violencia contra las mujeres;
+
+XX. Coordinar la integración, actualización, seguimiento y aprovechamiento de la información que corresponda al Estado en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres (BANAVIM);
+
+XXI. Elaborar diagnósticos, estudios e investigaciones que contribuyan al diseño y fortalecimiento de políticas públicas para el adelanto de las mujeres;
+
+XXII. Promover y realizar campañas de sensibilización, prevención de las violencias y difusión de los derechos de las mujeres en la administración pública estatal, así como la colaboración de los sectores privado y social;
+
+XXIII. Promover el cumplimiento de los instrumentos internacionales en materia de igualdad sustantiva y derechos humanos de las mujeres que resulten aplicables al Estado;
+
+XXIV. Promover la coordinación con las Instancias Municipales de las Mujeres, mediante mecanismos de articulación institucional, asistencia técnica, seguimiento y evaluación, expresamente dentro del ámbito de sus respectivas competencias y con respeto a la autonomía municipal, para fortalecer la implementación territorial de la política estatal en materia de igualdad sustantiva, prevención y atención de las violencias contra las mujeres;
+
+XXV. Representar al Titular del Ejecutivo del Estado, por conducto de la persona titular de la Secretaría, ante las instancias públicas y privadas, organismos nacionales e internacionales, así como ante los mecanismos de coordinación, concertación y participación relacionados con la igualdad sustantiva, la perspectiva de género, la prevención, atención, sanción y erradicación de la violencia contra las mujeres, y demás asuntos inherentes al ámbito de competencia de la Secretaría, de conformidad con la legislación aplicable; y
+
+XXVI. Las demás que establezcan esta Ley, otras disposiciones jurídicas aplicables y las que le encomiende la persona Titular del Ejecutivo del Estado.
 
 ### CAPÍTULO CUARTO. DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
@@ -2186,3 +2306,131 @@ P.O. 9 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1355 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La estructura administrativa, los recursos materiales, humanos, financieros, tecnológicos, presupuestarios, documentales, contractuales y administrativos, actualmente a cargo de la Agencia de Innovación e Inteligencia Digital de Tamaulipas, dependiente de la Oficina del Gobernador, serán transferidos para la creación e integración de la Secretaría de Innovación e Inteligencia Digital, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Los actos e instrumentos jurídicos, convenios, contratos acuerdos interinstitucionales o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las partes, sin perjuicio del derecho que tienen las mismas de ratificarlos, modificarlos o rescindirlos.
+
+###### ARTÍCULO CUARTO.
+
+La transferencia del personal adscrito a la Agencia de Innovación e Inteligencia Digital de Tamaulipas a la Secretaría de Innovación e Inteligencia Digital respetará los derechos laborales adquiridos, antigüedad, prestaciones y condiciones generales de trabajo que resulten aplicables. La readscripción del personal no constituirá, por sí misma, terminación de la relación laboral ni afectación a los derechos previamente adquiridos.
+
+###### ARTÍCULO QUINTO.
+
+Los actos, autorizaciones, dictámenes, lineamientos, criterios, trámites, procedimientos, sistemas, plataformas, portales, licencias, registros, proyectos, programas y demás actos administrativos emitidos, suscritos, administrados o en proceso por la Agencia de Innovación e Inteligencia Digital de Tamaulipas continuarán vigentes y se entenderán a cargo de la Secretaría de Innovación e Inteligencia Digital, en lo que no se opongan al presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Los recursos económicos asignados en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2026, para la Agencia de Innovación e Inteligencia Digital de Tamaulipas dependiente de la Oficina del Gobernador, se transferirán a la Secretaría de Innovación e Inteligencia Digital, quien en los ejercicios fiscales subsecuentes contemplará en su Presupuesto de Egresos los recursos correspondientes a dicha instancia gubernamental.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las personas titulares de las Secretarías de Administración, Secretaría de Finanzas y Secretaría Anticorrupción y Buen Gobierno, en un plazo no mayor a diez días hábiles, contados a partir de la entrada en vigor del presente Decreto, realizarán las adecuaciones normativas administrativas para el inicio de operaciones de la Secretaría de Innovación e Inteligencia Digital, así mismo deberán realizar las adecuaciones presupuestales, materiales y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Los procesos administrativos derivados de la reorganización de las dependencias previstas en la presente ley deberán realizarse a partir de la entrada en vigor de este Decreto y concluirán más tardar a los noventa días siguientes.
+
+Los asuntos de la Agencia de Innovación e Inteligencia Digital de Tamaulipas, que se encuentren en trámite a la entrada en vigor del presente Decreto, deberán continuar hasta su conclusión a cargo de la Secretaría de Innovación e Inteligencia Digital.
+
+###### ARTÍCULO NOVENO.
+
+La transferencia que con motivo de la expedición de la presente ley deba realizarse de una dependencia a otra, incluirá los recursos presupuestales, programas y calendarios financieros asignados a las dependencias que se crean, los cuales se incorporan a las nuevas dependencias.
+
+###### ARTÍCULO DÉCIMO.
+
+La Secretaría de Innovación e Inteligencia Digital, ejercerá las funciones que venía desempeñando la Agencia de Innovación e Inteligencia Digital de Tamaulipas. Al efecto, se deberán emitir las iniciativas, decretos y acuerdos correspondientes para la adecuación de la normatividad de la materia, en un plazo que no exceda de ciento ochenta días.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las dependencias Oficina del Gobernador y la Secretaria de Innovación Digital, disponen de un periodo de 30 días naturales contados al día siguiente de la publicación del presente Decreto, para reorganizar su estructura orgánica, en caso de requerirse movimientos estructurales, observando que no genere ningún impacto presupuestario, a fin de dar cumplimiento a las atribuciones establecidas en este decreto, asimismo, en un plazo que no exceda de los 60 días naturales, contados a partir de la publicación de los Acuerdos correspondientes a la Estructura Orgánica, deberán presentar al Titular del Ejecutivo el proyecto de los Reglamentos Interiores respectivos.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto de la Agencia de Innovación e Inteligencia Digital de Tamaulipas, se entenderán hechas o conferidas a la Secretaría de Innovación e Inteligencia Digital, respectivamente.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, y hasta en tanto no se realicen las adecuaciones necesarias, las referencias hechas a la Oficina del Gobernador en la Ley de Firma Electrónica Avanzada para el Estado de Tamaulipas, relacionadas con el ejercicio de las funciones de Autoridad Certificadora del Poder Ejecutivo del Estado, se entenderán hechas a la Secretaría de Innovación e Inteligencia Digital, la cual ejercerá las atribuciones, facultades y responsabilidades previstas en dicha Ley y demás disposiciones jurídicas aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1356 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al (sic) día 03 de septiembre de 2026 y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de las Mujeres deberá presentar a la persona titular del Poder Ejecutivo del Estado, en un plazo que no exceda de ciento veinte días naturales contados a partir de la entrada en vigor del presente Decreto, los anteproyectos de iniciativas de ley, así como las reformas y adiciones a los reglamentos y demás disposiciones normativas que resulten necesarias para la adecuación del marco jurídico en la materia.
+
+###### ARTÍCULO TERCERO.
+
+Para cumplimiento del presente Decreto, el titular del Ejecutivo del Estado dispondrá de las acciones necesarias para organizar la estructura de la dependencia mediante los procedimientos aplicables.
+
+###### ARTÍCULO CUARTO.
+
+Los procesos administrativos derivados de la organización de la dependencia, previstos en el presente Decreto, deberán realizarse a partir de su entrada en vigor y concluirán (sic) más tardar a los ciento veinte días naturales siguientes.
+
+###### ARTÍCULO QUINTO.
+
+La transferencia que, con motivo de la expedición del presente Decreto deba realizarse del Instituto de las Mujeres en Tamaulipas a la Secretaría de las Mujeres, incluirá los recursos presupuestales, programas, proyectos, obligaciones con dependencias y entidades federales, estatales, así como los asuntos, procesos administrativos y actos jurídicos vigentes de la entidad que se extingue, mismos que deberán continuar hasta su conclusión.
+
+###### ARTÍCULO SEXTO.
+
+Con motivo de la entrada en vigor del presente Decreto, el Instituto de las Mujeres en Tamaulipas transferirá a la Secretaría de las Mujeres los bienes, recursos, derechos, obligaciones y demás elementos que resulten necesarios para el ejercicio de las atribuciones que correspondan a ésta, conforme a las disposiciones jurídicas aplicables.
+
+Para tal efecto, se instruye a la Secretaría de Finanzas, a la Secretaría de (sic) Anticorrupción y Buen Gobierno, a la Secretaría de Administración y a la Secretaría de Bienestar Social, esta última en su carácter de dependencia coordinadora del sector al que se encuentra adscrito el Instituto de las Mujeres en Tamaulipas, para que, en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto, y en el ámbito de sus respectivas competencias, realicen las acciones jurídicas, administrativas, fiscales, presupuestarias, contables y otras de naturaleza análoga que resulten necesarias para concluir el proceso de transición del citado organismo público descentralizado.
+
+Al efecto, deberá observase lo siguiente:
+
+a) Los recursos humanos, materiales y financieros adscritos al Instituto de las Mujeres en Tamaulipas como un Organismo Público Descentralizado del Gobierno del Estado de Tamaulipas, deberán ser transferidos a la Secretaría de las Mujeres; y
+
+b) Los recursos económicos asignados en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2026, para el Instituto de las Mujeres en Tamaulipas, se transferirán a la Secretaría las Mujeres, quien en los ejercicios fiscales subsecuentes contemplará en su Presupuesto de Egresos los recursos correspondientes a dicha instancia gubernamental.
+
+Derivado de lo anterior, será designado por la persona Titular de la Secretaría de las Mujeres, el personal necesario para atender las obligaciones jurídicas, administrativas, presupuestales y contables que refieran a la entidad que se extingue, respecto de terceros y los proyectos y programas federales en cuanto a su ejecución, comprobación, conclusión y cierre.
+
+Concluido el proceso de transición se dará inicio al proceso de liquidación en términos de lo previsto en la Ley de Entidades Paraestatales del Estado de Tamaulipas y atendiendo lo dispuesto por el artículo 7 de su propio reglamento, así como las bases de liquidación que al efecto expida la Secretaría de Bienestar Social, cabeza de sector del organismo público descentralizado.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de las Mujeres, por conducto de las unidades administrativas competentes, asumirá la representación del Organismo Público Descentralizado para realizar todos los actos jurídicos, administrativos, presupuestarios, financieros, contables, fiscales, patrimoniales, laborales, jurisdiccionales y de cualquier otra naturaleza que resulten necesarios para concluir el proceso de liquidación y extinción del Organismo, así como para atender, substanciar, promover, comparecer, contestar, dar seguimiento y resolver cualquier procedimiento, juicio, recurso, requerimiento, auditoría, fiscalización, revisión o acto de autoridad que se encuentre en trámite o que se inicie con posterioridad a su extinción, hasta su total conclusión.
+
+Asimismo, el Liquidador designado quedará facultada (sic) para ejercer los derechos, cumplir las obligaciones y realizar las gestiones necesarias ante cualquier autoridad federal, estatal o municipal, el Servicio de Administración Tributaria (SAT), órganos constitucionales autónomos, organismos públicos, tribunales, personas físicas o morales, instituciones financieras y cualquier otra instancia pública o privada, pudiendo suscribir los documentos, convenios, actas y demás instrumentos jurídicos que resulten indispensables para la debida conclusión de los asuntos derivados de la liquidación y de la extinción del Organismo.
+
+###### ARTÍCULO OCTAVO.
+
+Al personal adscrito al Instituto de las Mujeres en Tamaulipas que será transferido a la Secretaría de las Mujeres le serán respetados los derechos laborales adquiridos, antigüedad, prestaciones y condiciones generales de trabajo que resulten aplicables. La readscripción del personal no constituirá, por sí misma, terminación de la relación laboral ni afectación a los derechos previamente adquiridos.
+
+###### ARTÍCULO NOVENO.
+
+Cuando una ley, reglamento, decreto, acuerdo, o disposición general, refiera al Instituto de las Mujeres en Tamaulipas, se entenderá conferida a la Secretaría de las Mujeres, en tanto se realizan las modificaciones necesarias.
+
+###### ARTÍCULO DÉCIMO.
+
+Se instruye a la Secretaría de Administración, a la Secretaría de Finanzas y a la Secretaría de (sic) Anticorrupción y Buen Gobierno a realizar las adecuaciones presupuestales, materiales y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente Decreto.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Todos los procesos de orden jurídico de diversa naturaleza, que se encuentren en substanciación al momento de la transición serán asumidos por la Secretaría de las Mujeres.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las disposiciones normativas y administrativas correspondientes al marco jurídico aplicable en la materia deberán adecuarse a los procesos legislativos, en un plazo no mayor a ciento veinte días naturales siguientes contados a partir de la entrada en vigor del presente Decreto.
