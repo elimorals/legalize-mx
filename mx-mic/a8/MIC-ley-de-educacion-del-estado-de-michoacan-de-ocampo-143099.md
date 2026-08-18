@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-del-estado-de-michoacan-de-ocampo-143099"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-29"
-last_updated: "2026-06-15"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
 
@@ -341,13 +341,17 @@ XVI. Desde una perspectiva de género, se fomentará la educación menstrual y s
 
 XVII. Propiciar acciones de información y difusión de medidas orientadas a prevenir y concientizar sobre el riesgo de la adicción a los videojuegos, y al uso de dispositivos móviles;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2026)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-XVIII. Impulsar, en concurrencia con la autoridad educativa federal y en coordinación con las autoridades de salud del Estado, los programas y acciones para la promoción del cuidado socioemocional y la salud mental; y,
+XVIII. Impulsar, en concurrencia con la autoridad educativa federal y en coordinación con las autoridades de salud del Estado, los programas y acciones de promoción del cuidado socioemocional y la salud mental;
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2026)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-XIX. Regular el ingreso y uso de Dispositivos Móviles en las instituciones de educación básica durante el horario escolar.
+XIX. Regular el ingreso y uso de Dispositivos Móviles en las instituciones de educación básica durante el horario escolar; y,
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XX. Promover, de manera progresiva y conforme a la disponibilidad presupuestal, actividades orientadas al fortalecimiento de la enseñanza del idioma inglés en las instituciones públicas de educación básica, mediante estrategias pedagógicas, herramientas tecnológicas, mecanismos de coordinación institucional y acciones de fortalecimiento docente, atendiendo a las condiciones regionales y sociales de cada comunidad escolar.
 
 ###### Artículo 30.
 
@@ -722,6 +726,14 @@ La educación especial buscará la equidad y la inclusión a través de los apoy
 En los casos en que, previa valoración multidisciplinaria, se determine que una niña, niño o adolescente con necesidad específica de apoyo educativo requiere un acompañamiento individualizado en el aula regular para su integración y desarrollo pleno, la autoridad educativa estatal deberá garantizar la provisión de un Guía Sombra idóneo.
 
 De acuerdo con las necesidades educativas específicas de la población con marginación y muy alta marginación, podrá impartirse educación primaria multigrado y programas o contenidos particulares para ofrecerles una oportuna atención.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+###### Artículo 59 Bis.
+
+La Secretaría garantizará el derecho a la educación de niñas, niños, adolescentes y adultos con neurodivergencias y enfermedades raras, bajo los principios de igualdad sustantiva, ajustes razonables, accesibilidad, no discriminación e interés superior de la niñez.
+
+Las y los educandos con neurodivergencias y enfermedades raras que hayan recibido educación en modalidad no escolarizada o en el ámbito familiar podrán solicitar su reincorporación a la modalidad escolarizada y tendrán derecho al reconocimiento del grado o nivel educativo correspondiente, realizando la valoración y evaluación respectiva para que sea integrado en el grado de estudios acorde a su edad o competencias académicas.
 
 ###### Artículo 60.
 
@@ -2854,3 +2866,19 @@ P.O. 15 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 466 POR EL QUE “SE ADICIONA EL ARTÍCULO 60 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 499.- ARTÍCULO ÚNICO. SE ADICIONA EL ARTÍCULO 59 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Educación del Estado deberá armonizar los lineamientos reglamentarios correspondientes en un plazo no mayor a 90 días naturales, en donde establezca los mecanismos de aplicación y evaluación especializada, así como requisitos y procedimiento e inclusión a la modalidad escolarizada.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 504.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES XVIII Y XIX Y SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 29, DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
