@@ -21,26 +21,6 @@ state: "MIC"
 ---
 # LEY DE EDUCACION DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2026.
-
-Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
-
-SILVANO AUREOLES CONEJO, Gobernador del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
-
-El H. Congreso del Estado, se ha servido dirigirme el siguiente:
-
-DECRETO
-
-EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
-
-NÚMERO 330
-
-ÚNICO. Se expide la Ley de Educación del Estado de Michoacán de Ocampo, para quedar como sigue:
-
-LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
-
 ## TÍTULO PRIMERO. DEL DERECHO A LA EDUCACIÓN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
@@ -290,64 +270,6 @@ Los procesos educativos serán equitativos, pues darán un trato adecuado a los 
 Al ser un derecho humano fundamental habilitante, el Estado está obligado a prestar servicios educativos con equidad y excelencia, garantizando el respeto a la dignidad humana y el disfrute de todos los derechos humanos.
 
 Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual o prácticas culturales.
-
-###### Artículo 29.
-
-Las autoridades educativas, en el ámbito de sus respectivas competencias y con la finalidad de establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada persona, con equidad y excelencia, realizarán entre otras, las siguientes acciones:
-
-I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
-
-II. Impulsar, en coordinación con las autoridades en la materia, programas de acceso gratuito a eventos culturales para educandos en vulnerabilidad social;
-
-III. Apoyar conforme a las disposiciones que, para tal efecto emitan las autoridades educativas, a estudiantes de educación media superior y de educación superior con alto rendimiento escolar para que puedan participar en programas de intercambio académico en el país o en el extranjero;
-
-IV. Celebrar convenios para que las instituciones que presten servicios de estancias infantiles o aquellas que impartan educación inicial faciliten la incorporación de las hijas o hijos de estudiantes que lo requieran, con el objeto de que no interrumpan o abandonen sus estudios;
-
-V. Dar a conocer y, en su caso, fomentar diversas opciones educativas, como la educación abierta y a distancia, mediante el aprovechamiento de las plataformas digitales, la televisión educativa y las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
-
-VI. Celebrar convenios de colaboración interinstitucional con las autoridades de los tres órdenes de gobierno, a fin de impulsar acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario, preferentemente a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
-
-VII. Fomentar programas de incentivos dirigidos a las maestras y los maestros que presten sus servicios en localidades aisladas, zonas urbanas marginadas y de alta conflictividad social, para fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
-
-VIII. Establecer, de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, escuelas con horario completo en educación básica, con jornadas de entre 6 y 8 horas diarias, para promover un mejor aprovechamiento del tiempo disponible, generar un mayor desempeño académico y desarrollo integral de los educandos;
-
-IX. Fortalecimiento de los albergues comunitarios e indígenas;
-
-X. Facilitar el acceso a la educación básica y media superior, previo cumplimiento de los requisitos que para tal efecto se establezcan, aun cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos en los términos de este Capítulo y de conformidad con los lineamientos que emita la Secretaría.
-
-Las autoridades educativas ofrecerán opciones que faciliten la obtención de los documentos académicos y celebrarán convenios de colaboración con las instituciones competentes para la obtención de los documentos de identidad, así mismo, en el caso de la educación básica y media superior, se les ubicará en el nivel y grado que corresponda, conforme a la edad, el desarrollo cognitivo, la madurez emocional y, en su caso, los conocimientos que demuestren los educandos mediante la evaluación correspondiente.
-
-Las autoridades educativas promoverán acciones similares para el caso de la educación superior;
-
-XI. Adoptar las medidas para que, con independencia de su nacionalidad o condición migratoria, las niñas, niños, adolescentes o jóvenes que utilicen los servicios educativos públicos, ejerzan los derechos y gocen de los beneficios con los que cuentan los educandos en la entidad, instrumentando estrategias para facilitar su incorporación y permanencia en el Sistema Educativo Estatal;
-
-XII. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
-
-XIII. Garantizar la distribución a los educandos de los libros de texto gratuitos y materiales educativos tanto en formatos impresos como digitales, garantizando su distribución para la educación básica proporcionados por la autoridad educativa federal;
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
-
-XIV. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas del territorio estatal;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
-
-XV. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia;
-
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
-
-XVI. Desde una perspectiva de género, se fomentará la educación menstrual y se facilitará el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes que lo requieran, en las escuelas públicas pertenecientes al Sistema Educativo Estatal;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2026)</small>
-
-XVII. Propiciar acciones de información y difusión de medidas orientadas a prevenir y concientizar sobre el riesgo de la adicción a los videojuegos, y al uso de dispositivos móviles;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2026)</small>
-
-XVIII. Impulsar, en concurrencia con la autoridad educativa federal y en coordinación con las autoridades de salud del Estado, los programas y acciones para la promoción del cuidado socioemocional y la salud mental; y,
-
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2026)</small>
-
-XIX. Regular el ingreso y uso de Dispositivos Móviles en las instituciones de educación básica durante el horario escolar.
 
 ###### Artículo 30.
 
