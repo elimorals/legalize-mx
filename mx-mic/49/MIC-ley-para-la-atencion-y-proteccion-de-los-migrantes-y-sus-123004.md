@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-proteccion-de-los-migrantes-y-sus-123004
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-18"
-last_updated: "2026-07-09"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 18 de agosto de 2017.
 
@@ -831,6 +831,14 @@ En el caso de las fracciones IV y VIII, deberá indicar si tiene dos o más de e
 
 La Secretaría deberá integrar información relacionada con migrantes michoacanos detenidos, recluidos, desaparecidos y fallecidos en el extranjero. Asimismo podrá adicionar datos que considere relevantes para integrarlos al registro.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+La integración, administración, resguardo, protección, acceso, actualización, tratamiento y transferencia de la información contenida en el Banco de Datos de Migrantes del Estado de Michoacán de Ocampo, deberá realizarse de conformidad con la legislación aplicable en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+El ejercicio de los derechos de acceso, rectificación, cancelación u oposición al tratamiento de los datos personales, se realizará por la persona titular o su representante conforme a lo que dispone la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Michoacán de Ocampo.
+
 ###### Artículo 26.
 
 Para la integración del Banco de Datos de Migrantes del Estado de Michoacán de Ocampo, la Secretaría deberá:
@@ -845,9 +853,13 @@ III. Medir la migración e inmigración en el Estado;
 
 IV. Incluir el registro de migrantes michoacanos, migrantes en retorno, especificando si este es voluntario o forzado, michoaeanos (sic) que habiendo tenido la calidad de migrantes se encuentren en el Estado, indicando la fecha de su regreso; así mismo incorporar información relativa a sus habilidades, competencias, experiencia laboral y conocimientos adquiridos en el extranjero, con el objeto de facilitar su integración productiva y laboral; como de jornaleros agrícolas y organizaciones de migrantes michoacanos, para lo cual, se auxiliará de la información que le proporcione el Centro Municipal que corresponda;
 
-V. Intercambiar información con las dependencias federales, estatales y municipales; y,
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-VI. Resguardar la información contenida en él, siendo confidencial los datos personales, y público lo que se refiere a datos con fines estadísticos, sean oficiales o académicos, cuyo objeto sea la medición o evaluación.
+V. Intercambiar información con las dependencias federales, estatales y municipales; de conformidad con la legislación aplicable en materia de transparencia, acceso a la información pública y protección de datos personales; y,
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VI. Resguardar la información contenida en el Banco de Datos de Migrantes del Estado de Michoacán de Ocampo, siendo confidencial los datos personales, y públicos únicamente aquellos datos con fines estadísticos, oficiales o académicos cuyo objeto sea la medición o evaluación, de conformidad con la legislación aplicable en materia de transparencia, acceso a la información pública y protección de datos personales.
 
 ### CAPÍTULO SEGUNDO. ATENCIÓN A LOS MIGRANTES MICHOACANOS FUERA DEL TERRITORIO ESTATAL
 
@@ -1380,3 +1392,9 @@ P.O. 9 DE JULIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 474 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN I, 6, 12 FRACCIÓN I, 26 FRACCIÓN IV; Y, 56 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 512.- ARTÍCULO ÚNICO.- SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 25; Y, SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 26 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
