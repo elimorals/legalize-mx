@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2026-08-05"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -675,9 +675,13 @@ b) Tratar a la paciente con respeto, de modo individual y personalizado, de tal 
 
 c) Facilitar la participación de la paciente como protagonista de su propio parto;
 
-d) Priorizar el parto natural y respetar los tiempos biológicos y psicológicos de la paciente, evitando prácticas invasivas y suministro de medicación que no estén justificados por el estado de salud de la parturienta o de la persona por nacer;
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
 
-e) Informar a la paciente sobre la evolución de su parto, el estado de su hijo o hija y, en general, hacerla partícipe de las diferentes actuaciones de los profesionales;
+d) Priorizar el parto natural y respetar los tiempos biológicos y psicológicos de la paciente, favoreciendo, cuando no exista contraindicación médica, el contacto piel con piel al pecho materno y el respeto de la primera hora de vida, evitando prácticas invasivas y suministro de medicación que no estén justificados por el estado de salud de la parturienta o de la persona por nacer;
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+e) Informar a la paciente sobre la evolución de su parto, el estado de su hijo o hija y guiarla en el proceso del contacto al pecho inmediatamente después del nacimiento, y en general, hacerla partícipe de las diferentes actuaciones de los profesionales;
 
 f) No someter a la paciente a ningún examen o intervención cuyo propósito sea de investigación, salvo consentimiento manifestado por escrito bajo protocolo aprobado;
 
@@ -685,7 +689,9 @@ g) Realizar lo conducente para que una persona de la confianza de la paciente la
 
 h) Realizar lo conducente para que la paciente tenga a su lado a su hijo o hija durante la permanencia en el establecimiento sanitario desde los primeros minutos de nacido, siempre que el recién nacido no requiera de cuidados especiales;
 
-i) Informar a la paciente, desde el embarazo, sobre los beneficios de la lactancia materna y brindarle apoyo para amamantar;
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+i) Informar a la paciente, desde el embarazo, sobre los beneficios de la lactancia materna, el contacto piel con piel, la primera hora de vida, las técnicas adecuadas de amamantamiento y brindarle apoyo para iniciar y mantener la lactancia materna;
 
 j) Brindar asesoramiento e información a la paciente sobre los cuidados de sí misma y del niño o niña;
 
@@ -711,6 +717,10 @@ ARTÍCULO 17 B. La atención materno-infantil abarca el período que va del emba
 
 I. La atención a la primera infancia y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, la atención prenatal, la atención especializada en neurodesarrollo, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas;
 
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+I Bis. El inicio del contacto piel con piel inmediato entre la madre y la persona recién nacida, cuando las condiciones clínicas de ambas lo permitan, promoviendo el contacto al pecho y el inicio temprano de la lactancia materna durante la primera hora de vida, como parte de la atención obstétrica y neonatal estandarizada;
+
 II. La aplicación de la prueba del tamiz metabólico neonatal, preferentemente entre el segundo y séptimo día de vida. Además, la aplicación del tamiz metabólico neonatal ampliado a todo prematuro, así como a cualquier neonato en caso de ser necesario conforme examen clínico previo;
 
 III. La revisión de retina al prematuro;
@@ -721,25 +731,33 @@ V. La aplicación del tamiz neonatal auditivo a todo prematuro, así como a cual
 
 VI. La detección de ictericia y, en su caso conforme examen clínico previo, la aplicación del tratamiento para detener y revertir sus síntomas de inmediato;
 
-VII. La aplicación del tamiz neonatal para la detección de cardiopatías congénitas graves o críticas, antes del alta hospitalaria, durante las primeras setenta y dos horas de nacido; y,
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VII. La aplicación del tamiz neonatal para la detección de cardiopatías congénitas graves o críticas, el cual deberá realizarse a todo recién nacido preferentemente dentro de las primeras veinticuatro horas de vida y, en ningún caso, excediendo de las cuarenta y ocho horas, antes del alta hospitalaria, siempre que existan medios suficientes para su detección.
+
+La detección deberá realizarse mediante el tamiz neonatal cardiológico por oximetría de pulso, así como a través del tamiz neonatal ampliado, conforme a la valoración clínica correspondiente.
+
+Cuando la unidad médica no cuente con los medios necesarios para su realización, o se identifiquen factores de riesgo, indicios o hallazgos clínicos sugestivos de cardiopatías congénitas, se deberá garantizar el traslado oportuno del recién nacido a la unidad hospitalaria más cercana que cuente con la capacidad resolutiva necesaria.
+
+Las instituciones del Sistema Estatal de Salud deberán fortalecer los mecanismos de referencia, contrarreferencia, seguimiento clínico especializado y continuidad del cuidado y tratamiento, a fin de reducir complicaciones, secuelas o riesgos derivados de malformaciones cardiacas congénitas;
 
 VIII. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida.
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-IX. La detección temprana de condiciones deformantes como el pie equino varo, el pie valgo y los defectos del cierre del tubo neural; y,
+IX. La detección temprana de condiciones deformantes como el pie equino varo, el pie valgo y los defectos del cierre del tubo neural;
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
 X. La remisión a los centros especializados en neurodesarrollo de la primera infancia que presenten alteraciones en su desarrollo psicomotor, signos de daño neurológico, problemas de lenguaje o comunicación, dificultades emocionales o conductuales, antecedentes perinatales de riesgo, historia médica previa relacionada con afecciones neurológicas, o cualquier otro indicador clínico que requiera atención especializada en neurodesarrollo.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 26 DE MAYO DE 2026.]</small>
-
 Cuando el personal de salud identifique indicadores clínicos que puedan derivar en una discapacidad, deberá realizar las gestiones necesarias para remitirlos al Centro de Rehabilitación de Educación Especial, unidades básicas de rehabilitación o centros de rehabilitación integral, conforme a las disposiciones legales vigentes en materia de asistencia social.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
+La prestación de servicios de atención a la salud materno-infantil tendrán carácter prioritario, comprendiendo la atención integral, prevención y detección de enfermedades hereditarias y congénitas a través de las pruebas neonatales, y la vigilancia de los derechos humanos de la mujer y su hijo o hija durante el embarazo, parto, puerperio, crecimiento, desarrollo e integración del bienestar familiar; y
 
-La prestación de servicios de atención a la salud materno-infantil tendrán carácter prioritario, comprendiendo la atención integral, prevención y detección de enfermedades hereditarias y congénitas a través de las pruebas neonatales, y la vigilancia de los derechos humanos de la mujer y su hijo o hija durante el embarazo, parto, puerperio, crecimiento, desarrollo e integración del bienestar familiar.
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+XI. Las instituciones públicas y privadas que brinden atención obstétrica o realicen procedimientos obstétricos quirúrgicos deberán contar, conforme a su nivel de atención, capacidad instalada y normatividad aplicable, con personal capacitado en reanimación neonatal, equipo básico funcional, protocolos de estabilización, referencia y traslado oportuno, así como mecanismos de coordinación con unidades que cuenten con servicios de cuidados intensivos neonatales, para garantizar la atención inmediata y la continuidad del cuidado de las personas recién nacidas que lo requieran.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
 
@@ -813,7 +831,9 @@ ARTÍCULO 17 D. La lactancia materna es aquella proporcionada con leche del seno
 
 La Secretaría conducirá la política estatal en materia de lactancia materna y coordinará la concurrencia de los sectores público, privado y de la sociedad civil, en su ejecución.
 
-El Estado y los sectores público, privado y de la sociedad civil tienen la obligación de proveer protección, apoyo y promoción a la lactancia materna, a efecto de garantizar la alimentación adecuada, el crecimiento y el desarrollo integral de las y los lactantes.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+El Estado y los sectores público, privado y de la sociedad civil promoverán la protección, apoyo y promoción a la lactancia materna así como la educación prenatal sobre los beneficios del contacto piel con piel, la primera hora de vida y el inicio temprano de la lactancia materna, a efecto de garantizar la alimentación adecuada, el crecimiento y el desarrollo integral de las y los lactantes.
 
 La Secretaría vigilará el cumplimiento de la protección, apoyo y promoción de la lactancia materna, para lo cual deberá coordinarse con las dependencias del Ejecutivo del Estado y demás instancias del sector público y privado que se requieran, conforme a lo siguiente:
 
@@ -829,7 +849,9 @@ IV. En todo establecimiento que proporcione atención obstétrica, el personal d
 
 V. El personal de salud de los establecimientos que otorgan atención obstétrica, neonatal y/o pediátrica, así como el personal encargado de la nutrición en menores de dos años de edad, debe conocer, difundir, promover y vigilar el cumplimiento del Código Internacional de Comercialización de Sucedáneos de la Leche Materna, de conformidad con las normas oficiales mexicanas;
 
-VI. En todo establecimiento que proporcione atención obstétrica, el personal de salud debe promover el inicio de la lactancia materna en la primera media hora de vida, de conformidad con las normas oficiales mexicanas;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VI. En todo establecimiento que proporcione atención obstétrica, el personal de salud deberá promover las acciones conducentes para que las personas recién nacidas inicien, cuando las condiciones clínicas lo permitan, el contacto piel con piel y la lactancia materna durante la primera hora de vida, como parte esencial de la atención materno-infantil, de conformidad con las normas oficiales mexicanas y demás disposiciones aplicables;
 
 VII. En todo establecimiento que proporcione atención obstétrica y/o a menores de dos años de edad, el personal de salud debe evitar utilizar o recomendar el uso de chupón y/o biberón, de conformidad con las normas oficiales mexicanas;
 
@@ -887,9 +909,29 @@ I. La Secretaría, en coordinación con las autoridades competentes, informará 
 
 II. Se impulsará la instalación de lactarios en los sectores público, social y privado, en términos de las disposiciones aplicables;
 
-III. Las empresas y organizaciones de los sectores público, social y privado deben impulsar la práctica de la lactancia materna durante los dos primeros años de vida del hijo o hija de la mujer trabajadora; y,
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
 
-IV. Las instituciones, dependencias y empresas, deben impulsar así como otorgar el tiempo y las facilidades necesarias para la práctica de la lactancia materna de madres trabajadoras, conforme a las disposiciones aplicables.
+III. Las empresas y organizaciones de los sectores público, social y privado deben impulsar la práctica de la lactancia materna durante los dos primeros años de vida del hijo o hija de la mujer trabajadora;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+IV. Las instituciones, dependencias y empresas deben otorgar, conforme a las disposiciones aplicables, el tiempo y las facilidades necesarias para la práctica de la lactancia materna de madres trabajadoras conforme a las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+V. La Secretaría, en coordinación con las autoridades competentes, promoverá y protegerá la continuidad de la lactancia materna después de los seis meses y hasta los dos años de edad, como una práctica de salud pública fundamental para el desarrollo infantil y la protección de la salud materna;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VI. Las instituciones públicas y privadas deberán promover acciones permanentes de información, orientación y acompañamiento que favorezcan la continuidad de la lactancia materna después de los seis meses y hasta los dos años de edad, en los distintos entornos sociales, comunitarios y laborales;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VII. Cuando una madre lactante lo solicite, los centros de trabajo públicos y privados ubicados en el Estado deberán otorgar, conforme a las disposiciones laborales aplicables, facilidades razonables para que pueda continuar con la lactancia materna después de los seis meses y hasta los dos años de edad, incluyendo la extracción y conservación de leche materna durante la jornada laboral, como medida de protección a la salud materno-infantil; y,
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2026)</small>
+
+VIII. El tiempo destinado a la extracción de leche materna en dicho periodo no deberá generar trato diferenciado, sanción, restricción o menoscabo en las condiciones laborales de la madre trabajadora, de conformidad con las disposiciones aplicables y los lineamientos técnicos que, en su caso, emita la Secretaría.
 
 e) Lactancia en estancias, guarderías, centros de desarrollo infantil o instituciones donde se brinde atención a niñas y niños menores de dos años de edad.
 
@@ -3994,3 +4036,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Salud del Estado implementará las acciones derivadas del presente Decreto de manera progresiva, conforme a su capacidad institucional, operativa y presupuestaria.
 
 TERCERO. La Secretaría de Salud del Estado podrá coordinarse con las instituciones públicas, sociales y privadas que resulten competentes, a efecto de fortalecer las acciones de orientación, apoyo emocional y prevención de la sobrecarga física, emocional y mental de las personas cuidadoras.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 482 POR EL QUE "SE REFORMAN LOS INCISOS D), E) E I) DEL ARTÍCULO 17 A; SE ADICIONA LA FRACCIÓN I BIS, SE REFORMAN LAS FRACCIONES VII, IX Y X Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 17 B; Y, SE REFORMA EL TERCER PÁRRAFO, LA FRACCIÓN VI DEL INCISO A) Y LAS FRACCIONES III Y IV Y SE ADICIONAN LAS FRACCIONES V, VI, VII Y VIII AL INCISO D), DEL PÁRRAFO CUARTO DEL ARTÍCULO 17 D, TODOS DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría, en el ámbito de sus atribuciones y conforme a su capacidad instalada y disponibilidad presupuestaria, realizará las acciones necesarias para la implementación progresiva de las disposiciones contenidas en el presente Decreto.
+
+TERCERO. La Secretaría podrá emitir, actualizar o adecuar los lineamientos, protocolos o disposiciones técnicas necesarias para la aplicación de las medidas relativas al contacto piel con piel, inicio temprano de la lactancia materna, tamiz neonatal cardiológico, reanimación neonatal, referencia, contrarreferencia y continuidad del cuidado de personas recién nacidas, en coordinación con las instituciones públicas y privadas que integran el Sistema Estatal de Salud.
+
+CUARTO. Las instituciones públicas y privadas que brinden atención obstétrica deberán adecuar progresivamente sus protocolos internos de atención, capacitación, estabilización, referencia y traslado neonatal, conforme a su nivel de atención, capacidad instalada, normatividad aplicable y a los lineamientos que emita la autoridad sanitaria competente.
