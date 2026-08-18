@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2026-05-26"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -3217,6 +3217,18 @@ IV. De tres a siete años de prisión y de seiscientos a mil días multa, cuando
 
 Este delito se perseguirá por querella.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2026)</small>
+
+###### Artículo 228 Bis.
+
+Daño en las cosas por medios tecnológicos y digitales.
+
+Las mismas sanciones señaladas en el artículo anterior se impondrán a quien, de manera intencional y utilizando tecnologías de la información, sistemas informáticos, plataformas digitales, redes de comunicación, medios electrónicos o inteligencia artificial, destruya, deteriore, altere, inutilice o afecte total o parcialmente un bien tangible o intangible, ajeno o propio, en perjuicio de otra persona.
+
+Para efectos de este artículo, se entenderá por daño toda afectación que disminuya el valor económico del bien, altere su integridad, limite o impida su uso, aprovechamiento o funcionalidad, genere un menoscabo patrimonial directo o indirecto, aún cuando no exista destrucción material visible, siempre que el uso de medios digitales sea determinante para la producción del resultado. Se entenderá por bienes intangibles, las cuentas de correo electrónico, perfiles en redes sociales, almacenamiento en la nube, carteras de criptomonedas y sus llaves privadas, cuentas en plataformas de comercio electrónico, dominios de internet y sitios web, licencias de software y suscripciones, cuentas de servicios financieros digitales, contenidos digitales creados, fotografías, videos, blogs, obras artísticas, videojuegos, ingresos por monetización digital y activos en videojuegos en línea con valor monetario.
+
+Las sanciones se aumentarán hasta en una mitad cuando la conducta tenga como finalidad obtener lucro, beneficio económico o ventaja indebida, o cuando por su magnitud, reiteración o por afectar a una pluralidad de personas, produzca un impacto patrimonial relevante en las personas y en la sociedad.
+
 ###### Artículo 229.
 
 Reparación del daño
@@ -5140,3 +5152,9 @@ P.O. 26 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 447 POR EL QUE ”SE REFORMAN LOS ARTÍCULOS 166 Y 168 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 496 POR EL QUE " SE ADICIONA EL ARTÍCULO 228 BIS AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNlCO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
