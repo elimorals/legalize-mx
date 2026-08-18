@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1808
 country: "mx"
 rank: "ley"
 publication_date: "2025-07-10"
-last_updated: "2026-03-17"
+last_updated: "2026-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
 
 Ley publicada en el Número 83 del Periódico Oficial del Estado de Tamaulipas, el jueves 10 de julio de 2025.
 
@@ -1011,9 +1011,9 @@ b) Indicadores de la procuración de justicia. En materia de carpetas de investi
 
 c) Número de órdenes de presentación, aprehensión y de cateo solicitadas por el Ministerio Público y/o emitidas por una Jueza o Juez competente.
 
-IV. El Tribunal Electoral del Estado de Tamaulipas, además, de lo señalado en el artículo 57 de esta ley, deberá transparentar sus sentencias definitivas; y
+IV. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
-V. El Tribunal de Justicia Administrativa del Estado de Tamaulipas además, de lo señalado en el artículo 57 de esta ley, deberá transparentar en versión pública las resoluciones emitidas.
+V. (DEROGADA, P.O. 18 DE AGOSTO DE 2026)
 
 ###### Artículo 62.
 
@@ -2308,6 +2308,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 17 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-998 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO OCTAVO TRANSITORIO; UN PÁRRAFO CUARTO AL ARTÍCULO DÉCIMO TRANSITORIO; Y UN PÁRRAFO SEGUNDO AL ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL DECRETO 66-368, EXPEDIDO POR LA LEGISLATURA 66 DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 83, DE FECHA 10 DE JULIO DE 2025”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1360 MEDIANTE EL CUAL SE DEROGAN LAS FRACCIONES IV Y V DEL ARTÍCULO 61 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
