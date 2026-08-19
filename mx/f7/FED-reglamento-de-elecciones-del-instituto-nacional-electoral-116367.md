@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2023-10-03"
+last_updated: "2026-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE AGOSTO DE 2026.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -8161,6 +8161,8 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 8.4 FORMATO DE GAFETE DE ACREDITACIÓN COMO OPERADOR RESPONSABLE/AUXILIAR DEL EQUIPO DE CÓMPUTO DE LA CASILLA ESPECIAL INSTALADA EN LA SECCIÓN, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 55.]</small>
 
+> <small>[N. DE E. VÉASE ANEXO 8.6 MODELO DE CASILLA ÚNICA PARA LA ELECCIÓN CONCURRENTE INTERMEDIA DEL PROCESO ELECTORAL 2026-2027, EN EL D.O.F. DE 19 DE AGOSTO DE 2026, PÁGINAS DE LA 177 A LA 178.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO 9.1 ESPECIFICACIONES TÉCNICAS DE LOS EMBLEMAS DE PARTIDOS POLÍTICOS LOCALES Y, EN SU CASO DE CANDIDATOS INDEPENDIENTES, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINA 56.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 9.2-F2, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINA 57.]</small>
@@ -10034,3 +10036,37 @@ https://www.ine.mx/sesion-ordinaria-del-consejo-general-25-de-agosto-de-2023/
 Página DOF
 
 www.dof.gob.mx/2023/INE/CGord202308_25_ap_30.pdf
+
+D.O.F. 19 DE AGOSTO DE 2026.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL MODELO DE CASILLA ÚNICA PARA LA ELECCIÓN CONCURRENTE INTERMEDIA DEL PROCESO ELECTORAL 2026-2027, ASÍ COMO LA ACTUALIZACIÓN DEL ANEXO 8.6 DEL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba el Modelo de Casilla Única para la elección concurrente intermedia del Proceso Electoral 2026-2027, el cual se integra como Anexo 1 y forma parte del presente Acuerdo.
+
+SEGUNDO. Se aprueba la actualización del Anexo 8.6 del Reglamento de Elecciones del Instituto Nacional Electoral, mismo que contiene el Modelo de Casilla Única para la elección concurrente intermedia del Proceso Electoral 2026-2027:
+
+Anexo Tipo de modificación Título del anexo
+
+Anexo 8.6 Actualización Modelo de Casilla Única
+
+para la elección concurrente
+
+intermedia del Proceso Electoral
+
+2026-2027
+
+TERCERO. Se instruye a la Secretaría Ejecutiva para que, por conducto de la Dirección Ejecutiva de Organización Electoral, dé a conocer el contenido del presente Acuerdo a las y los integrantes de las Juntas Ejecutivas Locales y Distritales del Instituto Nacional Electoral, y, en su momento, se informe a las presidencias de los Consejos Locales y Distritales del INE de las 32 entidades del país.
+
+CUARTO. Se instruye a la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica para que realice, en su caso, los ajustes correspondientes en los materiales didácticos respectivos, de conformidad con los procedimientos establecidos para el desarrollo de la votación y del escrutinio y cómputo en la casilla única.
+
+QUINTO. Se instruye a las Presidencias de los Consejos Locales y Distritales para que, una vez instalados los Consejos respectivos, instrumenten lo conducente a fin de dar a conocer el contenido del presente Acuerdo a los integrantes de los respectivos consejos.
+
+SEXTO. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales para que comunique el presente Acuerdo a los órganos superiores de dirección de los Organismos Públicos Locales de las 32 entidades federativas.
+
+SÉPTIMO. Se instruye a la Dirección de Secretariado y a la Dirección Ejecutiva de Asuntos Jurídicos de este Instituto Nacional Electoral, para que, en el ámbito de sus respectivas competencias, incorpore en el compilado de anexos del Reglamento de Elecciones la actualización del Anexo 8.6 de dicho ordenamiento.
+
+OCTAVO. Las situaciones no previstas en el presente Acuerdo y su anexo serán resueltas de conformidad con lo establecido en el Considerando 35 del presente instrumento.
+
+NOVENO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+DÉCIMO. Publíquese el presente Acuerdo y su anexo en la Gaceta Electoral, en el Diario Oficial de la Federación, en NormaINE y en el Portal de internet del Instituto Nacional Electoral.
