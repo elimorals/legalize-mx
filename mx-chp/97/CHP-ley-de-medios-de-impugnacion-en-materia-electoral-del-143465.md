@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-medios-de-impugnacion-en-materia-electoral-del-143465"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-29"
-last_updated: "2026-07-28"
+last_updated: "2026-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 29 de junio de 2020.
 
@@ -1089,11 +1089,27 @@ X. Se reciban o utilicen recursos de procedencia ilícita o recursos públicos e
 
 XI. Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.
 
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2026)</small>
+
+XII. Se cometa violencia política contra las mujeres en razón de género con carácter generalizado durante la contienda electoral, que impida la competencia en condiciones de igualdad y equidad.
+
 2. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y segundo lugar sea menor al cinco por ciento.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2026)</small>
 
-3. En caso de nulidad de la elección, por las causales previstas en las fracciones III, IV, VI, VII, VIII, IX, X y XI la persona sancionada no podrá participar en la elección extraordinaria que al efecto se convoque.
+3. En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrán participar el o los Partidos Políticos y/o la(s) personas candidatas o involucradas.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2026)</small>
+
+4. Se entenderá por violaciones graves, aquellas conductas irregulares que produzcan una afectación sustancial a los principios constitucionales en la materia y pongan en peligro el proceso electoral y sus resultados.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2026)</small>
+
+5. Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2026)</small>
+
+6. En caso de nulidad de la elección, por las causales previstas en las fracciones III, IV, VI, VII, VIII, IX, X, XI y XII el o los Partidos Políticos y/o la(s) persona candidata responsable o involucradas no podrán participar en la elección extraordinaria que al efecto se convoque.
 
 ###### Artículo 104.
 
@@ -1430,5 +1446,13 @@ P.O. 28 DE JULIO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 282 POR EL QUE SE REFORMA Y SE ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 103 DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE CHIAPAS”.]
 
 Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan al contenido del presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 289 POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES AL ARTÍCULO 103 DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE CHIAPAS, EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan al contenido del presente Decreto.
