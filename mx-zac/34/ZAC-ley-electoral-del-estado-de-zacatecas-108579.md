@@ -4,7 +4,7 @@ identifier: "ZAC-ley-electoral-del-estado-de-zacatecas-108579"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-06"
-last_updated: "2025-02-15"
+last_updated: "2026-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ZAC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL SUPLEMENTO 3 AL NÚMERO 68, EL 26 DE AGOSTO DE 2026 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2026.
 
 Ley publicada en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el sábado 6 de junio de 2015.
 
@@ -489,21 +491,17 @@ ARTÍCULO 16
 
 1. El Poder Legislativo del Estado de Zacatecas se deposita en un órgano colegiado, integrado por representantes del pueblo, electos en su totalidad cada tres años, y que se denomina Legislatura del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2026)</small>
+
 Integración de la Legislatura
 
 ARTÍCULO 17
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
-
-1. Los miembros de la Legislatura del Estado serán 18 diputados de mayoría relativa, electos en distritos uninominales, y 12 diputados de representación proporcional electos en una sola circunscripción electoral, de estos últimos, dos deberán tener al momento de la elección, la calidad de migrantes o binacionales. En ambos casos, por cada diputado propietario se elegirá a un suplente, mediante fórmulas integradas por personas del mismo género y encabezadas alternadamente entre mujeres y hombres cada periodo electivo.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+1. Los miembros de la Legislatura del Estado serán 18 diputados de mayoría relativa, electos en distritos uninominales, y 12 diputados de representación proporcional de estos últimos, dos deberán tener al momento de la elección, la calidad de migrantes o binacionales. En ambos casos, por cada diputado propietario se elegirá a un suplente, mediante lista de fórmulas integradas por personas del mismo género y encabezadas alternadamente entre mujeres y hombres cada periodo electivo, conformadas en términos de esta ley.
 
 2. Los diputados podrán ser electos consecutivamente por un periodo adicional por el principio de mayoría relativa y de representación proporcional, incluidos los que tengan carácter de independientes. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-3. Ningún partido podrá tener más de dieciocho diputados en la legislatura por ambos principios.
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+3. Ningún partido podrá tener más de dieciocho diputados en la Legislatura por ambos principios.
 
 4. En el caso de los diputados que tengan el carácter de independientes y pretendan ser electos por un periodo adicional, deberán ratificar el apoyo ciudadano, conforme a la legislación en la materia.
 
@@ -585,155 +583,123 @@ ARTÍCULO 23
 
 ### CAPÍTULO CUARTO. DE LA ASIGNACIÓN DE DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2026)</small>
+
 Diputados de representación proporcional
 
 Incluye fórmulas con carácter migrante
 
 ARTÍCULO 24
 
-1. Para la elección de diputados por el principio de representación proporcional habrá una sola circunscripción plurinominal correspondiente a todo el territorio del estado.
+Para la asignación de Diputadas y Diputados electos por el principio de representación proporcional se tendrán en cuenta los principios y conceptos siguientes:
 
-2. Las diputaciones que deberán asignarse a los partidos políticos serán 12. Cada partido político podrá solicitar se registre una lista de candidatos propietarios y suplentes, cuyos integrantes podrán ser los mismos que le hayan registrado en las fórmulas por el principio de mayoría relativa. La lista deberá estar integrada de manera paritaria y alternada entre los géneros. Del total de candidaturas, el 20% tendrá calidad de joven. Las fórmulas de propietarios y suplentes serán de un mismo género.
+1. Para la elección de diputados por el principio de representación proporcional se tomará en cuenta la lista definitiva que se compondrá por seis candidaturas registradas por los partidos políticos y seis que no obtuvieron la mayoría de votos en la elección por el principio de mayoría relativa en el distrito en que participaron, pero que alcanzaron a nivel distrital, los mayores porcentajes de la votación distrital efectiva.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+2. Las diputaciones que deberán asignarse por el principio de representación proporcional serán 12, mediante la fórmula de asignación establecida en la ley, en (sic) cual deberá observar en todo momento el principio de paridad y alternancia de género, de las candidaturas, el 20% tendrá la calidad de joven.
 
-3. La asignación de las diputaciones será en el orden de prelación que tuviesen los candidatos en la lista estatal registrada por cada partido político, con excepción de los dos que tengan la calidad de migrantes o binacionales y la aplicación de los mecanismos para la integración paritaria de género de la Legislatura, hasta completar el número a que tengan derecho de conformidad con las reglas que la Constitución Local y esta Ley establecen, sin menoscabo del principio de progresividad.
+3. La asignación de diputaciones con carácter migrante corresponderá a los dos partidos políticos con el mayor porcentaje de votación estatal emitida, respectivamente, y serán otorgadas conforme al género de la última fórmula de asignación. En caso de que un partido político obtenga por el principio de mayoría relativa el triunfo en los 18 distritos electorales uninominales, los diputados que tengan el carácter de migrantes o binacionales se asignarán a la primera y segunda minorías.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+4. Las disposiciones relativas al género de los candidatos, el registro de los candidatos que ostenten el carácter de migrante o joven, se aplicarán sin perjuicio de los mayores avances que en esta materia señalen la normatividad interna y los procedimientos de cada partido político.
 
-4. Las listas de candidaturas a diputaciones por el principio de representación proporcional que registre cada partido político deberán integrar dos fórmulas con carácter de migrante o binacional, de distinto género, en el penúltimo y último lugar de su lista plurinominal.
+5. Para la aplicación de la fórmula de asignación de diputaciones se tomarán en cuenta los siguientes conceptos
 
-5. (DEROGADO, P.O. 12 DE DICIEMBRE DE 2020)
+I. Cociente natural: es el resultado de dividir la votación estatal emitida entre el número de Diputaciones de representación proporcional por asignar, en los términos de esta ley;
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+II. Cociente de distribución: Es el resultado de dividir la votación ajustada entre el número de Diputaciones de representación proporcional que quedan por asignar, una vez verificado el límite máximo de sobrerrepresentación, en los términos de esta ley;
 
-6. La asignación de diputaciones con carácter migrante corresponderá a los dos partidos políticos con el mayor porcentaje de votación estatal emitida, respectivamente, y serán otorgadas conforme al género de la última fórmula de asignación. En caso de que un partido político obtenga por el principio de mayoría relativa el triunfo en los 18 distritos electorales uninominales, los diputados que tengan el carácter de migrantes o binacionales se asignarán a la primera y segunda minorías.
+III. Lista “A”: Relación de seis fórmulas de candidaturas a las diputaciones: persona propietaria y suplente del mismo género, listados en orden de prelación alternando fórmulas de género distinto de manera sucesiva, a elegir por el principio de representación proporcional, de las cuales 2 deberán tener el carácter de migrante o binacional y 2 deberán estar integradas por personas jóvenes.
 
-7. Las disposiciones relativas al género de los candidatos, el registro de los candidatos que ostenten el carácter de migrante o joven, se aplicarán sin perjuicio de los mayores avances que en esta materia señalen la normatividad interna y los procedimientos de cada partido político.
+Será derecho exclusivo de los partidos políticos conforme a su facultad de autodeterminación y elegir el género con el que iniciará su lista “A”.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+IV. Lista “B”: Relación de seis fórmulas de candidaturas a diputadas y diputados de los partidos políticos, que no obtuvieron la mayoría de votos en la elección por el principio de mayoría relativa en el distrito en que participaron, pero que alcanzaron a nivel distrital, los mayores porcentajes de la votación distrital efectiva emitida en cada distrito, comparados respecto de otras fórmulas de personas candidatas de su propio partido en esa misma elección.
+
+Con la finalidad de garantizar la paridad de género en la integración del Congreso, el primer lugar de la lista “B” de cada partido político lo encabezará la fórmula de personas candidatas que hayan obtenido el mayor porcentaje de la votación distrital efectiva, del género distinto a la fórmula que encabece la lista “A” del partido político respectivo, intercalándose así géneros distintos en el primer bloque de asignación de representación proporcional.
+
+Una vez que se determinó el primer lugar de lista B de cada partido, el segundo lugar será ocupado por la fórmula de otro género con mayor porcentaje de la votación distrital efectiva por cada distrito, y se irán intercalando de esta manera hasta concluir la integración de la lista.
+
+V. Lista Definitiva, es el resultado de intercalar las fórmulas de candidatos de las Listas "A" y "B", que será encabezada siempre por la primera fórmula de la Lista "A".
+
+VI. Resto mayor: Es el remanente más alto entre los restos de las votaciones de cada partido, una vez hecha la distribución de espacios mediante cociente natural, el cual se utilizará cuando aún existan diputaciones por distribuir;
+
+VII. Sobrerrepresentación: el número positivo que resulte de restar el porcentaje de diputaciones con que contaría un partido político del total de las treinta curules, menos el porcentaje de la votación estatal emitida por el propio partido;
+
+VIII. Subrrepresentación (sic): el número negativo que resulte de restar el porcentaje de diputaciones con que contaría un partido político del total de las treinta curules, menos el porcentaje de la votación estatal emitida por el propio partido;
+
+IX. Votación ajustada: es la que resulte de deducir de la votación estatal emitida los votos a favor de los partidos políticos a los se les dedujo Diputadas o Diputados de representación proporcional por rebasar el límite de sobrerrepresentación y por superar el techo de dieciocho diputados por ambos principios;
+
+X. Votación total emitida: es la suma de todos los votos depositados en las urnas en la elección respectiva.
+
+XI. Votación válida emitida: es la que resulte de deducir de la votación total emitida, los votos a favor de candidatos no registrados y los votos nulos. Servirá para determinar si los partidos políticos obtienen el 3% de esta votación de acuerdo a la Constitución.
+
+XII. Votación estatal emitida: es la que resulte de deducir de la votación válida emitida, la votación a favor de los candidatos sin partido y los votos a favor de los partidos políticos que no alcanzaron el umbral del 3% de la votación válida emitida.
+
+XIII. Votación distrital efectiva: Es la votación que resulta de deducir de la votación total emitida en el distrito electoral correspondiente; los votos a favor de los Partidos Políticos o coaliciones que no hayan obtenido el 3% de la votación total emitida, los votos de las candidatas y candidatos sin partido político, los votos de los candidatos no registrados y los votos nulos.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2026)</small>
 
 Asignación de diputados por el principio de representación proporcional
 
-ARTÍCULO 25
+Artículo 25
 
-1. El procedimiento de asignación de diputaciones de representación proporcional es el conjunto de etapas reguladas por esta Ley, desarrolladas de manera sucesiva y ordenada, a través de las cuales se garantizan los principios constitucionales de representatividad, pluralismo y paridad en la conformación de la Legislatura; y se integrará por las fases siguientes:
+1. En la asignación de las Diputaciones por el principio de representación proporcional tendrán derecho a participar los Partidos Políticos debidamente registrados, que cumplan los requisitos siguientes:
 
-I. Fase previa;
+I. Registrar una Lista "A", con 6 fórmulas de candidatos a Diputadas y Diputados a elegir por el principio de representación proporcional, conforme a lo que se estipula en la presente ley.
 
-II. Fase de determinación de porcentajes de votación estatal emitida;
+II. Obtener cuando menos el tres por ciento de la votación válida emitida en la elección de diputaciones al Congreso del estado;
 
-III. Fase de subrepresentación;
+III. Registrar candidatos a Diputadas y Diputados de mayoría relativa en por lo menos trece de los dieciocho distritos uninominales; y
 
-IV. Fase de cociente natural;
+2. Para la designación de curules por el principio de representación proporcional se observarán las siguientes reglas:
 
-V. Fase de resto mayor;
+I. Ningún partido político podrá contar con más de dieciocho Diputadas y Diputados electos por ambos principios.
 
-VI. Fase de sobrerrepresentación;
+II. En ningún caso un partido político podrá contar con un número de Diputadas y Diputados, por ambos principios, que represente un porcentaje del total de la legislatura que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento.
 
-VII. Fase para la integración paritaria de género;
+III. El partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido.
 
-VIII. Fase de determinación de candidaturas migrantes; y
+IV. En la integración del Congreso Local, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación estatal emitida que hubiere recibido menos ocho puntos porcentuales;
 
-IX. Fase de expedición de constancias de asignación.
+V. Para la asignación de diputaciones de representación proporcional del Congreso del estado, se utilizará la fórmula atendiendo las reglas siguientes:
 
-2. Para la asignación de las 12 diputaciones electas por el principio de representación proporcional, el Consejo General aplicará las bases siguientes:
+a) Se intercalarán las fórmulas de candidaturas a las diputaciones de las listas "A" y "B" de cada partido político que haya participado en el proceso electoral del que se trate.
 
-I. Generalidades:
+Con la finalidad de garantizar la paridad entre hombres y mujeres en la integración del Congreso, el intercalado de las fórmulas de candidatas y candidatos iniciará siempre por la Lista "A", seguida de la fórmula que encabeza la "Lista B", la cual deberá ser de género distinto a la fórmula inicial de la "Lista A".
 
-a) Ningún partido político podrá contar con más de 18 diputaciones por ambos principios, ni que exceda en ocho puntos su porcentaje de votación estatal emitida, respecto de la integración total de la Legislatura.
+b) A la votación total emitida se le deducirán los votos nulos y los votos para candidatos no registrados. El resultado será la votación válida emitida.
 
-Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación estatal emitida más ocho puntos. En esta disposición quedan incluidos aquellos candidatos que tuvieren la calidad de binacional o migrante.
+c) La autoridad electoral deberá verificar los partidos que obtuvieron un porcentaje menor de votación al 3% de la votación válida emitida. Los votos obtenidos a favor de estos partidos y los votos a favor de los candidatos sin partido se deducirán de la votación válida emitida. El resultado será la votación estatal emitida.
 
-b) En la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos; en este caso, se deducirá el número de diputaciones de representación proporcional que sean necesarias para asignar diputados a los partidos políticos que se encuentren en este supuesto.
+d) La votación estatal emitida se dividirá entre el número a repartir de diputaciones de representación proporcional. El resultado será el cociente natural.
 
-II. Conceptos:
+e) Por el cociente natural se distribuirán a cada partido político tantos diputados como número de veces contenga su votación dicho cociente.
 
-a) Cociente natural: es el resultado de dividir la votación estatal emitida, entre el número de diputaciones a repartir;
+f) Después de aplicarse el cociente natural, si aún quedasen diputados por repartir, éstos se asignarán por el método de resto mayor, siguiendo el orden decreciente de los restos de votos no utilizados para cada uno de los partidos políticos.
 
-b) Resto mayor: es el remanente de votación más alto entre los restos de las votaciones de cada partido político, una vez hechas las asignaciones de cociente natural;
+VI. Si una vez hecha dicha asignación, algún partido político supera el techo de dieciocho diputados por ambos principios o tiene una sobrerrepresentación superior al ocho por ciento de su votación estatal emitida, que no sea producto de sus triunfos de mayoría relativa, le serán deducidos el número de diputaciones de representación proporcional hasta ajustarse a los límites establecidos, en los términos siguientes:
 
-c) Votación obtenida: la votación individual por partido político utilizada en la asignación de diputados de representación proporcional, para determinar el número de diputaciones que le corresponden;
+a) Se determinarán cuántos diputados de representación proporcional tuvo en exceso, los cuales le serán deducidos;
 
-d) Votación estatal emitida: es el resultado de restar a la votación total emitida los votos de los partidos que no alcanzaron el 3% de la votación válida emitida, los votos de los partidos que no postularon candidatos a diputados por el principio de mayoría relativa en por lo menos 13 distritos uninominales y en la totalidad de la circunscripción plurinominal, los votos nulos, los votos emitidos para los candidatos independientes y los votos emitidos a favor de candidaturas no registradas.
+b) Una vez deducido el número de diputados de representación proporcional excedentes al partido o partidos políticos que se hayan ubicado en el supuesto mencionado en la fracción anterior, se le asignarán los curules que le correspondan.
 
-En caso de que uno o más partidos políticos no alcancen el umbral referido, pero obtengan por lo menos una diputación de mayoría relativa, o uno o más candidatos independientes triunfen en sus respectivos distritos, las votaciones que hayan recibido no serán descontadas para la determinación de la votación estatal emitida;
+c) Concluida la asignación para el partido o partidos políticos con diputados excedentes de representación proporcional, se obtendrá la votación ajustada, para lo cual se deducirán de la votación estatal emitida, los votos del o los partidos políticos que se hubieran excedido;
 
-e) Votación total emitida: la suma de todos los votos depositados en las urnas; y
+d) La votación ajustada se dividirá entre el número de curules excedentes del partido o partidos políticos sobrerrepresentados y de aquellos que superaron el techo de dieciocho diputaciones por ambos principios, y que queden por asignar, a fin de obtener un cociente de distribución;
 
-f) Votación válida emitida: es el resultado de restar a la votación total emitida los votos nulos y los correspondientes a los candidatos no registrados.
+e) Por el cociente de distribución se asignarán al resto de los partidos políticos tantos diputados como número de veces contenga su votación dicho cociente.
 
-III. Procedimiento de asignación:
+f) Después de aplicarse el cociente de distribución, si aún quedan diputados por repartir, éstos se asignarán por el método de resto mayor, siguiendo el orden decreciente de los restos de votos no utilizados para cada uno de los partidos políticos.
 
-a) Fase previa
+g) Concluida la asignación total del número de diputaciones por el principio de representación proporcional a cada uno de los partidos políticos que superaron el tres por ciento de la votación válida emitida, se verificará si en conjunto con el total de diputados electos que obtuvieron el triunfo por el principio de mayoría relativa, se cumple con el principio de paridad de género.
 
-En esta etapa se determinarán los partidos políticos que tendrán derecho a participar en el procedimiento de asignación de diputaciones de representación proporcional, siendo aquéllos que hubieren registrado fórmulas de candidaturas uninominales en por lo menos 13 de los 18 distritos electorales y la lista plurinominal correspondiente; y que obtengan como mínimo el 3% de la votación válida emitida en la elección de diputados.
+h) Si concluido el procedimiento anterior, se presentará el caso, que la integración de la totalidad de las diputaciones electas por ambos principios no tuviera paridad de género, se deducirán de las diputaciones de representación proporcional, tantas diputaciones como sean necesarias del género sobrerrepresentado y se sustituirán por las fórmulas del género subrepresentado, con la finalidad que en la integración final se garantice el principio de paridad de género.
 
-Para determinar los partidos políticos que participarán en el procedimiento de asignación se dividirá la votación obtenida por cada partido político entre la votación válida emitida; el resultado de la operación se multiplicará por cien, luego se tomarán los números enteros y dos posiciones decimales como porcentajes de votación válida emitida.
+i)Para realizar el procedimiento antes descrito, se deducirán las diputaciones del género sobrerrepresentado alternando a los partidos políticos que hayan recibido diputaciones por el principio de representación proporcional, empezando en cualquier caso, por el partido político que recibió el menor porcentaje de la votación estatal emitida, y de ser necesario, continuando con el partido político que haya recibido el segundo menor porcentaje de la votación estatal emitida y así sucesivamente en orden ascendente hasta cubrir la paridad de género.
 
-b) Fase de determinación de porcentajes de votación estatal emitida
+j) Si una vez deduciendo una diputación del género sobrerrepresentado de todos los partidos políticos que recibieron diputaciones por el principio de representación proporcional, aún no se ha llegado a la paridad de la integración del Congreso Local, se repetirá el procedimiento previsto en el párrafo inmediato anterior.
 
-Identificados los partidos políticos que continuarán en el procedimiento de asignación se procederá a calcular el porcentaje que representa la votación obtenida por cada partido político, en relación con la votación estatal emitida. Para ello, se dividirá su votación obtenida entre la votación estatal emitida; el resultado de la operación se multiplicará por cien, luego se tomarán los números enteros y dos posiciones decimales como porcentajes de votación estatal emitida.
+k) En términos de lo anterior, si a un partido se le deduce un diputado de un género sobrerrepresentado, tendrá que ser sustituido por uno del género subrepresentado para cumplir la paridad igualitaria, pero en todos los casos dicha sustitución deberá provenir de la lista de donde haya sido deducido, respetando la prelación
 
-c) Fase de subrepresentación
-
-En esta etapa se determinará el número de diputaciones que, en su caso, corresponda a cada partido político cuya representación sea menor a su porcentaje de votación obtenida, en los términos siguientes:
-
-Para obtener los porcentajes de representación mínima de cada partido político, se le restarán 8 puntos a su porcentaje de votación estatal emitida. El resultado se contrastará con el porcentaje de representación real de cada partido, que se obtiene al multiplicar el factor 3.333 por el número de diputaciones alcanzadas por el principio de mayoría relativa.
-
-En caso de que el porcentaje de representación real sea menor al de representación mínima, se otorgarán las diputaciones necesarias para superar la subrepresentación.
-
-Finalmente, se ajustará la votación obtenida de cada partido político. Para ello, se dividirá la votación estatal emitida entre 30 y se multiplicará el resultado por el número de diputaciones otorgadas a cada partido, valor que será restado a su votación obtenida.
-
-De quedar diputaciones por distribuir, se continuará con la fórmula de proporcionalidad pura, compuesta por el cociente natural y resto mayor.
-
-d) Fase de cociente natural
-
-En esta fase se establecerá el grado de representación de la votación obtenida por cada partido político para determinar el número de diputaciones por asignar.
-
-Primero, se ajustará la votación estatal emitida, restándole la votación obtenida de aquellos partidos políticos que, de forma individual o en coalición, lograron triunfos de mayoría relativa; así como los votos que represente cada diputación otorgada en la fase de subrepresentación.
-
-Para obtener el cociente natural, la votación estatal emitida ajustada se dividirá entre el número de diputaciones pendientes de asignar.
-
-Enseguida, la votación obtenida ajustada de cada partido político se dividirá entre el cociente natural. El número entero que resulte de la división equivaldrá a las diputaciones que se asignarán a cada partido en esta fase.
-
-De existir diputaciones por repartir, continuará con la fase de resto mayor.
-
-e) Fase de resto mayor
-
-En esta fase se obtendrán los remanentes de votación de cada partido político y se identificarán los más altos para asignar las diputaciones restantes.
-
-Para ello, se deducirá a la votación ajustada de cada partido político, el número de veces que se utilizó el cociente natural. Los partidos que logren los remanentes más altos obtendrán las diputaciones a repartir.
-
-f) Fase de sobrerrepresentación
-
-En esta fase se obtendrán los límites de representación máxima de cada partido político, a efecto de determinar si alguno se encuentra sobrerrepresentado y, en su caso, realizar los ajustes necesarios para superar esa condición.
-
-Los límites de representación máxima de cada partido político se obtendrán al sumar 8 puntos a sus respectivos porcentajes de votación estatal emitida. La suma se contrastará con el porcentaje de representación de cada uno, que se obtendrá al multiplicar el factor 3.333 por el número de diputaciones alcanzadas por mayoría relativa y representación proporcional.
-
-En caso de que el porcentaje de representación de los partidos políticos sea mayor a sus porcentajes máximos, las diputaciones excedentes serán distribuidas entre los partidos políticos con menor representación.
-
-g) Fase para la integración paritaria de género
-
-En esta fase se verificará la integración paritaria por género en la Legislatura y, en su caso, se aplicarán las rondas para la integración paritaria de género necesarias en los términos siguientes:
-
-Primero se identificará el número de diputaciones correspondientes a hombres y mujeres en los distritos de mayoría relativa para, posteriormente, determinar el género de diputadas y diputados de representación proporcional necesarios para integrar la Legislatura de forma paritaria.
-
-Para integrar la totalidad de diputaciones de representación proporcional se desarrollarán las rondas de asignación que resulten necesarias conforme al mayor número de diputaciones por distribuir entre los partidos políticos. En cada ronda se asignará una sola diputación por partido político.
-
-Determinado el número de diputados por asignar, así como el número de rondas de asignación, se ordenará de manera decreciente a los partidos políticos conforme a su porcentaje de votación estatal emitida, para iniciar con aquél que tenga mayor porcentaje.
-
-De requerirse igual número de hombres que de mujeres para lograr la integración paritaria, las rondas iniciarán asignando el número de diputaciones de mujeres que correspondan y concluirán con el de hombres restantes; de existir subrepresentación de alguno de los géneros, se asignarán, en primer lugar, el número de diputaciones necesarias para alcanzar la paridad y, posteriormente las candidaturas del otro género hasta culminar la integración total de la Legislatura.
-
-El desarrollo de la fórmula de asignación de representación proporcional sólo determinará el número de diputaciones a asignar por partido político, las cuales serán definidas por el orden de prelación de las listas respectivas.
-
-h) Fase de determinación de las diputaciones migrantes
-
-Las diputaciones migrantes serán otorgadas conforme al género de la última fórmula asignada a los dos partidos políticos con mayor porcentaje de votación estatal emitida, en los términos de esta Ley.
-
-i) Fase de expedición de constancias de asignación
-
-Agotadas las fases anteriores, el Consejo General ordenará la expedición de las constancias de asignación de diputaciones por el principio de representación proporcional.
+Las vacantes de diputaciones electas por el principio de representación proporcional, serán cubiertas por los suplentes de la fórmula electa respectiva, que invariablemente deberán ser del mismo género que el titular. Si la vacante se presenta respecto de la fórmula completa, será cubierta por aquella fórmula de candidatos del mismo Partido y género que siga en el orden de la lista respectiva, después de habérsele asignado los Diputados que le hubieren correspondido.
 
 Partidos sin derecho a diputados de representación proporcional
 
@@ -2273,6 +2239,8 @@ ARTÍCULO 108
 
 10. En las elecciones de Diputados y Ayuntamientos, concluida la etapa de resultados y de declaraciones de validez, terminará automáticamente la coalición por la que se hubieran postulado candidatos, en cuyo caso los que resultaren electos quedarán considerados dentro del partido político, el grupo legislativo o fracción edilicia que se hubiere señalado en el convenio de coalición.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2026)</small>
+
 Del emblema y registro de candidatos
 
 ARTÍCULO 109
@@ -2280,6 +2248,8 @@ ARTÍCULO 109
 1. Independientemente del tipo de elección, convenio y términos que adopten los partidos coaligados, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate; los votos se sumarán para el candidato de la coalición y contarán para cada uno de los partidos políticos, para todos los efectos establecidos en esta Ley.
 
 2. En todo caso, cada uno de los partidos coaligados deberá registrar listas propias de candidatos a diputados por el principio de representación proporcional y su propia lista de candidatos a regidores por el mismo principio.
+
+Respecto a la integración de la lista B que establece la fracción IV del numeral 5, del artículo 24 de esta ley, deberán determinar en el convenio, en la lista B, en cuál de los partidos políticos promoventes de la candidatura en común participarán las personas candidatas a diputaciones que no logrando el triunfo en la elección por el principio de mayoría relativa, que alcancen a nivel distrital los mayores porcentajes de la votación distrital efectiva comparados respecto de otras fórmulas de su propio partido en esa misma elección, para tales efectos se tomará en cuenta solo los votos recibidos por el partido postulante de conformidad con el convenio. Una persona candidata no podrá ser registrada en la lista B de dos o más partidos que intervengan en la formulación de las candidaturas comunes.
 
 3. Las coaliciones deben ser uniformes. Ningún partido político podrá participar en más de una coalición y éstas no podrán ser diferentes en lo que hace a los partidos que la integran, por tipo de elección.
 
@@ -2739,19 +2709,15 @@ ARTÍCULO 142
 
 2. Transcurrido el plazo a que se refiere el numeral anterior, el Instituto le requerirá de nueva cuenta para que en un plazo de 24 horas, contadas a partir de la notificación, realice la sustitución, en caso de no hacerlo, el Consejo General lo amonestará públicamente y se le sancionará con la negativa del registro de las candidaturas correspondientes.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2026)</small>
+
 Registro de candidatos migrantes al cargo de Diputados
 
 ARTÍCULO 143
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
-
 1. Las listas de candidatos a Diputados por el principio de representación proporcional que registre cada partido político, a través de sus dirigencias estatales, deberán integrar dos fórmulas de candidatos propietarios y suplentes con carácter de migrante de distinto género.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
-
-2. El lugar que ocupen estas fórmulas de candidatos con carácter migrante, deberá ser la penúltima y última de la lista que por ese concepto registre cada partido político.
-
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+2. El lugar que ocupen estas fórmulas de candidatos con carácter migrante, dentro de la Lista A, deberán ser el último y penúltimo de dicha lista que por ese concepto registre cada partido político.
 
 3. La asignación de Diputados con carácter migrante corresponderá a los dos partidos políticos que logren el mayor porcentaje de la votación, respectivamente, en los términos señalados por esta Ley.
 
@@ -4713,13 +4679,13 @@ ARTÍCULO 274
 
 ARTÍCULO 275 (DEROGADO, P.O. 12 DE DICIEMBRE DE 2020)
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2026)</small>
 
 ARTÍCULO 275 BIS
 
-1. El Consejo General procederá a hacer la asignación de diputaciones y regidurías de representación proporcional, aplicando los procedimientos y mecanismos para la integración paritaria de género establecidos en este ordenamiento.
+1. El Consejo General procederá a hacer la asignación de diputaciones y regidurías de representación proporcional, aplicando los procedimientos y mecanismos para la integración paritaria de género establecidos en este ordenamiento y dando operatividad al sistema de listas A y B en los términos establecidos en la presente ley.
 
-2. El Consejo General hará la revisión de las listas plurinominales registradas por los partidos políticos o candidaturas independientes, según corresponda, que tengan derecho a la asignación de diputaciones y regidurías por el principio de representación proporcional, a fin de comprobar que los respectivos candidatos cumplan los requisitos de elegibilidad.
+2. El Consejo General hará la revisión de la lista plurinominal registrada por los partidos políticos o candidaturas independientes, según corresponda, que tengan derecho a la asignación de diputaciones y regidurías por el principio de representación proporcional, a fin de comprobar que los respectivos candidatos cumplan los requisitos de elegibilidad.
 
 3. Si con motivo de la revisión a que se refiere el numeral anterior, apareciere que la totalidad de la fórmula no fuese elegible, tendrán derecho a la asignación los que en la lista registrada por el mismo partido aparezcan en orden descendente y conforme al género correspondiente en términos del artículo 33 de esta Ley. Acto seguido, expedirá las constancias de asignación en favor de los candidatos que tuvieron derecho a ellas.
 
@@ -8164,3 +8130,13 @@ Asimismo, se faculta al Consejo General del Instituto Electoral del Estado para 
 QUINTO. El Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá realizar las adecuaciones presupuestarias de acuerdo a la disponibilidad financiera, con cargo a los ingresos excedentes de libre disposición, para cubrir los requerimientos que deriven de la implementación de la presente reforma.
 
 SEXTO. Se derogan aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 372.- SE REFORMA LA LEY ELECTORAL DEL ESTADO DE ZACATECAS".]
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el suplemento del Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO.- La Legislatura del Estado, a partir de la entrada en vigor del presente Decreto, tendrá 60 días naturales para realizar las adecuaciones para realizar reformas a la Ley Orgánica del Instituto Electoral del Estado de Zacatecas.
+
+TERCERO.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
