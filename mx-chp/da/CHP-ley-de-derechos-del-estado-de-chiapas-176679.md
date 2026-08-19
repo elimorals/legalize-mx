@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-176679"
 country: "mx"
 rank: "ley"
 publication_date: "2024-12-31"
-last_updated: "2025-12-10"
+last_updated: "2026-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2026.
 
 Ley publicada en el Número 5 del Periódico Oficial del Estado de Chiapas, el martes 31 de diciembre de 2024.
 
@@ -2871,7 +2871,11 @@ II. Por la expedición de Constancias de No Antecedentes Penales. $389.00
 
 III. Por la expedición de Constancias de No Inhabilitación para trabajadores del Poder Judicial $231.00
 
-IV. Por la expedición de Constancia de No Deudor Alimentario. $158.00
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2026)</small>
+
+IV. Por la expedición de Constancia de No Inscripción
+
+de Persona Deudora Alimentaria Morosa . $158.00
 
 V. Por la expedición de copias certificadas. $200.00
 
@@ -2970,3 +2974,13 @@ P.O. 10 DE DICIEMBRE DE 2025.
 Artículo Primero.- El presente Decreto entrará en vigor el día 1 de enero de 2026.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 288 POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 48 DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- El Poder Judicial del Estado, en el ámbito de su respectiva competencia, deberá realizar las acciones pertinentes para proveer al eficaz cumplimiento a las disposiciones del presente Decreto.
