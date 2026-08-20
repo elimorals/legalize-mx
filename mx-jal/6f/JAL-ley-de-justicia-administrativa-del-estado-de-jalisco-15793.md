@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2023-06-01"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -75,7 +75,9 @@ En estos casos, tal prerrogativa no implica la oportunidad de exhibir en juicio 
 
 Los juicios que se promuevan con fundamento en lo dispuesto por el artículo precedente, se substanciarán y resolverán con arreglo al procedimiento que determina esta ley.
 
-A falta de disposición expresa, y en cuanto no se oponga a lo prescrito en este ordenamiento, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
+A falta de disposición expresa, y en cuanto no se oponga a lo prescrito en este ordenamiento, se estará a lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
@@ -737,23 +739,31 @@ En los casos en que la autoridad requerida no sea parte, el Magistrado proceder�
 
 Al interesado que maliciosamente o con el solo propósito de demorar la tramitación del juicio, ocurra quejándose de la falta a que se refiere el primer párrafo de este artículo, o informe que se le ha denegado la expedición, se le impondrá multa de hasta el equivalente a treintaveces (sic) el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 57.
 
-El ofrecimiento y desahogo de pruebas, salvo lo expresamente previsto en la presente ley, se regirá por las disposiciones relativas del Código de Procedimientos Civiles del Estado.
+El ofrecimiento y desahogo de pruebas, salvo lo expresamente previsto en la presente ley, se regirá por las disposiciones relativas del Código Nacional de Procedimientos Civiles y Familiares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 58.
 
-La valoración de las pruebas se hará conforme a las disposiciones relativas del Código de Procedimientos Civiles del Estado.
+La valoración de las pruebas se hará conforme a las disposiciones relativas del Código Nacional de Procedimientos Civiles y Familiares.
 
 Cuando por el enlace de las pruebas rendidas y de las presunciones resultantes, se adquiera convicción distinta acerca de los hechos materia del litigio, podrán valorarse las pruebas sin sujetarse a lo dispuesto en el párrafo anterior, debiendo fundarse razonadamente esta parte de la sentencia.
 
 ### CAPÍTULO VIII. DE LOS INCIDENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 20 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 59.
 
 En el proceso administrativo sólo se tramitarán como de previo y especial pronunciamiento los siguientes incidentes:
 
-I. El de falta de personalidad, que se substanciará en los términos de Código de Procedimientos Civiles del Estado;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2026)</small>
+
+I. El de falta de personalidad, que se substanciará en los términos de Código Nacional de Procedimientos Civiles y Familiares;
 
 II. El de acumulación de autos; y
 
@@ -1193,9 +1203,11 @@ Dentro del término concedido a la autoridad para cumplir voluntariamente con la
 
 Dentro de los quince días siguientes al vencimiento del término concedido al actor en los términos del párrafo anterior se dictará la sentencia interlocutoria que corresponda salvo que hubiere necesidad de audiencia para el desahogo de pruebas, en tal caso dentro del mismo término se llevará a cabo la audiencia y una vez desahogada la misma se dictará la sentencia en un término no mayor de diez días.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 87.
 
-Si se encuentra procedente la incidencia planteada conforme al artículo inmediato anterior, la Sala adoptará las medidas que aseguren la mayor efectividad de la sentencia definitiva y, en su caso condenará a la autoridad, a la indemnización por daños y perjuicios que deberán regularse conforme a las disposiciones del Código de Procedimientos Civiles.
+Si se encuentra procedente la incidencia planteada conforme al artículo inmediato anterior, la Sala adoptará las medidas que aseguren la mayor efectividad de la sentencia definitiva y, en su caso condenará a la autoridad, a la indemnización por daños y perjuicios que deberán regularse conforme a las disposiciones del Código Nacional de Procedimientos Civiles y Familiares;
 
 La condena dictada al pago de daños y perjuicios en los términos del presente artículo no concede al actor más que el derecho a obtener una suma de dinero que corresponda al valor económico de las prestaciones de dar, hacer o no hacer que la sentencia imponga a la autoridad demandada o a la encargada de la ejecución, como si ésta se hubiera realizado puntualmente, sin que incluya conceptos o prestaciones distintas de las comprendidas en la sentencia, como sería el pago de las ganancias lícitas que el actor dejó de percibir con motivo del acto reclamado.
 
@@ -1553,7 +1565,9 @@ Los plazos a que se refiere el párrafo anterior, inician a partir del día sigu
 
 El juicio en materia administrativa se promoverá, substanciará y resolverá en línea, a través del sistema informático del Tribunal que deberá establecer los términos dispuestos en el presente capítulo y las demás disposiciones que al efecto emita la Sala Superior del Tribunal; así como aquéllas aplicables establecidas en esta Ley.
 
-En todo lo no previsto, se aplicarán las disposiciones de esta Ley así como del Código de Procedimientos Civiles del Estado de Jalisco de manera supletoria.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
+En todo lo no previsto, se aplicarán las disposiciones de esta Ley así como del Código Nacional de Procedimientos Civiles y Familiares de manera supletoria.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
@@ -1579,7 +1593,9 @@ Si el particular se opone a que el juicio se realice en línea, se contestará l
 
 En el sistema informático del Tribunal, se integrará el expediente electrónico, mismo que incluirá todas las promociones, pruebas, anexos y documentos que presenten las partes, así como los oficios, acuerdos y resoluciones tanto interlocutorias como definitivas, así como cualquier otra actuación que derive de la substanciación del juicio, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos expedidos por la Sala Superior del Tribunal, en cumplimento a la Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios, así como la Ley Orgánica del Tribunal de Justicia Administrativa.
 
-El desahogo de la prueba testimonial, confesional, pericial e inspección judicial se realizará en el despacho de la Sala Unitaria, conforme a las reglas previstas en esta Ley, así como en el Código de Procedimientos Civiles del Estado de Jalisco, aplicado de manera supletoria y se integrará al expediente electrónico.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
+El desahogo de la prueba testimonial, confesional, pericial e inspección judicial se realizará en el despacho de la Sala Unitaria, conforme a las reglas previstas en esta Ley, así como en el Código Nacional de Procedimientos Civiles y Familiares, aplicado de manera supletoria y se integrará al expediente electrónico.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
@@ -1625,7 +1641,9 @@ Cualquier actuación en el juicio en línea se efectuará a través del Sistema 
 
 Los documentos que las partes ofrezcan como prueba, deberán exhibirlos de forma legible a través del Sistema Informático del Tribunal y se deberá manifestar la naturaleza de los mismos, especificando si la reproducción digital corresponde a una copia simple, una copia certificada o al original y tratándose de esta última, si tiene o no firma autógrafa. Los particulares deberán hacer esta manifestación bajo protesta de decir verdad, la omisión de la manifestación presume en perjuicio sólo del promovente, que el documento digitalizado corresponde a una copia simple.
 
-Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de esta ley, del Código de Procedimientos Civiles del Estado de Jalisco y de los acuerdos normativos que emitan los órganos del Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
+Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de esta ley, del Código Nacional de Procedimientos Civiles y Familiares y de los acuerdos normativos que emitan los órganos del Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
 
 Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Electrónico. El Secretario de la Sala que corresponda, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieren sido objeto de prueba.
 
@@ -1886,3 +1904,9 @@ P.O. 1 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29199/LXIII/23 QUE ADICIONA UN ARTÍCULO TERCERO TRANSITORIO AL DECRETO 29129/LXIII/23 ESTABLECIENDO QUE ESTE AÑO DEL 2023 POR ÚNICA OCASIÓN EL DÍA INHÁBIL DECLARADO SERÁ EL VIERNES 16 DE JUNIO, EN LUGAR DEL SEGUNDO LUNES DE DICHO MES DE JUNIO, LO QUE PERMITIRÁ REALIZAR EN DICHO DÍA LOS EVENTOS PÚBLICOS Y FESTEJOS QUE EL GOBIERNO DEL ESTADO Y MUNICIPIOS TENGAN PROGRAMADOS PARA TAL EFECTO".]
 
 ÚNICO. Publíquese el presente decreto, el cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30167/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco"
