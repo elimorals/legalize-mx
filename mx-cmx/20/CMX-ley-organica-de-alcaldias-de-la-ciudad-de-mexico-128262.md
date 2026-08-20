@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2026-07-13"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2026.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1254,21 +1254,37 @@ III. Solemnes, las sesiones en que se instale la Alcaldía, se rinda el informe 
 
 Las sesiones serán públicas y deberán atender los principios de transparencia, rendición de cuentas y máxima publicidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 88.
 
-Se podrá citar a sesiones de Concejo por solicitud que haga la Alcaldesa o el Alcalde o por solicitud de la mayoría absoluta de los Concejales.
+Se podrá citar a sesiones de Concejo por solicitud que haga la Persona Titular de la Alcaldía o por solicitud de la mayoría absoluta de las Concejalas y Concejales.
 
 La primera convocatoria a la sesión deberá notificarse en forma personal, por lo menos con setenta y dos horas de anticipación; contendrá el orden del día y, en su caso, la información necesaria para el desarrollo de la sesión, así como el lugar, día y hora en que se llevará a cabo. Se exceptuarán los requisitos anteriores y la citación se hará por medios idóneos, cuando el o los asuntos a tratar sean de carácter urgente y de obvia resolución, para que se instale y celebre la sesión deberán estar presente por lo menos la mitad más uno de los miembros del Concejo.
 
 De no asistir el número de miembros necesarios para celebrar las sesiones, se realizará una segunda convocatoria mediante estrados el mismo día señalado en la primera convocatoria con media hora de diferencia, y ésta se llevará a cabo con los Concejales que asistan;
 
-Las sesiones únicamente se podrán suspender cuando se altere gravemente el desarrollo de las mismas;
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2026)</small>
 
-Los Concejos celebrarán sus sesiones en el recinto oficial destinado para tal efecto, debiendo contar con instalaciones para el público;
+Las sesiones únicamente se podrán suspender cuando se altere gravemente el desarrollo de las mismas, debiendo ser reanudadas en no más de 24 horas en cuanto la situación que generó la suspensión quede sin efectos.
+
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+Los Concejos celebrarán sus sesiones, como regla general, en el recinto oficial destinado para tal efecto, debiendo contar con instalaciones para el público y garantizando en todo momento, la seguridad e integridad de las y los asistentes, así como el acceso efectivo a la Silla Ciudadana en términos de la Constitución Política de la Ciudad de México y de la Ley de Participación Ciudadana vigente en la Ciudad.
 
 Los acuerdos del Concejo se tomarán por mayoría simple de votos presentes. En caso de empate, la Alcaldesa o el Alcalde tendrá voto de calidad;
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+En caso fortuito o de fuerza mayor que imposibilite o restrinja de manera grave la celebración de sesiones presenciales, debidamente acreditado mediante declaratoria emitida por autoridad competente del ámbito federal o local, los Concejos podrán sesionar por medios remotos, quedando exceptuadas de este formato las sesiones en las que se deba aprobar el Proyecto de Presupuesto de Egresos de la Alcaldía correspondiente; y la ratificación de la persona titular de la secretaría técnica del Concejo.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+Las sesiones que se celebren por medios remotos tendrán el mismo valor jurídico que las presenciales y deberán observar las mismas reglas de integración quórum, deliberación y votación previstas en esta Ley, garantizando en todo momento la publicidad, transparencia y participación ciudadana. Para tal efecto, las sesiones deberán transmitirse en tiempo real, registrarse íntegramente en audio y video, y generarse las actas y versiones estenográficas correspondientes para su publicación en los medios oficiales de la Alcaldía.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+Los reglamentos internos de los Concejos y demás disposiciones aplicables establecerán los mecanismos tecnológicos y procedimientos específicos para la identificación de las Concejalas y Concejales, comprobación de quórum, emisión y registro de los votos, así como para atender las eventualidades técnicas que pudieran interrumpir la sesión remota.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
 
@@ -1310,17 +1326,15 @@ El desarrollo de las sesiones del Concejo, se hará constar por la secretaría t
 
 Las actas deberán ser firmadas por los integrantes de la Alcaldía que participaron en la sesión para su validez plena;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 93.
 
-Las sesiones del Concejo serán públicas y deberán atender los principios de transparencia, rendición de cuentas y máxima publicidad, y transmitirse en tiempo real a través de la página de internet de la Alcaldía.
+Las sesiones del Concejo serán públicas y deberán atender a los principios de transparencia, rendición de cuentas y máxima publicidad, y transmitirse en tiempo real a través de la página de internet de la Alcaldía.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
+Todos los acuerdos de las sesiones que no contengan información clasificada y el resultado de su votación serán difundidos cada mes en la Gaceta de la Alcaldía y en los estrados de la misma, así como los datos de identificación de las actas que contengan información clasificada, incluyendo en cada caso, el fundamento legal que clasifica la información.
 
-Todos los acuerdos de las sesiones que no contengan información clasificada y el resultado de su votación, serán difundidos cada mes en la Gaceta de la Alcaldía y en los estrados de la misma, así como los datos de identificación de las actas que contengan información clasificada, incluyendo en cada caso, el fundamento legal que clasifica la información.
-
-Para cada sesión se deberá contar con una versión estenográfica o videograbada que permita hacer las aclaraciones pertinentes, la cual formará parte del acta correspondiente. La versión estenográfica o videograbada deberá estar disponible en la página de internet de la Alcaldía y en las oficinas de la secretaría técnica del Concejo.
+Para cada sesión se deberá contar con una versión estenográfica o videograbada que permita hacer las aclaraciones pertinentes, la cual formará parte del acta correspondiente. La versión estenográfica o videograbada, los documentos sometidos a consideración y el sentido de las votaciones serán públicos, en términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas a través de la página de internet de la Alcaldía y en las oficinas de la secretaría técnica del Concejo.
 
 ###### Artículo 94.
 
@@ -1840,9 +1854,15 @@ III. La evaluación de los avances logrados en el cumplimiento de los objetivos 
 
 Las Alcaldías deberán atender los criterios presupuestales y, en su caso, a las previsiones de ingresos que les comunique el Gobierno de la Ciudad, con base en su programa operativo anual, los cuales deberán ser congruentes entre sí. Para los efectos de recursos provenientes de las aportaciones federales y los recursos autogenerados, las Alcaldías deberán cuantificarlos de manera independiente, respecto de los montos que se consideren en sus anteproyectos de presupuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 154.
 
-Los proyectos del presupuesto de egresos de las Alcaldías deberán ser aprobados por el Concejo, según los procedimientos que se aprueben para tal efecto, mismos que deberán estar sujetos a los principios de transparencia, racionalidad, austeridad, rendición de cuentas, accesibilidad, difusión, y participación ciudadana.
+Los proyectos del Presupuesto de Egresos de las Alcaldías deberán ser aprobados por el Concejo, según los procedimientos que se aprueben para tal efecto, mismos que deberán estar sujetos a los principios de transparencia, racionalidad, austeridad, rendición de cuentas, accesibilidad, difusión, y participación ciudadana. El acta de la sesión del Concejo, con su respectiva votación, mediante la cual se apruebe el proyecto de Presupuesto de Egresos de la demarcación territorial, deberá anexarse a dicho proyecto.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+La sesión de Concejo en la que se discuta el proyecto de Presupuesto de Egresos de la Alcaldía podrá suspenderse únicamente por causa justificada y su análisis deberá continuarse en las sesiones subsecuentes hasta su resolución dentro del plazo legal, en términos de lo dispuesto por el artículo 98 de la presente Ley.
 
 El Gobierno de la Ciudad podrá formular los anteproyectos de presupuesto de las Alcaldías cuando no le sean presentados en los plazos que al efecto se les hubiesen señalado o cuando no se apeguen a los criterios presupuestales de eficiencia y eficacia previstos en la legislación aplicable, así como a las previsiones de ingresos comunicados.
 
@@ -2116,7 +2136,13 @@ I. Implementar mecanismos de difusión de las medidas de protección de las que 
 
 II. En la vigilancia y verificación del manejo, producción y venta de animales, deberá dar cumplimiento, en coordinación con las autoridades locales, a las disposiciones locales y federales de protección a los animales;
 
-III. Implementar mecanismos en coordinación con las autoridades competentes para (sic) adecuada disposición final de los cadáveres de animales, conforme a la normatividad aplicable; y habilitar centros de incineración; y
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2026)</small>
+
+III. Implementar mecanismos en coordinación con las autoridades competentes para la adecuada disposición final de los cadáveres de animales, conforme a la normatividad aplicable; y habilitar centros de incineración;
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2026)</small>
+
+III BIS. Promoverán, organizarán y difundirán campañas permanentes de adopción responsable de animales de compañía en coordinación con autoridades competentes, organizaciones de la sociedad civil, instituciones académicas y asociaciones protectoras de animales, de conformidad con la legislación aplicable; y
 
 IV. Las demás que los ordenamientos jurídicos aplicables en la materia le confieran.
 
@@ -2727,3 +2753,41 @@ DECIMO.- Los procedimientos administrativos, solicitudes de acceso a la informac
 DECIMO PRIMERO.- Con la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan al mismo.
 
 DECIMO SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 201 Y SE ADICIONA UNA FRACCIÓN III BIS AL ARTÍCULO 201 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO, CUARTO Y QUINTO; Y SE ADICIONAN LOS PÁRRAFOS SÉPTIMO, OCTAVO Y NOVENO AL ARTÍCULO 88 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, las Alcaldías deberán adecuar sus reglamentos internos y demás disposiciones administrativas a fin de regular la celebración de sesiones remotas de los Concejos en términos del artículo 88 de la Ley Orgánica de Alcaldías de la Ciudad de México, garantizando los principios de publicidad, transparencia, participación ciudadana y máxima protección de datos personales.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS SUBSECUENTES, DEL ARTÍCULO 154 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 93 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la Jefatura de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las personas titulares de las Alcaldías de la Ciudad de México y sus Concejos, contarán con un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para adecuar el reglamento del Concejo y tomar las medidas pertinentes para la aplicación de esta reforma.
