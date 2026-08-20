@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2026-08-15"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2026.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -2501,13 +2501,25 @@ Profesionales, Técnicos y Auxiliares. Dirección de Profesiones.
 
 2. Asimismo, estimulará su participación en el Sistema de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 190.
 
 Profesionales, Técnicos y Auxiliares. Títulos Profesionales para su Ejercicio.
 
-1. Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, optometría, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados.
+1. Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, optometría, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas y las demás que establezcan otras disposiciones legales aplicables, deberán contar con título y cédula profesional y, en su caso, el grado de especialidad médica.
 
-2. Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, partería, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social nutricional, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas o certificados correspondientes hayan sido legalmente expedidos y registrados.
+2. Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, partería, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social nutricional, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere contar con título y cédula profesional o certificados correspondientes que hayan sido legalmente expedidos y registrados.
+
+3. Las Instituciones de educación superior y las de salud, con reconocimiento oficial de validez de estudios, expedirán los títulos de especialidad a los profesionistas que hubieren cubierto y acreditado en su totalidad los requisitos académicos y administrativos aplicables.
+
+Para la realización de procedimientos quirúrgicos de especialidad o subespecialidad deberá contarse con:
+
+a) Título y cédula de médico, licenciatura en medicina o médico cirujano partero;
+
+b) Título y cédula de especialidad o subespecialidad; y
+
+c) Certificado vigente del Consejo Mexicano de la Especialidad, mismo que deberá contar con reconocimiento del Comité Normativo Nacional de Consejos de Especialidades Médicas.
 
 ###### Artículo 191.
 
@@ -2517,11 +2529,43 @@ Profesionales, Técnicos y Auxiliares. Cédulas Profesionales.
 
 2. En virtud del convenio que celebren el Gobernador del Estado y el Ejecutivo Federal, en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado cuidará que se proporcione la información a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 192.
 
 Profesionales, Técnicos y Auxiliares. Títulos Profesionales.
 
-1. Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en documentos, papelería y publicidad que utilicen en el ejercicio de tales actividades.
+1. Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en documentos, papelería y publicidad que utilicen en el ejercicio de tales actividades.
+
+2. Los profesionistas que ejerzan cirugía plástica, estética y reconstructiva deberán entregar ante el establecimiento de salud en que se realice copia certificada de su título de especialidad y cédula profesional, así como del certificado vigente del consejo correspondiente. El establecimiento conservará el expediente donde obre la documentación cuando menos cinco años y durante todo el tiempo que realice cirugía en el establecimiento.
+
+Los profesionistas podrán pertenecer a agrupaciones médicas de su especialidad, cuyas bases de organización y funcionamiento estarán a cargo de asociaciones, sociedades, colegios o federaciones profesionales.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
+###### Artículo 192 Bis.
+
+La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
+###### Artículo 192 Ter.
+
+La oferta de los servicios que se haga a través de medios informativos, impresos, electrónicos u otros, por profesionistas que ejerzan cirugía plástica, estética y reconstructiva, así como los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su publicidad los requisitos establecidos en los artículos 192 y 192 Bis.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
+###### Artículo 192 Quáter.
+
+Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud un directorio electrónico, con acceso al público, que contenga:
+
+I. Los nombres de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos de especialidad;
+
+II. Los datos del certificado de especialización vigente de cada profesionista; y
+
+III. Los datos de la institución o instituciones educativas que avalen su ejercicio profesional.
+
+El directorio deberá actualizarse anualmente.
 
 ###### Artículo 193.
 
@@ -5280,3 +5324,9 @@ P.O. 15 DE AGOSTO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30185/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA LAS FRACCIONES VIII Y XI ADICIONA LAS FRACCIONES XIII, XIV Y XV TODAS DEL ARTÍCULO 242, Y ADICIONA AL TÍTULO OCTAVO EL CAPÍTULO III DENOMINADO "DE LAS PERSONAS DONADORAS ALTRUISTAS" ASÍ COMO LOS ARTÍCULOS 242 BIS, 242 TER, 242 QUATER, 242 QUINQUÍES Y 242 SEXIES TODOS DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30149/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMAN LOS ARTÍCULOS 190 Y 192 Y SE ADICIONAN LOS ARTÍCULOS 192 BIS, 192 TER Y 192 QUATER DE LA LEY DE SALUD DEL ESTADO DE JALISCO Y EL ARTÍCULO 170 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
