@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-de-pensiones-del-estado-de-jalisco-71070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-19"
-last_updated: "2026-07-16"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2026.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 19 de noviembre de 2009.
 
@@ -101,7 +103,7 @@ XVI. Sueldo tabular: aquél que se estipula en el tabulador de cada entidad púb
 
 Las disposiciones de esta Ley que se refieran a la base y porcentaje de las aportaciones de las entidades públicas patronales y de los afiliados, son de aplicación estricta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 5.
 
@@ -111,7 +113,7 @@ Para los efectos del párrafo anterior, en lo no previsto por esta Ley y sus reg
 
 I. La Ley de Justicia Administrativa del Estado; y
 
-II. El Código de Procedimientos Civiles del Estado de Jalisco.
+II. El Código Nacional de Procedimientos Civiles y Familiares
 
 Las controversias entre el Instituto y sus afiliados, pensionados y beneficiarios serán resueltas por el Tribunal de Arbitraje y Escalafón del Estado de Jalisco, aplicándose supletoriamente, en lo no previsto por esta Ley y sus reglamentos, la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
@@ -2108,3 +2110,9 @@ P.O. 16 DE JULIO DE 2026.
 PRIMERO. El presente decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El titular del Poder Ejecutivo Estatal dispondrá de 60 días naturales para realizar las adecuaciones reglamentarias que deriven del presente decreto.
+
+P.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30171/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
