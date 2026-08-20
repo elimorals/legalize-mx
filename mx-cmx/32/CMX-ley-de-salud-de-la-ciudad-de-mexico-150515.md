@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-de-la-ciudad-de-mexico-150515"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-09"
-last_updated: "2026-07-23"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2021-08-06"
 
 LEY DE SALUD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2026.
 
 Ley publicada en el No. 657 de la Gaceta Oficial de la Ciudad de México, el lunes 9 de agosto de 2021.
 
@@ -2740,9 +2740,21 @@ X. Cuando el interesado no se ajuste a los términos, condiciones y requisitos e
 
 XI. Cuando las personas, objetos o productos dejen de reunir las condiciones o requisitos bajo los cuales se hayan otorgado las autorizaciones;
 
-XII. Cuando lo solicite el interesado, y
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2026)</small>
 
-XIII. En los demás casos que determine la Agencia de Protección Sanitaria del Gobierno de la Ciudad de México.
+XII. Cuando lo solicite el interesado;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 20 DE AGOSTO DE 2026)</small>
+
+XIII. Cuando se realicen en niñas, niños y adolescentes, cirugías, procedimientos médicos invasivos o tratamientos cuya finalidad sea exclusivamente estética, salvo las siguientes excepciones:
+
+a) Tengan carácter reconstructivo, derivado de malformaciones congénitas, accidentes o enfermedades.
+
+b) Resulten necesarios para preservar o mejorar la salud física o mental, previa valoración médica multidisciplinaria; y,
+
+c) Sean indispensables para prevenir daños graves a su desarrollo integral.
+
+XIV. En los demás casos que determine la Agencia de Protección Sanitaria del Gobierno de la Ciudad de México.
 
 ### CAPÍTULO V. CERTIFICADOS
 
@@ -3101,3 +3113,11 @@ PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de G
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XII Y SE ADICIONA LA FRACCIÓN XIII, RECORRIÉNDOSE LA SUBSECUENTE, TODAS DEL ARTÍCULO 172 DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
