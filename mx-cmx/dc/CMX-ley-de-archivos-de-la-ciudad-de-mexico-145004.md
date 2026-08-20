@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-archivos-de-la-ciudad-de-mexico-145004"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-18"
-last_updated: "2026-07-13"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145004&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-11-13"
 
 LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2026.
 
 Ley publicada en el Número 475 de la Gaceta Oficial de la Ciudad de México, el miércoles 18 de noviembre de 2020.
 
@@ -1380,9 +1380,11 @@ Los Tribunales de la Ciudad de México serán, en primera instancia, los compete
 
 En la construcción de una memoria histórica y colectiva conforme a lo establecido de la Constitución Política de la Ciudad de México, los archivos serán un instrumento mediante el cual se garantizará a todas las personas habitantes el pleno derecho para accesar a la verdad, cuyo objeto será contribuir en la investigación e identificación de determinados hechos.
 
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 116.
 
-Las Autoridades de la Ciudad de México tienen el deber de preservar la evidencia documental que sirva para la conmemoración y el recuerdo, así como de proteger y garantizar el acceso adecuado a los archivos con información sobre cualquier tipo de violación a los derechos fundamentales de las personas ciudadanas.
+Las Autoridades de la Ciudad de México tienen el deber de conservar y preservar la evidencia documental, así como de proteger y garantizar el acceso adecuado a los archivos con información sobre violaciones graves a los derechos humanos con la finalidad de garantizar el derecho a la verdad y memoria.
 
 ###### Artículo 117.
 
@@ -1457,3 +1459,13 @@ SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugn
 OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
 
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE "SE REFORMA EL ARTÍCULO 116 DE LA LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
