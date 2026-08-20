@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-la-ciudad-de-mexico-173820"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-18"
-last_updated: "2026-07-23"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173820&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2024-07-16"
 
 LEY AMBIENTAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2026.
 
 Ley publicada en el No. 1404 de la Gaceta Oficial de la Ciudad de México, el jueves 18 de julio de 2024.
 
@@ -884,7 +884,23 @@ c) Exista falsedad en la información proporcionada por los promoventes, respect
 
 d) Cuando la evaluación de los impactos y riesgos ambientales no garanticen la integridad del ambiente y de las personas o la conectividad ecológica de los ecosistemas.
 
-Para los efectos del presente artículo, por causa de utilidad pública, interés social y orden público la Secretaría limitará, restringirá, y en su caso, negará la afectación de arbolado y de área verde en la Ciudad de México, atendiendo a los criterios de sustentabilidad y adecuación del diseño arquitectónico; privilegiará el trasplante de árboles con las condiciones físicas y fitosanitarias adecuadas; negará el derribo de árboles declarados como patrimonio natural o urbanístico; ordenará la restitución máxima en caso de derribo sin autorización; considerará los derribos por excepción para individuos en riesgo, muertos en pie, plagados o enfermos con un grado de infestación alto, suprimidos y con severa declinación, especies invasoras o exóticas, relacionados con la ejecución de obras o actividades sujetas a evaluación de impacto ambiental, asimismo, en los casos procedentes ordenará la restitución física o compensación física previa a la afectación o restitución económica por excepción en caso de justificación técnica-jurídica de la imposibilidad de restitución física, en cada caso, según proceda.
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], G.O. 20 DE AGOSTO DE 2026)</small>
+
+Para los efectos del presente artículo, por causa de utilidad pública, interés social y orden público la Secretaría podrá:
+
+a. Limitar, restringir, y en su caso, negar la afectación de arbolado y de área verde en la Ciudad de México, atendiendo a los criterios de sustentabilidad y adecuación del diseño arquitectónico;
+
+b. Privilegiará el trasplante de árboles con las condiciones físicas y fitosanitarias adecuadas;
+
+c. Negar el derribo o trasplante de árboles declarados como patrimonio natural o urbanístico a excepción de aquellos individuos de riesgo, plagados o enfermos con un grado de infestación alto;
+
+d. Ordenará la restitución máxima en caso de derribo sin autorización;
+
+e. Considerará los derribos por excepción para individuos en riesgo, muertos en pie, plagados o enfermos con un grado de infestación alto, suprimidos y con severa declinación, especies invasoras o exóticas, relacionados con la ejecución de obras o actividades sujetas a evaluación de impacto ambiental, asimismo, en los casos procedentes ordenará la restitución física compensación física previa a la afectación o restitución económica por excepción en caso de justificación técnica-jurídica de la imposibilidad de restitución física, en cada caso, según proceda.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+El arbolado declarado como patrimonio natural de la Ciudad de México no podrá ser objeto de derribo ni de trasplante; únicamente serán procedentes las intervenciones de manejo, limpieza de copa o correctivas, de conformidad con el plan de manejo correspondiente.
 
 Las autorizaciones que se otorguen en materia de impacto ambiental estarán referidas a la obra o actividad de que se trate.
 
@@ -1652,9 +1668,15 @@ DE LAS ÁREAS VERDES.
 
 La Secretaría implementará las acciones de creación, protección, preservación y restauración de las áreas verdes en la Ciudad de México, de conformidad con las disposiciones que al efecto se emitan, buscando incrementar la conectividad ecológica y conservar la biodiversidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 105.
 
 Las áreas verdes deberán incrementar o conservar su extensión. En caso de modificarse por la realización de alguna obra pública o privada, deberán ser compensadas con superficies iguales o mayores a la que haya sido afectada, o bien, en el lugar más cercano a donde se localizaba originalmente, debiendo privilegiarse la introducción de especies nativas o naturalizadas en la Ciudad y promoviendo la conectividad ecológica.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+Toda obra pública o privada que sea susceptible de afectar arbolado declarado como patrimonio natural o urbanístico deberá adaptarse obligatoriamente para coexistir con él, sin excepción.
 
 ###### Artículo 106.
 
@@ -1674,11 +1696,17 @@ III. Cuando sean necesarias para el saneamiento del árbol, así como poda por m
 
 IV. Cuando deban ejecutarse para evitar afectaciones significativas en la infraestructura del lugar donde se encuentren.
 
-Toda autorización de afectación de arbolado a que se refiere el presente artículo, deberá estar sustentada mediante un dictamen técnico emitido por la Alcaldía correspondiente que avale la factibilidad del derribo, poda o trasplante de árboles.
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2026)</small>
 
-En todos los demás casos distintos a los que se señalan en las fracciones anteriores, será la Secretaría la que resuelva las solicitudes de derribo, poda o trasplante de árboles en el ámbito de competencia y en el ejercicio de sus atribuciones; estableciendo las limitaciones y restricciones que en su caso correspondan en cumplimiento de lo dispuesto en esta Ley y las disposiciones reglamentarias y normativas que resulten aplicables. Al respecto toda solicitud de afectación de arbolado deberá estar sustentada mediante dictamen técnico emitido conforme a la normatividad aplicable vigente.
+Toda poda, derribo o trasplante de arbolado en la Ciudad de México, ya sea en dominio público o en propiedad particular, deberá ejecutarse y supervisarse por personal debidamente acreditado ante la secretaría. El incumplimiento de esta disposición será considerado infracción grave en términos de la presente Ley.
 
-Los trabajos que se deriven de la autorización que al efecto concede la Alcaldía de los que se señalan en las fracciones I a IV del presente artículo, deberán ser ejecutados en un plazo no mayor a 20 días hábiles contados a partir de la fecha en que se emita la misma, conforme a los parámetros y especificaciones establecidas en las Normas Ambientales aplicables para la Ciudad de México. Asimismo, la poda será procedente cuando se requiera para mejorar o restaurar la estructura de los árboles. En todo caso, el derribo de árboles sólo será procedente cuando no exista otra alternativa viable.
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+Los trabajos que se deriven de la autorización que al efecto concede la Alcaldía de los que se señalan en las fracciones I a IV del presente artículo, deberán ser ejecutados en un plazo no mayor a 20 días hábiles contados a partir de la fecha en que se emita la misma, conforme a los parámetros y especificaciones establecidas en las Normas Ambientales aplicables para la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+Asimismo, la poda será procedente cuando se requiera para mejorar o restaurar la estructura de los árboles. En todo caso, el derribo de árboles sólo será procedente cuando no exista otra alternativa viable.
 
 La Secretaría expedirá conforme a las disposiciones previstas en esta ley, las normas ambientales en las que se establecen los requisitos y especificaciones técnicas que deberán cumplir las personas físicas o morales, tanto públicas como privadas, que realicen la poda, derribo y trasplante de árboles en la Ciudad de México.
 
@@ -1714,9 +1742,11 @@ La Secretaría expedirá las normas ambientales en las que se establezcan los re
 
 Para los efectos de la presente Ley, se equipará al derribo de árboles cualquier acto que provoque su muerte.
 
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 110.
 
-Las Alcaldías prestarán el servicio de poda de arbolado ubicado en espacios de dominio público o en propiedades particulares, cuando así se requiera para mejorar o restaurar la estructura de los árboles.
+Las Alcaldías prestarán el servicio de poda de arbolado ubicado en espacios de dominio público o en propiedades particulares, cuando así se requiera para mejorar o restaurar la estructura de los árboles, garantizando que este servicio sea realizado y supervisado únicamente por personal debidamente acreditado por la Secretaría.
 
 ###### Artículo 111.
 
@@ -3879,3 +3909,13 @@ PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su pro
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO, EN MATERIA DE PROTECCIÓN DEL ARBOLADO URBANO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
