@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2023-05-23"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -87,7 +87,9 @@ III. Fomentar la creación, conservación, mejoramiento, difusión, promoción, 
 
 IV. Fomentar la cultura física y el deporte como medio importante para la prevención de enfermedades y la preservación de la salud;
 
-V. Fomentar el desarrollo de la cultura física y el deporte como medio importante para la prevención del delito;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2026)</small>
+
+V. Fomentar el desarrollo de la cultura física, el deporte y las academias deportivas por la paz, como medio importante para la prevención del delito;
 
 VI. Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte como complemento de la actuación pública;
 
@@ -165,6 +167,8 @@ El sistema estatal es el conjunto de elementos ordenados, congruentes y uniforme
 
 Los poderes públicos del Estado, y los gobiernos municipales se coordinarán para la integración y funcionamiento del sistema estatal, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la promoción, fomento, estímulo, formación, enseñanza, práctica e investigación de las diferentes disciplinas deportivas establecidas en la presente ley, cumpliendo con los requisitos señalados en el reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 20 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 12.
 
 El sistema estatal se estructurará con un Consejo Técnico, a cargo del Code Jalisco y deberá contar con representantes de:
@@ -179,9 +183,9 @@ III. La Secretaría de Salud;
 
 IV. La Secretaría de Planeación y Participación Ciudadana;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2026)</small>
 
-V. La Comisión de Educación, Cultura y Deporte del Poder Legislativo del Estado;
+V. La Comisión de Educación, Cultura, Deporte y Juventud del Poder Legislativo del Estado;
 
 VI. La Delegación de la Confederación Deportiva Mexicana en el estado de Jalisco;
 
@@ -303,6 +307,8 @@ Los eventos y actividades no incluidos en el programa estatal podrán ser aproba
 
 El Code Jalisco es el organismo público descentralizado de la administración pública estatal encargado de realizar las funciones deportivas y de fomento a la cultura física en los términos de la presente ley, el cual contará con personalidad jurídica y patrimonio propios y domicilio en la ciudad de Guadalajara, Jalisco, pudiendo establecer delegaciones en las regiones o municipios que lo requieran, de conformidad con su disponibilidad presupuestaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 20 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 22.
 
 El Code Jalisco tendrá las atribuciones y obligaciones siguientes:
@@ -317,7 +323,9 @@ IV. Coordinar el uso de los espacios e instalaciones de propiedad estatal destin
 
 V. Celebrar acuerdos, convenios y bases con las autoridades deportivas federales, de los estados y municipios dentro del ámbito de sus atribuciones y facultades, a fin de promover con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al fomento, promoción, incentivo y desarrollo de la cultura física y el deporte en la entidad;
 
-VI. Implementar las medidas y programas necesarios para establecer un programa institucional de evaluación, seguimiento y certificación de los centros deportivos y escuelas adscritas al Code Jalisco en donde se practique el deporte en todas sus modalidades;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2026)</small>
+
+VI. Implementar las medidas y acciones necesarias para establecer un programa institucional de evaluación, seguimiento y certificación de los centros deportivos, escuelas y academias deportivas por la paz adscritas al Code Jalisco en donde se practique el deporte en todas sus modalidades;
 
 VII. Coordinar las acciones necesarias para establecer lineamientos de participación, cuidado, atención y seguimiento de los deportistas jaliscienses en cualquier clase de competición o justa deportiva nacional o internacional, dentro del ámbito de sus atribuciones y facultades y sin contravenir lo dispuesto por las normas internacionales y estatutos de las federaciones nacionales y de la Comisión Nacional de Cultura Física y Deporte;
 
@@ -331,7 +339,9 @@ XI. Operar el Registro Estatal de Cultura Física y Deporte y fomentar la inscri
 
 XII. Emitir lineamientos para la organización y desarrollo del sistema estatal, y someterlos a consideración del titular del Poder Ejecutivo para su aprobación y, en su caso, publicación;
 
-XIII. Planear y fomentar la enseñanza y práctica de la cultura física y el deporte en todas sus modalidades y categorías en Jalisco y procurar que sean acordes con lineamientos y características especiales de salvaguarda a su condición, salud y posibilidad física correspondiente;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2026)</small>
+
+XIII. Planear y fomentar la enseñanza y práctica de la cultura física y el deporte, acordes a las disciplinas que se practiquen en cada región, en todas sus modalidades y categorías en Jalisco; y procurar que sean bajo lineamientos y características especiales de salvaguarda a su condición, salud y posibilidad física correspondiente;
 
 XIV. Proponer los mecanismos para la adecuada coordinación y colaboración de trabajo entre las diferentes dependencias y entidades de la administración pública federal, estatal y municipal, así como instituciones educativas públicas o privadas, en lo relativo a los programas de investigación, en las ciencias aplicadas y técnicas de la cultura física y el deporte;
 
@@ -551,6 +561,8 @@ Con el fin de fomentar y desarrollar el deporte en los municipios, podrán parti
 
 El Estado y los municipios podrán difundir, en el ámbito de sus respectivas competencias, el derecho fundamental de todo ser humano al acceso de una vida sana por medio de la cultura física y el deporte a través de las instancias gubernamentales responsables de la salud pública, la educación, el deporte, la prevención del delito y el desarrollo integral de todos los sectores poblacionales, de acuerdo con los objetivos y fundamentos enunciados en el sistema estatal y sus programas correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 20 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 47.
 
 Los ayuntamientos de los municipios integrados al sistema estatal promoverán la realización de los siguientes objetivos:
@@ -565,7 +577,9 @@ III. Promover la creación y apoyar a los organismos locales que desarrollen act
 
 IV. Prever que las personas con discapacidad, de la tercera edad, infantes y demás grupos vulnerables tengan las facilidades e instalaciones deportivas adecuadas para su acceso y desarrollo;
 
-V. Organizar y coordinar las actividades de cultura física y deporte en las colonias, barrios, zonas y centros poblacionales a través de las ligas, asociaciones vecinales, centros deportivos escolares y clubes municipales;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2026)</small>
+
+V. Organizar y coordinar las actividades de cultura física y deporte en las colonias, barrios, zonas y centros poblacionales a través ·de las academias deportivas por la paz, ligas, asociaciones vecinales, centros deportivos escolares y clubes municipales;
 
 VI. Promover la identificación y desarrollo de talentos deportivos pertenecientes a su municipio;
 
@@ -595,9 +609,39 @@ Las autoridades municipales que estén integradas al sistema estatal, por conduc
 
 Los ayuntamientos promoverán las adecuaciones y mejoras necesarias a las instalaciones de cultura física y deporte con que cuenten, con el objeto de que éstas tengan espacios y accesos apropiados para las personas con discapacidad, adultos mayores, infantes y demás poblaciones vulnerables, tanto para la práctica como para su participación, convivencia y goce.
 
-### Capítulo VI. De la participación de los organismos deportivos en el Sistema Estatal de Cultura Física y Deporte
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2026)</small>
 
-### Capítulo VII. De los derechos y obligaciones del deportista
+### Capítulo V Bis. De las academias deportivas por la paz
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
+###### Artículo 50 Bis.
+
+Las academias deportivas por la paz son espacios de enseñanza, formación y práctica deportiva organizados, dirigidos a niñas, niños, adolescentes y jóvenes, con el propósito de fomentar el deporte y la cultura de paz.
+
+Tienen como objetivo la prevención social, fomento de valores, habilidades de vida, inclusión social y prevención de la violencia.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
+###### Artículo 50 Ter.
+
+Las academias deportivas por la paz se regirán por los principios de inclusión social, equidad de género, no discriminación, transparencia, rendición de cuentas, vinculación comunitaria y cultura de paz.
+
+Además, se promoverá el deporte adaptado, con la finalidad de cumplir con los principios descritos.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
+###### Artículo 50 Quater.
+
+El Code Jalisco establecerá mecanismos de coordinación con los municipios, la Secretaría de Educación Jalisco, instituciones educativas, sociedad civil e iniciativa privada, para la impartición de las academias deportivas por la paz.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2026)</small>
+
+###### Artículo 50 Quinquies.
+
+Las academias deportivas por la paz se financiarán con recursos del Presupuesto de Egresos del Estado, aportaciones municipales, donaciones privadas y apoyos nacionales e internacionales.
+
+### Capítulo VI. De la participación de los organismos deportivos en el Sistema Estatal de Cultura Física y Deporte
 
 ###### Artículo 51.
 
@@ -615,7 +659,7 @@ Corresponde al Code Jalisco establecer las directrices y criterios de reconocimi
 
 Los organismos adscritos al sistema estatal, mediante convenio expreso de colaboración, deberán prestar el servicio médico que se requiera durante las prácticas y competiciones oficiales que promuevan y organicen.
 
-### Capítulo VIII. De la formación, investigación, y de la medicina y las ciencias aplicadas a la cultura física y el deporte
+### Capítulo VII. De los derechos y obligaciones del deportista
 
 ###### Artículo 55.
 
@@ -675,7 +719,7 @@ El Code Jalisco mediante los mecanismos administrativos y presupuestales y de ac
 
 El Code Jalisco establecerá los criterios y lineamientos correspondientes para el caso de los deportistas y entrenadores en las modalidades de alto rendimiento, preselecciones y selecciones representativas, talentos deportivos, deporte adaptado y demás modalidades del deporte, para garantizar la cobertura de los servicios médicos, seguros de vida, incapacidad y de lesiones de acuerdo con los procedimientos establecidos en el reglamento de la presente ley.
 
-### Capítulo IX. Del reconocimiento deportivo
+### Capítulo VIII. De la formación, investigación, y de la medicina y las ciencias aplicadas a la cultura física y el deporte
 
 ###### Artículo 59.
 
@@ -705,7 +749,7 @@ El Code Jalisco promoverá que los profesionales dedicados a las ciencias aplica
 
 El Code Jalisco promoverá la capacitación y difusión de los principios y lineamientos establecidos para el control de antidopaje y lo dispuesto por la Comisión Médica de la Comisión Nacional de Cultura Física y Deporte, la Comisión Médica del Comité Olímpico Mexicano, la Comisión Médica del Comité Olímpico Internacional y la Agencia Mundial Antidopaje, de acuerdo con las disposiciones legales aplicables
 
-### Capítulo X. De las responsabilidades, sanciones y recursos administrativos
+### Capítulo IX. Del reconocimiento deportivo
 
 ###### Artículo 66.
 
@@ -737,7 +781,7 @@ III. Promoción de la capacitación, acreditación o certificación de instructo
 
 IV. Las demás acciones que induzcan a alcanzar los objetivos de la cultura física y deporte.
 
-### Capítulo XI. De la Comisión de Apelación y Arbitraje de la Cultura Física y el Deporte
+### Capítulo X. De las responsabilidades, sanciones y recursos administrativos
 
 ###### Artículo 69.
 
@@ -769,9 +813,7 @@ Contra las resoluciones de los órganos directivos, procederá el recurso de rec
 
 Los órganos directivos, así como comités regionales, asociaciones, ligas, clubes y equipos deportivos registrados en el Sistema Estatal del Deporte, así como los directivos, jueces, árbitros y organizadores en competencias deportivas oficiales, podrán demandar la aplicación de sanciones en contra de cualquier presunto infractor, ante el Code Jalisco o Consejo Municipal del Deporte, según corresponda, en los términos que se regulen por el reglamento de la presente ley.
 
-### Capítulo XII. De la prevención de la violencia en el deporte
-
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+### Capítulo XI. De la Comisión de Apelación y Arbitraje de la Cultura Física y el Deporte
 
 ###### Artículo 74.
 
@@ -806,6 +848,10 @@ Para ello, ninguno de los integrantes de esta comisión deberá ostentar cargo a
 La comisión elaborará su reglamento interno de conformidad con los lineamientos que el sistema estatal establezca.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2015)</small>
+
+### Capítulo XII. De la prevención de la violencia en el deporte
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 78.
 
@@ -1180,3 +1226,9 @@ P.O. 23 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASOS NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30146/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMAN LOS ARTÍCULOS 3°, 12, 22 Y 47 Y ADICIONA UN CAPÍTULO V BIS Y LOS ARTÍCULOS 50 BIS, 50 TER, 50 QUATER Y 50 QUINQUIES A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Jalisco.
