@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-huertos-urbanos-de-la-ciudad-de-mexico-145943"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-31"
-last_updated: "2025-12-24"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-12-29"
 
 LEY DE HUERTOS URBANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2026.
 
 Ley publicada en el Número 505 de la Gaceta Oficial de la Ciudad de México, el jueves 31 de diciembre de 2020.
 
@@ -104,13 +104,19 @@ La aplicación a esta Ley corresponde a:
 
 I. Secretaría del Medio Ambiente;
 
-II. Secretaría de Inclusión y Bienestar Social;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2026)</small>
+
+II. Secretaría de Bienestar e Igualdad Social;
 
 III. Secretaría de Administración y Finanzas;
 
 IV. Secretaría de Trabajo y Fomento al Empleo;
 
 V. Secretaría de Desarrollo Económico, y
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2026)</small>
+
+V Bis. Secretaría de Educación, Ciencia, Tecnología e Innovación; y
 
 VI. Alcaldías.
 
@@ -131,6 +137,10 @@ III. Promover las buenas prácticas agroecológicas en los sistemas de producci�
 IV. Promover la soberanía y seguridad alimentaria derivada del consumo de frutas, verduras, hortalizas y otros alimentos producidos en los huertos urbanos, evitando el consumo de alimentos transgénicos o cultivados con agroquímicos;
 
 V. Contribuir a aumentar la oferta de actividades recreativas y de sano esparcimiento en áreas verdes, reforzando el tejido social, fomentando la convivencia y la solidaridad;
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2026)</small>
+
+V Bis. Infundir desde la educación básica el desarrollo de hortalizas y huertos urbanos.
 
 > <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -231,6 +241,12 @@ II. Formular, conducir y desarrollar políticas públicas, programas y acciones,
 ###### Artículo 12.
 
 La Secretaría de Medio Ambiente y la Secretaría de Inclusión y Bienestar Social tienen la obligación de coordinar sus acciones, en el ámbito de sus respectivas competencias, para fortalecer un sistema integral de huertos urbanos con enfoques alimentarios, de protección al medio ambiente y de combate al cambio climático.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+###### Artículo 12 Bis.
+
+La Secretaría de Educación, Ciencia, Tecnología e Innovación promoverá la coordinación interinstitucional con los planteles de educación básica, con base en la esfera de su competencia, para fomentar la impartición de talleres formativos en educación ambiental y el desarrollo de hortalizas y huertos urbanos.
 
 ###### Artículo 13.
 
@@ -397,3 +413,15 @@ G.O. 24 DE DICIEMBRE DE 2025.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II Y SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 3; SE ADICIONA LA FRACCIÓN V BIS DEL ARTÍCULO 4; Y SE ADICIONA EL ARTÍCULO 12 BIS A LA LEY DE HUERTOS URBANOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Persona Titular de la Jefatura de Gobierno de la Ciudad de México, en un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto, deberá actualizar y armonizar las disposiciones reglamentarias.
+
+CUARTO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
