@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-de-la-secretaria-ejecutiva-del-sistema-144037"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-09-07"
-last_updated: "2022-07-26"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE ETICA DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE GUANAJUATO, PUBLICADO EN EL P.O. DE 20 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2026 (ABROGADO).
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 7 de septiembre de 2020.
 
@@ -468,3 +470,29 @@ Artículo Primero.- La presente modificación al Código de Ética entrará en v
 Artículo Segundo.- Se instruye al Órgano Interno de Control realice las acciones correspondientes ante la Coordinación de Asuntos Jurídicos para su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Tercero.- Dentro de los quince días hábiles siguientes a la entrada en vigor de la Primera modificación al Código de Ética, el Órgano Interno de Control realizará las gestiones necesarias para la reestructuración del Comité de Ética.
+
+P.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero.- El presente Código de Ética, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Código de Ética
+
+Artículo Segundo.- Queda abrogado el Código de Ética de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Guanajuato, publicado en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato, número 179, Segunda Parte, de fecha 07 de septiembre del 2020.
+
+Artículo Tercero.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Código de Ética, el Órgano Interno de Control será responsable de su publicación en la página oficial de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Guanajuato, así como de su distribución personalizada, entre las personas servidoras públicas adscritas a dicha Secretaría.
+
+Artículo Cuarto.- Las investigaciones y procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+Lineamientos para la Integración, Organización y Funcionamiento del Comité Interno de Ética y Prevención de Conflicto de Interés
+
+Artículo Quinto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Código de Ética, el Órgano Interno de Control realizará las acciones necesarias para la expedición de los Lineamientos para la Integración, Organización y Funcionamiento del Comité Interno de Ética y Prevención de Conflicto de Interés, así como para la conformación del Programa Anual de Trabajo.
+
+No obstante para dar continuidad al Programa Anual de Trabajo 2026, el Comité de Ética seguirá funcionando con la estructura que actualmente tiene hasta en tanto se expidan los lineamientos citados
+
+Adecuación de (sic) Código de Conducta e Integridad
+
+Artículo Sexto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Código de Ética, la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Guanajuato, deberá presentar a la persona Titular del Órgano Interno de Control el Proyecto de (sic) Código de Conducta e Integridad para su aprobación, quien a su vez dispondrá de treinta días naturales contados a partir de su presentación para realizar las observaciones correspondientes y aprobarlo. Una vez aprobado el Código de Conducta e Integridad, se deberá emitir y mandar publicar en el Periódico Oficial del Gobierno del Estado de Guanajuato, dentro de los quince días naturales siguientes.
