@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2026-06-18"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3386,6 +3386,22 @@ III. Acceda, obtenga, posea o detente indebidamente información de los equipos 
 IV. Adquiera, utilice, posea o detente equipos electromagnéticos o electrónicos para sustraer en forma indebida la información contenida en la cinta magnética de los boletos, contraseñas, fichas u otros documentos a los que se refiere la fracción I del artículo.
 
 Las mismas penas se impondrán a quien utilice o revele indebidamente información confidencial o reservada de la persona física o jurídica que legalmente esté facultada para emitir los boletos, contraseñas, fichas u otros documentos a los que se refiere la fracción I de este artículo, con el propósito de realizar operaciones ilícitas y no autorizadas por la persona emisora, o bien, por los titulares de los boletos, contraseñas, fichas u otros documentos a los que se refiere este artículo. Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán en una mitad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE AGOSTO DE 2026)</small>
+
+###### Art. 170 Ter.
+
+Comete el delito de usurpación de profesiones de la salud quien:
+
+I. Se atribuya el carácter de profesionista, especialista o subespecialista sin contar con título y cédula válidos;
+
+II. Realice actos quirúrgicos propios de una especialidad sin contar con la cédula correspondiente;
+
+III. Ofrezca o contrate servicios quirúrgicos de especialidad sin cumplir los requisitos legales;
+
+IV. Imparta o pretenda Impartir cursos de especialidad sin autorización ni reconocimiento oficial.
+
+Se impondrán penas de dos a doce años de prisión y multa conforme a la Unidad de Medida y Actualización, según la gravedad del daño causado.
 
 ### CAPITULO IX. Reglas generales
 
@@ -7512,3 +7528,11 @@ P.O. 18 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 30194/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 34 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30149/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMAN LOS ARTÍCULOS 190 Y 192 Y SE ADICIONAN LOS ARTÍCULOS 192 BIS, 192 TER Y 192 QUATER DE LA LEY DE SALUD DEL ESTADO DE JALISCO Y EL ARTÍCULO 170 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+TRANSITORIO ÚNICO (SIC)
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
