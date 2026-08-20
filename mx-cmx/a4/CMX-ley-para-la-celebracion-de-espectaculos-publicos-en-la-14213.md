@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2026-07-23"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE AGOSTO DE 2026.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -76,9 +76,9 @@ I Bis. Alcaldía: Los órganos político administrativo administrativos (sic) de
 
 II. (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2026)</small>
 
-III. Aviso: El acto por medio del cual las personas físicas o morales calificadas como titulares por la Ley de Establecimientos Mercantiles en el Distrito Federal, notifican a la Alcaldía la celebración de algún evento en los establecimientos mercantiles que cuentan con licencia de funcionamiento para la presentación permanente de eventos artísticos, teatrales, culturales, musicales, deportivos, taurinos o cinematográficos, en locales con aforo para más de 100 personas;
+III. Aviso: El acto por medio del cual las personas físicas o morales calificadas como titulares por la Ley de Establecimientos Mercantiles para la Ciudad de México, notifican a la Alcaldía la celebración de algún evento en los establecimientos mercantiles que cuentan con licencia de funcionamiento para la presentación permanente de eventos artísticos, teatrales, culturales, musicales, deportivos, taurinos o cinematográficos, en locales con aforo para más de 100 personas;
 
 > <small>(ADICIONADA, G.O. 25 DE MARZO DE 2025)</small>
 
@@ -270,11 +270,11 @@ La solicitud y el formato deberán ser los que determine la Administración y su
 
 ### CAPÍTULO III. De los Espectáculos Públicos en General
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 12.
 
-Son obligaciones de los Titulares, cualesquiera que sea el lugar en que se celebre algún espectáculo público:
+Son obligaciones de las personas titulares, cualesquiera que sea el lugar en que se celebre algún espectáculo público:
 
 > <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -320,7 +320,7 @@ XII. Proporcionar a los participantes en el Espectáculo público, sanitarios hi
 
 XIII. Devolver dentro de un plazo de 48 horas y contra la simple entrega del boleto o contraseña respectiva, el importe de las entradas cuando de conformidad con las disposiciones específicas de la Ley o de los Reglamentos correspondientes, resulte procedente ante la suspensión o cancelación de un Espectáculo público por causas imputables al Titular;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE JULIO DE 2026)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 20 DE AGOSTO DE 2026)</small>
 
 XIV. Prohibir durante la celebración del Espectáculo de que se trate, las conductas que tiendan a alentar, favorecer o tolerar la prostitución o drogadicción, cualquier tipo de apología del delito y en general aquellas que pudieran constituir una infracción o delito;
 
@@ -458,9 +458,9 @@ VI. Tipo de eventos, aforo y giros principal y complementarios, autorizados en l
 
 VII. Tratándose de Espectáculos teatrales y musicales, en su caso, los datos de la autorización de la sociedad de autores o compositores que corresponda o del propio Titular, para los efectos de los derechos de autor, y
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2026)</small>
 
-VIII. La manifestación bajo protesta de decir verdad, en el sentido de que cumplen además de lo ordenado por la Ley, con lo dispuesto por la Ley de Salud para el Distrito Federal y sus disposiciones reglamentarias, la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México y su reglamento, el Reglamento de Construcciones para el Distrito Federal,, todos vigentes en la Ciudad de México, así como la normatividad en materia de protección al ambiente y conservación ecológica y las demás disposiciones que resulten aplicables, y con las demás obligaciones y autorizaciones que les impongan o requieran las dependencias de la Administración y de la Administración Pública Federal, cuando la naturaleza y clase del Espectáculo público de que se trate así lo requiera;
+VIII. La manifestación bajo protesta de decir verdad, en el sentido de que cumplen además de lo ordenado por la Ley, con lo dispuesto por la Ley de Salud de la Ciudad de México y sus disposiciones reglamentarias, la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México y su reglamento, el Reglamento de Construcciones para el Distrito Federal, todos vigentes en la Ciudad de México, así como la normatividad en materia de protección al ambiente y conservación ecológica y las demás disposiciones que resulten aplicables, y con las demás obligaciones y autorizaciones que les impongan o requieran las dependencias de la Administración y de la Administración Pública Federal, cuando la naturaleza y clase del Espectáculo público de que se trate así lo requiera;
 
 > <small>(ADICIONADA, G.O. 15 DE JULIO DE 2014)</small>
 
@@ -552,9 +552,9 @@ XIV. Autorización de la asociación o sociedad de autores o compositores que co
 
 XIV BIS.- La manifestación bajo protesta de decir verdad de que durante la celebración del espectáculo circense no se presentarán animales.
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2026)</small>
 
-XV. La manifestación bajo protesta de decir verdad, en el sentido de que cumplen además de lo ordenado por el presente ordenamiento, con lo dispuesto por la Ley de Salud para el Distrito Federal, la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México y su Reglamento, la Ley de Atención Prioritaria para las Personas con Discapacidad y en situación de vulnerabilidad en la Ciudad de México, el Reglamento de Construcciones para el Distrito Federal, la normatividad en materia de protección al ambiente y conservación ecológica, de derechos de autor y de intérprete, en su caso, y los demás ordenamientos que resulten aplicables con motivo de la celebración del espectáculo público.
+XV. La manifestación bajo protesta de decir verdad, en el sentido de que cumplen además de lo ordenado por el presente ordenamiento, con lo dispuesto por la Ley de Salud de la Ciudad de México, la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México y su Reglamento, la Ley de Atención Prioritaria para las Personas con Discapacidad y en situación de vulnerabilidad en la Ciudad de México, el Reglamento de Construcciones para el Distrito Federal, la normatividad en materia de protección al ambiente y conservación ecológica, de derechos de autor y de intérprete, en su caso, y los demás ordenamientos que resulten aplicables con motivo de la celebración del espectáculo público.
 
 > <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -940,9 +940,9 @@ TER.- Los interesados en obtener permisos para la realización de ferias en la v
 
 a) Nombre, domicilio para oír y recibir notificaciones, Registro Federal de Contribuyentes y nacionalidad;
 
-> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2026)</small>
 
-b) Nombre de las personas autorizadas para oír y recibir notificaciones, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal;
+b) Nombre de las personas autorizadas para oír y recibir notificaciones, en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México;
 
 > <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
 
@@ -1032,9 +1032,9 @@ IV.- Descripción del juego mecánico o electromecánico que se pretenda instala
 
 V.- El número de metros de la vía pública que pretenda ser ocupado y ubicación precisa;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2026)</small>
 
-VI.- Deberán acreditar que cumplen con lo dispuesto en las fracciones II, III, y V del artículo 55 de la Ley de Establecimientos Mercantiles vigente en la Ciudad de México y demostrar que cuentan con una póliza de seguro de responsabilidad civil, para cubrir cualquier eventualidad, riesgo o siniestro que puedan sufrir tanto los usuarios de los juegos como los vecinos de la zona;
+VI.- Deberán acreditar que cumplen con lo dispuesto en las fracciones II, III, y V del artículo 55 de la Ley de Establecimientos Mercantiles para la Ciudad de México, y demostrar que cuentan con una póliza de seguro de responsabilidad civil, para cubrir cualquier eventualidad, riesgo o siniestro que puedan sufrir tanto los usuarios de los juegos como los vecinos de la zona;
 
 > <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2006)</small>
 
@@ -1759,5 +1759,21 @@ G.O. 23 DE JULIO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XIV DEL ARTÍCULO 12 DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN LA CIUDAD DE MÉXICO".]
 
 PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE SE (SIC) REFORMAN LAS FRACCIONES III DEL ARTÍCULO 4°; VIII DEL ARTÍCULO 20; XV DEL ARTÍCULO 25; EL INCISO B) DEL ARTÍCULO 55 TER Y LA FRACCIÓN VI DEL ARTÍCULO 55 QUATER, TODOS DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 12 DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN LA CIUDAD DE MÉXICO Y SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 59 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
