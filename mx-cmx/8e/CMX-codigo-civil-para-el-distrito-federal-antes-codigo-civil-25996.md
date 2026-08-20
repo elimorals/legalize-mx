@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2025-12-24"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -27,7 +27,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2026.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -8845,7 +8845,9 @@ ARTICULO 1,501.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
 ARTICULO 1,502.- No pueden ser testigos del testamento:
 
-I.- Los amanuenses del Notario que lo autorice;
+> <small>(REFORMADA, G.O. 20 AGOSTO DE 2026)</small>
+
+I.- Las personas que colaboren directamente con el Notario que autorice el testamento, como asistentes, secretarios, empleados o cualesquiera que mantenga una relación laboral, de prestación de servicio o de confianza en el mismo protocolo notarial;
 
 II.- Los menores de dieciséis años;
 
@@ -9847,27 +9849,17 @@ ARTICULO 1,832.- En los contratos civiles cada uno se obliga en la manera y tér
 
 ARTICULO 1,833.- Cuando la ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2026)</small>
 
-ARTÍCULO 1,834.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación, de la siguiente manera:
+ARTÍCULO 1,834.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
-> <small>(DEROGADO TERCER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+Los supuestos previstos en este Artículo se tendrán por cumplidos mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, siempre que la información generada o comunicada en forma íntegra, a través de dichos medios, sea atribuible a las personas obligadas y accesible para su ulterior consulta.
 
-> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante notario, dicho otorgamiento se hará en el protocolo ordinario o en el protocolo digital que tenga a su cargo en el ámbito de la actuación digital notarial en los términos establecidos por la Ley del Notariado de la Ciudad de México.
 
-I. Con el uso de firma autógrafa. Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
-
-Con el uso de la Firma Electrónica Avanzada o de la Firma Electrónica de la Ciudad de México las cuales tendrán un valor jurídico equivalente al de la firma autógrafa;
-
-> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
-
-II. En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante notario, dicho otorgamiento se hará en el protocolo ordinario o en el protocolo digital que tenga a su cargo en el ámbito de la actuación digital notarial en los términos establecidos por la Ley del Notariado de la Ciudad de México.
-
-> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
-
-Para la verificación, de los documentos a que se refiere la citada fracción, así como los que contengan la reproducción o representación de los instrumentos notariales a que se refiere la fracción II, podrá utilizarse una matriz de datos bidimensional o cualquier otra tecnología análoga existente o por existir que permita su consulta por medios electrónicos sin que la omisión de dicho elemento sea causa de su invalidez.
+Para la verificación, de los documentos a que se refiere el tercer párrafo de este Artículo, así como los que contengan la reproducción o representación de los instrumentos notariales a que se refiere el párrafo anterior, podrá utilizarse una matriz de datos bidimensional o cualquier otra tecnología análoga existente o por existir que permita su consulta por medios electrónicos sin que la omisión de dicho elemento sea causa de su invalidez.
 
 División de los contratos
 
@@ -15704,3 +15696,19 @@ PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno de la Ciuda
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. - Se derogan todas las disposiciones que contravengan el presente decreto.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1834 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL”.]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1502 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
