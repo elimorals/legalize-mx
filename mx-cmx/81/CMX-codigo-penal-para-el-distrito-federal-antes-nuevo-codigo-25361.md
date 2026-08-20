@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2026-07-23"
+last_updated: "2026-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2026.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -3464,6 +3464,32 @@ III. Por quien haya recibido el animal doméstico en tenencia; y
 
 IV. En perjuicio de una persona con discapacidad, menor de edad o de más de sesenta años de edad.
 
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+###### ARTÍCULO 226 Quater.
+
+Comete el delito de abigeato, quien por sí o por interpósita persona se apodere de una o más cabezas de ganado, sin consentimiento de quien legalmente pueda disponer de ellas, se le impondrán de dos a cinco años de prisión.
+
+Se considerará ganado, para los efectos de este delito, a las especies: bovina, caballar, asnal, mular, ovina, caprina, porcina o de una o más colonias de abejas en un apiario; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal.
+
+Se equipará al delito de abigeato y se sancionará con la misma pena que éste, el sacrificio de ganado sin el consentimiento de quien legalmente pueda otorgarlo.
+
+Así mismo, se equiparará al delito de abigeato y se sancionará con la misma pena que éste, a quien a sabiendas de la procedencia ilícita adquiera ganado producto de abigeato o comercie con sus pieles, carne u otros derivados, obtenidos de dicho ilícito.
+
+Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+###### ARTÍCULO 226 Quinquies.
+
+El delito de abigeato se considera calificado y se aumentará la pena hasta en una mitad, cuando:
+
+I. Sea cometido por quien tenga una relación laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado;
+
+II. Cuando el delito se ejecute mediante violencia física o moral, o bien cuando lo cometa un servidor público.
+
+Cuando la conducta a que se refiere este artículo se cometa por una pandilla, asociación delictuosa o banda, se sancionará en términos de los artículos 252 o 253 de este Código, según corresponda.
+
 ### CAPÍTULO II. ABUSO DE CONFIANZA
 
 ###### ARTÍCULO 227.
@@ -3656,13 +3682,19 @@ I. Al que de propia autoridad, por medio de violencia física o moral, el engañ
 
 II. Al que de propia autoridad y haciendo uso de cualquiera de los medios indicados en la fracción anterior o furtivamente, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permite por hallarse en posesión de otra persona o ejerza actos de dominio que lesionen derechos legítimos del ocupante; o
 
-> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2026)</small>
 
-III. Al que en los términos de las fracciones anteriores, cometa despojo de aguas.
+III. Al que, con conocimiento de su ilicitud y con el fin de obtener un beneficio económico para sí o para un tercero, impida, obstaculice o condicione, de forma indebida, el acceso o la disposición de agua potable proveniente de fuentes públicas o gestionada con recursos públicos, mediante:
 
-> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
+a. La exigencia de dádivas, promesas de dinero o contraprestaciones de cualquier naturaleza;
 
-El delito se sancionará sin importar si el derecho a la posesión de la cosa usurpada sea dudosa o esté en disputa.
+b. La imposición de condiciones ajenas al servicio público para su reparto; o
+
+c. Cualquier otro acto de coacción, simulación o abuso que restrinja injustificadamente el acceso al agua en perjuicio de una o más personas.
+
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2026)</small>
+
+El delito será sancionado sin importar si el derecho a la posesión de la cosa usurpada o del servicio público esté en disputa o sea dudoso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
@@ -3678,9 +3710,9 @@ I. Cuando el delito se cometa en contra de persona mayor de sesenta años, con d
 
 II. Cuando entre el sujeto pasivo y el activo medie un vínculo de parentesco o afinidad hasta en cuarto grado;
 
-> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2026)</small>
 
-III. Cuando participe un servidor público en ejercicio de sus funciones;
+III. Cuando participe un servidor público en ejercicio de sus funciones, además de las penas señaladas en el presente artículo, se impondrá la destitución e inhabilitación para desempeñar empleo, cargo o comisión públicos hasta por un periodo igual al de la pena de prisión impuesta;
 
 > <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
@@ -7427,6 +7459,22 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.O. 23 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 231 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 226 QUATER Y 226 QUINQUIES AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN III Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 237, LA FRACCIÓN III DEL ARTÍCULO 238, TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
