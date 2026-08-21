@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2026-08-20"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -1312,11 +1312,11 @@ VERIFICANDO CON TODA OPORTUNIDAD QUE LOS SENTENCIADOS A QUE SE REFIERE LA LEGISL
 
 ### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 47.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica integral gratuita y de calidad, de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud física y mental. Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica integral gratuita y de calidad, de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud física y mental. Las autoridades del Gobierno de la Ciudad de México y las Alcaldías, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
 
 I. Reducir la morbilidad y mortalidad;
 
@@ -1370,13 +1370,21 @@ XVII. Coadyuvar en el acceso a los bienes, servicios, ayudas técnicas y rehabil
 
 XVIII. Fomentar, promover y proteger la práctica de lactancia materna como medida para combatir la mortalidad por desnutrición de las niñas y los niños que se encuentran en la primera infancia; y
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2026)</small>
 
-XIX. Establecer programas y campañas permanentes de información y concientización orientadas a la prevención oportuna del suicidio en niñas, niños y adolescentes; y
+XIX. Establecer programas y campañas permanentes de información y concientización orientadas a la prevención oportuna del suicidio en niñas, niños y adolescentes;
 
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2026)</small>
 
-XX. Promover campañas de salud visual.
+XX. Promover campañas de salud visual; y
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+XXI. Impulsar estrategias de visibilización y sensibilización dirigidas a los diversos sectores de la sociedad, y a la población en general de la Ciudad de México, a fin de promover la inclusión de niñas, niños y adolescentes diagnosticados con enfermedades crónicas o con cualquier otra condición de salud para prevenir y evitar su discriminación y victimización.
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+XXII. Promover programas tendientes a visibilizar y concientizar sobre las afectaciones por uso excesivo y prolongado de pantallas de video.
 
 En todos los casos que proporcionen los servicios de salud se respetará el derecho a la intimidad de niñas, niños y adolescentes y a un trato digno.
 
@@ -3319,3 +3327,23 @@ G.O. 20 DE AGOSTO DE 2026.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 47 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA LA FRACCIÓN XXII, AL ARTÍCULO 47 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO, EN MATERIA DE SALUD MENTAL DE LAS INFANCIAS Y LAS PERSONAS JÓVENES”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
