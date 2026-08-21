@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-jovenes-en-la-ciudad-de-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-13"
-last_updated: "2025-12-24"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109366&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de agosto de 2015.
 
@@ -294,9 +294,11 @@ El Gobierno de la Ciudad de México, a través de sus instituciones, dependencia
 
 Se buscará además fomentar y promover la cultura y formación emprendedora impulsando sus temas y contenidos en los planes y programas de estudio en los planteles de los niveles de educación media superior y superior, incorporadas al Sistema Educativo de la Ciudad de México, así como promover y fomentar la inserción de las personas jóvenes en la Ciudad de México al mundo empresarial. Asimismo, establecerá mecanismos de mejora regulatoria, compensación y estímulo que contribuyan al fomento de las personas jóvenes emprendedoras, además agilicen su constitución y fortalezcan capacidades, competencias laborales y acceso al crédito.
 
+> <small>(REFORMADO, G.O. 21 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 16.
 
-El Gobierno fomentará y promoverá el desarrollo productivo de las micros y pequeñas empresas o industrias, innovadoras, creativas y competitivas creadas por las personas jóvenes.
+El Gobierno fomentará y promoverá el desarrollo productivo de las micros y pequeñas empresas, o industrias innovadoras, creativas y competitivas creadas por las personas jóvenes, conforme a lo dispuesto por la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, así como a las demás disposiciones legales en la materia para la Ciudad de México.
 
 ###### Artículo 17.
 
@@ -2073,3 +2075,13 @@ Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 Segundo. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Tercero. Las Alcaldías podrán llevar a cabo mediante gastos compensados los ajustes presupuestarios y hacer las prevenciones para los siguientes ejercicios fiscales a efecto de implementar planes y programas de atención a la salud mental de las personas jóvenes dentro de su demarcación territorial.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES IX Y X DEL ARTÍCULO 11, LA FRACCIÓN XI DEL ARTÍCULO 12; Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 11, TODOS DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DE LA CIUDAD DE MÉXICO Y SE REFORMA EL ARTÍCULO 16 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO ”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
