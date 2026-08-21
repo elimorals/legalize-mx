@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-bienestar-e-igualdad-social-para-la-173805"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-15"
-last_updated: "2024-07-15"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173805&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2024-07-12"
 
 LEY DEL DERECHO AL BIENESTAR E IGUALDAD SOCIAL PARA LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2026.
 
 Ley publicada en el Número 1401 de la Gaceta de la Ciudad de México, el lunes 15 de julio de 2024.
 
@@ -370,9 +370,15 @@ En materia de recreación y cultura, la política de derecho al bienestar e igua
 
 En materia de transporte y movilidad la política y los programas deberán estar orientados al fortalecimiento y ampliación de los diversos sistemas de transporte público, a partir de la planeación de proyectos adecuados y suficientes de inversión, que se elaboren de manera resiliente, segura y accesible dando prioridad a la electromovilidad. Así mismo deberá contemplarse el establecimiento de infraestructura necesaria para expandir los medios alternativos de transporte no contaminante. El Gobierno de la Ciudad implementará planes de ordenación del territorio y de desarrollo urbano que aseguren patrones eficientes y racionales de movilidad. Deberán crearse condiciones adecuadas para facilitar y estimular los desplazamientos a pie.
 
+> <small>(REFORMADO, G.O. 21 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 26.
 
 La Administración Pública promoverá el derecho humano al cuidado mediante la institucionalización de un conjunto de servicios públicos, apoyos, mecanismos y regulaciones que garanticen a las personas la atención y la satisfacción de sus necesidades básicas de la vida cotidiana, así como condiciones dignas y equitativas a las personas que se ocupan del cuidado. Las competencias y obligaciones en materia de cuidados incluirán la atención conforme al ciclo de vida, la igualdad sustantiva y las condiciones comunitarias, entre otros.
+
+El Sistema de Cuidados es el conjunto orgánico y articulado de relaciones funcionales, principios, normas, instituciones, instalaciones, estructuras, técnicas, programas, políticas, procedimientos y mecanismos de coordinación interinstitucional para la planeación, implementación, monitoreo, evaluación, generación y prestación de servicios públicos de cuidados, así como de articulación de programas, estrategias, planes y acciones de política pública en ese ámbito.
+
+El Sistema de Cuidados de la Ciudad de México adoptará medidas para respetar, proteger, garantizar y promover el ejercicio universal, progresivo, indivisible e interdependiente del derecho humano al cuidado en sus tres dimensiones.
 
 ###### Artículo 27.
 
@@ -889,3 +895,15 @@ NOVENO. En tanto se instala la Comisión Coordinadora del Sistema General de Bie
 Palacio Legislativo del Congreso de la Ciudad de México, a los catorce días del mes de junio del año dos mil veinticuatro.- POR LA MESA DIRECTIVA.- DIPUTADA MARÍA GABRIELA SALIDO MAGOS, PRESIDENTA.- DIPUTADA MARCELA FUENTE CASTILLO, SECRETARIA.- DIPUTADA FRIDA FERNANDA ALCÁNTARA CABRERA, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, base III, de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a), de la Constitución Política de la Ciudad de México; 2, párrafo segundo, 3, fracciones XVII y XVIII, 7, párrafo primero, 10, fracción II, 12 y 21, párrafo primero, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los doce días del mes de julio del año dos mil veinticuatro.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, DR. MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUIZ SUÁREZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, BERTHA MARÍA ELENA GÓMEZ CASTRO.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- LA SECRETARIA DE CULTURA, CLAUDIA STELLA CURIEL DE ICAZA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, INTI MUÑOZ SANTINI.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, JESÚS OFELIA ANGULO GUERRERO.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- EL SECRETARIO DE INCLUSIÓN Y BIENESTAR SOCIAL, JUAN GERARDO LÓPEZ HERNÁNDEZ.-FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, INGRID AURORA GÓMEZ SARACÍBAR.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LAURA ITA ANDEHUI RUIZ MONDRAGÓN.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, PABLO VÁZQUEZ CAMACHO.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, JOSÉ LUIS RODRÍGUEZ DÍAZ DE LEÓN.- FIRMA. LA SECRETARÍA DE TURISMO, NATHALIE VERONIQUE DESPLAS PUEL.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 26 DE LA LEY DEL DERECHO AL BIENESTAR E IGUALDAD SOCIAL PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por las que no se autorizarán recursos adicionales para tales efectos.
