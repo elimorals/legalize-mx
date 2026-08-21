@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-de-la-ciudad-de-mexico-149711"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2026-07-23"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149711&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-04"
 
 LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2026.
 
 Ley publicada en el No. 612 de la Gaceta Oficial de la Ciudad de México, el lunes 7 de junio de 2021.
 
@@ -1018,9 +1018,11 @@ Artículo 58 Undecies.- Para el financiamiento de las actividades de investigaci
 
 ### CAPÍTULO IV. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 59.
 
-Compete a la Secretaría, en coordinación con el Consejo de Participación Escolar en la Educación de la entidad, opinar acerca de los planes, programas y contenidos de estudio de la educación inicial, preescolar, primaria, secundaria, normal y demás para la formación de las personas educadoras de nivel básico, que la Autoridad Educativa Federal determine.
+Compete a la Secretaría, en coordinación con el Consejo de Participación Escolar en la Educación de la entidad, opinar al menos cada cinco años acerca de los planes, programas y contenidos de estudio de la educación inicial, preescolar, primaria, secundaria, normal y demás para la formación de las personas educadoras de nivel básico, que la Autoridad Educativa Federal determine.
 
 La Secretaría propondrá a la Autoridad Educativa Federal aquellos contenidos propios de la Ciudad que permitan a los educandos aprender su historia, geografía, cultura, costumbres y tradiciones.
 
@@ -1052,11 +1054,11 @@ Los contenidos de estudio tendrán por objeto propiciar en el educando el desarr
 
 Los planes y programas de estudio que determine la Autoridad Educativa Federal, las adecuaciones que por Ley correspondan a la Secretaría, así como los planes y programas de estudio de las instituciones educativas dependientes de la Secretaría, serán publicados en el Órgano de difusión local.
 
-> <small>(REFORMADO, G.O. 11 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, G.O. 21 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 63.
 
-Los planes y programas de estudio del Sistema Educativo de la Ciudad se basarán invariablemente en el respeto a los derechos humanos, igualdad sustantiva, sustentabilidad del medio ambiente, cultura del cuidado y gestión del agua, el respeto y protección a los animales como seres sintientes, responsabilidad social, equidad, inclusión, perspectiva de género, cultura de envejecimiento activo y la solidaridad intergeneracional, perspectiva intercultural, cultura de paz y no violencia, sana convivencia, así como diálogo y participación de educandos, personas educadoras, autoridades, madres y padres de familia o tutores e instituciones sociales.
+Los planes y programas de estudio del Sistema Educativo de la Ciudad se basarán invariablemente en el respeto a los derechos humanos, igualdad sustantiva, sustentabilidad del medio ambiente, cultura del cuidado y gestión del agua, el respeto y protección a los animales como seres sintientes, responsabilidad social, equidad, inclusión, perspectiva de género, salud menstrual, cultura de envejecimiento activo y la solidaridad intergeneracional, perspectiva intercultural, cultura de paz y no violencia, sana convivencia, así como diálogo y participación de educandos, personas educadoras, autoridades, madres y padres de familia o tutores e instituciones sociales.
 
 ###### Artículo 64.
 
@@ -1068,13 +1070,21 @@ Para cumplir con los planes, programas y contenidos, en la educación básica, l
 
 Sin menoscabo del libro de texto gratuito y de otros materiales distribuidos por la Autoridad Educativa Federal, la Secretaría producirá los materiales de apoyo que considere pertinentes con el propósito de apoyar el cumplimiento de los fines y objetivos de aprendizaje de los planes y programas de estudio.
 
+> <small>(REFORMADO, G.O. 21 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 66.
 
-En la elaboración de planes y programas de estudio que le correspondan, la Secretaría deberá escuchar y considerar las opiniones de las personas educadoras, de las personas titulares de las Alcaldías de la Ciudad, del Consejo de Participación Escolar, así como de los actores que participen en la prestación de los servicios de educación en la entidad.
+En la elaboración de planes y programas de estudio que le correspondan, la Secretaría deberá escuchar y considerar las opiniones de las personas educadoras, de los especialistas en salud menstrual y derechos reproductivos, de las personas titulares de las Alcaldías de la Ciudad, del Consejo de Participación Escolar, así como de los actores que participen en la prestación de los servicios de educación en la entidad.
 
 ###### Artículo 67.
 
 La Secretaría promoverá la innovación pedagógica y didáctica para la mejora continua de los procesos de enseñanza y aprendizaje en las instituciones educativas de la Ciudad, para lo cual podrá suscribir convenios con instituciones y centros especializados en la materia.
+
+> <small>(ADICIONADO, G.O. 21 DE AGOSTO DE 2026)</small>
+
+###### Artículo 67 Bis.
+
+La Secretaría impulsará programas de sensibilización y capacitación para el personal docente y administrativo en materia de salud menstrual y derechos reproductivos, promoviendo un ambiente de respeto e inclusión.
 
 ### CAPÍTULO V. DE LOS PLANTELES EDUCATIVOS
 
@@ -1472,7 +1482,9 @@ V. Participar en el desarrollo de las actividades educativas, pedagógicas, cien
 
 VI. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad;
 
-VII. Recibir educación y orientación en sexualidad, adecuada a su edad, con información completa, científica, no estereotipada, diversa y laica;
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+VII. Recibir educación y orientación en sexualidad, adecuada a su edad, con información completa, científica, no estereotipada diversa y laica, incluyendo de manera enunciativa, pero no limitativa, el derecho humano a la sexualidad, a la planificación familiar, el uso correcto de métodos anticonceptivos, la prevención y detección oportuna de las enfermedades e infecciones de transmisión sexual, el consentimiento, prevención y detección del acoso y abuso sexual, el derecho a la identidad y orientación sexual así como el autoconocimiento.
 
 VIII. Contar con la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, su autonomía progresiva y la sana convivencia en el entorno escolar y social;
 
@@ -1945,3 +1957,33 @@ PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicaci�
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 63 Y 66; Y SE ADICIONA UN ARTÍCULO 67 BIS, TODOS DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no autorizarán recursos adicionales para tales efectos.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 111 DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 59 DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
