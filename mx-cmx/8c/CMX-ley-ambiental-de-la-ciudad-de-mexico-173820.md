@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-la-ciudad-de-mexico-173820"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-18"
-last_updated: "2026-08-20"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173820&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2024-07-16"
 
 LEY AMBIENTAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2026.
 
 Ley publicada en el No. 1404 de la Gaceta Oficial de la Ciudad de México, el jueves 18 de julio de 2024.
 
@@ -182,9 +182,9 @@ XXIV. Declaratoria de Cumplimiento Ambiental: El instrumento de evaluación de i
 
 XXV. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del ser humano y demás seres vivos;
 
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2026)</small>
 
-XXV Bis. Economía circular: Sistema económico que busca erradicar el valor destruido en las cadenas económicas y que parte de la disminución del consumo de materias primas vírgenes, con el objetivo de minimizar el desperdicio de materiales, completando las cadenas económicas y ambientales del flujo de recursos, garantizando reducir el impacto al ambiente derivado de las actividades económicas de fabricación y consumo a través de líneas de acción como la incorporación de productos de bajo impacto ambiental, la eficiencia energética, el rediseño de productos, el reciclaje, la creación de empleos y la dignificación de los mismos, la equidad social, la inclusión de los sectores vulnerados, el acceso universal a los derechos humanos fundamentales y el desarrollo de nuevas tecnologías.
+XXV Bis. Economía Circular: Modelo económico de Producción y Consumo sostenible que incluye soluciones sistémicas para el desarrollo económico, que disminuyen el impacto ambiental mediante ciclos técnicos y biológicos que permiten la permanencia y reintegración sustentable de los materiales de los productos a la economía, el cual tiene como principios rectores la eliminación de residuos y la contaminación, mantener productos y materiales en uso, así como regenerar los sistemas naturales;
 
 XXVI. Educación ambiental: Proceso destinado a la formación de ciudadanos con valores necesarios para una relación armónica entre los seres humanos, la naturaleza y el ambiente;
 
@@ -3919,3 +3919,13 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE ECONOMÍA CIRCULAR DE LA CIUDAD DE MÉXICO, LA LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO Y LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
