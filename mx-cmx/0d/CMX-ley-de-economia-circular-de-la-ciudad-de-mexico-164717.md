@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-economia-circular-de-la-ciudad-de-mexico-164717"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-28"
-last_updated: "2023-02-28"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164717&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2023-02-18"
 
 LEY DE ECONOMÍA CIRCULAR DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2026.
 
 Ley publicada en el No. 1054 Bis de la Gaceta Oficial de la Ciudad de México, el martes 28 de febrero de 2023.
 
@@ -92,6 +92,10 @@ III. Alcaldías: Los órganos político-administrativos de cada demarcación ter
 
 IV. Análisis de ciclo de vida: Herramienta de análisis usada para evaluar los aspectos ambientales y sus potenciales impactos asociados con todas las etapas de la producción, vida y disposición de un producto, sistema o servicio;
 
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+IV Bis. Cadena de Valor: Actividades que permiten la integración de materiales, productos o de los residuos para su Aprovechamiento Circular, ya sea para el mismo proceso que lo generó o en otros;
+
 V. Ciclo de Vida: conjunto de etapas consecutivas e interrelacionadas del sistema de un producto, desde la extracción u obtención de materia prima hasta la producción, comercialización, distribución, uso, consumo, reutilización, reciclaje o eliminación final;
 
 VI. Circularidad: Característica de los productos, servicios o actividades diseñados o producidos bajo un enfoque sistémico, restaurativo y regenerativo, en el que se mantiene la utilidad y valor máximos en todo momento, conforme a la presente ley y los principios, enfoques de diseño y criterios de circularidad;
@@ -104,7 +108,9 @@ IX. Destrucción de valor: Pérdida del valor intrínseco remanente en los produ
 
 X. Ecodiseño: Enfoque del diseño que consiste en incorporar criterios ambientales en la fase de concepción y desarrollo de cada producto, bien o servicio, con el objetivo de disminuir los impactos ambientales en las diferentes fases de su ciclo de vida, desde la adquisición de materias primas e insumos necesarios para su producción hasta la terminación del mismo;
 
-XI. Economía circular: Modelo económico de producción y consumo sostenible que contempla todas las etapas del ciclo de vida de los productos y servicios, para generar diseños y esquemas que disminuyen los impactos ambientales a través de ciclos técnicos y biológicos que posibilitan la permanencia y reintegración sustentable de sus componentes, garantizando las condiciones esenciales con las que toda persona debe contar y respetando los límites ecológicos que sustentan la vida, obteniendo como resultado un desarrollo que se encuentre dentro de los límites de lo ecológicamente seguro y lo socialmente justo;
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+XI. Economía Circular: Modelo económico de Producción y Consumo sostenible que incluye soluciones sistémicas para el desarrollo económico, que disminuyen el impacto ambiental mediante ciclos técnicos y biológicos que permiten la permanencia y reintegración sustentable de los materiales de los productos a la economía, el cual tiene como principios rectores la eliminación de residuos y la contaminación, mantener productos y materiales en uso, así como regenerar los sistemas naturales;
 
 XII. Empleos verdes: Puestos de trabajo decentes que contribuyen a preservar o restaurar la calidad del medio ambiente en cualquier sector económico, reduciendo los impactos ambientales;
 
@@ -124,6 +130,14 @@ XIX. Materia prima secundaria: Todo insumo que, tras someterse a operaciones de 
 
 XX. Adopción de modelos de servicio: Establecimiento de sistemas de arrendamiento, préstamo de bienes u otro tipo de servicios que contribuyen a desvincular la satisfacción de las necesidades de los consumidores de la posesión de los productos;
 
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+XX Bis. Persona recicladora de base o pepenadora: Persona que, de forma independiente o colectiva, realiza la recolección, separación manual, comercialización y reciclaje de materias primas secundarias;
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+XX Ter. Reciclaje inclusivo: Modelos de gestión integral que reconocen el trabajo de las personas recicladoras de base o pepenadoras y que promueven su inclusión en términos de las disposiciones legales laborales o sociales aplicables;
+
 XXI. Simbiosis industrial: Modelo de gestión ambiental que genera ciclos de materiales a partir del desarrollo de proyectos colaborativos entre dos o más empresas, en los cuales los residuos de una empresa se aprovechan como materia prima de otra o se busca compartir infraestructura para el tratamiento de residuos y vertimientos; con el fin de disminuir el impacto ambiental y obtener beneficios económicos;
 
 XXII. Sistemas de Producto-Servicio: Modelos de negocio que servitizan los productos, convirtiendo un bien en un servicio;
@@ -142,7 +156,13 @@ El fomento a las actividades económicas en la Ciudad de México se realizará c
 
 A. "Principios"
 
-I. Integralidad: promover la articulación y complementariedad entre cada una de las políticas y programas para la consecución de los derechos y la satisfacción de las necesidades de la ciudadanía, a través de una perspectiva común, transversal e intersectorial para dirigir la acción pública hacia el logro de los resultados esperados;
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+I. Integralidad: Articulación de políticas públicas con las actividades de los sectores y con objetivos del desarrollo para satisfacer las necesidades de la población, con criterios ecológicos, sociales y económicos de manera transversal;
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+I Bis. Cautela o precaución: Acciones en los casos que haya riesgo de daño grave o irreversible al medio ambiente, aún sin tener certeza científica sobre los impactos que genera una Actividad Económica;
 
 II. Progresividad: impulsar la implementación gradual de la economía circular en la Ciudad de México, de tal forma que siempre se avance hacia su fortalecimiento y no se realicen acciones que impliquen su retroceso;
 
@@ -153,6 +173,10 @@ IV. Autosuficiencia: promover condiciones económicas, de infraestructura y orga
 V. Participación social: fomentar la participación corresponsable e informada de la sociedad en materia de economía circular;
 
 VI. Transversalidad: coordinación y cooperación entre la Administración Pública de la Ciudad de México, y de ésta con los diferentes órdenes de gobierno, así como con los sectores social y privado para asegurar la instrumentación de la política de economía circular;
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+VI Bis. Trazabilidad: Información en toda la cadena de manejo de un determinado Producto o material, con la finalidad de contar con un registro de los datos de los flujos del Ciclo de Vida, conforme a la normativa aplicable.
 
 VII. Responsabilidad compartida: El principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
 
@@ -232,6 +256,10 @@ c) Disminuir la huella ecológica, a través de la reducción del uso de recurso
 
 V. Instruir a la Administración Pública de la Ciudad de México para que de manera coordinada incorpore el enfoque de economía circular en las políticas, programas, proyectos y demás medidas que implementen en el ámbito de sus respectivas competencias;
 
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+V Bis. Implementar las acciones, políticas, programas, proyectos e instrumentos que fortalezcan el reciclaje inclusivo;
+
 VI. Dirigir la adquisición de bienes y servicios de las Dependencias, Órganos Desconcentrados, Organismos Desconcentrados, Entidades y Alcaldías de la Administración Pública de la Ciudad de México, hacia esquemas de economía circular;
 
 VII. Aprobar el Programa de Economía Circular de la Ciudad de México conforme a los objetivos y principios establecidos en la presente ley;
@@ -260,7 +288,9 @@ VI. Elaborar, actualizar y difundir información que sensibilice a la Administra
 
 VII. Implementar, en coordinación con la Secretaría de Desarrollo Económico, un Sistema de Información Pública de Economía Circular, así como los mecanismos necesarios para su ejecución, con el objeto de registrar, organizar, actualizar, difundir y facilitar el acceso a la información en materia de economía circular;
 
-VIII. Impulsar en coordinación con la Secretaría de Desarrollo Económico, el principio de responsabilidad compartida, con apego a las disposiciones correspondientes;
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+VIII. Impulsar en coordinación con la Secretaría de Desarrollo Económico, los principios de cautela o precaución y de responsabilidad compartida, con apego a las disposiciones correspondientes;
 
 IX. Promover la producción sostenible de alimentos en el suelo de conservación de la Ciudad, que fomente la preservación de ecosistemas y la vocación del suelo, mediante prácticas de economía local, comunitaria, colaborativa y solidaria;
 
@@ -536,6 +566,10 @@ X. Acción climática: contribuir a la mitigación de las emisiones de compuesto
 
 XI. Empleos verdes: creación de empleos que preserven y restauren el medio ambiente, reduzcan los impactos ambientales adversos y, a su vez, mejoren la inclusión social y las oportunidades económicas, en el ámbito de las competencias correspondientes y la normatividad aplicable;
 
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+XI Bis. Reciclaje Inclusivo: reconocer y visibilizar la aportación social, económica y ambiental de la actividad de las personas recicladoras de base o pepenadoras, así como el desarrollo e implementación de modelos que incluyan a estas personas en la Economía Circular;
+
 XII. Crecimiento sostenible e inclusivo: apoyar los vínculos económicos, sociales y ambientales positivos entre las zonas urbanas, periurbanas y rurales mediante el fortalecimiento de la planificación, bajo una perspectiva de contribución a los objetivos del desarrollo regional y nacional;
 
 XIII. Educación y Cultura: comunicar la información a la ciudadanía sobre los beneficios sociales, ambientales y económicos de la economía circular y los mecanismos de acción para lograr una Ciudad sostenible, inclusiva y de derechos;
@@ -667,3 +701,15 @@ QUINTO.- Se derogan todas aquellas disposiciones que contravengan al presente De
 Palacio Legislativo del Congreso de la Ciudad de México, a los catorce días del mes de febrero del año dos mil veintitrés.- POR LA MESA DIRECTIVA.- DIPUTADO FAUSTO MANUEL ZAMORANO ESPARZA, PRESIDENTE.- DIPUTADA MARCELA FUENTE CASTILLO, SECRETARIA.- DIPUTADA MARIA GABRIELA SALIDO MAGOS, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los dieciocho días del mes de febrero del año dos mil veintitrés.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, MARTÍ BATRES GUADARRAMA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- LA SECRETARIA DE CULTURA, CLAUDIA STELLA CURIEL DE ICAZA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, CARLOS ALBERTO ULLOA PÉREZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, JESÚS OFELIA ANGULO GUERRERO.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- EL SECRETARIO DE INCLUSIÓN Y BIENESTAR SOCIAL, RIGOBERTO SALGADO VÁZQUEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, INGRID GÓMEZ SARACÍBAR.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LAURA ITA ANDEHUI RUIZ MONDRAGÓN.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, JOSÉ LUIS RODRÍGUEZ DÍAZ DE LEÓN.- FIRMA.- LA SECRETARÍA DE TURISMO, NATHALIE VERONIQUE DESPLAS PUEL.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE ECONOMÍA CIRCULAR DE LA CIUDAD DE MÉXICO, LA LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO Y LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
