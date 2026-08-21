@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2026-07-23"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIA: 23 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIA: 21 DE AGOSTO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -182,11 +182,11 @@ Queda expresamente prohibida la caza y captura de cualquier especie de fauna sil
 
 Las autoridades de la Ciudad de México deben auxiliar a las federales para aplicar las medidas necesarias para la regulación del comercio de animales silvestres, sus productos o subproductos, así como para evitar la posesión y exhibición ilegal de éstos, mediante la celebración de convenios o acuerdos de coordinación, conforme a la ley en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 4.
 
-Para los efectos de esta Ley, además de los conceptos definidos en la Ley Ambiental de Protección a la Tierra en la Ciudad de México, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley Federal de Sanidad Animal, las normas ambientales en materia de protección y bienestar animal en la Ciudad de México y las normas oficiales mexicanas, se entenderá por:
+Para los efectos de esta Ley, además de los conceptos definidos en la Ley Ambiental de la Ciudad de México, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley Federal de Sanidad Animal, las normas ambientales en materia de protección y bienestar animal en la Ciudad de México y las normas oficiales mexicanas, se entenderá por:
 
 > <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
 
@@ -281,6 +281,10 @@ XIII. Animal Silvestre.- Especies no domésticas sujetas a procesos evolutivos y
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
 
 XIII BIS. Agencia: Agencia de Atención Animal de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+XIII TER. Agente polinizador: Conjunto de agentes faunísticos como abejas, avispas, hormigas, murciélagos, colibríes, mariposas, polillas, escarabajos, entre otros, que visitan flores y durante sus visitas transportan accidentalmente polen de una flor a otra, permitiendo que las plantas produzcan frutos. Comprende antófilos de las Familias Adrenidae, Apidae, Colletidae, Hallictidae, Megachilidae y Melittidae, que se dedican al proceso de la polinización; moscas visitadoras de flores (Familia Bombiyliidae), y mariposas de las familias: Hesperiidae, Lycaenidae, Nymphalidae, Pieridae; los colibríes (Trochilidae), y murciélagos (Chiroptera) polinizadores;
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
@@ -388,9 +392,7 @@ XXV BIS. Fauna. Es el conjunto de animales, característicos de una región, que
 
 XXV BIS 1. Hábitat. Es un espacio del Medio Ambiente físico, en el que se desarrollan organismos, especies, población o comunidades de animales, en un determinado tiempo;
 
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XXV BIS 2. Insectos productores. Especies biológicas clasificados como insectos, que por sus propias características generan materias primas, de utilidad para el hombre, produciendo miel, cera y pigmentos, que son empleados para consumo animal o humano y para producción artesanal;
+XXV BIS 2. (DEROGADO, G.O. 21 DE AGOSTO DE 2026)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -421,6 +423,10 @@ XXVI. Instrumentos económicos: Los estímulos fiscales, financieros y administr
 XXVI BIS. Interés Superior de los Seres Sintientes: Es el principio rector, de derecho y de regla procedimental, conforme al cual, en toda decisión, interpretación, actuación, de política pública, acto administrativo, proceso, procedimiento o medida que afecte directa o indirectamente a los animales, deberá priorizarse como consideración primordial la protección de su bienestar integral, de su vida y de su integridad física y psicoemocional, atendiendo a sus necesidades etológicas, condiciones de salud, ambiente, estado mental y entorno del ser sintiente.
 
 Este principio operará como criterio de ponderación reforzada en los conflictos entre intereses humanos y aquellos que involucren a seres sintientes, en el entendido de que toda restricción a su bienestar deberá estar expresamente prevista en la ley, ser necesaria y proporcional, y contemplar medidas para minimizar su sufrimiento, conforme a criterios científicos y técnicos aplicables.
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+XXVI TER. Jardines para Polinizadores: Espacios diseñados, adaptados o restaurados con vegetación nativa melífera, nectarífera y polinífera, cuya finalidad es favorecer la presencia, alimentación, refugio y reproducción de abejas y otros polinizadores, especialmente en entornos urbanos, suburbanos y rurales;
 
 > <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -3141,5 +3147,15 @@ G.O. 23 DE JULIO DE 2026.
 PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DE LOS ANIMALES DE LA CIUDAD DE MÉXICO, EN MATERIA DE AGENTES POLINIZADORES".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
