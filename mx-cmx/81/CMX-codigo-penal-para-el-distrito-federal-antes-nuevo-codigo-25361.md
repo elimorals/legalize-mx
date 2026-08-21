@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2026-08-20"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2026.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -4852,11 +4852,11 @@ Quien al declarar ante autoridad en ejercicio de sus funciones o con motivo de e
 
 Si la falsedad en declaración se refiere a las circunstancias o accidentes de los hechos que motivan la intervención de la autoridad, la pena será de uno a tres años de prisión y de cincuenta a ciento cincuenta días multa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE AGOSTO DE 2026)</small>
 
 ###### ARTÍCULO 312.
 
-A quien con el propósito de inculpar o exculpar a alguien indebidamente en un procedimiento penal, ante el Ministerio Público o ante la autoridad judicial, declare falsamente en calidad de testigo o como denunciante, además de la multa a que se refiere el primer párrafo del artículo 311, será sancionado con pena de tres a siete años de prisión si el delito materia de la averiguación previa, la investigación o del proceso no es grave. Si el delito es grave, se impondrá de cinco a diez años de prisión.
+A quien con el propósito de inculpar o exculpar a alguien indebidamente en un procedimiento penal, ante el Ministerio Público o ante la autoridad judicial, declare falsamente en calidad de testigo o como denunciante, además de la multa a que se refiere el primer párrafo del artículo 311, será sancionado con pena de tres a siete años de prisión si el delito materia de la carpeta de investigación, la indagatoria o del proceso no es grave. Si el delito es grave, se impondrá de cinco a diez años de prisión.
 
 La pena de prisión se aumentará en una mitad para el testigo falso que fuere examinado en un procedimiento penal, cuando su testimonio se rinda para producir convicción sobre la responsabilidad del inculpado, por un delito no grave. Si se trata de delito grave, la pena de prisión se aumentará en un tanto.
 
@@ -7475,6 +7475,14 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.O. 20 DE AGOSTO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN III Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 237, LA FRACCIÓN III DEL ARTÍCULO 238, TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 312 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
