@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2025-12-08"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -2001,23 +2001,23 @@ b) Acreditar experiencia y conocimiento de los asuntos municipales y su manejo;
 
 c) Contar con el perfil profesional o técnico adecuado para el encargo;
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2026)</small>
 
-d) No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión en los últimos cinco años;
+d) No encontrarse, al momento de la designación, inhabilitado o inhabilitada, suspendido o suspendida administrativamente o, en su caso, penalmente, para desempeñar un empleo, cargo o comisión en el servicio público;
 
-e) Tener un modo de vida honesto; y
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+e) Tener un modo de vida honesto, y
 
-f) Poseer la cualidad necesaria para el desempeño del cargo apegándose a los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia que rigen en el servicio público, y
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+f) Poseer la cualidad necesaria para el desempeño del cargo apegándose a los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia que rigen en el servicio público.
 
-g) No estar inhabilitado para ocupar cargo alguno en la administración pública federal, estatal ni municipal. Dicha condición se acreditará con las constancias correspondientes que emitan las autoridades competentes.
+g) (DEROGADO, P.O. 21 DE AGOSTO DE 2026)
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2026)</small>
 
-Del cumplimiento de estos requisitos se deberá dar cuenta en el expediente personal de cada uno de los servidores públicos referidos que deberá obrar en la Contraloría Municipal.
+Del cumplimiento de estos requisitos se deberá dar cuenta en el expediente personal de cada una de las personas servidoras públicas referidas, mismo que deberá obrar en el área de recursos humanos o análoga, turnándose copia de conocimiento a la Contraloría Municipal.
 
 ### CAPÍTULO II. De la Secretaría del Ayuntamiento
 
@@ -2985,9 +2985,11 @@ Los inmuebles del dominio privado del municipio se destinarán prioritariamente 
 
 Los inmuebles del dominio privado del municipio que no sean adecuados para los fines a que se refiere el artículo anterior, podrán ser objeto de enajenación, de conformidad con las disposiciones que establece esta ley.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2026)</small>
+
 ###### ARTICULO 172.
 
-Además de lo preceptuado por esta ley, se aplicará, en lo conducente, la Ley de Adquisiciones, Arrendamiento y Enajenaciones, Servicios y Almacenes de la Administración Pública del Estado.
+Además de lo preceptuado por esta ley, se aplicará, en lo conducente, la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit.
 
 ### CAPÍTULO IV. De la enajenación de bienes inmuebles
 
@@ -3277,9 +3279,11 @@ V.- Realizar las licitaciones públicas conducentes; y
 
 VI.- Las demás que establece esta ley y las que determine el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2026)</small>
+
 ###### ARTICULO 196.
 
-Para lo no previsto en esta ley, se aplicará supletoriamente la Ley de Adquisiciones, Arrendamientos y Enajenaciones; Servicios y Almacenes de la Administración Pública Estatal.
+Para lo no previsto en esta ley, se aplicará supletoriamente la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit.
 
 TÍTULO DECIMOSEGUNDO
 
@@ -4229,6 +4233,8 @@ Ratificada la petición, la Asamblea Legislativa o a la Diputación Permanente e
 
 Emitido el acuerdo de trámite de la comisión o comisiones competentes que declare la iniciación del procedimiento, se observarán las siguientes disposiciones generales:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE AGOSTO DE 2026)</small>
+
 I.- Los plazos comenzarán a correr al día siguiente al que surta sus efectos la notificación, incluyéndose en ellos el día del vencimiento;
 
 II.- Las resoluciones deberán notificarse al día siguiente en el que se hubieren pronunciado, mediante oficio o acuerdo entregado en el domicilio de las partes, por conducto de persona autorizada o por correo certificado con acuse de recibo. En casos urgentes se ordenará que la notificación se haga por vía telegráfica;
@@ -4239,17 +4245,23 @@ IV.- Los peticionarios podrán ofrecer todo tipo de pruebas, excepto la de posic
 
 La documental podrá admitirse con anterioridad, sin perjuicio de que se haga relación de ella en la propia audiencia y se tenga como recibida en ese acto. En ningún caso se admitirán más de dos testigos por cada hecho, narrando de manera espontánea sobre lo que sabe en relación al conflicto, pudiendo los integrantes de la Comisión interrogarlos ampliamente, no admitiendo las preguntas y repreguntas a las partes.
 
-A fin de que las partes puedan rendir sus pruebas, todas las autoridades tienen el deber de expedirles oportunamente las copias o documentos que soliciten y, en caso contrario, pedirán a la Comisión que requiera a los omisos;
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2026)</small>
 
-V.- La Comisión deberá notificar a los denunciados, para que dentro del término de cinco días expresen lo que a su interés legal convenga y ofrezcan pruebas.
+A fin de que las partes puedan rendir sus pruebas, todas las autoridades tienen el deber de expedirles oportunamente las copias o documentos que soliciten y, en caso contrario, pedirán a la Comisión que requiera a las personas que hubieren sido omisas;
 
-Para el emplazamiento deberá aplicarse supletoriamente lo dispuesto en el Código de Procedimientos Civiles del Estado;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2026)</small>
+
+V.- La Comisión deberá notificar a los denunciados, para que dentro del término de cinco días expresen lo que a su interés legal convenga y ofrezcan pruebas. Para el emplazamiento deberá aplicarse supletoriamente lo dispuesto en el Código de Procedimientos Civiles del Estado;
 
 VI.- Habiendo trascurrido el plazo para los efectos de la fracción anterior, la Comisión señalará fecha para la audiencia de desahogo de pruebas, misma que deberá verificarse dentro de los quince días siguientes. La Comisión podrá ampliar el término de la celebración de la audiencia, cuando la importancia y trascendencia del asunto así lo amerite.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE AGOSTO DE 2026)</small>
+
 La Comisión podrá allegarse de oficio, de todos los elementos de pruebas que considere necesarios para proveer de mejor manera;
 
-VII.- Desahogada en su totalidad las pruebas, se deberán presentar los alegatos por escrito dentro de los seis días contados a partir de que la comisión declare concluida la audiencia de desahogo de pruebas;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2026)</small>
+
+VII.- Desahogadas en su totalidad las pruebas, se deberán presentar los alegatos por escrito dentro de los seis días contados a partir de que la comisión declare concluida la audiencia de desahogo de pruebas, y
 
 VIII.- Presentadas o no las pruebas o alegatos, se procederá a formular las conclusiones dentro de los cinco días hábiles siguientes y se turnarán al pleno del Congreso, para que éste, dentro del plazo de los diez días hábiles siguientes, emita el fallo correspondiente, en sesión pública.
 
@@ -4331,7 +4343,9 @@ TÍTULO DÉCIMONOVENO
 
 Los conflictos que surjan entre los municipios o entre éstos y el Poder Ejecutivo, serán resueltos por el Congreso del Estado, a excepción de lo previsto por el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Federal reglamentaria, conforme el siguiente procedimiento:
 
-I.- El Congreso del Estado recibirá, por conducto de su Secretaría General, el escrito que contenga la solicitud de intervención para resolver el conflicto, el cual podrá ser planteado por el Ejecutivo del estado o el Ayuntamiento o Ayuntamientos involucrados en el asunto de que se trate. El escrito deberá contener, cuando menos, los requisitos y documentos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE AGOSTO DE 2026)</small>
+
+I.- El Congreso del Estado recibirá, por conducto de su Secretaría General, el escrito que contenga la solicitud de intervención para resolver el conflicto, el cual podrá ser planteado por la persona titular del Ejecutivo del Estado o el Ayuntamiento o Ayuntamientos involucrados en el asunto de que se trate. El escrito deberá contener, cuando menos, los requisitos y documentos siguientes:
 
 a) Denominación y domicilio de la autoridad que presenta la solicitud;
 
@@ -4343,13 +4357,19 @@ d) Pruebas documentales y ofrecimiento de las demás que sean procedentes confor
 
 e) Especificación de la materia del conflicto;
 
-f) En su caso, fundamentos legales en que basen su razón; y
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2026)</small>
 
-g) Lugar, fecha y firma del funcionario competente.
+f) En su caso, fundamentos legales en que basen su razón, y
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2026)</small>
+
+g) Lugar, fecha y firma de la persona funcionaria competente.
 
 II.- Una vez recibida la solicitud, se citará a los firmantes de la misma, para que dentro del término de cinco días, contados a partir de la recepción de la notificación respectiva, concurran al Congreso del Estado a ratificarle;
 
-III.- Ratificada que sea la solicitud, se turnará al pleno del Congreso del Estado o, en sus recesos, a la Diputación Permanente, para que dé cuenta del mismo en la sesión próxima inmediata. El Presidente la turnará a la comisión correspondiente para su estudio y dictamen;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2026)</small>
+
+III.- Ratificada que sea la solicitud, se turnará al pleno del Congreso del Estado o, en sus recesos, a la Diputación Permanente, para que dé cuenta del mismo en la sesión próxima inmediata. La Presidenta o el Presidente la turnará a la comisión correspondiente para su estudio y dictamen;
 
 IV.- La comisión citada correrá traslado con la solicitud y documentos anexos a las partes en conflicto, las que contarán con un término de diez días naturales para contestar lo que a su derecho convenga, acompañar las pruebas documentales que consideren procedentes de ofrecer de entre las que deban desahogarse. En caso de no dar contestación dentro del término señalado, se asentará tal razón en el expediente y se continuará el procedimiento sin su intervención;
 
@@ -4800,3 +4820,9 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto p
 TERCERO. En un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor del presente instrumento, los Ayuntamientos de la entidad deberán realizar las armonizaciones a sus respectivos reglamentos y demás normativa interna aplicable, en los términos previstos en el presente Decreto.
 
 CUARTO. Comuníquese el presente Decreto a los Ayuntamientos de la Entidad, para los efectos conducentes.
+
+P.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE CON PERSPECTIVA DE GÉNERO, FORTALECER EL ENFOQUE DE DERECHOS HUMANOS Y ACTUALIZAR SUS DENOMINACIONES".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
