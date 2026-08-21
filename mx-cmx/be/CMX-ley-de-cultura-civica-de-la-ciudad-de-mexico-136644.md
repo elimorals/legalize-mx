@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-136644"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2026-07-23"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136644&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-06-07"
 
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2026.
 
 Ley publicada en el Número 108 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 7 de junio de 2019.
 
@@ -754,7 +754,9 @@ Infracciones tipo A, se sancionarán con una multa por el equivalente de 1 a 10 
 
 Infracciones tipo B, se sancionarán con multa equivalente de 11 a 40 Unidades de Medida, o arresto de 13 a 24 horas o trabajo en favor de la comunidad de 6 a 12 horas.
 
-Infracciones tipo C, se sancionarán con una multa equivalente de 21 a 30 Unidades de Medida, o arresto de 25 a 36 horas o trabajo comunitario de 12 a 18 horas;
+> <small>(REFORMADO, G.O. 21 DE AGOSTO DE 2026)</small>
+
+Infracciones tipo C, se sancionarán con una multa equivalente de 21 a 50 Unidades de Medida, o arresto de 25 a 36 horas o trabajo comunitario de 12 a 18 horas;
 
 Infracciones tipo D, se sancionarán con arresto de 20 a 36 horas o de 10 a 18 horas de trabajo en favor de la comunidad;
 
@@ -800,9 +802,13 @@ II, XI, XV, XVI, XVII y IX D
 
 28 BIS I, II, III y IV F
 
-29 I, II, III, IV, V, y VII B
+> <small>(REFORMADO, G.O. 21 DE AGOSTO DE 2026)</small>
 
-VI, VIII y XV D
+29 I, II, V, y VII B
+
+> <small>(REFORMADO, G.O. 21 DE AGOSTO DE 2026)</small>
+
+III, IV, VI, VIII y XV D
 
 IX, X, XI, XII, XIII y XIV C
 
@@ -1961,3 +1967,17 @@ G.O. 23 DE JULIO DE 2026.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL PÁRRAFO RELATIVO A LAS INFRACCIONES TIPO C DEL ARTÍCULO 31; Y SE REFORMA EL CUADRO CONTENIDO EN EL ARTÍCULO 32, EN LO RELATIVO AL ARTÍCULO 29, FRACCIONES III Y IV, DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Consejería Jurídica y de Servicios Legales de la Ciudad de México realizará, en el ámbito de sus atribuciones, las adecuaciones administrativas necesarias para la correcta aplicación del presente Decreto.
+
+CUARTO. Las autoridades competentes en materia de justicia cívica deberán aplicar el presente Decreto conforme a los principios de legalidad, proporcionalidad, certeza jurídica, debido proceso, fundamentación, motivación y respeto a los derechos humanos de las personas probables infractoras.
+
+QUINTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
