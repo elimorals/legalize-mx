@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-junta-federal-de-conciliacion-y-95203
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-31"
-last_updated: "2024-05-21"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95203&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,11 @@ issue_date: "2013-05-23"
 
 [NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2. [N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA: https://www.gob.mx/jfca/documentos/reglamento-interior-de-la-junta-federal-deconciliacion-y-arbitraje-abril-2024?idiom=es.]
+[NOTA 2. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2026/STPS/RIJFCA.pdf.]
 
 REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 21 DE MAYO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE AGOSTO DE 2026.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de julio de 2013.
 
@@ -69,7 +67,7 @@ VII. Presidentas o Presidentes de Junta Especial: Las Presidentas o los Presiden
 
 VIII. Secretaría: La Secretaría del Trabajo y Previsión Social.
 
-> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 4.
 
@@ -109,6 +107,8 @@ Dirección de Recursos Humanos, Financieros, Materiales y Servicios Generales
 
 Dirección de Evaluación y Archivos
 
+Dirección de Control Documental
+
 Oficinas Auxiliares de la Junta
 
 Funcionarias o Funcionarios Conciliadores
@@ -123,7 +123,7 @@ Secretarias o Secretarios de Acuerdos
 
 Actuarias o Actuarios
 
-Las servidoras o servidores públicos que integran el personal jurídico y administrativo de la Junta, contarán con las facultades de decisión, dirección, vigilancia y supervisión inherentes a su cargo, como lo establece la Ley y el presente Reglamento Interior.
+Las servidoras o servidores públicos que integran el personal jurídico y administrativo de la Junta contarán con las facultades de decisión, dirección, vigilancia y supervisión inherentes a su cargo, como lo establece la Ley y el presente Reglamento Interior.
 
 Asimismo, para el adecuado cumplimiento de sus funciones contará con el demás personal necesario de acuerdo con el presupuesto asignado.
 
@@ -985,7 +985,7 @@ VII. Mantener actualizado el registro y control de las audiencias incidentales y
 
 ### CAPÍTULO X. De las Direcciones de Área
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 33.
 
@@ -995,9 +995,7 @@ I. Dirigir, controlar y evaluar el funcionamiento de las áreas que se le adscri
 
 II. Acordar con su superior jerárquico el desarrollo de las actividades propias del área y el despacho de los asuntos que estén bajo su responsabilidad;
 
-> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
-
-III. Diseñar y presentar para aprobación de la Coordinación General de Administración, los estudios, proyectos, programas y disposiciones de carácter específicas a aplicarse en el área respectiva;
+III. Diseñar y presentar para aprobación de su superior jerárquico, los estudios, proyectos, programas y disposiciones de carácter específicas a aplicarse en el área respectiva;
 
 IV. Proporcionar información respecto de las obligaciones de transparencia, rendición de cuentas, y acceso a la información pública en los términos de la normatividad aplicable;
 
@@ -1005,9 +1003,7 @@ V. Cumplir con lo establecido en los manuales administrativos de organización y
 
 VI. Aplicar la plataforma informática instalada para ser más eficientes los procesos a cargo del área, y
 
-> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
-
-VII. Las demás que le asigne la Coordinación General de Administración en atención a los acuerdos del Pleno o las instrucciones de la Presidenta o el Presidente de la Junta, en el ámbito de sus respectivas competencias.
+VII. Las demás que le asigne su superior jerárquico, en atención a los acuerdos del Pleno o las instrucciones de la Presidenta o el Presidente de la Junta, en el ámbito de sus respectivas competencias.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
 
@@ -1226,6 +1222,32 @@ XIII. Las demás que le asigne su superior jerárquico, en el ámbito de sus res
 ###### Artículo 38.
 
 (DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2020)
+
+> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2026)</small>
+
+De la Dirección de Control Documental
+
+> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2026)</small>
+
+###### Artículo 38 Bis.
+
+Corresponde a la Dirección de Control Documental:
+
+I. Gestionar los asuntos que son competencia de la Presidenta o el Presidente de la Junta;
+
+II. Realizar las acciones de recepción, distribución y archivo de la documentación que competa a la Presidenta o el Presidente de la Junta;
+
+III. Integrar y mantener permanente actualizado el registro y control de los asuntos turnados por las diversas áreas de la Junta para la atención de la Presidenta o el Presidente de la Junta;
+
+IV. Compilar y sistematizar la información y los antecedentes de los diversos asuntos que se presenten a la Presidenta o el Presidente de la Junta;
+
+V. Gestionar los asuntos relacionados con las comisiones de coordinación interna que constituya la Presidenta o el Presidente de la Junta;
+
+VI. Integrar la información necesaria para la presentación de reportes de trabajo, incluyendo el seguimiento de reuniones y acuerdos adoptados por parte de la de la (sic) Presidenta o el Presidente de la Junta;
+
+VII. Elaborar y presentar propuestas a la Presidenta o el Presidente de la Junta de la información que requiera para su participación en eventos públicos, discursos o presentaciones;
+
+VIII. Las demás que le asigne su superior jerárquico, en el ámbito de sus respectivas competencias.
 
 ### CAPÍTULO XI. De las Funcionarias o los Funcionarios Conciliadores
 
@@ -1784,3 +1806,23 @@ Primero. - El presente Reglamento entrará en vigor al día siguiente de su publ
 Segundo. - Se abroga el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje publicado en el Diario Oficial de la Federación el día veintiuno de febrero de dos mil veinticuatro; y se derogan todas las disposiciones que se opongan al presente Reglamento.
 
 Tercero. - Las áreas de la Junta con denominación nueva a la que aparece en el Reglamento que se abroga o con competencia en asuntos que correspondían a otras áreas o unidades, se harán cargo de los mismos a partir de la entrada en vigor del presente Reglamento y hasta su total resolución.
+
+D.O.F. 21 DE AGOSTO DE 2026.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO MEDIANTE EL CUAL SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN LAS QUE SE PODRÁ CONSULTAR EL REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO]</small>
+
+ÚNICO.- Se dan a conocer las direcciones electrónicas en las que se podrá consultar el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje vigente, el cual contiene las reformas y adiciones aprobadas por el Pleno de la Junta Federal de Conciliación y Arbitraje, en la sesión de 4 de junio de 2026, siendo las siguientes:
+
+- https://www.gob.mx/jfca/documentos/reglamento-interior-de-la-junta-federal-de-conciliacion-y-arbitrajejunio-2026?idiom=es
+
+- www.dof.gob.mx/2026/STPS/RIJFCA.pdf
+
+## TRANSITORIOS
+
+PRIMERO.- El Reglamento a que hace referencia el presente Aviso entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deja sin efectos el AVISO General mediante el cual se da a conocer la dirección electrónica en la cual podrá ser consultado el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje, publicado en el Diario Oficial de la Federación el 16 de mayo de 2024.
+
+## [N. DE E. TRANSITORIO DEL "REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE".]
+
+Único.- Las modificaciones y adiciones al presente Reglamento entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
