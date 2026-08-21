@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-de-la-competitividad-de-la-micro-68070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2025-12-24"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68070&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2009-04-22"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE AGOSTO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de abril de 2009.
 
@@ -306,13 +306,17 @@ VII. Consolidación de oferta exportable;
 
 VIII. Información general en materia económica acorde a las necesidades de las MIPYMES;
 
-IX. Fomento para el desarrollo sustentable en el marco de la normativa ecológica aplicable, y
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+IX. Fomento para el desarrollo sustentable en el marco de la normativa ecológica aplicable;
 
-X. Canalización de recursos de fondos federales para la adquisición de maquinaria y equipo de las MIPYMES de la Ciudad de México.
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2026)</small>
 
-Adicionalmente, el consejo, propondrá a la Secretaría esquemas para facilitar a ésta el acceso al financiamiento público y privado a las MIPYMES y determinará los mecanismos para la obtención de créditos para su crecimiento y competitividad.
+X. Canalización de recursos de fondos federales para la adquisición de maquinaria y equipo de las MIPYMES de la Ciudad de México;
+
+> <small>(REFORMADO, G.O. 21 DE AGOSTO DE 2026)</small>
+
+Adicionalmente, el consejo, propondrá a la Secretaría esquemas para facilitar a ésta el acceso al financiamiento público y privado de las MIPYMES y determinará los mecanismos para la obtención de créditos para su crecimiento y competitividad, así como para la promoción del desarrollo productivo de las MIPYMES o industrias Innovadoras, creativas y competitivas creadas por personas jóvenes, de conformidad con la disponibilidad presupuestaria y con lo previsto por la legislación.
 
 ###### Artículo 12.
 
@@ -348,7 +352,7 @@ IX. Proponer a través de las instancias competentes, la homologación de la nor
 
 X. Diseñar un esquema de seguimiento e identificación de resultados de los Programas de apoyo establecidos por el Gobierno de la Ciudad de México, y
 
-> <small>(REFORMADA [N. DE. E. REPUBLICADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 21 DE AGOSTO DE 2026)</small>
 
 XI. Diseñar la instrumentación de convenios de coordinación con Instituciones Superiores Públicas y Colegios de Profesionistas especialistas en el ramo, a efecto de que estos elaboren los estudios de viabilidad técnica, económica y financiera de los proyectos para los cuales se soliciten los apoyos y entrega del FONDO PyME.
 
@@ -647,3 +651,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La reglamentación que derive de las modificaciones en esta Ley, deberá ser expedidas dentro de los ciento ochenta días hábiles siguientes a su entrada en vigor.
 
 CUARTO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES IX Y X DEL ARTÍCULO 11, LA FRACCIÓN XI DEL ARTÍCULO 12; Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 11, TODOS DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DE LA CIUDAD DE MÉXICO Y SE REFORMA EL ARTÍCULO 16 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
