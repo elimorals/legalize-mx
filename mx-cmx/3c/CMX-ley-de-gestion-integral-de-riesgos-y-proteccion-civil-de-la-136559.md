@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-gestion-integral-de-riesgos-y-proteccion-civil-de-la-136
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-05"
-last_updated: "2026-07-22"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136559&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-06-05"
 
 LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE AGOSTO DE 2026.
 
 Ley publicada en Número 106 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 5 de junio de 2019.
 
@@ -159,6 +159,10 @@ XXIX) Gestión Integral de Riesgos: Proceso de planeación, participación, eval
 XXX) Grupos Voluntarios: Son aquellas personas físicas o morales acreditadas ante la Secretaría, que cuentan con personal, conocimientos, experiencia y equipo necesario para prestar de manera altruista y comprometida sus servicios, en acciones de Gestión Integral de Riesgos y de Protección Civil;
 
 XXXI) Identificación de Riesgos: Es el reconocimiento y valoración de los daños y pérdidas probables y su distribución geográfica, a través del análisis de los peligros, las condiciones de Vulnerabilidad y los Sistemas Expuestos; incluye el análisis de las causas y factores que han contribuido a la generación de Riesgos, así como escenarios probables;
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+XXXI BIS) Instalación de aprovechamiento de gas: Conjunto de tuberías, accesorios, dispositivos y equipos destinados al suministro, conducción, control y utilización de gas dentro de un establecimiento mercantil, industrial o inmueble, de conformidad con las Normas Oficiales Mexicanas y demás disposiciones aplicables en materia de gas L.P. y gas natural.
 
 XXXII) Instrumentos de la Gestión Integral de Riesgos y Protección Civil: Herramientas e información utilizadas en la prevención, diagnóstico y atención de emergencias o desastres, empleadas por el Sistema;
 
@@ -432,7 +436,9 @@ XVI) Promover la cultura de Gestión Integral de Riesgos y Protección Civil, pr
 
 XVII) Elaborar los Programas Específicos, frente al peligro provocado por los diferentes tipos de Fenómenos Perturbadores;
 
-XVIII) (DEROGADA, G.O. 2 DE MARZO DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE AGOSTO DE 2026)</small>
+
+XVIII) Promover acciones, programas, campañas y mecanismos orientados a la prevención y reducción de riesgos asociados al uso de gas L.P. y gas natural en establecimientos mercantiles, industriales e inmuebles ubicados en la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -472,7 +478,9 @@ XXVIII) Solicitar a la Jefatura de Gobierno la emisión de las Declaratorias de 
 
 XXIX) Auxiliar a la Jefatura de Gobierno, en la resolución de las solicitudes de Declaratorias de Emergencia o Desastre de las Alcaldías; Determinar, en los términos de las Reglas de Operación, la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de emergencias y desastres, debiendo informar al Consejo sobre el destino de los recursos erogados;
 
-XXX) (DEROGADA, G.O. 2 DE MARZO DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE AGOSTO DE 2026)</small>
+
+XXX) Fomentar la adopción de medidas de seguridad en instalaciones de gas L.P. y gas natural mediante el uso de dispositivos de detección y seguridad activa.
 
 XXXI) Establecer las bases de operación de instancias, mecanismos, instrumentos y procedimientos de carácter técnico operativo, servicios y logística que permitan prevenir y atender la eventualidad de un desastre;
 
@@ -506,9 +514,9 @@ XLIII) Realizar estudios y análisis de Resiliencia territorial y comunitaria;
 
 XLIV) Establecer los criterios de evaluación de desempeño técnico para el Sistema, así como de las Unidades de Gestión Integral de Riesgos y Protección Civil;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2026)</small>
 
-XLIV BIS) Expedir las normas técnicas en materia de refugios temporales, centros de acopio y las demás necesarias en la materia.
+XLIV BIS) Expedir las normas técnicas en materia de refugios temporales y albergues, centros de acopio, instalaciones temporales eléctricas y de gas LP, así como las demás necesarias en materia de Gestión Integral de Riesgos y Protección Civil.
 
 > <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -518,9 +526,9 @@ XLIV TER) Elaborar y Publicar el formato de la Carta de Corresponsabilidad de lo
 
 XLIV QUATER) Registrar y revisar aleatoriamente, a través de la Plataforma Digital, los Programas Internos, así como los Programas Especiales de aquellos eventos que organice el Gobierno de la Ciudad de México o de aquellos eventos que se lleven a cabo en dos o más alcaldías;
 
-> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2026)</small>
 
-XLIV QUINTUS) Verificar o inspeccionar a los establecimientos mercantiles que conforme a la Ley de Establecimientos Mercantiles de la Ciudad de México sean de impacto zonal y cuyo aforo supere más de 100 personas y más de 250 metros cuadrados de construcción; así como establecimientos industriales de alto riesgo, y en cualquier caso de emergencia o riesgo inminente; y
+XLIV QUINTUS) Verificar o inspeccionar a los establecimientos mercantiles que conforme a la Ley de Establecimientos Mercantiles de la Ciudad de México sean de impacto zonal o vecinal y cuyo aforo sea igual o superior a 100 personas y cuya superficie total de construcción sea igual o superior a 250 metros cuadrados, así como estaciones de servicio, establecimientos industriales y en cualquier caso de emergencia o riesgo inminente; y
 
 XLV) Las demás que la presente Ley, así como otras disposiciones le asignen.
 
@@ -1270,6 +1278,10 @@ VIII. Carta de Responsabilidad; y
 
 IX. Carta de Corresponsabilidad debidamente signada por el Responsable Oficial de Protección Civil.
 
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2026)</small>
+
+X. Cuando los establecimientos mercantiles, industriales o inmuebles cuenten con instalaciones de aprovechamiento de gas L.P. o gas natural, la identificación de los riesgos asociados a dichas instalaciones y las medidas de prevención, mitigación y actuación correspondientes, las cuales podrán considerar dispositivos de detección y seguridad activa y demás medidas preventivas previstas en las Normas Oficiales Mexicanas, Normas Técnicas y demás disposiciones aplicables.
+
 Los documentos adicionales que deban anexarse y que formarán parte del Programa Interno se establecerán en el Reglamento y en los Términos de Referencia que al efecto se expidan.
 
 La falta de existencia de la Carta de Corresponsabilidad será causal para que el Programa Interno no sea registrado.
@@ -1362,9 +1374,11 @@ En caso que durante una visita de verificación al establecimiento mercantil se 
 
 Los programas internos a revisar serán seleccionados de la Plataforma Digital de forma aleatoria.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 21 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 66.
 
-(DEROGADO, G.O. 2 DE MARZO DE 2021)
+Se entiende por dispositivos de detección y seguridad activa a aquellos instrumentos tecnológicos instalados en establecimientos mercantiles, industriales o inmuebles, tales como detectores de fugas con alarma sonora, válvulas de exceso de flujo y válvulas de corte sísmico, destinados a detectar y alertar sobre riesgos, o a mitigarlos de forma automática.
 
 > <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
 
@@ -2830,6 +2844,10 @@ Las Alcaldías y la Secretaría, ambas en el ámbito de sus atribuciones, ordena
 
 El procedimiento de verificación administrativa se llevará a cabo conforme a lo establecido en la Ley de Procedimiento Administrativo de la Ciudad de México, la Ley del Instituto de Verificación Administrativa de la Ciudad de México, el reglamento de verificación administrativa vigente y aplicable en la Ciudad de México y demás disposiciones jurídicas y administrativas que resulten aplicables.
 
+> <small>(ADICIONADO, G.O. 21 DE AGOSTO DE 2026)</small>
+
+En las visitas de verificación a los sujetos obligados a contar con Programa Interno de Protección Civil que posean instalaciones de aprovechamiento de gas L.P. o gas natural, la visita podrá comprender la revisión documental del dictamen de instalaciones de gas a que refieren las normas oficiales mexicanas en la materia, así como la revisión física de las mismas.
+
 > <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 211.
@@ -3247,3 +3265,23 @@ G.O. 22 DE JULIO DE 2026.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 14, FRACCIONES XVIII, XXX, XLIV BIS) Y XLIV QUINTUS) Y 66, Y SE ADICIONAN LA FRACCIÓN XXXI BIS) AL ARTÍCULO 2, LA FRACCIÓN X AL ARTÍCULO 60, Y UN TERCER PÁRRAFO AL ARTÍCULO 210 DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México contará con un plazo de hasta ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para emitir, adecuar o actualizar las disposiciones reglamentarias, lineamientos y programas preventivos que resulten necesarios para su correcta implementación, en el ámbito de sus atribuciones.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal y subsecuentes.
+
+QUINTO. Los Programas Internos de Protección Civil que se encuentren en trámite o vigentes a la entrada en vigor del presente Decreto deberán adecuarse a las nuevas disposiciones en la materia en su siguiente actualización o refrendo, conforme a los plazos y términos que establezcan las disposiciones reglamentarias aplicables.
+
+SEXTO. La Secretaría de Gestión Integral de Riesgos y Protección Civil actualizará, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, sus cursos y materiales de capacitación dirigidos a establecimientos mercantiles de bajo riesgo, a efecto de incorporar contenidos sobre uso seguro, manejo y mantenimiento de instalaciones de gas L.P. y gas natural. La Secretaría informará al Congreso de la Ciudad de México sobre el cumplimiento de esta disposición.
+
+SÉPTIMO. La Secretaría de Gestión Integral de Riesgos y Protección Civil promoverá la suscripción de convenios de concertación con las empresas distribuidoras de gas L.P. y gas natural que operan en la Ciudad de México, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, a efecto de que dichas empresas incluyan en sus comprobantes, notas de servicio o medios de comunicación con sus usuarios, recomendaciones sobre la revisión periódica de instalaciones y el uso de dispositivos de detección y seguridad activa.
+
+OCTAVO. La Secretaría de Gestión Integral de Riesgos y Protección Civil establecerá mecanismos de coordinación con la Secretaría de Vivienda de la Ciudad de México, a través de la unidad administrativa competente en materia de unidades habitacionales, para la difusión de información preventiva y el acompañamiento técnico en materia de seguridad de las instalaciones de gas L.P. y gas natural en unidades habitacionales, atendiendo prioritariamente a aquellas de interés social y de mayor antigüedad.
