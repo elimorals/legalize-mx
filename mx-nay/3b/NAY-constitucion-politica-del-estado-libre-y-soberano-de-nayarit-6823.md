@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2026-07-09"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1381,13 +1381,17 @@ I. Dictaminar sobre todos los asuntos pendientes al tiempo de receso, y proveer 
 
 II. Convocar a periodo extraordinario de sesiones para la designación del Gobernador interino o sustituto, según corresponda.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE AGOSTO DE 2026)</small>
 
-III. En su caso, designar y tomar la protesta del Fiscal General y del Secretario de Seguridad Pública que haga el Gobernador conforme a esta Constitución y a las leyes aplicables.
+III. En su caso, designar y tomar la protesta de la persona titular de la Fiscalía General y de la persona titular de la Secretaría de Seguridad y Protección Ciudadana que haga el Gobernador o Gobernadora conforme a esta Constitución y a las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2026)</small>
 
-Asimismo, conceder licencias con goce de sueldo o sin él, al propio Gobernador, a los Magistrados, jueces y miembros del Tribunal de Disciplina Judicial del Poder Judicial del Estado, a los Diputados y a los empleados dependientes de la Legislatura.
+Asimismo, conceder licencias con goce de sueldo o sin él, al propio Gobernador o Gobernadora, a las Magistradas y Magistrados, Juezas y Jueces y miembros del Tribunal de Disciplina Judicial del Poder Judicial del Estado, a las Diputadas y Diputados y a los empleados dependientes de la Legislatura.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2026)</small>
+
+En el caso de las Magistradas y Magistrados, Juezas y Jueces, y miembros del Tribunal de Disciplina Judicial del Poder Judicial del Estado, designar y tomar la protesta correspondiente en los términos del artículo 87 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
@@ -2091,15 +2095,11 @@ El Presidente:
 
 La o el Secretario General de Acuerdos y demás servidores que señale la Ley Orgánica del Poder Judicial, protestarán ante el Pleno correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2026)</small>
 
 ###### Art. 87.
 
-Cuando la falta de una Magistrada o Magistrado y Jueza o Juez excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
+Cuando la falta de una Magistrada o Magistrado y Jueza o Juez excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso o la Diputación Permanente en su caso, tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
 
@@ -5140,3 +5140,11 @@ P.O. 9 DE JULIO DE 2026.
 PRIMERO. El presente Acuerdo entrará en vigor a partir de su aprobación, debiéndose publicar en la Gaceta Parlamentaria del Honorable Congreso del Estado de Nayarit.
 
 SEGUNDO. Para los efectos de su promulgación y publicación en el Periódico Oficial, Órgano del Gobierno del Estado, remítase al Titular del Poder Ejecutivo del Estado el Decreto respectivo, incluyendo el presente cómputo para los efectos correspondientes.
+
+P.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE FACULTADES DE LA DIPUTACIÓN PERMANENTE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
