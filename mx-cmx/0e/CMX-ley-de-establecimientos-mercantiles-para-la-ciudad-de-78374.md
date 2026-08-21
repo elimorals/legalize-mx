@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2026-07-23"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -1704,6 +1704,12 @@ a) Autoservicio.- Responsabilidad por robo o daño, total o parcial, del vehícu
 
 b) Acomodadores de vehículos, motocicletas o bicicletas.- Responsabilidad por robo o daño, total o parcial del vehículo, motocicleta o bicicleta; robo o daño, total o parcial, de accesorios o bienes mostrados y registrados en el boleto a la entrega del vehículo, motocicleta o bicicleta al titular u operador; e incendio del inmueble donde se depositó el vehículo, motocicleta o bicicleta, cuando estos sean atribuibles al titular u operador.
 
+> <small>(ADICIONADO [N. DE E. CON EL PÁRRAFO QUE LO INTEGRA], G.O. 21 DE AGOSTO DE 2026)</small>
+
+Las personas titulares de estacionamientos públicos deberán exhibir, en un lugar visible a la entrada del establecimiento, un letrero con la siguiente leyenda:
+
+"Este establecimiento cuenta con seguro de responsabilidad civil o fianza vigente para la protección de las personas usuarias y sus vehículos, en términos de la fracción IV del artículo 48 de la Ley de Establecimientos Mercantiles de la Ciudad de México."
+
 > <small>(REFORMADA, G.O. 29 DE MAYO DE 2023)</small>
 
 V. Cubrir el pago del deducible en todos los casos señalados en la fracción anterior, cuando sean atribuibles al titular u operador;
@@ -2493,3 +2499,13 @@ PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad
 SEGUNDO.- El presente Decreto entrará en vigor noventa días posteriores a su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 48 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las personas titulares de estacionamientos públicos contarán con un plazo de hasta 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, para dar cumplimiento a la obligación prevista en el último párrafo de la fracción IV del artículo 48 de la Ley de Establecimientos Mercantiles de la Ciudad de México, relativa a la colocación del letrero informativo correspondiente.
