@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-equilibrio-ecologico-y-proteccion-del-ambiente-del-2918"
 country: "mx"
 rank: "ley"
 publication_date: "1991-11-30"
-last_updated: "2025-07-10"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "BCS"
 ---
 # LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION DEL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 21 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN DEL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE AGOSTO DE 2026 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 30 de noviembre de 1991.
 
@@ -1830,3 +1832,19 @@ B.O. 10 DE JULIO DE 2025.
 PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE AL DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES LEGALES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+B.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley de Equilibrio Ecológico y Protección del Ambiente del Estado de Baja California Sur, publicada mediante Decreto 829 el 30 de noviembre de 1991 en el Boletín Oficial el Gobierno del Estado de Baja California Sur. Los recursos administrativos, procedimientos sancionadores, de inspección y vigilancia, así como los procesos para la declaratoria de áreas naturales protegidas o zonas de salvaguarda que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se sustanciarán y concluirán conforme a las disposiciones de la Ley que se abroga.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado y los Ayuntamientos emitirán en un plazo no mayor a 180 días hábiles contados a partir de la entrada en vigor de la presente Ley, las disposiciones reglamentarias necesarias, así como actualizaciones o modificaciones a su normatividad interna, para dar cumplimiento a las disposiciones establecidas en la presente Ley.
+
+CUARTO.- Las erogaciones motivo del presente decreto se cubrirán con partidas presupuestales autorizadas y aprobadas en el Presupuesto de Egresos para el Ejercicio Fiscal del Año 2026.
+
+QUINTO.- Para dar cumplimiento a lo dispuesto en los Artículos 241, 242 Y 243 de esta Ley, el Titular del Poder Ejecutivo y los Ayuntamientos, en un plazo no mayor a 60 días hábiles a partir de la entrada en vigor del presente Decreto, deberán emitir la Convocatoria Pública Abierta para la selección de los vocales representantes de los sectores educativo, privado y de organizaciones de la sociedad civil que integrarán la Comisión Estatal de Ecología y las Comisiones Municipales, respectivamente.
+
+Dicha convocatoria deberá publicarse en el Boletín Oficial del Gobierno del Estado, en los diarios de mayor circulación y en las plataformas digitales oficiales, garantizando los principios de máxima publicidad y transparencia previstos en el Acuerdo de Escazú.
