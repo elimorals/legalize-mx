@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-economico-de-la-ciudad-de-mexico-100211"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-10"
-last_updated: "2025-12-24"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100211&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-04-08"
 
 LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE AGOSTO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de abril de 2014.
 
@@ -172,9 +172,9 @@ XIV. Economía social y solidaria: Tiene como objeto establecer mecanismos para 
 
 XIV Bis. Emprendimiento: Acción de una persona física o moral para iniciar un proceso, para crear o transformar un proyecto de negocio en actividad productiva y empresarial, mediante de (sic) la creación o mejora de un producto o servicio, a partir de una propuesta innovadora, creativa o busque atender un problema específico.
 
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2026)</small>
 
-XIV Ter. Economía circular: Sistema económico que busca erradicar el valor destruido en las cadenas económicas y que parte de la disminución del consumo de materias primas vírgenes, con el objetivo de minimizar el desperdicio de materiales, completando las cadenas económicas y ambientales del flujo de recursos, garantizando reducir el impacto al ambiente derivado de las actividades económicas de fabricación y consumo a través de líneas de acción como la incorporación de productos de bajo impacto ambiental, la eficiencia energética, el rediseño de productos, el reciclaje, la creación de empleos y la dignificación de los mismos, la equidad social, la inclusión de los sectores vulnerados, el acceso universal a los derechos humanos fundamentales y el desarrollo de nuevas tecnologías;
+XIV Ter. Economía Circular: Modelo económico de Producción y Consumo sostenible que incluye soluciones sistémicas para el desarrollo económico, que disminuyen el impacto ambiental mediante ciclos técnicos y biológicos que permiten la permanencia y reintegración sustentable de los materiales de los productos a la economía, el cual tiene como principios rectores la eliminación de residuos y la contaminación, mantener productos y materiales en uso, así como regenerar los sistemas naturales;
 
 XV. Estímulos: Los instrumentos jurídicos, administrativos, fiscales y financieros que se emiten para promover y facilitar el desarrollo de las actividades económicas sujetas a fomento;
 
@@ -1067,3 +1067,13 @@ G.O. 24 DE DICIEMBRE DE 2025.
 PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE ECONOMÍA CIRCULAR DE LA CIUDAD DE MÉXICO, LA LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO Y LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
