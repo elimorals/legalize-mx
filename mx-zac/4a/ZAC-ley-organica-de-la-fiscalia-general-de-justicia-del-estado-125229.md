@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1252
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-30"
-last_updated: "2024-10-02"
+last_updated: "2026-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2026.
 
 Ley publicada en el Suplemento al Número 104 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2017.
 
@@ -237,6 +237,10 @@ IX. Promover la participación responsable de la sociedad civil, con el fin de q
 
 X. Las demás que establezca la Constitución, los Instrumentos Internacionales de Derechos Humanos, la Constitución del Estado, este ordenamiento y demás disposiciones aplicables.
 
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+XI. Promover la celebración de acuerdos o convenios con instituciones públicas o privadas que faciliten el cumplimiento de sus atribuciones o ayuden a incrementar los resultados de la procuración de justicia;
+
 Apartado B. Atribuciones en materia de justicia para adolescentes conforme al sistema creado para tal fin:
 
 I. Ejercitar las acciones legales en materia del Sistema Especializado de Justicia para Adolescentes, salvaguardando en todo momento el interés superior de la niñez, así como el de sus derechos;
@@ -299,9 +303,17 @@ III. En colaboración con el Secretariado Ejecutivo del Sistema Estatal de Segur
 
 IV. Promover la formación, actualización, especialización, certificación profesional y el mejoramiento de los sistemas administrativos y tecnológicos, con el objeto de que el desarrollo de la investigación y la persecución de los delitos se realice con eficacia;
 
-V. Elaborar, aplicar y evaluar los programas necesarios para lograr el mejor desempeño de sus funciones, y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-VI. Integrar información sobre delitos de violencia de género, violencia familiar, contra la libertad, seguridad sexual y contra la familia, además de concentrarlas en el Banco de Datos e Información sobre Violencia contra las Mujeres.
+V. Elaborar, aplicar y evaluar los programas necesarios para lograr el mejor desempeño de sus funciones;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+VI. Integrar información sobre delitos de violencia de género, violencia familiar, contra la libertad, seguridad sexual y contra la familia, además de concentrarlas en el Banco de Datos e Información sobre Violencia contra las Mujeres, y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+VII. Capacitar, actualizar y profesionalizar a su personal en materia de derechos humanos, de protocolos de actuación y atención por violencia y delitos contra las mujeres, así como en perfiles y patrones de conducta de víctimas y victimarios, sobre lineamientos para la recopilación adecuada de pruebas en la integración de carpetas de investigación y sobre cualquier otro tema que resulte necesario para la protección de los derechos de las mujeres.
 
 Apartado E. En el ejercicio de las atribuciones en materia de prevención del delito, la Fiscalía General se coordinará con las instituciones de seguridad pública para:
 
@@ -2172,3 +2184,11 @@ d) El Órgano Interno de Control deberá supervisar la observancia de las presen
 Artículo quinto. Los asuntos en trámite relacionados con hechos de corrupción presuntamente cometidos por servidores públicos de la Fiscalía General de Justicia del Estado de Zacatecas, que actualmente son del conocimiento de la Fiscalía Especializada en Combate a la Corrupción, serán remitidos a la Fiscalía Especializada en Asuntos Internos una vez que entre en funciones, para que se continúe con su debido trámite.
 
 Artículo sexto. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 22 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 334.- SE REFORMAN EL CÓDIGO FAMILIAR, EL CÓDIGO PENAL Y LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS, EN MATERIA DE DERECHOS DE LAS MUJERES, PREVENCIÓN Y COMBATE A LA VIOLENCIA".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
