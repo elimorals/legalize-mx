@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2026-07-18"
+last_updated: "2026-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -2231,9 +2231,9 @@ V. Violencia económica: Privación intencionada y no justificada legalmente de 
 
 VI. Violencia patrimonial: Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos, y
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-VII. Violencia vicaria, consistente en cualquier acto u omisión, por parte de la pareja o ex pareja sentimental de una mujer que inflija a personas con las que ésta tenga lazos de parentesco civil, por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo grado, un daño, menoscabo o sufrimiento de cualquier naturaleza con el propósito de causar perjuicio o daño psicológico, patrimonial, físico o de cualquier otra índole a la mujer;
+VII. Violencia a través de interpósita persona. Para efectos de lo previsto en el presente Capítulo, este tipo de violencia se entenderá conforme a la definición establecida en la Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Zacatecas;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
@@ -5482,3 +5482,11 @@ Se derogan todas aquellas disposiciones que contravengan el presente decreto.
 ###### ARTÍCULO TERCERO.
 
 Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
+
+P.O. 22 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 334.- SE REFORMAN EL CÓDIGO FAMILIAR, EL CÓDIGO PENAL Y LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS, EN MATERIA DE DERECHOS DE LAS MUJERES, PREVENCIÓN Y COMBATE A LA VIOLENCIA".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
