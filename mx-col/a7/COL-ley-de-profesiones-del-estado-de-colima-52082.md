@@ -4,7 +4,7 @@ identifier: "COL-ley-de-profesiones-del-estado-de-colima-52082"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-07"
-last_updated: "2022-04-16"
+last_updated: "2026-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LA LEY DE PROFESIONES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2026.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 7 de octubre de 2006.
 
@@ -249,691 +249,1381 @@ La lista de peritos profesionales será publicada anualmente por la Secretaría 
 
 Las Profesiones y Ramas Profesionales que requieren título para su ejercicio en el Estado, son aquellas derivadas de la conclusión de estudios de los niveles técnico, licenciatura, especialidad, maestría, doctorado o cualquier otro nivel o grado académico provenientes de la educación universitaria, normal, tecnológica o de diversa naturaleza que exista al amparo del Sistema Educativo Nacional.
 
-Entre otras, es obligatorio en el Estado tener Titulo Profesional para el ejercicio de las siguientes profesiones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ciencias con Especialidad en Matemáticas;
+De manera enunciativa mas no limitativa, será obligatorio en el Estado tener Título Profesional para el ejercicio de las siguientes profesiones:
 
-Licenciatura en Ciencias con Especialidad en Biología;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias Área Biotecnología;
+I. Licenciatura en Ciencias con Especialidad en Matemáticas;
 
-Doctorado en Ciencias Área Biotecnología;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ciencias con Especialidad en Física;
+II. Licenciatura en Ciencias con Especialidad en Biología;
 
-Licenciatura en Matemáticas;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Matemática Educativa;
+III. Maestría en Ciencias Área Biotecnología;
 
-Maestría en Ciencia;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ciencias Naturales;
+IV. Doctorado en Ciencias Área Biotecnología;
 
-Licenciatura en Biología;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Biología de la Producción con Especialidad en Microbiología;
+V. Licenciatura en Ciencias con Especialidad en Física;
 
-Maestría en Biotecnología;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Doctorado en Biotecnología;
+VI. Licenciatura en Matemáticas;
 
-Licenciatura en Física;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias y Bioquímica Ruminal;
+VII. Licenciatura en Matemática Educativa;
 
-Maestría en Ciencias de la Tierra;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Doctorado en Ciencia de la Tierra;
+VIII. Maestría en Ciencia;
 
-Licenciatura en Oceanología;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Oceanología Física;
+IX. Licenciatura en Ciencias Naturales;
 
-Licenciatura en Oceanología Química;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería Oceánica;
+X. Licenciatura en Biología;
 
-Maestría en Ciencias Fisiológicas con Especialidad en Fisiología;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Especialidad en el Área de Problemas de Aprendizaje;
+XI. Maestría en Biología de la Producción con Especialidad en Microbiología;
 
-Licenciatura en Educación Especial en el Área de Deficiencia Mental;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Media Especialidad Ciencias Naturales;
+XII. Maestría en Biotecnología;
 
-Licenciatura en Educación Media Especialidad en Lengua y Literatura Españolas;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Media Especialidad en Lengua Extranjera Inglés;
+XIII. Doctorado en Biotecnología;
 
-Licenciatura en Educación Especialidad en Física-Química;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ciencias con Área Terminal en Fisicoquímica;
+XIV. Licenciatura en Física;
 
-Licenciatura en Educación Media con Especialidad en Física y Química;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Media en el Área de Física Química;
+XV. Maestría en Ciencias y Bioquímica Ruminal;
 
-Licenciatura en Educación Media Especializado en Física Química;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Media Lengua Extranjera Inglés;
+XVI. Maestría en Ciencias de la Tierra;
 
-Licenciatura en Enseñanza de Lengua Inglesa;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ciencias de la Educación;
+XVII. Doctorado en Ciencia de la Tierra;
 
-Maestría en Ciencias Técnicas de la Educación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Filosofía;
+XVIII. Licenciatura en Oceanología;
 
-Maestría en Ciencia Fisiológicas con Especialidad en Farmacología;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Doctorado en Filosofía de la Educación;
+XIX. Licenciatura en Oceanología Física;
 
-Doctorado en Ciencias Fisiológicas con Especialidad en Farmacología;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en la Educación de Personas con Trastornos en la Audición y Lenguaje;
+XX. Licenciatura en Oceanología Química;
 
-Licenciatura en Educación Especialidad en el Área de Audición y Lenguaje;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Media Especialidad en Audición y Lenguaje;
+XXI. Licenciatura en Ingeniería Oceánica;
 
-Maestría en la Especialidad de Investigación Educativa;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias área Investigación Educativa;
+XXII. Maestría en Ciencias Fisiológicas con Especialidad en Fisiología;
 
-Licenciatura en Lengua y Literatura Española;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Letras;
+XXIII. Licenciatura en Educación Especialidad en el Área de Problemas de Aprendizaje;
 
-Licenciatura en Lengua Inglesa;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Lengua Extranjera (Inglés);
+XXIV. Licenciatura en Educación Especial en el Área de Deficiencia Mental;
 
-Licenciatura en Letras y Comunicación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Letras y Periodismo;
+XXV. Licenciatura en Educación Media Especialidad Ciencias Naturales;
 
-Licenciatura en Letras y Lingüística;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Letras y Docencia;
+XXVI. Licenciatura en Educación Media Especialidad en Lengua y Literatura Españolas;
 
-Licenciatura en Literatura y Comunicación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Lingüística;
+XXVII. Licenciatura en Educación Media Especialidad en Lengua Extranjera Inglés;
 
-Maestría en Literatura Hispanoamericana;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Media Especialidad Ciencias de la Educación;
+XXVIII. Licenciatura en Educación Especialidad en Física-Química;
 
-Licenciatura en Educación Media Especialidad Ciencias Sociales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Media Especialidad en Historia;
+XXIX. Licenciatura en Ciencias con Área Terminal en Fisicoquímica;
 
-Licenciatura en Educación Media Especialidad en Matemáticas;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Media en el Área de Matemáticas;
+XXX. Licenciatura en Educación Media con Especialidad en Física y Química;
 
-Licenciatura en Educación Media en el Área de Ciencias Naturales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Media con Especialidad en Ciencias Sociales;
+XXXI. Licenciatura en Educación Media en el Área de Física Química;
 
-Licenciatura en Educación Media Especialidad en Geografía;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Psicología;
+XXXII. Licenciatura en Educación Media Especializado en Física Química;
 
-Licenciatura en Psicología Social;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Psicología Clínica;
+XXXIII. Licenciatura en Educación Media Lengua Extranjera Inglés;
 
-Licenciatura en Psicopedagogía;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Psicología del Trabajo;
+XXXIV. Licenciatura en Enseñanza de Lengua Inglesa;
 
-Maestría en Ciencias área Psicología aplicada;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Profesor en Educación Primaria;
+XXXV. Licenciatura en Ciencias de la Educación;
 
-Profesor de Jardines de Niños;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Profesor de Educación Preescolar;
+XXXVI. Maestría en Ciencias Técnicas de la Educación;
 
-Licenciatura en Educación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Preescolar;
+XXXVII. Licenciatura en Filosofía;
 
-Licenciatura en Educación Primaria;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Básica;
+XXXVIII. Maestría en Ciencia Fisiológicas con Especialidad en Farmacología;
 
-Licenciatura como Profesor de Educación Media Especialidad Cívica y Social;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Media Especialidad Lengua y Literatura Española;
+XXXIX. Doctorado en Filosofía de la Educación;
 
-Licenciatura en Educación Media Especialidad Inglés;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Media Especialidad Física y Química;
+XL. Doctorado en Ciencias Fisiológicas con Especialidad en Farmacología;
 
-Licenciatura en Educación Media Especialidad En Biología;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Media Lengua Extranjera;
+XLI. Licenciatura en la Educación de Personas con Trastornos en la Audición y Lenguaje;
 
-Licenciatura en Educación Normal Especialidad Ciencias Sociales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Cívica Social;
+XLII. Licenciatura en Educación Especialidad en el Área de Audición y Lenguaje;
 
-Licenciatura en Educación Media Especialidad en Historia y Civismo;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Superior;
+XLIII. Licenciatura en Educación Media Especialidad en Audición y Lenguaje;
 
-Maestría en Educación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias Sociales;
+XLIV. Maestría en la Especialidad de Investigación Educativa;
 
-Maestría en Desarrollo Docente;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Doctorado en Ciencias Sociales;
+XLV. Maestría en Ciencias área Investigación Educativa;
 
-Especialidad en Educación Superior;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Especialidad en Enseñanza Superior;
+XLVI. Licenciatura en Lengua y Literatura Española;
 
-Especialidad en Enseñanza Media Superior;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Física;
+XLVII. Licenciatura en Letras;
 
-Licenciatura en Pedagogía;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Planeación y Administración Educativa;
+XLVIII. Licenciatura en Lengua Inglesa;
 
-Licenciatura en Sociología de la Educación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Especialidad en área de Audición y Lenguaje;
+XLIX. Licenciatura en Lengua Extranjera (Inglés);
 
-Licenciatura en Educación Especialidad para el área de Problemas de Aprendizaje;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Educación Especialidad con Especialidad (sic) en el área de Deficiencia Mental;
+L. Licenciatura en Letras y Comunicación;
 
-Maestría en Investigación Educativa;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias área Tecnología y Educación;
+LI. Licenciatura en Letras y Periodismo;
 
-Especialidad en Orientación Familiar;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Especialidad en Psicopedagogía;
+LII. Licenciatura en Letras y Lingüística;
 
-Especialidad en Orientación Educativa;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Profesor de Educación Media en el área de Matemáticas;
+LIII. Licenciatura en Letras y Docencia;
 
-Maestría en Historia Regional;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias área Geomática;
+LIV. Licenciatura en Literatura y Comunicación;
 
-Licenciatura como Médico Veterinario Zootecnista;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero Agrónomo Especialidad en Zootecnia;
+LV. Maestría en Lingüística;
 
-Maestría en Ciencias Área Ciencias Agrícolas Y Forestales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Acuacultura;
+LVI. Maestría en Literatura Hispanoamericana;
 
-Maestría en Ciencias Área Acuacultura;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Medicina Veterinaria y Zootecnia;
+LVII. Licenciatura en Educación Media Especialidad Ciencias de la Educación;
 
-Maestría en Ciencias Pecuarias;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Doctorado en Ciencias Pecuarias;
+LVIII. Licenciatura en Educación Media Especialidad Ciencias Sociales;
 
-Especialidad en Producción de Aves;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero Agrónomo;
+LIX. Licenciatura en Educación Media Especialidad en Historia;
 
-Licenciatura como Ingeniero Agrónomo Fitotecnista;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero Agrónomo Zootecnista;
+LX. Licenciatura en Educación Media Especialidad en Matemáticas;
 
-Licenciatura como Ingeniero Agrónomo en Fruticultura Tropical;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias Agrícolas y Forestales;
+LXI. Licenciatura en Educación Media en el Área de Matemáticas;
 
-Maestría en Ciencias en Agricultura;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias área Medicina del Deporte;
+LXII. Licenciatura en Educación Media en el Área de Ciencias Naturales;
 
-Doctorado en Ciencias Fisiológicas con Especialidad en Fisiología;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Médico Cirujano y Partero;
+LXIII. Licenciatura en Educación Media con Especialidad en Ciencias Sociales;
 
-Maestría en Ciencias Médicas;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias (Parasitología);
+LXIV. Licenciatura en Educación Media Especialidad en Geografía;
 
-Maestría en Ciencias con Especialidad en Medicina del Deporte;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Doctorado en Ciencias Médicas;
+LXV. Licenciatura en Psicología;
 
-Doctorado en Fisiología;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Doctorado en Ciencias Fisiológicas;
+LXVI. Licenciatura en Psicología Social;
 
-Especialidad en Medicina Familiar;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Especialidad en Salud Física Y Fisioterapia;
+LXVII. Licenciatura en Psicología Clínica;
 
-Licenciatura como Médico Cirujano Dentista;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Enfermería;
+LXVIII. Licenciatura en Psicopedagogía;
 
-Técnico en Enfermería General;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Enfermería;
+LXIX. Licenciatura en Psicología del Trabajo;
 
-Especialidad en Enfermería Quirúrgica;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero Topógrafo y Geodesta;
+LXX. Maestría en Ciencias área Psicología aplicada;
 
-Maestría en Ciencias Área Arquitectura;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería Mecánica Electricista;
+LXXI. Profesor en Educación Primaria;
 
-Licenciatura en Ingeniería en Comunicaciones y Electrónica;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias Área Telemática;
+LXXII. Profesor de Jardines de Niños;
 
-Licenciatura en Ciencias con Especialidad en Química;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería Química Metalúrgica;
+LXXIII. Profesor de Educación Preescolar;
 
-Licenciatura en Ingeniería Química en Alimentos;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería Electrónica en Computación;
+LXXIV. Licenciatura en Educación;
 
-Maestría en Ciencias Área Computación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería Civil;
+LXXV. Licenciatura en Educación Preescolar;
 
-Licenciatura en Arquitectura;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero Arquitecto en Asentamiento Humano;
+LXXVI. Licenciatura en Educación Primaria;
 
-Licenciatura en Ingeniero Topógrafo Geodesta;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura Como Ingeniero Topógrafo;
+LXXVII. Licenciatura en Educación Básica;
 
-Profesional Asociado en Construcción de Obras;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Arquitectura;
+LXXVIII. Licenciatura como Profesor de Educación Media Especialidad Cívica y Social;
 
-Maestría en Ciencias Área Ingeniería de la Construcción;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Especialidad en Ingeniería en Construcción;
+LXXIX. Licenciatura en Educación Media Especialidad Lengua y Literatura Española;
 
-Especialidad en Construcción de Obras Marítimas;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Metalurgia;
+LXXX. Licenciatura en Educación Media Especialidad Inglés;
 
-Maestría en Ciencias Área Ingeniería Sísmica;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería Mecánica;
+LXXXI. Licenciatura en Educación Media Especialidad Física y Química;
 
-Licenciatura como Ingeniero Electricista;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería en Electrónica y Comunicaciones;
+LXXXII. Licenciatura en Educación Media Especialidad En Biología;
 
-Licenciatura como Ingeniero Mecánico Electricista;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero Mecánico Agrícola;
+LXXXIII. Licenciatura en Educación Media Lengua Extranjera;
 
-Licenciatura como Ingeniero Electricista Administrador;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero Mecánico Administrador;
+LXXXIV. Licenciatura en Educación Normal Especialidad Ciencias Sociales;
 
-Licenciatura como Ingeniería en Telemática;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Profesional Asociado en Telemática;
+LXXXV. Licenciatura en Educación Cívica Social;
 
-Maestría en Ciencias Área Telemática;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Químico;
+LXXXVI. Licenciatura en Educación Media Especialidad en Historia y Civismo;
 
-Licenciatura en Ingeniería Química;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero Químico Metalúrgico;
+LXXXVII. Licenciatura en Educación Superior;
 
-Licenciatura como Químico Farmacéutico Biólogo;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Químico Bromatólogo;
+LXXXVIII. Maestría en Educación;
 
-Licenciatura como Ingeniero Químico Biólogo;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero Químico en Alimentos;
+LXXXIX. Maestría en Ciencias Sociales;
 
-Doctorado en Biotecnología Microbiana;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero Mecánico;
+XC. Maestría en Desarrollo Docente;
 
-Licenciatura como Ingeniero Químico Administrador;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería en Sistemas Computacionales;
+XCI. Doctorado en Ciencias Sociales;
 
-Licenciatura en Informática;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Informática Administrativa;
+XCII. Especialidad en Educación Superior;
 
-Licenciatura en Diseño Industrial;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería en Electrónica Y Computación;
+XCIII. Especialidad en Enseñanza Superior;
 
-Maestría en Ciencias de la Computación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Diseño Bioclimático;
+XCIV. Especialidad en Enseñanza Media Superior;
 
-Maestría en Ciencias Computacionales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Comunicación Social;
+XCV. Licenciatura en Educación Física;
 
-Maestría en Ciencia Política;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias Área Fiscal;
+XCVI. Licenciatura en Pedagogía;
 
-Licenciatura en Contaduría Pública;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Contaduría;
+XCVII. Licenciatura en Planeación y Administración Educativa;
 
-Licenciatura como Contador Público;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Administración;
+XCVIII. Licenciatura en Sociología de la Educación;
 
-Maestría en Ciencias Área Administración;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Área de Finanzas;
+XCIX. Licenciatura en Educación Especialidad en área de Audición y Lenguaje;
 
-Maestría en Ciencia Área Relaciones Económicas Internacionales en la Cuenca del Pacífico;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ciencias Políticas;
+C. Licenciatura en Educación Especialidad para el área de Problemas de Aprendizaje;
 
-Licenciatura en Sociología;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Periodismo;
+CI. Licenciatura en Educación Especialidad con Especialidad en el área de Deficiencia Mental;
 
-Licenciatura en Ciencias Políticas Y Administración Pública;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Informática;
+CII. Maestría en Investigación Educativa;
 
-Licenciatura en Ciencias de la Comunicación Social;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Comunicación Institucional;
+CIII. Maestría en Ciencias área Tecnología y Educación;
 
-Licenciatura en Comunicación Rural;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Comunicación Turística;
+CIV. Especialidad en Orientación Familiar;
 
-Profesional Asociado en Informática;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Administración Pública;
+CV. Especialidad en Psicopedagogía;
 
-Maestría en Ciencias Políticas;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias Política y Administración Pública;
+CVI. Especialidad en Orientación Educativa;
 
-Maestría en Ciencias Área Valuación de Bienes;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Gobierno y Asuntos Públicos;
+CVII. Licenciatura como Profesor de Educación Media en el área de Matemáticas;
 
-Doctorado en Ciencias Área Relaciones Internacionales Transpacíficas;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Especialidad en Informática;
+CVIII. Maestría en Historia Regional;
 
-Licenciatura en Derecho;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Profesional Asociado en Seguridad Pública;
+CIX. Maestría en Ciencias área Geomática;
 
-Maestría en Ciencias Penales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Criminología;
+CX. Licenciatura como Médico Veterinario Zootecnista;
 
-Maestría en Fiscal;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Especialidad en Derecho de Amparo;
+CXI. Licenciatura como Ingeniero Agrónomo Especialidad en Zootecnia;
 
-Especialidad en Criminalística;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Especialidad en Fiscal;
+CXII. Maestría en Ciencias Área Ciencias Agrícolas Y Forestales;
 
-Licenciatura en Trabajo Social;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Trabajo Social Rural;
+CXIII. Maestría en Acuacultura;
 
-Licenciatura en Trabajo Social Escolar;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Trabajo Social Médico;
+CXIV. Maestría en Ciencias Área Acuacultura;
 
-Licenciatura en Trabajo Social Penitenciario;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Profesional Asociado en Servicios Turísticos;
+CXV. Licenciatura en Medicina Veterinaria y Zootecnia;
 
-Licenciatura en Administración de Empresas;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Administración Pública;
+CXVI. Maestría en Ciencias Pecuarias;
 
-Licenciatura como Contador Público;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Administración;
+CXVII. Doctorado en Ciencias Pecuarias;
 
-Licenciatura en Finanzas;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Administración de Recursos Marinos;
+CXVIII. Especialidad en Producción de Aves;
 
-Licenciatura en Comercio Exterior;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Profesional Asociado en Comercio Exterior;
+CXIX. Licenciatura como Ingeniero Agrónomo;
 
-Maestría en Ciencias de la Administración;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Contaduría;
+CXX. Licenciatura como Ingeniero Agrónomo Fitotecnista;
 
-Maestría en Administración de la Atención Médica y de Hospitales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Ciencias Especialidad Finanzas;
+CXXI. Licenciatura como Ingeniero Agrónomo Zootecnista;
 
-Especialidad en Comercio Internacional;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Especialidad en Administración de los Servicios de Enfermería;
+CXXII. Licenciatura como Ingeniero Agrónomo en Fruticultura Tropical;
 
-Especialidad en Administración Portuaria;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Economía;
+CXXIII. Maestría en Ciencias Agrícolas y Forestales;
 
-Profesional Asociado en Mercadotecnia;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Maestría en Desarrollo Regional;
+CXXIV. Maestría en Ciencias en Agricultura;
 
-Maestría en Relaciones Económicas Internacionales con Especialidad en Estudios de la Cuenca del Pacífico;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Danza Escénica;
+CXXV. Maestría en Ciencias área Medicina del Deporte;
 
-Profesional Asociado en Danza;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Diseño Gráfico;
+CXXVI. Doctorado en Ciencias Fisiológicas con Especialidad en Fisiología;
 
-Licenciatura en Diseño Artesanal;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Farmacéutica Industrial;
+CXXVII. Licenciatura como Médico Cirujano y Partero;
 
-Técnico en Farmacéutico Industrial;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Farmacia Industrial;
+CXXVIII. Maestría en Ciencias Médicas;
 
-Técnico en Electricidad;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico como Laboratorista Químico;
+CXXIX. Maestría en Ciencias (Parasitología);
 
-Técnico en Comunicación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico Profesional en Administración de Empresas Turísticas;
+CXXX. Maestría en Ciencias con Especialidad en Medicina del Deporte;
 
-Técnico en Comunicaciones;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico Profesional en Desarrollo de la Comunidad;
+CXXXI. Doctorado en Ciencias Médicas;
 
-Técnico en Turismo;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Administración de Empresas Turísticas;
+CXXXII. Doctorado en Fisiología;
 
-Técnico en Administración Turística;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Bachillerato Técnico en Contabilidad;
+CXXXIII. Doctorado en Ciencias Fisiológicas;
 
-Licenciatura como Ingeniero Industrial Electricista;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero en Sistemas Computacionales;
+CXXXIV. Especialidad en Medicina Familiar;
 
-Maestría en Ciencias en Ingeniería Industrial;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero Bioquímico;
+CXXXV. Especialidad en Salud Física Y Fisioterapia;
 
-Licenciatura como Ingeniero Bioquímico en Productos Naturales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería Industrial;
+CXXXVI. Licenciatura como Médico Cirujano Dentista;
 
-Licenciatura como Ingeniero Industrial Mecánico;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería Industrial en Eléctrica;
+CXXXVII. Técnico en Enfermería;
 
-Licenciatura como Ingeniero Industrial en Química;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería en Sistemas Computacionales;
+CXXXVIII. Técnico en Enfermería General;
 
-Licenciatura como Ingeniero Industrial en Electrónica;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ingeniería Industrial en Producción;
+CXXXIX. Licenciatura en Enfermería;
 
-Licenciatura como Ingeniero Industrial en Planeación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura como Ingeniero en Sistemas Computacionales en Programación;
+CXL. Especialidad en Enfermería Quirúrgica;
 
-Maestría en Ingeniería Industrial;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Ciencias de la Informática;
+CXLI. Licenciatura como Ingeniero Topógrafo y Geodesta;
 
-Licenciatura en Administración de Empresas Turísticas Planeación y Promoción;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Informática en Sistemas de Información Técnico en Diseño Arquitectónico;
+CXLII. Maestría en Ciencias Área Arquitectura;
 
-Técnico en Construcción;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico Profesional en Administración de Empresas Turísticas;
+CXLIII. Licenciatura en Ingeniería Mecánica Electricista;
 
-Técnico como Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico Profesional como Secretario Bilingüe;
+CXLIV. Licenciatura en Ingeniería en Comunicaciones y Electrónica;
 
-Técnico en Turismo;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Administración Turística;
+CXLV. Maestría en Ciencias Área Telemática;
 
-Bachillerato Técnico en Contabilidad;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Administración;
+CXLVI. Licenciatura en Ciencias con Especialidad en Química;
 
-Técnico en Construcción;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Electrónica;
+CXLVII. Licenciatura en Ingeniería Química Metalúrgica;
 
-Técnico en Mantenimiento de Equipo de Cómputo;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Alimentos;
+CXLVIII. Licenciatura en Ingeniería Química en Alimentos;
 
-Técnico en Análisis Clínicos;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico como Programador;
+CXLIX. Licenciatura en Ingeniería Electrónica en Computación;
 
-Técnico como Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico Especializado en Administración;
+CL. Maestría en Ciencias Área Computación;
 
-Técnico en Administración;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico Profesional en Administración de Empresas Portuarias;
+CLI. Licenciatura en Ingeniería Civil;
 
-Técnico Profesional en Acuicultura;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico Profesional en Pesca Y Navegación;
+CLII. Licenciatura en Arquitectura;
 
-Técnico en Administración Opción Servicios Portuarios;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Administración de Empresas Portuarias;
+CLIII. Licenciatura como Ingeniero Arquitecto en Asentamiento Humano;
 
-Técnico en Pesca y Navegación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Refrigeración Industrial Pesquera;
+CLIV. Licenciatura en Ingeniero Topógrafo Geodesta;
 
-Técnico en Actividades Pesqueras con Opción en Navegación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Actividades Pesqueras con Opción en Pesca Deportiva;
+CLV. Licenciatura Como Ingeniero Topógrafo;
 
-Técnico en Actividades Pesqueras con Opción en Tecnología de Capturas;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Servicios Industriales Navales con Opción Mecánica Naval;
+CLVI. Profesional Asociado en Construcción de Obras;
 
-Técnico en Servicios Industriales Navales con Opción en Refrigeración Industrial Pesquera;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico Profesional en Mecánica Naval;
+CLVII. Maestría en Arquitectura;
 
-Técnico en Administración Opción Servicios Turísticos;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico Profesional en Máquinas de Combustión Interna;
+CLVIII. Maestría en Ciencias Área Ingeniería de la Construcción;
 
-Técnico en Máquinas de Combustión Interna;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico como Laboratorista Clínico;
+CLIX. Especialidad en Ingeniería en Construcción;
 
-Técnico como Agropecuario;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico como Agropecuario Especialidad en Fruticultura;
+CLX. Especialidad en Construcción de Obras Marítimas;
 
-Técnico en Administración y Contabilidad Rural;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico en Desarrollo Comunitario;
+CLXI. Maestría en Metalurgia;
 
-Técnico en Análisis Clínicos;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Técnico como Secretario Ejecutivo;
+CLXII. Maestría en Ciencias Área Ingeniería Sísmica;
 
-Licenciatura en Desarrollo Humano;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Sistemas Computacionales;
+CLXIII. Licenciatura en Ingeniería Mecánica;
 
-Licenciatura en Ingeniería Industrial y de Sistemas;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Derecho con Énfasis en Derecho Civil;
+CLXIV. Licenciatura como Ingeniero Electricista;
 
-Licenciatura en Derecho con Énfasis en Derecho Penal;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Derecho con Énfasis en Derecho Administrativo Corporativo;
+CLXV. Licenciatura en Ingeniería en Electrónica y Comunicaciones;
 
-Licenciatura en Ciencias Políticas y Administración Pública;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-Licenciatura en Docencia Tecnológica;
+CLXVI. Licenciatura como Ingeniero Mecánico Electricista;
 
-Técnico en Enfermería;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+CLXVII. Licenciatura como Ingeniero Mecánico Agrícola;
 
-Técnico en Enfermería General;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+CLXVIII. Licenciatura como Ingeniero Electricista Administrador;
 
-Técnico Como Contador Privado; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2014)</small>
+CLXIX. Licenciatura como Ingeniero Mecánico Administrador;
 
-Licenciatura en Nutrición.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE FEBRERO DE 2015)</small>
+CLXX. Licenciatura como Ingeniería en Telemática;
 
-Especialista en cirugía plástica, estética y reconstructiva.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXI. Profesional Asociado en Telemática;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXII. Maestría en Ciencias Área Telemática;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXIII. Licenciatura como Químico;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXIV. Licenciatura en Ingeniería Química;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXV. Licenciatura como Ingeniero Químico Metalúrgico;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXVI. Licenciatura como Químico Farmacéutico Biólogo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXVII. Licenciatura como Químico Bromatólogo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXVIII. Licenciatura como Ingeniero Químico Biólogo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXIX. Licenciatura como Ingeniero Químico en Alimentos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXX. Doctorado en Biotecnología Microbiana;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXXI. Licenciatura como Ingeniero Mecánico;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXXII. Licenciatura como Ingeniero Químico Administrador;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXXIII. Licenciatura en Ingeniería en Sistemas Computacionales;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXXIV. Licenciatura en Informática;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXXV. Licenciatura en Informática Administrativa;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXXVI. Licenciatura en Diseño Industrial;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXXVII. Licenciatura en Ingeniería en Electrónica Y Computación;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXXVIII. Maestría en Ciencias de la Computación;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CLXXXIX. Maestría en Diseño Bioclimático;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CXC. Maestría en Ciencias Computacionales;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CXCI. Licenciatura en Comunicación Social;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CXCII. Maestría en Ciencia Política;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CXCIII. Maestría en Ciencias Área Fiscal;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CXCIV. Licenciatura en Contaduría Pública;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CXCV. Licenciatura en Contaduría;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CXCVI. Licenciatura como Contador Público;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CXCVII. Maestría en Administración;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CXCVIII. Maestría en Ciencias Área Administración;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CXCIX. Maestría en Área de Finanzas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CC. Maestría en Ciencia Área Relaciones Económicas Internacionales en la Cuenca del Pacífico;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCI. Licenciatura en Ciencias Políticas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCII. Licenciatura en Sociología;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCIII. Licenciatura en Periodismo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCIV. Licenciatura en Ciencias Políticas Y Administración Pública;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCV. Licenciatura en Informática;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCVI. Licenciatura en Ciencias de la Comunicación Social;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCVII. Licenciatura en Comunicación Institucional;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCVIII. Licenciatura en Comunicación Rural;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCIX. Licenciatura en Comunicación Turística;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCX. Profesional Asociado en Informática;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXI. Maestría en Administración Pública;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXII. Maestría en Ciencias Políticas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXIII. Maestría en Ciencias Política y Administración Pública;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXIV. Maestría en Ciencias Área Valuación de Bienes;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXV. Maestría en Gobierno y Asuntos Públicos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXVI. Doctorado en Ciencias Área Relaciones Internacionales Transpacíficas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXVII. Especialidad en Informática;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXVIII. Licenciatura en Derecho;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXIX. Profesional Asociado en Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXX. Maestría en Ciencias Penales;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXI. Maestría en Criminología;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXII. Maestría en Fiscal;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXIII. Especialidad en Derecho de Amparo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXIV. Especialidad en Criminalística;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXV. Especialidad en Fiscal;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXVI. Licenciatura en Trabajo Social;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXVII. Licenciatura en Trabajo Social Rural;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXVIII. Licenciatura en Trabajo Social Escolar;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXIX. Licenciatura en Trabajo Social Médico;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXX. Licenciatura en Trabajo Social Penitenciario;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXXI. Profesional Asociado en Servicios Turísticos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXXII. Licenciatura en Administración de Empresas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXXIII. Licenciatura en Administración Pública;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXXIV. Licenciatura como Contador Público;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXXV. Licenciatura en Administración;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXXVI. Licenciatura en Finanzas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXXVII. Licenciatura en Administración de Recursos Marinos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXXVIII. Licenciatura en Comercio Exterior;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXXXIX. Profesional Asociado en Comercio Exterior;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXL. Maestría en Ciencias de la Administración;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXLI. Maestría en Contaduría;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXLII. Maestría en Administración de la Atención Médica y de Hospitales;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXLIII. Maestría en Ciencias Especialidad Finanzas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXLIV. Especialidad en Comercio Internacional;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXLV. Especialidad en Administración de los Servicios de Enfermería;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXLVI. Especialidad en Administración Portuaria;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXLVII. Licenciatura en Economía;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXLVIII. Profesional Asociado en Mercadotecnia;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXLIX. Maestría en Desarrollo Regional;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCL. Maestría en Relaciones Económicas Internacionales con Especialidad en Estudios de la Cuenca del Pacífico;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLI. Licenciatura en Danza Escénica;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLII. Profesional Asociado en Danza;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLIII. Licenciatura en Diseño Gráfico;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLIV. Licenciatura en Diseño Artesanal;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLV. Técnico en Farmacéutica Industrial;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLVI. Técnico en Farmacéutico Industrial;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLVII. Técnico en Farmacia Industrial;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLVIII. Técnico en Electricidad;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLIX. Técnico como Laboratorista Químico;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLX. Técnico en Comunicación;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXI. Técnico Profesional en Administración de Empresas Turísticas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXII. Técnico en Comunicaciones;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXIII. Técnico Profesional en Desarrollo de la Comunidad;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXIV. Técnico en Turismo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXV. Técnico en Administración de Empresas Turísticas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXVI. Técnico en Administración Turística;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXVII. Bachillerato Técnico en Contabilidad;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXVIII. Licenciatura como Ingeniero Industrial Electricista;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXIX. Licenciatura como Ingeniero en Sistemas Computacionales;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXX. Maestría en Ciencias en Ingeniería Industrial;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXI. Licenciatura como Ingeniero Bioquímico;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXII. Licenciatura como Ingeniero Bioquímico en Productos Naturales;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXIII. Licenciatura en Ingeniería Industrial;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXIV. Licenciatura como Ingeniero Industrial Mecánico;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXV. Licenciatura en Ingeniería Industrial en Eléctrica;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXVI. Licenciatura como Ingeniero Industrial en Química;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXVII. Licenciatura en Ingeniería en Sistemas Computacionales;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXVIII. Licenciatura como Ingeniero Industrial en Electrónica;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXIX. Licenciatura en Ingeniería Industrial en Producción;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXX. Licenciatura como Ingeniero Industrial en Planeación;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXXI. Licenciatura como Ingeniero en Sistemas Computacionales en Programación;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXXII. Maestría en Ingeniería Industrial;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXXIII. Licenciatura en Ciencias de la Informática;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXXIV. Licenciatura en Administración de Empresas Turísticas Planeación y Promoción;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXXV. Licenciatura en Informática en Sistemas de Información;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXXVI. Técnico en Diseño Arquitectónico;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXXVII. Técnico en Construcción;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXXVIII. Técnico Profesional en Administración de Empresas Turísticas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCLXXXIX. Técnico como Secretario Ejecutivo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXC. Técnico Profesional como Secretario Bilingüe;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXCI. Técnico en Turismo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXCII. Técnico en Administración Turística;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXCIII. Bachillerato Técnico en Contabilidad;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXCIV. Técnico en Administración;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXCV. Técnico en Construcción;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXCVI. Técnico en Electrónica;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXCVII. Técnico en Mantenimiento de Equipo de Cómputo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXCVIII. Técnico en Alimentos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCXCIX. Técnico en Análisis Clínicos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCC. Técnico como Programador;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCI. Técnico como Secretario Ejecutivo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCII. Técnico Especializado en Administración;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCIII. Técnico en Administración;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCIV. Técnico Profesional en Administración de Empresas Portuarias;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCV. Técnico Profesional en Acuicultura;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCVI. Técnico Profesional en Pesca Y Navegación;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCVII. Técnico en Administración Opción Servicios Portuarios;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCVIII. Técnico en Administración de Empresas Portuarias;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCIX. Técnico en Pesca y Navegación;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCX. Técnico en Refrigeración Industrial Pesquera;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXI. Técnico en Actividades Pesqueras con Opción en Navegación;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXII. Técnico en Actividades Pesqueras con Opción en Pesca Deportiva;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXIII. Técnico en Actividades Pesqueras con Opción en Tecnología de Capturas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXIV. Técnico en Servicios Industriales Navales con Opción Mecánica Naval;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXV. Técnico en Servicios Industriales Navales con Opción en Refrigeración Industrial Pesquera;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXVI. Técnico Profesional en Mecánica Naval;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXVII. Técnico en Administración Opción Servicios Turísticos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXVIII. Técnico Profesional en Máquinas de Combustión Interna;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXIX. Técnico en Máquinas de Combustión Interna;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXX. Técnico como Laboratorista Clínico;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXI. Técnico como Agropecuario;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXII. Técnico como Agropecuario Especialidad en Fruticultura;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXIII. Técnico en Administración y Contabilidad Rural;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXIV. Técnico en Desarrollo Comunitario;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXV. Técnico en Análisis Clínicos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXVI. Técnico como Secretario Ejecutivo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXVII. Licenciatura en Desarrollo Humano;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXVIII. Licenciatura en Sistemas Computacionales;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXIX. Licenciatura en Ingeniería Industrial y de Sistemas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXX. Licenciatura en Derecho con Énfasis en Derecho Civil;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXXI. Licenciatura en Derecho con Énfasis en Derecho Penal;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXXII. Licenciatura en Derecho con Énfasis en Derecho Administrativo Corporativo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXXIII. Licenciatura en Ciencias Políticas y Administración Pública;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXXIV. Licenciatura en Docencia Tecnológica;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXXV. Técnico en Enfermería;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXXVI. Técnico en Enfermería General;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXXVII. Técnico Como Contador Privado;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXXVIII. Licenciatura en Nutrición;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXXXIX. Especialista en cirugía plástica, estética y reconstructiva;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXL. Licenciatura en Artes y Gestión Cultural;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXLI. Licenciatura en Derecho con énfasis en la Interculturalidad;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXLII. Licenciatura en Turismo Comunitario; y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+CCCXLIII. Licenciatura en Ingeniería en Agroecología.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -1948,3 +2638,11 @@ P.O. 16 DE ABRIL DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO. La Secretaría de Educación y Cultura del Gobierno del Estado de Colima dispondrá las medidas que considere necesarias y suficientes para su cumplimiento, así como para hacer una amplia difusión del contenido de este Decreto.
+
+P.O. 22 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 348.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROFESIONES DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
