@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2026-03-04"
+last_updated: "2026-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2026.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -2427,6 +2427,10 @@ Para los efectos de lo dispuesto en este Capítulo, se entenderá por violencia 
 
 254 Ter.- Comete el delito de violencia familiar, el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; o en línea trasversal hasta el cuarto grado; pariente por afinidad hasta el segundo grado; el adoptante o el adoptado, por personas que ejerzan la tutela, curatela, o bien, que tengan o hayan tenido alguna relación afectiva o sentimental de hecho, independientemente que habiten o no en el mismo domicilio.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2026)</small>
+
+Para efectos de lo previsto en este Capítulo, la violencia a través de interpósita persona se entenderá conforme a la definición establecida en la Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Zacatecas.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
 254 Quáter.- A quien cometa el delito de violencia familiar se le impondrá de dos a seis años de prisión, multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
@@ -2473,9 +2477,9 @@ VI. Se deje cicatriz permanente en alguna parte del cuerpo;
 
 VII. Se tengan documentados antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima; o
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2026)</small>
 
-VIII. Exista imposibilidad material de la víctima de denunciar o se cometa violencia vicaria.
+VIII. Exista imposibilidad material de la víctima de denunciar o se cometa violencia a través de interpósita persona, mediante las conductas por las que puede actualizarse conforme lo establece la Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Zacatecas;
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
 
@@ -4526,6 +4530,14 @@ Artículo segundo. Se derogan las disposiciones que contravengan el presente ins
 P.O. 4 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 139.- SE ADICIONAN, REFORMA (SIC) Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 334.- SE REFORMAN EL CÓDIGO FAMILIAR, EL CÓDIGO PENAL Y LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS, EN MATERIA DE DERECHOS DE LAS MUJERES, PREVENCIÓN Y COMBATE A LA VIOLENCIA".]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
