@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-civil-del-estado-y-municipios-de-zacatecas-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-14"
-last_updated: "2026-02-21"
+last_updated: "2026-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de marzo de 2018.
 
@@ -817,6 +817,12 @@ Lo anterior deberá realizarse de conformidad con lo dispuesto en esta Ley, su R
 
 Todos los inmuebles a que hace referencia el artículo anterior deberán contar con salidas de emergencia y, en el caso de aquellos con tres o más niveles, con escaleras de emergencia; a su vez, los propietarios o poseedores de dichas edificaciones deberán colocar en sitios visibles equipos de seguridad, señales informativas, preventivas, restrictivas y de obligación y luces de emergencia, conforme a las Normas Oficiales Mexicanas y Tratados Internacionales aplicables; así como instructivos y manuales que consignarán las reglas y orientaciones que deberán observarse en caso de una emergencia y señalar las zonas de seguridad o puntos de reunión. Toda omisión a las disposiciones señaladas en este artículo y en el anterior será causal de la aplicación de las medidas de seguridad previstas en el artículo 104 y de las sanciones establecidas en el artículo 122 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2026)</small>
+
+###### Artículo 51 Bis.
+
+Los inmuebles destinados a la prestación de servicios de hospedaje o estancia turística eventual mediante plataformas digitales, deberán cumplir con las medidas mínimas de seguridad, prevención de incendios, señalización y rutas de evacuación que establezca la normatividad aplicable.
+
 ###### Artículo 52.
 
 Las empresas clasificadas como de mediano o de alto riesgo, de acuerdo con el Reglamento de esta Ley, las Normas Oficiales Mexicanas y los Tratados Internacionales aplicables, al elaborar su Programa Interno, deberán contar con el análisis de riesgo e incluir un plan de emergencia externo, en el que establecerán los procedimientos a seguir en caso de que alguna emergencia sobrepase los límites del inmueble. Dicho plan preverá medidas de protección para los asentamientos humanos existentes en el perímetro de su aplicación.
@@ -1596,3 +1602,31 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Dentro de los 180 días siguientes a la entrada en vigor de esta reforma, la Coordinación Estatal y las coordinaciones municipales de protección civil, deberán elaborar un programa estratégico para la implementación de estas medidas.
 
 Tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 22 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 369.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE ZACATECAS, LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y LA LEY DE PROTECCIÓN CIVIL DEL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado, por conducto de las dependencias competentes, deberá realizar las adecuaciones reglamentarias y administrativas necesarias para la implementación del presente Decreto, dentro de un plazo que no exceda de noventa días naturales contados a partir de su entrada en vigor.
+
+TERCERO. La Secretaría de Turismo deberá habilitar o adecuar el Registro Estatal de Turismo para la inscripción de las estancias turísticas eventuales ofertadas mediante plataformas digitales, dentro de un plazo máximo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+El registro deberá implementarse preferentemente mediante herramientas digitales, bajo criterios de simplificación administrativa, accesibilidad, gratuidad o bajo costo, protección de datos personales y mínima carga regulatoria.
+
+CUARTO. Las personas físicas o morales que, a la entrada en vigor del presente Decreto, ya ofrezcan estancias turísticas eventuales mediante plataformas digitales en inmuebles ubicados dentro del Estado de Zacatecas, contarán con un plazo de noventa días naturales, contados a partir de que la Secretaría de Turismo habilite el registro correspondiente, para realizar su inscripción.
+
+En caso de no cumplir con el registro dentro del plazo señalado en el párrafo anterior, se harán acreedoras a las sanciones previstas en el presente Decreto.
+
+QUINTO. La Secretaría de Finanzas deberá iniciar, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, las gestiones necesarias para celebrar convenios de colaboración con las plataformas digitales que intermedien estancias turísticas eventuales en el Estado, a efecto de facilitar la retención y entero del Impuesto sobre Servicios de Hospedaje previsto en la Ley de Hacienda del Estado de Zacatecas.
+
+Los convenios deberán procurar mecanismos sencillos, digitales y eficaces de cumplimiento, sin que ello implique regular el funcionamiento tecnológico de las plataformas digitales.
+
+SEXTO. Las autoridades estatales y municipales competentes en materia de protección civil deberán emitir, dentro de un plazo máximo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, los lineamientos mínimos de seguridad aplicables a los inmuebles destinados a estancias turísticas eventuales, atendiendo a criterios de proporcionalidad, capacidad del inmueble, nivel de riesgo, frecuencia de uso y número máximo de personas usuarias.
+
+SÉPTIMO. La Secretaría de Turismo, la Secretaría de Finanzas y las autoridades competentes en materia de protección civil deberán coordinarse para evitar duplicidad de trámites, requerimientos o verificaciones, procurando el uso de medios electrónicos y la simplificación administrativa.
+
+OCTAVO. La Secretaría de Turismo deberá realizar campañas informativas dirigidas a personas anfitrionas, prestadoras del servicio, usuarias y plataformas digitales, con la finalidad de difundir las nuevas obligaciones previstas en el presente Decreto, los plazos de registro, los requisitos aplicables y los mecanismos de cumplimiento.
+
+NOVENO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
