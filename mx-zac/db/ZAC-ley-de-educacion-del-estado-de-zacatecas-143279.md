@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-143279"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-17"
-last_updated: "2026-01-24"
+last_updated: "2026-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2026.
 
 Ley publicada en el Suplemento al Número 49 del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de junio de 2020.
 
@@ -166,6 +166,10 @@ V. Alentar la construcción de relaciones sociales, económicas y culturales, co
 > <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
 VI. Fomentar la educación financiera orientada al desarrollo humano integral, para el logro de una correcta economía personal, familiar y social en el Estado.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+VII. Participar en cursos, talleres y conferencias de desarrollo humano, ética, resiliencia, liderazgo y responsabilidad social.
 
 Bases para el fomento de la educación
 
@@ -939,7 +943,11 @@ XXIV. La educación financiera para el desarrollo humano integral, considerando,
 
 XXV. El fomento de los principios básicos de seguridad y educación vial, y
 
-XXVI. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3o. de la Constitución Federal.
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2026)</small>
+
+XXVI. Implementación y enseñanza obligatoria de protocolos.
+
+XXVII. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3o. de la Constitución Federal.
 
 ### Capítulo III. Tecnologías de la Información, Comunicación, Conocimiento y Aprendizaje Digital en el proceso educativo
 
@@ -2236,6 +2244,18 @@ P.O. 24 DE ENERO DE 2026.
 ###### ARTÍCULO PRIMERO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente instrumento.
+
+P.O. 22 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 339.- SE ADICIONAN UNA FRACCIÓN VII AL ARTÍCULO 10 Y UNA FRACCIÓN XXVI AL ARTÍCULO 59, AMBOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS, EN MATERIA DE DESARROLLO HUMANO INTEGRAL Y ENSEÑANZA OBLIGATORIA DE PROTOCOLOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
 ###### ARTÍCULO SEGUNDO.
 
