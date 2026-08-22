@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-118769"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2025-12-31"
+last_updated: "2026-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -914,6 +914,10 @@ Las personas físicas o morales que en su carácter de intermediarias, promotora
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 Cuando el servicio de hospedaje se brinde a través de plataformas digitales y estas funjan como intermediario entre el huésped y el anfitrión con el cobro de contraprestaciones por servicio de hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes con carácter de retenedor y enterar el pago del impuesto correspondiente a la autoridad fiscal y realizará el traslado del impuesto a las personas a quienes preste servicios de hospedaje.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2026)</small>
+
+La Secretaría podrá celebrar convenios con plataformas digitales para facilitar la retención y entero del impuesto, sin que implique regulación sobre su funcionamiento tecnológico.
 
 El impuesto a que se refiere este Capítulo se causará al momento en que se perciban los valores correspondientes a las contraprestaciones por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos, reembolsos, intereses normales o moratorios, penas convencionales y cualquier otro concepto que deriven de la prestación de dicho servicio.
 
@@ -4720,3 +4724,31 @@ Respecto al Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítul
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 22 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 369.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE ZACATECAS, LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y LA LEY DE PROTECCIÓN CIVIL DEL ESTADO Y MUNICIPIOS DE ZACATECAS".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado, por conducto de las dependencias competentes, deberá realizar las adecuaciones reglamentarias y administrativas necesarias para la implementación del presente Decreto, dentro de un plazo que no exceda de noventa días naturales contados a partir de su entrada en vigor.
+
+TERCERO. La Secretaría de Turismo deberá habilitar o adecuar el Registro Estatal de Turismo para la inscripción de las estancias turísticas eventuales ofertadas mediante plataformas digitales, dentro de un plazo máximo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+El registro deberá implementarse preferentemente mediante herramientas digitales, bajo criterios de simplificación administrativa, accesibilidad, gratuidad o bajo costo, protección de datos personales y mínima carga regulatoria.
+
+CUARTO. Las personas físicas o morales que, a la entrada en vigor del presente Decreto, ya ofrezcan estancias turísticas eventuales mediante plataformas digitales en inmuebles ubicados dentro del Estado de Zacatecas, contarán con un plazo de noventa días naturales, contados a partir de que la Secretaría de Turismo habilite el registro correspondiente, para realizar su inscripción.
+
+En caso de no cumplir con el registro dentro del plazo señalado en el párrafo anterior, se harán acreedoras a las sanciones previstas en el presente Decreto.
+
+QUINTO. La Secretaría de Finanzas deberá iniciar, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, las gestiones necesarias para celebrar convenios de colaboración con las plataformas digitales que intermedien estancias turísticas eventuales en el Estado, a efecto de facilitar la retención y entero del Impuesto sobre Servicios de Hospedaje previsto en la Ley de Hacienda del Estado de Zacatecas.
+
+Los convenios deberán procurar mecanismos sencillos, digitales y eficaces de cumplimiento, sin que ello implique regular el funcionamiento tecnológico de las plataformas digitales.
+
+SEXTO. Las autoridades estatales y municipales competentes en materia de protección civil deberán emitir, dentro de un plazo máximo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, los lineamientos mínimos de seguridad aplicables a los inmuebles destinados a estancias turísticas eventuales, atendiendo a criterios de proporcionalidad, capacidad del inmueble, nivel de riesgo, frecuencia de uso y número máximo de personas usuarias.
+
+SÉPTIMO. La Secretaría de Turismo, la Secretaría de Finanzas y las autoridades competentes en materia de protección civil deberán coordinarse para evitar duplicidad de trámites, requerimientos o verificaciones, procurando el uso de medios electrónicos y la simplificación administrativa.
+
+OCTAVO. La Secretaría de Turismo deberá realizar campañas informativas dirigidas a personas anfitrionas, prestadoras del servicio, usuarias y plataformas digitales, con la finalidad de difundir las nuevas obligaciones previstas en el presente Decreto, los plazos de registro, los requisitos aplicables y los mecanismos de cumplimiento.
+
+NOVENO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
