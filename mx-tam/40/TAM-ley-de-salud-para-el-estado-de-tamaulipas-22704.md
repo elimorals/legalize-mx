@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2026-08-18"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1002,6 +1002,22 @@ La participación de la comunidad en los programas de protección a la salud y e
 ###### ARTICULO 28.
 
 Los Ayuntamientos crearán un Comité Municipal de Salud, encabezado por el Presidente Municipal e integrado por representantes de organismos de los sectores público, social y privado, mismo que supervisará y evaluará los servicios de salud y telesalud que se presten a la población y presentará un informe a las autoridades sanitarias y, en su caso, sus recomendaciones.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+ARTICULO 28 BIS.- La participación ciudadana organizada, a través de Comités de Salud Comunitarios, será reconocida como un componente esencial del sistema estatal de salud. Su función principal será coadyuvar en la detección oportuna de riesgos sanitarios, la prevención de enfermedades y la promoción de prácticas saludables dentro de su ámbito territorial. Estos comités actuarán como instancias de vinculación entre la comunidad y las autoridades de salud, fomentando una cultura de corresponsabilidad en la protección y el cuidado de la salud pública.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+ARTICULO 28 TER.- Los Ayuntamientos del Estado, en el ámbito de su competencia, promoverán la instalación de Comités de Salud Comunitarios en cada colonia, comunidad, ejido o unidad habitacional, con el objetivo de fortalecer las acciones de prevención, vigilancia y promoción de la salud.
+
+Dichos comités deberán integrarse por habitantes de la comunidad, contar con representatividad vecinal y recibir capacitación básica proporcionada por las autoridades estatales y municipales en materia de salud pública.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+ARTICULO 28 QUATER.- El Gobierno del Estado y los Ayuntamientos formularán e implementarán políticas públicas con enfoque comunitario, que promuevan la participación activa de la sociedad en la mejora del entorno, la identificación de riesgos y la construcción de comunidades saludables.
+
+Estas acciones deberán estar orientadas a generar condiciones que favorezcan el bienestar colectivo, mediante la coordinación interinstitucional, el trabajo transversal y la participación corresponsable de los sectores público, social y privado.
 
 ### CAPITULO V. DE LA ATENCION MATERNO-INFANTIL Y DEL ADOLESCENTE
 
@@ -4550,3 +4566,19 @@ El Consejo General de Salud deberá instalarse conforme a la nueva integración,
 ###### ARTÍCULO TERCERO.
 
 La persona Titular de la Secretaría de Salud presentará ante el Consejo, durante la sesión de instalación para su aprobación, y posteriormente a la persona titular del Poder Ejecutivo, el proyecto de reforma del Reglamento Interior del Consejo General de Salud.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1376 MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 28 BIS; 28 TER Y 28 QUATER, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos del Estado, para la adecuada implementación del presente Decreto, deberán constituir e integrar Comités de Salud Comunitarios en cada colonia, comunidad o ejido de su respectiva jurisdicción.
+
+###### ARTÍCULO TERCERO.
+
+El Gobierno del Estado, a través de la Secretaría de Salud, y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, realizarán las acciones necesarias para la implementación de los Comités de Salud Comunitarios, en términos de lo dispuesto por los artículos 28 Bis, 28 Ter y 28 Quáter de la Ley de Salud para el Estado de Tamaulipas.
