@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-social-para-el-estado-de-tamaulipas-41923"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-24"
-last_updated: "2025-11-26"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,872 +21,3508 @@ state: "TAM"
 ---
 # LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
+LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2004.
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
-TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+EL CIUDADANO PEDRO G. ZORRILLA MARTINEZ, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A LOS HABITANTES DEL MISMO HACE SABER:
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+Que el H. Congreso del Estado Libre y Soberano de Nuevo León, LX Legislatura, en uso de las facultades que le concede el Artículo 63 de la Constitución Política Local, expide el siguiente:
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+DECRETO NUM. 72
 
-LA QUINCUAGESIMA OCTAVA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LEY DE HACIENDA DEL ESTADO
 
-D E C R E T O No. LVIII-840
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-## Título I. Disposiciones Generales
+###### ARTICULO 1o.
 
-## Título II. Del Objeto
+Los impuestos, contribuciones especiales, derechos, productos y aprovechamientos que deben percibir la Hacienda Pública Estatal o las entidades paraestatales de carácter fiscal, se causarán y recaudarán conforme a las disposiciones de ésta y de las demás leyes fiscales aplicables.
 
-### Capítulo Unico
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
-###### ARTICULO 1°.
+###### ARTICULO 2o.
 
-Las disposiciones de la presente ley son de orden público, interés social y de observancia general.
+La Ley de Ingresos establecerá anualmente los impuestos, contribuciones especiales, derechos, productos y aprovechamientos que deban recaudarse.
 
-###### ARTICULO 2°.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
 
-Queda prohibida cualquier práctica discriminatoria en la prestación de los bienes y servicios contenidos en los programas sociales.
+Sólo por Ley o Decreto del Congreso que así lo disponga expresamente, podrá destinarse un impuesto, derecho, producto o aprovechamiento, a un fin especial.
 
-###### ARTICULO 3°.
+###### ARTICULO 3o.
 
-La aplicación de la presente ley corresponde al Ejecutivo del Estado, por conducto de sus dependencias y entidades, y a los Ayuntamientos de los Municipios en el ámbito de sus respectivas competencias.
+Los ingresos del Estado de Nuevo León serán ordinarios y extraordinarios.
+
+###### ARTICULO 4o.
+
+Son ingresos ordinarios los establecidos común y normalmente para cubrir los servicios públicos regulares del Estado de Nuevo León.
+
+Son ingresos extraordinarios aquellos cuya percepción se autoriza excepcionalmente para promover el pago de gastos accidentales o extraordinarios del Estado de Nuevo León.
+
+###### ARTICULO 5o.
+
+Ningún gravamen podrá recaudarse si no está previsto por la Ley de Ingresos o por una Ley posterior a ella.
+
+Las obligaciones fiscales que se deriven de ésta u otras leyes, se originarán cuando se realicen los hechos o circunstancias a los que se condiciona su nacimiento, aún cuando tales hechos o circunstancias constituyan infracciones a disposiciones legales o reglamentarias.
+
+En este último caso, el cobro o pago de los créditos fiscales no legitimará esos hechos o circunstancias.
+
+###### ARTICULO 6o.
+
+Los reglamentos, circulares, acuerdos, concesiones, convenios, contratos y demás actos jurídicos de carácter administrativo no podrán, en ningún caso, derogar o reformar las Leyes Fiscales.
+
+###### ARTICULO 7o.
+
+La ignorancia de las leyes, reglamentos, circulares y demás disposiciones fiscales debidamente promulgadas y publicadas, no servirá de excusa ni aprovechará a nadie.
+
+###### ARTICULO 8o.
+
+Las leyes, reglamentos y demás disposiciones fiscales de alcance general, relativas a la Hacienda Pública del Estado de Nuevo León, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial, o en la fecha que señalen las mismas leyes, reglamentos o disposiciones, siempre que su vigencia no sea anterior a la publicación.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 9o.
+
+La administración y recaudación de los impuestos, contribuciones especiales, derechos, productos y aprovechamientos que establece la Ley de Ingresos del Estado, serán de la competencia de la Secretaría de Finanzas y Tesorería General del Estado, la cual podrá ser auxiliada por otras Dependencias Oficiales o por organismos públicos o privados, por disposición de la Ley o a petición de la propia Secretaría de Finanzas y Tesorería General del Estado.
+
+Cuando en esta Ley o en alguna otra se dé una denominación nueva o distinta a la Secretaría de Finanzas y Tesorería General del Estado o a alguna de las Direcciones, Unidades, Departamentos o Dependencias que la integran, se entenderá que dicha disposición legislativa se está refiriendo a la denominación que para cada caso concreto, de acuerdo con las funciones y atribuciones respectivas, establece el Reglamento Interior de la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 9o. Bis.
+
+El pago de los créditos fiscales deberá hacerse en efectivo, salvo disposición expresa de una ley particular. Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito, así como las transferencias electrónicas de fondos reguladas por el Banco de México. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Las transferencias electrónicas de fondos reguladas por el Banco de México, solamente se aceptarán de acuerdo a las reglas generales que fije la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, mediante previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
+
+## TITULO SEGUNDO. De los Impuestos
+
+### CAPITULO PRIMERO. Del Impuesto Predial
+
+#### SECCION PRIMERA. Del Objeto del Impuesto
 
 ###### ARTICULO 10.
 
-La elaboración del Programa Estatal y de los Programas Municipales de Desarrollo Social estará a cargo del Ejecutivo del Estado y de los Ayuntamientos, respectivamente.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+#### SECCION SEGUNDA. De los Sujetos del Impuesto
 
 ###### ARTICULO 11.
 
-Los programas que en esta materia se formulen son parte del Sistema Estatal de Planeación del Desarrollo Social y deben orientarse al cumplimiento del objeto de esta ley.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+#### SECCION TERCERA. De la base del Impuesto
 
 ###### ARTICULO 12.
 
-El Ejecutivo del Estado, a través de la Secretaría de Bienestar Social, coordinará la correspondencia entre el Programa Estatal, el Nacional y los Municipales de Desarrollo Social.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+#### SECCION CUARTA. De la Tasa del Impuesto
 
 ###### ARTICULO 13.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios harán del conocimiento público, cada año, sus programas operativos de desarrollo social, a través de los medios más accesibles a la población, en un plazo máximo de 90 días a partir de la aprobación de sus presupuestos de egresos anuales respectivos.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 14.
 
-Son prioritarios y de interés público los programas sociales:
-
-I.- Dirigidos a las personas en condiciones de pobreza, marginación o en situación de vulnerabilidad;
-
-II.- Enfocados a regiones, municipios, localidades y áreas de atención prioritaria;
-
-III.- Dirigidos a asegurar la alimentación y nutrición materno-infantil;
-
-IV.- De promoción y mejoramiento de vivienda;
-
-V.- Destinados a la generación y conservación del empleo, a las actividades productivas sociales y el financiamiento a personas en situación de desventaja que carecen de medios para acceder a recursos de la banca comercial;
-
-VI.- Dirigidos a la realización de obras de infraestructura social y equipamiento urbano;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-VII.- De educación obligatoria;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-VIII.- De atención médica y los que tengan por objeto la realización de campañas de prevención y control de enfermedades; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-IX.- Destinados al cuidado y protección al medio ambiente y los recursos naturales para asegurar la sustentabilidad del desarrollo.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 15.
 
-Los programas sociales que se establezcan no deberán contar con los mismos objetivos y preferentemente tendrán una población objetivo distinta.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 16.
 
-Los programas sociales se definen como:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
-I.- Institucionales: Los formulados y ejecutados por cada una de las dependencias y entidades que se refieren a la materia propia del ámbito de su respectiva competencia en el desarrollo social;
-
-II.- Sectoriales: Los formulados y ejecutados por dos o más dependencias o entidades en materia de desarrollo social;
-
-III.- Especiales: Los formulados para ofrecer atención oportuna a contingencias en materia de pobreza, marginación, desnutrición, o situación de desastre;
-
-IV.- Regionales: Los formulados para resolver problemas de inequidad en el desarrollo territorial; y
-
-V.- Comunitarios: Los formulados con el objeto de incorporar al desarrollo a comunidades en situaciones de desigualdad.
+#### SECCION QUINTA. Determinación de la Base
 
 ###### ARTICULO 17.
 
-Los programas sociales contendrán, al menos, los siguientes elementos:
-
-I.- Diagnóstico y objetivos;
-
-II.- Responsabilidad, procedimientos, tiempos de ejecución y autoridades ejecutoras;
-
-III.- Fuentes de financiamiento;
-
-IV.- Bases de participación social organizada; y
-
-V.- Mecanismos de evaluación y control.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 18.
 
-Las dependencias y entidades que ejecuten programas sociales deberán incorporar al Padrón Unico de Beneficiarios la información de aquellas personas y sus familias que se vean beneficiadas con los mismos, su situación socioeconómica y, en general, toda la que se requiera dentro de sus reglas de operación.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 19.
 
-La ejecución de las acciones previstas en los programas sociales queda a cargo del Ejecutivo del Estado y de los Ayuntamientos de los Municipios en el ámbito de sus atribuciones.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 20.
 
-Cuando la ejecución de las acciones se realice con recursos de dos o más instancias o que así se convenga, el Ejecutivo del Estado y los Ayuntamientos de los Municipios podrán acordar cuál será la parte ejecutora.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 21.
 
-Los programas sociales y los recursos a ellos destinados, son prioritarios, de interés público y su presupuesto no podrá ser menor al requerido para alcanzar sus metas.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+#### SECCION SEXTA. Del Pago del Impuesto
 
 ###### ARTICULO 22.
 
-La distribución de los recursos destinados a los programas sociales señalados en el artículo anterior, se hará con criterios de igualdad y transparencia, conforme a la normatividad aplicable.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 23.
 
-El gasto destinado a los programas sociales para la erradicación de la pobreza no podrá ser inferior al del año fiscal anterior, en congruencia con la disponibilidad de recursos.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 24.
 
-Los recursos presupuestales estatales asignados a los programas sociales podrán ser complementados con recursos provenientes del Gobierno Federal y de los Ayuntamientos, así como con aportaciones de organismos internacionales y de los sectores social y privado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 25.
 
-El Ejecutivo del Estado podrá establecer y administrar un Fondo de Contingencia Social como respuesta a fenómenos económicos y presupuestales imprevistos. El Presupuesto de Egresos del Estado determinará el monto y las reglas mínimas a las que quedará sujeta su distribución y aplicación incluyendo las previsiones correspondientes para garantizar que los recursos del fondo sean utilizados en el ejercicio fiscal.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 26.
 
-Toda persona tiene derecho a participar y a beneficiarse de los programas sociales, de acuerdo con los principios rectores de la política social establecidos en el Artículo 5° de esta ley, en los términos que establezca la normatividad de cada programa.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 27.
 
-Toda persona o grupo social en situación de vulnerabilidad tiene derecho a recibir acciones y apoyos tendientes a disminuir su desventaja en los términos que establezca la normatividad de cada programa.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+#### SECCION SEPTIMA. De las manifestaciones y avisos
 
 ###### ARTICULO 28.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios, en sus respectivos ámbitos, formularán y aplicarán políticas compensatorias y asistenciales, así como oportunidades de ingreso en beneficio de las personas, familias y grupos sociales en situación de marginación, pobreza y vulnerabilidad, destinando para ello los recursos presupuestales necesarios para el cumplimiento de las metas cuantificables establecidas.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 29.
 
-Los beneficiarios de los programas sociales tienen los siguientes derechos:
-
-I.- Recibir un trato respetuoso, oportuno y con calidad;
-
-II.- Acceder a la información necesaria referente a dichos programas, sus reglas de operación, requisitos de acceso, recursos y cobertura, que deberá ser elaborada y publicada por las dependencias y entidades estatales y municipales correspondientes;
-
-III.- Tener la reserva y privacidad de la información personal;
-
-IV.- Presentar quejas y denuncias ante las instancias correspondientes por el incumplimiento de esta ley; y
-
-V.- Recibir los servicios y prestaciones de los programas conforme a sus reglas de operación, salvo que les sean suspendidos por resolución administrativa o judicial debidamente fundada y motivada.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 30.
 
-Los beneficiarios de los programas sociales tienen las siguientes obligaciones:
-
-I.- Participar de manera corresponsable en los programas;
-
-II.- Proporcionar la información socioeconómica que les sea requerida por las autoridades, en los términos que establezca la normatividad correspondiente; y
-
-III.- Cumplir con la normatividad de los programas.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 31.
 
-Con el propósito de asegurar la igualdad y la eficacia de los programas sociales, el Ejecutivo del Estado y los Ayuntamientos de los Municipios, en el ámbito de sus competencias, integrarán el Padrón Único de Beneficiarios de los Programas Sociales.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+### CAPITULO SEGUNDO. Del Impuesto sobre Ingresos Mercantiles
 
-### Capítulo Unico
-
-###### ARTICULO 4°.
-
-La presente ley tiene por objeto:
-
-I.- Garantizar el pleno ejercicio de los derechos sociales, la igualdad de oportunidades, y el acceso de la población al desarrollo social;
-
-II.- Promover la movilidad social para el mejoramiento integral de la calidad de vida de la población y establecer las bases de la participación y organización social en la materia;
-
-III.- Establecer los lineamientos generales a los que deben sujetarse las políticas públicas dirigidas al desarrollo social y a la superación de la marginación y la pobreza;
-
-IV.- Establecer un Sistema Estatal de Planeación del Desarrollo Social en el que participen los gobiernos federal, estatal y municipales;
-
-V.- Regular y garantizar la prestación de los bienes y servicios contenidos en los programas sociales, dando prioridad a las personas vulnerables y núcleos de población que mayores carencias presenten;
-
-VI.- Fomentar el sector social de la economía;
-
-VII.- Establecer mecanismos de evaluación y seguimiento de los programas sociales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-VIII.- Determinar las bases para la participación social en la materia;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
-
-IX.- Promover el establecimiento de instrumentos de acceso a la justicia, a través de la denuncia popular, en materia de desarrollo social;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
-
-X.- Fomentar el cuidado del medio ambiente, el aprovechamiento de los recursos naturales y la preservación de los ecosistemas para alcanzar la sustentabilidad del desarrollo y mejorar la calidad de vida y la productividad de las personas;
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
-
-XI.- Garantizar la evaluación permanente de las políticas públicas, programas y acciones de desarrollo social;
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
-
-XII.- Promover y ejecutar la participación de los distintos niveles de gobierno y de la sociedad, mediante programas, proyectos, estrategias y acciones orientadas al desarrollo social, con un enfoque sostenible, territorial y continuo, que contemple las dimensiones municipales y del Estado; y
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
-
-XIII.- Promover el bienestar social mediante el acceso a una vivienda adecuada, reconocida como un factor fundamental para mejorar la calidad de vida y garantizar el desarrollo integral de las personas y las comunidades.
+#### Sección Primera. Del Objeto
 
 ###### ARTICULO 32.
 
-La Secretaría de Bienestar Social será responsable de la integración y actualización de los datos relativos al Padrón Único de Beneficiarios de los Programas Sociales del Gobierno del Estado y podrá convenir con los gobiernos municipales la integración de los beneficiarios de sus programas sociales al padrón estatal.
+El impuesto sobre ingresos mercantiles grava en los términos de los artículos siguientes, los ingresos que se obtengan:
+
+I.- Por enajenación de bienes
+
+II.- Por arrendamiento de bienes
+
+III.- Por prestación de servicios
+
+IV.- Por comisiones y mediaciones mercantiles
 
 ###### ARTICULO 33.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios garantizarán el derecho de los beneficiarios y de la sociedad a participar de manera activa y corresponsable en la planeación, ejecución, evaluación y supervisión de la política social.
+Es "ingreso" toda percepción en efectivo, en bienes, en servicios, en valores, en títulos de crédito, en crédito en libros o en cualquier otra forma que se obtenga por los sujetos de este impuesto, como resultado de las operaciones gravadas por esta Ley.
 
 ###### ARTICULO 34.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios podrán convocar a las organizaciones civiles y sociales, instituciones académicas, organizaciones de la iniciativa privada y todas aquéllas que tengan como objetivo impulsar el desarrollo social, a participar en las acciones relacionadas con el diseño de la ejecución y evaluación de los programas y acciones en esta materia.
+El impuesto se causa sobre el ingreso total de las operaciones, gravadas por esta ley, en el momento en que se realicen aún cuando sean a plazo o a crédito, incluyendo el sobreprecio, los intereses o cualquiera otra prestación que lo aumente.
 
 ###### ARTICULO 35.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios procurarán la participación organizada amplia, plural y democrática, a través de figuras asociativas, en el ámbito de la comunidad, ejido, colonia, barrio o delegación, o cualquier otra unidad territorial en donde se apliquen programas sociales, para la priorización de sus demandas y gestión de obras, acciones y apoyos.
+Se considera "enajenación" toda traslación de dominio de carácter mercantil por la cual se perciba un ingreso.
 
 ###### ARTICULO 36.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios promoverán la participación organizada de los beneficiarios de los programas sociales, a través de figuras asociativas, en la ejecución, supervisión, control y vigilancia y mantenimiento de las obras, acciones y apoyos.
+Se entiende como ''arrendamiento'' la concesión del uso o goce temporal de una cosa que produzca un ingreso al arrendador.
 
 ###### ARTICULO 37.
 
-Se reconoce a la Contraloría Social como el mecanismo de los beneficiarios, de manera organizada, para verificar el cumplimiento de las metas y la correcta aplicación de los recursos públicos asignados a los programas sociales.
+Las prestaciones de servicios, objeto del impuesto, son las de índole mercantil.
 
 ###### ARTICULO 38.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios impulsarán la Contraloría Social y su representación en la participación organizada de los beneficiarios de los programas sociales financiados parcial o totalmente con recursos estatales o municipales.
+''Comisión Mercantil'' es el mandato otorgado al comisionista para ejecutar actos de comercio por cuenta del comitente, y ''mediación mercantil'' la actividad que desarrolla el mediador para relacionar a los contratantes. Quedan comprendidas en este precepto entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores, quienes deberán cumplir los requisitos que señala el artículo 39; de no satisfacerlos, causarán el impuesto sobre el ingreso total de la percepción.
 
 ###### ARTICULO 39.
 
-Son funciones de la Contraloría Social:
+El ingreso gravable de los comisionistas estará formado por la cantidad que perciban por concepto de remuneración por la comisión desempeñada, siempre que se satisfagan los requisitos siguientes:
 
-I.- Solicitar la información a las autoridades estatales y municipales responsables de los programas sociales que considere necesaria para el desempeño de sus funciones;
+I.- Que exista contrato escrito en el que se estipule la comisión ya sea en una cantidad fija o en un porcentaje sobre el precio de la operación;
 
-II.- Vigilar el ejercicio de los recursos públicos y la aplicación de los programas sociales, conforme a la ley;
+II.- Que el comisionista, ponga a disposición de las autoridades fiscales, cuando éstas lo soliciten, los comprobantes de las cuentas rendidas a su comitente y de las comisiones percibidas.
 
-III.- Emitir informes sobre el desempeño de los programas sociales y la ejecución de los recursos públicos;
+De no satisfacer los requisitos anteriores se estimará que el comisionista ha obrado en su nombre y por cuenta propia, y el impuesto se causará sobre el ingreso total de la operación.
 
-IV.- Atender e investigar las quejas y denuncias presentadas sobre la aplicación de los recursos y la ejecución de los programas sociales; y
-
-V.- Presentar ante la autoridad competente, las quejas y denuncias que puedan dar lugar al fincamiento de responsabilidades administrativas, civiles o penales relacionadas con los programas sociales.
+El ingreso gravable del propietario de las mercancías estará formado por el total de los ingresos obtenidos con motivo de las operaciones celebradas por el comisionista, agente, consignatario, representante, corredor o distribuidor, sin que sea deducible, para este efecto, la retribución estipulada.
 
 ###### ARTICULO 40.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios facilitarán a la Contraloría Social el acceso a la información y la capacitación necesarios para el cumplimiento de sus funciones.
+El impuesto se causa sobre la diferencia entre el precio de compra y el de venta cuando se perciban ingresos por:
+
+I.- La venta de cigarros hecha por comerciantes que los compren directamente a las fábricas para su venta al mayoreo.
+
+II.- La enajenación de billetes de la Lotería Nacional.
+
+III.- La venta de medicinas a farmacias, boticas, droguerías y otros establecimientos autorizados para venderlas, cuando sea efectuada por representantes o distribuidores, que las adquieran directamente de los fabricantes o importadores, siempre que no repercutan el impuesto y cumplan los requisitos que posteriormente se mencionarán. Se aplicará la misma norma por lo que toca a los ingresos derivados de la venta de productos distintos de las medicinas, siempre que no excedan del 10% de los que perciban en total; en caso contrario cubrirán el impuesto sobre la totalidad de dichos ingresos.
+
+Los requisitos que deberán cumplir los causantes a que se refiere la presente fracción, son los siguientes:
+
+a) Que exista contrato escrito que los acredite como representantes o distribuidores de los fabricantes, laboratorios o importadores;
+
+b) Que no realicen ventas al público; y
+
+c) Que sus precios en la enajenación a boticas, farmacias, droguerías o cualesquier otro establecimiento autorizado para vender medicamentos, no excedan de los precios oficiales fijados para el efecto.
+
+Los causantes a que la presente Fracción se refiere, para cubrir el impuesto en sus declaraciones mensuales, aplicarán a sus ingresos gravables el coeficiente de utilidad bruta o sea el porcentaje que representa la diferencia entre el precio de compra y el precio de venta, coeficiente o porcentaje que resulte del último estado de pérdidas y ganancias. La Tesorería General podrá revisar dicho estado de pérdidas y ganancias, para el efecto de fijar el coeficiente correcto. El coeficiente o porcentaje será aplicable tanto a la matriz como a las sucursales del causante.
+
+Dentro de los tres meses siguientes a la fecha de su balance anual, se harán los ajustes correspondientes y se pagarán de inmediato las diferencias que resulten. Si las diferencias resultan a favor del causante, podrá compensarlas en su declaración siguiente, sin que requiera resolución previa para este efecto.
+
+Si los causantes de que se trata repercuten el impuesto o no cumplen los requisitos expresados, cubrirán el gravamen sobre el total de los ingresos derivados de la venta de medicinas y, respecto de productos distintos a éstas, procederán en la forma previta (sic) por el artículo 77 de esta Ley.
+
+#### SECCION SEGUNDA. DEL SUJETO Y DEL DOMICILIO
 
 ###### ARTICULO 41.
 
-Toda persona u organización tiene derecho a presentar denuncia, ante la autoridad competente, sobre cualquier hecho, acto u omisión, que a su juicio produzca o pueda producir daños al ejercicio de sus derechos sociales.
+Es sujeto de este impuesto la persona física o moral que obtiene el ingreso con motivo de operaciones gravadas por esta Ley, realizadas o que surtan sus efectos en el territorio del Estado de Nuevo León.
+
+Los sujetos del impuesto podrán trasladarlo expresamente al comprador o usuario del servicio. Cuando lo hagan, consignarán por separado, en las facturas o notas de venta que expidan, el importe de la operación y el monto del impuesto, que se calculará exclusivamente sobre dicho importe. Esta disposición no será aplicable a quienes obtengan ingresos provenientes de la explotación de hoteles, casas de huéspedes, restaurantes, campos de turismo o negocios simliares (sic), siempre que estén autorizados para operar en los términos de la Ley Federal de Turismo.
+
+Si las mercancías tienen señalado precio oficial, se podrá trasladar el impuesto en forma expresa, sin que este hecho se considere como alteración de ese precio. Los productores, así como los primeros distribuidores de artículos de importación obligados a pagar el gravamen, deberán consignar separadamente el importe de la operación y el monto del impuesto, en la primera enajenación que efectúen a comerciantes o industriales.
+
+La expedición de facturas será obligatoria en las operaciones celebradas entre comerciantes o industriales, si el precio de la enajenación o de los servicios prestados excede de $1,000.00 (un mil pesos), o cuando tales documentos sean exigidos por los particulares, debiendo expedirse dentro de los sesenta días siguientes a la fecha de la operación.
 
 ###### ARTICULO 42.
 
-La denuncia popular podrá ejercitarse por cualquier persona u organización, bastando que se presente por escrito y contenga:
+Asimismo se considera que los ingresos derivados de las operaciones a las que se refiere el artículo 32, quedan gravados por esta Ley:
 
-I.- El nombre o razón social, domicilio y demás datos que permitan la identificación del denunciante y, en su caso, de su representante legal;
+I.- Cuando una persona domiciliada dentro del territorio del Estado, los perciba por operaciones realizadas fuera del mismo, aún cuando sea por conducto de sus sucursales, despachos, bodegas, agencias, agentes o dependencias domiciliados fuera del territorio citado.
 
-II.- Los actos, hechos u omisiones denunciados;
+II.- Cuando los obtenga alguna persona domiciliada fuera del territorio del Estado que tenga dentro del mismo sucursales, agencias, despachos, bodegas o dependencias, por pagos efectuados por personas domiciliadas dentro del territorio del mismo.
 
-III.- Los datos que permitan identificar a la presunta autoridad infractora; y
-
-IV.- Las pruebas que en su caso ofrezca el denunciante.
+En este caso las sucursales, agencias, despachos, bodegas o dependencias quedan obligadas al pago íntegro del impuesto causado.
 
 ###### ARTICULO 43.
 
-Se consideran de atención prioritaria las regiones, Municipios, localidades y áreas cuya población registra índices de pobreza y marginación indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
-
-El Ejecutivo del Estado dispondrá en el Presupuesto de Egresos Anual que corresponda, un monto presupuestal específico, dentro del presupuesto asignado a la Secretaría de Educación, a efecto de dotar de los útiles escolares, según la lista oficial de éstos, determinada por la Secretaría de Educación del Estado, al inicio de los ciclos escolares, a los niños inscritos en los niveles de preescolar y de educación primaria de los municipios de Antiguo Morelos, Burgos, Bustamante, Cruillas, Jaumave, Méndez, Miquihuana, Nuevo Morelos, Palmillas, San Carlos, San Nicolás y Tula. La entrega de dichos beneficios se realizará de manera gratuita y en tiempo y forma a través del sistema educativo del Estado, al inicio de cada ciclo escolar a cada alumno inscrito.
+Para los efectos de esta Ley se considera percibido el ingreso en el lugar donde el contribuyente establezca su negocio, industria o comercio y que está obligado a manifestar al empadronarse, debiendo llevar en el mismo el control de sus ingresos. Cuando el ingreso se perciba fuera del Estado, con motivo de operaciones realizadas o que surtan efectos en el mismo, el Impuesto se pagará de manera semejante al sistema establecido en el Artículo 81, Fracción I de esta Ley.
 
 ###### ARTICULO 44.
 
-El titular del Poder Ejecutivo del Estado presentará ante el Poder Legislativo local la declaratoria de las regiones, Municipios, localidades y áreas que requieran atención prioritaria, sin detrimento de las zonas prioritarias determinadas por las instancias federales.
+Las sucursales, despachos, bodegas o dependencias que no perciban ingresos y que no queden comprendidos en lo dispuesto por la Fracción II del artículo 42, presentarán sus declaraciones por una sola vez en la oficina que los haya empadronado, manifestando que no obtienen ingresos gravables.
 
 ###### ARTICULO 45.
 
-El Ejecutivo del Estado revisará anualmente las regiones, Municipios, localidades y áreas de atención prioritaria e informará al Congreso del Estado sobre su modificación, en su caso.
+Se considera que los vendedores ambulantes no eximidos del pago del impuesto, tienen su domicilio en el lugar que como tal hayan señalado en su solicitud de empadronamiento.
+
+#### SECCION TERCERA. DE LA TASA
 
 ###### ARTICULO 46.
 
-La declaratoria tendrá los efectos siguientes:
+El impuesto se causará a razón del 12 al millar sobre el monto total de los ingresos gravables percibidos por los causantes de los Municipios de Monterrey, Allende, Apodaca, Cadereyta, Garza García, General Escobedo, Guadalupe, Linares, Montemorelos, Sabinas Hidalgo, San Nicolás de los Garza, Santa Catarina y Santiago. En los demás Municipios del Estado, la tasa será del 9 al millar sobre el monto total de los ingresos gravables.
 
-I.- Constituirse como instrumento en la definición de la proporción presupuestal mínima de los programas sociales, determinada por el Ejecutivo del Estado, destinada a elevar los índices de bienestar de la población en los rubros deficitarios en las regiones, municipios, localidades y áreas que requieran atención prioritaria;
-
-II.- Establecer estímulos fiscales para promover actividades productivas generadoras de empleo;
-
-III.- Generar programas de apoyo, financiamiento y diversificación a las actividades productivas; y
-
-IV.- Desarrollar obras de infraestructura social necesarias para asegurar el disfrute y ejercicio de los derechos para el desarrollo social.
+#### SECCION CUARTA. DE LOS INGRESOS EXENTOS
 
 ###### ARTICULO 47.
 
-El Ejecutivo del Estado podrá convenir con el Ejecutivo Federal y con los Ayuntamientos de los Municipios, recursos, obras, acciones y apoyos destinados a la ejecución de programas en las regiones, Municipios, localidades y áreas que requieran atención prioritaria.
+No causan impuesto:
 
-## Título VIII. Del Fomento del Sector Social de la Economía
+I.- Los ingresos obtenidos en los establecimientos que limitativamente se enumeran a continuación, y que en forma exclusiva operen con los artículos propios de su ramo:
+
+a) Tortillerías, expendios de masa de maíz, molinos maquileros de nixtamal, molinos productores de masa de nixtamal, y molinos productores de harina de trigo o de maíz;
+
+b) Panaderías o fábricas de pan. Cuando estos establecimientos tengan venta de pasteles, deberán llevar la separación de ingresos prevista en el artículo 77 o de lo contrario causarán el impuesto sobre sus ingresos totales. No quedarán comprendidos en esta exención los ingresos provenientes de la enajenación de galletas y pastas de cualquier clase o denominación;
+
+c) Carnicerías;
+
+d) Pescaderías y expendios de mariscos, cuando sus productos no se consuman en el mismo establecimiento;
+
+e) Verdulerías y fruterías;
+
+f) Lecherías y plantas pasteurizadoras de leche;
+
+g) Carbonerías;
+
+h) Los establecimientos a que se refieren las fracciones II y III de este artículo;
+
+II.- Los ingresos obtenidos en puestos ubicados en la vía pública y en los mercados públicos, que reúnan los siguientes requisitos:
+
+a) Que causen los derechos municipales de mercados;
+
+b) Que no enajene bebidas que contengan alcohol, excepto cerveza en envase cerrado;
+
+c) Que su activo en mercancía no exceda de $10,000 00 teniendo en cuenta las existencias en el puesto y las guardadas en el domicilio del propietario o en la bodega o en cualquier otro local.
+
+No gozarán de esta exención los causantes establecidos en accesorias o locales en el interior o exterior de los mercados o en las calles adyacentes a los mismos;
+
+III.- Los talleres de manufacturas, reposición o compostura, ubicados en puestos semifijos o fijos en el interior de los mercados públicos, siempre que reúnan los siguientes requisitos:
+
+a) Que la herramienta y maquinaria que usen así como el valor de las materias primas o materiales accesorios que empleen, sean de su propiedad y no excedan de $10,000 00;
+
+b) Que no ocupen personas que estén sujetas a contrato de trabajo, y que los mismos sean atendidos personalmente por el propietario Quedan incluidas dentro de esta franquicia las personas que exploten talleres familiares en locales que también usen como habitación, siempre que satisfagan los requisitos a que se refieren los inicios a) y b) de esta fracción;
+
+IV.- Los ingresos que procedan de la enajenación de los artículos siguientes:
+
+a) Aguas purificadas, destiladas o potables, no gaseosas ni compuestas, así como el hielo y las aguas detinadas (sic) al riego;
+
+b) Maíz, frijol, arroz y trigo, así como otras semillas que se utilicen en la alimentación humana, siempre que no se modifique su forma estado o composición;
+
+c) Azúcar, mascabado, piloncillo y sal;
+
+d) Carbón vegetal, petróleo diáfano y tractolina;
+
+e) Ganado porcino, cabrío, lanar y vacuno, con excepción de los toros y novillos de lidia;
+
+f) Carnes en estado natural, frescas, refrigeradas o congeladas;
+
+g) Pescados y mariscos en estado natural, frescos, refrigerados o congelados;
+
+h) Aves de corral y huevos;
+
+i) Legumbres, verduras y frutas en estado natural, siempre que no se modifique su forma, estado o composición;
+
+j) Tortillas, masa de nixtamal, harina de maíz y pan, excepto pastel;
+
+k) Leche natural, condensada, evaporada, deshidratada, rehidratada o enlatada;
+
+l) Tabaco en rama;
+
+m) Energía eléctrica;
+
+n) Gas destinado a uso doméstico y gas industrial, siempre que por su enajenación el estado perciba alguna participación federal en el impuesto correspondiente.
+
+Se entiende por gas industrial el derivado del petróleo conteniendo metano, etano propano y butano ciclo-propano, siempre que sea suministrado mediante tubería desde una población distinta a la de consumo.
+
+Los gases licuados como anhídrido carbónico, acetileno, argón, freón, (refirgerante) (sic), helio hidrógeno, nitrógeno, oxígeno, etc., pagarán el impuesto íntegro.
+
+ñ) Sombreros de palma y huaraches, excepto cuando estos artículos sean vendidos por establecimientos especializados en el comercio para el turismo nacional o extranjero;
+
+V.- Los ingresos que obtengan los vendedores ambulantes, siemper (sic) que satisfagan los requisitos siguiente (sic):
+
+a) Que las mercancías que enajenen sean de su propiedad;
+
+b) Que efectúen las ventas directamente al consumidor;
+
+c) Que su activo, formado por el valor de las mercancías, muebles o enseres, no exceda de $5,000.00;
+
+d) Que no utilicen para sus operaciones vehículos de motor;
+
+VI.- Los ingresos que procedan de la venta de bienes que representen inversiones de capital fijo; de aportaciones de capital; de la enajenación de porciones en las sociedades de personas, y de la distribución entre los socios del haber social, en los casos de disolución de sociedades;
+
+VII.- Los ingresos que obtengan los agricultores y los ganaderos de la venta de primera mano de los productos no industrializados de sus ranchos, granjas o fincas agrícolas o ganderas (sic), con excepción de la enajenación de algodón, de flores cultivadas y de toros y novillos de lidia que pagarán el impuesto íntegro;
+
+VIII.- Los ingresos obtenidos por la primera enajenación de mercancías gravadas por impuestos especiales sobre la producción, explotación o venta de primera mano, decretados por el Estado de Nuevo León o por la Federación, siempre que en este último caso el Estado perciba participación sobre los mismos.
+
+Esta exención no se aplicará en los siguientes casos:
+
+a) Cuando las mercancías al ser enajenadas hayan sido sometidas a nuevos procedimientos de elaboración, transformación o adaptación, o no conserven el mismo estado y condiciones en que fueron gravadas por los impuestos especiales citados.
+
+b) Cuando los impuestos especiales recaigan sobre cualquier hecho generador distinto de la producción, explotación o venta de primera mano.
+
+c) A las enajenaciones de mercancías gravadas sólo con algún derecho.
+
+d) A las enajenaciones de automóviles y camiones ensamblados en el país, efectuadas directamente al público en el local de la planta, en salas de exhibición o por conducto de algún concesionario.
+
+e) A los ingresos percibidos por la industrialización y venta de minerales no metálicos. Se entiende por industrialización que sean molidos o triturados, calcinados, empacados y en general, que sean sometidos a cualquier proceso posterior al beneficio definido por el Reglamento de la Ley de Impuestos a la Minería.
+
+f) A los ingresos que se obtengan en los cabarets, pulquerías, cantinas, piqueras y demás lugares en que se expendan bebidas embriagantes;
+
+IX.- Los sujetos que se dediquen a la edición, impresión, venta o alquiler de libros, periódicos, revistas o de láminas geográficas, anatómicas o artísticas, de música impresa que no sea en discos o cintas, únicamente por los ingresos provenientes de la producción, distribución y venta de las publicaciones;
+
+X.- Los ingresos procedentes de la venta o del arrendamiento de bienes inmuebles y los derivados del arrendamiento de negociaciones comerciales, industriales o agrícolas.
+
+No quedan comprendidos en esta franquicia:
+
+a) Los ingresos provenientes del arrendamiento de casas o apartamientos amueblados, así como los destinados al hospedaje, ni aún cuando tales percepciones las obtengan las instituciones a que se refiere la Fracción XII de este Artículo:
+
+b) Las ventas de lotes de terreno a los particulares en los panteones, verificadas por las personas dedicadas a dicha actividad;
+
+c) Los negocios destinados al estacionamiento de autos y vehículos en general, y que operen con propósito de especulación mercantil o lucrativa;
+
+XI.- Los ingresos procedentes de la enajenación de valores y de títulos de crédito;
+
+XII.- Los ingresos que provengan de operaciones efectuadas por Instituciones de Crédito y Organizaciones Auxiliares, de seguros y de fianzas, que sean propias de su objeto directo;
+
+XIII.- Los ingresos obtenidos por los agentes de bolsa, agentes y corredores de valores, agentes y corresponsales de bancos, agentes de seguros, de fianzas y capitalización, siempre que dichas percepciones procedan de actividades propias de sus funciones;
+
+XIV.- Los ingresos obtenidos por las sociedades cooperativas de consumo, únicamente con motivo de las ventas hechas a sus socios;
+
+XV.- Los ingreso (sic) por ventas de primera mano de petróleo y sus derivados efectuadas directamente por Pertóleos (sic) Mexicanos, por sus agencias o por los expendedores, siempre que cubran el impuesto especial establecido por la Ley de Hacienda del Estado;
+
+XVI.- Los ingresos que perciban las empresa (sic) que hayan sido objeto de franquicias de acuerdo con la Ley de Fomento Industrial y Desarrollo Económico en vigor, en los términos de las declaratorias de exención dictadas por la Autoridad competente;
+
+XVII.- Los ingresos percibidos por los constructores de inmuebles para obras públicas, derivados de contratos celebrados con la Federación, Estados, Distrito Federal, Municipio y Organismos Descentralizados.
+
+Esta exención no es aplicable a los ingresos obtenidos por el suministro, enajenación de bienes y prestación de servicios a las entidades y organismos mencionados, aún cuando se relacionen con la ejecución de obras públicas y se elaboren o adapten con sujeción a determinadas especificaciones. La exención tampoco ampara a los subcontratistas;
+
+XVIII.- Los ingresos obtenidos por establecimientos penitenciarios, de beneficencia y los de enseñanza pública o privada reconocidos por la Autoridad competente;
+
+XIX.- Los que procedan de cuotas de los miembros de las asocia- (sic);
+
+XX.- Los ingresos que obtengan las empresas de espectáculos y diversiones públicas, exclusivamente por la venta de boletos, comprobantes o contraseñas que permitan al público la entrada o el acceso al espectáculo o diversión, así como los que provengan de juegos permitidos con apuestas, loterías, rifas o sorteos, siempre que por estas actividades se cubran los gravámenes especiales establecidos por esta Ley o las Municipales correspondientes;
+
+XXI.- Los ingresos que obtengan las empresas porteadoras por el transporte de personas o cosas;
+
+XXII.- Los ingresos percibidos por el alquiler o uso de aparatos fonoelectromecánicos;
+
+XXIII.- Los ingresos que procedan de la prestación de servicios profesionales. No favorece esta excención (sic) a las empresas formadas por socios profesionistas que se encuentren organizada (sic) en forma mercantil, ni a lo (sic) profesionistas que actúen como empresarios;
+
+XXIV.- Los ingresos percibidos por las personas que cobren comisiones o corretajes, que constituyan formas de fijar sueldos y sobresueldos, cuando por éstos se pague el Impuesto sobre Nóminas;
+
+XXV.- Las empresas y sindicatos que perciban ingresos por la venta de artículos de consumo necesarios, siempre que satisfagan los requisitos siguientes:
+
+a) Que operen exclusivamente con sus trabajadores, si se trata de empresas, o con sus agremiados, en el caso de sindicatos;
+
+b) Que las ventas no se efectúen a precio mayor del costo;
+
+c) Que el volumen de las ventas de mercancías no exceptuadas del pago del gravamen por este artículo, no exceda del 25% del importe total de los sueldos o salarios mensuales que se les paguen a los trabajadores de la empresa, o a los agremiados al sindicato de que se trate;
+
+d) Que presenten solicitud, acompañada de una relación de los artículos que pretenden vender, a la Tesorería General, y que el Ejecutivo declare la exención correspondiente;
+
+XXVI.- Los ingrsos (sic) obtenidos en los establecimientos comúnmente denominados tendajones, estanquillos o misceláneas, que reúnan los requisito (sic) ssiguientes (sic):
+
+a) Que estén atendidos directamente por el propietario.
+
+b) Que su activo no exceda de $10,000.00, ni sus ventas anuales de $30,000.00.
+
+c) Que preferentemente enajenen productos alimenticios.
+
+d) Que las ventas se efectúen directamente al consumidor.
+
+e) Que no expendan bebidas alcohólicas, excepto cerveza.
+
+XXVII.- Los ingresos obtenidos en los cafés, fondas, loncherías y cocinas económicas, que reúnan los siguientes requisitos:
+
+a) Que su activo no exceda de $10,000.00 ni sus ventas anuales de $30,000.00;
+
+b) Que no expendan bebidas alcohólicas, excepto cerveza;
+
+XXVIII.- Los productos agrícolas y los subproductos industriales, que se empleen como materia prima en la elaboración de alimentos para animales.
 
 ###### ARTICULO 48.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios promoverán las actividades productivas para la generación de empleos e ingreso de personas, familias, grupos y organizaciones productivas, destinando recursos públicos a proyectos productivos, a identificar oportunidades de inversión, y a brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de estas actividades.
+En los casos en que los causantes se amparen en las exenciones del artículo 47 y obtengan ingresos gravables sin presentar sus declaraciones ni pagar el impuesto que a ellos corresponde, se presumirá que el causante ha obtenido dichos ingresos gravables desde que inició sus operaciones o desde la fecha de vigencia de este precepto, y deberá pagar el impuesto sobre la totalidad de sus ingresos, incluyendo los que pudieren haber estado exceptuados.
 
 ###### ARTICULO 49.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios podrán aportar recursos como capital de riesgo para dar viabilidad a las empresas sociales y destinar recursos para apoyar a personas, familias y organizaciones sociales cuyo objeto sea el financiamiento de proyectos productivos y de desarrollo social.
+Los ingresos provenientes de la explotación de cabarets, cantinas, restaurantes con baile o variedades y demás establecimientos similares que expendan bebidas alcohólicas al copeo, cualquiera que sea su denominación, causan el impuesto sin deducción alguna.
+
+Los establecimientos comprendidos en este artículo podrán ser gravados, además con impuestos especiales sobre expendios de bebidas alcohlicas (sic), tanto por el Estado como por los Municipios.
+
+#### SECCION QUINTA. De las deducciones y de las Rectificaciones
 
 ###### ARTICULO 50.
 
-El Ejecutivo del Estado brindará financiamiento a personas en situación de desventaja, que carecen de medios para acceder a recursos de la banca comercial, a través de esquemas organizativos orientados el ahorro, el manejo crediticio, a la capacitación y al desarrollo de proyectos productivos.
+Para los efectos de esta Ley no se consideran ingresos gravables, en los términos de la fracción I del Artículo 32:
 
-## Título IX. Del Sistema Estatal de Planeación del Desarrollo Social
+I.- Los gastos por seguros, acarreos, fletes, empaques, envolturas, envases exteriores, impuestos, derechos y otros semejantes que haga el vendedor con motivo del envío de las mercancías, siempre que éstos se carguen al comprador, sin que se altere el importe de dichos gastos complementarios. No se aplicará lo dispuesto en esta fracción cuando el precio se pacte libre de gastos para el comprador;
+
+II.- Los descuentos y bonificaciones hechos por el vendedor al comprador;
+
+III.- Los que se reintegren con motivo de la devolución de mercancías, en los casos en que las enajenaciones se rescindan total o parcialmente.
 
 ###### ARTICULO 51.
 
-Se instituye el Sistema Estatal de Planeación del Desarrollo Social, con la coordinación y concertación del Ejecutivo del Estado, a través de la Secretaría de Bienestar Social, y la concurrencia y colaboración de las dependencias y entidades estatales relacionadas con la materia, los Municipios, los sectores social y privado, y la sociedad civil, de conformidad con la Ley Estatal de Planeación y en concordancia con el Sistema Nacional de Desarrollo Social.
+No se consideran ingresos gravables los que provengan del reintegro o del anticipo que haga la persona que reciba el servicio a quien los presta, de los gastos, que sean ocasionados por servicios complementarios del principal, siempre que se haga por cuenta del cliente y reúnan los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+I.- Que el prestador del servicio principal no pueda proporcionar directamente los servicios complementarios;
+
+II.- Que el prestador del servicio principal no altere los precios de los servicios complementarios al cargarlos en cuenta al cliente.
 
 ###### ARTICULO 52.
 
-La Secretaría de Bienestar Social, en el marco del Sistema Estatal de Planeación del Desarrollo Social, coordinará los programas sociales, obras, acciones, apoyos e inversiones para el cumplimiento de los principios rectores, vertientes y objetivos de la Política Estatal de Desarrollo Social.
+Las personas que perciban ingresos por operaciones comprendidas en la fracción IV del artículo 32, no podrán verificar deducción alguna ni por gastos en la realización de la comisión, mediación, consignación, agencia, representación, correteaje o distribución y se consideran como ingresos los gastos y erogaciones que por cualquier concepto cargue o cobre el agente al representante o comitente, incluso los viáticos y gastos de viaje o de oficina.
+
+Los causantes señalados en el párrafo anterior pagarán el impuesto sobre el importe de sus comisiones o corretajes, con la sola deducción de las comisiones cedidas a otros agentes.
 
 ###### ARTICULO 53.
 
-El Sistema Estatal de Planeación del Desarrollo Social tiene por objeto:
-
-I.- Integrar la participación de los sectores público, social y privado en el cumplimiento de los principios rectores, vertientes y objetivos de la Política Estatal de Desarrollo Social;
-
-II.- Establecer la concurrencia entre las dependencias y entidades estatales, en la formulación, ejecución e instrumentación de los programas sociales;
-
-III.- Promover la concurrencia, vinculación y congruencia de los programas sociales de los gobiernos municipales con los principios rectores, vertientes y objetivos de la Política Estatal de Desarrollo Social; y
-
-IV.- Fomentar la participación de la sociedad civil, y en general, de los sectores social y privado en el desarrollo social.
+Cuando los causantes a que se refiere el artículo anterior perciban ingresos con motivo de operaciones realizadas con artículos exentos de acuerdo con el Artículo 47 de esta Ley, las exenciones sobre la enajenación de estos artículos no los ampararán ni beneficiarán y en consecuencia pagarán el impuesto sobre el importe de sus ingresos gravables, conforme a esta disposición.
 
 ###### ARTICULO 54.
 
-Corresponden al Ejecutivo del Estado, en el ámbito de su competencia, las atribuciones siguientes:
+Los contribuyentes que, como consecuencia de las operaciones que realicen, registren en sus libros autorizados, asientos que comprueben aumentos o disminuciones de los ingresos declarados y, consecuentemente, afecten el monto del impuesto pagado, podrán hacer el aumento a su cargo o la disminución a su favor del impuesto rectificado en la declaración mensual siguiente al mes en que efectivamente hayan registrado dichos asientos.
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+También podrán hacer rectificaciones cuando descubran errores en las declaraciones presentadas que motiven una diferencia de más o de menos en el impuesto pagado, siempre que las hagan en la declaración mensual siguiente a aquella que se rectifique.
 
-I.- Formular y ejecutar el Programa Estatal de Desarrollo Social, a través de la Secretaría de Bienestar Social;
-
-II.- Convenir acciones y programas sociales con el Ejecutivo Federal;
-
-III.- Convenir acciones y programas sociales con los Ayuntamientos de los Municipios;
-
-IV.- Ejercer los fondos y recursos federales descentralizados o convenidos en materia social, en los términos de las leyes respectivas; así como informar a la Secretaría de Desarrollo Social del Gobierno Federal sobre el avance y resultado de los mismos;
-
-V.- Proponer al Poder Legislativo la declaratoria de regiones, municipios, localidades y áreas de atención prioritaria del Estado;
-
-VI.- Informar a la sociedad sobre las acciones en torno al desarrollo social; y
-
-VII.- Las demás que la presente ley y otras disposiciones legales aplicables le confieran.
+Estas rectificaciones solamente podrán hacerse a las declaraciones presentadas durante un ejercicio fiscal y en los plazos establecidos en los párrafos anteriores. Cumpliéndose con los requisitos establecidos no se cobrarán recargos ni se impondrán sanciones por los impuestos omitidos declarados.
 
 ###### ARTICULO 55.
 
-Las atribuciones de los Ayuntamientos de los Municipios, en el ámbito de su competencia, son las siguientes:
+Cuando los contribuyentes no hayan hecho uso de las prerrogativas que les concede el artículo anterior en, los meses de enero, febrero y marzo, o dentro de los tres meses siguientes a la fecha de su balance anual, podrán proponer rectificaciones de las declaraciones mensuales presentadas en el ejercicio fiscal anterior, que motiven omisión de impuestos, siempre que pongan en conocimiento de la Autoridad fiscal de su jurisdicción los asientos que las comprueben y que ésta dicte resolución aprobándolos. En este caso pagarán el impuesto omitido más los recargos correspondientes.
 
-I.- Formular y ejecutar el Programa Municipal de Desarrollo Social;
-
-II.- Formular, aprobar y aplicar sus propios programas sociales en concordancia con el Sistema Estatal de Planeación del Desarrollo Social y el Sistema Nacional de Desarrollo Social;
-
-III.- Coordinar, con el Ejecutivo del Estado, la ejecución de los programas sociales;
-
-IV.- Coordinar acciones, con otros Ayuntamientos municipales del Estado, en materia de desarrollo social;
-
-V.- Coordinar acciones de desarrollo social con Ayuntamientos de los Municipios de otras entidades federativas, con la aprobación de las legislaturas correspondientes;
-
-VI.- Ejercer los fondos y recursos federales descentralizados o convenidos en materia social en los términos de las leyes respectivas; así como informar al Ejecutivo del Estado, sobre el avance y resultados de esas acciones;
-
-VII.- Concertar acciones con los sectores social y privado en materia de desarrollo social;
-
-VIII.- Establecer mecanismos para incluir la participación social organizada a través de figuras asociativas comunitarias y de obras, acciones y apoyos de sus programas sociales;
-
-IX.- Informar a la sociedad sobre las acciones en torno al desarrollo social; y
-
-X.- Las demás señaladas en la presente ley y otras disposiciones legales aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+Si las rectificaciones comprueban que los contribuyentes pagaron impuesto en mayor cantidad que la que correspondía, ejercitarán la acción procedente para obtener su devolución, en los términos del Código Fiscal del Estado.
 
 ###### ARTICULO 56.
 
-Corresponden a la Secretaría de Bienestar Social las siguientes atribuciones:
+Los contribuyentes por iniciativa propia no podrán hacer las rectificaciones a que se refieren los artículos anteriores, cuando se descubra falsedad en los asientos de su contabilidad, cuando la omisión del impuesto haya sido descubierta de antemano por alguna Autoridad, funcionario o empleado, cuando la haya precedido denuncia, cuando con anterioridad se haya iniciado una auditoría al responsable o presunto responsable, o haya sido requerido del pago de alguna prestación fiscal derivada de esta Ley.
 
-I.- Proyectar y coordinar la Planeación Estatal del Desarrollo Social;
-
-II.- Formular, aprobar y aplicar los programas sociales en el ámbito de su competencia;
-
-III.- Convenir en el ámbito de su competencia con el Gobierno Federal, cuando así se requiera;
-
-IV.- Convenir con los Ayuntamientos de los Municipios la coordinación de recursos, obras, acciones y apoyos de los programas sociales;
-
-V.- Concertar acciones con diversos organismos en materia de desarrollo social;
-
-VI.- Fomentar la organización y participación ciudadana en los programas sociales;
-
-VII.- Informar a la sociedad sobre las acciones en torno al desarrollo social;
-
-VIII.- En materia de desarrollo social, promover y apoyar instrumentos de financiamiento popular y proyectos productivos;
-
-IX.- Promover el intercambio de experiencias en materia de desarrollo social;
-
-X.- Establecer los lineamientos y criterios para la definición, identificación y medición de la marginación y la pobreza;
-
-XI.- Validar las reglas de operación de los programas sociales;
-
-XII.- Someter a consideración del Ejecutivo del Estado, la propuesta de declaratoria de las regiones, Municipios, localidades y áreas que requieran atención prioritaria, para presentarla ante la Legislatura del Estado;
-
-XIII.- Promover la realización de los estudios necesarios para contar con información actualizada sobre problemas sociales de marginación y pobreza específicos;
-
-XIV.- Coordinar y supervisar la conformación de figuras asociativas comunitarias y de obras, acciones y apoyos de las dependencias y entidades que ejecuten programas sociales;
-
-XV.- Promover la capacitación de las figuras asociativas comunitarias en esquemas de planeación participativa para la priorización de sus demandas y la gestión de obras, acciones y apoyos;
-
-XVI.- Promover la capacitación de las figuras asociativas beneficiarias de las obras, acciones y apoyos de los programas sociales en su ejecución, supervisión, control y vigilancia y mantenimiento;
-
-XVII.- Integrar, coordinar y supervisar la conformación del Padrón Unico de Beneficiarios de los Programas Sociales; y
-
-XVIII.- Las demás que le señala la presente ley y otras disposiciones legales aplicables.
+#### SECCION SEXTA. De las oficinas recaudadoras y del empadronamiento
 
 ###### ARTICULO 57.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios podrán acordar el destino y los criterios del gasto social a través de Convenios para el Desarrollo Social en los que se establecerá la coordinación de recursos, obras, acciones y apoyos de los programas sociales.
+Para los efectos de este impuesto se consideran oficinas recaudadoras:
+
+I.- La Tesorería General del Estado, en el Municipio de Monterrey, y
+
+II.- Las Oficinas Recaudadoras del Estado dentro de sus respectivas jurisdicciones, en los demás Municipios del mismo.
 
 ###### ARTICULO 58.
 
-Los Convenios para el Desarrollo Social constituyen el instrumento de concurrencia entre el Estado y los Municipios, para dar cumplimiento, en cada ejercicio presupuestal, a los programas sociales para concertar:
+Los causantes de este impuesto están obligados a empadronarse en la oficina recaudadora de su jurisdicción. Cuando un mismo causante tenga diversos giros, sucursales, bodegas o dependencias, deberá empadronar cada uno de ellos por separado.
 
-I.- La congruencia de los programas estatales y municipales; y
-
-II.- Los recursos, obras, acciones y apoyos de los programas sociales que se ejecuten de manera concurrente.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 59.
 
-En los casos en que el cumplimiento de los programas sociales previstos en los Convenios para el Desarrollo Social requiera la determinación de compromisos específicos entre las partes o con un tercero, se suscribirán los anexos de ejecución que resulten necesarios.
-
-## Título X. De la Evaluación de la Política Estatal de Desarrollo Social
+Los causantes presentarán sus solicitudes de empadronamiento dentro de los quince días siguientes a la fecha de iniciación de sus operaciones, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exigen.
 
 ###### ARTICULO 60.
 
-La evaluación de la Política de Desarrollo Social estará a Cargo de la Comisión Estatal de Evaluación de la Política de Desarrollo Social, que podrá realizarla por sí mismo o a través de uno o varios organismos independientes del ejecutor del programa, y tiene por objeto, revisar periódicamente el cumplimiento del objetivo social de los programas, metas y arciones de la Política de Desarrollo Social, para corregirlos, modificarlos, adicionarlos, reorientados o suspenderlos total o parcialmente.
+Para los efectos de esta Ley se entiende como fecha de iniciación de operaciones de las personas físicas, aquella en que efectúen la apertura del negocio o en la que obtengan el primer ingreso gravable.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+Se entiende como fecha de iniciación de operaciones de las personas morales, el día de su constitución, si éste es anterior al de la apertura del negocio o a la percepción del primer ingreso gravable.
 
 ###### ARTICULO 61.
 
-Los organismos evaluadores independientes que podrán participar serán instituciones de educación superior, de investigación científica u organizaciones no lucrativas. Cuando las evaluaciones se lleven a cabo por un organismo distinto de la Comisión, éste emitirá la convocatoria correspondiente y designará al adjudicado.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
-
-ARTICULO 61 BIS.- Para la evaluación de resultados, los programas sociales de manera invariable deberán incluir los indicadores de resultados, gestión y servicios para medir su cobertura, calidad e impacto. Las dependencias del Ejecutivo Estatal, o municipales, ejecutoras de los programas a evaluar, proporcionarán toda la información y las facilidades necesarias para la realización de la evaluación.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
-
-ARTICULO 61 TER.- Los indicadores de resultados que se establezcan deberán reflejar el cumplimiento de los objetivos sociales de los programas, metas y acciones de la Política Estatal de Desarrollo Social.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
-
-ARTICULO 61 QUATER.- Los indicadores de gestión y servicios que se establezcan deberán reflejar los procedimientos y la calidad de los servicios de los programas, metas y acciones de la Política Estatal de Desarrollo Social.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
-
-ARTICULO 61 QUINQUIES.- La evaluación será anual, definiendo como periodo del primero de mayo al treinta de abril y podrá también ser multianual en los casos que así se determine.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
-
-ARTICULO 61 SEXIES.- De acuerdo con los resultados de las evaluaciones, la Comisión Estatal de Evaluación de la Política de Desarrollo Social podrá emitir las sugerencias y recomendaciones que considere pertinentes al Ejecutivo Estatal y hacerlas del conocimiento público.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
-
-ARTICULO 61 SEPTIES.- Los resultados de las evaluaciones serán publicados en el Periódico Oficial del Estado y deberán ser entregados a la Comisión de Desarrollo Social del Congreso del Estado de Tamaulipas.
+Los causantes de este impuesto que únicamente perciban ingresos exentos, tendrán obligación de empadronarse ante las oficinas recaudadoras de su jurisdicción, dentro del plazo señalado en el artículo 59 de esta Ley.
 
 ###### ARTICULO 62.
 
-Se crea la Comisión Estatal de Evaluación de la Política de Desarrollo Social, como un instrumento de coordinación para la evaluación de las políticas y programas de desarrollo social que ejecuten las dependencias públicas.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+Los causantes a que se refiere la fracción XVI del Artículo 47 de esta Ley, que beneficien (sic) de franquicia otorgada conforme a la Ley de Fomento Industrial y Desarrollo Económico en vigor, están obligados a empadronarse y a presentar las declaraciones mensuales de ingresos prevenidas en el Artículo 67.
 
 ###### ARTICULO 63.
 
-La Comisión Estatal de Evaluación de la Política de Desarrollo Social será presidida por el Secretario de Bienestar Social, y estará integrada por el titular de la Secretaría General de Gobierno, de la Secretaría de Finanzas, de la Secretaría de Desarrollo Económico, de la Secretaría del Trabajo, de la Secretaría de Educación, de la Secretaría de Desarrollo Rural, de la Secretaría de Salud, de la Secretaría de Desarrollo Urbano y Medio Ambiente y de la Procuraduría General de Justicia, el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, los presidentes municipales, organismos del sector social y privado y académicos relacionados con la materia.
+Las oficinas recaudadoras expedirán, dentro de los diez días siguientes a la fecha de presentación de las solicitudes, las cédulas de empadronamiento respectivas, mismas que para reputarse validas deberán estar firmadas por el Tesorero General del Estado.
 
 ###### ARTICULO 64.
 
-La Comisión Estatal de Evaluación de la Política de Desarrollo Social tendrá las funciones siguientes:
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
-
-I.- La evaluación de las políticas y programas sociales que ejecuten las dependencias públicas, se podrá realizar directamente por la Comisión o por medio de organismos independientes con capacidad técnica y conocimiento amplio de la materia de desarrollo social.
-
-Los organismos evaluadores independientes deberán ser instituciones de educación superior, de investigación científica u organizaciones sin fines de lucro.
-
-Cuando la evaluación se lleva a cabo por un organismo distinto de la Comisión Estatal de Evaluación de la Política de Desarrollo Social, ésta emitirá la convocatoria correspondiente y designará al ganador de la misma.
-
-Las evaluaciones deberán incluir los indicadores establecidos en términos del artículo 56 fracción X de esta ley.
-
-Los indicadores de resultado que se establezcan deberán reflejar el cumplimiento de los objetivos sociales de los programas, metas y acciones de la Política Estatal de Desarrollo Social, en concordancia con la Política Nacional de Desarrollo Social.
-
-Los indicadores de gestión y servicios que se establezcan deberán reflejar los procedimientos y la calidad de los servicios de los programas, metas y acciones de la Política Estatal de Desarrollo Social;
-
-II.- Revisar la concordancia entre los programas sociales y los principios y objetivos de la Política Estatal de Desarrollo Social;
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
-
-III.- Emitir recomendaciones sobre el desempeño de los programas sociales, así como proponer, en su caso, corregirlos, modificarlos, adicionarlos, reorientarlos o suspenderlos total o parcialmente;
-
-IV.- Emitir opiniones sobre la Política Estatal de Desarrollo Social;
-
-V.- (DEROGADA, P.O. 14 DE JULIO DE 2016)
-
-VI.- Promover el establecimiento de convenios de colaboración con instituciones públicas, sociales y privadas para llevar a cabo tareas de evaluación de los programas sociales.
-
-## Título XI. De las Infracciones y Sanciones
+Mientras las cédulas de empadronamiento no sean canceladas por Autoridad competente, tendrán duración y vigencia indefinidas, y no requerirán ser renovadas sino en los casos del artículo 65, en los que deberá expedirse nueva cédula.
 
 ###### ARTICULO 65.
 
-Conforme a la legislación correspondiente, aquellos servidores públicos que en ejercicio de sus funciones contravengan u ordenen contravenir los principios y preceptos establecidos en la presente ley, se harán acreedores a las medidas disciplinarias administrativas, civiles y penales aplicables por la autoridad competente.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+En los casos de cambio de objeto, giro, nombre, razón social o denominación de aumento de capital, así como los de traspaso, traslado o clausura del negocio, los causantes deberán dar aviso dentro de los diez días siguientes a la fecha en que se hayan realizado las modificaciones expresadas. El aviso deberá hacerse en forma oficial que se emplea en la Tesorería General; y las oficinas recaudadoras correspondientes expedirán las nuevas cédulas de empadronamiento a más tardar diez días después de la fecha de presentación de dicho aviso.
 
 ###### ARTICULO 66.
 
-En los términos de la ley, la Secretaría de Bienestar Social deberá denunciar ante el órgano de control estatal, las acciones que presumiblemente constituyan irregularidades.
+Las cédulas de empadronamiento no serán trasferibles ni en los casos de traspaso, y sólo ampararán el giro a que corresponda, en el lugar y dentro de las características que la misma cédula de empadronamiento indique.
 
-## Título XII. De la Publicación y Publicidad de los Programas Sociales
+#### SECCION SEPTIMA. De las declaraciones y pago del Impuesto
 
 ###### ARTICULO 67.
 
-El Ejecutivo del Estado publicará, a través de las dependencias y entidades estatales correspondientes, la información relativa a los programas sociales.
+El pago del impuesto deberá hacerse dentro de los días 1o. al 20 de cada mes, mediante una declaración de los ingresos que se hayan obtenido en el mes de inmediato anterior Salvo prueba en contrario, se presume que el ingreso mensual gravable, hechas las deducciones autorizadas por la Ley, no puede ser menor de $600.00 (seiscientos pesos).
 
 ###### ARTICULO 68.
 
-La publicidad y la información relativa a los programas de desarrollo social deberán identificarse con el escudo del Estado de Tamaulipas o del Municipio respectivo, e incluir la siguiente leyenda: "Este programa es publico y ajeno a cualquier partido político. Queda prohibido el uso del mismo para fines distintos al desarrollo social."
+Los causantes presentarán sus declaraciones y efectuarán el pago del impuesto en la oficina recaudadora de la jurisdicción en que estén empadronados, o en las Instituciones de crédito que presten el servicio de recaudación y que se hallen establecidas en la misma jurisdicción.
 
-## TRANSITORIOS
+###### ARTICULO 69.
 
-### Capítulo I. De los Principios
+Los causantes que no hayan obtenido ingresos gravables presentarán sus declaraciones expresando la causa de ello, dentro del plazo establecido en el artículo 67.
 
-###### ARTICULO 5°.
+###### ARTICULO 70.
 
-Son principios rectores de la Política Estatal de Desarrollo Social los siguientes:
+No se admitirán las declaraciones si en el mismo acto de su presentación no se paga íntegramente el impuesto y los recargos causados, excepto en el caso del artículo 69, o si no se cumple con lo dispuesto en los artículos 68 y 72.
 
-I.- Libertad: Capacidad de las personas para elegir los medios para su desarrollo personal, así como para participar en el desarrollo social;
+###### ARTICULO 71.
 
-II.- Solidaridad: La colaboración entre personas, grupos sociales y órdenes de gobierno, de manera corresponsable, en torno a causas sociales;
+Las sociedades no podrán presentar sus declaracionales (sic) mensuales sin que sean aprobadas expresamente por la persona a quien corresponda la representación de la sociedad. En el documento en que se apruebe la presentación de las declaraciones se hará constar el monto de los ingresos que deban declararse.
 
-III.- Justicia Distributiva: Garantiza que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus necesidades;
+Este artículo tiene como excepción lo dispuesto por el artículo 82.
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+###### ARTICULO 72.
 
-IV.- Inclusión: Derecho de toda persona a participar y disfrutar, en condiciones de libertad e igualdad, de las oportunidades y los beneficios del desarrollo social, independientemente de su condición social o económica, sexo, edad, capacidad física, orientación sexual, religiosa u origen étnico;
+Las declaraciones deberán hacerse de acuerdo con las formas aprobadas por la Tesorería General y en ellas se consignarán todos los datos que las mismas exijan.
 
-V.- Integralidad: Articulación y complementariedad de programas y acciones que conjunten los diferentes beneficios sociales, a través de las diferentes dimensiones del desarrollo, en el marco de la Política Estatal de Desarrollo Social;
+###### ARTICULO 73.
 
-VI.- Participación social: Derecho de las personas y organizaciones a intervenir e integrarse, individual o colectivamente en la planeación y ejecución de las políticas, acciones y programas sociales;
+La (sic) declaraciones deberán ser firmadas:
 
-VII.- Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de los recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
+I.- Por el propietario o su apoderado y por el contador si lo hubiere, cuando se trate de negociaciones propiedad de personas físicas;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+II.- Por el contador de la empresa y por el gerente, o por el director o administrador, y en defecto de éstos, por el funcionario de la empresa autorizado por el consejo de administración; o si no existe consejo, por el administrador único cuando se trate de sociedades;
 
-VIII.- Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquiera otra, para superar toda condición de discriminación y promover un desarrollo con igualdad y respeto a las diferencias;
+III.- Por el gerente o encargado de la sucursal y por el contador si lo hubiere, cuando se trate de sucursales ubicadas en jurisdicción fiscal distinta a la de matriz. Si la sucursal se encuentra en la misa jurisdicción fiscal de la matriz, las declaraciones serán firmadas, en su caso, por las personas a que se refieren las dos fracciones anteriores.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
+###### ARTICULO 74.
 
-IX.- Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia. El Estado garantizará que la información gubernamental sea objetiva, oportuna, sistemática y veraz;
+Las declaraciones de los causantes no podrán ser modificadas en ningún caso por las oficinas receptoras.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
+Quedan al cuidado de la Tesorería General la función analítica, de comprobación o investigación que corresponda llevar a cabo, y formular las observaciones de glosa o exigir las responsabilidades que se deriven de dicha labor.
 
-X.- Perspectiva de género: Visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género, en el diseño y ejecución de las políticas públicas de desarrollo social;
+Las diferencias de impuesto y de recargos descubiertas por la Autoridad, con motivo de la glosa de las declaraciones presentadas, serán pagadas por los causantes dentro de los quince días siguientes a la fecha en que se les notifiquen.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
+#### SECCION OCTAVA. De las Obligaciones de los Causantes
 
-XI.- Interés superior de la niñez: Conjunto de acciones, políticas y procesos tendientes a garantizar a las niñas, niños y adolescentes un desarrollo integral y una vida digna, así como las condiciones materiales y afectivas que les permitan vivir plenamente y alcanzar el máximo de bienestar posible, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales aplicables de los que el Estado Mexicano forma parte, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Constitución Política del Estado de Tamaulipas y la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Tamaulipas;
+###### ARTICULO 75.
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+Son obligaciones de los Causantes:
 
-XII.- Igualdad de oportunidades: La cual se refiere al acceso que deben tener todas las personas, para que puedan gozar de las mismas condiciones, posibilidades y oportunidades en los programas que se desprendan de las políticas públicas implementadas en materia de desarrollo social;
+I.- Empadronarse, declarar y pagar el impuesto, en los términos de los capítulos anteriores;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
+II.- Firmar todos los documentos previstos por esta Ley, bajo protesta de decir verdad;
 
-XIII.- Corresponsabilidad: Misma que guarda relación con la participación y responsabilidad que comparten, tanto las personas servidoras públicas como las personas beneficiarias, derivado de la ejecución de acciones enfocadas al desarrollo social;
+III.- Cuando sus ingresos anuales excedan de $150,000.00, deberán llevar los siguientes libros autorizados de contabilidad: libro de inventarios y balances, libro general de diario y libro mayor o de cuentas corrientes;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
+IV.- Cuando los ingresos anuales sean hasta de $150,000.00 los causantes deberán llevar solamente un libro de ingresos y egresos autorizado.
 
-XIV.- Cohesión social: Se refiere a las relaciones de cooperación, organización y solidaridad que se fomentan, a través de acciones de desarrollo social, entre las personas y los diferentes grupos sociales, en especial, aquellos que son más vulnerables;
+Los causantes que disfruten de reducciones o exenciones del impuesto que establece este capítulo y al mismo tiempo gocen de exenciones sobre el impuesto federal correspondiente en condiciones distintas, deberán llevar un libro autorizado por la Tesorería General, en el cual se separen las ventas gravadas o exentas por lo que se refiere al impuesto estatal;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2023)</small>
+V.- Los causantes comprendidos en la fracción IV del artículo 32 de esta Ley, deberán llevar únicamente el libro de ingresos y egresos, cualquiera que sea el monto de sus percepciones;
 
-XV.- Igualdad: Constituye el objetivo principal del desarrollo social y se expresa en la mejora continua de la distribución de la riqueza, el ingreso y la propiedad, en el acceso al conjunto de los bienes públicos y al abatimiento de las grandes diferencias entre personas, familias, grupos sociales y ámbitos territoriales;
+VI.- Los asientos correspondientes a las operaciones efectuadas deberán registrarse en los libros autorizados, dentro de los 60 días siguientes a la fecha en que hayan sido realizadas, indicando las circunstancias y carácter de cada operación y el resultado que produzca a su cargo o descargo.
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2023)</small>
+Los ingresos obtenidos de las operaciones antes mencionadas deberán ser registrados dentro de los días 1o al 20 del mes siguiente al en que se hayan percibido; esta última obligación podrá ser cumplida potestativamente por los contribuyentes en un libro auxiliar que se denominará "Libro Especial de Ingresos" y que deberá ser autorizado gratuitamente por la oficina recaudadora de la jurisdicción del causante.
 
-XVI.- Equidad: La promoción del acceso de los sujetos del desarrollo social a los programas y acciones de manera proporcional a su situación de marginación, pobreza o vulnerabilidad;
+En las sucursales, dependencias o agencias de los contribuyentes deberá llevarse el "Libro Especial de Ingresos", salvo que en los auxiliares que lleven se cumpla con la obligación de registrar los ingresos dentro del plazo señalado;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+VII.- Conservar los libros que están obligados a llevar de acuerdo con esta Ley y la documentación relativa, en el domicilio señalado en la solicitud de cédula de empadronamiento;
 
-XVII.- Equidad de Género: La plena igualdad de derechos y oportunidades entre mujeres y hombres, la eliminación de toda forma de desigualdad, exclusión o subordinación basada en los roles de género y una nueva relación de convivencia social entre mujeres y hombres desprovista de relaciones de dominación, estigmatización, y sexismo;
+VIII.- Proporcionar a las Autoridades fiscales los datos o informaciones que se les soliciten, dentro del plazo que las mismas señalen;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+IX.- Recibir las visitas de investigación y proporcionar a los auditores o a los investigadores, los datos, informes y documentos que soliciten para el deempeño (sic) de sus funciones;
 
-XVIII.- Universalidad: El reconocimiento de todas las personas como titulares de los derechos sociales y sujetos de desarrollo social; y
+X.- Conservar cinco años los libros de contabilidad, libros especiales fiscales y demás documentos probatorios relativos a las operaciones efectuadas.
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+###### ARTICULO 76.
 
-XIX.- Progresividad y prohibición de regresividad: Las autoridades, en el ámbito de sus respectivas competencias, podrán asegurar un avance continuo en la cobertura de los derechos sociales, culturales y ambientales. Este avance será siempre incremental, procurando que no haya disminución o eliminación de los niveles alcanzados y de los beneficios ya otorgados, salvo circunstancias estrictas y debidamente justificadas. Una vez que se ha logrado un progreso en el goce de estos derechos, este se integra como parte sustancial de las prerrogativas constitucionales y constituye un derecho subjetivo para las personas.
+En toda promoción, gestión, o solicitud que ante las oficinas públicas hagan los contribuyentes del impuesto sobre ingresos mercantiles, se incluirá una declaración expresando el número de su empadronamiento y sí están al corriente en el pago de este gravamen.
 
-###### ARTICULO 6°.
+###### ARTICULO 77.
 
-Los principios rectores de la Política Estatal de Desarrollo Social serán obligatorios para el Sistema Estatal de Planeación del Desarrollo Social vía sus instrumentos, sectores y forma de participación.
+Los contribuyentes que obtengan ingresos exentos y gravados, deberán llevar en sus libros autorizados, cuenta por separado de dichos ingresos y en sus declaraciones mensuales:
 
-### Capítulo II. De las Vertientes
+I.- Manifestarán el total de sus ingresos;
 
-###### ARTICULO 7°.
+II.- Deducirán del total de sus ingresos:
 
-La Política Estatal de Desarrollo Social debe incluir, al menos, las siguientes vertientes:
+a) Los descuentos, devoluciones y bonificaciones;
 
-I.- Superación de la pobreza rural y urbana;
+b) Los ingresos exentos;
 
-II.- Asistencia social;
+III.- Aplicarán al remanente las tasas del artículo 46.
 
-III.- Desarrollo regional;
+###### ARTICULO 78.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+En caso de que los contribuyentes no lleven la separación de ingresos a que se refiere el artículo anterior, se causará íntegramente el impuesto sobre el total de los ingresos, sin la deducción de los exentos.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+###### ARTICULO 79.
 
-IV.- Infraestructura social;
+En el caso de inspección permanente a que se refiere el artículo 91, quedan obligados los contribuyentes a proporcionar al personal designado, los libros, documentos, informes y demás elementos necesarios para el desahogo de la diligencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTICULO 80.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+Los contribuyentes de este impuesto están obligados cuando así lo solicite la Tesorería General, a proporcionar los informes del transporte de mercancías, movimiento de cuentas, compras efectuadas, así como copias o relaciones de las facturas, notas de venta o notas de servicio que hayan expedido, en las que expresarán los números de empadronamiento de los compradores, de acuerdo con los datos que éstos les hayan proporcionado.
 
-V.- Fomento del sector social de la economía; y
+Con los datos y documentos a que se refiere el párrafo anterior, se ordenarán las auditorias, a efecto de hacer las investigaciones generales que procedan en la contabilidad de los causantes y en los inventarios y cuentas de ingresos o de venta de los propios causantes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+#### SECCION NOVENA. De las obligaciones de terceros y de la responsabilidad solidaria
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+###### ARTICULO 81.
 
-VI.- Promoción del desarrollo sustentable.
+Están obligados a retener y enterar el impuesto en los términos del artículo 67;
 
-### Capítulo III. De los Objetivos
+I.- Los usuarios de servicios técnicos, los arrendatarios de carros de ferrocarril y quienes paguen regalías, cuando los ingresos se perciban por causantes residentes fuera del Estado y provengan de operaciones realizadas o que surtan sus efectos en el territorio del Estado. Para este efecto, los retenedores enterarán el impuesto mediante una declaración adicional con su mismo número de cuenta, en la que manifestarán los pagos realizados, el monto del impuesto retenido, el nombre o razón social y el domicilio del causante;
 
-###### ARTICULO 8°.
+II.- La Lotería Nacional, por el impuesto correspondiente a las comisiones pagadas, por ventas de billetes de lotería;
 
-La Política Estatal de Desarrollo Social tiene los siguientes objetivos:
+III.- Las personas residentes en el Estado, que paguen comisiones o remuneraciones por servicios dentro del Estado, por comisionistas, agentes o representantes radicados fuera del Estado. La retención se hará sobre el monto total de los ingresos que perciban los comisionistas, agentes o representantes.
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+###### ARTICULO 82.
 
-I.- Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, así como la superación de la marginación y la pobreza, la discriminación y la exclusión social;
+Cuando el administrador único o los administradores de las sociedades autoricen al gerente, al director o apoderado de la empresa para que presente las declaraciones mensuales, sin previa aprobación expresa, asumirán, para todos los efectos legales, las responsabilidades que puedan derivarse de la falsedad o inexactitud de dichas declaraciones.
 
-II.- Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
+###### ARTICULO 83.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Para los efectos del artículo anterior, el administrador o los administradores deberán aprobar expresamente, dentro de los tres primeros meses de cada año natural, todas las declaraciones presentadas durante el año anterior.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+###### ARTICULO 84.
 
-III.- Fortalecer el desarrollo regional equilibrado;
+Los administradores serán solidariamente responsables con los que les hayan precedido, por las irregularidades en que éstos hubieren incurrido con relación a la presente Ley, si conociéndolas no las denunciaren por escrito a las Autoridades competentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTICULO 85.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+Los representantes legales, comisionistas y mandatarios serán solidariamente responsables del pago del impuesto que dejen de cubrir por sus representados
 
-IV.- Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas sociales; y
+###### ARTICULO 86.
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+Los contadores, al firmar o rendir dictamen sobre el balance de los contribuyentes, harán constar si el ingreso ha sido declarado en los términos de esta ley. En caso de falsedad, serán acreedores a las sanciones correspondientes.
 
-V.- Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales.
+###### ARTICULO 87.
 
-### Capítulo IV. De la Planeación
+En el caso de traslación de dominio, a cualquier título, de establecimientos en los cuales se perciban ingresos gravados por esta Ley, los mismos negocios serán objetivamente responsables de los créditos fiscales insolutos.
 
-###### ARTICULO 9°.
+###### ARTICULO 88.
 
-La planeación del desarrollo social incluirá los programas estatal y municipales de desarrollo social y deberá incorporarlos a la Política Estatal de Desarrollo Social de conformidad con esta ley.
+Las personas físicas o morales que tengan relaciones con alguno o algunos de los causantes de este impuesto, deberán auxiliar a la Tesorería General y a sus dependencias, suministrándoles los informes y datos que soliciten en relación con la aplicación de este mismo impuesto.
 
-### Capítulo V. De la Programación
+###### ARTICULO 89.
 
-### Capítulo VI. De la Ejecución
+Las personas físicas o morales que mantengan o hayan tenido relaciones con los contribuyentes de este impuesto, están obligados a exhibir su contabilidad, la documentación y la correspondencia que se refiera a las operaciones realizadas con dichos causantes.
 
-### Capítulo VII. Del Gasto
+#### SECCION DECIMA. De la Vigilancia
 
-### Capítulo Unico
+###### ARTICULO 90.
 
-### Capítulo Unico
+Para la vigilancia del impuesto sobre ingresos mercantiles, la Tesorería General es la única Autoridad Fiscal facultada para exigir de los causantes la adopción y establecimiento de medidas de control, ordenar la práctica de auditorías, efectuar las investigaciones que procedan, obtener los datos e informes que tengan relación con el objeto de la auditoría, exigir en el domicilio de los contribuyentes la exhibición de los libros de contabilidad, auxiliares y documentos comprobatorios de los asientos respectivos, y en general, solicitar los elementos necesarios para comprobar el cumplimiento de las disposiciones de este capítulo.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+Cuando con apoyo en las investigaciones practicadas no sea posible determinar el monto de los ingresos reales del causante, la Tesorería General podrá estimarlos tomando en cuenta para ello los elementos siguientes: impuestos que hayan pagado a la Federación o al Municipio; cantidades que cubran por concepto de renta del local que ocupen y de energía eléctrica; número de empleados que tengan a su servicio y sueldos que se les paguen; capital en giro, y los demás datos que puedan utilizarse para la determinación de los ingresos realmente percibidos y entre ellos los medios indirectos de la investigación económica o de cualquier otra clase. La Tesorería General podrá delegar el ejercicio de esta facultad en aquella de sus dependencias que estime conveniente.
 
-### Capítulo I. De la Participación y Organización Social
+Los contribuyentes a quienes se les practique una auditoría deberán dar aviso por escrito a la Tesorería General, de cualquier acto indebido que cometan o pretendan cometer los funcionarios designados para efectuarla.
 
-### Capítulo II. De la Contraloría Social
+###### ARTICULO 91.
 
-### Capítulo III. De la Denuncia Popular
+Cuando se solicite la suspensión provisional o definitiva de una orden de clausura, además de garantizarse el interés fiscal en las formas que establece el Código Fiscal del Estado, la Tesorería General podrá ordenar la inspección permanente del establecimiento, la que subsistirá hasta la determinación del juicio.
 
-### Capítulo Unico
+Esta inspección estará a cargo de contadores o ayudantes de contador designados y removidos libremente por la misma Tesorería General; su sueldo o remuneración serán pagados por el causante dentro de los diez primeros días de cada mes y por conducto de la oficina recaudadora de la jurisdicción del contribuyente.
 
-### Capítulo Unico
+Los contribuyentes tendrán derecho a la restitución de los sueldos o remuneraciones pagados en los casos en que se nulifique la resolución.
 
-## Título III. De la Política Estatal de Desarrollo Social
+SECCION ONCEAVA
 
-### Capítulo I. Del Objeto e Integración
+De las Sanciones y del Procedimiento
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+###### ARTICULO 92.
 
-### Capítulo II. De las Competencias y Atribuciones
+Los causantes que no soliciten su empadronamiento dentro del término establecido, serán sancionados con multa de $100.00 (cien pesos) a $10,000.00 (diez mil pesos) y podrá ordenarse la clausura preventiva de su negocio hasta que paguen, en su caso, totalmente el impuesto omitido, así como la multa impuesta. Cuando lo soliciten espontáneamente, antes de que la infracción sea descubierta por los agentes fiscales, independientemente de los impuestos y recargos que se causen, se impondrá una multa de $25 00 (veinticinco pesos) a $1,000 00 (un mil pesos).
 
-### Capítulo III. De los Convenios para el Desarrollo Social entre el Estado y los Municipios
+###### ARTICULO 93.
 
-### Capítulo I. Del Objeto y Características de la Evaluación
+En caso de falta de presentación de las declaraciones mensuales de ingresos, dentro del plazo establecido en el artículo 67, se estará a lo siguiente:
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+I.- A partir del día 21 de cada mes, la oficina recaudadora requerirá al causante moroso para que presente en un plazo de tres días la declaración o declaraciones omitidas;
 
-### Capítulo II. De la Comisión Estatal de Evaluación de la Política de Desarrollo Social
+II.- Tratándose de declaración o declaraciones omitidas que impliquen impuesto, si el causante las presenta de manera espontánea, pagará recargos del 2% por cada mes o fracción que haya transcurrido sin haberse hecho el pago correspondiente y sin que en ningún caso, el recargo pueda exceder del valor del impuesto que resulte omitido;
 
-### Capítulo III. De las Funciones de la Comisión Estatal de Evaluación de la Política de Desarrollo Social
+III.- Cuando la declaración o declaraciones omitidas no impliquen ingresos, el causante será sancionado, en todos los casos, con multa de $25.00 (veinticinco pesos) a $1,000 00 (un mil pesos).
 
-### Capítulo Unico
+###### ARTICULO 94.
 
-## Título IV. De los Sujetos del Desarrollo Social
+Cuando el causante que haya sido requerido para presentar la declaración o declaraciones omitidas, no cumpla con esta prevención en el término de tres días que señala el artículo anterior, la oficina recaudadora designada para el caso por la Tesorería General procederá de inmediato a la clausura preventiva de su establecimiento, pero si por la naturaleza del giro o por la situación del local, no es posible efectuar la clausura, se secuestrarán bienes suficientes que garanticen el interés fiscal en los términos del Código Fiscal del Estado.
 
-### Capítulo Unico
+###### ARTICULO 95.
 
-## Título V. Del Padrón Unico de Beneficiarios de Programas Sociales
+El procedimiento señalado en el artículo anterior, se aplicará en caso de cualquiera prestación fiscal que resulte a cargo del contribuyente en los términos de esta Ley, pero el procedimiento deberá iniciarse a partir del día siguiente al en que venza el plazo concedido para el pago.
 
-## Título VI. De la Participación Social
+###### ARTICULO 96.
 
-## Título VII. De las Regiones, Municipios, Localidades y Areas de Atención Prioritaria
+No se llevará a cabo la clausura a que se refiere el artículo 94 si el causante paga el importe del impuesto que adeude, más el monto de las sanciones y recargos a que se haya hecho acreedor. También será a cargo del causante los gastos de ejecución ocasionados por estas diligencias.
+
+###### ARTICULO 97.
+
+Las diligencias de clausura a que se refieren los artículos 94 y 95 se ejecutarán inmediatamente después de la fecha en que se expidan las órdenes.
+
+Dichas clausuras deberán ser levantadas inmediatamente que se pague o garantice el adeudo fiscal que resulte a cargo del contribuyente y que incluirá los gastos de ejecución.
+
+###### ARTICULO 98.
+
+A los contribuyentes que no lleven autorizados los libros a que obliga esta Ley o no registren en ellos los asientos correspondientes a las operaciones efectuadas, dentro de los plazos que la misma señala, se les impondrá una multa de $100.00 (cien pesos) a $10,000.00 (diez mil pesos) por cada infracción.
+
+###### ARTICULO 99.
+
+Cuando se presuma que algún causante ha incurrido en defraudación fiscal, la oficina recaudadora de la jurisdicción emitirá, para los efectos administrativos, un informe en el que hará constar detalladamente la existencia de los hechos, las pruebas que los funden y la liquidación del impuesto omitido y, en su caso de los recargos correspondientes o de las sanciones a que se hizo acreedor.
+
+###### ARTICULO 100.
+
+La Tesorería General revisará el informe de que habla el artículo anterior y lo notificará al contribuyente dándole un plazo de quince días para que presente la contestación, pruebas, y alegatos, los que serán examinados y si a su juicio está comprobada la defraudación, procederá a dictar resolución sobre:
+
+I.- La imposición de multas que proceda;
+
+II.- La cancelación del empadronamiento del causante presunto culpable y de la cédula respectiva;
+
+III.- La clausura definitiva del negocio o empresa;
+
+IV.- La denuncia, en su caso, de los hechos al Procurador General de Justicia del Estado para los efectos de que se ejercite la acción penal que corresponda.
+
+Las resoluciones a que se refieren las tres primeras fracciones de este artículo, se ejecutarán después de los quince días de la fecha en que hayan sido notificadas al causante.
+
+###### ARTICULO 101.
+
+Contra las resoluciones administrativas a que se refiere el artículo 100, sólo procede la interposición de los recursos previstos por el Código Fiscal del Estado.
+
+###### ARTICULO 102.
+
+Las infracciones que se cometan al presente capítulo, si no se encuentran expresamente previstas en el mismo o en el Código Fiscal del Estado, serán sancionadas con multa de $100.00 (cien pesos) a $10,000.00 (diez mil pesos), en cada caso, sin perjuicio de la aplicación de sanciones de orden penal cuando procedan.
+
+###### ARTICULO 103.
+
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1975)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO TERCERO. Del Impuesto Sobre Transmisión de Propiedad de Vehículos Automotores Usados
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 104.
+
+Es objeto de este impuesto la transmisión de propiedad de automóviles, camiones y demás vehículos de motor usados, que se realice dentro del territorio del Estado, excepto cuando los vehículos se adquieran de personas físicas o morales que realicen actividades empresariales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 105.
+
+Son sujetos de este impuesto, quienes por cualquier título adquieran el dominio de vehículos automotores usados, de conformidad con lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 106.
+
+Es base de este impuesto, el valor mayor entre el de operación y el valor comercial.
+
+La autoridad recaudadora podrá utilizar como referencia para determinar el valor comercial, el valor que se establezca en las diversas Guías y Publicaciones sobre precios de automóviles usados, que existen en el mercado y tratándose de vehículos no comprendidos en dichos documentos, la Secretaría de Finanzas y Tesorería General del Estado practicará un avalúo para determinar el valor que sirva de base para el pago del impuesto.
+
+El valor comercial determinado conforme a lo anterior, será publicado en el Periódico Oficial del Estado por lo menos una vez cada año.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Los particulares que realicen las operaciones a que se refiere este capítulo, podrán inconformarse con el valor determinado por la Secretaría de Finanzas y Tesorería General del Estado dentro del plazo de 30 días hábiles, contados a partir del día en que surta efectos la notificación del valor o al en que tenga conocimiento del mismo. Para este efecto, los particulares presentarán escrito ante la propia Secretaría, por el cual manifiesten los motivos de su inconformidad, acompañando los elementos de prueba que estimen necesarios. La Secretaría emitirá su resolución en un plazo no mayor de veinte días, misma que podrá ser impugnada en los términos previstos por la Ley de Justicia Administrativa del Estado.
+
+En el caso de adquisición de vehículos modelo del año de aplicación de la Ley, se tendrá como valor base de este impuesto, el 90% del valor de factura original expedido por el Distribuidor, sin incluir el Impuesto al Valor Agregado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 107.
+
+Para los efectos de este impuesto se considerará, salvo prueba en contrario, que la operación se efectuó dentro del Estado, por el solo hecho de dar de alta un vehículo en territorio del mismo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 108.
+
+Este impuesto se causará, liquidará y pagará, con tasa del 1.8% sobre la base determinada de conformidad con las disposiciones precedentes.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 109.
+
+El pago del impuesto deberá efectuarse en la oficina recaudadora correspondiente o ante la institución bancaria autorizada, dentro de los treinta días hábiles siguientes a la celebración de la operación salvo en el caso de que dentro del término legal se presente escrito de inconformidad, caso en el cual el plazo a que se refiere este artículo iniciará a partir del día en que surta efecto la notificación de la resolución recaída al escrito de inconformidad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 110.
+
+Los automóviles, camiones y demás vehículos de motor usados, cuya transmisión se realice por cualquier título, quedarán afectos preferentemente al pago del Impuesto a que se refiere este capítulo.
+
+###### ARTICULO 111.
+
+Para la recaudación de este impuesto se observarán las siguientes reglas:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+I.- Los enajenantes, comisionistas o cualquier persona que lleve a cabo las operaciones objeto de este impuesto deberán presentar un aviso dentro de los 15 días naturales siguientes de celebrada la operación, en las formas oficialmente aprobadas, ante las Oficinas Recaudadoras correspondientes. También podrá presentarse ante las instituciones bancarias autorizadas cuando se vaya a enterar el impuesto respectivo conjuntamente con el aviso. El aviso deberá ser firmado tanto por el vendedor, como por el comprador y contener los requisitos que establezca la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+II.- La Autoridad Recaudadora, al tener conocimiento de operaciones objeto de este impuesto, se cerciorará de que se haya cubierto el impuesto respectivo dentro del plazo de los 30 días naturales siguientes de celebrada la operación, transcurrido dicho plazo sin que se hubiese efectuado el pago, la Autoridad procederá al cobro del importe del impuesto, a través del procedimiento administrativo de ejecución.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+III.- Tratándose de vehículos por los cuales deba pagarse el Impuesto Sobre Tenencia o Uso de Vehículos y derechos de control vehicular, no se aceptará el aviso a que se refiere la fracción I, de este artículo, si no se hubiere cubierto previamente el impuesto y los derechos mencionados.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IV.- Las personas físicas o morales que realicen actividades empresariales, dedicadas a la compraventa de vehículos usados, deberán presentar el aviso a que se refiere la fracción I de este artículo, dentro del término señalado, no obstante que la operación correspondiente no genere el pago del impuesto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+El Estado podrá celebrar Convenios de Colaboración con los Municipios, a fin de que éstos apoyen al Estado en la ubicación y en su caso detención de los vehículos por los cuales se hubiese presentado el aviso a que se refiere este artículo y no se hubiese cubierto oportunamente el impuesto correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 112.
+
+Son solidariamente responsables del pago de este Impuesto, hasta por el valor comercial del vehículo:
+
+I.- Los enajenantes, cuando no se dé el aviso oportunamente, resulten falsos los datos proporcionados y no se localice al comprador.
+
+II.- Los comisionistas, o cualquier otra persona que intervenga en las operaciones, salvo que demuestre fehacientemente que presentaron el aviso y anexos respectivos en las formas oficiales aprobadas, ante la Oficina Recaudadora correspondiente.
+
+III.- Los empleados o Funcionarios Públicos que autoricen cualquier trámite definitivo, de los referidos en éste Capítulo, sin haberse cerciorado del pago de este impuesto.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO CUARTO. Del Impuesto por Obtención de Premios
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1997)</small>
+
+###### ARTICULO 113.
+
+Es objeto de este Impuesto la percepción de premios derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase que celebren los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+
+También es objeto de este impuesto la percepción de premios derivados de la celebración de juegos con apuestas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 114.
+
+Son sujetos de este impuesto las personas físicas, morales o unidades económicas que obtengan los ingresos referidos en el artículo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 115.
+
+El impuesto por los premios derivados de loterías, rifas, sorteos, concursos y juegos con apuestas se calculará sobre el valor del premio correspondiente a cada boleto o billete, sin deducción alguna, aplicando tasa del 6%.
+
+Cuando la persona que otorgue el premio pague por cuenta del contribuyente el impuesto que esta ley establece, el importe de dicho impuesto se considerará como ingreso de los comprendidos en este capítulo.
+
+No se pagará el impuesto establecido en este capítulo por la obtención de reintegros.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 116.
+
+El impuesto que resulte de aplicar la tasa indicada en el artículo precedente, será retenido por las personas que paguen los premios, quienes deberán enterarlo a la Secretaría de Finanzas y Tesorería General del Estado, dentro del mes siguiente al en que realicen la retención.
+
+Los organismos públicos descentralizados de la Administración Pública Federal aunque conforme a otras Leyes o Decretos no causen impuestos locales o estén exentos de ellos, deberán efectuar las retenciones de este impuesto y enterarlo de acuerdo al párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 117.
+
+Quienes entreguen los premios a que se refiere este capítulo, además de efectuar las retenciones de este impuesto, tendrán las siguiente (sic) obligaciones:
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Tesorería General del Estado, en su carácter de retenedores, utilizando para tales efectos las formas aprobadas. Las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo.
+
+II.- Proporcionar, cuando así lo solicite el interesado, constancia de retención del impuesto a la persona que obtenga el premio.
+
+III.- Conservar la documentación relacionada con las constancias y las retenciones de este impuesto, por plazo de cinco años, a disposición de la Secretaría de Finanzas y Tesorería General del Estado.
+
+### CAPITULO QUINTO. Del Impuesto sobre Capitales Invertidos con Garantía de Inmuebles
+
+###### ARTICULO 118.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 119.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 120.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 121.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 122.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+### CAPITULO SEXTO. Del Impuesto sobre Diversiones, Espectáculos Públicos y Apartos (sic) Fonoelectromecánicos
+
+###### ARTICULO 123.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 124.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 125.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 126.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 127.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 128.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 129.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 130.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 131.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 132.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 133.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 134.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 135.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 136.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 137.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 138.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+### CAPITULO SEPTIMO. Del Impuesto Sobre Compraventa o Permuta de Ganado
+
+###### ARTICULO 139.
+
+Es objeto de este Impuesto la enajenación de ganado que se realice o surta sus efectos dentro del territorio del Estado. Para los efectos de este impuesto se considera consumada la enajenación de ganado dentro del territorio del Estado, por la sola circunstancia de que sea sacrificado en el mismo.
+
+###### ARTICULO 140.
+
+Son sujetos de este impuesto las personas físicas o morales que realicen enajenaciones de ganado.
+
+###### ARTICULO 141.
+
+Es base de este impuesto el número total de cabezas enajenadas.
+
+###### ARTICULO 142.
+
+Este impuesto se causará conforme a la siguiente
+
+T A R I F A :
+
+Concepto: Cuota por cabe a:
+
+I.- Sementales vacunos pura sangre. $200.00
+
+II.- Hembras, igual clase que la anterior. $100.00
+
+III.- Vacunos en general. $30.00
+
+IV.- Equinos pura sangre. $500.00
+
+V.- Equinos en general. $30.00
+
+VI.- Caprino. $10.00
+
+VII.- Porcino. $60.00
+
+###### ARTICULO 143.
+
+Este impuesto deberá ser pagado en la Oficina Recaudadora correspondiente al momento de realizarse la enajenación de ganado.
+
+###### ARTICULO 144.
+
+Los adquirientes, comisionistas, intermediarios, porteadores y los propietarios de los vehículos en que se traslade ganado, así como las empacadoras y administradoras de rastros, responderán solidariamente del pago de este impuesto.
+
+Los propietarios, encargados o administradores de empacadoras o rastros permitirán el sacrificio de animales, cuando esté debidamente acreditado el pago de este impuesto.
+
+###### ARTICULO 145.
+
+Las Oficinas Recaudadoras que hagan efectivo este impuesto, al expedir el comprobante de pago correspondiente, harán las anotaciones respectivas al calce del documento o factura que ampare la enajenación, sin cuyo requisito se considerará que el impuesto se ha omitido, observándose, en su caso, las disposiciones de este Capítulo.
+
+###### ARTICULO 146.
+
+Los funcionarios encargados de llevar la fe pública, así como las Autoridades Judiciales y Administrativas, al autorizar algún acto o contrato que implique enajenación de ganado, deberán exigir la comprobación oficial de haber quedado cubierto el impuesto correspondiente.
+
+###### ARTICULO 147.
+
+Son obligaciones de los sujetos de este impuesto:
+
+I.- Empadronarse en la Tesorería General, por conducto de la Oficina Recaudadora de su jurisdicción, dentro de los diez días siguientes al de iniciación de sus actividades, haciendo uso de las formas oficialmente aprobadas;
+
+II.- Presentar ante las mismas Autoridades y dentro del término que se señala en la fracción anterior, los avisos de suspensión de actividades, traspaso o modificaciones al empadronamiento;
+
+III.- Presentar dentro del mes de enero de cada año una manifestación en las formas oficialmente aprobadas, que contendrá cuando menos los siguientes datos:
+
+a).- Cantidad y clase de ganado al principiar el año a que se refiere la manifestación;
+
+b).- Número y clase de cabezas de ganado al finalizar el año;
+
+c).- Adquisiciones y número de nacimientos;
+
+d).- Cantidad de cabezas de ganado vendidas durante el año e importe de las mismas;
+
+e).- Monto del impuesto pagado
+
+IV.- Pagar el impuesto en la forma que se señala en el presente Capítulo, y;
+
+V.- Adoptar las medidas de control y someterse a los actos de vigilancia que para el pago de este impuesto establezca la Tesorería General.
+
+### CAPITULO OCTAVO. Del Impuesto sobre Venta de Gasolina y demás Derivados del Petróleo
+
+###### ARTICULO 148.
+
+Es objeto de este impuesto la percepción de ingresos por operaciones de venta de gasolina y demás derivados del petróleo que, por primera vez, se realice dentro del territorio del Estado.
+
+###### ARTICULO 149.
+
+Son sujetos del impuesto quienes perciban los ingresos a que se refiere el Artículo anterior.
+
+###### ARTICULO 150.
+
+Es base de este gravamen el monto total de los ingresos objeto del impuesto, que se perciban mensualmente por los causantes del mismo.
+
+###### ARTICULO 151.
+
+Este impuesto se causará, liquidará y pagará, con tasa del 2% sobre la base gravable.
+
+###### ARTICULO 152.
+
+El pago de este impuesto se hará dentro de los primeros quince días de cada mes, ante la Oficina Recaudadora respectiva, presentándose al efecto una manifestación en las formas aprobadas por la Tesorería General.
+
+###### ARTICULO 153.
+
+La Tesorería General podrá celebrar convenios con Petróleos Mexicanos para que la recaudación de este impuesto se realice por conducto de la mencionada institucin (sic), en los términos del Reglamento del artículo 21 de la Ley del Impuesto sobre Consumo de Gasolina.
+
+### CAPITULO NOVENO. Impuesto sobre Nóminas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 154.
+
+Es objeto de este impuesto la realización de pagos en efectivo, en servicios o en especie por concepto de remuneraciones al trabajo personal, prestado bajo la subordinación a un patrón, dentro del territorio del estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Para los efectos de este gravamen se consideran remuneraciones al trabajo personal, todas las contraprestaciones, cualquiera que sea el nombre con el que se les designe, ya sea ordinarias o extraordinarias, incluyendo viáticos, gastos de representación, comisiones, premios, gratificaciones, fondo de ahorro, donativos, primas, aguinaldo, tiempo extra, despensas, alimentación y otros conceptos de naturaleza semejante, aún cuando se eroguen en favor de personas que, teniendo su domicilio en Nuevo León, por motivo de su trabajo, presten trabajo personal subordinado fuera del Estado. Son también objeto de este impuesto los pagos realizados a los Directores, Gerentes, Administradores, Comisarios, Miembros del (sic) los Consejos Directivos o de Vigilancia de Sociedades o Asociaciones.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+También son objeto de este impuesto, los pagos que se realicen por concepto de honorarios a personas físicas que presten servicios personales preponderantemente a un prestatario, siempre que por dichos servicios no se pague el impuesto al valor agregado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Para los efectos del párrafo anterior se entiende que una persona presta servicios preponderantemente a un prestatario, cuando los ingresos que hubiera percibido de dicho prestatario en el año de calendario inmediato anterior, representen más del 50% del total de los obtenidos por la prestación de servicios independientes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Antes de que se efectúe el primer pago de honorarios en el año de calendario de que se trate, las personas a que se refiere el párrafo anterior, deberán comunicar por escrito al prestatario en cuyas instalaciones se realice la prestación del servicio, si los ingresos que obtuvieron de dicho prestatario en el año inmediato anterior excedieron del 50% del total de los percibidos en dicho año de calendario. En caso de que se omita dicha comunicación, el prestatario estará obligado a efectuar el pago del impuesto.
+
+###### ARTICULO 155.
+
+Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas que realicen los pagos a que se refiere el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+La federación, los organismos descentralizados, fideicomisos y demás entidades paraestatales, deberán cubrir el impuesto a su cargo.
+
+###### ARTICULO 156.
+
+Es base de este impuesto, el monto total de los pagos a que se refiere el Artículo 154.
+
+###### ARTICULO 157.
+
+Este impuesto se causará con tasa del 2% sobre la base a que se refiere el Artículo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 158.
+
+El pago del impuesto deberá efectuarse a más tardar el día diecisiete del mes siguiente a aquél al que corresponda dicho pago, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Cuando se presente una declaración sin pago, se presumirá que no existe impuesto a pagar en las declaraciones posteriores y no se presentarán las mismas, hasta que exista cantidad a pagar, siempre que se presente conjuntamente con la primera declaración sin pago, escrito libre en el que se señalen las razones por las que no se tuvieron erogaciones gravadas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Los contribuyentes que en el año inmediato anterior hayan efectuado pagos mensuales, cuyo monto anual globalizado del impuesto no hubiere excedido de 100 cuotas, podrán realizar el pago del impuesto en forma trimestral a más tardar el día diecisiete de los meses de Abril, Julio, Octubre y Enero.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Los contribuyentes que se encuentren en los supuestos a que se refiere el párrafo anterior, para ejercer la opción de pago trimestral deberán presentar previamente un aviso por escrito ante la Secretaría de Finanzas y Tesorería General del Estado, manifestando que efectuarán los pagos del impuesto en forma trimestral, respecto del trimestre siguiente a aquél en que se presente el aviso. En tanto no se inicie la obligación de pago trimestral de acuerdo al aviso, deberán realizarse los pagos mensuales en los términos del primer párrafo de este artículo.
+
+###### ARTICULO 159.
+
+Son obligaciones de los causantes de este impuesto:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1987)</small>
+
+I.- Presentar su aviso de inscripción ante la Secretaría de Finanzas y Tesorería General del Estado, dentro del mes siguiente al día en que inicien actividades por las cuales deban efectuar los pagos a que se refiere el artículo 154.
+
+Tratándose de personas morales con residencia en el Estado, el aviso de inscripción deberá presentarse dentro del mes siguiente al día en que se firme su acta constitutiva;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+II.- Presentar ante las mismas autoridades y dentro del plazo que señala la fracción anterior, los avisos de cambio de nombre, razón social, domicilio, traslado, traspaso o suspensión de actividades;
+
+III.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señaldos (sic) al eefcto (sic);
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+IV.- Los contribuyentes deberán presentar aviso de apertura o cierre de sucursales, bodegas, agencias u otras dependencias de la matriz, en la forma que al efecto apruebe la Secretaría de Finanzas y Tesorería General del Estado y pagarán el impuesto correspondiente en la declaración que presenta la matriz. Cuando la misma se encuentre fuera del territorio del Estado, deberá inscribirse una de las sucursales, para efectos del pago del impuesto correspondiente al territorio del Estado.
+
+V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
+
+###### ARTICULO 160.
+
+Están exentos del pago de este impuesto:
+
+I.- Las erogaciones que se cubran por concepto de:
+
+a).- Participación de los trabajadores en las utilidades de las empresas;
+
+b).- Indemnizaciones por riesgos o enfermedades profesionales, que se concedan de acuerdo con las leyes o contratos respectivos;
+
+c).- Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
+
+d).- Indemnizaciones por rescición (sic) o terminación, que tengan su origen en la prestación de servicios personales subordinados;
+
+e).- Pagos por gastos funerarios;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+f) Viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la ley del impuesto sobre la renta;
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2004)</small>
+
+g) Fondo de ahorro, despensas y alimentación;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+h).- Remuneraciones a personas discapacitadas invidentes, con deficiencia total auditiva, deficiencia total para hablar o con incapacidad motriz permanente, que les impida moverse sin ayuda de silla de ruedas, andador o muletas, según certificación del Centro de Evaluación de Habilidades y Actitudes Laborales del Sistema Estatal para el Desarrollo Integral de la Familia.
+
+II.- Las erogaciones que efectúen:
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+a) El Estado y los Municipios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+b).- Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+c).- Cámaras de comercio, industria, agricultura, ganadería, pesca o propietarios de bienes raíces, sindicatos obreros, asociaciones patronales y colegios profesionales, así como los organismos que los agrupen;
+
+d).- Instituciones educativas;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+e) Clubes de servicio a la comunidad, sin fines de lucro;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+f) Las asociaciones religiosas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+
+###### ARTICULO 160 Bis.
+
+La Tesorería General podrá estimar las erogaciones de los sujetos de este impuesto en los siguientes casos:
+
+I.- Cuando no presenten sus declaraciones, no lleven los libros o registros que legalmente están obligados.
+
+II.- Cuando por los informes que se obtengan se ponga de manifiesto que se han efectuado erogaciones gravadas que exceden del 3% de las declaradas por el causante.
+
+Para practicar las estimaciones a que se refiere este Artículo, se tendrán en cuenta:
+
+a) Las erogaciones realizadas, declaradas en los últimos doce meses.
+
+b) Las manifestaciones presentadas por concepto de Impuesto sobre la Renta, Sobre Productos del Trabajo en los últimos doce meses.
+
+> <small>(REFORMADO, P.O. DE 26 DE DICIEMBRE DE 2001)</small>
+
+c) Las actividades realizadas por el causante y otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 160 Bis
+
+1. - Las personas físicas con actividades empresariales y las morales a que se refiere el Artículo 155, podrán dictaminar por contador público registrado sus estados financieros, con relación al Impuesto Sobre Nóminas, de acuerdo a las Reglas Generales que emita la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+Para tal efecto y mediante escrito libre, podrán dar aviso a la Secretaría de Finanzas y Tesorería General del Estado, que optan por dictaminar sus estados financieros en materia del Impuesto sobre Nóminas y presentar el dictamen respectivo, en un plazo no mayor de 30 días hábiles, contados a partir de la fecha del escrito respectivo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+ARTICULO 160 bis-2. - Las revisiones o las visitas domiciliarias ordenadas para verificar el cumplimiento del Impuesto Sobre Nóminas deberán concluirse anticipadamente, cuando el contribuyente objeto de la revisión o visita antes del inicio de la auditoría hubiere presentado el aviso que consigna el artículo anterior, siempre que el escrito correspondiente cumpla con los requisitos indicados en dicho precepto.
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+ARTICULO 160 bis-3.- El Contador Público registrado que vaya a dictaminar los estados financieros con relación al Impuesto Sobre Nóminas a que se refiere el artículo 160 bis-1, deberá comunicar a la Secretaría de Finanzas y Tesorería General del Estado, mediante escrito libre, el nombre, denominación o razón social de las personas físicas con actividades empresariales o morales que hayan optado por dictaminar sus estados financieros para efectos del Impuesto Sobre Nóminas; así como el número de su registro al padrón estatal en materia de dicho impuesto y los ejercicios que comprende dicho Dictamen.
+
+La constancia de la autorización al Contador Público para dictaminar estados financieros expedida por la Secretaría de Hacienda y Crédito Público, así como la copia de la cédula profesional del Contador Público que vaya a realizar dicho Dictamen, deberán adjuntarse al Aviso a que se refiere el artículo 160 bis-1 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 160 Bis
+
+4.- El dictamen que practique el contador público registrado, deberá reunir los requisitos del Artículo 52 del Código Fiscal del Estado y su revisión se sujetará a las siguientes formalidades del procedimiento:
+
+I.- La autoridad fiscal en el ejercicio de sus facultades de comprobación, requerirá indistintamente al contador público registrado que elaboró el dictamen, al contribuyente revisado, o a los terceros relacionados con el contribuyente o responsable solidario.
+
+a) Tratándose del contador público registrado, la autoridad fiscal podrá solicitarle, por escrito con copia al contribuyente, lo siguiente:
+
+1.- Cualquier información que, conforme al Código deberá de estar incluida en los estados financieros dictaminados para efectos fiscales.
+
+2.- La exhibición de los papeles de trabajo elaborados con motivo de la auditoría practicada; los cuales, en todo caso, se entiende que son propiedad del contador público.
+
+3.- La información que se considere pertinente para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente.
+
+4.- La exhibición de los sistemas y registros contables y documentación original.
+
+b) Por lo que se refiere al contribuyente, la autoridad fiscalizadora estará facultada para requerir por escrito, con copia al contador público registrado, la información que se considere pertinente para cerciorarse del cumplimiento de sus obligaciones fiscales, así como la exhibición de sus sistemas y registros contables y documentación original correspondiente.
+
+c) Por lo que respecta a los terceros relacionados con los contribuyentes o responsables solidarios en los términos del Artículo 27 del Código Fiscal del Estado, la información y documentación que consideren necesaria para verificar si son ciertos los datos consignados en el dictamen.
+
+II.- En los términos del último párrafo del artículo 44 del Código Fiscal del Estado, se considera que se inicia el ejercicio de facultades de comprobación en relación con los contribuyentes que hayan presentado sus estados financieros dictaminados, cuando la autoridad fiscal competente lleve a cabo alguno de los actos señalados en los incisos b) y c) de la fracción anterior.
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+ARTICULO 160 bis-5.- Cuando esté notificada una orden de revisión o de visita domiciliaria pero no se haya iniciado la revisión documental, tomando en cuenta los antecedentes del contribuyente, respecto del cumplimiento de las obligaciones en materia de este impuesto, se le podrá autorizar el dictaminarse por los dos ejercicios anteriores a la fecha de la visita y en tal caso, la revisión o visita motivo de la orden notificada, se concluirá anticipadamente.
+
+### CAPITULO DECIMO. Del Impuesto sobre Honorarios
+
+###### ARTICULO 161.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 162.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 163.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 164.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 165.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 166.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 167.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 168.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 169.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 170.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO DECIMO PRIMERO. Del Impuesto Sobre Hospedaje
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 171.
+
+Es objeto del Impuesto Sobre Hospedaje la prestación de servicios de hospedaje realizados en hoteles, moteles, albergues y demás establecimientos de hospedaje y en campamentos y paraderos de casas rodantes, ubicados en el Estado de Nuevo León.
+
+Dentro del objeto del impuesto se incluye el sistema de tiempo compartido, por los servicios de hospedaje y por el otorgamiento de derechos de uso, goce o usufructo por períodos específicos, sobre un bien inmueble o porción del mismo, destinado al servicio de hospedaje.
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 172.
+
+Son sujetos de este impuesto las personas físicas, morales o las unidades económicas que presten los servicios objeto de este gravamen.
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 173.
+
+Es base de este impuesto el monto total de las erogaciones por la prestación de los servicios gravados. Se consideran erogaciones por la prestación de los servicios gravados los pagos totales por la prestación de los servicios a que se refiere el artículo 171, incluyendo los intereses, penas convencionales y cualesquier otros conceptos que se adicionen, vinculados a los servicios prestados y que se realicen en efectivo o en especie, deduciendo las devoluciones, descuentos, reducciones y bonificaciones recibidas. El Impuesto al Valor Agregado no se incluirá en el cálculo del impuesto.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 174.
+
+El impuesto se determinará aplicando una tasa del 2% sobre la base determinada en el artículo precedente.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 175.
+
+Se causará el impuesto en el momento en que ocurra el primero de cualquiera de los siguientes supuestos:
+
+> <small>(REFORMADA, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+I.- Se efectúen las erogaciones por la prestación de los servicios gravados;
+
+> <small>(REFORMADA, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+II.- Se hagan exigibles las erogaciones por la prestación de los servicios gravados; o
+
+III.- Se expida el comprobante de pago correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 176.
+
+El impuesto se calculará por meses de calendario y se cubrirá ante la oficina recaudadora correspondiente a más tardar el día 17 del mes siguiente al período que corresponda.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+Las devoluciones, descuentos, reducciones y bonificaciones se deducirán en el mes que efectivamente se realicen.
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 177.
+
+Los sujetos de este impuesto tendrán las siguientes obligaciones:
+
+> <small>(REFORMADA, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+I.- Cubrir el impuesto y los accesorios a su cargo y enterarlo en los términos previstos en el artículo 176, utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Tesorería General del Estado;
+
+> <small>(REFORMADA, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+II.- Trasladar dicho impuesto a las personas que reciban los servicios objeto del mismo. Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a dichas personas de un monto equivalente al impuesto establecido en este Capítulo;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- Llevar un registro contable de los servicios que presten, de las contraprestaciones que perciban o se hagan exigibles y de los comprobantes de pago que expidan, mencionados en este Capítulo;
+
+> <small>(REFORMADA, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+IV.- Presentar ante la Secretaría de Finanzas y Tesorería General del Estado su aviso de inscripción, dentro del mes siguiente al día que inicien actividades por las cuales deban efectuar el pago del impuesto. Este aviso se presentará por cada uno de los establecimientos en donde se preste el servicio de hospedaje.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+V.- Presentar ante las mismas autoridades y dentro del plazo que señala la fracción anterior, los avisos de cambio de nombre, denominación o razón social, cambio de domicilio, traslado, traspaso o suspensión de actividades;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+VI.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
+
+> <small>(REFORMADA, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+VII.- Presentar declaración mensual de los pagos que les corresponda efectuar. Esta obligación subsistirá aun cuando no se hayan realizado actividades gravadas o no hubiese cantidad alguna a enterar o cubrir, excepto cuando el contribuyente presente el aviso de suspensión respectivo.
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 178.
+
+El contribuyente trasladará el impuesto en forma expresa y por separado, en los comprobantes de pago que expida a las personas que reciban los servicios.
+
+La obligación a cargo de los contribuyentes de enterar el impuesto por las erogaciones correspondientes al objeto de este impuesto, subsistirá aun cuando no hubiesen efectuado el traslado del mismo.
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 179.
+
+No se pagará el impuesto tratándose de la prestación de servicios de hospedaje y asistencia a estudiantes, realizadas por Instituciones Educativas, Asociaciones Religiosas o en domicilios familiares.
+
+### CAPITULO DECIMO SEGUNDO. Del Impuesto sobre Empresas Porteadoras de Personas o Cosas
+
+###### ARTICULO 180.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 181.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 182.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 183.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 184.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 185.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 186.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+### CAPITULO DECIMO TERCERO
+
+Del Impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad.
+
+###### ARTICULO 187.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 188.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 189.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 190.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 191.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 192.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 193.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 194.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 195.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 196.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 197.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 198.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 199.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 200.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 201.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 202.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 203.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+###### ARTICULO 204.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+### CAPITULO DECIMO CUARTO. Del Impuesto sobre Expendios de Bebidas Alcohólicas
+
+###### ARTICULO 205.
+
+Son objeto de este impuesto los expendios de bebidas alcohólicas.
+
+###### ARTICULO 206.
+
+Son expendios de bebidas alcohólicas los establecimientos donde habitual o eventualmente se enajenan bebidas alcohólicas, en botella cerrada o al copeo, con una finalidad de lucro o sin ella, y aún cuando se vendan otros productos o se presten servicios.
+
+###### ARTICULO 207.
+
+Para los efectos de este capítulo se considera bebida alcohólica, todo líquido potable cuya graduación a la temperatura de 15 grados centígrados, exceda de 2 grados G. L.
+
+###### ARTICULO 208.
+
+Son sujetos de este impuesto, los propietarios o poseedores de los expendios de bebidas alcohólicas.
+
+###### ARTICULO 209.
+
+Están obligados a retener el impuesto que se cause, los productores o fabricantes, importadores, embotelladores, rectificadores, ampliadores, mezcladores, almacenistas o mayoristas, comisionistas y las sociedades constituidas por ellos que ejerzan el comercio de bebidas alcohólicas a quienes para los efectos de esta Ley se les designará con el nombre de retenedores del impuesto.
+
+###### ARTICULO 210.
+
+Para los efectos de esta Ley se consideran:
+
+I.- Productores o fabricantes, las personas que elaboren bebidas alcohólicas o las mezclen, rectifiquen o amplíen.
+
+II.- Importadores, las personas que reciban del extranjero bebidas alcohólicas, ya sea en propiedad o en comisión, depósito, representación o por cualquier otro título.
+
+III.- Embotelladores, las personas que embasen (sic) bebidas alcohólicas por cuenta de terceros.
+
+IV.- Almacenistas, comisionistas o distribuidores, las personas que se dediquen a la venta de bebidas alcohólicas, cualquiera que sea su procedencia y operen con ellos al mayoreo, por cuenta propia o ajena.
+
+V.- Porteadores, las personas que, habitual o accidentalmente transporten más de dieciocho litros de alcohol o de bebidas alcohólicas, cualquiera que sea el vehículo o medio que utilicen. Son aplicables los artículos 225 y 226 de esta Ley a estos causantes, y
+
+VI.- No se consideran como Almacenistas a los productores, fabricantes, rectificadores, mezcladores en frío y envasadores, por el almacenamiento que hagan de los productos que elaboren o manejen mientras conserven la propiedad de los mismos y el almacenamiento se haga dentro del recinto de la fábrica o la planta en que fueron elaborados.
+
+###### ARTICULO 211.
+
+El impuesto retenido deberá enterarse en efectivo en la Tesorería General y en las Oficinas Recaudadoras del domicilio del retenedor. Con el fin de probar que dicha retención se efectuó, las Oficinas Recaudadoras entregarán gratuitamente marbetes por el importe del impuesto enterado, los que deberán adherirse en cada uno de los envases que contengan bebidas alcohólicas.
+
+Cuando los retenedores sean propietarios o poseedores de un expendio de bebidas alcohólicas, deberán enterar el impuesto y por lo tanto adherir los marbetes a que se refiere el párrafo anterior al salir o remitir los envases a dichos expendios. No tendrán la obligación de fijar los marbetes en las ventas que se efectúen entre retenedores.
+
+Los fabricantes, almacenistas, retenedores o causantes del impuesto, no tendrán obligación de fijar los marbetes en los envases de bebidas alcohólicas que remitan para su venta fuera del Estado.
+
+###### ARTICULO 212.
+
+Las personas que sin estar obligadas a empadronarse o los expendedores que reciban bebidas alcohólicas en el Estado de Nuevo León, sobre los que no se haya retenido este impuesto, deberán enterarlo en la forma prevista por el Artículo 211, pues se presume, sin que se admita prueba en contrario, que se trata de bebidas alcohólicas destinadas a expendios en el Estado de Nuevo León.
+
+###### ARTICULO 213.
+
+Para cumplir con la obligación establecida en el Artículo anterior, las personas citadas en el mismo dentro de los tres días siguientes a la fecha en que adquieran o reciban las bebidas alcohólicas, enterarán en efectivo el importe del impuesto en la Oficina Recaudadora de su domicilio. Asimismo, deberán exigir de las oficinas citadas que les sean entregados gratuitamente los marbetes respectivos y adherirlos inmediatamente a los envases, con el fin de probar que se ha cubierto el impuesto establecido por este capítulo.
+
+###### ARTICULO 214.
+
+Los retenedores del impuesto son solidariamente responsables de su pago con los sujetos del mismo, en los casos de que se les entreguen por venta, comisión, depósito o por cualquier otro título o motivo, bebidas alcohólicas que no estén contenidas en envases cerrados de acuerdo con lo establecido por el Artículo 239 de esta Ley, o cuyos envases no tengan adheridos los marbetes que prueben que se ha efectuado el pago del impuesto.
+
+###### ARTICULO 215.
+
+Para los efectos de este capítulo, las bebidas alcohólicas se dividen en dos categorías y se causará el impuesto conforme a la siguiente tarifa:
+
+PRIMERA CATEGORIA: Comprende las bebidas cuyo precio al público en envase cerrado sea hasta de $30.00 (treinta Pesos) el litro:
+
+Unidad Fiscal hasta 1000 cc. $ 0.60
+
+Mayor de 1000 cc. $ 1.00
+
+SEGUNDA CATEGORIA: Comprende las bebidas cuyo precio al público en envase cerrado sea mayor de $30.00 (treinta pesos) el litro:
+
+Unidad Fiscal hasta 1000 cc. $ 3.50
+
+###### ARTICULO 216.
+
+Están exentos del pago de este impuesto:
+
+I.- Los productos medicinales con graduación alcohólica, cualquiera que ésta sea, que estén reconocidos como tales por la Secretaría de Salubridad y Asistencia.
+
+II.- La cerveza.
+
+III.- El aguamiel y los productos elaborados de su fermentación.
+
+IV.- El rompope elaborado con leche, huevo, azúcar y aguardiente o ron.
+
+###### ARTICULO 217.
+
+Las personas a quienes se impone la obligación de retener o de pagar el impuesto, lo enterarán en efectivo en la Tesorería General o en las Oficinas Recaudadoras en cuya jurisdicción se encuentre su domicilio, haciendo uso de las formas oficialmente aprobadas.
+
+Con el fin de probar que el impuesto ha sido enterado, las oficinas citadas entregarán gratuitamente a los sujetos del impuesto el número de marbetes suficientes para adherirlos en las botellas sobre las que ya se cubrió el impuesto.
+
+###### ARTICULO 218.
+
+Para comprobar el cumplimiento de la obligación de retener el impuesto que impone el Artículo 209 de este Capítulo, los retenedores adherirán los marbetes a que se refiere el Artículo anterior sobre los tapones o cierres de los envases que contengan las bebidas alcohólicas, al salir éstos del almacén o bodega para ponerlos a disposición del expendio de bebidas alcohólicas.
+
+###### ARTICULO 219.
+
+Los marbetes se adherirán sobre los tapones o cierres de manera que aparezcan visibles y se destruyan al destaparse los envases. Se pueden adherir hasta dos marbetes en cada envase como máximo.
+
+La Tesorería queda facultada para dictar disposiciones que, en forma gráfica y objetiva, indiquen la manera de adherir los marbetes, según el tipo de los envases.
+
+###### ARTICULO 220.
+
+Para los efectos de este impuesto, se considera que el impuesto no se enteró cuando el envase carezca de marbetes o el que tenga adherido sea menor su valor al correspondiente conforme al Artículo 215 de esta Ley.
+
+###### ARTICULO 221.
+
+Cuando el retenedor o el causante adhiera sobre los envases de bebidas alcohólicas, marbetes que no corresponden al Impuesto que debió enterarse conforme al Artículo 215, se procederá a consignarlo ante las autoridades competentes para la investigación correspondiente.
+
+###### ARTICULO 222.
+
+Tienen obligación de empadronarse en la Tesorería General o en las Oficinas Recaudadoras respectivas, dentro del plazo establecido por el Artículo 225 de esta Ley, las personas siguientes:
+
+I.- Los retenedores del impuesto a que se refiere el Artículo 209.
+
+II.- Los expendedores de bebidas alcohólicas.
+
+III.- Los expendedores de pulque, propietarios o poseedores de casillas o de pulquerías, así como los introductores o distribuidores de pulque.
+
+IV.- Las sociedades constituídas por las personas a que se refieren las fracciones anteriores; y
+
+V.- Los porteadores de alcohol o de bebidas alcohólicas, aún cuando tengan al mismo tiempo el carácter de sujetos o retenedores del impuesto. El empadronamiento se solicitará por separado para cada vehículo repartidor.
+
+Las personas citadas en las diferentes fracciones de este Artículo, estarán obligadas a solicitar y obtener de la Tesorería General o de las Oficinas Recaudadoras respectivas, refrendo anual del empadronamiento correspondiente, durante el mes de enero de cada año.
+
+###### ARTICULO 223.
+
+Cuando una persona física o moral, sea propietaria o poseedora de varios giros (fabricante, embotellador y expendedor) obligados a empadronarse y que se encuentren en un mismo local, sólo deberá presentar una solicitud de empadronamiento haciendo las aclaraciones pertinentes respecto de dichas circunstancias.
+
+###### ARTICULO 224.
+
+Las bodegas de los almacenistas, retenedores o causantes del impuesto, cuando estén ubicadas fuera de los recintos en forma independiente de los negocios, deberán empadronarse ante la Tesorería o en las Oficinas Recaudadoras respectivas, indicando su ubicación. Les son aplicables los Artículos 222, 225, 226 y 231 de esta Ley.
+
+###### ARTICULO 225.
+
+En los casos de iniciación de operaciones, la solicitud de empadronamiento deberá de presentarse en la Tesorería General o en las Oficinas Recaudadoras dentro de los diez días siguientes a la fecha en que se efectúe la apertura del establecimiento, o en que la persona obligada a empadronarse adquiera la posesión o propiedad de bebidas alcohólicas.
+
+###### ARTICULO 226.
+
+Las personas obligadas a empadronarse, deberán manifestar a la Tesorería General o a las Oficinas Recaudadoras, los casos de cambio de nombre, de razón social, de traspaso, de traslado o de clausura temporal o definitiva del negocio dentro de los diez días hábiles siguientes a la fecha en que se realizaren estos hechos.
+
+Tratándose de cambio de objeto o de giro, dentro del mismo término se presentará nueva solicitud de empadronamiento y se pagará el derecho que corresponda.
+
+###### ARTICULO 227.
+
+En los casos de clausura o de cambio de giro, se acompañará a la manifestación respectiva la licencia de funcionamiento y la cédula de empadronamiento del negocio.
+
+###### ARTICULO 228.
+
+Los vehículos dedicados al transporte de bebidas alcohólicas, llevarán escritos en lugar visible el número de empadronamiento, denominación social o razón social del porteador.
+
+###### ARTICULO 229.
+
+Las solicitudes de empadronamiento, las manifestaciones y los avisos, se formularán haciendo uso de las formas aprobadas por la Tesorería General debiéndose asentar en ellas, de manera verídica y exacta, todos los datos que en dichas formas se exijan. En todo caso, se anexarán los documentos requeridos en las formas.
+
+###### ARTICULO 230.
+
+La Tesorería General expedirá las cédulas de empadronamiento dentro de los quince días siguientes a la fecha de recibo de la solicitud, o dentro del mismo tiempo notificará al causante la negativa de empadronamiento y las razones en que la funde.
+
+El empadronamiento y la cédula, sólo tendrán efectos fiscales. En ningún caso prejuzgarán sobre la licencia de funcionamiento que expidan las Autoridades competentes.
+
+###### ARTICULO 231.
+
+Los causantes a que se refiere el Artículo 222 de esta Ley, pagarán por el servicio de empadronamiento inicial, así como por el refrendo anual del mismo, los derechos que establece esta Ley. La determinación de las categorías de los establecimientos, quedará a juicio de la Tesorería General.
+
+La falta de pago de estos derechos, dentro de los plazos que la Ley señala, dará lugar a la aplicación de una sanción de hasta tres tantos de la prestación fiscal omitida.
+
+###### ARTICULO 232.
+
+En los casos de iniciación de operaciones y de cambio de objeto o de giro, los derechos que establece el Artículo anterior se pagarán íntegramente con anterioridad a la presentación de la solicitud de empadronamiento.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 233.
+
+El pago de los derechos de refrendo de empadronamiento se realizará por trimestres adelantados, dentro de los primeros 20 días de los meses de enero, abril, julio y octubre de cada año, sin perjuicio de que puedan realizarse pagos anticipados de los citados derechos, respecto de todo o parte del año.
+
+###### ARTICULO 234.
+
+La Tesorería General y las Oficinas Recaudadoras, negarán el empadronamiento en los casos siguientes:
+
+I.- Cuando la solicitud no se formule en las formas aprobadas.
+
+II.- Cuando en las solicitudes no se expresen los datos que las formas requieran o no se acompañen los documentos que las mismas exijan.
+
+III.- Cuando no se acompañe a la solicitud inicial de empadronamiento, o a la de cambio de objeto o de giro, el comprobante de pago de los derechos correspondientes; y
+
+IV.- En los demás casos que esta Ley establece.
+
+###### ARTICULO 235.
+
+Se considera establecimiento clandestino al que habiendo funcionado durante un período mayor de treinta días, en ningún tiempo haya solicitado su empadronamiento.
+
+Se presumirá que el expendio ha funcionado durante más de treinta días, mientras no se pruebe lo contrario, cuando se le descubra operando sin haberse presentado la solicitud de empadronamiento.
+
+La Tesorería General ordenará la clausura definitiva del negocio, sin perjuicio de exigirle al infractor el pago de los derechos de empadronamiento y refrendo, impuesto y sanciones derivadas de los mismos, desde la fecha en que se le compruebe que estuvo operando.
+
+###### ARTICULO 236.
+
+La Tesorería General, a partir del mes de marzo de cada año, procederá a clausurar todos los establecimientos de las personas obligadas a empadronarse, que no hayan pagado íntegramente los derechos de refrendo correspondientes al mismo año. La clausura sólo se levantará previa la presentación del comprobante de pago de los citados derechos.
+
+###### ARTICULO 237.
+
+Cuando la solictiud (sic) de empadronamiento se presente omitiendo los datos o documentos que la misma exija, se dará al solicitante un plazo improrrogable de diez días para que subsane las omisiones. Si transcurrido este plazo no se corrigen las deficiencias señaladas, la Tesorería ordenará la clausura del establecimiento.
+
+Igualmente, se proceder (sic) a la clausura, cuando por otras causas fundadas se niegue el empadronamiento.
+
+###### ARTICULO 238.
+
+En el Estado de Nuevo León queda prohibido la venta de bebidas alcohólicas a granel. Se considera que las ventas se efectúan a granel cuando las bebidas estén contenidas en envases con capacidad mayor de cinco litros. Esta prohibición no es aplicable a las operaciones realizadas entre retenedores del impuesto.
+
+###### ARTICULO 239.
+
+Previamente a cualquier operación de venta o de entrega de bebidas alcohólicas a los expendedores, a las personas a que se refiere el Artículo 212 y al público, los retenedores del impuesto deberán envasar dichas bebidas en envases con las capacidades a que se refiere el Artículo 215 de esta Ley.
+
+###### ARTICULO 240.
+
+Para los efectos de esta Ley se presume, sin que se admita prueba en contrario, que los expendedores realizan ventas de bebidas alcohólicas a granel cuando las posean en envases abiertos o cerrados, cuya capacidad sea mayor de cinco litros, aún cuando en ellos estén adheridos los marbetes que prueben haber efectuado el pago del impuesto.
+
+###### ARTICULO 241.
+
+Unicamente en los expendios autorizados por el Gobierno del Estado para vender bebidas alcohólicas al copeo, se podrán tener éstas en botellas o en envases abiertos, que deberán ser los mismos de origen y en los cuales deberán conservarse adheridos los extremos de los marbetes. En caso contrario se considerar (sic); que el impuesto sobre los envases citados no ha sido enterado, sin que contra esta presunción se admita prueba en contrario.
+
+Los retenedores del impuesto no tendrán responsabilidad solidaria con el expendedor en el caso previsto por este Artículo.
+
+###### ARTICULO 242.
+
+Los retenedores no podrán establecer expendios de bebidas alcohólicas en el mismo local o dependencia de sus fábricas, almacenes o bodegas. La Tesorería ordenará la clausura del expendio de acuerdo con el Artículo 236 de esta Ley.
+
+###### ARTICULO 243.
+
+La Tesorería General ordenará la impresión de los marbetes a que se refiere esta Ley, les fijará su forma y el monto del impuesto enterado que amparan.
+
+###### ARTICULO 244.
+
+La Tesorería tiene acción real para el cobro de los impuestos y derechos que establece esta Ley. En consecuencia, los adquirientes por cualquier causa de las negociaciones o expendios de alcohol o de bebidas alcohólicas, tienen responsabilidad objetiva en el pago de los impuestos y derechos causados en relación a dichos negocios.
+
+###### ARTICULO 245.
+
+El impuesto y los derechos sobre expendios de bebidas alcohólicas deberán pagarse en la forma establecida en esta Ley.
+
+En consecuencia, en ningún caso podrá autorizarse que no se utilicen los marbetes para evidenciar la retención o pago del impuesto, ni podrán celebrarse convenios o concordatos con los causantes o con los retenedores. Se faculta a la Tesorería General del Estado para reglamentar otra forma de porbar (sic) que el impuesto ha sido enterado, en aquellos casos en que no sea posible el uso de los marbetes a que se refiere esta Ley.
+
+###### ARTICULO 246.
+
+Cuando los retenedores del impuesto que establece el Artículo 214 adquieran o posean alcoholes o aguardientes que no procedan de la uva fresca del país, se presumirá, sin que se admita prueba en contrario, que las bebidas alcohólicas que hubieren o hayan elaborado no las han obtenido de la fermentación natural del zumo de la uva fresca del país, o del zumo de la manzana fresca del país.
+
+En el caso previsto por este Artículo, los retenedores a quienes se compruebe la adquisición o posesión de dichos alcoholes o aguardientes, retendrán el impuesto conforme a la tarifa del Artículo 215 de esta Ley.
+
+###### ARTICULO 247.
+
+Las infracciones a esta Ley por lo que se refiere a marbetes se sancionará con una multa de $200.00 (doscientos pesos) por cada envase carente de marbete y el decomiso de los productos que no lo ostenten, así como en caso de reincidencia grave a juicio de la Tesorería con la clausura del establecimiento correspondiente.
+
+###### ARTICULO 248.
+
+Cuando el retenedor o causante adhiera sobre el envase de bebidas alcohólicas marbetes cuyo valor no corresponda al impuesto que debió enterarse conforme al Artículo 215, se procederá como lo indica el Artículo anterior.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+### CAPITULO DECIMO QUINTO. Impuesto sobre Ganado y Aves que se sacrifiquen
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 249.
+
+OBJETO: Es objeto de este impuesto la propiedad o posesión de ganado y aves que sean sacrificados.
+
+###### ARTICULO 250.
+
+SUJETOS: Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas sin personalidad jurídica, propietarias o poseedoras del ganado y aves materia del sacrificio.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 250 Bis.
+
+Este impuesto se causa en el momento en que se realice el sacrificio.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 251.
+
+TASA: El impuesto se pagará conforme a las siguientes tasas:
+
+I.- Ganado vacuno en pie: $200.00 por cabeza.
+
+II.- Ganado porcino con peso menor de 80 kilogramos, en pie; $80.00 por cabeza.
+
+III.- Ganado porcino con peso mayor de 80 kilogramos, en pie $140.00 por cabeza.
+
+IV.- Ganado Ovi-caprino, $40.00 por cabeza.
+
+V.- Cabrito, $16.00 cada uno.
+
+VI.- Ganado mayor no especificado, $120.00 por cabeza.
+
+VII.- Aves, $0.80 cada una.
+
+VIII.- Guajolotes, $2.00 cada uno.
+
+IX.- Pollo de engorda: $1.50 cada uno.
+
+Los encargados de los rastros no permitirán la matanza de ganado o aves, si no se les demuestra previamente el pago del impuesto.
+
+### CAPITULO DECIMO SEXTO. Impuesto Sobre Traslado de Dominio
+
+###### ARTICULO 252.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 253.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 254.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 255.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 256.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 257.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 258.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 259.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+###### ARTICULO 260.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+
+## TITULO TERCERO. De los Derechos
+
+### CAPITULO PRIMERO. Disposiciones Generales
+
+###### ARTICULO 261.
+
+Los Derechos por la prestación de servicios públicos en el Estado, se causarán en el momento en que el particular reciba la prestación del servicio, o en el momento en que se provoque, por parte del Estado, el gasto que deba ser remunerado por aquél, salvo que la Ley señale fecha distinta.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+Todas las personas físicas o morales, públicas o privadas, están obligadas al pago de derechos estatales, aún cuando otras leyes las exenten. Unicamente estarán exentos el Gobierno del Estado y las personas que esta Ley exente de manera expresa.
+
+###### ARTICULO 262.
+
+El importe de las tasas, que para cada derecho señalan los siguientes Capítulos, deberá ser cubierto en las Oficinas Recaudadoras de la jurisdicción donde se preste el servicio.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 263.
+
+La Dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentarle el interesado el recibo o comprobante que acredite su pago.
+
+ARTICULUO (SIC) 264.- En aquellos casos en que, por circunstancias especiales, el Ejecutivo del Estado considere conveniente que el pago del servicio prestado deba hacerse ante la propia Dependencia o funcionario que lo prestó, deberá mediar acuerdo que se publicará en el Periódico Oficial, previamente a la vigencia de la autorización respectiva.
+
+###### ARTICULO 265.
+
+El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto anteriormente, será responsable de su pago.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Humano y del Trabajo
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 266.
+
+Por los servicios prestados por la Secretaría del Trabajo se causarán y pagarán los derechos que se señalan en los siguientes artículos de este capítulo.
+
+Estos servicios podrán ser prestados por profesionistas independientes con título de ingeniero del ramo, debidamente registrado ante las autoridades educativas e inscrito ante la Secretaría del Trabajo. En este caso, no se estará obligado a cubrir los derechos respectivos.
+
+El profesionista que realice la inspección deberá presentar ante la Secretaría del Trabajo, dentro de los meses de Enero y Julio del semestre correspondiente, o en su caso, dentro del mes siguiente al inicio de actividades, una constancia en la que se certifique que ha cumplido con las disposiciones previstas en el reglamento respectivo. Esto no libera al contribuyente de permitir inspecciones ordenadas por la Secretaría del Trabajo, para verificar el cumplimiento de las disposiciones aplicables en esta materia.
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 267.
+
+Por inspección de calderas, inicial y semestral, realizada con base en el "Reglamento para la Inspección de Generadores de Vapor y Recipientes Sujetos a Presión", de fecha 13 de agosto de 1936, se pagarán N$1.30 por metro cuadrado de superficie de calefacción, sin que en ningún caso la cantidad a pagar sea menor de N$100.00 pesos, ni mayor de N$850.00 pesos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+Para la aplicación de estos Derechos, se tomará en cuenta el número total de metros cuadrados de superficie de calefacción, generados por todas las calderas que se tengan instaladas en cada establecimiento, sin importar el número de éstas.
+
+La inspección inicial deberá llevarse a cabo previamente a su funcionamiento y, en el caso de las inspecciones semestrales, éstas deberán llevarse a cabo durante los meses de enero y julio de cada año.
+
+Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres anticipados dentro de los primeros quince días de los meses de enero y julio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de N$55.00.
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 268.
+
+Por inspección de motores, inicial y semestral, realizada con base en el "Reglamento de Medidas Preventivas y Accidentes de Trabajo", de fecha 23 de Noviembre de 1934, se pagarán N$1.30 por caballo de fuerza, sin que en ningún caso la cantidad a pagar sea menor de N$100.00.
+
+Para la aplicación de esta Tarifa se tomará en cuenta la capacidad total en caballos de fuerza, de potencia generada por todos los motores que se tengan instalados en cada establecimiento, sin importar el número de ellos.
+
+La inspección inicial deberá llevarse a cabo previamente a su funcionamiento y, en el caso de las inspecciones semestrales, éstas deberán llevarse a cabo durante los meses de enero y julio de cada año.
+
+Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres anticipados dentro de los primeros 15 días de los meses de enero y julio.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+### CAPITULO TERCERO. De los Derechos por Servicios Prestados por la Secretaría General de Gobierno
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+###### ARTICULO 269.
+
+Por los servicios prestados en la Secretaría General de Gobierno, se causarán y pagarán los siguientes derechos:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+I.- Por el examen para el otorgamiento de la patente de Notario Público, ya sea titular o suplente 204.5 cuotas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+II.- Por servicios de vigilancia y verificación a cargo de Notarios Públicos, en funciones, anualmente 82 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+Este derecho deberá ser cubierto durante los meses de Enero y Febrero de cada año.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+III.- Por inscripción y revalidación de fierros y señales de ganado, por cada uno…...53 cuotas
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 270.
+
+Por los servicios del Registro Civil, de acuerdo con la siguiente:
+
+T A R I F A
+
+Concepto:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+I.- Inscripción de actas de nacimiento, reconocimiento de hijos, adopción, tutela y defunción 1 cuota
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+II.- Inscripción de actas de matrimonio 3.5 cuotas
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+III.- Inscripción de sentencias de divorcio 7 cuotas
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+IV.- Expedición de copias certificadas de las actas del estado civil, cada una 0.60 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles, o en lugar distinto a la sede de la Oficialía, se causarán dos tantos más de la suma fijada en las fracciones anteriores. En los casos de que el servicio se preste en horas o días inhábiles o en lugar distinto al de la Oficialía, se cobrará en favor del Oficial del Registro Civil, por concepto de reposición de gastos, una cantidad de hasta 6.8 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+VI.- Las anotaciones marginales 1.84 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+VII.- Por la inscripción de actos o hechos realizados en el extranjero 6.32 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+VIII.- Por la tramitación del procedimiento de aclaración o rectificación de actas 1.92 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IX.- Por servicio de información de inscripciones de de (sic) Registro Civil, obtenidos mediante sistemas de comunicación, proporcionada por Oficialías ubicadas fuera del área metropolitana o del Estado, por acta 2.87 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+X.- Por otros servicios no especificados 1.23 cuotas
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 270 Bis.
+
+La extemporaneidad en el pago de los derechos establecidos en el artículo anterior, en ningún caso dará lugar a la imposición de sanciones o al cobro de recargos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+###### ARTICULO 271.
+
+Por los servicios del Registro Público de la Propiedad y del Comercio, de conformidad con la siguiente:
+
+T A R I F A
+
+Concepto: Tasa:
+
+I.- Por inscripción o registro de Título ya se trate de documentos públicos o privados; de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de las cuales se adquiera, trasmita, grave, modifique o extinga el dominio o la posesión de bienes inmuebles, así como el de bienes muebles que deban registrarse conforme a las leyes, por el valor mayor, legal o convencional que en ellos se especifique:
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+a) Hasta N$ 50,000.00, por cada millar o fracción ….. N$ 4.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+b) Por el excedente de N$ 50,000.00, por cada millar o fracción ….. N$ 5.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+c) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ..... .5 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+d) En ningún caso la cantidad a pagar será menor a ….. 3 cuotas
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Ni mayor a ….. 220 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+Cuando una parte del valor sea determinada y la otra no, se cubrirán por la determinada conforme a los incisos a) y b) y por la indeterminada la cuota que señala el inciso c). En los casos de donación sin valor, se procederá a practicar avalúo por la Secretaría de Finanzas y Tesorería General del Estado y, según el valor resultante se aplicará la tarifa correspondiente.
+
+e) (DEROGADO, P.O. 29 DE DICIEMBRE DE 1989)
+
+f) (DEROGADO, P.O. 30 DE DICIEMBRE DE 1988)
+
+g) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1986)
+
+h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1986)
+
+Las cuotas señaladas en esta fracción serán aplicables, por el valor que consignen, a todo documento o acto jurídico que sea motivo de inscripción en el Registro Público.
+
+Tratándose de documentos o contratos que consignen prestaciones periódicas, si no se señala el término durante el que deban percibirse, para determinarse el valor sobre el que deba pagarse este derecho, se hará el cómputo de las prestaciones correspondientes a un año.
+
+Por lo que hace a operaciones sobre bienes muebles o inmuebles, en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará el 75% de la tasa correspondiente y el 25 % restante, al practicarse la inscripción complementaria.
+
+II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
+
+III.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+IV.- Por cancelación de inscripciones se pagará el 10% de la tasa que cause la inscripción pero en ningún caso la cantidad a pagar será menor de ….. 3 cuotas
+
+Ni mayor de ….. 24 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+V.- Por cualquier rectificación de inscripciones ….. 3.5 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+VI.- Por ratificación de firmas ante el Registrador, en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad ….. 3.5 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+VII.- Por el Registro de subdivisiones de predios, por cada lote resultante… .57 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+VIII.- Por el registro de planos de fraccionamientos, por cada lote vendible:
+
+A.- Fraccionamientos habitacionales:
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+a) Con lotes cuya superficie promedio sea mayor de 250 metros cuadrados…. .5 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+b) Con lotes cuya superficie promedio sea hasta 250 metros cuadrados .. .28 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+B.- Fraccionamientos comerciales, industriales y campestres ….. 1 cuota
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+C.- Cementerios… .23 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+En ningún caso la cantidad a pagar será inferior a ….. 4 cuotas
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+IX.- Por certificado de no inscripción de inmuebles ........... 0.50 cuotas
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Por certificado de inscripción de inmuebles, por cada inmueble o lote………………..… 1 cuota
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+X.- Por certificado de gravámenes o de libertad de gravámenes, por cada inmueble o lote … 1.86 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+XI.- Por acreditación o rectificación de medidas, según el valor de la superficie adicional, determinado por la Dirección de Catastro, por cada millar o Fracción ….. N$5.00
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+En ningún caso la cantidad a pagar será menor a ….. 6 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+XII.- Por inscripción de avisos preventivos, por cada lote o inmueble ….. 3 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+XIII.- Por la búsqueda de antecedentes registrales… .93 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+XIV.- Por expedición de constancias registrales de delegaciones ubicadas fuera del Area Metropolitana de la Ciudad de Monterrey, por hoja ….. 3 cuotas
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+XV.- Por la utilización de sistemas digitalizados:
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+a) Por búsqueda de antecedentes registrales respecto de condominios, fraccionamientos o programas de regularización …… 8 cuotas
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+b) Expedición de copias de registro de antecedentes, por cada una ….. 0.07 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+c) Información de datos de antecedentes registrales... .70 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+XVI.- Por expedición de constancias no incluidas en las fracciones anteriores ….. 3 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+XVII.- Por la presentación de aviso testamentario ….. 3 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+XVIII.- Por la expedición de informes sobre la existencia o inexistencia de Testamentos ….. 3 cuotas
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Las inscripciones que se realicen con motivo de aseguramientos o embargos ordenados por las autoridades judiciales federales, la Procuraduría General de la República o las Agencias del Ministerio Público Federales, no generarán pago de los derechos a que se refiere este artículo. Así mismo, no se pagarán los derechos previstos en la fracción IV de este artículo, tratándose de resoluciones judiciales o de Tribunales de Conciliación y Arbitraje, ya sea federales o estatales, que ordenen la cancelación de la inscripción de un embargo trabado sobre bienes o derechos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 272.
+
+Por autorización de:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+I.- Protocolos:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+a) Para notarías públicas con demarcación notarial en el primer Distrito Registral del Estado, por cada folio autorizado ….. 0.16 cuotas
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+b) Para notarías públicas con demarcación notarial en los demás Distritos Registrales del Estado, por cada folio autorizado ….. 0.080 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+II.- Libros de Actas Fuera de Protocolo:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+a) Para notarías públicas con demarcación notarial en el primer Distrito Registral del Estado, por cada libro autorizado ….. 17.5 cuotas
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+b) Para notarías públicas con demarcación notarial en los demás Distritos Registrales del Estado, por cada libro autorizado ….. 5.5 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- Por cada libro de Registro de Corredores Públicos 27 cuotas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+###### ARTICULO 272 Bis.
+
+Por autorización de cierre de:
+
+I.- Protocolos:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+a) Para notarías públicas con demarcación notarial en el primer Distrito Registral del Estado, por cada folio autorizado ….. 0.10 cuotas
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+b) Para notarías públicas con demarcación notarial en los demás Distritos Registrales del Estado, por cada folio autorizado ….. 0.065 cuotas
+
+II.- Libros de Actas Fuera de Protocolo:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+a) Para notarías públicas con demarcación notarial en el primer Distrito Registral del Estado, por cada libro autorizado ….. 8.5 cuotas
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+b) Para notarías públicas con demarcación notarial en los demás Distritos Registrales del Estado, por cada libro autorizado ….. 3.5 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- Por cada Libro de Registro de Corredores Públicos ….. 17.5 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 273.
+
+Por legalización de firmas:
+
+I.- Documentos escolares:
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+a) Certificados de estudios de educación media superior 2 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+b) Actas de examen profesional 10.5 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+c) Constancias de titulación 10.5 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+d) Cartas de pasante 10.5 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+e) Certificados de estudios superiores 10.5 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+f) Títulos profesionales 15.5 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+g) Títulos de técnicos medios 5 cuotas
+
+II.- Documentos judiciales:
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+a) Exhortos 4 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+b) Cartas de no antecedentes penales 2 cuotas
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+III.- Actas del Registro Civil 1 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+IV.- Notariales 5 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+V.- Otros 1 cuota
+
+En caso de que se hayan cubierto los derechos previstos en el artículo 275 bis, fracción I, de esta Ley, no se pagarán los derechos establecidos en la fracción I de este artículo, correspondientes al mismo trámite.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 273 Bis.
+
+Por los derechos de publicación en el Periódico Oficial del Estado, por cada renglón:
+
+I.- Edictos, Avisos y Convocatorias 0.20 cuotas.
+
+II.- Balances de Empresas 7.50 cuotas.
+
+La publicación de Leyes, Decretos, Reglamentos, Acuerdos, Resoluciones y Circulares de carácter general y demás disposiciones a que se refiere el Artículo 10 de la Ley del Periódico Oficial del Estado, emitidos por las autoridades, estará exenta de los derechos previstos en este Artículo.
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+
+###### ARTICULO 274.
+
+Por los siguientes servicios prestados por las Corporaciones Policiacas.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+I.- Por registro y refrendo anual de vigilantes privados que presten sus servicios en forma independiente N$20.00
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+II.- Por registro y refrendo anual de vigilantes privados que presten sus servicios bajo una relación de subordinación a un patrón, aún cuando el servicio sea prestado a terceras personas, por cada uno de ellos N$50.00
+
+Estos derechos deberán ser cubiertos por el patrón.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+III.- Por registro y atención de alarmas, por cada establecimiento o local que reciba el servicio, semestralmente N$550.00
+
+Estos derechos deberán ser cubiertos dentro del primer mes del período correspondiente. En caso de incumplimiento, la Dirección de Seguridad Pública del Estado impondrá una multa equivalente a dos tantos de los derechos omitidos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+###### ARTICULO 275.
+
+Por los siguientes servicios prestados por la Dirección de Archivo General de Notarías:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+I.- Por certificación de constancia 2.5 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+II.- Por expedición de Segundos Testimonios, por hoja.… .46 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- Por presentación de aviso testamentario 3 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+IV.- Por la expedición de informes sobre la existencia o inexistencia de testamento 2.5 cuotas
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Secretaría de Educación
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 275 Bis.
+
+Por los servicios prestados por la Secretaría de Educación.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+I.- Constancias de Estudios:
+
+1. Educación Básica:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+a) Constancias, Certificaciones o Revalidaciones de Estudios de Primaria y Secundaria, por cada un 0.50 cuotas
+
+2. Escuelas Técnicas y Comerciales:
+
+a) Certificación de escuelas técnicas y comerciales, así como de escuelas técnicas de capacitación para el trabajo, con estudios no mayores de dos años con diploma ….. 1 cuota
+
+b) Certificado terminal de escuelas técnicas comerciales con estudios de tres años ….. 2 cuotas
+
+3. Nivel Medio Superior:
+
+a) Legalización de certificados de preparatoria, así como por Registro y legalización de certificaciones de nivel medio superior ….. 2 cuotas
+
+b) Equivalencias de estudios, por materia ….. 0.5 cuotas
+
+En ningún caso la cantidad a pagar será menor a …… 2.5 cuotas
+
+c) Revalidación de estudios ….. 2.5 cuotas
+
+d) Registro y legalización de actas de examen profesional ….. 5 cuotas
+
+e) Registro y legalización de títulos de técnicos medios y profesionales ….. 6.5 cuotas
+
+f) Certificación de estudios de escuelas desaparecidas, así como, por la legalización de certificaciones de escuelas desaparecidas ….. 2 cuotas
+
+g) Constancias sobre liberación de servicio social de escuelas desaparecidas ….. 1 cuota
+
+4. Educación Superior:
+
+a) Legalización de certificados, así como el registro y legalización de certificados y registro y legalización de actas de examen profesional, de nivel superior, por cada trámite ….. 10.5 cuotas
+
+b) Equivalencias de estudios, por materia ….. 0.5 cuotas
+
+En ningún caso la cantidad a pagar será menor a ….. 2.5 cuotas
+
+c) Revalidación de estudios, por materia ….. 0.5 cuotas
+
+En ningún caso la cantidad a pagar será menor a ….. 2.5 cuotas
+
+d) Registro y legalización de títulos profesionales y de técnico superior profesional ….. 13.5 cuotas
+
+e) Registro y legalización de actas de examen profesional, así como de certificados, de técnico superior profesional, por trámite ….. 10.5 cuotas
+
+f) Certificados de estudios, de actas de examen profesional y transcripciones de títulos profesionales, de escuelas desaparecidas, por cada trámite ….. 3 cuotas
+
+g) Constancias de Servicio Social de escuelas desaparecidas ….. 1.5 cuotas
+
+5. Ejercicio Profesional:
+
+a) Trámite de Cédula Profesional, así como Autorización para el ejercicio de especialidad, por cada trámite ….. 5 cuotas
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003.</small>
+
+II.- Instituciones Educativas:
+
+1.- Por el inicio de trámite de incorporación, entrega de folleto-instructivo, por nivel específico y de paquete de formularios para el trámite N$80.00
+
+2.- Por los estudios y análisis de los siguientes programas oficiales:
+
+a) Educación inicial y preescolar N$100.00
+
+b) Primaria N$200.00
+
+c) Secundaria N$400.00
+
+d) Capacitación para el trabajo N$500.00
+
+e) Preparatoria general y técnica N$1,000.00
+
+f) Técnico Profesionista N$2,000.00
+
+g) Educación superior y especialización N$2,000.00
+
+h) Maestrías y doctorados N$5,000.00
+
+i) Modificación de programa N$1,000.00
+
+3.- Por incorporación:
+
+a) Educación inicial y preescolar N$1,000.00
+
+b) Primaria N$2,000.00
+
+c) Secundaria N$4,000.00
+
+d) Capacitación para el trabajo N$3,000.00
+
+e) Preparatoria general y técnica N$5,000.00
+
+f) Técnico profesional N$7,000.00
+
+g) Educación superior y especialización N$8,000.00
+
+h) Maestrías y doctorados N$10,000.00
+
+4.- Por el refrendo anual:
+
+a) Educación inicial y preescolar N$1,000.00
+
+b) Primaria N$2.000.00
+
+c) Secundaria N$4,000.00
+
+d) Capacitación para el trabajo N$3,000.00
+
+e) Preparatoria general y técnica N$5,000.00
+
+f) Técnica profesional N$7,000.00
+
+g) Educación superior y especialización N$8,000.00
+
+h) Maestrías y doctorados N$10,000.00
+
+5.- Por la actualización de datos:
+
+a) Cambio de nombre N$400.00
+
+b) Cambio de domicilio N$400.00
+
+c) Cambio de director N$400.00
+
+d) Cambio de representante legal N$400.00
+
+e) Cambio de personal docente N$400.00
+
+f) Cambio de persona física a personal moral N$1,000.00
+
+Los derechos de refrendo anual a que se refiere este artículo deberán cubrirse durante el mes de Marzo de cada año.
+
+(REUBICADO [N. DE E. ANTES CAPITULO CUARTO] Y REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)
+
+### CAPITULO QUINTO. De los Derechos por Servicios Prestados por la Secretaría de Finanzas y Tesorería General
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+
+###### ARTICULO 276.
+
+Por los servicios prestados por la Secretaría de Finanzas y Tesorería General del Estado o sus dependencias, se causarán los siguientes derechos:
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+I.- Por empadronamiento y refrendo anual de los establecimientos ubicados en los municipios de Apodaca, Escobedo, García, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+a) Expendio de bebidas alcohólicas en botella cerrada N$220.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+b) Expendio de bebidas alcohólicas al copeo N$440.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+c) Expendio de bebidas alcohólicas, restaurantes con variedad artística o musical N$1,700.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+d) Discotecas y salones de baile en donde se expendan bebidas alcohólicas N$3,500.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+e) Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística y similares N$8,500.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+f) Hoteles de paso N$8,500.00
+
+Tratándose de establecimientos ubicados en los demás municipios, cubrirán el 50% de las cuotas establecidas.
+
+II. - (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+III.- Por la expedición de avalúos informativos 2.5 cuotas.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+IV.- Por expedición de certificado de no inscripción catastral 0.50 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+V.- Por expedición de constancias catastrales sin certificar, cada una 1 cuota
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+VI.- Por expedición de constancias catastrales certificadas, cada una 2 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+VII.- Por la inscripción de subdivisiones, parcelaciones, relotificaciones, fraccionamientos, condominios, departamentos o disolución de copropiedades, por cada lote resultante 1 cuota
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+VIII.- Por información y ubicación de predios 1 cuota
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Por baja de construcción por demolición u otras causas 1 cuota
+
+IX.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2001)
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+En ningún caso la cantidad a pagar será inferior a 2.5 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+Ni mayor de 17.5 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+X.- Por duplicado de tarjetones de Impuesto Predial 1 cuota
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+XI.- Por expedición de planos:
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+a) Manzaneros o de región 2 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+b) Manzaneros o de región, certificados 3 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+c) Lote 1 cuota
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+d) Lote certificado 2 cuotas
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+e) De construcción 2 cuotas
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+f) De construcción, certificados 3 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+XII.- Por asignación de número de expediente catastral a planos de fraccionamientos 2.5 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XIII.- Por servicios de control vehicular, que se prestan al inscribir y refrendar anualmente el registro de un vehículo tratándose de:
+
+a) Vehículos de motor, excepto motocicletas 18 cuotas
+
+b) Remolques 7 cuotas
+
+c) Motocicletas con motor mayor de 75 centímetros cúbicos 1.5 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XIV.- Por autorización y refrendo anual de placas de demostración 30 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XV.- Por expedición, reposición o canje de placas tratándose de:
+
+a) Vehículos de motor, excepto motocicletas 5 cuotas
+
+b) Remolques 2.5 cuotas
+
+c) Motocicletas con motor mayor de 75 centímetros cúbicos 1 cuota
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XVI.- Por reposición de tarjeta de circulación 2 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XVII.- Por inscripción o cancelación de gravámenes y modificaciones al padrón vehicular 5 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XVIII.- Por el servicio de validación, ratificación de firmas o certificación sobre enajenación de vehículos 8 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XIX.- Por expedición, renovación o reposición de licencia para conducir 5 cuotas
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XX.- Por el servicio de información requeridos (sic) a otras autoridades 4 cuotas
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XXI.- Por expedición de constancias y certificaciones 3 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Los derechos a que se refieren las fracciones XIII a XXI de este artículo, pasarán a ser patrimonio del Instituto de Control Vehicular, por lo que serán recaudados y administrados por dicho instituto en cumplimiento de sus fines y de acuerdo a sus facultades legales.
+
+> <small>(DEROGADO TERCER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+(REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 31 DE DICIEMBRE DE 1993)
+
+### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
+
+ARTICULO 276 BIS.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO SEPTIMO. De los Derechos por Servicios Prestados por Diversas Dependencias y Entidades de los Poderes Legislativo, Ejecutivo y Judicial
+
+###### ARTICULO 277.
+
+Por los servicios que presten diversas Dependencias del Ejecutivo, se causarán Derechos conforme a la siguiente
+
+T A R I F A
+
+Concepto: Tasa:
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+I.- Por inscripción de títulos profesionales:
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+a) De maestros 1 cuota
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+b) De Corredor Público o de las Patentes de Notario Público 56.5 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+c) De los demás profesionistas 2.5 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1987)</small>
+
+II.- En materia de salud local, por examen médico, análisis sanguíneo, catastro torácico y expedición de certificado de salud, si los servicios son prestados a personas dedicadas a una actividad independiente o a trabajadores que laboren en empresas de no más de 5 empleados, los servicios serán gratuitos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+En caso de que estos servicios sean prestados a trabajadores de patrones con más de 5 empleados, se cobrarán $30.00 por estos cuatro servicios, con vigencia semestral. Por refrendo semestral, se cobrarán $25.00. Estos derechos deberán ser cubiertos por el propio patrón.
+
+El examen médico, el análisis sanguíneo y el catastro torácico podrán ser practicados por personas o establecimientos públicos o particulares, autorizados para prestar servicios médicos. Una vez acreditado lo anterior, el certificado de salud se expedirá en forma gratuita.
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+III.- Por verificación semestral del cumplimiento de las disposiciones en materia de seguridad, ecología, salud e higiene, por metro cuadrado de área de trabajo, de servicios y de atención al público, N$0.50, sin que la cantidad a pagar por establecimiento sea inferior a N$50.00, ni mayor a N$850.00.
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+IV.- Por registro y refrendo anual del padrón del Gobierno del Estado, anualmente:
+
+a) Contratistas N$440.00
+
+b) Proveedores N$220.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+V.- Por la revisión de planos que se practique por concepto de ingeniería sanitaria, sobre el valor de las edificaciones que se pretendan construir, determinado por la Secretaría de Finanzas y Tesorería General del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes se pagará por cada millar o fracción N$5.00
+
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998) (F. DE E., P.O. 18 DE ENERO DE 1999)
+
+En ningún caso la cantidad a cubrir será menor a 2.5 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+VI.- Por la expedición de constancias y certificados, que expidan las dependencias del Gobierno del Estado, no mencionadas en las disposiciones de este Título 1 cuota
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+VII.- Por incorporación a las redes de agua y drenaje, por metro cuadrado del área vendible:
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+a) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados .107 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+b) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio entre 150 y 250 metros cuadrados .075 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+c) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados .048 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+d) Fraccionamientos comerciales, por metro cuadrado .110 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+e) Fraccionamientos industriales .121 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+f) Fraccionamientos campestres .107 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+g) Fraccionamientos funerarios .133 cuotas
+
+h) Predios que no formen parte de un fraccionamiento autorizado por las autoridades competentes, por metro cuadrado:
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+1.- Por incorporación a las redes de agua .044 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+2.- Por incorporación a las redes de drenaje .044 cuotas
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Tratándose de fraccionamientos, cuando soliciten su incorporación únicamente a las redes de agua o sólo a las redes de drenaje, pagará el 50% de los derechos establecidos.
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+VIII.- Por clasificación de carne de res, por canal N$3.80
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+IX.- Por expedición de certificados a establecimientos para expender carne clasificada:
+
+a) Carnicerías N$200.00
+
+b) Tiendas de autoservicio N$400.00
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+X.- Por expedición de certificaciones relativas a los derechos patrimoniales del Estado sobre un inmueble 5 cuotas
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XI.- Por servicios en materia de transporte público:
+
+a) Por expedición o refrendo de la concesión. 10 cuotas
+
+b) Por trámite de cesión de derechos de la concesión. 25 cuotas
+
+c) Por reposición del documento en el que consta la concesión. 10 cuotas
+
+d) Por cambio de vehículo objeto de la concesión. 10 cuotas
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 277 Bis.
+
+Por la expedición de copias, certificaciones y reproducciones diversas, que expidan las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial del Gobierno del Estado, se causarán los derechos de acuerdo a las siguientes tarifas:
+
+I. Copias simples por hoja ….. 0.012 cuotas
+
+II. Copias a color por hoja ….. 0.24 cuotas
+
+III. Copias certificadas por cada documento, sin perjuicio de lo dispuesto en las fracciones anteriores ….. 1 cuota
+
+IV. Copias simples de planos ….. 0.43 cuotas
+
+V. Copias simples de planos a color ….. 2 cuotas
+
+VI. Copias certificadas de planos ….. 3 cuotas
+
+VII. Copias certificadas de planos a color ….. 5 cuotas
+
+En caso de reproducción en medios magnéticos, fotográficos, sonoros, ópticos o visuales y otros, los materiales que se requieran serán proporcionados por el interesado.
+
+En todos los casos, con excepción del Poder Judicial del Estado, por búsqueda y localización de documentos, archivos y expedientes y demás información solicitada, generará 1 cuota, sin perjuicio del derecho que corresponda por las copias expedidas.
+
+## TITULO CUARTO. De los Productos
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 278.
+
+El Estado recibirá los siguientes Productos:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+I. Enajenación de bienes muebles o inmuebles;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+II. Arrendamiento o explotación de bienes muebles o inmuebles del dominio privado;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+III. Los procedentes de los medios de comunicación social del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+IV. Intereses;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+V. Venta de impresos y papel especial;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+VI. Ingresos de organismos desconcentrados y diversas entidades; y,
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+VII. No especificados.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 279.
+
+Los productos se cobrarán de acuerdo con los contratos, o en los términos de las concesiones, de conformidad con las leyes o disposiciones aplicables.
+
+## TITULO QUINTO. De los Aprovechamientos
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 280.
+
+El Estado recibirá los siguientes Aprovechamientos.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+I.- Participaciones Federales;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+II. Aportaciones Federales;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+III. Recargos;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+IV. Donativos;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+V. Multas;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+VI. Aportaciones de entidades paraestatales;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+VII. Administración de ingresos municipales;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+VIII. Financiamiento a través del crédito público;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+IX. Expropiaciones;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+X. Aportaciones extraordinarias de los entes públicos;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+XI. Cauciones cuya pérdida se declare a favor del Estado;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+XII. Reintegros e indemnizaciones;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+XIII. Bienes vacantes, herencias, tesoros ocultos y legados;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+XIV. Accesorios y rezagos de contribuciones y aprovechamientos; y,
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+XV. Diversos.
+
+> <small>(N. DE E., CON FUNDAMENTO EN EL ARTICULO UNICO DEL DECRETO 120, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2001, EL CONTENIDO DEL TITULO OCTAVO PASA A SER EL CONTENIDO DEL PRESENTE TITULO)</small>
+
+## TITULO SEXTO. Facultades del Ejecutivo
+
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 286], P.O. DE 26 DE DICIEMBRE DE 2001)
+
+###### ARTICULO 281.
+
+El Ejecutivo del Estado queda facultado para:
+
+a) Dictar las disposiciones reglamentarias para la aplicación de la presente Ley y demás disposiciones fiscales.
+
+b) Suprimir, modificar o adicionar en las leyes tributarias, a través de disposiciones generales, los preceptos relativos a la administración, control y forma de pago, sin variar los relativos a los procedimientos, sujetos, objeto, cuota, tasas o tarifa, del gravamen, infracciones o sanciones.
+
+c) Otorgar concesiones y celebrar contratos en los que se establezcan cuotas, tasas o tarifas de los productos que, por tales actos, debe recibir el Estado.
+
+d) Celebrar los actos necesarios para obtener los ingresos denominados aprovechamientos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 287], P.O. DE 26 DE DICIEMBRE DE 2001)
+
+###### ARTICULO 282.
+
+El Ejecutivo del Estado fijará las cuotas que deban cubrirse por la instalación, ampliación o incorporación de redes de agua y drenaje. Queda asimismo facultado el Ejecutivo, para formular, modificar, adicionar o reformar las tarifas para el cobro de Derechos por servicios públicos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 288], P.O. DE 26 DE DICIEMBRE DE 2001)
+
+###### ARTICULO 283.
+
+Es facultad del Ejecutivo el descentralizar fondos de las partidas del gasto público, para inversión en obras y servicios.
+
+###### ARTICULO 284.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+## TITULO SEPTIMO. De los Ingresos Extraordinarios
+
+###### ARTICULO 285.
+
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2001)
+
+> <small>(N. DE E., CON FUNDAMENTO EN EL ARTICULO UNICO DEL DECRETO 120, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2001, EL CONTENIDO DEL TITULO OCTAVO PASA A SER EL CONTENIDO DEL TITULO SEXTO)</small>
+
+T R A N S I T O R I O S :
 
 ###### ARTICULO PRIMERO.
 
-La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+La presente Ley entrará en vigor el día 1o. de enero de 1975.
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
+Se derogan las Leyes, Ordenamientos y demás disposiciones fiscales que se opongan a la presente Ley de Hacienda.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Victoria, Tam., 8 de septiembre del 2004.- DIPUTADO PRESIDENTE.- LORENZO RAMIREZ DIAZ.- Rúbrica.- DIPUTADA SECRETARIA.- ELSA ILIANA RAMIREZ ELIZONDO.- Rúbrica.- DIPUTADA SECRETARIA.- MARIA DEL PILAR MAR CORDOVA.- Rúbrica."
+###### ARTICULO TERCERO.
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+Tratándose de fraccionamientos de terrenos aprobados por la autoridad respectiva antes del 31 de diciembre de 1974, y siempre que los fraccionadores no hayan vendido la totalidad de los lotes o estén pendientes de consumarse operaciones de fideicomiso, promesa de venta o ventas con reserva de dominio, los fraccionadores deberán enviar a la Oficina Técnica Catastral, de la Tesorería General del Estado, copia de los planos del fraccionamiento indicando los lotes con características de los arriba señalados. El plazo para el envío vence el día último de enero de 1975.
 
-Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los ocho días del mes de septiembre del año dos mil cuatro.
+La Oficina Técnica Catastral, aún cuando no reciba dichos planos, procederá a la valuación de los predios del fraccionamiento, aplicando los valores catastrales en vigor. Las cuotas que resulten con motivo de esos avalúos, entrarán en vigor el bimestre siguiente a la fecha en que se practiquen.
 
-ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+###### ARTICULO CUARTO.
 
-P.O. 6 DE SEPTIEMBRE DE 2006.
+Con motivo de la modificación al sistema de vigencia de las licencias de conducir, las licencias que se expidan en el año de 1988 expirarán en el año 1990 en los términos del último párrafo del artículo 276, aún cuando su vigencia sea mayor de 2 años.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO QUINTO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983).
 
-###### ARTÍCULO SEGUNDO.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-En el ámbito de sus facultades, la Secretaría de Educación del Estado, elaborará la reglamentación del programa en la que se establezcan los requisitos y procedimientos necesarios para hacer efectivo el derecho que establece el artículo 43 de esta Ley, así como los mecanismos para la evaluación y fiscalización del programa.
+###### ARTICULO SEXTO.
 
-P.O. 5 DE JUNIO DE 2008.
+Tratándose del impuesto Sobre Enajenación de Automóviles, Camiones y Demás Vehículos de Motor generado antes del 1 de Enero del 2000, los adquirentes serán responsables solidarios solamente respecto del pago del Impuesto que se haya causado en las operaciones en las que haya intervenido.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO SEPTIMO.
+
+En caso de que la Secretaría de Desarrollo Urbano y Obras Públicas del Estado realice la prestación de los servicios mencionados en el artículo 276 bis de la Ley de Hacienda del Estado vigente hasta el 31 de Diciembre de 1999, los derechos se causarán y pagarán conforme al citado artículo, no obstante que sean prestados con posterioridad a esa fecha.
+
+Por lo tanto, envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los veinticinco días del mes de Diciembre de mil novecientos setenta y cuatro.- PRESIDENTE: DIP. LIC. JESUS J. AYALA VILLARREAL; DIP. SECRETARIO: PROFR. LIC. ERNESTO TIJERINA CANTU; DIP. SECRETARIO: LIC. JOSE LUIS CANTU VELAZQUEZ.- RUBRICAS.''
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.- Dado en el Despacho del Poder Ejecutivo, en Monterrey, Capital del Estado de Nuevo León, a los veintiséis días del mes de diciembre de mil novecientos setenta y cuatro.
+
+EL GOBERNADOR DEL ESTADO
+
+PEDRO G. ZORRILLA MARTINEZ
+
+LIC. CESAR SANTOS SANTOS
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 27 DE DICIEMBRE DE 1975.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el 1o. de Enero de 1976.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
+
+P.O. 29 DE DICIEMBRE DE 1976.
+
+###### ARTICULO PRIMERO
+
+- Esta Ley entrará en vigor el día 1o. de Enero de 1977.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
+
+P.O. 30 DE DICIEMBRE DE 1977.
 
 ###### ARTICULO PRIMERO.
 
-Este Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a los 90 días posteriores.
+Esta Ley entrará en vigor el día 1o. de Enero de 1978.
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
+Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
 
-P.O. 24 DE SEPTIEMBRE DE 2013.
+P.O. 25 DE DICIEMBRE DE 1978.
+
+###### ARTICULO PRIMERO
+
+Esta Ley entrará en vigor el día 1o. de Enero de 1979.
+
+###### ARTICULO SEGUNDO
+
+Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
+
+P.O. 28 DE DICIEMBRE DE 1979.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1o. de Enero de 1980.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las Leyes, Resoluciones y Disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 1980.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1o. de Enero de 1981.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las leyes, Resoluciones y Disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 1981.
+
+###### ARTICULO PRIMERO
+
+Este Decreto entrará en vigor el día 1o. de Enero de 1982.
+
+###### ARTICULO SEGUNDO
+
+Se derogan las Leyes, Resoluciones y Disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 1982.
+
+###### ARTICULO PRIMERO
+
+Este Decreto entrará en vigor el día 1o. de enero de 1983.
+
+###### ARTICULO SEGUNDO
+
+Se derogan todas las Leyes, Resoluciones y Disposiciones que se opongan a la presente Ley.
+
+P.O. 30 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO
+
+Este Decreto entrará en vigor el día 1o. de enero de 1984.
+
+###### ARTICULO SEGUNDO
+
+Se derogan todas las Leyes, Resoluciones y Disposiciones que se opongan a la presente Ley.
+
+P.O. 30 DE DICIEMBRE DE 1985.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1o. de Enero de 1986.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las Leyes, Resoluciones y Disposiciones que se opongan a la presente Ley.
+
+P.O. 31 DE DICIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1o. de enero de 1987.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las Leyes, Resoluciones y Disposiciones que se opongan a la presente Ley.
+
+P.O. 30 DE DICIEMBRE DE 1987.
+
+###### ARTICULO PRIMERO
+
+El presente Decreto entrará en vigor el 1o. de Enero de 1988.
+
+###### ARTICULO SEGUNDO
+
+Se derogan todas las disposiciones, leyes y reglamentos que se opongan al contenido del presente Decreto.
+
+###### ARTICULO TERCERO
+
+Con motivo de la reforma efectuada al artículo 28 de la Constitución Política del Estado, deberá entenderse que las disposiciones fiscales y administrativas de la Entidad que mencionan al Municipio de Garza García, se refieren al Municipio de San Pedro Garza García.
+
+P.O. 30 DE DICIEMBRE DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor el día 1° de Enero de 1989.
+
+P.O. 29 DE DICIEMBRE DE 1989.
+
+UNICO.- La presente Ley entrará en vigor el día 1o. de Enero de 1990.
+
+P.O. 31 DE DICIEMBRE DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1991.
+
+P.O. 30 DE DICIEMBRE DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1992.
+
+P.O. 30 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día 1º de Enero de 1993, con excepción de los derechos previstos en el artículo 271, fracción XI, los cuales entrarán en vigor una vez que el Registro Público de la Propiedad y del Comercio esté en posibilidades de prestar los servicios correspondientes.
+
+###### ARTICULO SEGUNDO.
+
+Las cantidades monetarias expresadas en esta Ley, se entienden referidas a la unidad a que hace referencia el artículo 1º del Decreto por el que se crea una nueva unidad del Sistema Monetario de los Estados Unidos Mexicanos, expedido por el Congreso de la Unión el día 18 de Junio de 1992 y publicado en el Diario Oficial de la Federación el día 22 del mismo mes y año.
+
+P.O. 30 DE DICIEMBRE DE 1993.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día 1o. de Enero de 1994.
 
-P.O. 13 DE MARZO DE 2007.
+> <small>N. DE E. POR CONSIDERARLO IMPORTANTE SE TRANSCRIBE EL ARTICULO QUINTO DEL DECRETO NUM. 340.</small>
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO QUINTO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
+Mientras esté en vigor la coordinación en derechos entre la Federación y el Estado, en los términos previstos por la Ley de Coordinación Fiscal, no se mantendrán en vigor derechos estatales y municipales por:
 
-P.O. 3 DE ABRIL DE 2014.
+I.- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de las siguientes:
 
-###### ARTÍCULO ÚNICO.
+a) Licencias de construcción.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+b) Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
 
-P.O. 14 DE JULIO DE 2016.
+c) Licencias para fraccionar o lotificar terrenos.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXII-979, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5°. FRACCIONES VIII Y IX, 12, 32, 51, 52, 54 FRACCIÓN I, 56 PÁRRAFO ÚNICO, 60, 61, 63, 64 FRACCIONES I, III Y IV Y 66; Y ADICIONA UNA FRACCIÓN X AL ARTÍCULO 5°. Y LOS ARTÍCULOS 61 BIS, 61 TER, 61 QUATER, 61 QUINQUIES, 61 SEXIES Y 61 SEPTIES; Y DEROGA LA FRACCIÓN V DEL ARTÍCULO 64 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS".]
+d) Licencias para conducir vehículos.
 
-###### ARTÍCULO ÚNICO.
+e) Expedición de placas y tarjetas para la circulación de vehículos.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial Estado.
+II.- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
 
-P.O. 13 DE DICIEMBRE DE 2016.
+a) Registro Civil.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+b) Registro de la Propiedad y del Comercio.
 
-###### ARTÍCULO ÚNICO.
+III.- Uso de las vías públicas o la tenencia de bienes sobre las mismas, incluyendo cualquier tipo de derechos por el uso o tenencia de anuncios. No se considerarán comprendidos dentro de lo dispuesto en esta fracción, los derechos de estacionamiento de vehículos ni de uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+IV.- Actos de inspección y vigilancia.
 
-P.O. 12 DE JUNIO DE 2018.
+Los derechos estatales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al e) de la Fracción I y la Fracción III de este artículo.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-434 MEDIANTE EL CUAL SE REFORMA EL ARTICULO 8°, FRACCIONES I Y V, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS".]
+Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes al Estado o a los Municipios.
 
-###### ARTÍCULO ÚNICO.
+En ningún caso lo dispuesto en este Decreto se entenderá que limita la facultad del Estado y sus Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia, Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+Para los efectos de Coordinación Fiscal con la Federación, se considerarán derechos, aún cuando tengan una denominación distinta en la Legislación del Estado o de sus Municipios, las contribuciones que tengan las características de Derecho conforme al Código Fiscal y la Ley de Ingresos de la Federación.
 
-P.O. 17 DE AGOSTO DE 2022.
+También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO No.65-174 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX Y X; Y SE ADICIONAN LAS FRACCIONES XI, XII, XIII Y XIV AL ARTÍCULO 5 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS”.]
+P.O. 29 DE JULIO DE 1994
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto empezará a surtir sus efectos a partir del día 1º de Agosto de 1994.
 
-P.O. 10 DE MAYO DE 2023.
+###### ARTICULO SEGUNDO.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-568 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX, X, XI, XIII Y XIV; Y SE ADICIONAN LAS FRACCIONES XV, XVI, XVII Y XVIII, AL ARTÍCULO 5º, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS”.]
+Si se da por terminada la Adhesión del Estado de Nuevo León, al Sistema Nacional de Coordinación Fiscal, entrarán en vigor nuevamente desde el día siguiente al en que surta sus efectos la terminación de dicha Adhesión, los derechos y los artículos suspendidos conforme al presente Decreto.
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO TERCERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+Durante 1994 el Estado garantizará a los Municipios el pago de las diferencias que resulten entre el importe de la recaudación de los derechos suspendidos con motivo de este Decreto, ocurrida en 1993, respecto de la recaudación de los citados derechos, ocurrida en 1994, adicionada con el incrementó en las participaciones que en 1994 obtenga cada uno de ellos, siempre que la suma de la recaudación de estos derechos ocurrida en 1994 y el incremento en las participaciones, sea menor al monto de la recaudación en 1993 de los derechos suspendidos. Para estos efectos, a la recaudación de 1993 se le aplicará el factor de 1.05.
 
-P.O. 26 DE NOVIEMBRE DE 2025.
+P.O. 30 DE DICIEMBRE DE 1994.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-550 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4°, FRACCIONES IX Y X; Y 5°, FRACCIONES XVII Y XVIII; Y SE ADICIONAN LAS FRACCIONES XI, XII Y XIII, AL ARTÍCULO 4°; Y LA FRACCIÓN XIX AL ARTÍCULO 5°, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS”.]
+###### ARTICULO UNICO.
 
-###### ARTÍCULO ÚNICO.
+El presente Decreto entrará en vigor el día 1° de Enero de 1995.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+P.O. 29 DE DICIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1º de Enero de 1996.
+
+###### ARTICULO SEGUNDO.
+
+Durante 1996 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1 de Enero de 1997.
+
+###### ARTICULO SEGUNDO.
+
+Durante 1997 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+
+###### ARTICULO TERCERO.
+
+Durante el año de 1997, los derechos por servicios prestados en el Registro Público de la Propiedad y del Comercio se cubrirán a una tarifa especial de 41 cuotas, en la inscripción de documentos en los que se consignen adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, realizadas por contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
+
+P.O. 25 DE ABRIL DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1º de Enero de 1998.
+
+###### ARTICULO SEGUNDO.
+
+Los contribuyentes que ejerzan la opción a que se refiere el tercer párrafo del Artículo 158 de la Ley de Hacienda del Estado, que presenten el aviso a que se refiere el cuarto párrafo de dicho Artículo a mas tardar el 31 de Enero de 1998, deberán realizar el pago trimestral respecto del primer trimestre de 1998.
+
+###### ARTICULO TERCERO.
+
+Durante el año de 1998, los Derechos por Servicios prestados en el Registro Público de la Propiedad y del Comercio se cubrirán a una tarifa especial de 50 cuotas, en la inscripción de documentos en los que se consignen adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, realizadas por contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
+
+###### ARTICULO CUARTO.
+
+Los derechos previstos en el Artículo 276 bis, fracción V, inciso b), numeral 7, se aplicarán exclusivamente a los trámites urbanísticos que se inicien a partir de la vigencia de este Decreto.
+
+###### ARTICULO QUINTO.
+
+Durante 1998 no se cubrirán los ingresos previstos en los Artículos 281 y 282 de la Ley de Hacienda del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1º de Enero de 1999.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de lo dispuesto en el artículo 276, fracción XVI, de esta Ley, las placas de circulación identificadas en fondo blanco con caracteres y línea perimetral verde para el servicio privado y fondo blanco, con caracteres y línea perimetral negra y franja naranja, tratándose del servicio público, que no porten el emblema de la Entidad, el Código de barras y el Escudo del Estado, tendrán una vigencia hasta el día último del mes de agosto de 1999, por lo que el canje respectivo deberá realizarse antes de que concluya dicha vigencia.
+
+Las placas de circulación de vehículos de servicio público y privado local, tendrán la vigencia que se señale mediante decreto emitido por el ejecutivo federal.
+
+###### ARTICULO TERCERO.
+
+Durante el año de 1999, los Derechos por Servicios prestados en el Registro Público de la Propiedad y del Comercio se cubrirán a una tarifa especial de 60 cuotas, en la inscripción de documentos en los que se consignen adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, realizadas por contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Bancarias o Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
+
+###### ARTICULO CUARTO.
+
+Durante 1999 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1o. de Enero del año 2000.
+
+Artículo Segundo.- Durante el año 2000 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1o. de enero del año 2001.
+
+Artículo Segundo.- Durante el año 2001 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+
+Artículo Tercero.- En caso de que durante el año 2001, se autoricen libros de protocolo, a los que hacen referencia los artículos 272 fracción I y 272 bis, fracción I, de la Ley de Hacienda del Estado vigente hasta el 31 de Diciembre del 2000, los derechos se causarán y pagarán conforme a los citados artículos.
+
+Artículo Cuarto.- Durante el año 2001, los Derechos por Servicios prestados en el Registro Público de la Propiedad y del Comercio se cubrirán a una tarifa especial de 60 cuotas, en la inscripción de documentos en los que se consignen adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, realizadas por contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Bancarias o Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
+
+P.O. 26 DE DICIEMBRE DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día 1° de Enero de 2002.
+
+Artículo Segundo.- Para los efectos de lo dispuesto en el artículo 276, fracción XVI, de esta Ley, las placas de circulación identificadas en fondo blanco y franja color arena con caracteres en color verde, con emblema de la Entidad (Cerro de la Silla) en la parte superior izquierda, escudo del Estado centrado en la parte inferior para el servicio privado y fondo blanco con caracteres y línea perimetral negra y franja naranja, tratándose del servicio público, tendrán una vigencia hasta el último día del mes de agosto del 2002, por lo que el canje respectivo deberá realizarse antes de que concluya dicha vigencia, de acuerdo a lo establecido por la Norma Oficial Mexicana NOM-001-SCT-2-2000 publicada en fecha 26 de Enero del 2001 en el Diario Oficial de la Federación.
+
+P.O. 27 DE DICIEMBRE DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor el día 1° de Enero del año 2003.
+
+P.O. 26 DE DICIEMBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2004.
+
+P.O. 26 DE DICIEMBRE DE 2003.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Artículo Primero.- Esta Ley entrará en vigor el 1° de enero del año 2004.
+
+Artículo Cuarto.- Durante el año 2004, y mientras permanezca en vigor la Coordinación en Materia Federal de Derechos entre la Federación y el Estado de Nuevo León a que se contrae la declaratoria emitida por el Secretario de Hacienda y Crédito Publico, con fecha 12 de septiembre de 1994, en los términos previstos en la Ley de Coordinación Fiscal, se suspende la vigencia de los derechos contenidos en los Artículos 267; 268; 274; 275 Bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado.
+
+Artículo Quinto.- Si se da por terminada la Coordinación en Materia Federal de Derechos, entre la Federación y el Estado de Nuevo León a que se refiere el transitorio que antecede, entrando en vigor nuevamente desde el día siguiente al en que surta sus efectos la terminación de la citada Coordinación, los derechos contenidos en los Artículos 267; 268; 274; 275 Bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado.
+
+P.O. 17 DE FEBRERO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las erogaciones a que se refiere esta reforma, que se hubieren efectuado entre el 1º de enero de 2004 y la fecha de entrada en vigor de esta reforma, quedarán sujetas a lo dispuesto por el presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2004.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del año 2006.
