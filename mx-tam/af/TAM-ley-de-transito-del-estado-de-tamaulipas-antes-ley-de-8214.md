@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2026-03-24"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -752,6 +752,14 @@ IX. En caso de extravío del permiso durante el embarazo, la mujer deberá repor
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 X. En el supuesto de que el producto no se logre, deberá notificarse de este hecho al Sistema para el Desarrollo Integral de la Familia del Municipio que le compete, para los efectos administrativos correspondientes.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+ARTICULO 25 TER.- Queda prohibido a cualquier persona colocar, instalar o mantener en la vía pública objetos, señales, estructuras o dispositivos con el propósito de reservar, apartar o impedir el libre uso de espacios en los que esté permitido el estacionamiento, salvo que medie autorización vigente de la autoridad competente.
+
+Las autoridades de tránsito, dentro del ámbito de su competencia, retirarán los objetos colocados en contravención a este artículo cuando constituyan una obstrucción, dejando constancia de la diligencia y observando el procedimiento de resguardo, reclamación y destino previsto en las disposiciones reglamentarias aplicables.
+
+Cuando se identifique a la persona responsable, se iniciará el procedimiento administrativo correspondiente y, en su caso, se impondrán las medidas o sanciones previstas en la normativa aplicable, con respeto a las formalidades esenciales del procedimiento.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
@@ -1672,3 +1680,21 @@ P.O. 24 DE MARZO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1378 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 25 TER A LA LEY DE TRÁNSITO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos del Estado contarán con un plazo no mayor de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, para expedir, adecuar y publicar las disposiciones reglamentarias necesarias para su cumplimiento, dentro del ámbito de sus respectivas competencias.
+
+Las disposiciones reglamentarias deberán prever, al menos, el procedimiento para el retiro de objetos; el levantamiento de la constancia y del inventario correspondiente; su traslado, resguardo, devolución y destino final; la identificación y notificación de la persona responsable; las medidas o sanciones administrativas aplicables, así como los medios de defensa procedentes.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se realiza la armonización señalada en el artículo anterior, continuarán aplicándose las disposiciones municipales vigentes en materia de tránsito, movilidad, estacionamiento y utilización de la vía pública, en todo aquello que no se oponga al presente Decreto.
