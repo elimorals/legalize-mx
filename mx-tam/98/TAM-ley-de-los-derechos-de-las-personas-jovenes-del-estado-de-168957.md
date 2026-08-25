@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-jovenes-del-estado-de-16895
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-21"
-last_updated: "2026-05-27"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada en el Anexo del Número 153 del Periódico Oficial del Estado de Tamaulipas, el jueves 21 de diciembre de 2023.
 
@@ -464,6 +464,10 @@ VII. Prevenir mediante la formación educativa las causas y consecuencias que tr
 El Poder Ejecutivo implementará un programa de becas educativas, conforme a su disponibilidad presupuestal, que incentiven a las personas jóvenes a permanecer en el sistema educativo y desarrollar mecanismos de reinserción escolar para personas jóvenes que sean madres o padres.
 
 El Estado difundirá los programas respecto a los apoyos en becas, guarderías, capacitación y todos aquellos programas de beneficio para la mujer con el fin de evitar la deserción educativa de este sector juvenil, conforme a la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+ARTÍCULO 52 BIS. El Poder Ejecutivo, a través de la Secretaría de Educación y el Instituto de la Juventud de Tamaulipas, promoverá que los programas educativos y de información dirigidos a las personas jóvenes incorporen contenidos accesibles, claros y actualizados en materia de educación financiera, uso responsable del crédito, prevención del sobreendeudamiento y mecanismos de identificación de fraudes financieros, particularmente en entornos digitales. Para tal efecto, las autoridades competentes podrán coordinarse con instituciones financieras, organismos especializados y organizaciones de la sociedad civil, a fin de aprovechar materiales, plataformas y programas previamente existentes.
 
 ### CAPÍTULO X. DEL DERECHO A CONTAR CON UN ESPACIO FÍSICO DE ATENCIÓN
 
@@ -1420,3 +1424,15 @@ P.O. 27 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1370 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS Y A LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS, EN MATERIA DE EDUCACIÓN FINANCIERA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La aplicación del presente Decreto se llevará a cabo con cargo al presupuesto autorizado a las dependencias y entidades competentes, por lo que no se autorizan recursos adicionales ni ampliaciones presupuestales para el cumplimiento del mismo.
