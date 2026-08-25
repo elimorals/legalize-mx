@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2026-07-06"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -215,7 +215,9 @@ XXXIX.- Violencia digital: Toda acción u omisión dolosa realizada mediante el 
 
 2. Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
-## TÍTULO SEGUNDO. DE LOS PRINCIPIOS RECTORES Y DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN TAMAULIPAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE AGOSTO DE 2026)</small>
+
+## TÍTULO SEGUNDO. DE LOS PRINCIPIOS RECTORES Y DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN TAMAULIPAS
 
 ### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS
 
@@ -1395,15 +1397,29 @@ XII.- Destinar espacios lúdicos, de descanso y aseo para niñas, niños y adole
 
 XIII.- Atendiendo al principio de celeridad procesal, ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
 ###### ARTÍCULO 58.
 
-1. En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría de Protección.
+1. En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña, niño o adolescente, en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría de Protección.
 
-2. Niñas o niños, en ningún caso podrán ser detenidos, retenidos o privados de su libertad por la supuesta comisión o participación en un hecho que la ley señale como delito.
+2. Las niñas, niños y adolescentes, en ningún caso podrán ser detenidos, retenidos o privados de su libertad por la supuesta comisión o participación en un hecho que la ley señale como delito.
 
-3. La Procuraduría de Protección, en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas y niños no sean objeto de discriminación.
+3. Las niñas, niños y adolescentes tienen derecho a acceder a un sistema de justicia especializado que garantice, en todo momento, el respeto a su dignidad, desarrollo integral y derechos humanos.
 
-4. Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un abogado especializado.
+En particular, las personas adolescentes en conflicto con la ley penal tienen derecho a:
+
+I.- Contar con una defensa técnica especializada, prestada por personas debidamente capacitadas, desde el inicio del procedimiento y durante todas sus etapas;
+
+II.- Ser informadas, de manera clara y comprensible, sobre el procedimiento, sus derechos y las consecuencias jurídicas de las decisiones que se adopten; y
+
+III.- Que las autoridades competentes actúen conforme a los principios de protección integral, interés superior de la niñez, mínima intervención y justicia restaurativa.
+
+Las autoridades del Estado deberán coordinarse, en el ámbito de sus respectivas competencias, para garantizar el pleno ejercicio de estos derechos.
+
+4. La Procuraduría de Protección, en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas, niños y adolescentes, no sean objeto de discriminación.
+
+5. Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de una persona abogada especializada.
 
 ###### ARTÍCULO 59.
 
@@ -1529,7 +1545,9 @@ I.- Proporcionarles una vida digna;
 
 II.- Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación;
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación, cuyo derecho se origina desde el nacimiento y tiene carácter de imprescriptible;
 
 III.- Registrarlos dentro de los primeros sesenta días de vida;
 
@@ -2552,3 +2570,23 @@ P.O. 6 DE JULIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1367 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II, DEL NUMERAL 1, DEL ARTÍCULO 71, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1380 MEDIANTE EL CUAL SE REFORMAN LA DENOMINACIÓN DEL TÍTULO SEGUNDO Y EL ARTÍCULO 58, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las adecuaciones administrativas que deriven del presente Decreto deberán realizarse conforme al principio de racionalidad presupuestaria, sin afectar la prestación ordinaria del servicio de defensa pública.
