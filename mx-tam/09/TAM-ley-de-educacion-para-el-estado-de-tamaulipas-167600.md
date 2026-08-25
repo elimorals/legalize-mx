@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2026-08-18"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -147,11 +147,13 @@ I.- Contribuir a la formación del pensamiento crítico, a la transformación y 
 
 II.- Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia, la tecnología y la innovación como factores del bienestar y la transformación social;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-III.- Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de preservar la naturaleza, respetar y proteger a los animales, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
+III.- Fortalecer el tejido social para promover la paz y evitar la corrupción, a través del fomento de valores y principios como la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-IV.- Combatir las causas de discriminación y violencia en las diferentes regiones del estado, especialmente la que se ejerce contra la niñez y las mujeres; y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+IV.- Combatir las causas de discriminación y violencia en las diferentes regiones del estado, especialmente la que se ejerce contra la niñez y las mujeres, personas con discapacidad, adultas mayores, pertenecientes a los pueblos y comunidades indígenas y migrantes; y
 
 V.- Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos.
 
@@ -233,7 +235,9 @@ VII.- Promover la comprensión, el aprecio, el conocimiento y enseñanza de la p
 
 VIII.- Inculcar el respeto y protección por los animales y la naturaleza, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación, el respeto y el aprovechamiento de los recursos naturales, el desarrollo sostenible y la resiliencia frente al cambio climático;
 
-IX.- Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y del Estado de Tamaulipas; y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+IX.- Fomentar la honestidad el civismo y los valores necesarios para transformar la vida pública del país y del Estado de Tamaulipas; así como, la educación financiera, la cultura del ahorro, el emprendimiento sostenible y el bienestar general; promoviendo el conocimiento del sistema financiero y la capacidad de autogestión económica de las y los educandos; y
 
 X.- Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado de Tamaulipas.
 
@@ -487,6 +491,14 @@ El desarrollo tecnológico y la innovación, asociados a la actualización, a la
 
 2.- De igual forma, se formará a las y los estudiantes para resolver situaciones problemáticas de manera autónoma y colectivamente, aplicar los conocimientos aprendidos a situaciones concretas de su realidad y desarrollar sus actitudes y habilidades para su participación en los procesos productivos, democráticos y comunitarios.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+3.- En congruencia con el enfoque humanista, la educación que se imparta en el Estado promoverá el desarrollo de habilidades de educación financiera, orientadas a la adecuada toma de decisiones económicas, el uso responsable de los recursos, el fomento del ahorro, la cultura del emprendimiento y la prevención del sobreendeudamiento, como elementos que contribuyan al bienestar individual, familiar y comunitario.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+4.- Para tal efecto, la Secretaría impulsará estrategias, programas y acciones en la materia, así como celebrar convenios de colaboración con instituciones públicas, privadas y del sector social especializadas en educación financiera, con el objeto de fortalecer la capacitación docente, el diseño de contenidos y la difusión de buenas prácticas.
+
 ###### ARTÍCULO 39.
 
 La Secretaría generará mecanismos para apoyar y promover la creación y difusión artística y cultural, propiciando el conocimiento crítico. En coordinación con la autoridad educativa federal y municipales, adoptará medidas para que, dentro de la orientación integral del educando, se promuevan métodos de enseñanza aprendizaje, con la finalidad de que exprese sus emociones a través de manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitivo de las personas.
@@ -725,7 +737,9 @@ XIV.- La promoción del emprendimiento, el fomento de la cultura del ahorro y la
 
 XV.- El fomento de la cultura de la transparencia, la rendición de cuentas, la integridad, la protección de datos personales, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
 
-XVI.- La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+XVI.- La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, “el bienestar animal”, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental “y de los animales”;
 
 XVII.- El aprendizaje y fomento de la cultura de protección civil, integrando los elementos básicos de prevención, autoprotección y resiliencia, así como la mitigación y adaptación ante los efectos que representa el cambio climático y los riesgos inherentes a otros fenómenos naturales;
 
@@ -1978,3 +1992,31 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1368 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 10, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1370 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS Y A LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS, EN MATERIA DE EDUCACIÓN FINANCIERA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La aplicación del presente Decreto se llevará a cabo con cargo al presupuesto autorizado a las dependencias y entidades competentes, por lo que no se autorizan recursos adicionales ni ampliaciones presupuestales para el cumplimiento del mismo.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1372 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XVI, DEL ARTÍCULO 55, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
