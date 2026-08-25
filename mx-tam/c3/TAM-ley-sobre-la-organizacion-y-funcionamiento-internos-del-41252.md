@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2026-03-30"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -785,9 +785,9 @@ x) Niñez, Adolescencia y Juventud;
 
 y) Desarrollo de Zonas Metropolitanas;
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2026)</small>
 
-z) Transparencia y Acceso a la Información Pública;
+z) Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2017)</small>
 
@@ -4532,3 +4532,11 @@ El presente Decreto entrará en vigor a partir de su aprobación y deberá publi
 ###### ARTÍCULO SEGUNDO.
 
 Los recursos humanos, materiales y presupuestales para la operación del Museo Legislativo se asignarán conforme a la disponibilidad presupuestaria del Congreso del Estado, sin generar erogaciones adicionales no previstas.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1373 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35, INCISO Z), DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial de Estado.
