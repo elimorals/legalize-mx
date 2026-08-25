@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-promocion-a-la-lectura-y-creacion-de-libros-para-el-9570
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-27"
-last_updated: "2017-12-15"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROMOCIÓN A LA LECTURA Y CREACIÓN DE LIBROS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de agosto de 2013.
 
@@ -63,15 +63,27 @@ IV. Distribuidor: persona física o moral legalmente constituida, dedicada a la 
 
 V. Libro: toda publicación unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, impresa en cualquier soporte, cuya edición se haga en su totalidad de una sola vez en un volumen, o a intervalos en varios volúmenes o fascículos. Comprenderá también los materiales complementarios en cualquier tipo de soporte, incluido el electrónico, que conformen, conjuntamente con el libro, un todo unitario que no pueda comercializarse separadamente;
 
-VI. Libro mexicano: toda publicación unitaria no periódica que tenga número de libro estándar internacional, ISBN, que lo identifique como mexicano;
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-VII. Sistema educativo estatal: constituido por los educandos y educadores, las autoridades educativas, los planes, programas, métodos y materiales educativos; las instituciones educativas del Estado y de sus organismos descentralizados; las instituciones de los particulares con autorización o con reconocimiento de validez oficial de estudios; y las instituciones de educación superior a las que la ley otorga reconocimiento o autonomía, en su caso;
+VI. Libro electrónico: Libro en formato adecuado para leerse en un dispositivo electrónico;
 
-VIII. Bibliotecas escolares, y de aula: acervos bibliográficos que la Secretaría de Educación Pública, y la Secretaría de Educación de Gobierno del Estado, selecciona, adquiere y distribuye para su uso durante los procesos de enseñanza y aprendizaje en las aulas y las escuelas públicas de educación básica;
+VII. Libro mexicano: toda publicación unitaria no periódica que tenga número de libro estándar internacional, ISBN, que lo identifique como mexicano;
 
-IX. Salas de lectura: espacios alternos a las escuelas y bibliotecas, coordinadas por voluntarios de la sociedad civil, donde la comunidad tiene acceso gratuito al libro y otros materiales impresos, así como a diversas actividades encaminadas al fomento a la lectura; y
+VIII. Sistema educativo estatal: constituido por los educandos y educadores, las autoridades educativas, los planes, programas, métodos y materiales educativos; las instituciones educativas del Estado y de sus organismos descentralizados; las instituciones de los particulares con autorización o con reconocimiento de validez oficial de estudios; y las instituciones de educación superior a las que la ley otorga reconocimiento o autonomía, en su caso;
 
-X. Autor: persona que realiza alguna obra destinada a ser difundida en forma de libro. Se considera como tal, sin perjuicio de los requisitos establecidos en la legislación vigente, al traductor respecto de su traducción, al compilador ya quien extracta o adapta obras originales, así como al ilustrador y al fotógrafo, respecto de sus correspondientes trabajos.
+IX. Bibliotecas escolares, y de aula: acervos bibliográficos que la Secretaría de Educación Pública, y la Secretaría de Educación de Gobierno del Estado, selecciona, adquiere y distribuye para su uso durante los procesos de enseñanza y aprendizaje en las aulas y las escuelas públicas de educación básica;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+X. Salas de lectura: espacios alternos a las escuelas y bibliotecas, coordinadas por voluntarios de la sociedad civil, donde la comunidad tiene acceso gratuito al libro y otros materiales impresos, así como a diversas actividades encaminadas al fomento a la lectura;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+XI. Autor: persona que realiza alguna obra destinada a ser difundida en forma de libro. Se considera como tal, sin perjuicio de los requisitos establecidos en la legislación vigente, al traductor respecto de su traducción, al compilador ya (sic) quien extracta o adapta obras originales, así como al ilustrador y al fotógrafo, respecto de sus correspondientes trabajos; y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+XII. Bibliotecas digitales: Colecciones organizadas de libros electrónicos puestos a disposición del público.
 
 ###### ARTÍCULO 4o.
 
@@ -159,9 +171,13 @@ El Instituto Tamaulipeco para la Cultura y las Artes y el Consejo Estatal de Cul
 
 Corresponde al Instituto Tamaulipeco para la Cultura y las Artes del Estado de Tamaulipas:
 
-I. Fomentar la lectura, escritura, publicación y distribución de libros con la población abierta a través de las casas de cultura, así como la realización de ferias del libro infantil y juvenil en las diferentes localidades de la entidad;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-II. Promover la lectura, escritura, publicación y distribución de libros con contenidos de calidad, así como la existencia de ellos en las bibliotecas del Estado;
+I. Fomentar la lectura, escritura, publicación y distribución de libros físicos y digítales con la población abierta a través de las casas de cultura y medios digítales, así como la realización de ferias del libro infantil y juvenil en las diferentes localidades de la entidad;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+II. Promover la lectura, escritura, publicación y distribución de libros con contenidos de calidad, así como la existencia de ellos tanto en las bibliotecas físicas como en las digitales del Estado;
 
 III. Organizar todo tipo de actividades y eventos que promuevan libros con contenidos de calidad y estimulen el hábito de la lectura, en apoyo a los objetivos de esta Ley;
 
@@ -241,7 +257,9 @@ II. Asesorar en el diseño, formulación y ejecución del Programa Estatal;
 
 III. Proponer a las autoridades competentes la adopción de políticas o medidas que contribuyan a fomentar y fortalecer el mercado del libro, la lectura y la actividad editorial en general;
 
-IV. Promover el desarrollo de sistemas integrales de información sobre el libro, su distribución, la lectura y los derechos de autor;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+IV. Promover el desarrollo de sistemas integrales de información sobre el libro, su distribución, la lectura, los medios virtuales existentes para acceder a estos y los derechos de autor;
 
 V. Integrar las comisiones y grupos de trabajo que sean necesarios para el cumplimiento de sus objetivos;
 
@@ -504,6 +522,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 15 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO LXIII-366 POR EL QUE "SE REFORMA LA FRACCIÓN IX, DEL ARTÍCULO 15, DE LA LEY DE PROMOCIÓN A LA LECTURA Y CREACIÓN DE LIBROS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1379 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PROMOCIÓN A LA LECTURA Y CREACIÓN DE LIBROS PARA EL ESTADO DE TAMAULIPAS Y A LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
