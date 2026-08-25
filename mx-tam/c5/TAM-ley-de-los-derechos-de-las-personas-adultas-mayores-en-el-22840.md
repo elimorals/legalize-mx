@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2026-07-06"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -137,11 +137,23 @@ II.- La violencia física. Es cualquier acto que inflige daño no accidental, us
 
 III.- La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado. Incluye también la manipulación o abuso de su condición física o necesidades afectivas para apropiarse de sus bienes;
 
-IV.- La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-V.-La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder; y
+IV.- La violencia mediática o digital. Es toda acción dolosa realizada a través del uso de tecnologías de la información, plataformas digitales o cualquier medio de comunicación, así como aquellos actos que causen daño a la imagen, privacidad, la dignidad o posesiones de las personas adultas mayores;
 
-VI.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+V.- La violencia institucional. Como los actos, acciones. o negligencias de los servidores públicos de los tres ámbitos de gobierno que segreguen, discriminen o cuya finalidad sea la de retardar, dificultar o impedir el goce y el libre ejercicio de los derechos de los adultos mayores, así como, su acceso al disfrute de políticas públicas, programas e instrumentos de la administración pública federal, las entidades federativas y los municipios;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+VI.- La violencia estructural. Es aquella ejercida por la sociedad en su conjunto mediante acciones, situaciones, omisiones y creencias en las cuales se mantienen estereotipos que normalizan la discriminación en contra de una persona adulta mayor, en razón de las características de su edad, la cual impide la satisfacción de sus necesidades básicas;
+
+VII.- La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+VIII.-La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder; y
+
+IX.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
 
@@ -189,21 +201,25 @@ VII.- La dignificación y el respeto. Que habrán de orientar y dirigir los plan
 
 VIII.- Dignidad Humana: Es un valor supremo que reconoce la calidad única y excepcional a todo ser humano por el simple hecho de serlo, del cual se desprenden todos los derechos necesarios para que las personas adultas mayores desarrollen integralmente su personalidad;
 
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+IX.- Accesibilidad digital. Políticas implementadas por el sector público y privado, que permitan garantizar la inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
+
 > <small>(ADICIONADA, P.O. 6 DE JULIO DE 2026)</small>
 
-IX.- Bienestar Mental: Es la obligación de garantizar acciones públicas encaminadas a proteger la estabilidad emocional, la autonomía, la memoria, la capacidad cognitiva y la integración afectiva de las personas adultas mayores;
+X.- Bienestar Mental: Es la obligación de garantizar acciones públicas encaminadas a proteger la estabilidad emocional, la autonomía, la memoria, la capacidad cognitiva y la integración afectiva de las personas adultas mayores;
 
 > <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-X.- La progresividad: Es la obligación positiva del Estado de promover los derechos de las personas de la tercera edad de manera progresiva y gradual, de forma tal que se garantice el incremento en el grado de tutela, respeto y protección de los derechos;
+XI.- La progresividad: Es la obligación positiva del Estado de promover los derechos de las personas de la tercera edad de manera progresiva y gradual, de forma tal que se garantice el incremento en el grado de tutela, respeto y protección de los derechos;
 
 > <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XI.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales; y
+XII.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales; y
 
 > <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XII.- Solidaridad intergeneracional: Relaciones recíprocas de orientación, intercambio y aprendizaje entre los miembros de dos o más generaciones; se fundamenta en una idea de estrecha colaboración, unión y asistencia mutua que permita reconocer a los adultos mayores como sujetos de derechos y activos dentro de la sociedad.
+XIII.- Solidaridad intergeneracional: Relaciones recíprocas de orientación, intercambio y aprendizaje entre los miembros de dos o más generaciones; se fundamenta en una idea de estrecha colaboración, unión y asistencia mutua que permita reconocer a los adultos mayores como sujetos de derechos y activos dentro de la sociedad.
 
 ### CAPITULO II. DE LOS DERECHOS
 
@@ -441,15 +457,23 @@ X.- Crear los mecanismos o instancias correspondientes para el cumplimiento de e
 
 XI.- Fomentar la creación de espacios de expresión para las personas adultas mayores;
 
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+XII.- Promover la implementación de acciones y políticas interinstitucionales para prevenir o erradicar la violencia institucional, preservando los derechos de las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+XIII.- Promover acciones y políticas para prevenir, atender y erradicar la violencia estructural preservando los derechos de las personas adultas mayores;
+
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-XII.- Fomentar e impulsar la creación de centros de atención geriátrica y gerontológica;
+XIV.- Fomentar e impulsar la creación de centros de atención geriátrica y gerontológica;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XIII.- Promover programas especiales para ampliar la cobertura de espacios de asistencia integral para las personas adultas mayores, que garanticen un trato justo y proporcional especialmente a la condición de la mujer; y
+XV.- Promover programas especiales para ampliar la cobertura de espacios de asistencia integral para las personas adultas mayores, que garanticen un trato justo y proporcional especialmente a la condición de la mujer; y
 
-XIV.- Las demás que le confieran otros ordenamientos jurídicos.
+XVI.- Las demás que le confieran otros ordenamientos jurídicos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -1136,3 +1160,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Para la adecuada implementación del presente Decreto, el Sistema DIF Tamaulipas y la Secretaría de Salud del Estado, en el ámbito de sus respectivas competencias y conforme a la disponibilidad presupuestaria autorizada, realizarán las acciones de coordinación interinstitucional necesarias para garantizar un modelo de atención integral.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1365 MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades competentes realizarán las adecuaciones normativas y administrativas necesarias para su implementación, con cargo a los recursos humanos, materiales y financieros disponibles, sin que ello implique la creación de nuevas estructuras ni erogaciones presupuesta/es (sic) adicionales.
