@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-ag-poaj-002-2026-del-pleno-del-organo-de-185236
 country: "mx"
 rank: "acuerdo"
 publication_date: "2026-02-11"
-last_updated: "2026-02-11"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=185236&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2026-01-28"
 
 ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2026.
 
 Acuerdo publicado en el No. 034/2026 del Diario Oficial de la Federación, el miércoles 11 de febrero de 2026.
 
@@ -175,11 +175,17 @@ El correo electrónico institucional será el medio de comunicación para el tr�
 
 En los supuestos de que el requirente solicite la entrega de la información en un lugar diverso al domicilio del Módulo de Acceso, además de los costos de reproducción de información, deberá cubrir las cuotas respectivas al servicio de correo o paquetería según corresponda.
 
-### CAPÍTULO SEGUNDO. AUTORIDAD GARANTE DEL PODER JUDICIAL DE LA FEDERACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 25 DE AGOSTO DE 2026)</small>
+
+### CAPÍTULO SEGUNDO. AUTORIDAD GARANTE
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 25 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 12.
 
-La Autoridad Garante es la máxima autoridad en materia de transparencia en el Poder Judicial de la Federación; encargada de garantizar el ejercicio de los derechos de acceso a la información pública y protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o. y 16, párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, y demás disposiciones legales aplicables.
+La Autoridad Garante del Tribunal Electoral, del Tribunal de Disciplina Judicial, del Órgano de Administración Judicial del Poder Judicial de la Federación y los órganos jurisdiccionales a su cargo, es la máxima autoridad en materia de transparencia en dichos órganos; encargada de garantizar el ejercicio de los derechos de acceso a la información pública y protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o. y 16, párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, y demás disposiciones legales aplicables.
+
+La Autoridad Garante podrá ordenar la publicación en el Diario Oficial de la Federación de sus acuerdos o resoluciones cuando estime que pudieren resultar de interés general.
 
 ###### Artículo 13.
 
@@ -672,3 +678,13 @@ QUINTO. El Comité de Transparencia deberá ser instalado dentro de los 20 días
 Firman al calce el Presidente del Órgano de Administración Judicial y la persona titular de la Secretaría Ejecutiva del Pleno, de conformidad con lo dispuesto en los artículos 91, 99, fracción VIII y 100, párrafo primero de la Ley Orgánica del Poder Judicial de la Federación.
 
 EL MAESTRO CÉSAR MAURICIO LÓPEZ RAMIREZ, SECRETARIO EJECUTIVO DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL, CERTIFICA: Que este Acuerdo General del Pleno del Órgano de Administración Judicial que establece las disposiciones en materia de transparencia, acceso a la información pública y protección de datos personales, fue aprobado por el Pleno del propio Órgano, en sesión celebrada el 28 de enero de 2026, por unanimidad de votos de las personas integrantes: Maestro Néstor Vargas Solano, Presidente; Licenciada Surit Berenice Romero Domínguez; Maestra Catalina Ramírez Hernández y Maestro José Alberto Gallegos Ramírez.- Ciudad de México, a 28 de enero de 2026.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Intranet e Internet del Órgano de Administración Judicial.
