@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2025-02-12"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -106,6 +106,10 @@ Para efectos de este Código se entenderá por:
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
 I. Aprovechamiento sustentable: La utilización de los elementos y recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos elementos y recursos por periodos indefinidos;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+I Bis. Agroecología: Enfoque científico y práctico que integra principios ecológicos en los sistemas productivos, promoviendo sustentabilidad, conservación de recursos naturales, resiliencia frente al cambio climático y bienestar comunitario;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -588,6 +592,12 @@ El Estado promoverá la participación de los distintos grupos sociales en la el
 1. El Ejecutivo Estatal, en el seno del Consejo de Gobierno para el Desarrollo Sustentable, por conducto de la Secretaría, instituirá la política ambiental mediante el Programa Estatal de Desarrollo Sustentable, en el que se establecerán objetivos, metas y lineamientos estratégicos generales y particulares.
 
 2. El Programa Estatal de Desarrollo Sustentable tomará en consideración los elementos que aporten el diagnóstico ambiental de la entidad, el ordenamiento y los criterios ecológicos del territorio.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+ARTICULO 20 BIS.
+
+La planeación ambiental del Estado fomentará incorporar criterios de agroecología en programas y políticas públicas, promoviendo sistemas productivos sustentables que conserven los recursos naturales, fortalezcan la resiliencia frente al cambio climático y favorezcan el bienestar de las comunidades.
 
 ### CAPITULO II. DE LOS INSTRUMENTOS ECONOMICOS
 
@@ -5584,3 +5594,15 @@ P.O. 12 DE FEBRERO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1362 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN I BIS AL ARTÍCULO 4; Y UN ARTÍCULO 20 BIS, AL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, a través de la dependencia competente en materia de desarrollo sustentable, promoverá la incorporación de los criterios de agroecología en los instrumentos de planeación ambiental, de conformidad con la disponibilidad presupuestaria y las disposiciones jurídicas aplicables.
