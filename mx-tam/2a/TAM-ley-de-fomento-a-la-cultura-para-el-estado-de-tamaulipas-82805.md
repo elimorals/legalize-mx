@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-cultura-para-el-estado-de-tamaulipas-82805"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2025-06-19"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada el Periódico Oficial, el jueves 1 de septiembre de 2011.
 
@@ -129,37 +129,45 @@ El Estado, a través del Instituto, llevará a cabo las siguientes acciones para
 
 I. Preservar y garantizar el derecho a la cultura y a las artes;
 
-II. Promover y difundir el conocimiento de las diversas manifestaciones culturales del Estado y sus municipios;
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-III. Formular los programas de acción para el desarrollo de las actividades culturales y artísticas a que se refiere esta ley;
+II. Hacer uso de los medios necesarios para que las personas tengan conocimiento de las diversas opciones existentes para acceder a material bibliográfico de manera virtual;
 
-IV. Promover la creación de talleres para la investigación y ejercicio de las actividades artísticas y culturales;
+III. Promover y difundir el conocimiento de las diversas manifestaciones culturales del Estado y sus municipios;
 
-V. Alentar la edición de folletos, revistas y libros, así como la producción y divulgación de programas audiovisuales que difundan la historia, la cultura y las artes en el Estado y sus municipios;
+IV. Formular los programas de acción para el desarrollo de las actividades culturales y artísticas a que se refiere esta ley;
 
-VI. Otorgar reconocimientos y estímulos a las personas físicas o morales que se hayan distinguido en el campo de la cultura y las artes;
+V. Promover la creación de talleres para la investigación y ejercicio de las actividades artísticas y culturales;
 
-VII. Fomentar, conforme a las disposiciones legales aplicables, las relaciones de orden cultural y artístico con instituciones del ramo de la Federación, los Estados, y los municipios, e incluso de otros países;
+VI. Alentar la edición de folletos, revistas y libros, así como la producción y divulgación de programas audiovisuales que difundan la historia, la cultura y las artes en el Estado y sus municipios;
+
+VII. Otorgar reconocimientos y estímulos a las personas físicas o morales que se hayan distinguido en el campo de la cultura y las artes;
+
+VIII. Fomentar, conforme a las disposiciones legales aplicables, las relaciones de orden cultural y artístico con instituciones del ramo de la Federación, los Estados, y los municipios, e incluso de otros países;
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
 
-VIII. Organizar el Sistema, así como todo tipo de actividades culturales y artísticas del sector público, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno del Estado;
+IX. Organizar el Sistema, así como todo tipo de actividades culturales y artísticas del sector público, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno del Estado;
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2024)</small>
 
-IX. Otorgar el Premio Estatal de Cultura, conforme lo dispuesto en la Ley de Premios, Estímulos y Recompensas del Estado;
+X. Otorgar el Premio Estatal de Cultura, conforme lo dispuesto en la Ley de Premios, Estímulos y Recompensas del Estado;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
 
-X. Diseñar, desarrollar y mantener actualizado el Padrón Estatal de Artistas;
+XI. Diseñar, desarrollar y mantener actualizado el Padrón Estatal de Artistas;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-XI. Promover las artesanías, artes, obras o cualquier otra expresión cultural de autores nacidos o radicados en Tamaulipas, por medio de la realización de campañas permanentes de difusión a través de los medios digitales oficiales a los que tenga acceso; y
+XI (SIC). Promover las artesanías, artes, obras o cualquier otra expresión cultural de autores nacidos o radicados en Tamaulipas, por medio de la realización de campañas permanentes de difusión a través de los medios digitales oficiales a los que tenga acceso;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-XII. Impulsar la participación de empresas extranjeras y nacionales en actividades culturales conjuntas con la autoridad estatal, mediante diversas acciones dentro y fuera de las instalaciones.
+XII. Impulsar la participación de empresas extranjeras y nacionales en actividades culturales conjuntas con la autoridad estatal, mediante diversas acciones dentro y fuera de las instalaciones; y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+XIII. Promover los medios electrónicos existentes para el acceso a la cultura.
 
 ###### ARTÍCULO 8.
 
@@ -648,6 +656,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 19 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-345 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES X Y XI; Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 7 DE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1379 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PROMOCIÓN A LA LECTURA Y CREACIÓN DE LIBROS PARA EL ESTADO DE TAMAULIPAS Y A LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
