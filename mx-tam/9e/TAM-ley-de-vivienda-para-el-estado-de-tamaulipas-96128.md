@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-vivienda-para-el-estado-de-tamaulipas-96128"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2026-06-26"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
@@ -49,7 +49,9 @@ LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS
 
 1. Esta Ley reglamenta en el orden estatal lo dispuesto en el párrafo séptimo del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos y en el párrafo sexto del artículo 16 de la Constitución Política del Estado de Tamaulipas, sobre el derecho social de acceso a vivienda adecuada para las familias.
 
-2. Las disposiciones de la presente Ley son de orden público, interés social y observancia obligatoria para las instituciones públicas del Estado de Tamaulipas; deberán aplicarse bajo principios de equidad e inclusión social, de manera que todas las familias puedan ejercer su derecho constitucional a la vivienda, sin importar el origen étnico o nacional, género, salud, religión, opiniones, preferencias o el estado civil de sus miembros.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+2. Las disposiciones de la presente Ley son de orden público, interés social y observancia obligatoria para las instituciones públicas del Estado de Tamaulipas; deberán aplicarse bajo principios de equidad e inclusión social, y con perspectiva de género, de manera que todas las familias, sin importar su origen étnico o nacional, el género, la edad, la discapacidad, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias o el estado civil de sus miembros, puedan ejercer su derecho constitucional a la vivienda. Se priorizará la atención a grupos en situación de vulnerabilidad y marginación, con énfasis en las mujeres jefas de familia o víctimas de violencia de género.
 
 ###### ARTÍCULO 2.
 
@@ -379,7 +381,9 @@ IV. La estrategia habitacional de carácter general, que comprenderá las accion
 
 V. La identificación de fuentes de financiamiento y estimación de recursos necesarios para acciones de vivienda y suelo que permitan su oferta y satisfacción de la demanda;
 
-VI. La definición de apoyos e instrumentos para atender las necesidades de vivienda y suelo, preferentemente de personas con discapacidad, familias de menores ingresos o en situación de vulnerabilidad y trabajadores no afiliados a algún régimen de vivienda social, y los lineamientos de coordinación entre las instancias competentes para su ejecución;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+VI. La definición de apoyos e instrumentos para atender las necesidades de vivienda y suelo, preferentemente de personas con discapacidad, familias de menores ingresos o en situación de vulnerabilidad y las trabajadoras y trabajadores no afiliados a algún régimen de vivienda social, con especial énfasis en mujeres jefas de familia o víctimas de violencia de género y los lineamientos de coordinación entre las instancias competentes para su ejecución;
 
 VII. Las estrategias y líneas de acción que faciliten el acceso a financiamiento público y privado para construcción y mejoramiento de vivienda;
 
@@ -393,7 +397,9 @@ XI. Las bases para la articulación de los Programas Municipales de Vivienda y S
 
 XII. Los instrumentos y apoyos a la vivienda progresiva, a la vivienda rural y a la producción social de vivienda;
 
-XIII. La tipología y modalidades de producción habitacional que orienten las acciones en la materia;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+XIII. La tipología y modalidades de producción habitacional que orienten las acciones en la materia, garantizando que estas acciones incorporen un enfoque diferenciado que atienda las necesidades específicas de mujeres en situación de vulnerabilidad;
 
 XIV. Las estrategias y líneas de acción para fomentar el desarrollo del mercado secundario y de arrendamiento de vivienda;
 
@@ -956,6 +962,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 26 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1115 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VIII Y IX; Y SE ADICIONA UNA FRACCIÓN X, AL ARTÍCULO 4, DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1359 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1, PÁRRAFO 2; Y 16, FRACCIONES VI Y XIII, DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
