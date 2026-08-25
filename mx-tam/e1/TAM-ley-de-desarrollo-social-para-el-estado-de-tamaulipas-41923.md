@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-social-para-el-estado-de-tamaulipas-41923"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-24"
-last_updated: "2025-11-26"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2004.
 
@@ -63,7 +63,9 @@ La aplicación de la presente ley corresponde al Ejecutivo del Estado, por condu
 
 La presente ley tiene por objeto:
 
-I.- Garantizar el pleno ejercicio de los derechos sociales, la igualdad de oportunidades, y el acceso de la población al desarrollo social;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+I.- Garantizar el pleno ejercicio de los derechos sociales, la igualdad sustantiva entre mujeres y hombres consagrados en la Constitución Política de los Estados Unidos Mexicanos, asegurando el acceso de toda la población al desarrollo social;
 
 II.- Promover la movilidad social para el mejoramiento integral de la calidad de vida de la población y establecer las bases de la participación y organización social en la materia;
 
@@ -77,11 +79,9 @@ VI.- Fomentar el sector social de la economía;
 
 VII.- Establecer mecanismos de evaluación y seguimiento de los programas sociales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-VIII.- Determinar las bases para la participación social en la materia;
+VIII.- Determinar las bases y fomentar la participación social y privada en la materia;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
 
@@ -127,9 +127,11 @@ VI.- Participación social: Derecho de las personas y organizaciones a interveni
 
 VII.- Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de los recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-VIII.- Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquiera otra, para superar toda condición de discriminación y promover un desarrollo con igualdad y respeto a las diferencias;
+VIII.- Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, orientación sexual, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquiera otra, para superar toda condición de discriminación y promover un desarrollo con igualdad y respeto a las diferencias.
+
+Para garantizar la igualdad sustantiva entre mujeres y hombres, el Estado adoptará las medidas necesarias para prevenir y erradicar cualquier forma de discriminación;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
 
@@ -215,11 +217,13 @@ VI.- Promoción del desarrollo sustentable.
 
 La Política Estatal de Desarrollo Social tiene los siguientes objetivos:
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-I.- Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, así como la superación de la marginación y la pobreza, la discriminación y la exclusión social;
+I.- Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, así como la superación de la marginación, la pobreza, la discriminación, la exclusión social y la eliminación de las brechas de desigualdad entre mujeres y hombres;
 
-II.- Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+II.- Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso, mejore su distribución y fomente la igualdad salarial entre mujeres y hombres;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -227,15 +231,17 @@ II.- Promover un desarrollo económico con sentido social que propicie y conserv
 
 III.- Fortalecer el desarrollo regional equilibrado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+IV.- Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas sociales;
 
-IV.- Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas sociales; y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+V.- Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales; y
 
-V.- Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales.
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+VI.- Garantizar la transversalidad de la perspectiva de género y de derechos humanos en el diseño, implementación y evaluación de los programas de desarrollo social.
 
 ### Capítulo IV. De la Planeación
 
@@ -383,11 +389,15 @@ Toda persona o grupo social en situación de vulnerabilidad tiene derecho a reci
 
 El Ejecutivo del Estado y los Ayuntamientos de los Municipios, en sus respectivos ámbitos, formularán y aplicarán políticas compensatorias y asistenciales, así como oportunidades de ingreso en beneficio de las personas, familias y grupos sociales en situación de marginación, pobreza y vulnerabilidad, destinando para ello los recursos presupuestales necesarios para el cumplimiento de las metas cuantificables establecidas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2026)</small>
+
 ###### ARTICULO 29.
 
-Los beneficiarios de los programas sociales tienen los siguientes derechos:
+Las personas beneficiarias de los programas sociales tienen los siguientes derechos:
 
-I.- Recibir un trato respetuoso, oportuno y con calidad;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+I.- Recibir un trato respetuoso, oportuno, con calidad y libre de cualquier forma de discriminación o violencia;
 
 II.- Acceder a la información necesaria referente a dichos programas, sus reglas de operación, requisitos de acceso, recursos y cobertura, que deberá ser elaborada y publicada por las dependencias y entidades estatales y municipales correspondientes;
 
@@ -397,11 +407,15 @@ IV.- Presentar quejas y denuncias ante las instancias correspondientes por el in
 
 V.- Recibir los servicios y prestaciones de los programas conforme a sus reglas de operación, salvo que les sean suspendidos por resolución administrativa o judicial debidamente fundada y motivada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2026)</small>
+
 ###### ARTICULO 30.
 
-Los beneficiarios de los programas sociales tienen las siguientes obligaciones:
+Las personas beneficiarias de los programas sociales tienen las siguientes obligaciones:
 
-I.- Participar de manera corresponsable en los programas;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+I.- Participar de manera corresponsable en los programas de desarrollo social;
 
 II.- Proporcionar la información socioeconómica que les sea requerida por las autoridades, en los términos que establezca la normatividad correspondiente; y
 
@@ -473,21 +487,31 @@ El Ejecutivo del Estado y los Ayuntamientos de los Municipios facilitarán a la 
 
 ### Capítulo III. De la Denuncia Popular
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
 ###### ARTICULO 41.
 
-Toda persona u organización tiene derecho a presentar denuncia, ante la autoridad competente, sobre cualquier hecho, acto u omisión, que a su juicio produzca o pueda producir daños al ejercicio de sus derechos sociales.
+Toda persona u organización tiene derecho a presentar denuncia, ante la autoridad competente, sobre cualquier hecho, acto u omisión, que a su juicio produzca o pueda producir daños al ejercicio de sus derechos sociales, establecidos en esta Ley o contravengan sus disposiciones.
 
 ###### ARTICULO 42.
 
 La denuncia popular podrá ejercitarse por cualquier persona u organización, bastando que se presente por escrito y contenga:
 
-I.- El nombre o razón social, domicilio y demás datos que permitan la identificación del denunciante y, en su caso, de su representante legal;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+I.- El nombre, denominación o razón social, domicilio y demás datos que permitan la identificación de quien denuncia y, en su caso, de su representante legal;
 
 II.- Los actos, hechos u omisiones denunciados;
 
 III.- Los datos que permitan identificar a la presunta autoridad infractora; y
 
-IV.- Las pruebas que en su caso ofrezca el denunciante.
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+IV.- Las pruebas que en su caso ofrezca quien denuncia.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+La denuncia popular podrá ser anónima, y se sujetará únicamente a lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas.
 
 ## Título VII. De las Regiones, Municipios, Localidades y Areas de Atención Prioritaria
 
@@ -565,9 +589,21 @@ I.- Integrar la participación de los sectores público, social y privado en el 
 
 II.- Establecer la concurrencia entre las dependencias y entidades estatales, en la formulación, ejecución e instrumentación de los programas sociales;
 
-III.- Promover la concurrencia, vinculación y congruencia de los programas sociales de los gobiernos municipales con los principios rectores, vertientes y objetivos de la Política Estatal de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-IV.- Fomentar la participación de la sociedad civil, y en general, de los sectores social y privado en el desarrollo social.
+III.- Promover la concurrencia, vinculación y congruencia de los programas sociales de los gobiernos municipales con los principios rectores, vertientes y objetivos de la Política Estatal de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+IV.- Fomentar la participación de la sociedad civil, y en general, de los sectores social y privado en el desarrollo social;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+V.- Promover un desarrollo económico con sentido social, que propicie y conserve el empleo, eleve el nivel de ingreso, mejore su distribución y fomente la igualdad salarial entre hombres y mujeres; y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
+
+VI.- Garantizar la transversalidad de perspectiva de género y de los derechos humanos, en el diseño implementación y evaluación.
 
 ### Capítulo II. De las Competencias y Atribuciones
 
@@ -886,6 +922,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 26 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-550 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4°, FRACCIONES IX Y X; Y 5°, FRACCIONES XVII Y XVIII; Y SE ADICIONAN LAS FRACCIONES XI, XII Y XIII, AL ARTÍCULO 4°; Y LA FRACCIÓN XIX AL ARTÍCULO 5°, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1358 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
