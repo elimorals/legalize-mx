@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-bibliotecas-publicas-del-estado-de-tamaulipas-108157"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-26"
-last_updated: "2015-05-26"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE BIBLIOTECAS PÚBLICAS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada en el Anexo al Número 62 del Periódico Oficial del Estado de Tamaulipas, el martes 26 de mayo de 2015.
 
@@ -140,6 +140,12 @@ Como parte de su acervo, las bibliotecas públicas deberán contar con las leyes
 ###### Artículo 10.
 
 Ni los fondos ni los servicios que presenten las bibliotecas públicas estarán sujetos a forma alguna de censura ideológica, política o religiosa, ni a presiones comerciales.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+###### Artículo 10 Bis.
+
+Las bibliotecas públicas del Estado implementarán programas culturales y de fomento a la lectura que promuevan la participación activa de personas adultas mayores, asegurando la accesibilidad física, tecnológica y comunicativa y creando espacios de expresión para dar a conocer sus trabajos y experiencias.
 
 ### Capítulo III. De las Autoridades
 
@@ -348,3 +354,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintidós días del mes de abril del año dos mil quince.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.-HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1375 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 10 BIS A LA LEY DE BIBLIOTECAS PÚBLICAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
