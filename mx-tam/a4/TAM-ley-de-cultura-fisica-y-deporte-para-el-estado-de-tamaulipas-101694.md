@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2026-07-06"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -455,9 +455,9 @@ XXIX. Convocar anualmente a los eventos deportivos contemplados en los programas
 
 XXX. Otorgar el Premio Estatal del Deporte, conforme a lo dispuesto en la Ley de Premios, Estímulos y Recompensas del Estado;
 
-> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-XXXI. Definir los lineamientos para prevenir la violencia y fomentar la cultura de la paz en el deporte;
+XXXI. Formular, emitir y coordinar la implementación de lineamientos, programas y acciones orientadas a la prevención de la violencia y a la promoción de la cultura de paz en el ámbito deportivo, así como conocer, sustanciar y, en su caso, imponer las medidas o sanciones administrativas que correspondan en términos de esta Ley y demás disposiciones aplicables, sin perjuicio de las responsabilidades civiles o penales a que haya lugar, ni de las competencias municipales en la materia;
 
 > <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
 
@@ -1698,6 +1698,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1135 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 101 BIS A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS, RELATIVO A LA PROTECCIÓN DE DEPORTISTAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1364 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXI, DEL ARTÍCULO 12, DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
