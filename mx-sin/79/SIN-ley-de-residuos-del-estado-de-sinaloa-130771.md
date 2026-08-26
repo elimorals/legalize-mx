@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-residuos-del-estado-de-sinaloa-130771"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-26"
-last_updated: "2024-12-30"
+last_updated: "2026-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE RESIDUOS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2026.
 
 Ley publicada en el Número 119 del Periódico Oficial del Estado de Sinaloa, el miércoles 26 de septiembre de 2018.
 
@@ -81,15 +81,19 @@ Para efectos de esta Ley, se estará a las definiciones que contienen la Ley Gen
 
 I. Almacenamiento: La acción de mantener en depósito temporalmente residuos de manejo especial y sólidos urbanos en instalaciones que cumplen con lo previsto en la presente Ley, el Reglamento, las Normas Oficiales Mexicanas, las normas estatales en materia ambiental sobre residuos y los acuerdos que emita la Secretaría, para evitar su liberación y dispersión al ambiente, en tanto se procesan para su valorización, se les aplica un tratamiento, se transportan o se dispone finalmente de ellos;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
 
-I Bis. Biodegradable: La propiedad de un material consistente en su capacidad para ser desintegrado en por lo menos un 90% de su masa total en un plazo máximo de 360 días naturales, a partir de su descomposición por la acción de microorganismos, en elementos que se encuentran en la naturaleza, tales como dióxido de carbono, agua, componentes inorgánicos o biomasa;
+I Bis. Biodegradable: Propiedad del material atribuible a su estructura química, que permite su descomposición en carbono orgánico a través de distintos mecanismos bajo condiciones específicas y tiempos determinados por las Normas Oficiales Mexicanas correspondientes;
 
 II. Bitácora: El documento en el cual se registran las actividades de manejo integral de residuos de manejo especial y sólidos urbanos;
 
 III. Clasificación: La determinación cualitativa y cuantitativa de los residuos de manejo especial y sólidos urbanos, sustentada en sus propiedades físicas, químicas o biológicas, que sirve para establecer los posibles efectos adversos al ambiente y a la salud humana;
 
 IV. Cédula de Operación Anual: Es el instrumento de reporte y recopilación de información de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+IV Bis. Compostable: Material susceptible de ser degradado por procesos biológicos acelerados en la infraestructura diseñadas para tales efectos, bajo las condiciones controladas que determinen las Normas Oficiales Mexicanas correspondientes;
 
 V. Consejo Estatal: El Consejo Estatal para el Desarrollo Sustentable;
 
@@ -131,15 +135,21 @@ XXIII. Plan de manejo: El instrumento cuyo objetivo es minimizar la generación 
 
 XXIV. Plantas de tratamiento: Las instalaciones autorizadas para el tratamiento de los residuos de manejo especial y sólidos urbanos;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
 
-XXIV Bis. Plástico: Material fabricado a partir de una amplia gama de polímeros orgánicos, fósiles y no fósiles, tales como el tereftalato de polietileno (PET), el polipropileno (PP), el polietileno de baja densidad (PEBD), el polietileno de alta densidad (PEAD), el poliestireno (PS), poliestireno expandido (PSE), el policloruro de vinilo (PVC) y policarbonato que pueden moldearse mientras es suave y luego volverse a su forma rígida o ligeramente rígida e incluso elástica;
+XXIV Bis. Plástico: Material que contiene como ingrediente principal un polímero que en algún momento de su procesamiento permite ser moldeado, por su característica de fluido, en productos terminados;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+XXIV Ter. Plástico de un solo uso: Aquellos plásticos, incluyendo envases y empaques que están diseñados para ser usados por una sola vez, que no están sujetos a un plan de manejo obligatorio y que no son reutilizables, reciclables, compostables, ni son susceptibles de valorización o aprovechamiento;
 
 XXV. Programa: El Programa Estatal para la Prevención y la Gestión Integral de los Residuos;
 
 XXVI. Programas Municipales: Los Programas Municipales para la Prevención y la Gestión Integral de los Residuos Sólidos Urbanos;
 
-XXVII. Reciclaje: Los procesos a través de los cuales los residuos de manejo especial o sólidos urbanos son transformados en productos nuevos que pueden ser reincorporados y aprovechados en los procesos productivos;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+XXVII. Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
 
 XXVIII. Recolección: La acción de recibir los residuos de manejo especial o sólidos urbanos de sus generadores, para trasladarlos a los centros de acopio, estaciones de transferencia, instalaciones para su separación, reutilización, reciclaje, co-procesamlento (sic), tratamiento o disposición final;
 
@@ -165,7 +175,9 @@ XXXVIII. Residuos sólidos urbanos: Los generados en las casas habitación, que 
 
 XXXIX. Responsabilidad compartida: El principio mediante el cual se reconoce que los residuos de manejo especial y sólidos urbanos son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, importadores, distribuidores, consumidores, usuarios de subproductos, gestores, y de las dependencias y entidades de la Administración Pública del Estado y de los Ayuntamientos, según corresponda, bajo un esquema de factibilidad de mercado y eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-XL. Responsabilidad extendida: El principio mediante el cual se reconoce que los productores de ciertos productos son responsables del manejo integral de sus embalajes y de los residuos de manejo especial generados al ser desechados por los consumidores;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+XL. Responsabilidad extendida: Obligación que se aplica de manera complementaria y no excluyente a otras obligaciones de los entes públicos y de los particulares en los términos que define la Ley General de Economía Circular;
 
 XLI. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
 
@@ -177,7 +189,9 @@ XLIV. Separación primaria: La acción de segregar los residuos de manejo especi
 
 XLV. Separación secundaria: La acción de segregar entre sí los residuos de manejo especial y sólidos urbanos que sean inorgánicos y susceptibles de ser valorizados en los términos de esta Ley;
 
-XLVI. Sistema de logística reversa: El Instrumento cuyo objetivo es viabilizar la entrega, reincorporación y aprovechamiento de residuos de manejo especial en los procesos productivos de las industrias, para su valorización, o para garantizar que su disposición final sea ambiental, económica y socialmente viable;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+XLVI. Sistema de logística inversa: El Instrumento cuyo objetivo es viabilizar la entrega, reincorporación y aprovechamiento de residuos de manejo especial en los procesos productivos de las industrias, para su valorización, o para garantizar que su disposición final sea ambiental, económica y socialmente viable; lo anterior estará sujeto a criterios de factibilidad y viabilidad técnica y a la infraestructura necesaria existente;
 
 XLVII. Sitio contaminado: El lugar, espacio, suelo, cuerpo de agua, instalación, tiradero o cualquier combinación de éstos que ha sido contaminado con materiales o residuos de manejo especial y sólidos urbanos que, por sus cantidades y características, pueden representar un riesgo para la salud humana, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas;
 
@@ -233,7 +247,7 @@ V. Integrar y mantener actualizado el Registro y el Inventario Estatal;
 
 VI. Apoyar a los Ayuntamientos que lo soliciten en la integración de sus Registros Municipales;
 
-VII. Publicar en el Periódico Oficial "El Estado de Sinaloa" los listados de los residuos de manejo especial y sólidos urbanos sujetos a planes de manejo o a sistemas de logística reversa;
+VII. (DEROGADA, P.O. 26 DE AGOSTO DE 2026)
 
 VIII. Proponer al Gobierno Federal los residuos de manejo especial y sólidos urbanos que deban incorporarse a las normas oficiales mexicanas correspondientes, conforme al procedimiento correspondiente;
 
@@ -277,9 +291,25 @@ XXVII. Informar a las instancias correspondientes cuando tenga conocimiento de c
 
 XXVIII. Inscribir en el Registro Público de la Propiedad en el Estado los sitios contaminados que se encuentren previstos en los listados incluidos en el Programa;
 
-XXIX. Formular y ejecutar los programas de remediación de sitios contaminados con residuos de manejo especial y sólidos urbanos o, en su caso, promover la expedición de las declaratorias correspondientes; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
 
-XXX. Hacer del conocimiento del Gobierno Federal los sitios contaminados con residuos peligrosos y coordinarse con éste para su remediación.
+XXIX. Formular y ejecutar los programas de remediación de sitios contaminados con residuos de manejo especial y sólidos urbanos o, en su caso, promover la expedición de las declaratorias correspondientes;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+XXX. Hacer del conocimiento del Gobierno Federal los sitios contaminados con residuos peligrosos y coordinarse con éste para su remediación;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+XXXI. Promover en todo el Estado la separación primaria e idealmente la separación secundaria de residuos con el objeto de incrementar el aprovechamiento y valorización de los residuos;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+XXXII. Elaborar, a través de la Secretaría y en coordinación con los municipios, la Estrategia Estatal de separación de residuos; y
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+XXXIII. Promover, vía la Secretaría y demás Secretarías correspondientes, la transición a productos y materiales reciclables, reutilizables, compostables o con potencial de ser aprovechados y difundir la importancia de su separación y acopio, así como la reducción de plásticos de un solo uso.
 
 ###### Artículo 9.
 
@@ -327,9 +357,17 @@ XVIII. Vigilar y, en su caso, sancionar, en el ámbito de su competencia, el cum
 
 XIX. Informar a las instancias correspondientes cuando tengan conocimiento de conductas que puedan ser constitutivas de infracciones de competencia federal o estatal en materia de residuos, coadyuvando en los procedimientos que se desahoguen conforme a la normatividad aplicable;
 
-XX. Inscribir en el Registro Público de la Propiedad en el Estado los sitios contaminados que se encuentren previstos en los listados incluidos en los Programas Municipales; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
 
-XXI. Hacer del conocimiento de la Secretaría los sitios contaminados con residuos de manejo especial y sólidos urbanos, y coordinarse con ésta para su remediación.
+XX. Inscribir en el Registro Público de la Propiedad en el Estado los sitios contaminados que se encuentren previstos en los listados incluidos en los Programas Municipales;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+XXI. Hacer del conocimiento de la Secretaría los sitios contaminados con residuos de manejo especial y sólidos urbanos, y coordinarse con ésta para su remediación; y
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+XXII. Coordinarse con el Gobierno del Estado para la elaboración de la Estrategia Estatal de separación de Residuos.
 
 ### Capítulo II. De la Coordinación
 
@@ -379,13 +417,23 @@ IV. Cuando haya peligro de daño grave o irreversible, la falta de certeza cient
 
 V. La responsabilidad compartida de los generadores, gestores, y de las dependencias y entidades de la administración pública del estado y de los ayuntamientos, es fundamental para lograr que el manejo integral de los residuos sea ambientalmente eficiente, tecnológicamente viable y económicamente factible;
 
-VI. La responsabilidad extendida del productor respecto del embalaje de sus productos y de los residuos generados al desecharse sus productos por los consumidores;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+VI. La responsabilidad extendida;
 
 VII. La valorización de los residuos para su reincorporación y aprovechamiento en los procesos productivos;
 
-VIII. Quien genere residuos está obligado a asumir los costos derivados de su manejo integral y, en su caso, a reparar los daños que causen, así como a remediar los sitios contaminados; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
 
-IX. Debe incentivarse a quien promueva o realice acciones para la prevención de la generación de residuos, así como para su manejo integral.
+VIII. Quien genere residuos está obligado a asumir los costos derivados de su manejo integral y, en su caso, a reparar los daños que causen, así como a remediar los sitios contaminados, con base en la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+IX. Debe incentivarse a quien promueva o realice acciones para la prevención de la generación de residuos, así como para su manejo integral; y
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+X. La separación en la fuente es una acción clave para garantizar el adecuado aprovechamiento de los residuos.
 
 ### Capítulo II. De los Instrumentos de la Política Estatal para la Prevención de la Generación y la Gestión Integral de los Residuos
 
@@ -505,9 +553,31 @@ Los Programas Municipales serán revisados y, en su caso, actualizados, si se pr
 
 Para ello, se deberá seguir el mismo procedimiento para su expedición.
 
-#### Sección Tercera. Del Registro Estatal de Residuos de Manejo Especial
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE AGOSTO DE 2026)</small>
 
-#### Sección Cuarta. De los Registros Municipales de Residuos Sólidos Urbanos
+#### Sección Segunda Bis. De la Estrategia Estatal de Separación de Residuos
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+###### Artículo 22 Bis.
+
+La Secretaría será la encargada de elaborar la Estrategia Estatal de Separación de Residuos con el objetivo de maximizar su aprovechamiento, en coordinación con los municipios.
+
+La Estrategia estará integrada por líneas de acción que promuevan la separación en la fuente de residuos en orgánicos, inorgánicos y aquellos susceptibles de ser valorizados en los términos de esta Ley; dicha separación podrá contemplar la separación por tipo de material a fin de promover un mayor acopio de residuos.
+
+La Estrategia también contemplará acciones de educación ambiental y la promoción de un consumo responsable.
+
+Asimismo, participarán a invitación de la Secretaría, representantes del sector privado, del sector académico, de organizaciones de la sociedad civil, así como a integrantes del Poder Legislativo y demás actores vinculados con la materia, a efecto de que aporten opiniones, propuestas, conocimientos técnicos o acompañamiento en las acciones relacionadas con dicha Estrategia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+###### Artículo 22 Ter.
+
+La Estrategia contemplará el fortalecimiento de planes de manejo, reconocimiento de esquemas voluntarios de gestión de residuos establecidos en el artículo 41 Bis y estará alineada con el Programa Estatal para la Prevención y la Gestión Integral de los Residuos.
+
+La iconografía deberá ser de fácil comprensión y basada en guías de conformidad con las elaboradas a nivel federal.
+
+#### Sección Tercera. Del Registro Estatal de Residuos de Manejo Especial
 
 ###### Artículo 23.
 
@@ -525,7 +595,7 @@ Los gestores de residuos de manejo especial deberán solicitar a la Secretaría 
 
 El Reglamento establecerá el procedimiento para que los grandes generadores de residuos de manejo especial, las personas que deban registrar los planes de manejo de este tipo de residuos y los gestores lleven a cabo la inscripción a la que se refiere la presente Sección.
 
-#### Sección Quinta. Del Inventario Estatal de Residuos
+#### Sección Cuarta. De los Registros Municipales de Residuos Sólidos Urbanos
 
 ###### Artículo 27.
 
@@ -551,7 +621,7 @@ Los reglamentos, bandos de policía y gobierno, disposiciones administrativas y 
 
 A falta de la regulación municipal expresada en el párrafo anterior, los Ayuntamientos realizarán el registro a que se refiere la presente Sección, en lo que resulte aplicable, conforme a las reglas previstas para el Registro Estatal de Residuos de Manejo Especial.
 
-#### Sección Sexta. De la Normalización sobre Residuos
+#### Sección Quinta. Del Inventario Estatal de Residuos
 
 ###### Artículo 32.
 
@@ -611,7 +681,7 @@ La Secretaría incorporará la información contenida en el Inventario Estatal a
 
 Asimismo, entregará dicha información al Gobierno Federal para su incorporación al Inventario Nacional y a los subsistemas de información nacional sobre la gestión integral de residuos, previstos en la Ley General, atendiendo a los formatos, metodologías y procedimientos correspondientes.
 
-#### Sección Séptima. De los Planes de Manejo y Sistemas de Logística Reversa
+#### Sección Sexta. De la Normalización sobre Residuos
 
 ###### Artículo 39.
 
@@ -641,17 +711,35 @@ La expedición y modificación de las normas estatales en materia ambiental, se 
 
 La Secretaría podrá promover el establecimiento de normas estatales voluntarias en materia ambiental sobre residuos, sobre temas específicos que sean más estrictas que las normas oficiales mexicanas y que las normas estatales ambientales en materia ambiental, o que se refieran a aspectos no previstos por éstas, conforme a lo previsto en las normas oficiales mexicanas, las normas estatales en materia ambiental, la Ley Ambiental y en su Reglamento en materia de autorregulación y auditoría ambiental.
 
-#### Sección Octava. De las Autorizaciones y Concesiones para el Manejo Integral de los Residuos
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+###### Artículo 41 Bis.
+
+La Secretaría en conjunto con el sector privado y las dependencias que correspondan, promoverán esquemas voluntarios de sustentabilidad para la gestión integral de residuos que consideren:
+
+I. Acciones para promover o incrementar el acopio y reciclaje de residuos y materiales;
+
+II. Acciones de retornabilidad, cuando aplique;
+
+III. Procesos y programas que promuevan la transición a materiales y productos reciclables, reutilizables, compostables y aprovechables y reducir los plásticos de un solo uso; y
+
+IV. Acciones que fortalezcan los sistemas de logística inversa.
+
+Dichos esquemas voluntarios podrán ser presentados por empresas a través de informes a la Secretaría mediante formato que será publicado por la Secretaría, y se contemplarán para su certificación y comprobación, la normatividad nacional e internacional aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2026)</small>
+
+#### Sección Séptima. De los Planes de Manejo
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 42.
 
-La Secretaría en coordinación con el Gobierno Federal y los Ayuntamientos, publicará en el Periódico Oficial "El Estado de Sinaloa" los listados de los residuos de manejo especial y sólidos urbanos sujetos a planes de manejo o a sistemas de logística reversa. El Reglamento establecerá los criterios para la elaboración de los listados.
+La Secretaría en coordinación con el Gobierno Federal y los Ayuntamientos, podrá proponer residuos de manejo especial a la Federación con el fin de evaluar si pueden ser incluidos en las Normas Oficiales Mexicanas, de conformidad con lo establecido en la Ley.
 
-Con base en dichos listados, la Secretaría propondrá al Gobierno Federal los residuos de manejo especial y sólidos urbanos que deban incorporarse a las normas oficiales mexicanas aplicables, de conformidad con el procedimiento previsto en dichas normas.
+Además, la Secretaría en coordinación con el Gobierno Federal y los Ayuntamientos, publicará en el Periódico Oficial "El Estado de Sinaloa" los listados de los residuos de manejo especial y sólidos urbanos sujetos a planes de manejo o a sistemas de logística inversa, basado en la normatividad aplicable para evitar su sobrerregulación. El Reglamento establecerá los criterios para la elaboración de los listados.
 
-Los Ayuntamientos podrán proponer a la Secretaría los residuos sólidos urbanos que deban incorporarse a los listados previstos en el presente artículo.
-
-La Secretaría podrá proponer al Gobierno Federal, el establecimiento de sistemas de logística reversa para residuos de competencia federal y para sus envases, empaques y embalajes, así como la formulación, ejecución y actualización de planes de manejo especiales para tales efectos.
+La Secretaría podrá proponer al Gobierno Federal, el establecimiento de sistemas de logística inversa, así como la formulación, ejecución y actualización de planes de manejo especiales para tales efectos.
 
 ###### Artículo 43.
 
@@ -675,6 +763,10 @@ El Reglamento establecerá y definirá las modalidades y las categorías que pod
 
 La Secretaría y los Ayuntamientos deberán difundir los planes de manejo que formulen, ejecuten y actualicen, según corresponda, a fin de promover su uso eficiente, el establecimiento de infraestructura y el desarrollo de mercados de valorización de los residuos. Para dicho efecto, podrán publicar en sus portales electrónicos los planes de manejo correspondientes.
 
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+Además, la Secretaría promoverá el registro y adhesión a programas de manejo en sus diversas modalidades a fin de mejorar la gestión integral de residuos.
+
 ###### Artículo 45.
 
 En ningún caso los planes de manejo podrán establecer disposiciones contrarias a lo previsto en la Ley General, en la presente Ley, en la Ley Ambiental, en el Reglamento, en las normas oficiales mexicanas o en las normas estatales en materia ambiental sobre residuos, ni deberán ejecutarse a través de gestores que no estén autorizados en los términos de esta Ley.
@@ -683,11 +775,17 @@ En ningún caso los planes de manejo podrán establecer disposiciones contrarias
 
 Los sistemas de logística reversa implicarán, por lo menos, lo siguiente:
 
-I. Las personas que desechen un residuo de manejo especial sujeto a un sistema de logística reversa, deberán entregarlo directamente a un productor, importador, distribuidor, comerciante, empresa de reutilización, reciclaje o tratamiento de dichos residuos, o en los centros de acopio que para tal efecto se establezcan;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+I. Las personas que desechen un residuo de manejo especial sujeto a un sistema de logística inversa, podrán entregarlo directamente a un productor, importador, distribuidor, comerciante, empresa de reutilización, reciclaje o tratamiento de dichos residuos, o en los centros de acopio que para tal efecto se establezcan;
 
 II. Los productores, importadores, distribuidores, comerciantes, empresas de reutilización, reciclaje o tratamiento, o los centros de acopio que para tal efecto se establezcan, deberán aceptar gratuitamente los productos desechados, ya sea por sí mismos o a través de terceros; y
 
 III. Los productores, importadores, distribuidores, comerciantes, empresas de reutilización, reciclaje o tratamiento, o los centros de acoplo (sic) que para tal efecto se establezcan, deberán garantizar la disposición final adecuada de los residuos que no reutilicen, reciclen o transfieran a otras personas sujetas a la misma obligación, pudiendo llevar a cabo la disposición final a través de terceros.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+Los sistemas de logística inversa estarán sujetos a criterios de factibilidad y viabilidad técnica y ambiental, además de la infraestructura existente para ello.
 
 ###### Artículo 47.
 
@@ -701,7 +799,11 @@ III. Formular, presentar, registrar, ejecutar y actualizar un plan de manejo; y
 
 IV. Presentar a la Secretaría los contratos o convenios celebrados con terceros cuando den cumplimiento a sus obligaciones a través de estos últimos.
 
-#### Sección Novena. De los Instrumentos Económicos
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+La información anterior podrá incluirse dentro de los programas de manejo de residuos ya existentes presentados por los sujetos obligados en la materia.
+
+#### Sección Octava. De las Autorizaciones y Concesiones para el Manejo Integral de los Residuos
 
 ###### Artículo 48.
 
@@ -867,7 +969,7 @@ En el caso de los rellenos sanitarios, la responsabilidad del gestor se extiende
 
 Los titulares de autorizaciones o concesiones a que se refiere la presente Sección, adoptarán las medidas necesarias para cumplir con las normas oficiales mexicanas, las normas estatales en materia ambiental sobre residuos y los acuerdos que emita la Secretaría.
 
-#### Sección Décima. De los Sistemas de Manejo Ambiental y Acciones Voluntarias para la Prevención de la Generación y la Gestión Integral de los Residuos
+#### Sección Novena. De los Instrumentos Económicos
 
 ###### Artículo 64.
 
@@ -904,6 +1006,8 @@ IV. Las características, el volumen y la frecuencia de los residuos generados;
 V. La distancia de las fuentes generadoras a los sitios para su manejo integral; y
 
 VI. Las opiniones emitidas por el Consejo Estatal y los Consejos Municipales.
+
+#### Sección Décima. De los Sistemas de Manejo Ambiental y Acciones Voluntarias para la Prevención de la Generación y la Gestión Integral de los Residuos
 
 ###### Artículo 68.
 
@@ -957,7 +1061,9 @@ V. Fomentar la reutilización y reciclaje de los residuos de manejo especial y s
 
 VI. Entregar los residuos de manejo especial directamente a un productor, importador, distribuidor, comerciante, empresa de reutilización, reciclaje o tratamiento de dichos residuos, o en los centros de acopio que para tal efecto se establezcan, cuando se encuentren sujetos a un sistema de logística reversa;
 
-VII. Cuando sea factible, procurar la biodegradabilidad de los mismos;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+VII. Promover y transitar a productos y materiales reciclables, reutilizables, compostables y aprovechables, bajo criterios de viabilidad y factibilidad técnica, ambiental y económica y reducir el uso de plásticos de un solo uso;
 
 VIII. Participar en los planes y programas que establezcan las autoridades competentes para facilitar la prevención y reducción de la generación de residuos de manejo especial y sólidos urbanos;
 
@@ -987,37 +1093,45 @@ IV. Incinerar residuos a cielo abierto o en lugares no autorizados;
 
 V. Abrir nuevos tiraderos de residuos;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
 
-VI. Comercializar, distribuir o entregar, a título gratuito u oneroso, los productos de plástico no biodegradable siguientes:
-
-a. Popotes o pajitas;
-
-b. Bolsas para traslado de mercancías de mercados, tianguis, supermercados, tiendas de servicio y autoservicio, tiendas de conveniencia, restaurantes, farmacias, establecimientos donde se expendan o suministren y demás puntos de venta o distribución similares, así como las utilizadas para cubrir platos destinados para consumir alimentos;
-
-c. Platos, vasos, tazas, copas, charolas, recipientes, contenedores, cucharas, tenedores, cuchillos, tapas para vasos, mezcladores o agitadores para bebidas;
-
-d. Anillos para agrupar, sostener o cargar envases;
-
-e. Los productos derivados del poliestireno expandido (PCD o UNICEL); y
-
-f. Envases de bebidas fabricadas sin el porcentaje mínimo de contenido de plástico reciclado; y
+VI. Comercializar, distribuir o entregar, a título gratuito u oneroso, plásticos de un solo uso; y
 
 VII. (DEROGADA, P.O. 21 DE FEBRERO DE 2020)
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 74 Bis.
 
-Se exceptúan de las prohibiciones que establece el artículo 74, fracción VI de esta ley, los productos de plástico no biodegradable siguientes:
+Se exceptúan de las prohibiciones que establece el artículo 74, fracción VI de esta ley, los productos siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
 I. Los utilizados para fines médicos;
 
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
 II. Las bolsas que, por sanidad e inocuidad de los alimentos, sean utilizadas para productos a granel;
 
-III. Los fabricados con materiales biodegradables, previo a su comercialización, distribución o entrega generalizados en el mercado, se deberá presentar a la Secretaría un aviso, acompañado de una muestra del producto y el certificado de análisis respectivo emitido por un laboratorio acreditado por la Entidad Mexicana de Acreditación, donde se verifique que es por lo menos noventa por ciento biodegradable, su periodo de descomposición y la no toxicidad; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+III. Los fabricados con materiales reciclables, reutilizables, compostables o biodegradables, previo a su comercialización, distribución o entrega generalizados en el mercado, lo cual podrá comprobarse con certificados, normatividad nacional o internacional, estándares aplicables; y
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
 IV. Los productos derivados del poliestireno expandido, solo en el supuesto del uso de la industria de la construcción y los embalajes de grandes mercancías.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+El sector privado, en coordinación con la Secretaría y el Gobierno del Estado, formularán acciones para transitar a materiales reciclables, reutilizables, biodegradables, compostables y aprovechables y disminuir paulatinamente hasta eliminar los plásticos de un solo uso.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+Para ello, se podrán generar normas ambientales estatales y reconocer las certificaciones, estándares y la normatividad nacional e internacional en la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+La transición a materiales con potencial de ser aprovechables considerará la infraestructura establecida en el Estado y en el caso de los envases y empaques retornables, se considerarán aspectos de inocuidad, higiene y salubridad.
 
 ###### Artículo 75.
 
@@ -1123,9 +1237,11 @@ El Reglamento establecerá las categorías de los centros de acopio para el alma
 
 Los Ayuntamientos tendrán a su cargo la regulación de la gestión integral de los residuos sólidos urbanos, de conformidad con sus reglamentos, bandos de policía y gobierno, disposiciones administrativas y circulares de observancia general, los que observarán las disposiciones contenidas en esta Ley, el Reglamento, la Ley General, las normas estatales en materia ambiental sobre residuos y los acuerdos que emita la Secretaría.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 88.
 
-Los residuos sólidos urbanos deberán subclasificarse en orgánicos, inorgánicos y peligrosos domiciliarios, con el objeto de facilitar su separación primaria, de conformidad con el Programa y los Programas Municipales, y demás ordenamientos legales aplicables.
+Los residuos sólidos urbanos deberán subclasificarse en orgánicos, inorgánicos y valorizables, incluyendo todos los tipos de plásticos con el fin de promover su adecuada separación y manejo, así como en peligrosos domiciliarios, con el objeto de facilitar su separación primaria, de conformidad con el Programa y los Programas Municipales, y demás ordenamientos legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
@@ -1592,3 +1708,27 @@ P.O. 30 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 32 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 445 MEDIANTE EL CUAL SE REFORMARON, ADICIONARON Y DEROGARON DIVERSAS DISPOSICIONES DE LA LEY DE RESIDUOS, Y DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE, AMBAS DEL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 457 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN, ADICIONA Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE RESIDUOS, Y DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE, AMBAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, a través de la Secretaría de Bienestar y Desarrollo Sustentable del Estado de Sinaloa deberá actualizar toda normatividad y reglamentación secundaria que se requiera, a efectos de atender lo establecido en el presente Decreto en un plazo no mayor a 180 días naturales, posteriores a la entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Bienestar y Desarrollo Sustentable del Estado de Sinaloa deberá elaborar, en coordinación con los Municipios, la Estrategia Estatal de Separación de Residuos en un plazo no mayor a 180 días naturales posteriores al inicio de vigencia del Decreto y publicarla en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Bienestar y Desarrollo Sustentable del Estado de Sinaloa, deberá expedir el formato a que se refiere el artículo 41 Bis de la Ley de Residuos del Estado de Sinaloa, en un plazo no mayor de 90 días naturales, contados a partir del inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que contravengan al presente Decreto.
