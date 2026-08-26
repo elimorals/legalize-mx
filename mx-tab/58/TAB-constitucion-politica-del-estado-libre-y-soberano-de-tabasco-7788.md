@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2026-01-24"
+last_updated: "2026-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2026.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -601,11 +601,15 @@ I. Será convocado por el Instituto Electoral y de Participación Ciudadana de T
 
 II. El Instituto Electoral y de Participación Ciudadana de Tabasco, dentro de los treinta días siguientes a que se reciba la solicitud, verificará el requisito establecido en la fracción anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato;
 
-III. Podrá llevarse a cabo en una sola ocasión, durante los tres meses posteriores a la conclusión del tercer año del período constitucional del Gobernador o Gobernadora del Estado; mediante votación libre, directa y secreta; será vinculante cuando la participación corresponda como mínimo al cuarenta por ciento de dicha lista y la votación sea por mayoría absoluta.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
 
-Los ciudadanos y las ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto Electoral y de Participación Ciudadana de Tabasco emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas;
+III. Podrá llevarse a cabo en una sola ocasión, el primer domingo de junio del cuarto año del periodo constitucional de forma coincidente con las jornadas electorales, federal o locales, mediante votación libre, directa y secreta; será vinculante cuando la participación corresponda como mínimo al cuarenta por ciento de dicha lista y la votación sea por mayoría absoluta.
 
-IV. La jornada de votación se efectuará el domingo siguiente a los noventa días posteriores a la convocatoria, en fecha posterior y no coincidente con procesos electorales o de participación ciudadana locales o federales y quien asuma el mandato del ejecutivo revocado concluirá el período constitucional;
+Los ciudadanos y las ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en la fracción I de este artículo. El Instituto Electoral y de Participación Ciudadana de Tabasco emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+IV. Quien asuma el mandato del ejecutivo revocado concluirá el período constitucional;
 
 V. El Instituto Electoral y de Participación Ciudadana de Tabasco, tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato de la persona titular del Poder Ejecutivo Estatal, los cuales podrán ser impugnados ante el Tribunal Electoral de Tabasco, en los términos de lo dispuesto en la fracción I del apartado D, del artículo 9, así como en la fracción VIII, del artículo 63 bis de esta Constitución;
 
@@ -2071,9 +2075,13 @@ El Tribunal de Disciplina Judicial podrá dar vista a la Fiscalía General del E
 
 Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas del Poder Judicial del Estado.
 
-El Tribunal de Disciplina Judicial evaluará el desempeño de las personas integrantes del Poder Judicial que resulten electos, durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2026)</small>
 
-La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+El Tribunal de Disciplina Judicial evaluará el desempeño de las personas integrantes del Poder Judicial que resulten electos, durante su primer año de ejercicio y aplicará programas de capacitación y actualización permanente, para lo cual podrá coordinarse con la Universidad Judicial. La ley establecerá los métodos, criterios e indicadores aplicables a los procesos de evaluación que correspondan.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE AGOSTO DE 2026)</small>
+
+La ley señalará los criterios, metodologías, etapas, áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la transparencia, imparcialidad y objetividad de los procesos de evaluación y de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación correspondiente resulte insatisfactoria:
 
 a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
 
@@ -2107,7 +2115,9 @@ IV. No haber sido condenadas por delito doloso con sanción privativa de la libe
 
 Durante su encargo, las personas integrantes del Pleno del Órgano de Administración Judicial sólo podrán ser removidas en los términos del Título VII, de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguno de sus integrantes, la autoridad que lo designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
 
-La ley establecerá las bases para la formación, evaluación, certificación y actualización de las personas servidoras públicas, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El Órgano de Administración Judicial contará con un órgano auxiliar con autonomía técnica y de gestión denominado Centro de Especialización Judicial responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, y en su caso, de la Fiscalía General del Estado, del Instituto de la Defensoría Pública, la Comisión Estatal de los Derechos Humanos, instituciones de seguridad pública y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de las personas servidoras públicas, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El Órgano de Administración Judicial contará con un órgano auxiliar con autonomía técnica y de gestión denominado Universidad Judicial responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, y en su caso, de la Fiscalía General del Estado, del Instituto de la Defensoría Pública, la Comisión Estatal de los Derechos Humanos, instituciones de seguridad pública y del público en general, lo anterior, a través de la impartición de licenciaturas, maestrías, doctorados, especialidades, diplomados, talleres, cursos, conferencias; y demás propios de su objeto; así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
 
 De conformidad con lo que establezca la ley, el Órgano de Administración Judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal de Disciplina Judicial podrá solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en los asuntos de su competencia.
 
@@ -2125,23 +2135,47 @@ En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en
 
 Las Magistradas y Magistrados del Tribunal de Disciplina Judicial y las Magistradas y Magistrados, Juezas y Jueces del Tribunal Superior de Justicia, serán electos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones locales ordinarias del año que corresponda conforme al siguiente procedimiento:
 
-I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El Órgano de Administración Judicial hará del conocimiento del Congreso, los cargos sujetos a elección y demás información que requiera;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
+
+I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas a más tardar el treinta de abril del año anterior al de la elección judicial que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El Órgano de Administración Judicial hará del conocimiento del Congreso, los cargos sujetos a elección y demás información que requiera;
 
 II. Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme a los párrafos segundo y tercero del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
 a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes aplicables, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
 
-b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE AGOSTO DE 2026)</small>
 
-c) Los Comités de Evaluación integrarán un listado de las cinco personas mejor evaluadas para cada cargo. Posteriormente, depurarán dicho listado en los términos que establezca la legislación secundaria, para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso.
+b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, quienes elegirán de entre sus integrantes a la persona que coordine sus trabajos.
 
-III. El Congreso recibirá las postulaciones y remitirá los listados al Instituto Electoral y de Participación Ciudadana de Tabasco a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+Las personas coordinadoras de los tres comités integrarán una comisión coordinadora, responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos, y emitir acuerdos que regulen los trabajos de los tres comités.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+Cada comité seleccionará, conforme a los criterios definidos por la comisión coordinadora, a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE AGOSTO DE 2026)</small>
+
+c) Los Comités de Evaluación integrarán un listado de las cuatro personas mejor evaluadas para cada cargo. Posteriormente, depurarán dicho listado mediante insaculación pública, para ajustarlo a dos personas para cada cargo. Los comités garantizarán la paridad de género en el listado de personas a insacular por especialidad y circuito judicial, de ser aplicable. Asimismo, observarán la paridad de género en el listado de propuesta posterior a la insaculación. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+Para los efectos del párrafo anterior, cada uno de los Poderes del Estado postulará dos personas por cada cargo: el Poder Ejecutivo lo hará por conducto del Gobernador o Gobernadora del Estado; el Poder Legislativo postulará dos personas mediante votación calificada de dos tercios de sus integrantes presentes; y el Poder Judicial del Estado, por conducto del Pleno del Tribunal Superior de Justicia, mediante votación calificada de dos tercios de sus integrantes presentes.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE AGOSTO DE 2026)</small>
+
+III. El Congreso recibirá las postulaciones y remitirá los listados al Instituto Electoral y de Participación Ciudadana de Tabasco, en los plazos que refiera la convocatoria, a efecto de que organice el proceso electivo.
 
 Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente; y
 
-IV. El Instituto Electoral y de Participación Ciudadana de Tabasco, efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral de Tabasco, el cual resolverá las impugnaciones antes de que el Congreso instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas electas rendirán protesta de su encargo ante dicho órgano legislativo.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2026)</small>
 
-La elección de Magistradas y Magistrados del Tribunal de Disciplina Judicial y del Tribunal Superior de Justicia, así como las Juezas y Jueces en materia penal, se realizará a nivel estatal conforme al procedimiento anterior y en los términos que dispongan las leyes generales y locales aplicables. El titular del Poder Ejecutivo postulará hasta dos personas aspirantes; el Poder Legislativo postulará hasta dos personas, mediante votación calificada de dos tercios de sus integrantes presentes, y el Poder Judicial del Estado por conducto del Pleno, postulará hasta dos personas por mayoría calificada de votos.
+IV. El Instituto Electoral y de Participación Ciudadana de Tabasco, efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral de Tabasco, el cual resolverá las impugnaciones antes de que el Congreso instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas electas rendirán protesta de su encargo ante dicho órgano legislativo. Las autoridades electorales no podrán modificar los resultados de la elección ni la asignación de cargos después de esa fecha.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+La elección de Magistradas y Magistrados del Tribunal de Disciplina Judicial y del Tribunal Superior de Justicia, así como las Juezas y Jueces en materia penal, se realizará a nivel estatal conforme al procedimiento anterior y en los términos que dispongan las leyes generales y locales aplicables. Cada Poder postulará dos candidaturas por cargo a renovar en la elección de que se trate. La asignación de los cargos electos se realizará entre las candidaturas que obtengan mayor número de votos, observando la integración paritaria del órgano correspondiente.
 
 Para el caso de Juezas y Jueces civiles, familiares, mercantiles y laborales, la elección se realizará por distrito o región judicial conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes generales y locales aplicables. Cada uno de los Poderes del Estado postulará hasta dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo mediante votación calificada de dos terceras partes de sus integrantes presentes, y el Poder Judicial del Estado, por conducto del Pleno del Tribunal Superior de Justicia por mayoría calificada de votos.
 
@@ -2168,6 +2202,22 @@ Ninguna licencia podrá exceder del término de un año.
 El personal dedicado al servicio público que integre sus estructuras orgánicas forma el Servicio Profesional de Carrera del Poder Judicial del Estado de Tabasco, de carácter obligatorio y permanente, conforme al cual se regulará el ingreso, la compensación, la permanencia y la separación o baja del mismo; todo ello, con base en la evaluación periódica y objetiva de su desempeño. Sus integrantes serán seleccionados, nombrados y promovidos en consideración a los principios de mérito y capacidad por el Órgano de Administración Judicial mediante concurso de oposición, de acuerdo a los requisitos y procedimientos que establezca la ley.
 
 Las Juezas y los Jueces que en los términos de esta Constitución y de la ley en la materia, fueren electos, rendirán la protesta del cargo, en su orden, ante el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+Las personas juzgadoras que aspiren a un cargo de elección distinto al que ostenten deberán separarse del cargo mediante renuncia expresa e irrevocable, la cual informarán al Órgano de Administración Judicial antes de su registro en el proceso correspondiente. El Órgano de Administración Judicial comunicará de inmediato la vacante a la autoridad competente para que el cargo sea sujeto a elección.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+Las boletas electorales de la elección judicial distinguirán al Poder postulante y, cuando corresponda, a las personas juzgadoras en funciones en los cargos a elegir. Asimismo, distinguirán las especialidades que correspondan a cada ámbito territorial y contendrán los nombres completos de las personas candidatas. Las candidaturas se ubicarán en recuadros para que la ciudadanía señale su preferencia, debiendo elegir una sola candidatura por especialidad.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+La jornada electoral judicial se celebrará en la misma ubicación donde se realicen las elecciones ordinarias federales o locales. Las autoridades electorales adoptarán las medidas necesarias para garantizar que la jornada electoral judicial se desarrolle sin la intervención de personas representantes de partidos políticos.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+El escrutinio y cómputo de los votos se realizará en la casilla donde fueron sufragados.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
@@ -4235,7 +4285,9 @@ Las personas que se encuentren en funciones en los cargos señalados en el párr
 
 El Congreso del Estado tendrá un plazo de treinta días naturales posteriores a la entrada en vigor del presente Decreto para emitir la convocatoria para integrar los listados de las personas candidatas que participen en la elección extraordinaria para renovar los cargos del Poder Judicial del Estado, conforme al procedimiento previsto en el artículo 56 de la Constitución del Estado, salvo en lo que respecta a las postulaciones que realice el Pleno del Tribunal Superior de Justicia conforme a los párrafos segundo y tercero de dicho artículo, que deberá hacerse por mayoría calificada de votos de sus integrantes.
 
-Para el caso de las Magistradas y Magistrados integrantes del Pleno del Tribunal Superior de Justicia, Juezas y Jueces, la elección será escalonada, renovándose los cargos establecidos en el párrafo primero del presente transitorio en la elección extraordinaria del año 2025 y la parte restante en la elección ordinaria del año 2027, conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE AGOSTO DE 2026)</small>
+
+Para el caso de las Magistradas y Magistrados integrantes del Pleno del Tribunal Superior de Justicia, Juezas y Jueces, la elección será escalonada, renovándose los cargos establecidos en el párrafo primero del presente transitorio en la elección extraordinaria del año 2025 y la parte restante en la elección del año 2028, conforme a lo siguiente:
 
 a) Para seleccionar los cargos a renovar en la elección extraordinaria del año 2025, el Consejo de la Judicatura del Estado entregará al Congreso local un listado con la totalidad de cargos de Magistradas y Magistrados, Juezas y Jueces, indicando su adscripción, especialización por materia, género, vacancias, renuncias y retiros programados, y la demás información que se le requiera, y
 
@@ -4255,7 +4307,9 @@ Las personas Magistradas y Magistrados que resulten electos tomarán protesta de
 
 TERCERO.- El período de las Magistradas y Magistrados, y de las Juezas y Jueces que resulten electos en la elección extraordinaria que se celebre en el año 2025 conforme al artículo Segundo transitorio del presente Decreto durará ocho años, por lo que vencerá en el año 2033, con el propósito de homologar los procesos electorales locales con las federales.
 
-Los cargos de Magistradas, Magistrados, Juezas y Jueces que no hayan sido seleccionados para la renovación en la elección extraordinaria del 2025, y que estén en funciones a la entrada en vigor del presente Decreto permanecerán en su encargo hasta el año 2027, concluyendo en la fecha que tomen protesta las personas servidoras públicas que emanan de la elección estatal ordinaria que se celebre para tal efecto.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+Los cargos de Magistradas, Magistrados, Juezas y Jueces que no hayan sido seleccionados para la renovación en la elección extraordinaria del 2025, y que estén en funciones a la entrada en vigor del presente Decreto permanecerán en su encargo hasta el año 2028, concluyendo en la fecha que tomen protesta las personas servidoras públicas que emanan de la elección estatal ordinaria que se celebre para tal efecto.
 
 CUARTO.- El Consejo de la Judicatura del Estado continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, hasta en tanto sean creados el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial.
 
@@ -4279,7 +4333,9 @@ SEXTO.- Las remuneraciones de las personas servidoras públicas del Poder Judici
 
 SÉPTIMO.- El Congreso del Estado tendrá un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a las leyes locales que correspondan para dar cumplimiento al mismo. Entre tanto, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga al presente Decreto.
 
-La renovación de la totalidad de cargos de elección del Poder Judicial del Estado deberá concluir en la elección federal ordinaria del año 2027, en los términos y modalidades que estas se determinen; en cualquier caso, las elecciones locales deberán coincidir con la fecha de la elección extraordinaria del año 2025 o de la elección ordinaria del año 2027.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+La renovación de la totalidad de cargos de elección del Poder Judicial del Estado deberá concluir en la elección federal ordinaria del año 2028, en los términos y modalidades que estas determinen; en cualquier caso, las elecciones locales deberán coincidir con la fecha de la elección extraordinaria del año 2025 o de la elección ordinaria del año 2028.
 
 OCTAVO.- Los procedimientos que al momento de la entrada en vigor del presente decreto, excedan de los plazos previstos en el párrafo segundo del artículo 17 y la fracción VII del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, deberá observarse el procedimiento establecido en éstos.
 
@@ -4378,3 +4434,29 @@ PRIMERO. El presente Decreto entrará en vigor al momento de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Dentro del plazo de 180 días a que se refiere el Artículo Transitorio Sexto del Decreto por el que se expidió la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, expídanse las reformas, adiciones o derogaciones necesarias a las leyes secundarias locales para armonizarlas al ordenamiento general citado.
+
+P.O. 26 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 283 "ARTÍCULO PRIMERO. SE REFORMAN LOS ARTÍCULOS 8 TER, FRACCIONES III Y IV; 55-BIS, PÁRRAFOS DÉCIMO PRIMERO Y DÉCIMO SEGUNDO; 55 TER, PÁRRAFO QUINTO; 56, FRACCIONES I, II, INCISOS B) Y C), III Y IV Y PÁRRAFO SEGUNDO. SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL INCISO B) Y EL PÁRRAFO SEGUNDO AL INCISO C) DE LA FRACCIÓN II, LOS PÁRRAFOS DÉCIMO SEXTO, DÉCIMO SÉPTIMO, DÉCIMO OCTAVO Y DÉCIMO NOVENO AL ARTÍCULO 56" Y "ARTÍCULO SEGUNDO. SE REFORMAN LOS TRANSITORIOS SEGUNDO, PÁRRAFO CUARTO; TERCERO, PÁRRAFO SEGUNDO; Y SÉPTIMO, PÁRRAFO SEGUNDO. TODOS DEL DECRETO 080, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO, EXTRAORDINARIO 260, DE FECHA 16 DE DICIEMBRE DE 2024, POR EL QUE SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los cargos de personas juzgadoras que no hayan sido objeto de renovación en la elección judicial del año 2025, así como las vacantes correspondientes, se elegirán sin excepción en las elecciones judiciales del año 2028, conforme a lo previsto en este Decreto.
+
+Las personas juzgadoras Magistradas, Magistrados, Juezas y Jueces que concluirían su encargo en el año de la elección ordinaria del año 2027 permanecerán en funciones hasta el año 2028, concluyendo su encargo en la fecha en que tomen protesta las personas que emanen de la elección judicial respectiva.
+
+TERCERO. La jornada electoral de la elección judicial local se celebrará de forma coincidente con la elección federal el primer domingo de junio del año 2028. Podrán participar como observadoras las personas o agrupaciones acreditadas por el Instituto Electoral y de Participación Ciudadana de Tabasco, con excepción de representantes de los partidos políticos.
+
+El Instituto efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal Electoral de Tabasco, que resolverá todas las impugnaciones en los términos y plazos previstos en el presente Decreto.
+
+Las personas que resulten electas tomarán protesta de su encargo ante el Congreso del Estado el primero de septiembre del año 2028. El órgano de administración judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar el quince de septiembre de dicha anualidad.
+
+CUARTO. El Congreso del Estado realizará las adecuaciones necesarias al marco jurídico local, a más tardar el dos de septiembre del año 2026. Entre tanto, se aplicarán de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se oponga al presente Decreto.
+
+QUINTO. El Pleno del Tribunal de Disciplina Judicial del Poder Judicial del Estado deberá emitir su Reglamento Interior dentro de un plazo no mayor a treinta días naturales siguientes a la entrada en vigor del presente Decreto, el cual regulará sus competencias, atribuciones, operación, periodicidad de sus sesiones, integración y facultades de sus comisiones y órganos auxiliares, incluyendo los procedimientos de responsabilidad administrativa, la evaluación del desempeño de la función judicial y los conflictos laborales.
+
+SEXTO. El período de las Magistradas, Magistrados, Juezas y Jueces que resulten electos en la elección que se celebre en el año 2028 conforme al presente Decreto durará ocho años, por lo que vencerá en el año 2036.
+
+SÉPTIMO. Para efectos de la realización de la elección judicial que se celebre en el año 2028, el Instituto Electoral y de Participación Ciudadana de Tabasco, hará uso del mismo número y conformación de distritos electorales que los utilizados en la elección extraordinaria del pasado 2025, esto con el objetivo de que las y los candidatos se encuentren en igualdad de circunstancias que los participantes de la elección anterior.
+
+OCTAVO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
