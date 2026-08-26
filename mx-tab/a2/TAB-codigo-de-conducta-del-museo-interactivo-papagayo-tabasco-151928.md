@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-del-museo-interactivo-papagayo-tabasco-15192
 country: "mx"
 rank: "codigo"
 publication_date: "2021-10-16"
-last_updated: "2021-10-16"
+last_updated: "2026-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DEL MUSEO INTERACTIVO PAPAGAYO, TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DEL MUSEO INTERACTIVO PAPAGAYO DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL MUSEO INTERACTIVO PAPAGAYO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 16 de octubre de 2021.
 
@@ -586,3 +588,15 @@ DADO EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, EL PRIMERO DE 
 MTRA. ELOÍSA OCAMPO GONZÁLEZ.
 
 Directora General del Museo Interactivo Papagayo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL MUSEO INTERACTIVO PAPAGAYO”.]
+
+PRIMERO.- El presente Código de Conducta del Museo Interactivo "Papagayo", entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se abroga el Código de Conducta del Museo Interactivo "Papagayo", publicado en el suplemento B del Periódico Oficial del Estado de Tabasco 5404, edición 8255, época 7A, de fecha 16 de octubre del 2021.
+
+TERCERO.- Todas las personas servidoras públicas del Museo Interactivo "Papagayo", deberán suscribir ante el Órgano Interno de Control y/o Unidad Jurídica, la Carta Compromiso de cumplimiento al Código de Ética e Integridad para un Buen Gobierno en la Administración Pública Estatal y del Código de Conducta correspondiente.
