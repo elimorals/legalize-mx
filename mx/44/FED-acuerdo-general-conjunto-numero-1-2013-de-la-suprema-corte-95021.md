@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-conjunto-numero-1-2013-de-la-suprema-corte-9502
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-07-08"
-last_updated: "2013-07-08"
+last_updated: "2026-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95021&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-07-04"
 ---
 # ACUERDO GENERAL CONJUNTO NUMERO 1/2013 DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA FIRMA ELECTRONICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACION (FIREL) Y AL EXPEDIENTE ELECTRONICO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL POR EL QUE SE REGULAN LA EMISIÓN, ADMINISTRACIÓN, RENOVACIÓN, REVOCACIÓN, RECONOCIMIENTO Y USO DE LA FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ACUERDO GENERAL CONJUNTO NÚMERO 1/2013, DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN (FIREL) Y AL EXPEDIENTE ELECTRÓNICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE AGOSTO DE 2026 (DEROGADO).
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 8 de julio de 2013.
 
@@ -354,3 +356,33 @@ Consideraciones generales:
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Este ACUERDO GENERAL CONJUNTO NÚMERO 1/2013, DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN (FIREL) Y AL EXPEDIENTE ELECTRÓNICO, fue aprobado por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en Sesión Privada celebrada el veintisiete de junio de dos mil trece, por unanimidad de once votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Alberto Pérez Dayán y Presidente Juan N. Silva Meza; validado por el Pleno de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en Sesión Privada celebrada el veintiséis de junio de dos mil trece, y aprobado por la Comisión de Administración de dicho órgano jurisdiccional en su Segunda Sesión Extraordinaria celebrada el dos de julio de dos mil trece, mediante Acuerdo 7/2SE(2-VII-2013), como deriva de la copia certificada remitida a esta Secretaría General de Acuerdos por el licenciado Jorge Enrique Mata Gómez, Secretario Administrativo y Secretario de la Comisión de Administración del citado Tribunal Electoral; y aprobado por el Pleno del Consejo de la Judicatura Federal en su Sesión Ordinaria celebrada el veintiséis de junio de dos mil trece, por mayoría de cinco votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera, con el voto en contra del señor Consejero Juan Carlos Cruz Razo, como deriva de la copia certificada remitida a esta Secretaría General de Acuerdos por el Magistrado J. Guadalupe Tafoya Hernández, Secretario Ejecutivo del Pleno del Consejo de la Judicatura Federal.- México, Distrito Federal, a cuatro de julio de dos mil trece.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de treinta y ocho fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Conjunto 1/2013, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la federación.- México, Distrito Federal, a cuatro de julio de dos mil trece.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL POR EL QUE SE REGULAN LA EMISIÓN, ADMINISTRACIÓN, RENOVACIÓN, REVOCACIÓN, RECONOCIMIENTO Y USO DE LA FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Órgano de Administración Judicial en internet e intranet.
+
+TERCERO. Se derogan, en el ámbito de competencia del OAJ las disposiciones relativas a la emisión, administración, renovación, revocación y uso de la FIREL contenidas en el Acuerdo General Conjunto número 1/2013 de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico. Las disposiciones relativas al expediente electrónico y a materias no sustituidas expresamente por el presente Acuerdo General continuarán aplicándose en lo que no se opongan a éste y a la normativa vigente.
+
+CUARTO. Los certificados digitales de firma electrónica emitidos por la Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal, por la Autoridad Certificadora Intermedia de la Suprema Corte de Justicia de la Nación y por la Autoridad Certificadora Intermedia del Tribunal Electoral del Poder Judicial de la Federación hasta antes de la entrada en vigor del presente Acuerdo General, continuarán vigentes hasta su expiración.
+
+QUINTO. A partir de la generación e inicio de operación de la Autoridad Certificadora Intermedia del Poder Judicial de la Federación, la Autoridad Certificadora Intermedia de la Suprema Corte de Justicia de la Nación y la Autoridad Certificadora Intermedia del Tribunal Electoral del Poder Judicial de la Federación dejarán de emitir certificados digitales a personas usuarias finales.
+
+SEXTO. El personal adscrito a la Suprema Corte de Justicia de la Nación y al Tribunal Electoral del Poder Judicial de la Federación encargado de emitir certificados digitales de firma electrónica continuará realizando dicha actividad, bajo las instrucciones de la Autoridad Certificadora Intermedia del Poder Judicial de la Federación.
+
+SÉPTIMO. Las referencias hechas en todos los Acuerdos Generales a la Unidad para el Control de Certificación de Firmas del Consejo de la Judicatura Federal se entenderán hechas a la Unidad para el Control de Certificación de Firmas del Poder Judicial de la Federación.
+
+OCTAVO. La exigencia prevista en el artículo 4, fracción II, inciso B, consistente en haber obtenido previamente un certificado digital de FIREL mediante la modalidad presencial, para poder tramitar un certificado en línea, será aplicable a partir del 1 de enero de 2028.
+
+Las personas solicitantes podrán obtener por primera vez un certificado digital de FIREL mediante la modalidad en línea hasta el 31 de diciembre de 2027, sin que resulte exigible el requisito previsto en el artículo 4, fracción II, inciso B, conforme a los procedimientos, mecanismos de validación de identidad y medidas de seguridad que se establecen en este Acuerdo General y en las políticas aplicables.
+
+Los certificados emitidos durante dicho periodo conservarán plena validez jurídica durante su vigencia y podrán renovarse conforme a las disposiciones previstas en el presente Acuerdo General.
+
+NOVENO. El OAJ podrá disponer, de manera excepcional, la realización del trámite de obtención por primera vez de un certificado digital de FIREL en línea en casos de emergencia sanitaria u otras circunstancias debidamente justificadas, conforme a las medidas de seguridad, identificación y protección de datos personales que determine la UNCOCEFI.
+
+DÉCIMO. La UNCOCEFI deberá actualizar y publicar las políticas, normas, condiciones generales del servicio, procedimientos y formatos necesarios para la implementación del presente Acuerdo General. Hasta en tanto se emitan o actualicen dichos instrumentos, continuarán aplicándose los vigentes en lo que no se opongan al presente Acuerdo General.
