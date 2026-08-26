@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2026-07-24"
+last_updated: "2026-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2026.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -2354,6 +2354,10 @@ X. Las demás que le confieran las leyes.
 ###### Art. 105.
 
 El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con la Constitución General de la República, la particular del Estado y las leyes que de una y otra emanen, de preferencia a las leyes secundarias aunque éstas sean posteriores.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2026)</small>
+
+La función judicial se regirá por los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad, perspectiva de género y respeto a los derechos humanos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JUNIO DE 2025)</small>
 
@@ -5174,3 +5178,11 @@ P.O. 24 DE JULIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 499 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
