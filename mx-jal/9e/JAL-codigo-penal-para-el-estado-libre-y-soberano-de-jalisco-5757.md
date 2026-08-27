@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2026-08-20"
+last_updated: "2026-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -889,9 +889,9 @@ IV. Remoción: consiste en la sustitución de los administradores por uno design
 
 V. Intervención: consiste en la vigilancia de las funciones que realizan los órganos de representación de la persona jurídica, intervenir en su funcionamiento y ejercer las atribuciones que la ley confiere al interventor, hasta por tres años.
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2026)</small>
 
-VI. Inhabilitación temporal o perpetua consistente en la suspensión de derechos para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, de manera directa, por interpósita persona o con capital proveniente de persona o personas sancionadas.
+VI. Inhabilitación temporal, consistente en la suspensión de derechos para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, de manera directa, por interpósita persona o con capital proveniente de persona o personas sancionadas.
 
 El juez de control o el tribunal tomarán las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros frente a la persona jurídica, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona jurídica sancionada.
 
@@ -2311,25 +2311,21 @@ IV. A los responsables de alguno de los delitos a que se refiere este título, i
 
 a) Será por un plazo de uno hasta diez años cuando no exista daño o perjuicio, ni exista beneficio o lucro alguno, para sí o para diversa persona o cuando el monto de la afectación o beneficio obtenido para sí o para diversa persona por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización; y
 
-(NOTA: EL 12 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2019 Y SU ACUMULADA 60/2019, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE MAYO DE 2019, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27265/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+b) Cuando el monto de la afectación o beneficio obtenido por la comisión del delito exceda el límite señalado en el inciso anterior, se aplicará inhabilitación de uno hasta diez años si el monto de la afectación no excede de doscientas veces el valor diario de la Unidad de Medida y Actualización, y de diez a veinte años si el monto excede de dicho límite. Cuando no se cause daños o perjuicios, ni exista beneficio o lucro alguno, se podrán imponer de tres meses a un año de inhabilitación.
 
-b) CUANDO EL MONTO DE LA AFECTACIÓN O BENEFICIO OBTENIDO POR LA COMISIÓN DEL DELITO EXCEDA EL LÍMITE SEÑALADO EN EL INCISO ANTERIOR, SE APLICARÁ LA INHABILITACIÓN (SIC) SERÁ DESDE LOS TREINTA AÑOS HASTA LA INHABILITACIÓN PERPETUA.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
-
-Cuando los delitos a que se refieren los artículos 145, 147, 148, 152 y 153 sean cometidos por servidores públicos electos popularmente o cuyo cargo se encuentre sujeto a ratificación del Congreso del Estado, las penas previstas serán aumentas (sic) hasta en un tercio;
+Cuando los delitos a que se refieren los artículos 145, 147, 148, 152 y 153 sean cometidos por servidores públicos electos popularmente o cuyo cargo se encuentre sujeto a ratificación del Congreso del Estado, las penas previstas se aumentarán hasta en un tercio;
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 Cuando los delitos a los que se refiere el presente título, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad;
 
-(NOTA: EL 12 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2019 Y SU ACUMULADA 60/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE MAYO DE 2019, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27265/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
-
-V. Cuando el responsable tenga el carácter de particular, sea persona física o jurídica, EL JUEZ DEBERÁ IMPONER LA SANCIÓN DE INHABILITACIÓN PERPETUA BAJO LOS TÉRMINOS ESTABLECIDOS EN LA FRACCIÓN IV DE ESTE ARTÍCULO.
+V. Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación de tres meses a ocho años cuando se trate de persona física, y de tres meses a diez años cuando se trate de persona moral.
 
 > <small>(REFORMADO SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2019)</small>
 
@@ -7536,3 +7532,9 @@ P.O. 20 DE AGOSTO DE 2026.
 TRANSITORIO ÚNICO (SIC)
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30145/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 54 Y 144 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, ASÍ COMO EL ARTÍCULO 117 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
