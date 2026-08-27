@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2026-06-02"
+last_updated: "2026-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2026.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -1895,13 +1895,11 @@ IV. El daño causado.
 
 3. Se considerará como falta grave por parte del proveedor, y en su caso, del adquirente, la falsificación de documentos.
 
-(NOTA: EL 12 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2019 Y SU ACUMULADA 60/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 117.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
-
-1. Los proveedores o participantes que hubieran sido sancionados por faltas graves previstas por la Ley General de Responsabilidades Administrativas quedarán inhabilitados para ser contratados por al menos tres meses y no más de 5 años, contando a partir de la fecha en que se emitió la sanción; CON EXCEPCIÓN DE LA INHABILITACIÓN PERPETUA POR RESOLUCIÓN ADMINISTRATIVA O EN SU CASO PENAL EJECUTORIADA EMITIDA POR HABER COMETIDO ACTOS DE CORRUPCIÓN.
+1. Los proveedores o participantes que hubieran sido sancionados por faltas graves previstas por la Ley General de Responsabilidades Administrativas quedarán inhabilitados para ser contratados de tres meses a ocho años cuando se trate de persona física, y de tres meses a diez años cuando se trate de persona moral.
 
 ###### Artículo 118.
 
@@ -2460,3 +2458,9 @@ P.O. 2 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30172/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30145/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 54 Y 144 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, ASÍ COMO EL ARTÍCULO 117 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
