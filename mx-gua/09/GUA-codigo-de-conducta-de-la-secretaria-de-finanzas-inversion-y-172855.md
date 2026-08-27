@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-conducta-de-la-secretaria-de-finanzas-inversion-y-172
 country: "mx"
 rank: "codigo"
 publication_date: "2024-04-24"
-last_updated: "2024-04-24"
+last_updated: "2026-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE FINANZAS, INVERSION Y ADMINISTRACION DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS, PUBLICADO EN EL P.O. DE 27 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS, INVERSIÓN Y ADMINISTRACIÓN DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2026 (ABROGADO).
 
 Código publicado en el Número 83 del Periódico Oficial del Estado de Guanajuato, el miércoles 24 de abril de 2024.
 
@@ -414,3 +416,17 @@ Aprobó el Órgano Interno de Control de la Secretaría de Finanzas, Inversión 
 Lic. Jorge Alberto Ríos Rangel
 
 Titular del Órgano Interno de Control
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Código iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato. Asimismo, se publicará en la página de internet oficial de la Secretaría de Finanzas.
+
+Abrogación
+
+Artículo Segundo. Se abroga el Código de Conducta de la Secretaría de Finanzas, Inversión y Administración, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 83, Segunda Parte, del 24 de abril de 2024.
