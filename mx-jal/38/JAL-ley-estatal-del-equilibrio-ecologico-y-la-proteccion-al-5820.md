@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2026-06-18"
+last_updated: "2026-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -1527,23 +1527,11 @@ El gobierno del estado o los gobiernos municipales, tomando como base los estudi
 
 En el caso de áreas naturales protegidas de carácter federal, deberá sugerirle a la federación lo conducente.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO DE 2 DE ABRIL DE 2026, PÁGINAS 11 Y 12.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 59 Bis.
 
 La explotación de recursos en áreas naturales protegidas deberá ser realizada únicamente por los propietarios o posesionarios de los predios, a su vez, el aprovechamiento de estas áreas deberá de ser realizado preferentemente por los dueños o posesionarios de los predios, lo anterior en concordancia con su respectivo programa de aprovechamiento.
-
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2026)</small>
-
-En el caso de que el propietario o poseedor de cualquier superficie dentro de un Área Natural Protegida sea una persona jurídica, no podrá tener algún objeto social que le permita realizar cualquier tipo de actividad que vaya en contra de la conservación y protección de dichas áreas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2026)</small>
-
-###### Artículo 59 Bis.
-
-La explotación o aprovechamiento de recursos en áreas naturales protegidas deberá ser realizada únicamente por los propietarios o posesionarios de los predios y en concordancia con su respectivo programa de aprovechamiento.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2026)</small>
 
@@ -2677,7 +2665,9 @@ Corresponde a la Procuraduría ejercer las atribuciones de inspección y vigilan
 
 El titular de la Procuraduría será designado por el Gobernador del Estado a propuesta del titular de la Secretaría.
 
-En las materias anteriormente señaladas que se encuentren reguladas por las leyes especiales, se aplicarán supletoriamente las disposiciones de la Ley del Procedimiento administrativo del Estado de Jalisco, y el Código de Procedimientos Civiles del Estado de Jalisco en lo que refiere a las pruebas.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2026)</small>
+
+En las materias anteriormente señaladas que se encuentren reguladas por las leyes especiales, se aplicarán supletoriamente las disposiciones de la Ley del Procedimiento administrativo del Estado de Jalisco, y el Código Nacional de Procedimientos Civiles y Familiares, en lo que refiere a las pruebas.
 
 ###### Artículo 117.
 
@@ -3770,3 +3760,9 @@ P.O. 18 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30190/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LAS FRACCIONES XXVIII, XL Y XLI Y ADICIONA LA FRACCIÓN XLII DEL ARTÍCULO 3, Y REFORMA LA FRACCIÓN II DEL ARTÍCULO 41 QUINQUIES, FRACCIÓN I DEL ARTÍCULO 41 SEXIES Y FRACCIÓN VII DEL ARTÍCULO 72, TODOS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30214/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 116 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
