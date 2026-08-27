@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2026-08-06"
+last_updated: "2026-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1872,6 +1872,22 @@ A falta de algún Síndico Propietario y de su Suplente, por licencia, muerte o 
 Las licencias de síndicos y regidores las concederá el Ayuntamiento, atendiendo a su reglamento respectivo.
 
 Para la designación de quien deba sustituir al Presidente Municipal, en caso de falta absoluta de éste y de su Suplente, se estará en lo dispuesto en el Artículo 64 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2026)</small>
+
+ARTÍCULO 75 BIS.- La reincorporación al cargo de las personas integrantes del Ayuntamiento que hayan solicitado licencia temporal se dará una vez finalizado el plazo concedido, integrándose de manera inmediata a su cargo, comunicando por escrito a la Secretaría del Ayuntamiento a efecto de informar a sus integrantes.
+
+Cuando las personas integrantes del Ayuntamiento con licencia decidan reincorporarse antes del vencimiento de la licencia temporal, deberán comunicarlo por escrito a la Secretaría del Ayuntamiento, para que ésta lo informe a sus integrantes. La reincorporación al cargo surtirá efectos al momento de su presentación.
+
+En el supuesto de que las personas integrantes del Ayuntamiento con licencia temporal no se presentaran al finalizar el plazo concedido, se considerará como licencia indefinida y continuará la persona suplente nombrada en funciones, procediéndose conforme a la ley.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2026)</small>
+
+ARTÍCULO 75 TER.- La reincorporación al cargo de las personas integrantes del Ayuntamiento que hayan solicitado licencia indefinida se dará una vez que se comunique por escrito a la Secretaría del Ayuntamiento para informar a sus integrantes. Dicha reincorporación surtirá efectos al momento de su presentación.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2026)</small>
+
+ARTÍCULO 75 QUATER.- Se consideran nulos los acuerdos o resoluciones del Ayuntamiento que nieguen la reincorporación de alguno de sus integrantes, salvo que exista resolución judicial o administrativa que impida la reincorporación a su cargo.
 
 ### CAPÍTULO DÉCIMO PRIMERO. LICENCIAS DE LOS SERVIDORES DE LA ADMINISTRACIÓN MUNICIPAL
 
@@ -5414,5 +5430,11 @@ SEGUNDO. Los Ayuntamientos de la entidad deberán efectuar las modificaciones y 
 P.O. 6 DE AGOSTO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 678 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE CREACIÓN DE COMISIONES ESPECIALES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 699 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE REINCORPORACIÓN AL CARGO DE LAS PERSONAS INTEGRANTES DEL AYUNTAMIENTO CON LICENCIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
