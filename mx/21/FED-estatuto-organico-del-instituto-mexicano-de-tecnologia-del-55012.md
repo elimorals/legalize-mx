@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-tecnologia-del-5501
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-04-13"
-last_updated: "2022-12-28"
+last_updated: "2026-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55012&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,694 +19,696 @@ issue_date: "2006-10-06"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DE TECNOLOGIA DEL AGUA
 
-> <small>[N. DE E. EL ACUERDO POR EL QUE SE DAN A CONOCER LAS REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO Y EL MANUAL DE ORGANIZACIÓN DEL INSTITUTO MEXICANO DE TECNOLOGÍA DEL AGUA, EXPEDIDO POR EL INSTITUTO MEXICANO DE TECNOLOGÍA DEL AGUA, PUBLICADO EN EL D.O.F. DE 28 DE DICIEMBRE DE 2022, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TABASCO
 
-ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE TECNOLOGÍA DEL AGUA
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2022.
+Reglamento publicado en el Suplemento del Periódico Oficial del estado de Tabasco, el miércoles 30 de marzo de 2005.
 
-Estatuto publicado en el Diario Oficial de la Federación, el viernes 13 de abril de 2007.
+LIC. MANUEL ANDRADE DÍAZ, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTICULOS 51 FRACCIÓN I DE LA CONSTITUCIÓN POLITICA LOCAL y 7 FRACCIÓN II DE LA .LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO, Y
 
-Al margen un logotipo, que dice: Instituto Mexicano de Tecnología del Agua.
+C O N S l D E R A N D O.
 
-La Junta de Gobierno del Instituto Mexicano de Tecnología del Agua, en su tercera sesión ordinaria del 6 de octubre de 2006, con fundamento en los artículos 15 y 58 fracción VIII de la Ley Federal de las Entidades Paraestatales, quinto, séptimo y sexto transitorio del Decreto por el que se crea el Instituto Mexicano de Tecnología del Agua publicado en el Diario Oficial de la Federación, y
+Por lo que he tenido a bien expedir el siguiente:
 
-CONSIDERANDO
+REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TABASCO
 
-Que con fecha treinta de octubre de 2001, se publicó en el Diario Oficial de la Federación el Decreto expedido por el ciudadano Presidente de los Estados Unidos Mexicanos, Vicente Fox Quesada, por el que se crea el Instituto Mexicano de Tecnología del Agua.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-Que el Instituto Mexicano de Tecnología del Agua se crea como un organismo público descentralizado con personalidad jurídica y patrimonio propios, cuya coordinación sectorial corresponderá a la Secretaría de Medio Ambiente y Recursos Naturales, quien dictará las políticas normativas, coordinará la programación y presupuestación, y conocerá la operación y los resultados, conservando el Instituto la autonomía de gestión para el cabal cumplimento de su objeto y de los objetivos y metas señalados en sus programas.
+###### ARTÍCULO 1.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2017)</small>
+El presente ordenamiento tiene por objeto reglamentar las disposiciones de la Ley del Notariado del Estado de Tabasco.
 
-Que mediante resolución conjunta de la Secretaría de Medio Ambiente y Recursos Naturales y del Consejo Nacional de Ciencia y Tecnología, publicada en el Diario Oficial de la Federación el 16 de diciembre de 2009, se reconoció al Instituto Mexicano de Tecnología del Agua como Centro Público de Investigación.
+###### ARTÍCULO 2.
 
-Que tiene como objeto realizar investigación, desarrollar, adaptar y transferir tecnología, prestar servicios tecnológicos y preparar recursos humanos calificados para el manejo, conservación y rehabilitación del agua y su entorno, a fin de contribuir al desarrollo sustentable.
+Son autoridades para la aplicación del presente Reglamento:
 
-Que al Instituto Mexicano de Tecnología del Agua se le otorgaron las funciones siguientes:
+I. El Gobernador del Estado;
 
-l. Realizar, orientar, fomentar, promover y difundir programas y actividades de investigación y de desarrollo, adaptación y transferencia de tecnología y de formación de recursos humanos calificados, que contribuyan a asegurar el aprovechamiento y manejo sustentable e integral del agua;
+II. El Secretario de Gobierno;
 
-II. Desarrollar proyectos de investigación y de educación y capacitación especializadas de interés para otras instituciones, los cuales se realizarán bajo convenios y contratos específicos;
+III. El Subsecretario de Gobierno y Asuntos Jurídicos;
 
-III. Prestar servicios de desarrollo, adaptación y transferencia de tecnología, de capacitación, de consultoría y asesoría especializadas, de información y difusión científica y tecnológica;
+IV. El Director General de Asuntos Jurídicos;
 
-IV. Impartir, de conformidad con el artículo 18 de la Ley General de Educación, estudios de postgrado en las áreas afines al objeto del Instituto Mexicano de Tecnología del Agua en coordinación con la Secretaría de Educación Pública; desarrollar y aplicar los planes y programas de estudio correspondientes, así como expedir los certificados y otorgar los diplomas, títulos y grados académicos respectivos;
+V. El Director del Archivo General de Notarías; y
 
-V. Brindar servicios especializados de laboratorio, de asesoría técnica, de elaboración de normas, de diseño, de información, de aseguramiento de calidad y de asimilación de tecnología a los sectores privado y social del país, así como a instituciones y organismos extranjeros e internacionales, en las áreas relacionadas con el manejo, conservación, rehabilitación y tratamiento del agua y recursos asociados al líquido;
+VI. Demás servidores públicos que se consideren para tal efecto y se establezcan en la legislación correspondiente.
 
-VI. Promover la educación y la cultura en torno al agua que fomente en la sociedad la conciencia de que el líquido es un bien escaso que requiere del cuidado de su cantidad y calidad, así como de su aprovechamiento sustentable y de la mitigación de sus efectos destructivos;
+###### ARTÍCULO 3.
 
-VII. Contribuir al desarrollo, difusión e implantación de aquellas tecnologías del agua que mejor se adapten a las condiciones del país;
+Para efectos de este Reglamento se entiende por:
 
-VIII. Realizar los desarrollos tecnológicos que el sector productivo demande o que la Administración Pública Federal considere necesarios;
+I. Ley: La Ley del Notariado del Estado de Tabasco;
 
-IX. Participar en la elaboración de anteproyectos de normas oficiales mexicanas y elaborar normas mexicanas, en materia del agua;
+II. Ejecutivo: Gobernador del Estado;
 
-X. Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales en el establecimiento, conforme a la Ley Federal sobre Metrología y Normalización, de los mecanismos de regulación para la evaluación de la conformidad y para la certificación de normas de calidad de sistemas, materiales, equipo y maquinaria asociados con el uso, aprovechamiento y tratamiento del agua;
+III. Secretaría: La Secretaría de Gobierno;
 
-XI. Promover y transferir las tecnologías desarrolladas y los resultados que se obtengan de las investigaciones;
+IV. Subsecretaría: La Subsecretaría de Gobierno y Asuntos Jurídicos;
 
-XII. Establecer relaciones de intercambio académico y tecnológico con instituciones y organismos mexicanos, extranjeros o internacionales;
+V. Dirección General: La Dirección General de Asuntos Jurídicos de la Secretaría de Gobierno;
 
-XIII. Otorgar becas para realizar estudios en el propio Instituto Mexicano de Tecnología del Agua, así como en instituciones afines nacionales o del extranjero;
+VI. Dirección: Dirección del Archivo General de Notarías;
 
-XIV. Proponer orientaciones de política hidráulica nacional, contribuir al fortalecimiento de la capacidad institucional del sector agua en México y coadyuvar en la solución de los problemas hidráulicos del país, y
+VII. Archivo: Archivo General de Notarías;
 
-XV. Ejecutar toda clase de actos y celebrar toda clase de contratos y convenios necesarios para el cumplimiento de su objeto, así como los demás que prevean su Decreto de creación y otros ordenamientos legales.
+VIII. Jurado: Cuerpo colegiado integrado por Servidores y Notarios Públicos para aplicar los exámenes de los aspirantes a la función notarial;
 
-Que el agua y los bosques se consideran asuntos de primera importancia en la seguridad nacional.
+IX. Colegio: Colegio de Notarios del Estado de Tabasco;
 
-Que la investigación, el desarrollo tecnológico y la formación de recursos humanos son fundamentales para aspirar a un desarrollo hidráulico sustentable de la nación.
+X. Reglamento: Reglamento de la Ley del Notario del Estado de Tabasco;
 
-Que el presente Estatuto tiene por objeto establecer las bases de organización, así como las facultades y atribuciones que correspondan a las distintas unidades administrativas que integran el Instituto y la manera de suplir, en su caso, las ausencias del Director General.
+XI. Días: Días Naturales;
 
-Que el Instituto requiere unidades responsables de realizar investigación, desarrollar, adaptar y transferir tecnología, preparar recursos humanos calificados y prestar servicios tecnológicos en materia de: hidráulica; hidrología; tratamiento y calidad del agua; riego y drenaje; comunicación, participación e información, y desarrollo profesional e institucional.
+XII. Notario: Profesional del Derecho investido de fe pública por el Ejecutivo para hacer constar los actos y hechos jurídicos a los que los interesados quieran o deban dar autenticidad conforme a las leyes y autorizado para intervenir en la formación de tales actos o hechos jurídicos o envistiéndolos de solemnidad y formas legales;
 
-Que las funciones sustantivas del Instituto no podrían darse sin una unidad responsable que administre los recursos humanos, materiales y financieros, y proporcione los servicios generales que requiera el propio Instituto.
+XIII. D.S.M.G.V.: Días de Salario Mínimo General Vigente en el Estado; (sic)
 
-Que se requiere un área responsable de coordinar los asuntos jurídicos que tenga como propósito dar seguridad jurídica a todas las actividades del Instituto.
+###### ARTÍCULO 4.
 
-Que en virtud de lo anterior se ha tenido a bien expedir el siguiente:
+El Notario Público es responsable de que la prestación del servicio se realice con estricto apego a las disposiciones de la Ley, este Reglamento y demás disposiciones legales aplicables.
 
-ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DE TECNOLOGIA DEL AGUA
+###### ARTÍCULO 5.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+Para la aplicación de la Ley, se entiende por adscripción, el Municipio para el cual fue creada la Notaría, en cuyo territorio el Notario debe establecer sus oficinas de acuerdo a su nombramiento.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+###### ARTÍCULO 6.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+Las Notarias se establecerán en locales adecuados y contarán con los elementos necesarios para realizar la función notarial.
 
-###### Artículo 1.
+En cada Notaría se colocará en el exterior, en lugar visible, un letrero con los datos siguientes:
 
-El Instituto Mexicano de Tecnología del Agua, que para los efectos del presente Estatuto se denominará “el Instituto”, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, coordinado sectorialmente por la Secretaría de Medio Ambiente y Recursos Naturales, que tiene a su cargo el ejercicio de las atribuciones que le otorga su Decreto de Creación, publicado en el Diario Oficial de la Federación con fecha 30 de octubre del 2001, este Estatuto Orgánico y demás disposiciones aplicables.
+I. Nombre del Notario de número y, en su caso el del adscrito o el del sustituto;
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+II. Número de la Notaría;
 
-###### Artículo 2.
+III. Horario en que desempeña sus funciones; y
 
-El presente Estatuto Orgánico tiene por objeto establecer las bases de organización, facultades y funciones que correspondan a las unidades administrativas que integran el Instituto y las suplencias de los servidores públicos.
+IV. En caso de Notarías asociadas, los nombres de éstos y las palabras "Notarios Asociados".
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+###### ARTÍCULO 7.
 
-###### Artículo 3.
+Los Notarios por ningún motivo podrán establecer oficinas fuera de su adscripción, para atender al público en trámites relacionados con la Notaría a su cargo, en caso contrario, se harán acreedores a la sanción administrativa que corresponda en términos de la Ley y este Reglamento.
 
-El Instituto para su administración contará con un Órgano de Gobierno, denominado Junta de Gobierno, y de un Director General.
+###### ARTÍCULO 8.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+El Notario debe guardar reserva sobre los asuntos pasados ante su fe, y estará sujeto a las disposiciones sobre el secreto profesional establecidas en la Legislación Penal.
 
-###### Artículo 4.
+### CAPÍTULO II. DEL EXAMEN DE SUFICIENCIA
 
-Para el cumplimiento del objeto y funciones del Instituto, se contará con las unidades administrativas siguientes:
+###### ARTÍCULO 9.
 
-I. Director General;
+La Secretaría por conducto de la Dirección General emitirá la Convocatoria para la celebración del Examen de Suficiencia para obtener la Patente de Notario, que se publicará en el Periódico Oficial del Estado y en un diario de mayor circulación de la Entidad. En la Convocatoria se determinarán las bases, el lugar, el día y hora en la que se realizará el examen.
 
-II. Coordinación de Seguridad Hídrica;
+La Convocatoria a que se refiere el presente artículo será expedida por el Ejecutivo cada vez que así lo considere necesario.
 
-III. Coordinación de Sistemas Hídricos;
+###### ARTÍCULO 10.
 
-IV. Coordinación de Calidad y Ecología del Agua;
+Los interesados deberán presentar directamente ante la Dirección General su solicitud firmada y acompañada de la documentación original a que se refieren los artículos 17 y 18 de la Ley con excepción del requisito señalado en la fracción X de ambos artículos, en la que se declare bajo protesta de decir verdad que los datos contenidos en ella son ciertos y que el firmante nunca ha sido condenado mediante Sentencia Ejecutoriada por delito doloso que merezca pena corporal.
 
-V. Coordinación de Gobernanza del Agua y Fortalecimiento de Capacidades;
+###### ARTÍCULO 11.
 
-VI. Unidad de Vinculación y Asuntos Internacionales;
+La Secretaría por conducto de la Dirección General resolverá dentro de los veinte días hábiles siguientes a la conclusión de la fecha de recepción, la solicitud requisitada; así mismo, se dará a conocer a los interesados, por estrados, las que fueron aceptadas o rechazadas por no haber cumplido los requisitos señalados en los artículos 17 y 18 de la Ley. De igual manera se hará del conocimiento del Colegio, el resultado de la calificación de las solicitudes.
 
-VII. Unidad de Administración y Finanzas, y
+###### ARTÍCULO 12.
 
-VIII. Unidad Jurídica.
+Para la elaboración de la prueba práctica, a más tardar tres días posteriores a la resolución de las solicitudes de examen, el Director General comunicará al Presidente del Colegio, cuantos solicitantes fueron aceptados, para que en un plazo no mayor de cinco días envíe la propuesta de los temas o casos prácticos a resolver; los cuales serán aprobados por la Dirección General, posterior a ello, se resguardarán en sobre cerrado.
 
-Los responsables de las unidades administrativas señaladas acordarán con el Director General el despacho de los asuntos que les competan.
+###### ARTÍCULO 13.
 
-Las Unidades Administrativas para el despacho de sus asuntos y ejercicio de sus atribuciones, podrán auxiliarse por el personal que se requiera para el desarrollo y cumplimiento de las mismas.
+En el examen para obtener la Constancia de Aspirante a la Función Notarial, se observarán los lineamientos siguientes:
 
-El Instituto contará con las demás unidades que figuren en su estructura orgánica, cuyas funciones deberán señalarse en el Manual General de Organización del Instituto.
+I. Si transcurrido quince minutos del día y hora señalados para el examen, no se encuentran presentes la mayoría de los miembros propietarios del jurado, no tendrá verificativo el examen asentándose lo anterior en el acta que para ello se elabore, enviándosele una copia al superior del faltista. En este caso, los miembros del jurado que hayan asistido, fijarán nueva fecha y hora para la realización del examen, lo que se notificará a los sustentantes en ese momento;
 
-Asimismo, el Instituto contará con un Órgano Interno de Control, así como con un Órgano de Vigilancia que se regirán de conformidad con lo dispuesto en los artículos 21 y 22 de este Estatuto.
+II. Si alguno de los sustentantes no concurre el día y la hora señalados para la celebración del examen, perderá el derecho a presentarlo, pudiendo solicitarlo nuevamente en la siguiente convocatoria a la que tuvo lugar dicha omisión;
 
-El titular de la Unidad de Administración y Finanzas es designado y removido por la Secretaría de Hacienda y Crédito Público, en términos del artículo 31, fracción XXII, de la Ley Orgánica de la Administración Pública Federal.
+III. Los sustentantes presentarán la prueba práctica y la teórica por orden que determine el Presidente del Jurado;
 
-La persona titular de la Unidad Jurídica será nombrada y en su caso, removida, por la persona titular de la Consejería Jurídica del Ejecutivo Federal, en concordancia con lo establecido en el artículo 43, fracción VII de la Ley Orgánica de la Administración Pública Federal.
+IV. El Presidente del Jurado resolverá los incidentes que se presenten en la realización del examen;
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+V. Para emitir la calificación, el Jurado tomará en cuenta además de los conocimientos jurídicos del sustentante, la precisión que demuestre al responder las preguntas de los Sinodales;
 
-###### Artículo 5.
+VI. Al finalizar la parte teórica, sin la presencia del sustentante, cada uno de los integrantes del Jurado emitirá por escrito su calificación en la escala de 0 a 10 de las dos etapas del examen, lo que se sumará y se dividirá entre los miembros del jurado presente para obtener el resultado final de las pruebas;
 
-Para el ejercicio de sus atribuciones, las Coordinaciones y Unidades se integrarán conforme a lo siguiente:
+VII. Los sustentantes que no obtengan la calificación de aprobados, quedarán impedidos para presentar otro examen durante los seis meses siguientes de la fecha de la presentación del mismo; y
 
-I. Coordinación de Seguridad Hídrica:
+VIII. Contra el resultado de la evaluación emitida por el Jurado calificador no procederá impugnación alguna.
 
-a. Subcoordinación de Agua, Territorio y Asuntos Transfronterizos;
+###### ARTÍCULO 14.
 
-b. Subcoordinación de Agua y Alimentos;
+Para la obtención de la Constancia de Aspirante para la función notarial la calificación promedio mínima de aprobación del examen será de 8.
 
-c. Subcoordinación de Agua, Energía y Proyectos Productivos, y
+###### ARTÍCULO 15.
 
-d. Subcoordinación de Eventos Extremos y Cambio Climático.
+El Secretario del Jurado levantará un acta al final del examen en la que se hará constar el nombre del sustentante, el lugar, la fecha y el resultado del examen, el nombre y firma de los miembros del jurado.
 
-II. Coordinación de Sistemas Hídricos:
+### CAPÍTULO III. DE LAS LICENCIAS, LOS CONVENIOS DE SUPLENCIAS O DE ASOCIACIÓN Y DE LAS PERMUTAS
 
-a. Subcoordinación de Experimentación Física e Innovación Tecnológica;
+###### ARTÍCULO 16.
 
-b. Subcoordinación de Gestión de Aguas Subterráneas;
+La solicitud de licencia deberá presentarse por escrito al Ejecutivo cuando menos con cinco días hábiles de anticipación a la fecha en que pretenda separase del ejercicio de la función Notarial en la que se expresará la causa de la misma.
 
-c. Subcoordinación de Aguas Superficiales y Oceánicas, y
+###### ARTÍCULO 17.
 
-d. Subcoordinación de Sistemas Hidráulicos e Infraestructura Verde.
+La licencia que otorgue el Ejecutivo será renunciable en cualquier momento, debiendo el interesado notificar a éste tal efecto y la fecha de reinicio de sus funciones, que será publicado en el Periódico Oficial.
 
-III. Coordinación de Calidad y Ecología del Agua:
+###### ARTÍCULO 18.
 
-a. Subcoordinación de Potabilización;
+Para el caso de Notarios asociados, continuarán con el orden consecutivo de los volúmenes de la Notaría más antigua; en los instrumentos autorizados por Notarios asociados, se deberá hacer mención de que actúan con ese carácter.
 
-b. Subcoordinación de Sistemas de Saneamiento y Reutilización de Aguas Residuales;
+###### ARTÍCULO 19.
 
-c. Subcoordinación de Monitoreo y Evaluación de Calidad del Agua, y
+Mientras se encuentre vigente el convenio, ambos Notarios firmarán las razones de apertura y de clausura ordinaria en los volúmenes que integren su protocolo.
 
-d. Subcoordinación de Ecohidrología y Rehabilitación.
+###### ARTÍCULO 20.
 
-IV. Coordinación de Gobernanza del Agua y Fortalecimiento de Capacidades:
+Los convenios de asociación y terminación de los mismos, surtirán efectos legales al día siguiente de su publicación en el Periódico Oficial.
 
-a. Subcoordinación de Participación Ciudadana y Derechos Humanos;
+###### ARTÍCULO 21.
 
-b. Subcoordinación de Políticas Públicas y Economía del Agua;
+Los interesados en obtener la autorización de la permuta a que se refiere el artículo 30 de la Ley por la Titularidad de Notarias, harán lo siguiente:
 
-c. Subcoordinación de Posgrado y Educación Continua, y
+Presentarán por escrito su solicitud al Secretario a través de la Dirección General, expresando las causas por las que se pretende llevar a cabo la permuta;
 
-d. Subcoordinación de Comunicación, Divulgación y Cultura del Agua.
+I. Ambos interesados deberán firmar la solicitud; y
 
-V. Unidad de Vinculación y Asuntos Internacionales:
+II. Con la solicitud se deberán acompañar los documentos siguientes:
 
-a. Subdirección de Vinculación Institucional;
+a. El Proyecto de Convenio de Permuta;
 
-b. Subdirección de Asuntos Internacionales;
+b. El inventario de todos los libros que conforme a la Ley se encuentren utilizando los Notarios, los documentos privados y los valores depositados, los testamentos cerrados que estuviesen en guarda, con la expresión del estado de sus cubiertas y sellos, los títulos, expedientes y cualquier otro documento de su archivo y clientela;
 
-c. Subdirección de Inteligencia e Información Tecnológica, y
+c. Original de la Constancia, expedida por el Director General, de que los permutantes se encuentran en funciones, que no estén sujetos a procedimientos de suspensión o cesación, que no existe queja vigente en contra de ellos y de haber cumplido, en su caso, con todas las observaciones que se les hubieren formulado en las actas de visitas o inspecciones efectuadas; y
 
-d. Subdirección de Proyectos Estratégicos.
+d. Los recibos correspondientes que demuestran estar al corriente del pago de impuestos tanto Federales como Estatales.
 
-VI. Unidad de Administración y Finanzas:
+La Secretaría a través de la Dirección General podrá hacer observaciones a la solicitud o a sus anexos, dentro de los cinco días posteriores a su presentación, concediendo un término, a los permutantes de tres días, a partir de la notificación, para que las subsanen.
 
-a. Subdirección de Desarrollo Humano;
+Si transcurrido el plazo no se subsanan las observaciones, se tendrá por no solicitada la permuta, y podrán solicitarla seis meses después de la declaración correspondiente.
 
-b. Subdirección de Recursos Materiales;
+La Secretaría a través de la Dirección General, si no se hicieren observaciones, resolverá dentro de los veinte días siguientes a la presentación de la solicitud o de haber sido subsanadas.
 
-c. Subdirección de Recursos Financieros, y
+Si la solicitud de permuta es aprobada por el Ejecutivo, se procederá a la clausura del o los protocolos de las Notarías de los permutantes, con la intervención de un representante del Ejecutivo designado por el Director General y uno del Colegio designado por su Presidente. El sello de cada Notario será remitido a la Dirección para su destrucción.
 
-d. Subdirección de Informática y Telecomunicaciones.
+El Interventor que represente al Ejecutivo, al cerrar los libros del protocolo, procederá a poner razón en cada libro la causa que motive al acto y agregará todas las circunstancias que estime convenientes, suscribiendo dicha razón con su firma.
 
-VII. Unidad Jurídica:
+Tratándose del Protocolo Abierto, lo señalado en el párrafo anterior se asentará en hoja adicional, en la que además se precisará el número de folios sin utilizar que tenga el Notario y se agregará a éstos.
 
-a. Subgerencia de Servicios Jurídicos;
+El Interventor deberá verificar el inventario presentado por los permutantes, en caso de no coincidir se les otorgará un plazo de cuarenta y ocho horas para subsanar las observaciones.
 
-b. Subgerencia de Asuntos Contenciosos, y
+Los permutantes al tomar posesión dentro del término señalado en el párrafo tercero del artículo 30 de la ley, deberán notificarlo por escrito al Ejecutivo, lo que deberá publicarse en el Periódico Oficial del Estado, y se comunicará a las autoridades señaladas en el artículo 25 de la Ley.
 
-c. Subgerencia de Legislación y Consulta.
+Para iniciar sus funciones los permutantes deberán cumplir con los requisitos previstos en los artículos 24, 26, 38 y 39 de la Ley.
 
-Además, el Instituto contará con las unidades subalternas que se requieran y le sean autorizadas, conforme a su presupuesto aprobado y al dictamen que emita la Junta de Gobierno a instancia del Director General.
+### CAPÍTULO IV. DEL SELLO
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+###### ARTÍCULO 22.
 
-###### Artículo 6.
+La Secretaría por conducto de la Dirección General, autorizará el sello para que el Notario realice sus funciones. El uso del sello está reservado en forma exclusiva al Notario, quien no podrá utilizar otro.
 
-Los trabajadores del Instituto estarán incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+###### ARTÍCULO 23.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+En caso de pérdida, alteración o destrucción del sello, el Notario deberá notificar a la Secretaría, a la Dirección General, a la Dirección y al Colegio; tratándose de robo deberá, además presentar dentro de las cuarenta y ocho horas siguientes de tener conocimiento, denuncia ante el Ministerio Público que corresponda, notificándolo a las citadas autoridades.
 
-###### Artículo 7.
+###### ARTÍCULO 24.
 
-El Instituto tendrá una Junta de Gobierno, que será la máxima autoridad del organismo, con fundamento en los artículos 15,17, 18, 19 y 20 de la Ley Federal de las Entidades Paraestatales y estará integrada en los términos que señala el artículo 6 del Decreto de Creación del Instituto. En las sesiones de la Junta de Gobierno participarán con voz, pero sin voto, los Comisarios Propietario y Suplente a que hace referencia el artículo 21 de este Estatuto.
+El Notario que vaya a dejar de ejercer sus funciones por un término mayor a treinta días, deberá entregar su sello a la Dirección, dando aviso a la Secretaría y a la Dirección General.
 
-Podrán participar, en calidad de invitados, con voz pero sin voto, los titulares de las unidades administrativas del Instituto mencionadas en el artículo 4 de este Estatuto y el Titular del Órgano Interno de Control.
+###### ARTÍCULO 25.
 
-La Junta de Gobierno contará con un Secretario, que será el Titular de la Unidad Coordinadora de Asuntos Jurídicos de la Secretaría de Medio Ambiente y Recursos Naturales, y con un Prosecretario, que será el Titular de la Unidad de Vinculación y Asuntos Internacionales del Instituto. El Secretario y el Prosecretario participarán en las sesiones de la Junta de Gobierno con voz, pero sin voto.
+El Notario deberá notificar a la Secretaría, a la Dirección General, al Archivo y al Colegio los cambios significativos que efectúen a su firma durante el transcurso del tiempo.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+###### ARTÍCULO 26.
 
-###### Artículo 8.
+Para los efectos de los dispuesto en el artículo 28 de este Reglamento, el nuevo sello del que se provea el Notario deberá llevar un signo que lo distinga del anterior; obtenido el nuevo sello, lo informará de inmediato a la Secretaría, a la Dirección General; a la Dirección y al Colegio, mediante escrito en el que conste la impresión del mismo para su registro.
 
-La Junta de Gobierno del Instituto tendrá las atribuciones indelegables que le otorga la Ley de Ciencia y Tecnología, el artículo 7 del Decreto de Creación del Instituto y demás disposiciones jurídicas aplicables. De manera supletoria, se sujetará a lo dispuesto en la Ley Federal de las Entidades Paraestatales y su Reglamento.
+###### ARTÍCULO 27.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+El sello que se recupere no podrá ser usado por el Notario si ya tiene autorizado el nuevo y deberá entregarlo a la Dirección en forma inmediata para su destrucción.
 
-### CAPÍTULO SEGUNDO. DE LA ESTRUCTURA ORGÁNICA
+El Director en su caso procederá a la destrucción del sello del Notario, en los términos establecidos por la Ley y el presente Reglamento.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+En caso de licencia o suspensión, el sello se remitirá a la Dirección para su depósito mientras subsistan éstas.
 
-###### Artículo 9.
+En todos los casos, el Director hará constar en acta tal hecho debiendo remitir copia a la Dirección General, a la Notaría de que se trate y al Colegio, en un término que no excederá de veinticuatro horas, contadas a partir del acto.
 
-La Junta de Gobierno del Instituto se reunirá cuando menos dos veces al año, de acuerdo con un calendario que será aprobado en la última sesión ordinaria del ejercicio anterior, pudiendo además celebrar las sesiones extraordinarias que sean necesarias. Para su legal integración se requerirá de la asistencia de la mitad más uno de sus integrantes. De cada sesión se levantará el acta respectiva que contendrá los asuntos que se desahoguen y se circunstanciarán los incidentes que resulten.
+###### ARTÍCULO 28.
 
-Para los efectos de las sesiones ordinarias, se deberá convocar a los integrantes de la Junta de Gobierno por conducto del Prosecretario, por lo menos con cinco días hábiles de anticipación, por escrito, acompañado del orden del día y la documentación correspondiente.
+Para la expedición del holograma a que se refiere el artículo 40 de la Ley que se utilicen en los testimonios, los Notarios deberán proponer al Ejecutivo para su autorización las características del mismo por conducto del Colegio.
 
-En caso de las sesiones extraordinarias, se deberá convocar a los integrantes de la Junta de Gobierno por conducto del Prosecretario, por lo menos con tres días hábiles de anticipación, por escrito, acompañado del orden del día y la documentación correspondiente.
+Para la impresión de los hologramas, previa autorización, cada Notario solicitará por escrito al Director, la cantidad que considere va a utilizar.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+Los hologramas estarán bajo la guarda y custodia del Director.
 
-###### Artículo 10.
+Para la entrega de los hologramas, el Director enviará un aviso al Notario correspondiente para que asista, dentro de los cinco días hábiles siguientes de recibido el aviso, para que previo el pago correspondiente, le hagan entrega de los hologramas solicitados.
 
-El funcionamiento de la Junta de Gobierno se sujetará a lo dispuesto en los artículos 53 y 56 de la Ley de Ciencia y Tecnología. De mantera supletoria, se sujetará en lo dispuesto en la Ley Federal de las Entidades Paraestatales y su Reglamento.
+El Director deberá detallar en el recibo que firmará el Notario la cantidad de hologramas que entrega, de que folio a que folio y el estado en que se encuentran.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+Si alguno de los hologramas estuviere deteriorado el Director levantará un Acta Circunstanciada y lo resguardará en la Dirección.
 
-###### Artículo 11.
+La Dirección llevará un registro de las solicitudes de impresión y autorización de los hologramas.
 
-El Director General, además de las atribuciones previstas en los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales y en su Reglamento, así como en el artículo 10 de su Decreto de Creación y demás disposiciones aplicables, tendrá las siguientes:
+### CAPÍTULO V. DEL PROTOCOLO, DEL APÉNDICE Y DEL REGISTRO DE CERTIFICACIONES
 
-I. Dirigir técnica y administrativamente el Instituto;
+###### ARTÍCULO 29.
 
-II. Emitir opiniones, asesorar, formular y proponer iniciativas en materia de política hidráulica y ambiental, así como sobre la actualización del marco jurídico correspondiente;
+Para que los Notarios sean autorizados por el Ejecutivo a través de la Secretaría, para que guarde los volúmenes por un tiempo mayor al que indica el artículo 45 de la Ley, procederá de la siguiente manera:
 
-III. Expedir los acuerdos, políticas y procedimientos internos, lineamientos, circulares y demás disposiciones de carácter estratégico, organizacional y administrativo, así como para la evaluación del desempeño de las unidades administrativas y empleados del Instituto, y para el funcionamiento del servicio civil de carrera en el mismo;
+I. Deberá presentar la solicitud por escrito, treinta días antes de concluir el término señalado en el artículo antes citado, y contendrá:
 
-IV. Expedir el Reglamento Interno de Trabajo del Instituto, de conformidad con las disposiciones jurídicas aplicables;
+a) Nombre completo del Notario;
 
-V. Nombrar y remover a los servidores públicos del Instituto, en los casos que no correspondan a la Junta de Gobierno;
+b) Número de la Notaría de la que es Titular, Adscrito o Substituto;
 
-VI. Expedir y mantener actualizado el manual de organización del Instituto e informar de ello a la Junta de Gobierno;
+c) Domicilio en que está ubicada la Notaría;
 
-VII. Promover los servicios que preste el Instituto conforme a su objeto y funciones, así como establecer las alianzas estratégicas y suscribir los convenios que para el efecto se requieran;
+d) Especificar si es Titular, Adscrito o Substituto;
 
-VIII. Suscribir acuerdos y bases de colaboración, convenios de coordinación o de concertación y de cooperación técnica y científica; y en general, todos aquellos actos en que el Instituto sea parte y, en su caso, designar al servidor público que deba suscribirlo en su representación;
+e) Indicar el tiempo que pretende seguir guardando el o los protocolos;
 
-IX. Suscribir, en el ámbito de su competencia y en coordinación con la Secretaría de Relaciones Exteriores, de conformidad con la legislación aplicable, los acuerdos interinstitucionales a formalizarse con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales, cualquiera que sea su denominación, sea que deriven o no de un tratado previamente aprobado;
+f) La cantidad de protocolos que pretenda seguir guardando;
 
-X. Establecer las políticas que normen, ordenen y agilicen la relación entre el Instituto y la Secretaría de Medio Ambiente y Recursos Naturales, sus órganos desconcentrados, así como con los sectores social y privado, y con los tres niveles de gobierno;
+g) Detallar el contenido del o de los protocolos que pretenda seguir guardando; y
 
-XI. Designar a los representantes del Instituto que deban participar en foros nacionales e internacionales y establecer los lineamientos conforme a los cuales dichos representantes deben actuar;
+h) La o las causas por las que pretende seguir guardando el o los protocolos.
 
-XII. Proponer a la Junta de Gobierno el sistema de indicadores del desempeño y gestión del Instituto, así como proponer cambios en la organización o en su proceso;
+II. Dentro de un plazo de cinco días a partir del día siguiente de la presentación de la solicitud, la Secretaría a través de la Dirección, resolverá sobre la autorización o no de lo solicitado;
 
-XIII. Proponer a la Junta de Gobierno las medidas necesarias para el eficaz cumplimiento del Plan Nacional de Desarrollo y demás disposiciones en materia de planeación y descentralización con un enfoque de sustentabilidad;
+III. En caso de ser negada la solicitud, el Notario procederá a lo exigido por el artículo 45 primer párrafo de la Ley;
 
-XIV. Resolver los asuntos administrativos que le correspondan, de acuerdo con la legislación aplicable;
+IV. En caso de ser aprobada la solicitud se procederá a lo siguiente:
 
-XV. Resolver las dudas que se susciten sobre la interpretación o aplicación de este Estatuto y sobre los casos no previstos en él;
+a) El Director del Archivo lo hará del conocimiento del Notario solicitante a más tardar el día siguiente al de haber sido aprobada la solicitud;
 
-XVI. Proponer a la Junta de Gobierno el establecimiento de bases y lineamientos a los que deberán sujetarse las unidades administrativas del Instituto para favorecer el acceso abierto a la información científica, tecnológica y de innovación que democratice la información en todos los niveles y sectores del país;
+b) El Director levantará un acta en la que especificará el estado que guarda el o los protocolos, que se van a seguir guardando por el Notario, debiendo firmas éste último;
 
-XVII. Establecer relaciones de intercambio científico y tecnológico con instituciones y organismos mexicanos, extranjeros o internacionales, y suscribir los convenios que para el efecto se requieran, y
+V. El término empezará a contar a partir del día siguiente al de haber concluido el especificado en el artículo 45 de la Ley.
 
-XVIII. Elaborar el proyecto de la parte que le corresponda al Instituto, para su integración al documento del sector respecto del Informe Presidencial.
+### CAPÍTULO VI. DEL PROTOCOLO ABIERTO
 
-El Director General podrá designar a un representante que asistirá a las reuniones a las que sea convocado para tratar asuntos de interés institucional, así como a aquellas en las que exista competencia concurrente con otras dependencias o entidades de la Administración Pública Federal.
+###### ARTÍCULO 30.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+El protocolo abierto se integrará por los folios que son las hojas numeradas, selladas y autorizadas que serán cronológicamente utilizadas y ordenadas y sólidamente empastadas para constituir los libros. Cada folio se utilizará por ambas caras, constituyéndose por dos páginas.
 
-###### Artículo 12.
+Los folios son propiedad del Estado, quedando su manejo bajo la estricta responsabilidad del Notario, durante el tiempo que deba conservarlos en términos de la Ley y este Reglamento.
 
-El Director General podrá delegar cualquiera de sus funciones en otros servidores públicos del Instituto, sin perjuicio de ejercerlas directamente, con excepción de aquellas facultades que por disposición legal expresa o determinación de la Junta de Gobierno le correspondan exclusivamente.
+###### ARTÍCULO 31.
 
-Para los efectos anteriores, el Director General podrá otorgar poderes generales y especiales con las facultades que le competan; entre ellas, las que requieran autorización o cláusula especial, así como sustituirlos y revocarlos.
+La solicitud que hagan los Notarios a la Secretaría a través de la Dirección, para la impresión y autorización de los folios, se hará en los formatos aprobados por ésta.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+###### ARTÍCULO 32.
 
-###### Artículo 13.
+La Secretaría llevará un registro de las solicitudes de impresión y autorización de los folios por cada notaría.
 
-Los titulares de las unidades administrativas mencionadas en el artículo 4 del presente Estatuto, tendrán las facultades genéricas siguientes:
+###### ARTÍCULO 33.
 
-I. Acordar con el Director General, el despacho de los asuntos que les competen;
+Los folios podrán ser adquiridos por el notario, previo el pago correspondiente en la Secretaría de Finanzas. Serán autorizados por la Dirección mediante perforaciones, código de barras o cualquier otro medio indubitable que impida su falsificación, cuando cumplan con los requisitos legales y la numeración sea correcta.
 
-II. Desempeñar las funciones y las comisiones que el Director General les delegue o encomiende;
+###### ARTÍCULO 34.
 
-III. Someter a la consideración del Director General estudios y proyectos de disposiciones jurídicas, así como lineamientos y políticas que en el ámbito de su responsabilidad se elaboren para el mejor funcionamiento de la entidad;
+Cada folio autorizado llevará el escudo del Estado de Tabasco el que será visible al utilizar luz negra.
 
-IV. Planear, programar, dirigir y coordinar los mecanismos de integración e interrelación que propicien el adecuado desempeño de las labores administrativas subalternas;
+###### ARTÍCULO 35.
 
-V. Proponer al Director General políticas, lineamientos técnicos y administrativos, sistemas y procedimientos para el óptimo desempeño de las unidades administrativas que tengan adscritas, en el cumplimiento de los programas aprobados por la Junta de Gobierno;
+Los folios que compongan los libros o volúmenes del protocolo abierto, debe hacerse por el orden riguroso de la numeración de la escritura, de acuerdo con el orden de su presentación en el tiempo. La numeración será progresiva desde el primer libro, aun cuando no pase alguno de dichos instrumentos.
 
-VI. Proponer al Director General las políticas, lineamientos, sistemas y procedimientos que deban regular a las unidades administrativas que tengan adscritas, comunicar a estas los acuerdos respectivos, apoyar técnicamente la desconcentración y delegación de funciones de dichas unidades;
+###### ARTÍCULO 36.
 
-VII. Proporcionar la información que solicite el público, de acuerdo con la legislación aplicable y de conformidad con los lineamientos que emita la Junta de Gobierno;
+En la formación de un volumen, el Notario hará constar su nombre, número y lugar donde esté situada la Notaría, la fecha en que se inicia y el número del libro que le corresponde dentro de la serie de las que sucesivamente se ha formado en la Notaría a su cargo. La hoja en que se asiente la razón a que se refiere este artículo no irá foliada y se encuadernará antes del primer folio del libro, y deberá ser firmada por el Notario o por quien lo sustituya en sus funciones e imprimirá el sello de autorizar.
 
-VIII. Resolver los recursos administrativos que conforme a las disposiciones legales y reglamentarias les corresponda;
+###### ARTÍCULO 37.
 
-IX. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que les sean señalados por delegación, encomienda o les corresponda por suplencia;
+Cuando el titular de la Notaría no actúe por cualquier circunstancia, el que va a actuar asentará, a continuación del último instrumento utilizado por el titular, su nombre, apellidos, firma y sello de autorizar, así como la razón de su actuación.
 
-X. Recibir, en acuerdo ordinario, a los titulares de las unidades administrativas que tengan adscritas y, en acuerdo extraordinario, a cualquier otro servidor público subalterno;
+###### ARTÍCULO 38.
 
-XI. Planear, programar, organizar, dirigir y evaluar el funcionamiento de las unidades subalternas que tengan adscritas, informando al Director General de las actividades que estas realicen;
+Los instrumentos deberán asentarse en los folios que integran el volumen del Protocolo, manuscritos, a máquina o por cualquier procedimiento mecánico, electrónico o de reproducción legible o indeleble, y no deberá por ningún concepto una vez asentado un acto en el folio correspondiente, borrarse o sustituirse por otro.
 
-XII. Coordinar la elaboración del anteproyecto de presupuesto de la unidad administrativa y de las unidades subalternas de su adscripción, remitirlo a la Unidad de Administración y Finanzas para su análisis y, una vez aprobado, supervisar su correcta aplicación;
+###### ARTÍCULO 39.
 
-XIII. Coordinarse con las unidades administrativas para el mejor desempeño de sus facultades;
+Todo instrumento deberá iniciar en el anverso del folio. Entre un instrumento y otro no habrá más espacio que el indispensable para las firmas, autorizaciones y sellos. Si quedare después de lo anterior algún espacio en blanco, éste deberá inutilizarse con líneas trazadas con tinta que eviten el uso de dicho espacio, en caso de no hacerlo será motivo de sanción.
 
-XIV. Someter a la aprobación del Director General los proyectos y estudios que se elaboren en su ámbito de competencia, las propuestas de modernización, desconcentración y simplificación administrativa de la unidad administrativa y de las unidades subalternas de su adscripción;
+###### ARTÍCULO 40.
 
-XV. Vigilar que se cumpla con las disposiciones legales concernientes a los asuntos de su competencia;
+En caso de extravío o robo de los folios, el Notario o quien lo sustituya en sus funciones, deberá presentar la denuncia correspondiente ante el Ministerio Público dentro de los tres días hábiles siguientes a que se tenga noticia del hecho, haciéndolo del conocimiento de la Dirección, de la Dirección General y de la Secretaría. En caso de destrucción e inutilización total o parcial de los folios, en el mismo plazo, deberá dar aviso a las citadas Dependencias.
 
-XVI. Someter a la consideración del Director General los convenios, contratos, acuerdos, bases de colaboración y anexos de ejecución a celebrarse con dependencias, organismos desconcentrados y entidades federales, con organismos internacionales, nacionales, públicos o privados, con gobiernos estatales y municipales, así como con los sectores social y privado, en las materias de su competencia;
+Encontrándose en los anteriores supuestos el Notario o quién lo sustituya en funciones deberá hacer la aclaración en el cierre del libro correspondiente y sustituirá los folios dañados con los que le sigan progresivamente.
 
-XVII. Proponer al Director General el nombramiento y remoción de su personal de apoyo, así como de los servidores públicos de las unidades subalternas de su adscripción, distintas a los que competan a la Junta de Gobierno;
+###### ARTÍCULO 41.
 
-XVIII. Promover la obtención de recursos en dinero o especie, para impulsar el desarrollo del Instituto, conforme a su objeto y funciones;
+Sólo el Notario podrá sacar de la notaría los folios, volúmenes o sus apéndices, ya sea que los mismos estén en uso o ya concluidos, exclusivamente en los casos determinados por la Ley o para recabar firmas de las partes dentro de la jurisdicción, cuando éstas no puedan asistir a la Notaría y el Notario esté en disponibilidad de salir a recabarlas. Los notarios no podrán ejercer su función más allá de los límites territoriales del estado.
 
-XIX. Representar al Instituto ante organismos, consejos, comisiones, comités, eventos y grupos de trabajo, tanto en el ámbito nacional como internacional, en los que el Instituto tenga representatividad, en los términos que se establezcan en los compromisos, acuerdos y convenios, cuando lo disponga el Director General;
+###### ARTÍCULO 42.
 
-XX. Participar en la promoción y comercialización de los servicios que preste el Instituto, conforme a su objeto y funciones;
+Cuando el Notario constate que ha asentado el último instrumento que conformará el volumen, cerrará el mismo dentro de un plazo de treinta días naturales contados a partir de la fecha del último instrumento. El cierre expresará el lugar, día y hora en que se realiza, el número de folios utilizados, las aclaraciones a que se refiere el artículo anterior. el número de instrumentos autorizados y el de los que no pasaron, así como los que quedan pendientes de autorización relacionando aquellos y expresando el motivo de estar pendientes éstos, haciendo referencia de la fecha y número ordinal de la última escritura del libro objeto del cierre y autorizará con su firma y sello.
 
-XXI. Las demás que les señalen otras disposiciones legales o reglamentarias, aquellas que instruya el Director General dentro del ámbito de sus facultades y de las atribuciones de las unidades subalternas de su adscripción.
+###### ARTÍCULO 43.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+A partir de la fecha de clausura a que hace alusión el artículo 62 fracción VI de la Ley, el Notario dispondría de un plazo de 60 días para encuadernarlo sólidamente y empastarlo.
 
-###### Artículo 14.
+Dentro de los cinco días hábiles siguientes a la fecha en que deba estar encuadernado y empastado el libro, el Notario lo enviará a la Dirección del Archivo General de Notarias, para el efecto de que el titular de dicha dependencia, previa verificación de la exactitud de las razones del cierre, extienda la certificación que corresponda, inutilizando en su caso por medio de líneas cruzadas, las páginas y espacios que hubieren quedado en blanco y devolverá el libro al Notario dentro de los 5 días siguientes, contados a partir del aviso correspondiente.
 
-La Coordinación de Seguridad Hídrica, estará a cargo de un Coordinador y tendrá el objeto de realizar investigación, desarrollar, adaptar y transferir tecnología, prestar servicios tecnológicos y preparar recursos humanos calificados en materia de:
+En caso de que el Notario no cumpla con el cierre y envío del libro a la Dirección, en los términos establecidos en el artículo 42 de este Reglamento y en el párrafo que antecede, será objeto de la sanción a que se haga a (sic) creedor.
 
-Seguridad hídrica; conservación y restauración de cuencas, control de la erosión y retención de humedad en suelos; sistemas de información geográfica para la gestión sustentable de cuencas; asuntos transfronterizos; nexo agua-minería; nexo agua-bosques; diseño, operación, control, conservación y evaluación de infraestructura de riego; entrega volumétrica del agua en zonas de riego; control y regulación de canales de riego; manejo integral y sustentable de sistemas hidroagrícolas; técnicas eficientes de riego; diseño y operación del riego parcelario; pronóstico de riego en tiempo real; control de plagas y enfermedades en cultivos bajo riego; diseño y operación de redes colectivas de riego; modernización y rehabilitación de zonas de riego; reglamentación de la operación de sistemas de riego; modelación y evaluación de la contaminación y el drenaje agrícola; diseño de sistemas de drenaje parcelario; identificación y rehabilitación de suelos salinos; prácticas agrosilvopastoriles sustentables; hidroelectricidad, uso eficiente de la energía en el sector hídrico y el uso del agua en la generación de electricidad; desarrollo de proyectos productivos; procesos hidrológicos atmosféricos y la medición de las variables correspondientes; percepción remota y sistemas de información geográfica para la evaluación de recursos naturales; normativa hidrológica y meteorológica, sistemas de información climatológica y meteorológica, y modelación de la atmósfera, cambio climático, sequías, inundaciones y fenómenos hidrometeorológicos. Lo anterior de manera enunciativa, sin ser limitativo.
+###### ARTÍCULO 44.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+Los folios autorizados serán entregados en las oficinas de la Dirección, en horas hábiles dentro de un plazo que no excederá de diez días hábiles, contados a partir de la fecha en que se acredite el pago de los derechos. Al recibir los folios, el notario firmará el acuse de recibo anotando la fecha, hora de entrega y conformidad de recibirlos completos.
 
-###### Artículo 15.
+### CAPÍTULO VII. DE LAS ESCRITURAS
 
-La Coordinación de Sistemas Hídricos estará a cargo de un Coordinador y tendrá el objeto de realizar investigación, desarrollar, adaptar y transferir tecnología, prestar servicios tecnológicos y preparar recursos humanos calificados en materia de:
+###### ARTÍCULO 45.
 
-Sistemas hídricos, aguas superficiales, subterráneas, costeras y oceánicas; hidráulica, limnología física, oceanografía física, ingeniería de costas; modelación física y numérica de circulación, erosión, transporte, hidrogeoquímica y sedimentación en cuerpos de agua; estudios experimentales, modelos físicos y numéricos de obras hidráulicas; fenómenos turbulentos y flujos con altas concentraciones de sedimentos; estudios geotécnicos, geofísicos, eléctricos, electromecánicos, sísmicos, estructurales, hidrológicos e hidráulicos para el diseño y seguridad de obras hidráulicas; sistemas de medición, instrumentación, telemetría, adquisición y procesamiento de datos; servicios web para mejorar el acceso a la sociedad de la información del agua e infraestructura relacionada; elaboración de estudios de balance y disponibilidad de aguas subterráneas y superficiales; origen, dinámica y evolución de las aguas subterráneas; definición de zonas de recarga natural de los acuíferos; diseño e instrumentación de monitoreo de la dinámica del agua subterránea en cantidad y calidad; tecnologías apropiadas para la protección y rehabilitación del agua, suelos contaminados y su entorno; diseño de pozos para extracción y recarga de agua de calidad y modelos físicos y numéricos de acuíferos; hidrología; modelación hidrológica vinculada al proceso lluvia-escurrimiento; simulación numérica de sistemas hidrológicos superficiales, erosión, transporte y sedimentación; estudios de hidráulica fluvial; estudios de peligro, vulnerabilidad y riesgo asociados a procesos hidrológicos, hidrogeológicos, costeros y marítimos; estudios para la delimitación de zonas federales; estimación de la huella hídrica; manejo integral de cuencas; análisis físico-químicos, hidrodinámica, potencial energético en costas; alternativas para la estabilidad y recuperación de playas; sistemas de distribución de agua potable, alcantarillado y saneamiento; reducción de pérdidas en redes de agua potable, captación de agua de lluvia; medidas para disminuir el impacto de los desarrollos urbanos en el ciclo hidrológico superficial; diseño, implementación, operación y evaluación de ecotecnologías, y participación técnica en elaboración de normas oficiales mexicanas e instrumentos legislativos en la materia. Lo anterior de manera enunciativa, sin ser limitativo.
+Las escrituras autorizadas preventivamente por un Notario podrán ser firmadas y autorizadas definitivamente por otro Notario que legalmente lo supla o sustituya, siempre que se cumpla con lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+I. Si la escritura ha sido firmada por él o los otorgantes ante el primer Notario, y aparezca puesta por él, la razón "ANTE MI" con su firma; y
 
-### CAPÍTULO TERCERO. DE LA JUNTA DE GOBIERNO
+II. Que el Notario que lo supla o sustituya, exprese el motivo de su intervención y haga suyas las certificaciones que el instrumento debe contener, con la sola excepción, en su caso, de las relativas a la identidad y capacidad de quienes hayan firmado ante el primer Notario y a la lectura del instrumento a estos.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+###### ARTÍCULO 46.
 
-###### Artículo 16.
+El Notario ante quien se revoque o renuncie un Poder que haya sido otorgado ante otro Notario, aun cuando sea de otra Entidad Federativa, tendrá la obligación de comunicárselo por correo certificado o por cualquier otro medio indubitable de comunicación, en el que conste de manera fehaciente el acuse de recibo respectivo, dentro de los diez días siguientes, a fin de que se haga la anotación complementaria correspondiente en el protocolo en que se contenga y, en su caso, hará la misma comunicación al Archivo de Notarias de la Entidad Federativa de que se trate, en que se encuentre depositado el protocolo. Cuando el Poder revocado o renunciado haya sido otorgado ante su fe, lo hará constar en nota complementaria en el instrumento original, con la misma obligación de dar el aviso al Director.
 
-La Coordinación de Calidad y Ecología del Agua estará a cargo de un Coordinador, y tendrá el objeto de realizar investigación, desarrollar, adaptar y transferir tecnología, prestar servicios tecnológicos y preparar recursos humanos calificados en materia de:
+De lo anterior, se dará aviso dentro de las cuarenta y cocho horas siguientes a la Dirección.
 
-Tratamiento de agua para uso y consumo humano en los ámbitos urbano, rural y zonas vulnerables; procesos unitarios de potabilización, acondicionamiento de agua y tratamiento de los subproductos generados; procesos físicos, químicos y biológicos de tratamiento de aguas residuales municipales e industriales y reutilización del agua; saneamiento rural; tratamiento, aprovechamiento y disposición de lodos residuales; monitoreo, identificación, cuantificación y evaluación de contaminantes hídricos; sistemas de gestión de calidad para laboratorios de calidad del agua; técnicas analíticas de laboratorio; ecología microbiana e indicadores biológicos para la evaluación ambiental de cuerpos de agua; limnología y rehabilitación de cuerpos de agua; impacto y riesgo ambiental de obras hidráulicas, y control de plantas acuáticas exóticas invasoras. Lo anterior de manera enunciativa, sin ser limitativo.
+###### ARTÍCULO 47.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+Los Notarios serán responsables de los daños y perjuicios que se ocasionen con la dilación u omisión del aviso que según el artículo 93 de la Ley deben dar al Director.
 
-###### Artículo 17.
+###### ARTÍCULO 48.
 
-La Coordinación de Gobernanza del Agua y Fortalecimiento de Capacidades estará a cargo de un Coordinador y tendrá el objeto de realizar investigación, desarrollar, adaptar y transferir tecnología, colaborar con otras áreas del Instituto, asesorar y prestar servicios tecnológicos, así como preparar recursos humanos calificados en materia de:
+Cuando ante un Notario se vayan a otorgar diversos actos respecto de inmuebles con un mismo antecedente de propiedad, por tratarse de predios resultantes de fraccionamientos o de unidades sujetas al régimen de propiedad en condominio, se seguirán las reglas establecidas en el artículo 70 de la Ley, con las excepciones siguientes:
 
-Gobierno, administración pública y gobernanza del agua; análisis, evaluación, diseño y acompañamiento en la implementación de políticas públicas asociadas con el agua, incluidos el diseño institucional y los marcos normativos; temas relacionados con la dimensión social y política del agua; análisis, evaluación, diseño, implementación de medidas, desarrollo de sistemas de información y salvaguardas que permitan al Estado mexicano fomentar, garantizar y promover el mandato constitucional en materia de derechos humanos asociados con el agua, así como para aquellos procesos de democracia participativa requeridos en el sector hídrico; análisis, evaluación, diseño y acompañamiento en la implementación de instrumentos económicos que fortalezcan la gestión integral y sustentable del agua; procesos de certificación de estándares de competencia laboral, educación continua, posgrado y otras formas de educación formal que sirvan para preparar personas altamente calificadas en temas relacionados con el sector hídrico; servicios documentales, editoriales y gráficos; promoción del uso de tecnologías de información y comunicación innovadoras en la formación técnica y científica del sector hídrico, así como la difusión, comunicación y divulgación de temas relacionados con el agua y la (sic) ciencias con una perspectiva de derechos humanos; la promoción de cultura del agua y ambiental; la realización de estudios socioambientales sobre movimientos sociales, así como socioproductivos relacionados con el agua; procesos de apropiación tecnológica, participación y fortalecimiento de capacidades de actores sociales, gubernamentales y del mercado para la gestión integral y sustentable del agua; diseño y desarrollo de sistemas de información sobre conflictividad social relacionada con el agua, y desarrollo de procesos de innovación en la generación y distribución amplia, oportuna, incluyente, abierta y culturalmente adecuada de información sobre el agua. Lo anterior de manera enunciativa, sin ser limitativo.
+I En el primer instrumento, que se denominará de certificación de antecedentes, o solicitud de quien corresponda el Notario relacionará todos los Títulos y demás documentos necesarios para el otorgamiento de dichos actos;
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+II En las escrituras cuyo objeto sean predios resultantes de un fraccionamiento o unidad sujeta al régimen de propiedad en condominio, el Notario no relacionará ya los antecedentes que consten en el instrumento indicado en la fracción anterior, sino que hará mención de su otorgamiento y que conforme a él, quien enajena puede hacerlo legítimamente, describiendo sólo el inmueble materia de la operación, y únicamente citará el antecedente registral en el que haya quedado inscrita la notificación en los casos de fraccionamientos o en la construcción del régimen de propiedad en condominio, cuando se trate de actos cuyo objeto sean las unidades del inmueble de que se trate, así como los relativos a gravámenes o fideicomisos que se extingan;
 
-###### Artículo 18.
+III Cuando la escritura o constitución del régimen de propiedad en condominio se haya otorgado en el protocolo del mimo notario ante quien se otorguen los actos sucesivos, dicha escritura, hará los efectos del instrumento de certificación de antecedentes.
 
-La Unidad de Vinculación y Asuntos Internacionales estará a cargo de un Titular y tendrá las atribuciones siguientes:
+Surtirán también efectos las escrituras en las que por su operación anterior consten en el mismo protocolo los antecedentes de propiedad de un inmueble;
 
-I. Vincular al Instituto con otras instituciones y dependencias del sector, académicas y de investigación, gobiernos estatales y municipales, e iniciativa privada;
+IV Al expedir los testimonios de las escrituras donde se contengan los actos sucesivos, el Notario deberá anexarles una certificación que exprese, en lo conducente, la relación de antecedentes que obren en el instrumento de certificación respectivo.
 
-II. Dirigir la estrategia de vinculación y cooperación internacional del Instituto;
+###### ARTÍCULO 49.
 
-III. Proponer y facilitar la planeación, seguimiento y evaluación de programas y proyectos institucionales para cumplir los objetivos y metas establecidas;
+El aviso a que se refiere el artículo 93 de la ley, deberá contener:
 
-IV. Recopilar, analizar y reportar la información de proyectos, programas y actividades de las áreas técnicas del Instituto;
+a) Nombre completo del Testador;
 
-V. Atender y gestionar los requerimientos de información de la Dirección General;
+b) Nacionalidad;
 
-VI. Organizar y atender con apoyo de las áreas técnicas y administrativas, los asuntos internos y externos para su atención y seguimiento de los compromisos de la Dirección General;
+c) Fecha de Nacimiento;
 
-VII. Coordinar las actividades de órganos colegiados del Instituto, asignados por el Director General;
+d) Lugar de Nacimiento;
 
-VIII. Coordinar los esquemas de transferencia tecnológica y de conocimiento;
+e) CURP;
 
-IX. Elaborar análisis de inteligencia tecnológica, proyectos de licenciamiento de tecnología y planes para establecer asociaciones estratégicas de comercialización de tecnología;
+f) Estado Civil;
 
-X. Impulsar el proceso de mejora continua en materia de gestión de proyectos;
+g) Nombre completo del padre;
 
-XI. Proponer e implementar proyectos estratégicos,
+h) Nombre completo de la madre;
 
-XII. Expedir, cuando así proceda, certificaciones de documentos que obren en los archivos del Instituto, para lo cual podrá pedir opinión para su emisión a la Unidad Jurídica; y
+i) Tipo de Testamento;
 
-XIII. Fungir como Prosecretario de la Junta de Gobierno del Instituto.
+j) Número de Escritura;
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+k) Tipo de Notario;
 
-###### Artículo 19.
+l) Volumen o Tomo;
 
-La Unidad de Administración y Finanzas estará a cargo de un Titular y tendrá las atribuciones siguientes:
+m) Fecha de la Escritura;
 
-I. Dirigir la planeación y administración de los recursos humanos, financieros, materiales y servicios generales, de adquisiciones y obra pública, promoviendo las acciones necesarias que permitan el desarrollo de las actividades del Instituto, así como su uso racional y eficiente, con la aprobación del Director General, y en su caso proponer normas, lineamientos, sistemas y procedimientos para la óptima administración de dichos recursos, con la colaboración de la Unidad Jurídica y de conformidad con las disposiciones jurídicas aplicables.; (sic)
+n) Si se establecieron disposiciones de contenido irrevocable;
 
-II. Proponer al Director General para su aprobación, los mecanismos y lineamientos para instrumentar el proceso interno de programación, presupuestación, evaluación, control presupuestario y contabilidad del Instituto;
+o) Lugar de otorgamiento;
 
-III. Integrar el anteproyecto de presupuesto y someter el proyecto de presupuesto a la aprobación del Director General, y vigilar el ejercicio anual para que el Instituto disponga de los recursos para su adecuado funcionamiento y cumplimiento, de acuerdo con las disposiciones de la Secretaría de Hacienda y Crédito Público y de la Secretaría de Medio Ambiente y Recursos Naturales;
+p) Nombre completo del Notario;
 
-IV. Establecer con la aprobación del Director General del Instituto el sistema de contabilidad para el Instituto, así como elaborar los estados financieros y los informes del ejercicio presupuestal del Instituto;
+q) Número de Notaria; y
 
-V. Coordinar con la autorización del Director General, a las unidades administrativas del Instituto en la programación, presupuestación, organización, control y evaluación de sus acciones relativas al gasto público;
+r) Municipio de adscripción.
 
-VI. Proponer al Director General para su aprobación, las directrices para implantar, operar, controlar y evaluar el sistema de administración, capacitación y desarrollo de personal del Instituto, y vigilar su permanente actualización; así como emitir el pago de sueldos, validar la situación contractual entre el Instituto y los servidores públicos que laboran en él, elaborando los nombramientos correspondientes;
+### CAPÍTULO VIII. DE LAS ACTAS
 
-VII. En colaboración con la Unidad Jurídica, conducir las negociaciones con el Sindicato relativas a la mejora de las condiciones laborales contenidas en el Contrato Colectivo de Trabajo:
+###### ARTÍCULO 50.
 
-VIII. Proponer al Director General para su aprobación, la implementación y coordinación del Sistema Integral de Profesionalización, el programa anual de capacitación en coordinación con las áreas técnicas y su presupuesto.
+La comprobación de firmas a que se refiere el artículo 100 en los casos no comprendidos en el artículo 43 fracción VI, ambos de la Ley, se hará constar en el acta, en los testimonios o certificaciones que al efecto se expidan, mismas en las que se deberá hacer una descripción breve del documento al que se refiere, los nombres y el carácter con que comparecen las personas de cuya firma se trata y la mención de que dicho documento se agregará el apéndice respectivo, así como los demás documentos con que se acredite su personalidad; en todos los casos el Notario deberá establecer que ante él se asentaron las firmas y que conoce a la persona o personas que la suscribe, debiendo llevar al calce de la firma el holograma autorizado.
 
-IX. Proponer al Director General para su aprobación, el programa de inducción para personal de nuevo ingreso al Instituto y aplicar, en coordinación con la Unidad Jurídica, las sanciones por incumplimiento a las obligaciones laborales;
+### CAPÍTULO IX. DE LOS TESTIMONIOS
 
-X. En colaboración con la Unidad Jurídica, proporcionar asesoría a las unidades administrativas del Instituto en lo relativo a asuntos la (sic) laborales de su personal;
+###### ARTÍCULO 51.
 
-XI. Coordinar los procesos para la contratación de adquisiciones de bienes y servicios, y obra pública y servicios relacionados con la misma, que requieran celebrar las Unidades Administrativas del Instituto;
+Para los efectos de los testimonios a que se refiere el artículo 105 de la Ley, el Notario sólo podrá expedirlos en copia auténtica transcribiéndolos bajo su firma y sello, siempre y cuando obren en el apéndice respectivo. Cuando sea testimonio parcial se deberá hacer constar tal circunstancia.
 
-XII. Someter a consideración del Director General los programas de seguridad e higiene en el ámbito del Instituto, así como evaluar sus resultados;
+###### ARTÍCULO 52.
 
-XIII. Someter a consideración del Director General las acciones necesarias para mantener actualizada y registrada la estructura organizacional del Instituto;
+El Notario, podrá expedir testimonios, de conformidad con lo siguiente:
 
-XIV. Mantener actualizado el manual de organización del Instituto, de procedimientos y demás documentos administrativos, y someterlos a la aprobación del Director General, para su respectivo informe a la Junta de Gobierno;
+I. Las hojas que integren el testimonio, irán numeradas progresivamente. En la parte superior del margen izquierdo llevará el sello de autorizar, y en el margen derecho de cada hoja el Notario podrá su rúbrica y al final lo autorizará con su firma, sello y el holograma referido por el artículo 40 de la Ley; y
 
-XV. Divulgar los servicios de carácter social a que tienen derecho los trabajadores del Instituto y sus familiares derechohabientes;
+II. Puede expedirlos a cada parte o al autor del acto o hecho consignado en el instrumento en que hayan intervenido, o en su caso, a sus sucesores o causahabientes legalmente reconocidos.
 
-XVI. Coordinar el programa de servicio social y prácticas profesionales, en apoyo al desarrollo y formación profesional;
+###### ARTÍCULO 53.
 
-XVII. Administrar los bienes muebles e inmuebles a cargo del Instituto, así como procurar su mantenimiento y conservación, en los términos de las disposiciones jurídicas aplicables, informando oportunamente todas las acciones realizadas al Director General;
+Cuando el Notario expida un testimonio, podrá una anotación complementaria que contendrá la fecha de expedición, el número ordinal que le corresponde, para quien se expide y a que título.
 
-XVIII. Supervisar la aplicación e implementación de los manuales administrativos de aplicación general en materia de recursos humanos, financieros, materiales y servicios generales, de tecnologías de la información y comunicaciones;
+Las constancias de los asientos de inscripción puestas al calce de los testimonios por el Registro Público de la Propiedad y del Comercio u otras inscripciones requeridas por la Ley, serán extractadas o transcritas por el Notario en una anotación complementaria.
 
-XIX. Desarrollar sistemas de información de recursos humanos, financieros, materiales e informáticos para el cumplimiento de los objetivos institucionales, con aprobación del Director General;
+El Director expedirá testimonios de los instrumentos asentados que obren en su poder, en igual forma que los Notarios.
 
-XX. Someter a consideración del Director General, los movimientos de personal del Instituto;
+### CAPÍTULO X. RESPONSABILIDAD DE LOS NOTARIOS
 
-XXI. Proponer al Director General, para someter a consideración y aprobación de la Junta de Gobierno, el establecimiento de lineamientos, sistemas y procedimientos para la organización, funcionamiento, desarrollo, efectividad, simplificación, mejora regulatoria, desconcentración y descentralización administrativa del Instituto;
+###### ARTÍCULO 54.
 
-XXII. Preparar la cuenta pública anual del Instituto para que por conducto del Director General se apruebe y presente a la coordinadora sectorial, para la integración de la cuenta anual de hacienda pública federal del sector;
+Para la substanciación del procedimiento referido en el artículo 121 de la Ley, la queja deberá presentarse por escrito, la cual contendrá como mínimo los siguientes requisitos:
 
-XXIII. Proponer al Director General los programas de promoción para el desarrollo tecnológico y la automatización de los procesos de administración del Instituto, a fin de facilitar el acceso a la información;
+I. Nombre del quejoso o de quien promueva en su representación, en este último caso deberá de anexar el documento que así lo acredite;
 
-XXIV. Proporcionar a las unidades administrativas del Instituto los servicios de apoyo técnico administrativo en materia de recursos, humanos, financieros, materiales e informáticos;
+II. Si son varios los promoventes, nombrarán a un representante común; en caso de no hacerlo se les requerirá para que en un término de cuarenta y ocho horas, contadas a partir del día siguiente de la notificación lo nombren, en caso de no hacerlo se nombrará al primero de los promoventes;
 
-XXV. Establecer, dirigir y coordinar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información del Instituto, así como emitir las normas necesarias para su operación, desarrollo y vigilancia;
+III. Domicilio para oír y recibir citas y notificaciones en esta ciudad; en caso de omisión se les requerirá para que en un termino de cuarenta y ocho horas, contadas a partir del día siguiente a la notificación, para que señalen domicilio, en caso de no hacerlo en las subsecuentes notificaciones se harán en los estrados de la Dirección General;
 
-XXVI. Proponer para su aprobación al Director General el proceso de modernización administrativa del Instituto;
+IV. Nombre completo del Notario Público y número de la Notaria, contra quien se formule si es Titular, Adscrito o Substituto;
 
-XXVII. Presidir los comités de adquisiciones, arrendamientos y servicios, de obras, de enajenación, baja o destino final de bienes muebles, y técnico de contratación de servicios del Instituto;
+V. Los hechos que motivan la queja; y
 
-XXVIII. Elaborar los anteproyectos que se someterán a la aprobación del Director General respecto de los dictámenes administrativos relacionados con las modificaciones de las estructuras orgánicas y ocupacionales, así como de las plantillas de personal operativo del Instituto, conforme a las disposiciones que establezcan el Manual de normas presupuestarias de la Administración Pública Federal y demás que para el efecto emita la Coordinadora de Sector, de acuerdo con los lineamientos que determinen para el efecto las secretarías de Hacienda y Crédito Público, y de la Función Pública, en el ámbito de sus respectivas competencias;
+VI. Las pruebas que consideren convenientes para demostrar los hechos.
 
-XXIX. Dirigir y llevar el control del patrimonio inmobiliario y de bienes muebles, inventarios y derechos adquiridos, y realizar los trámites legales para la adquisición, regularización, desincorporación y protección, en coordinación con la Unidad Jurídica;
+###### ARTÍCULO 55.
 
-XXX. Proponer al Director General las acciones para el cumplimiento de los objetivos estratégicos y metas institucionales, a través del sistema de control interno institucional, la administración de riesgos y las acciones de simplificación regulatoria;; (sic)
+Recibida la queja, el Director General procederá de la siguiente manera:
 
-XXXI. Autorizar y emitir la atención de las solicitudes de transparencia, en lo relativo a su área;
+I. Dentro de los diez días siguientes a la recepción de la queja, acordará instruir el procedimiento respectivo, o en su caso hará las prevenciones correspondientes;
 
-XXXII. Proponer las acciones de mejora para un adecuado clima laboral entre el personal del Instituto;
+II. Instituido el procedimiento ordenará una investigación, que consistirá en revisión de libros o cualquier otro documento que se encuentre en la notaría de que se trate, o cualquiera otra diligencia para el esclarecimiento de los hechos;
 
-XXXIII. Dirigir el control y evaluación del sistema de control documental y archivístico del Instituto, y conducir, clasificar y resguardar en el archivo de concentración los expedientes de las unidades administrativas del Instituto y promover su sistematización para facilitar el acceso a la información;
+III. Designará a los visitadores para que en un término de diez días hábiles contados a partir del día siguiente a su designación practiquen una investigación de los hechos, de la que se levantará el Acta correspondiente la que firmará los que en ella intervengan, en caso de no hacerlo se asentará la razón de ello;
 
-XXXIV. Designar, autorizar y delegar a los servidores públicos adscritos a la Unidad de Administración y Finanzas las facultades para ejercer las atribuciones anteriores, y
+IV. Con la copia del acta levantada con motivo de la investigación, se le dará vista al Presidente del Colegio, para que en un término de diez días a partir de la notificación rinda un dictamen de opinión sobre los hechos investigados;
 
-XXXV. Las demás que le confiera el Director General y las que se señalen en las disposiciones legales y reglamentarias de este Instituto.
+V. Dentro de los cinco días siguientes de haber concluido el término concedido al Presidente del Colegio, se citará al Notario de que se trate para que se presente a la Dirección General, en la que se le hará saber los hechos que se le imputan y declare lo que a su derecho convenga;
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+VI. Terminada su declaración, el Director General le concederá un término de diez días a partir del día siguiente para que aporte las pruebas de descargo; y
 
-###### Artículo 20.
+VII. Fenecido el término señalado en la fracción anterior se dictará la resolución definitiva.
 
-La Unidad Jurídica estará a cargo de un Titular y tendrá las atribuciones siguientes:
+### CAPÍTULO XI. DEL ARCHIVO GENERAL DE NOTARÍAS
 
-I. Dirigir y coordinar los asuntos jurídicos del Instituto;
+###### ARTÍCULO 56.
 
-II. Proponer las normas y establecer, desarrollar y evaluar los lineamientos de orden jurídico para una adecuada conducción de las operaciones y del personal del Instituto;
+El Archivo General de Notarias depende de la dirección general de asuntos Jurídicos de la Secretaría de Gobierno.
 
-III. Asesorar, coordinar y establecer los mecanismos de asistencia y apoyo en materia jurídica al Director General y unidades administrativas;
+###### ARTÍCULO 57.
 
-IV. Representar al Instituto ante las áreas jurídicas de las dependencias y entidades de la Administración Pública Federal, así como las estatales y municipales;
+El Secretario previo acuerdo con el Ejecutivo, designará al Titular del Archivo, quien ejercerá además de las facultades previstas en otros ordenamientos jurídicos, las siguientes:
 
-V. Fijar, sistematizar, unificar y difundir, para efectos administrativos, los lineamientos y criterios de interpretación y aplicación de las disposiciones jurídicas que normen el funcionamiento y operación del Instituto;
+I. Celebrar, previo acuerdo del Secretario y del Titular de la Dirección General, convenios para acrecentar, conservar y difundir el acervo documental del Archivo;
 
-VI. Autorizar el contenido jurídico de la información que generen las unidades administrativas del Instituto;
+II. Coadyuvar en todo lo concerniente al ejercicio de la función Notarial;
 
-VII. Coordinar y evaluar la formulación de los estudios e investigaciones jurídicas que se requieran para el adecuado desarrollo de las atribuciones del Instituto;
+III. Impulsar la investigación para el proceso de codificación de la normatividad notarial;
 
-VIII. Emitir opiniones, asesorar, formular y proponer, a solicitud del Director General, las iniciativas sobre la actualización del marco jurídico dentro del ámbito de la competencia del Instituto;
+IV. Estudiar y proponer métodos de conservación y respaldo, de la documentación e información que tenga relación de la función notarial;
 
-IX. Compilar y promover la difusión de las normas jurídicas relacionadas con las actividades del Instituto;
+V. Expedir y reproducir a solicitud de parte interesada, previo pago de los derechos correspondientes, los documentos públicos y privados que obren en los acervos en custodia del Archivo;
 
-X. Dictaminar la procedencia jurídica de los convenios, contratos y demás actos jurídicos que vaya a suscribir el Director General del Instituto, así como llevar el control y registro de los mismos;
+VI. Certificar la documentación solicitada por autoridades judiciales, administrativas y legislativas, así como por los particulares que acrediten su interés legítimo, estos últimos (sic) previo pago de los derechos correspondientes, y que esté en custodia del archivo;
 
-XI. Solicitar la publicación de acuerdos, circulares, normas, convenios, contratos, acuerdos y demás disposiciones jurídicas y administrativas, competencia del Instituto, en el Diario Oficial de la Federación y demás órganos de difusión oficial, así como, en su caso, gestionar su inscripción en los registros públicos correspondientes;
+VII. Revisar que los libros cumplan con todos y cada uno de los requisitos previstos en la Ley, para su recepción y custodia definitiva;
 
-XII. Establecer y ejecutar, a petición de las unidades administrativas del Instituto, el procedimiento de la rescisión de contratos, convenios y demás actos jurídicos en los que el Instituto sea parte, con excepción de los que sean competencia de la Unidad de Administración y Finanzas;
+VIII. Certificar la razón de cierre con respecto a la revisión previa a la que se refiere a la fracción que antecede;
 
-XIII. Participar como asesores en los procedimientos de licitación pública, invitación y adjudicación directa en la adquisición de bienes muebles, arrendamientos y contratación de servicios que realice el Instituto;
+IX. Custodiar en definitiva el protocolo que contenga la razón de su cierre, y que deba tener una antigüedad de diez años a partir de la fecha de la razón;
 
-XIV. Solicitar a la Secretaría de la Función Pública, en lo correspondiente a su competencia, la reivindicación de la propiedad federal destinada al Instituto;
+X. Recibir para su inutilización los sellos que se hayan deteriorado, alterado o aparecido después de su extravío, así como los que no cumplan con los requisitos previstos en la Ley y este Reglamento;
 
-XV. Ejecutar las acciones legales conducentes para la protección jurídica de los bienes muebles e inmuebles destinados al Instituto;
+XI. Recibir los expedientes, manuscritos, libros, folios y demás documentos que conforme en la Ley y este Reglamento deban entregar los Notarios y que deban custodiarse en el Archivo;
 
-XVI. Elaborar informes previos y justificados que, en materia de amparo, deba rendir el Director General, los relativos a los demás servidores públicos que sean señalados como autoridades responsables y comparecer como tercero perjudicado cuando se requiera; además, formular y presentar todas las promociones que a dichos juicios se refieran. Asimismo, coadyuvar con la coordinadora de sector en las demandas y contestaciones de demandas, según proceda en las controversias constitucionales o acciones de inconstitucionalidad que se promuevan;
+XII. Devolver a los Notarios en el plazo previsto por la Ley y este Reglamento, los expedientes, manuscritos, libros , folios y demás documentos que conforme a la misma no deban custodiarse en definitiva, después de haber sido dictaminado;
 
-XVII. Suscribir, en ausencia del Director General y demás servidores públicos del Instituto, los informes previos y justificados que requieran las autoridades judiciales correspondientes;
+XIII. Recibir de los Notarios, los avisos de testamento para su depósito y custodia definitiva en el Archivo;
 
-XVIII. Presentar denuncias o querellas respecto de hechos que lo ameriten y en lo que el Instituto haya resultado ofendido y tenga interés ante el ministerio público competente, y coadyuvar en la integración de averiguaciones previas y en el trámite de procesos penales correspondientes; asimismo, cuando proceda, otorgar perdón o gestionar desistimientos y acordar conciliaciones en beneficio del Instituto;
+XIV. Recibir, para su depósito y custodia los testamentos hológrafos que presenten los particulares;
 
-XIX. Asesorar a los servidores públicos del Instituto y unidades administrativas que lo soliciten, a efecto de que rindan los informes que requiera la Comisión Nacional de los Derechos Humanos, así como auxiliarlos en el procedimiento y, en su caso, orientarlos en el cumplimiento de las recomendaciones que esta emita en uso de sus facultades;
+XV. Rendir información a las autoridades judiciales y administrativas competentes, y a los Notarios con respecto a los avisos y testamentos hológrafos a que se refieren las dos fracciones anteriores;
 
-XX. Instrumentar las actas administrativas, que procedan con respecto a las bajas o sanciones al personal de base o de confianza del Instituto;
+XVI. Dictaminar y calificar las solicitudes presentadas por los particulares, para determinar la procedencia de un trámite, en un término de tres días hábiles a partir del día siguiente de la solicitud;
 
-XXI. Representar legalmente al Instituto y a su Titular en los juicios de orden laboral, respecto de trabajadores del Instituto; formular dictámenes, demandas de cese y contestaciones de demanda; formular y absolver posiciones, desistirse o allanarse y, en general, realizar todas aquellas promociones que se requieran en el curso del procedimiento;
+XVII. Registrar las patentes de fiat de los Notarios, así como los convenios de asociación, permuta y de suplencia celebrado entre los Notarios;
 
-XXII. Designar, autorizar y delegar en los servidores públicos adscritos a la unidad jurídica, facultades para ejercer las atribuciones anteriores, así como para representar, contestar demandas, denunciar, querellarse, comparecer a las audiencias y a todo tipo de diligencias y actuaciones jurisdiccionales, ofrecer pruebas, interponer recursos y, en general realizar todo tipo de actos tendientes a la defensa de los intereses del Instituto, y
+XVIII. Recibir las instrucciones judiciales cuando la Ley así lo permita; y
 
-XXIII. Interponer recursos administrativos respecto de expedientes aperturados en contra de actos del Instituto, en los términos que dispone la ley Federal de Procedimiento Administrativo.
+XIX. Las demás atribuciones que le confieran las demás leyes y este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+###### ARTÍCULO 58.
 
-###### Artículo 21.
+El Titular y los demás empleados del Archivo tendrán la obligación, de guardar secreto de la información y trámites relacionados con la documentación que obre en el mismo. El incumplimiento de dicho secreto será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos y el Código Penal.
 
-El Instituto contará con un Órgano de Vigilancia, que estará integrado por un Comisario Público Propietario y un Suplente que serán designados por la Secretaría de la Función Pública, en los términos de la Ley Orgánica de la Administración Pública Federal, quienes ejercerán las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales y los demás ordenamientos jurídicos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+###### ARTÍCULO 59.
 
-Asistirán en representación de la Secretaría de la Función Pública, con voz, pero sin voto, a las sesiones ordinarias y extraordinarias de la Junta de Gobierno y podrán asistir a las sesiones de comités y grupos de trabajo especializados a los que sean convocados.
+El Archivo General para la aplicación de las sanciones que procedan comunicará oportunamente a la Dirección General, los casos en que los Notarios en el ejercicio de sus funciones no cumplan alguna de las disposiciones de la Ley o este Reglamento.
 
-Para el mejor desarrollo del sistema de control y auditoría y evaluación gubernamental, los Comisarios Públicos y los Vocales analizarán los riesgos y problemas de corrupción y, en su caso, la falta de transparencia en la aplicación de los recursos del Instituto. La Junta de Gobierno y el Director General deberán proporcionarles la información que les sea solicitada.
+###### ARTÍCULO 60.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+La expedición y reproducción de documentos públicos y privados, se hará mediante solicitud por escrito, misma que deberá ir acompañada con la documentación que acredite el interés y la personalidad jurídica, en su caso, de quien promueva y tendrá la calificación en un término no mayor a cinco días hábiles, en el cual se informará verbalmente al promovente la procedencia de dicha solicitud y la cuantía de derechos respectivos; pagados éstos, se procederá a la expedición o reproducción de que se trate en un plazo no mayor de ocho días hábiles contados a partir del día hábil siguiente del pago; la entrega de la documentación requerida se hará únicamente al promoverte (sic).
 
-### CAPÍTULO CUARTO. DEL DIRECTOR GENERAL
+La improcedencia de la solicitud se comunicará al promovente por oficio.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+###### ARTÍCULO 61.
 
-###### Artículo 22.
+Si con motivo del ejercicio de las atribuciones que le confieren los artículos 34 de la Ley y 50 fracción VI de este Reglamento, al momento de expedir algún testimonio o copia certificada de un instrumento que obre en su poder, el Titular del archivo se percata de que el instrumento de referencia carece de:
 
-El Instituto contará con un órgano interno de control que dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública, tanto su titular como los de las áreas que lo integren serán designados en los términos establecidos en la Ley Orgánica de la Administración Pública Federal y ejercerán las funciones que le son conferidas en el artículo 62 de la Ley Federal de las Entidades Paraestatales y en el Reglamento Interior de la Secretaría de la Función Pública y demás normas legales, reglamentarias y administrativas.
+I. Sello al margen superior izquierdo de alguna de las hojas;
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+II. Sello en la autorización preventiva, o definitiva de la escritura;
 
-###### Artículo 23.
+III. Firma en la autorización preventiva o definitiva de la escritura;
 
-El Instituto contará, para el desempeño de sus funciones, con los comités o subcomités técnicos especializados que determine la Junta de Gobierno o el Director General, los cuales tendrán la estructura y funciones que se establezcan.
+IV. Media firma o rúbrica en las notas marginales, en su caso;
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+V. Leyenda "ANTE MI"; y
 
-###### Artículo 24.
+VI. Salvadura de lo entrerrenglonado o testado.
 
-Por cada miembro propietario de la Junta de Gobierno se nombrará un suplente, quien lo sustituirá en sus inasistencias a las sesiones de la propia Junta. El suplente deberá tener nivel jerárquico superior o igual al de Director General. En el caso de la Comisión Nacional del Agua, el suplente deberá tener nivel jerárquico de Subdirector General. En el caso del Consejo Nacional de Ciencia y Tecnología, de Director Adjunto. En el caso de las otras instituciones invitadas a participar con representantes permanentes en la Junta de Gobierno, los suplentes deberán tener un nivel jerárquico inmediato inferior al del titular. Los miembros temporales de la Junta de Gobierno no tendrán suplentes.
+En éstos casos el Titular del Archivo expedirá el testimonio o copia certificada solicitada, haciéndolo de inmediato del conocimiento de la Dirección General para que se proceda en su caso, en consecuencia.
 
-El Secretario de la Junta de Gobierno será suplido, en sus ausencias temporales, por el Prosecretario de dicha Junta.
+Con independencia de lo anterior, se hará del conocimiento del Notario que cometió la omisión, para que proceda a regularizarlo.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+###### ARTÍCULO 62.
 
-###### Artículo 25.
+El Director será responsable de la custodia de los protocolos, sellos, libros y demás documentos, tendrá la misma responsabilidad que los Notarios, respecto de los documentos que expida y usará el sello que se específica en el artículo 127 de la Ley.
 
-Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes al Instituto estarán a cargo, en forma rotatoria, de los Coordinadores de Seguridad Hídrica, Sistemas Hídricos, Calidad y Ecología del Agua, y Gobernanza del Agua y Fortalecimiento de Capacidades.
+###### ARTÍCULO 63.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+Cuando vencido el plazo señalado en el artículo 45 de la Ley, previo requerimiento por parte del Director, los Notarios entregarán, para su depósito los volúmenes del protocolo, sus apéndices e índices, conforme al procedimiento siguiente.
 
-###### Artículo 26.
+I. La documentación será recibida de acuerdo al inventario que para ese efecto haya formulado el Notario, mismo que se cotejará con cada libro o juego de libros y sus apéndices e índices que estén en poder del Notario. Los apéndices deberán entregarse encuadernados y cubiertos con pastas duras.
 
-Por cada miembro de los comités o de los subcomités mencionados en el artículo 23 de este Estatuto, se nombrará un suplente que actuará en caso de faltas temporales del titular.
+En caso de que el inventario presentado no coincida con los libros y documentos que se entregan, a solicitud del Notario y bajo su responsabilidad, se archivarán definitivamente, quedando constancia de la omisión en el acta respectiva;
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+II. Se anexarán al inventario, una relación de las escrituras que no hayan sido autorizadas definitivamente y que estén asentadas en los volúmenes del protocolo que se entregue, asentándose la o las causas;
 
-###### Artículo 27.
+III. De la recepción de los volúmenes de protocolo, sus apéndices e índices se levantará un acta por triplicado de la que se entregará un tanto al Notario como recibo, otro al Director General y el otro se archivará en el expediente de la Notaría junto con los inventarios presentados;
 
-Los coordinadores y los jefes de las unidades administrativas serán suplidos en sus faltas temporales por el servidor público del Instituto, que al efecto sea designado por ellos o por el Director General.
+IV. Los actos que se levanten por las causas asentadas en las fracciones anteriores, serán firmadas tanto por el Director como el Notario que presente la documentación correspondiente.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+En caso de que el Notario no quiera hacerlo el Director lo hará constar en el acta; y
 
-###### Artículo 28.
+V. Concluida la recepción, los documentos se enviarán para su guarda y custodia a la Sección de Archivos de Protocolos.
 
-Las ausencias del Titular del Órgano Interno de Control serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+###### ARTÍCULO 64.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+Cuando el Notario no cumpla con la obligación de entregar los protocolos, apéndices e índices, el Director, mediante Oficio le solicitará su entrega dentro de un plazo que no exceda de diez días hábiles.
 
-### CAPÍTULO QUINTO. DE LAS UNIDADES ADMINISTRATIVAS
+Concluido el plazo anterior, si no se entrega la documentación anterior, el Director ordenará la recuperación a costa del Notario, y lo hará del conocimiento de la Secretaría y de la Dirección General, para el inicio del procedimiento correspondiente y se apliquen las sanciones a que se haga acreedor.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+###### ARTÍCULO 65.
 
-###### Artículo 29.
+Cuando se tenga el conocimiento fundado que en una escritura se omitió el pago de impuestos y derechos, el Director lo comunicará a la Secretaría de Finanzas para los efectos correspondientes.
 
-Las modificaciones al presente estatuto serán facultad exclusiva de la Junta de Gobierno.
+### CAPÍTULO XII. DE LAS VISITAS DE INSPECCIÓN NOTARIAL
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+###### ARTÍCULO 66.
 
-### CAPÍTULO SEXTO. DE LOS ÓRGANOS DE CONTROL Y VIGILANCIA
+Las visitas generales u ordinarias se practicarán cuando menos una vez al año y comprenderán la revisión de la actividad notarial realizada a partir de la última visita de éste tipo que se hubiere diligenciado; y tendrá por objeto supervisar:
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+I. El protocolo o las diversas partes de él, a efectos de observar que se han cumplido los requisitos y formalidades que establece la Ley, y contengan las razones de apertura y clausura. Así mismo, se presentarán los testamentos cerrados que tuvieren en guarda, los títulos y expedientes que tengan en su poder, a efectos de formular un inventario que se agregará en el acta de visita;
 
-###### Artículo 30.
+II. Los apéndices para verificar si se encuentran debidamente ordenados, con los anexos respectivos; y
 
-El Director General tendrá la facultad de presentar a la Junta de Gobierno las iniciativas para la modificación del presente Estatuto.
+III. Que en el Registro de Certificaciones se asienten debidamente los datos del documento de que se trate conforme a lo señalado en el artículo 60 de la Ley.
 
-###### ARTICULO 31.
+###### ARTÍCULO 67.
 
-Las ausencias del Titular del Órgano Interno de Control, así como de los titulares de las áreas de Responsabilidades y Quejas, Auditoría Interna y Auditoría para Desarrollo y Mejora de la Gestión Pública, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+Las visitas especiales o extraordinarias, podrán practicarse en cualquier tiempo cuando así lo determine la Dirección General a través de la Dirección, las cuales tendrán por objeto:
 
-###### ARTICULO 32.
+I. La revisión de instrumentos o tomos determinados en los cuales se examinarán los requisitos de forma, redacción, cláusulas y declaraciones;
 
-Las modificaciones al presente Estatuto serán facultad exclusiva de la Junta de Gobierno.
+II. Investigar y verificar las irregularidades o incumplimiento de algún Notario, por violaciones a la Ley o a este Reglamento, de aquellas que se tenga conocimiento por queja u otro motivo;
 
-###### ARTICULO 33.
+De todo se levantará el acta respectiva.
 
-El Director General tendrá la facultad de presentar a la Junta de Gobierno las iniciativas para la modificación del presente Estatuto.
+###### ARTÍCULO 68.
 
-### CAPÍTULO SÉPTIMO. DE LOS COMITÉS O SUBCOMITÉS
+En las Actas de Inspección general u ordinarias se asentarán las violaciones, errores u omisiones que conforme a la Ley y este Reglamento hayan observado los visitadores, las que en un término de diez días contados a partir de la fecha de inspección, deberán ser subsanadas.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+Si transcurrido el término para subsanar las deficiencias a que se refiere el párrafo anterior, el Notario no las hiciere, la Dirección General instruirá el procedimiento señalado en los artículos 121, 122,123 y 124 de la Ley, a efectos de que en su caso le sea aplicada la sanción correspondiente.
 
-### CAPÍTULO OCTAVO. DE LAS SUPLENCIAS
+### CAPÍTULO XIII. COLEGIO DE NOTARIOS
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+###### ARTÍCULO 69.
 
-### CAPÍTULO NOVENO. DE LAS MODIFICACIONES AL ESTATUTO
+El Colegio de Notarios de Tabasco a que se refiere el artículo 138 de la Ley, será un órgano Técnico de naturaleza Desconcentrada que dependerá directamente del Titular del Poder Ejecutivo, será regulado, coordinado y supervisado por el Secretario de Gobierno, de conformidad con lo dispuesto en los artículos 3 de la ley, 27 de la Ley Orgánica del Poder Ejecutivo del Estado y demás legislación relativa aplicable.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2022)</small>
+###### ARTÍCULO 70.
 
-### CAPITULO DECIMO. DE LAS MODIFICACIONES AL ESTATUTO
+Son obligaciones del Colegio, a demás de las establecidas en el artículo 139 de la Ley las siguientes:
+
+I. Coordinar a los Notarios para intervenir en los programas públicos de interés social y popular;
+
+II. Organizar a los Notarios para la prestación del servicio a que se refiere la legislación federal y estatal electoral;
+
+III. Emitir opinión al Secretario de Gobierno cuando así lo requiera, en cuanto a la función notarial y al Notariado en el Estado de Tabasco;
+
+IV. Llevar a cabo cursos, conferencias o congresos tendientes a la orientación y superación de los Notarios, así como del personal que labora en las Notarías;
+
+V. Concurrir a solicitud del Ejecutivo por conducto del Director General al acto de toma de protesta de los nuevos Notarios;
+
+VI. Coordinar con la Secretaría a través de la Dirección General las guardias para atender las eventualidades que requieran del servicio notarial;
+
+VII. Rendir el informe correspondiente en los términos que establece el artículo 121 de la Ley;
+
+VIII. Designar al Notario de número que habrá de integrar el jurado para el examen de aspirante a la función notarial, de conformidad a lo señalado por el artículo 20 de la Ley;
+
+IX. Proponer al Director General los temas a desarrollar en el examen práctico a que se refiere el artículo 21 de la Ley;
+
+X. Coadyuvar con el Secretario en el cumplimiento de los Estatutos del Colegio;
+
+XI. Integrar comisiones de Notarios que no podrán exceder de cinco, para el estudio de los asuntos que así lo requieran;
+
+XII. Hacer del conocimiento de los Notarios por los medios que considera pertinentes, de los documentos oficiales que por conducto del Director General le envíe el Ejecutivo del Estado o el Secretario de Gobierno;
+
+XIII. Informar al Secretario de Gobierno por conducto del Director General, sobre violaciones en que incurran los Notarios del Estado a la Ley, este Reglamento, sus Estatutos y demás legislación aplicable. De igual forma deberá remitir las quejas que reciba en contra de los Notarios por el ejercicio de sus funciones, para proceder en consecuencia; y
+
+XIV. Las demás que le señale la Ley, este Reglamento y sus Estatutos.
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Estatuto Orgánico entrará en vigor a partir de la fecha de su aprobación.
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Publíquese en el Diario Oficial de la Federación.
+SEGUNDO: Se Derogan todas las disposiciones que se opongan al presente Reglamento.
 
-TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
+TERCERO: Los Notarios del Estado deberán en un término no mayor de treinta días hábiles a partir de la vigencia de este Reglamento, proponer al Secretario de Gobierno por conducto del Director General, el holograma a que se refiere el artículo 33 de este ordenamiento.
 
-El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno del Instituto Mexicano de Tecnología del Agua, en su sesión celebrada en la Ciudad de México, Distrito Federal, el seis de octubre de dos mil seis.- El Secretario de Medio Ambiente y Recursos Naturales y Presidente de la Junta de Gobierno del Instituto Mexicano de Tecnología del Agua, José Luis Luege Tamargo.- Rúbrica.- El Director General del Instituto Mexicano de Tecnología del Agua, Alvaro Alberto Aldama Rodríguez.- Rúbrica.- El Coordinador General Jurídico de la Secretaría de Medio Ambiente y Recursos Naturales y Secretario de la Junta de Gobierno del Instituto Mexicano de Tecnología del Agua, Oscar Rafael Loera García.- Rúbrica.
+EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS TREINTA DÍAS DEL MES DE MARZO DEL AÑO DOS MIL CINCO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
 
-D.O.F. 21 DE ABRIL DE 2014.
+LIC. MANUEL ANDRADE DÍAZ
 
-PRIMERO.- Las presentes modificaciones al Estatuto Orgánico del Instituto Mexicano de Tecnología del Agua, entraran en vigor a partir de la fecha de publicación en el Diario Oficial de la Federación.
+GOBERNADOR DEL ESTADO
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes modificaciones.
+LIC. JAIME HUMBERTO LASTRA BASTAR
 
-TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
-
-D.O.F. 14 DE JULIO DE 2017.
-
-## [N. DE E. TRANSITORIOS DE LA "MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE TECNOLOGÍA DEL AGUA."]
-
-PRIMERO.- Las presentes modificaciones al Estatuto Orgánico del Instituto Mexicano de Tecnología del Agua, entrarán en vigor a partir de la fecha de publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes modificaciones.
-
-TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
-
-D.O.F. 28 DE DICIEMBRE DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DAN A CONOCER LAS REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO Y EL MANUAL DE ORGANIZACIÓN DEL INSTITUTO MEXICANO DE TECNOLOGÍA DEL AGUA”.]
-
-PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. El Director General del Instituto Mexicano de Tecnología del Agua proveerá lo necesario para que el Manual de Organización del Instituto corresponda a las disposiciones que establece el Decreto de Creación y el presente Estatuto, de cuya expedición informará a la Junta de Gobierno.
-
-TERCERO. En virtud de la reasignación de competencias, los asuntos que se encuentran en trámite a la fecha de publicación de este Estatuto serán atendidos y resueltos por las unidades administrativas del Instituto a las que se les da la competencia en el mismo.
-
-CUARTO. Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el presente Estatuto.
-
-QUINTO. En tanto entra en vigor el Manual de Organización del Instituto, el Director General podrá emitir las normas y lineamientos para la operación de éste.
-
-SEXTO. Inscríbase en el Registro Público de Organismos Descentralizados.
+SECRETARIO DE GOBIERNO
