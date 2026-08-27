@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2026-08-20"
+last_updated: "2026-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -93,7 +93,9 @@ V. Fomentar el desarrollo de la cultura física, el deporte y las academias depo
 
 VI. Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte como complemento de la actuación pública;
 
-VII. Promover la práctica de la cultura física y el deporte como medida para erradicar la violencia y la drogadicción;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2026)</small>
+
+VII. Promover la práctica de la cultura física y el deporte como estrategia de protección de la salud mental para atender las adicciones y erradicar la violencia;
 
 VIII. Fomentar la integración de los municipios, las instituciones públicas y particulares, así como los sectores social y privados, en el sistema estatal;
 
@@ -109,19 +111,19 @@ XII. Fomentar y ampliar el alcance de oportunidades a todas las personas sin dis
 
 XIII. Fomentar que las personas con discapacidad participen en la práctica de la cultura física y deporte en igualdad de circunstancias, siempre y cuando no represente un riesgo para su integridad o la de terceros.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2026)</small>
 
-XIV. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
+XIV. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud física y mental y la seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2026)</small>
 
-XV. La existencia de una adecuada cooperación a nivel nacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte; y
+XV. La existencia de una adecuada cooperación a nivel nacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2026)</small>
 
-XVI. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
+XVI. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones; y
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2023)</small>
+> <small>(REFORMADA [N. DER E. REPUBLICADA], P.O. 27 DE AGOSTO DE 2026)</small>
 
 XVII. Fomentar la práctica de las artes marciales en consonancia, congruencia y armonía con los Reglamentos del Sistema Nacional del Deporte.
 
@@ -339,9 +341,9 @@ XI. Operar el Registro Estatal de Cultura Física y Deporte y fomentar la inscri
 
 XII. Emitir lineamientos para la organización y desarrollo del sistema estatal, y someterlos a consideración del titular del Poder Ejecutivo para su aprobación y, en su caso, publicación;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2026)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2026)</small>
 
-XIII. Planear y fomentar la enseñanza y práctica de la cultura física y el deporte, acordes a las disciplinas que se practiquen en cada región, en todas sus modalidades y categorías en Jalisco; y procurar que sean bajo lineamientos y características especiales de salvaguarda a su condición, salud y posibilidad física correspondiente;
+XIII. Planear y fomentar la enseñanza y práctica de la cultura física y el deporte en todas sus modalidades y categorías en Jalisco y procurar que sean acordes con lineamientos y características especiales de salvaguarda a su condición, salud física y mental y la posibilidad física correspondiente;
 
 XIV. Proponer los mecanismos para la adecuada coordinación y colaboración de trabajo entre las diferentes dependencias y entidades de la administración pública federal, estatal y municipal, así como instituciones educativas públicas o privadas, en lo relativo a los programas de investigación, en las ciencias aplicadas y técnicas de la cultura física y el deporte;
 
@@ -1232,3 +1234,9 @@ P.O. 20 DE AGOSTO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30146/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMAN LOS ARTÍCULOS 3°, 12, 22 Y 47 Y ADICIONA UN CAPÍTULO V BIS Y LOS ARTÍCULOS 50 BIS, 50 TER, 50 QUATER Y 50 QUINQUIES A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Jalisco.
+
+P.O. 27 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29870/LXIV/25 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 3° Y 22 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
