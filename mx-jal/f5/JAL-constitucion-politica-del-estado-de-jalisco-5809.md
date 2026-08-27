@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2026-07-17"
+last_updated: "2026-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -539,17 +539,17 @@ Los sujetos obligados y las autoridades garantes se regirán por los principios 
 
 La Autoridad Garante Local, será la Contraloría del Estado y tendrá las facultades y competencias que establecen las leyes de la materia, quien conocerá de los asuntos en materia de transparencia y protección de datos personales del Poder Ejecutivo y los municipios.
 
-(NOTA: EL 25 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 271/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE JUNIO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2025)</small>
+Las autoridades garantes del Poder Legislativo y Judicial de los órganos constitucionales autónomos y demás sujetos obligados, serán sus órganos internos de control y tienen las facultades y competencias que las leyes de la materia les otorguen. Respecto de los partidos políticos y los sindicatos, la determinación de su autoridad garante se rige por lo dispuesto en los artículos 41, fracción I, y 123, apartados A, fracción XX, y B, fracción XII, de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las autoridades garantes del Poder Legislativo y Judicial, de los órganos constitucionales autónomos y demás sujetos obligados, serán sus órganos internos de control y tienen las facultades y competencias que las leyes de la materia les otorguen. LOS PARTIDOS POLÍTICOS TENDRÁN COMO AUTORIDAD GARANTE AL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO. EN EL CASO DE LOS SINDICATOS QUE RECIBAN Y EJERZAN RECURSOS PÚBLICOS O REALICEN ACTOS DE AUTORIDAD, SU AUTORIDAD GARANTE SERÁ EL TRIBUNAL DE ARBITRAJE Y ESCALAFÓN DEL ESTADO DE JALISCO.
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2026)</small>
 
-(NOTA: EL 25 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 271/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE JUNIO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+En términos de la fracción VII del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, las universidades y las instituciones de educación superior con autonomía se regirán de conformidad con su normativa.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2026)</small>
 
-Las resoluciones de las autoridades garantes serán vinculantes, definitivas e inatacables para los sujetos obligados y deberán ser cumplidas por los Poderes, entidades y dependencias públicas del Gobierno del Estado, Ayuntamientos, por los organismos constitucionales autónomos, así como de cualquier persona física, jurídica, SINDICATO, PARTIDO POLÍTICO o cualquier otro que reciba y ejerza recursos públicos o realice actos de autoridad, en términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley General en materia de Protección de Datos Personales en Posesión de Sujetos Obligados, esta Constitución y demás leyes de la materia.
+Las resoluciones de las autoridades garantes serán vinculantes, definitivas e inatacables para los sujetos obligados y deberán ser cumplidas por los Poderes, entidades y dependencias públicas del Gobierno del Estado, Ayuntamientos, por los organismos constitucionales autónomos, así como de cualquier persona física, jurídica o cualquier otro que reciba y ejerza recursos públicos o realice actos de autoridad, en términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley General en materia de Protección de Datos Personales en Posesión de Sujetos Obligados, esta Constitución y demás leyes de la materia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2025)</small>
 
@@ -1591,13 +1591,17 @@ XXXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue h
 
 XXXVI. Elegir por el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, al Fiscal Especializado en materia de Delitos Electorales y al Fiscal Especializado en Combate a la Corrupción, de entre la terna que envíe el titular del Poder Ejecutivo, en los términos que establece esta Constitución y la Ley;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2026)</small>
 
-XXXVII. Elegir al Procurador de Desarrollo Urbano del Estado, mediante el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, previa convocatoria pública y en los términos que establezca la ley de la materia; y
+XXXVII. Elegir al Procurador de Desarrollo Urbano del Estado, mediante el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, previa convocatoria pública y en los términos que establezca la ley de la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2026)</small>
 
-XXXVIII. Autorizar al Ejecutivo, por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, la celebración de convenios de coordinación fiscal, siempre y cuando se justifique su conveniencia para el Estado, debiendo tomar en cuenta tanto el componente federal de aportación del Estado como las necesidades solidarias del Sistema Nacional de Coordinación Fiscal. Asimismo, en una sola ocasión, durante el ejercicio del encargo del Ejecutivo en turno, podrá autorizar, por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, darlos por terminados cuando, de manera motivada y previa revisión, se demuestre que ya no se cumplen las condiciones que justificaron su adhesión y que el Estado puede hacerse cargo de la conducción de la política fiscal.
+XXXVIII. Autorizar al Ejecutivo, por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, la celebración de convenios de coordinación fiscal, siempre y cuando se justifique su conveniencia para el Estado, debiendo tomar en cuenta tanto el componente federal de aportación del Estado como las necesidades solidarias del Sistema Nacional de Coordinación Fiscal. Asimismo, en una sola ocasión, durante el ejercicio del encargo del Ejecutivo en turno, podrá autorizar, por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, darlos por terminados cuando, de manera motivada y previa revisión, se demuestre que ya no se cumplen las condiciones que justificaron su adhesión y que el Estado puede hacerse cargo de la conducción de la política fiscal; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2026)</small>
+
+XXXIX. Ratificar, por el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, a las personas que conforman el órgano desconcentrado de la Contraloría del Estado en materia de transparencia, acceso a la información pública y protección de datos personales del Estado.
 
 > <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -4582,3 +4586,9 @@ SEXTO.- Las reformas contempladas en el artículo 26 surtirán sus efectos a par
 Los Poderes Ejecutivo y Legislativo del Estado propiciarán que los recursos excedentes se destinen a obras de infraestructura pública en beneficio de la población, en los términos de la legislación aplicable, garantizando en todo momento los principios de legalidad, honradez, transparencia y austeridad.
 
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 27 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30201/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL PÁRRAFO QUINTO Y SE ADICIONA UN SEXTO PÁRRAFO RECORRIENDO EN SU ORDEN LOS SUBSECUENTES DE LA FRACCIÓN VI DEL ARTÍCULO 9; Y SE ADICIONA LA FRACCIÓN XXXIX DEL ARTÍCULO 35 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO EL ACUERDO LEGISLATIVO 346/LXIV/26 QUE DECLARA APROBADA LA MINUTA DE DICHO DECRETO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
