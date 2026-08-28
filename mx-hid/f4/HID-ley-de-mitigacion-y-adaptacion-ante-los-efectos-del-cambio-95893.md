@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-9589
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-26"
-last_updated: "2025-12-26"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de agosto de 2013.
 
@@ -118,6 +118,10 @@ VII.- Consejo: Consejo de Cambio Climático;
 VIII.- Contaminantes climáticos de vida corta (CCVC): Gases y compuestos forzantes del clima como el carbono negro (BC), el metano (CH4), el ozono troposférico y algunos hidrofluorocarbonos (HFC);
 
 IX.- Desarrollo Sustentable: Proceso evaluable mediante criterios e indicadores de caracteres ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas. Esta fundado en medidas apropiadas de preservación del equilibrio ecológico, protección al ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+IX Bis.- Desplazamiento interno por desastres naturales: Circunstancia derivada de catástrofes naturales o provocados por el ser humano, en la que personas o comunidades se ven obligadas a dejar sus hogares, viviendas o residencia habitual, y que no han cruzado los límites territoriales del Estado.
 
 X.- Efectos adversos del Cambio Climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
 
@@ -1003,6 +1007,10 @@ III.- Inventario.
 
 Se integrará un Sistema de Información sobre el Cambio Climático a cargo de la Secretaría de Medio Ambiente y Recursos Naturales del Estado, con apego a lo dispuesto por la Ley del Sistema Nacional de Información, Estadística y Geografía.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+El Estado y los municipios, en el ámbito de sus respectivas competencias, garantizarán el ejercicio del derecho de acceso a la información en materia de cambio climático, tanto de manera activa, mediante su difusión proactiva, como pasiva, a través de la atención de solicitudes de información, de conformidad con la legislación aplicable. Para tal efecto, las autoridades competentes atenderán con especial diligencia las necesidades de las personas, pueblos y comunidades en situación de vulnerabilidad, así como de quienes enfrenten barreras de acceso a las tecnologías de la información y la comunicación, y adoptarán los ajustes razonables y formatos accesibles que resulten pertinentes para favorecer la igualdad en el acceso.
+
 ###### Artículo 50.
 
 El Sistema de Información sobre el Cambio Climático del Estado con el apoyo de las diferentes dependencias de Gobierno del Estado y de los Municipios, deberán generar un conjunto de indicadores clave que atenderán como mínimo los temas siguientes:
@@ -1181,6 +1189,10 @@ La Secretaría, establecerá canales de comunicación y líneas de trabajo perma
 
 El Estado y los municipios deberán promover y garantizar la participación corresponsable de la ciudadanía, para la toma de decisiones y en el desarrollo, implementación y verificación del Programa y la Estrategia y de los Programas Municipales, así como en las medidas individuales y colectivas de adaptación y mitigación del cambio climático.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+En dichos procesos, el Estado y los municipios, en el ámbito de sus respectivas competencias, garantizarán condiciones para la participación efectiva de las mujeres rurales, mediante mecanismos accesibles y culturalmente pertinentes que favorezcan el diálogo de saberes y el acceso oportuno a la información, de conformidad con esta Ley y demás disposiciones aplicables.
+
 ### CAPÍTULO XII. INSPECCIÓN Y VIGILANCIA
 
 ###### Artículo 71.
@@ -1271,11 +1283,15 @@ Las dependencias, servidores públicos, Comisión o cualquier otra persona, sin 
 
 Toda persona tendrá derecho a que las autoridades en materia de cambio climático, así como la Comisión, el Consejo y el Sistema de Información Estatal sobre el Cambio Climático pongan a su disposición la información que les soliciten en los términos previstos por las leyes.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 86.
 
-La Comisión deberá elaborar y desarrollar una página de Internet que incluya el informe anual detallado de la situación general del estado en materia de cambio climático, el informe anual de actividades de la Comisión, las medidas que se llevaron a cabo para apoyar la implementación de acciones para enfrentar el cambio climático, los recursos que anualmente se asignan en el Presupuesto de Egresos de la entidad a las dependencias que integran la Comisión para cumplir con las obligaciones de esta Ley y la forma en que se ejercieron; así como los resultados de las evaluaciones de la política estatal de cambio climático que se realicen.
+La Comisión deberá elaborar, desarrollar y mantener actualizada una página de Internet, disponible al público, que incluya, de manera proactiva y oportuna, el informe anual detallado de la situación general del estado en materia de cambio climático, el informe anual de actividades de la Comisión, las medidas que se llevaron a cabo para apoyar la implementación de acciones para enfrentar el cambio climático, los recursos que anualmente se asignan en el Presupuesto de Egresos de la entidad a las dependencias que integran la Comisión para cumplir con las obligaciones de esta Ley y la forma en que se ejercieron; así como los resultados de las evaluaciones de la política estatal de cambio climático que se realicen.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+La Comisión, en el ámbito de sus atribuciones y con sujeción a las excepciones previstas en la legislación aplicable, implementará mecanismos de máxima publicidad para facilitar el acceso público, oportuno y, cuando corresponda, previo a la información y a los expedientes técnicos que obren en su poder con motivo de evaluaciones o consultas relativas a proyectos, obras, planes, programas o políticas que tengan o puedan tener impactos significativos en materia climática o ambiental vinculados con el objeto de esta Ley.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1374,5 +1390,25 @@ P.O. 16 DE AGOSTO DE 2024.
 P.O. 26 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 359 – LXVI POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII, Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 3 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, EN MATERIA DE AMPLIACIÓN DEL OBJETO DE LA LEY”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 707 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, EN MATERIA DE ACCESO A LA INFORMACIÓN CLIMÁTICA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La implementación de las disposiciones previstas en este Decreto se realizará con cargo a los recursos humanos, materiales y presupuestarios aprobados a las autoridades competentes, por lo que no implicará la creación de estructuras administrativas ni la autorización de recursos adicionales.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 708 – LXVI POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 70 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, EN MATERIA DE PARTICIPACIÓN DE LAS MUJERES RURALES EN LA POLÍTICA CLIMÁTICA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 715 – LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN IX BIS AL ARTÍCULO 4 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, EN MATERIA DE DESPLAZAMIENTO INTERNO POR DESASTRES NATURALES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
