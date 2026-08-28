@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-9589
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-26"
-last_updated: "2025-12-26"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1358 +21,1314 @@ state: "HID"
 ---
 # LEY DE MITIGACION Y ADAPTACION ANTE LOS EFECTOS DEL CAMBIO CLIMATICO PARA EL ESTADO DE HIDALGO
 
-LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO
+REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2006.
 
-Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de agosto de 2013.
+Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el miércoles 20 de octubre de 1993.
 
-LIC. JOSÉ FRANCISCO OLVERA RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
+COMISION ESTATAL DE DERECHOS HUMANOS
 
-QUE LA LXI LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-D E C R E T O NUM. 526
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-QUE CONTIENE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO.
+### CAPITULO UNICO
 
-El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-A N T E C E D E N T E S
+###### ARTICULO 1.
 
-ÚNICO.- En sesión ordinaria de fecha 16 de julio del año dos mil trece, por instrucciones del Presidente de la Directiva, nos fue turnada la Iniciativa de Ley de Mitigación y Adaptación ante los Efectos del Cambio Climático para el Estado de Hidalgo, presentada por el Diputado Christian Pulido Roldan, integrante de la Sexagésima Primera Legislatura, por lo que se registró en los Libros de Gobierno de las Primeras Comisiones Permanentes Conjuntas de Legislación y Puntos Constitucionales y de Medio Ambiente, con los números 242/2013 y 40/2013, respectivamente.
+El presente ordenamiento regula la estructura, facultades y funcionamiento de la Comisión de Derechos Humanos del Estado de Campeche como organismo con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, que tiene por objeto esencial es la protección, observancia, promoción, estudio y divulgación de los derechos humanos previstos por el orden jurídico mexicano.
 
-Por lo que, en mérito de lo expuesto; y
+La Comisión Estatal es también un órgano de la sociedad y defensor de ésta.
 
-C O N S I D E R A N D O
+###### ARTICULO 2.
 
-[...]
+Para los efectos de este Reglamento, se denominará Comisión Estatal u Organismo a la Comisión de Derechos Humanos del Estado de Campeche y Ley a la Ley de la Comisión de Derechos Humanos del Estado de Campeche, publicada en el Periódico Oficial del Gobierno del Estado de Campeche el día uno de enero de 1993.
 
-POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-D E C R E T O
+###### ARTICULO 3.
 
-QUE CONTIENE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO.
+Para el desarrollo y el cumplimiento de las funciones y atribuciones que corresponden a la Comisión Estatal, ésta contará con los órganos y estructura administrativa que establecen su Ley y este Reglamento.
 
-Artículo Único.- Se crea la Ley de Mitigación y Adaptación ante los Efectos del Cambio Climático para el Estado de Hidalgo.
+Asimismo podrá contar con un órgano oficial de difusión que, en su caso, se denominará "Gaceta de la Comisión de Derechos Humanos del Estado de Campeche", de periodicidad cuatrimestral. Cuando lo amerite el volumen de material a publicar de que se disponga, y lo permitan los recursos presupuestales con los que la Comisión Estatal cuente, el Consejo Consultivo podrá autorizar la publicación de suplementos de la Gaceta.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+En la Gaceta se publicarán las Recomendaciones o sus síntesis, los Documentos de No Responsabilidad, informes especiales y materiales varios que, por su importancia, merezcan darse a conocer mediante dicha publicación.
 
-###### Artículo 1.
+###### ARTICULO 4.
 
-La presente ley es de orden público, interés general y observancia obligatoria en todo el territorio del Estado de Hidalgo, en concurrencia con los Municipios y la sociedad civil. Establece las disposiciones para enfrentar los efectos adversos del cambio climático.
+En el desempeño de sus funciones y en el ejercicio de su autonomía, la Comisión Estatal no recibirá instrucciones o indicaciones de autoridad o servidor público alguno. Sus recomendaciones de autoridad o servidor público alguno. Sus Recomendaciones y Documentos de No Responsabilidad sólo estarán basados en las evidencias que de manera fehaciente consten en los respectivos expedientes.
 
-###### Artículo 2.
+###### ARTICULO 5.
 
-Esta Ley fortalecerá e instrumentará la coordinación entre los diferentes órdenes de gobierno de manera transversal, implementando acciones frente a los efectos del cambio climático.
+Para los efectos del desarrollo de las funciones de la Comisión Estatal, se entiende que los Derechos Humanos son los inherentes a la naturaleza humana, sin los cuales no se puede vivir como ser humano. En su aspecto positivo, son los que reconoce la Constitución Política de los Estados Unidos Mexicanos y los que se recogen en los Pactos, los convenios y los tratados internacionales suscritos y ratificados por México.
 
-###### Artículo 3.
+###### ARTICULO 6.
 
-Esta Ley tiene como objeto:
+Los términos y los plazos que se señalan en la Ley y en este Reglamento se entenderán como días de calendario, comprendidos los hábiles y los inhábiles, salvo que expresamente se señale que deban computarse únicamente los hábiles.
 
-I.- Preservar el derecho de todas las personas a un medio ambiente adecuado para su desarrollo y bienestar;
+###### ARTICULO 7.
 
-II.- Elaborar y aplicar políticas públicas transversales en el Gobierno Estado, para la adaptación y mitigación de los efectos de la variabilidad climática;
+Los procedimientos que se sigan ante la Comisión Estatal deberán ser breves y sencillos. Para ello se evitarán los formalismos, excepto los ordenados en la Ley y en el presente Reglamento; se procurará, en lo posible, la comunicación inmediata con los quejosos y con las autoridades, sea ésta personal, telefónica o por cualquier otro medio, a efecto de allegarse los elementos suficientes para determinar su competencia y proceder en consecuencia. Asimismo, durante la tramitación de los expedientes de queja, se buscará que a la brevedad posible se realice la investigación a que haya lugar, evitando actuaciones no indispensables.
 
-III.- Registrar y dar seguimiento a las emisiones de gases y compuestos de efecto invernadero;
+###### ARTICULO 8.
 
-IV.- Reducir la vulnerabilidad de los asentamientos humanos y los ecosistemas del Estado frente a los efectos de la variabilidad climática, así como crear y fortalecer las capacidades estatales de respuesta al fenómeno;
+Todas las actuaciones de la Comisión Estatal serán gratuitas. Esta disposición deberá ser informada explícitamente a quienes recurran a ella. Cuando para el trámite de las quejas los interesados decidan contar con la asistencia de un abogado o representante profesional, se les deberá hacer la indicación de que ello no es indispensable y se les recordará la gratuidad de los servicios que la Comisión Estatal tiene la obligación de proporcionar.
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+###### ARTICULO 9.
 
-V.- Fomentar la educación, investigación, difusión, innovación, desarrollo y transferencia de tecnología para lograr una mejor adaptación de los potenciales impactos del cambio climático en el Estado;
+Las investigaciones que realice el personal de la Comisión Estatal, los trámites de procedimiento que se lleven a cabo en cada expediente de queja, así como la documentación recibida por la autoridad y los quejosos, se verificarán dentro de la más absoluta reserva, en los términos del segundo párrafo del Artículo 4o. de la Ley.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+Lo anterior, sin perjuicio de las consideraciones que en casos concretos se puedan formular a través de las Recomendaciones, las declaraciones y los informes anuales o especiales.
 
-VI.- Promover una economía competitiva, a través de procesos productivos eficientes con bajas emisiones de carbono;
+###### ARTICULO 10.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+Los servidores públicos que laboren en la Comisión de Derechos Humanos del Estado de Campeche no estarán obligados a rendir testimonio cuando dicha prueba haya sido ofrecida en procesos civiles, penales o administrativos y el testimonio se encuentre relacionado con su intervención en el tratamiento de las quejas radicadas en la Comisión Estatal.
 
-VII.- El establecimiento de estrategias que contribuyan al cumplimiento del Acuerdo de París, en observancia de las disposiciones o el instrumento internacional vigente en la materia;
+###### ARTICULO 11.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+El personal de la Comisión Estatal prestará sus servicios inspirado, primordialmente, en los altos principios que conforman la existencia y los propósitos de dicho Organismo. En consecuencia, deberá procurar en toda circunstancia la protección de los Derechos Humanos de los quejosos; participar en las acciones de promoción de los Derechos Humanos y elevar al conocimiento y resolución de los superiores jerárquicos toda iniciativa que contribuya a la mejor realización de las finalidades de la institución.
 
-VIII.- Promover la movilidad activa o no motorizada, la electromovilidad y sistemas de transporte colectivo sustentables con la finalidad de mitigar la contaminación del aire por emisiones de gases y compuestos de efecto invernadero; y
+## TITULO SEGUNDO. FUNCIONES DE LA COMISIÓN ESTATAL
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+### CAPITULO I. ATRIBUCIONES GENERALES
 
-IX.- Fomentar la colaboración del estado y los municipios en la elaboración de políticas públicas para la promoción de un medio ambiente sano, la adaptación al cambio climático y la mitigación de emisiones de gases y compuestos de efecto invernadero.
+###### ARTICULO 12.
 
-###### Artículo 4.
+Las funciones y atribuciones de la Comisión Estatal son las que establece el artículo 6o. de su Ley.
 
-Para los efectos de esta Ley, se entenderá:
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-I.- Adaptación: Medidas encaminadas a reducir la vulnerabilidad de los sistemas naturales y humanos ante los efectos adversos del cambio climático;
+Para efectos de lo dispuesto en la fracción X del mismo articulado, la Comisión a través de los visitadores penitenciarios, practicarán periódicamente visitas de supervisión a los centros de internamiento para adultos y menores del Estado, así como centros de detención administrativa estatales y municipales con el siguiente objetivo:
 
-II.- Aportación por compensación y/o mitigación ambiental: Es la contribución económica que se realiza al Fondo Ambiental del Estado, derivado de procedimientos de: 1) Evaluación de impacto y riesgo ambiental, 2) Regulación y control de fuentes emisoras de contaminantes a la atmosfera; y 3) Manejo de residuos industriales no peligrosos o de manejo especial;
+I. Inspeccionar el local de la reclusión y detención para verificar las condiciones físicas en las que se encuentra;
 
-III.- Atlas de Riesgo Ambiental: Documento especializado y dinámico cuyas evaluaciones de riesgo en regiones o zonas geográficas vulnerables, consideran los escenarios climáticos actuales y futuros;
+II. Hacer cesar en el acto cualquier violación de derechos humanos de inmediata reparación;
 
-IV.- Cambio Climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmosfera y que se suma a la variabilidad climática natural observada durante periodos de tiempo comparables;
+III. Proponer prácticas administrativas que redunden en una mejor protección física y mental de los reclusos y detenidos;
 
-V.- Clima: Descripción estadística del estado del tiempo, en términos de valores medios y variabilidad de las magnitudes de temperatura, precipitación, humedad, velocidad y dirección del viento, entre otros, durante periodos que pueden ser de meses a miles de años;
+IV. Dar audiencia a los internos y detenidos para escuchar sus necesidades, atender sus peticiones, recibir y tramitar las quejas individuales y colectivas sobre presuntas violaciones a sus derechos humanos;
 
-VI.- Comisión: Comisión Estatal Intersectorial de Cambio Climático;
+V. Supervisar y realizar el seguimiento de los programas de capacitación laboral, educativos y de salud, y las medidas de readaptación social ordenadas;
 
-VII.- Consejo: Consejo de Cambio Climático;
+VI. Vigilar el respeto de los derechos que garantizan una estancia digna y segura en la prisión, así como en los centros de detención administrativa; y
 
-VIII.- Contaminantes climáticos de vida corta (CCVC): Gases y compuestos forzantes del clima como el carbono negro (BC), el metano (CH4), el ozono troposférico y algunos hidrofluorocarbonos (HFC);
+VII. Tramitar beneficios de ley y solicitudes de traslado de reos sentenciados ante las autoridades correspondientes.
 
-IX.- Desarrollo Sustentable: Proceso evaluable mediante criterios e indicadores de caracteres ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas. Esta fundado en medidas apropiadas de preservación del equilibrio ecológico, protección al ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-X.- Efectos adversos del Cambio Climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
+De dichas visitas se deberá levantar un acta circunstanciada en la que se señalarán las observaciones y recomendaciones pertinentes debiendo ir firmada por todos los concurrentes.
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+### CAPITULO II. COMPETENCIA EN MATERIA DE PRESUNTAS VIOLACIONES A DERECHOS HUMANOS
 
-X Bis.- Electromovilidad: El desplazamiento de personas y bienes mediante el uso de vehículos eléctricos, entendidos como aquellos que utilizan combustibles y/o energía alternativa impulsado por uno o más motores eléctricos;
+###### ARTICULO 13.
 
-XI.- Emisión: Liberación de gases de efecto invernadero, o sus precursores, en la atmósfera, en un área y en un espacio de tiempo específicos;
+Para los efectos de lo dispuesto por los Artículos 3o. y 6o. de su Ley, la Comisión Estatal tendrá competencia en todo el territorio del Estado de Campeche, para conocer de quejas relacionadas con presuntas violaciones a los Derechos Humanos cuando éstas fueren imputadas a autoridades y servidores públicos de carácter estatal y municipal, con excepción de los del Poder Judicial del Estado.
 
-XII.- Estado: Estado de Hidalgo;
+###### ARTICULO 14.
 
-XIII.- Estrategia: Estrategia Estatal de Acción ante el Cambio Climático;
+Para los efectos de lo dispuesto por el Artículo 6o., Fracción II; inciso a), de la Ley, se entiende por actos u omisiones de autoridades administrativas, de carácter estatal y municipal, los que provengan de instituciones, dependencias u organismos tanto de la administración pública, estatal o municipal, en tanto que tales actos u omisiones puedan considerarse como de autoridad.
 
-XIV.- Estrategia Nacional: Estrategia Nacional de Cambio Climático;
+###### ARTICULO 15.
 
-XV.- Fondo: Fondo Ambiental del Estado de Hidalgo, que es el fideicomiso de captación y canalización de recursos económicos, sin fines de lucro, que apoya técnica y financieramente acciones de mitigación y adaptación al cambio climático, entre otras;
+Para los efectos de lo dispuesto por el artículo 6o., fracción II, inciso b) de la Ley, se entiende por "ilícitos" las conductas que puedan tipificarse como delitos y las faltas o las infracciones administrativas.
 
-XVI.- Fuentes Emisoras: Establecimiento o instalación, pública o privada, en donde se realizan actividades industriales, comerciales, agropecuarias, de servicios o aprovechamiento de recursos naturales que generan emisiones;
+###### ARTICULO 16.
 
-XVII.- Gases efecto invernadero: Aquellos componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y emiten radiación infrarroja, estos son el Dióxido de Carbono (CO2), Metano (CH4), Óxido Nitroso (N2O), Hidrofluorocarbonos (HFC), perfluorocarbonos (PFC) y hexafluoruro de azufre (SF6);
+Para los efectos de lo dispuesto por el Artículo 7o., Fracción II, de la Ley, se entiende por resoluciones de carácter jurisdiccional:
 
-XVIII.- INECC. Instituto Nacional de Ecología y Cambio Climático;
+I. Las sentencias o laudos definitivos que concluyan la instancia;
 
-XIX.- Inventario: Inventario Estatal de Emisiones de gases efecto invernadero;
+II. Las sentencias interlocutorias que se emitan durante el proceso; y
 
-XX.- Ley: Ley de Mitigación y Adaptación ante los Efectos del Cambio Climático para el Estado de Hidalgo;
+III. Los autos, decretos y acuerdos dictados por el Juez o por el personal del juzgado o tribunal para cuya expedición se haya realizado una valoración y determinación jurídica o legal.
 
-XXI.- Mitigación: Intervención humana destinada a reducir los efectos del cambio climático, mediante la disminución de emisiones de gases efecto invernadero y su captura;
+En materia administrativa tendrán similar carácter las resoluciones que sean análogas a las señaladas en las fracciones anteriores.
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+Los demás actos u omisiones procedimentales del Poder Judicial serán considerados con el carácter de administrativos, y en consecuencia, susceptibles de ser reclamados ante la Comisión Estatal de Derechos Humanos. Por ningún motivo la Comisión Estatal podrá examinar cuestiones jurisdiccionales.
 
-XXI Bis.- Movilidad activa o no motorizada: Desplazamiento de personas y bienes que requiere de esfuerzo físico, utilizando ayudas técnicas o mediante el uso de vehículos no motorizados;
+###### ARTICULO 17.
 
-XXII.- Ordenamiento Territorial: Instrumento normativo que regula el uso territorial, definiendo los usos posibles para las diversas áreas en que se ha dividido el territorio, ya sea: el país como un todo, o una división administrativa del mismo;
+Para efecto de lo dispuesto por el artículo 7o., fracción III, de la Ley, se entiende por conflictos laborales los suscitados entre un patrón o varios y uno o más trabajadores, incluso cuando el patrón sea una autoridad o dependencia estatal o municipal.
 
-XXIII.- Ordenamiento Ecológico del Territorio: Es el instrumento de política ambiental para regular o inducir el uso de suelo y las actividades productivas a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos, con el fin de lograr la protección del ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales;
+###### ARTICULO 18.
 
-XXIV.- Procuraduría: Procuraduría Estatal de Protección al Ambiente del Estado de Hidalgo;
+Cuando la Comisión Estatal reciba un escrito de queja que resulte de la competencia de diversa Comisión de Derechos Humanos, enviará al quejoso el correspondiente acuse de recibo y, sin admitir la instancia, la turnará a la Comisión respectiva, notificando de ello al quejoso a fin de que éste dé a su queja el seguimiento que corresponda.
 
-XXV.- Programa: Programa Estatal de Acción ante el Cambio Climático;
+###### ARTICULO 19.
 
-XXVI.- Programa Especial: Programa Especial de Cambio Climático;
+Cuando en un mismo hecho o circunstancia estuvieren involucradas tanto autoridades o servidores públicos de la Federación como del Estado o Municipios, la competencia se surtirá en favor de la Comisión Nacional.
 
-XXVII.- Programas Municipales: Programas o Planes de Acción Climática Municipal;
+## TITULO TERCERO. ÓRGANOS Y ESTRUCTURA ADMINISTRATIVA DE LA COMISIÓN ESTATAL
 
-XXVIII.- Protocolo de Kioto: Instrumento Internacional ligado a la Convención Marco de las Naciones Unidas sobre Cambio Climático, que establece compromisos legalmente vinculantes, mecanismos y medidas para limitar o reducir las emisiones de gases efecto invernadero;
+### CAPITULO I. INTEGRACIÓN
 
-XXIX.- Registro de Emisiones: Base de datos estatal con información de sustancias contaminantes emitidas al ambiente;
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
 
-XXX.- Riesgo: Probabilidad de que se produzca un daño a las personas, en uno o varios ecosistemas, originado por un fenómeno natural o antropógeno;
+###### ARTÍCULO 20.
 
-XXXI.- Secretaría: Secretaría de Medio Ambiente y Recursos Naturales;
+Los órganos de la Comisión Estatal son los siguientes:
 
-XXXII.- Servicios Ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano;
+I.- La Presidencia;
 
-XXXIII.- Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmosfera un gas de efecto invernadero y/o sus precursores y aerosoles en la atmosfera incluyendo en su caso, compuestos de efecto invernadero; y
+II.- El Consejo Consultivo;
 
-XXXIV.- Vulnerabilidad: Nivel a que un sistema es susceptible o no es capaz de soportar los efectos adversos del cambio climático, incluidos la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de a (sic) variación climática a la que se encuentra expuesto un sistema, su sensibilidad y su capacidad de adaptación.
+III.- Los Visitadores Generales; y
 
-###### Artículo 5.
+IV.-La Secretaría Ejecutiva.
 
-Se observará de manera supletoria y complementaria a esta Ley, los ordenamientos federales, Tratados Internacionales y ordenamientos acordes.
+La Comisión Estatal también contará con un órgano interno de control, el cual tendrá las atribuciones previstas en el presente Reglamento.
 
-###### Artículo 6.
+La Comisión Estatal además contará con un órgano académico denominado Instituto de Estudios en Derechos Humanos.
 
-Son autoridades en materia de cambio climático en el Estado, en el ámbito de sus respectivas competencias:
+### CAPITULO II. DE LA PRESIDENCIA
 
-I.- El Gobernador;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2006)</small>
 
-II.- El Titular de la Secretaría;
+###### ARTÍCULO 21.
 
-III.- El Titular de la Procuraduría; y
+La Presidencia es el órgano ejecutivo de la Comisión Estatal; está a cargo de un Presidente a quien corresponde realizar, en los términos establecidos por la Ley, las funciones directivas del Organismo del cual es su representante legal.
 
-IV.- Los municipios.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
 
-###### Artículo 7.
+Para el despacho de los asuntos que directamente corresponden a la Presidencia de la Comisión, ésta contará con el apoyo de las siguientes unidades administrativas:
 
-Corresponde al Estado, las siguientes atribuciones:
+I.- (DEROGADA, P.O. 8 DE MARZO DE 2006)
 
-I.- Formular, conducir y evaluar la política estatal en materia de mitigación y adaptación ante los efectos del cambio climático en concordancia con la política nacional;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2006)</small>
 
-II.- Formular, regular, dirigir e instrumentar acciones de mitigación y adaptación al cambio climático, de acuerdo con el Programa y Estrategia Estatal en las materias siguientes:
+II.-.Unidad de Información Automatizada; y
 
-a).- Preservación, restauración, manejo y aprovechamiento sustentable de los ecosistemas y recursos hídricos de su competencia;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2006)</small>
 
-b).- Seguridad alimentaria;
+III.-Secretaría Particular.
 
-c).- Agricultura, ganadería, desarrollo rural, pesca y acuacultura;
+###### ARTÍCULO 21 Bis.
 
-d).- Educación;
+(DEROGADO, P.O. 8 DE MARZO DE 2006)
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-e).- Infraestructura eficiente, sustentable y el impulso de la movilidad activa o no motorizada, la electromovilidad y el transporte con menor costo ambiental para garantizar la mejora en la calidad del aire;
+###### ARTÍCULO 21 Ter.
 
-f).- Ordenamiento territorial de los asentamientos humanos y desarrollo urbano de los centros de población y el ordenamiento ecológico territorial en coordinación con sus municipios;
+La Unidad de Información Automatizada tendrá las siguientes atribuciones:
 
-g).- Recursos naturales y protección al ambiente dentro de su competencia;
+I.- Establecer y operar el sistema de Informática de la Comisión Estatal, registrando en una base de datos automatizada todas las acciones llevadas a cabo por la Comisión Estatal;
 
-h).- Residuos sólidos y de manejo especial;
+II.- Programar, sistematizar, actualizar y proveer la información contenida en las bases de datos y sistemas, a los órganos y unidades administrativas que integran la Comisión Estatal, así como elaborar, actualizar, resguardar y administrar los sistemas, bases de datos y herramientas informáticas;
 
-i).- Protección civil, y
+III.- Promover y apoyar la capacitación del personal de la Comisión para el uso y manejo de los sistemas de información existentes y los de nueva adquisición;
 
-j).- Prevención y atención de enfermedades derivadas de los efectos del cambio climático.
+IV.- Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Estatal.
 
-III.- Incorporar en sus instrumentos de política ambiental, criterios de mitigación y adaptación al cambio climático;
+IV.- (sic) Todas aquellas tareas que le sean asignadas por el Presidente de la Comisión Estatal.
 
-IV.- Establecer metas e indicadores de efectividad e impacto de las acciones de mitigación y adaptación que implementen;
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-V.- Celebrar convenios de coordinación con la Federación, entidades federativas y los municipios, para la implementación de acciones para la mitigación y adaptación;
+ARTÍCULO 21 Cuar.- La Secretaría Particular dependerá directamente del Presidente de la Comisión y tendrá las siguientes atribuciones:
 
-VI.- Fomentar la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la mitigación y adaptación al cambio climático;
+I.- Turnar a los órganos o unidades administrativas de la Comisión Estatal la correspondencia a ellos dirigida, que se reciba en las oficinas de la Comisión Estatal;
 
-VII.- Promover la participación corresponsable de la sociedad en la adaptación y mitigación, de conformidad con lo dispuesto en leyes aplicables;
+II.- Mantener un contacto permanente con los representantes de los medios de comunicación social, con el fin de tenerlos informados sobre las acciones que la Comisión Estatal pretenda difundir;
 
-VIII.- Elaborar, publicar y actualizar el Atlas Estatal de Riesgo, en coordinación con sus municipios, conforme a los criterios emitidos por la Federación;
+III.- Coordinar las reuniones de prensa del Presidente y demás funcionarios de la Comisión Estatal;
 
-IX.- Establecer las bases e instrumentos para promover el fortalecimiento de capacidades institucionales y sectoriales para enfrentar al cambio climático;
+IV.- Coordinar la agenda de la Presidencia de la comisión Estatal; y
 
-X.- Diseñar y promover el establecimiento y aplicación de incentivos que promuevan la ejecución de acciones para el cumplimiento del objeto de la ley; y
+IV.- (sic) Todas aquellas tareas que le sean asignadas por el Presidente de la Comisión Estatal.
 
-XI.- Las demás que las señalen esta ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-###### Artículo 8.
+###### ARTICULO 22.
 
-Corresponden a la Secretaría, las siguientes atribuciones:
+Las Visitadurías Generales y la Secretaría Ejecutiva son órganos auxiliares de la Presidencia de la Comisión Estatal y realizarán sus funciones en los términos de la Ley y de acuerdo con las instrucciones que al efecto gire la propia Presidencia de la Comisión.
 
-I.- Elaborar e instrumentar el Programa y Estrategia Estatal, promoviendo la participación social, escuchando y atendiendo a los sectores público, privado y sociedad en general;
+El Secretario Técnico del Consejo Consultivo también auxiliará a la Presidencia de la Comisión en los términos de este Reglamento.
 
-II.- Establecer criterios y procedimientos para evaluar y vigilar el cumplimiento del Programa;
+###### ARTICULO 23.
 
-III.- Gestionar y administrar fondos locales para apoyar e implementar acciones en la materia;
+El nombramiento del Presidente de la Comisión Estatal; los requisitos que deba reunir para ocupar el cargo; la duración en el cargo; el procedimiento de destitución y el régimen jurídico que como funcionario le es aplicable, son los que se establecen en los artículos 8, 9, 10, 11, 12 y 13 de la Ley.
 
-IV.- Desarrollar estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero para impulsar el transporte eficiente y sustentable, público y privado;
+###### ARTICULO 24.
 
-V.- Elaborar, publicar y actualizar el Atlas de Riesgo Ambiental Estatal;
+Durante las ausencias temporales del Presidente de la Comisión Estatal, sus funciones y su representación legal serán cubiertas por el Visitador General de mayor antigüedad.
 
-VI.- Realizar campañas de educación e información para sensibilizar a la población sobre los efectos adversos del cambio climático;
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+###### ARTÍCULO 25.
 
-VI Bis.- Desarrollar estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero mediante el impulso de la movilidad activa o no motorizada, la electromovilidad y el transporte con menor costo ambiental con base en evidencia científica y territorial para garantizar la mejora en la calidad del aire;
+Con las excepciones establecidas en la Ley y en este Reglamento, corresponde al Presidente de la Comisión Estatal, nombrar libre y discrecionalmente a todo el personal del Organismo, y removerlo con apego a lo dispuesto en la Ley de los Trabajadores al Servicio del Gobierno del Estado de Campeche.
 
-VII.- Elaborar e integrar, en colaboración con el INECC, la información de las categorías de fuentes emisoras, para su incorporación al Inventario Estatal de Emisiones;
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JULIO DE 2000)</small>
 
-VIII.- Integrar el Inventario Estatal de Emisiones, conforme a los criterios e indicadores elaborados por la Federación en la materia;
+### CAPITULO III. DEL CONSEJO CONSULTIVO
 
-IX.- Convenir con los sectores social y privado la realización de acciones e inversiones concertadas hacia el cumplimiento del Programa;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-X.- Vigilar el cumplimiento de esta Ley y los demás ordenamientos que de ella se deriven, así como sancionar su incumplimiento; y
+###### ARTICULO 26.
 
-XI.- Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
+El Consejo Consultivo tendrá competencia para establecer los lineamientos generales de actuación y los programas anuales de trabajo del Organismo. Las funciones del Consejo Consultivo son las que se establecen en el Artículo 18 de la Ley y además auxiliará al Presidente de la Comisión Estatal, cuando éste se lo requiera, en:
 
-###### Artículo 9.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-Corresponde a la Procuraduría la atención de las denuncias ciudadanas que cualquier persona le presente por violaciones o incumplimiento a las disposiciones de la presente Ley, dándole curso legal en los términos de su acuerdo de creación.
+I.- Opinar respecto del cumplimiento por parte de los órganos y estructura administrativa de la Comisión Estatal, de las normas de control, fiscalización y evaluación;
 
-###### Artículo 10.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-Corresponde a los municipios, las siguientes atribuciones:
+II.- Opinar respecto del cumplimiento de los lineamientos generales y sistemas y procedimientos administrativos por parte de las dependencias de la Comisión Estatal;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+III.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-I.- Formular, conducir y evaluar la política municipal en materia de mitigación y reducción del cambio climático en concordancia con la política nacional y estatal;
+IV.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+V.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-II.- Formular e instrumentar políticas y acciones para enfrentar al cambio climático en congruencia con el Plan Estatal de Desarrollo, la Estrategia, el Programa, creando por medio de sus Ayuntamientos el correspondiente Reglamento de acción Ecológica y mitigación de los efectos del cambio climático en relación transversal con las leyes aplicables, en las siguientes materias:
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-a) Prestación del servicio de agua potable y saneamiento;
+VI.- Opinar respecto de los proyectos de Recomendación y Acuerdos de No Responsabilidad que sobre los expedientes de queja formulen los Visitadores Generales; y
 
-b) Ordenamiento ecológico local y desarrollo urbano;
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-c) Recursos naturales y protección al ambiente de su competencia;
+VII.- Las demás funciones que le atribuyan otras disposiciones legales y reglamentarias.
 
-d) Protección civil;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-e) Manejo de residuos sólidos urbanos;
+###### ARTICULO 27.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+El nombramiento de los miembros del Consejo Consultivo, los requisitos para su designación, las formas de substituirlos y el régimen legal que les es aplicable, son los que establecen los Artículos 16 y 17 de la Ley.
 
-f) Transporte público de pasajeros eficiente y sustentable con menor costo ambiental; y la movilidad activa o no motorizada en su ámbito jurisdiccional; y
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-g) Otros servicios públicos municipales que contribuyan a la generación de emisiones a la atmosfera.
+###### ARTICULO 28.
 
-III.- Fomentar la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la mitigación y adaptación al cambio climático:
+Cuando se requiera de la interpretación de cualquier disposición del presente Reglamento o de aspectos que éste no prevea, el Presidente de la Comisión Estatal lo someterá a la consideración del Consejo Consultivo para que éste dicte el acuerdo respectivo.
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-IV.- Realizar programas y campañas de educación e información, mediante la participación social, sobre temas de mitigación y reducción de los efectos del cambio climático en coordinación con el gobierno estatal y federal, para sensibilizar a la población.
+###### ARTICULO 29.
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+Los lineamientos generales de actuación de la Comisión Estatal que apruebe el Consejo Consultivo, de acuerdo con la Ley y este Reglamento, se establecerán mediante declaraciones, acuerdos o tesis, mismos que serán publicados en el Periódico Oficial del Gobierno del Estado, en uno de los diarios de mayor circulación en la entidad y, además, en la Gaceta de la propia Comisión.
 
-V.- Promover el fortalecimiento de capacidades institucionales, específicamente con los servicios de salud, para generar los programas sectoriales para la mitigación y adaptación de la población al cambio climático;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-VI.- Participar en el diseño y aplicación de incentivos que promuevan acciones para el cumplimiento del objeto de la presente ley;
+###### ARTICULO 30.
 
-VII.- Coadyuvar con el Estado en la instrumentación del Programa y la Estrategia;
+Las sesiones ordinarias del Consejo Consultivo se celebrarán cuando menos una vez al mes de acuerdo con el calendario que señale el propio Consejo.
 
-VIII.- Gestionar y administrar recursos para ejecutar acciones de adaptación y mitigación ante el cambio climático;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+###### ARTICULO 31.
 
-IX.- Elaborar e integrar, de manera trimestral la actualización de la información de las categorías de Fuentes Emisoras que se originan en su territorio, para su incorporación al Inventario Estatal de Emisiones, conforme a los criterios e indicadores elaborados por la federación en la materia;
+Se podrá convocar a sesiones extraordinarias del Consejo Consultivo, por el Presidente de la Comisión Estatal, por sí o a solicitud de tres de sus miembros, cuando se estime que haya razones de importancia para ello.
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-IX Bis.- Coadyuvar con la Secretaría en el desarrollo de estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero mediante el impulso de la movilidad activa o no motorizada, la electromovilidad y el transporte con menor costo ambiental para garantizar la mejora en la calidad del aire;
+###### ARTICULO 32.
 
-X.- Vigilar y promover, en el ámbito de su competencia, el cumplimiento de esta Ley, sus disposiciones reglamentarias y los demás ordenamientos que deriven de ella; y
+De cada una de las sesiones ordinarias o extraordinarias del Consejo Consultivo, se levantará acta, en la que se asiente una síntesis de las intervenciones de cada Consejero y de los funcionarios administrativos que a ellas asistan. Igualmente se transcribirán los acuerdos o tesis que hayan sido aprobados.
 
-XI.- Las demás que señale esta Ley y las disposiciones jurídicas aplicables.
+Las actas serán aprobadas, en su caso, por el Consejo Consultivo en la sesión ordinaria inmediatamente posterior.
 
-###### Artículo 11.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-En la formulación de la Política Estatal de Cambio Climático se observarán los principios de:
+###### ARTICULO 33.
 
-I.- Sustentabilidad, en el aprovechamiento o uso de los ecosistemas y los elementos naturales que los integran;
+Para la realización de las sesiones ordinarias o extraordinarias, el Secretario Técnico del Consejo Consultivo enviará a los Consejeros, por lo menos con 72 horas de anticipación, el citatorio y el orden del día previsto para la sesión, así como todos los materiales que por su naturaleza deban ser estudiados por los Consejeros antes de llevar a cabo la misma.
 
-II.- Corresponsabilidad entre el Estado y la sociedad en general, en la realización de acciones para la mitigación y adaptación a los efectos adversos del cambio climático;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-III.- Precaución, cuando haya amenaza de daño grave o irreversible, la falta de total certidumbre científica no deberá utilizarse como razón para posponer las medidas de mitigación y adaptación para hacer frente a los efectos adversos del cambio climático;
+###### ARTICULO 34.
 
-IV.- Prevención, considerando que ésta, es el medio más eficaz para evitar los daños al medio ambiente y preservar el equilibrio ecológico ante los efectos del cambio climático;
+Se requerirá como quórum para llevar a cabo la sesión del Consejo Consultivo, la asistencia de cuando menos la mitad de los miembros del Consejo. Transcurrida media hora de la fijada para el inicio de la sesión, ésta comenzará válidamente con los miembros presentes, siempre y cuando se encuentre entre éstos el Presidente de la Comisión Estatal, o quien legalmente lo sustituya, y el Secretario Técnico. Las decisiones del Consejo Consultivo se tomarán por la mayoría de votos de los miembros presentes.
 
-V.- Adopción de patrones de producción y consumo por parte de los sectores público, social y privado para transitar hacia una economía de bajas emisiones en carbono;
+Durante el desarrollo de las sesiones ordinarias del Consejo Consultivo, los Visitadores Generales informarán a éste, en términos numéricos, sobre las quejas recibidas en el mes correspondiente; los expedientes que fueron concluidos y sus causas; las Recomendaciones y los Documentos de No Responsabilidad expedidos; las personas atendidas para efectos de orientación y cualquier otro aspecto que resulte importante a juicio de los Consejeros.
 
-VI.- Integralidad y transversalidad, adoptando un enfoque de coordinación y cooperación entre órdenes de gobierno, así como con los sectores social y privado para asegurar la instrumentación de la política estatal de cambio climático;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-VII.- Participación ciudadana en la formulación, ejecución, monitoreo y evaluación del Programa y la Estrategia;
+###### ARTICULO 35.
 
-VIII.- Responsabilidad ambiental, quien realice obras o actividades que afecten o puedan afectar al medio ambiente, estará obligado a prevenir, minimizar, mitigar, reparar, restaurar y, en última instancia, a la compensación de los daños que cause;
+El Consejo Consultivo de la Comisión Estatal contará con un Secretario Técnico que será designado en los términos establecidos por el Artículo 17, segundo párrafo, de la Ley. El Secretario Técnico acordará con el Presidente de la Comisión Estatal.
 
-IX.- El uso de instrumentos económicos en la mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático, incentiva la protección, preservación y restauración del ambiente; el aprovechamiento sustentable de los recursos naturales, además de generar beneficios económicos a quienes los implementan;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-X.- Transparencia, acceso a la información y a la justicia, considerando que el Estado y los Municipios deben facilitar y fomentar la concientización de la población, poniendo a su disposición la información relativa al cambio climático y proporcionando acceso efectivo a los procedimientos judiciales y administrativos pertinentes atendiendo a las disposiciones jurídicas aplicables;
+###### ARTICULO 36.
 
-XI.- Conservación de los ecosistemas y su biodiversidad, dando prioridad a las zonas y regiones que brindan servicios ambientales, fundamental para reducir la vulnerabilidad; y
+El Secretario Técnico del Consejo Consultivo tendrá las siguientes funciones:
 
-XII.- Compromiso con el desarrollo económico estatal, para lograr la sustentabilidad sin vulnerar su competitividad frente a los mercados nacionales e internacionales.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+A).- Respecto al Consejo Consultivo:
 
-Al adoptar medidas para hacer frente al cambio climático, se deberán respetar irrestrictamente los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y la del Estado de Hidalgo.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-### CAPÍTULO II. DE COMPETENCIAS
+I.- Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que el Consejo Consultivo celebre;
 
-###### Artículo 12.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-Los habitantes del Estado deberán participar, de manera ordenada y activa, en los esfuerzos encaminados a la adaptación y mitigación de los efectos adversos del cambio climático.
+II.- Remitir oportunamente a los consejeros citatorios, órdenes del día y demás material indispensable para realizar las sesiones ordinarias y extraordinarias;
 
-Para el cumplimiento de los objetivos establecidos en esta Ley, los Planes Estatal, regionales y municipales de Desarrollo, los Programas Sectoriales y la Estrategia, deberán fijar metas, objetivos específicos de mitigación y adaptación, mecanismos de medición, reporte y verificación, así como de monitoreo y evaluación.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-#### SECCIÓN PRIMERA. ADAPTACIÓN Y VULNERABILIDAD
+III.- Brindar a los Consejeros el apoyo necesario para el mejor cumplimiento de sus responsabilidades;
 
-### CAPÍTULO III. POLÍTICA ESTATAL DE CAMBIO CLIMÁTICO
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-###### Artículo 13.
+B).-Respecto al área operativa:
 
-La política estatal de adaptación frente al cambio climático se sustentará en instrumentos de diagnóstico, planificación, medición, reporte y verificación, así como monitoreo y evaluación, tendrá como objetivos:
+IV.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2004)
 
-I.- Reducir la vulnerabilidad de la sociedad y los ecosistemas frente a los efectos del cambio climático;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-II.- Fortalecer la resiliencia y resistencia de los sistemas naturales y humanos;
+V.- Dirigir la edición de las publicaciones que realice la Comisión Estatal en coordinación con la Unidad de Información Automatizada;
 
-III.- Minimizar riesgos y daños, considerando los escenarios actuales y futuros del cambio climático;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-IV.- Identificar la vulnerabilidad y capacidad de adaptación y transformación de los sistemas ecológicos, físicos y sociales, y aprovechar oportunidades generadas por nuevas condiciones climáticas;
+VI.- Supervisar las actividades de distribución y comercialización de las publicaciones;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+VII.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2004)
 
-V.- Establecer mecanismos de atención inmediata y expedita en zonas impactadas por los efectos del cambio climático como parte de los planes y acciones de protección civil;
+VIII.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-VI.- Facilitar y fomentar la seguridad alimentaria, la productividad agrícola, ganadera, pesquera, acuícola, la preservación de los ecosistemas y de los recursos naturales; y
+IX.- Operar el sistema de evaluación del cumplimiento de las Recomendaciones con los Visitadores Generales y solicitar a éstos, en su caso, la práctica de diligencias que fueren necesarias a fin de verificar la información recibida;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-VII.- Impulsar la movilidad activa o no motorizada, la electromovilidad y el transporte eficiente y sustentable, para garantizar la mejora en la calidad de aire.
+X.- Solicitar informes adicionales a las autoridades a quienes se dirigió una Recomendación, a fin de que precisen datos o aporten otros elementos para poder evaluar el grado de cumplimiento;
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-Artículo 13 BIS.- El Gobierno del Estado y los Municipios, en el ámbito de sus competencias, deberán prever acciones para la adaptación en la elaboración de las políticas, la Estrategia Estatal, el Programa Estatal y los programas municipales en los siguientes ámbitos:
+XI.- Enviar oficios recordatorios a las autoridades destinatarias de Recomendaciones y Propuestas de Conciliación a efecto de que cumplan con los plazos previstos en este Reglamento para el cumplimiento de esas resoluciones emitidas;
 
-I. Gestión integral del riesgo;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-II. Recursos hídricos;
+XII.- Informar a los quejosos respecto del cumplimiento de las Recomendaciones correspondientes; realizando tal función en coordinación con los Visitadores Generales;
 
-III. Agricultura, ganadería, silvicultura, pesca y acuacultura;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-IV. Ecosistemas y biodiversidad;
+XIII.- Coordinar labores con los Visitadores Generales, otorgando y solicitando los Informes que resulten indispensables;
 
-V. Energía, industria y servicios;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-VI. Infraestructura de transportes y comunicaciones;
+XIV.- Presentar al Presidente de la Comisión Estatal informes mensuales y los proyectos anuales sobre los datos estadísticos de los diversos programas operativos que ejecuta la Comisión Estatal, así como del seguimiento de las Recomendaciones;
 
-VII. Ordenamiento ecológico del territorio, desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático, asentamientos humanos y desarrollo urbano;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-VIII. Salubridad general e infraestructura de salud pública; y
+XV.- Elaborar los proyectos de informes que el Presidente de la Comisión Estatal deba enviar a las autoridades, sobre el estado que guarde el cumplimiento de cada una de las Recomendaciones que les han sido enviadas;
 
-IX. Las demás que las autoridades estimen prioritarias.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-###### Artículo 14.
+XVI.- Promover y fortalecer las relaciones con las Organizaciones No-Gubernamentales pro Derechos Humanos existentes en el Estado y en el País; y
 
-Se considerarán acciones de adaptación:
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-I.- La determinación de la vocación natural del suelo;
+XVII.- Las demás que al efecto le establezcan el Presidente o el Consejo Consultivo de la Comisión Estatal.
 
-II.- El establecimiento de centros de población o asentamientos humanos, así como en las acciones de desarrollo, mejoramiento y conservación de los mismos;
+### CAPITULO IV. DE LAS VISITADURÍAS GENERALES
 
-III.- El manejo, protección, conservación y restauración de los ecosistemas, de los recursos forestales y de los suelos;
+###### ARTICULO 37.
 
-IV.- Los programas hídricos de cuencas hidrológicas;
+La Comisión Estatal de Derechos Humanos contará hasta con tres Visitadores Generales, los que serán designados y removidos por el Presidente de la Comisión Estatal, en términos de la Ley. Los requisitos para ser Visitador General son los que establece el Artículo 22 de la Ley. El régimen legal al que quedan sujetos los Visitadores Generales es el que se establece en los Artículos 11 y 12 de la Ley.
 
-V.- La construcción y mantenimiento de infraestructura;
+###### ARTICULO 38.
 
-VI.- La protección de zonas inundables y zonas áridas;
+Las funciones de los Visitadores Generales son las que señala el Artículo 23 de la Ley, para cuyos efectos les corresponderá:
 
-VII.- El aprovechamiento, rehabilitación o establecimiento de distritos de riego;
+I. Recibir y registrar las quejas por presuntas violaciones a Derechos Humanos que se presenten directamente por los quejosos o agraviados en las oficinas de la Comisión Estatal, o que lleguen mediante correspondencia, incluyendo carta, telegrama o telefax, y acusar recibo de su recepción;
 
-VIII.- El aprovechamiento sustentable en los distritos de desarrollo rural;
+II. Despachar toda la correspondencia concerniente a la atención de las quejas, tanto de la que deba enviarse a autoridades, quejosos o agraviados, así como recabar los correspondientes acuses de recepción;
 
-IX.- El establecimiento y conservación de las áreas naturales protegidas y corredores biológicos;
+III. Realizar las labores de orientación al público cuando de la queja, que directamente se presente, se desprenda fehacientemente que no se trata de violaciones a Derechos Humanos. La orientación deberá realizarse de modo tal, que a la persona atendida se le expliquen la naturaleza de su problema y las posibles formas de solución, y se le proporcionen los datos del funcionario público ante quien puede acudir; así como el domicilio y, en su caso, teléfono de este último; y
 
-X.- La elaboración del Atlas de Riesgo Ambiental Estatal y Municipales;
+IV. Asignar número de expediente a las quejas presuntamente violatorias de Derechos Humanos y registrarlas en el banco de datos automatizado que al efecto se establezca.
 
-XI.- La elaboración y aplicación de las reglas de operación de programas de subsidio y proyectos de inversión estatal y municipal;
+###### ARTICULO 39.
 
-XII.- Los programas de conservación y aprovechamiento sustentable de la biodiversidad;
+El Presidente de la Comisión Estatal determinará el orden en el que a los Visitadores Generales se les asignará el conocimiento y trámite de las quejas recibidas.
 
-XIII.- Los programas del Sistema Estatal de Protección Civil;
+###### ARTICULO 40.
 
-XIV.- Los programas sobre asentamientos humanos y desarrollo urbano;
+El Presidente de la Comisión Estatal podrá delegar en uno o más de los Visitadores Generales la facultad de presentar denuncias penales cuando ello fuere necesario.
 
-XV.- Los programas en materia de desarrollo turístico;
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
 
-XVI.- Los programas de prevención de enfermedades derivadas de los efectos del cambio climático; y
+###### ARTÍCULO 41.
 
-XVII.- La infraestructura estratégica en materia de abasto de agua, servicios de salud y producción y abasto de energéticos.
+Tendrán el carácter de Visitadores Adjuntos los miembros del personal profesional que laboren en la Comisión, incluidos los peritos en medicina forense, en criminología o en otras disciplinas científicas o técnicas que resultan necesarias para el trabajo de la propia Comisión, que reciban el nombramiento específico como tales, y que se encarguen de auxiliar a los Visitadores Generales en la integración de los expedientes de queja y de su consecuente investigación.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+Para efectos de una mayor especialización en la atención de los asuntos en materia indígena de competencia de la Comisión de Derechos Humanos, ésta contará con una Visitaduría Adjunta para asuntos indígenas.
 
-Artículo 14 BIS.- El Gobierno del Estado y los municipios, en el ámbito de sus competencias, implementarán acciones para la adaptación conforme a las disposiciones siguientes:
+###### ARTICULO 42.
 
-I. Elaborar, publicar y actualizar los atlas de riesgos ambiental estatal y municipales que consideren los escenarios de vulnerabilidad actual y futura ante el cambio climático, atendiendo de manera preferencial a la población más vulnerable y a las zonas de mayor riesgo;
+Para ser Visitador Adjunto se requiere:
 
-II. Utilizar la información contenida en los atlas de riesgos estatal y municipales para la elaboración de los programas de desarrollo urbano y ordenamiento ecológico del territorio, reglamentos de construcción y de uso de suelo, y para prevenir y atender el posible desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático;
+I. Tener un título profesional legalmente expedido;
 
-III. Proponer e impulsar mecanismos de recaudación y obtención de recursos, para destinarlos a la protección y reubicación de los asentamientos humanos más vulnerables ante los efectos del cambio climático;
+II. Ser ciudadano mexicano;
 
-IV. Establecer acciones de protección y contingencia ambientales en zonas de alta vulnerabilidad, áreas naturales protegidas y corredores biológicos ante eventos meteorológicos extremos;
+III. Ser mayor de 21 años de edad; y
 
-V. Establecer acciones de protección y contingencia en los destinos turísticos, así como en las zonas de desarrollo turístico sustentable;
+IV. Tener la experiencia necesaria, a juicio de los Visitadores Generales, para el desempeño de las funciones correspondientes.
 
-VI. Elaborar e implementar programas de fortalecimiento de capacidades que incluyan medidas que promuevan la capacitación, educación, acceso a la información y comunicación a la población;
+###### ARTICULO 43.
 
-VII. Formar recursos humanos especializados ante fenómenos meteorológicos extremos;
+Los Visitadores Adjuntos serán designados por el Presidente de la Comisión Estatal, a propuesta de los Visitadores Generales. El Presidente podrá dispensar el requisito a que hace referencia la fracción I del artículo anterior.
 
-VIII. Reforzar los programas de prevención y riesgo epidemiológicos;
+### CAPITULO V. DE LA SECRETARÍA EJECUTIVA
 
-IX. Implementar los sistemas de alerta temprana y las capacidades para pronosticar escenarios climáticos actuales y futuros;
+###### ARTICULO 44.
 
-X. Elaborar los diagnósticos de daños en los ecosistemas hídricos, sobre los volúmenes disponibles de agua y su distribución territorial;
+El titular de la Secretaría Ejecutiva será designado y removido, de manera libre, por el Presidente de la Comisión Estatal. Los requisitos para ocupar el cargo son los que establece el Artículo 20 de la Ley.
 
-XI. Promover el aprovechamiento sustentable de las fuentes superficiales y subterráneas de agua;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-XII. Fomentar la recarga de acuíferos, la tecnificación de la superficie de riego en el Estado, la producción bajo condiciones de prácticas de agricultura sustentable y prácticas sustentables de ganadería, silvicultura, pesca y acuacultura; el desarrollo de variedades resistentes, cultivos de reemplazo de ciclo corto y los sistemas de alerta temprana sobre pronósticos de temporadas con precipitaciones, temperaturas anormales y periodos de sequía;
+###### ARTÍCULO 45.
 
-XIII. Impulsar el cobro de derechos y establecimiento de sistemas tarifarios por los usos de agua que incorporen el pago por los servicios ambientales hidrológicos que proporcionan los ecosistemas a fin de destinarlo a la conservación de los mismos;
+Además de las funciones establecidas en el artículo 21 de la Ley, corresponderá a la Secretaría Ejecutiva:
 
-XIV. Elaborar y publicar programas en materia de manejo sustentable de tierras;
+I.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-XV. Identificar las medidas de gestión para lograr la adaptación de especies en riesgo y prioritarias para la conservación que sean particularmente vulnerables al cambio climático;
+II.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-XVI. Fomentar la investigación, el conocimiento y registro de impactos del cambio climático en los ecosistemas y su biodiversidad, en el territorio estatal;
+III.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-XVII. Establecer medidas de adaptación basadas en la preservación de los ecosistemas, su biodiversidad y los servicios ambientales que proporcionan a la sociedad;
+IV.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-XVIII. Fortalecer la resistencia y resiliencia de los ecosistemas terrestres, humedales y dulceacuícolas, mediante acción para la restauración de la integridad y la conectividad ecológicas (sic);
+V.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-XIX. Impulsar la adopción de prácticas sustentables de manejo agropecuario, forestal, silvícola y acuícolas;
+VI.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-XX. Atender y controlar los efectos de especies invasoras, en los términos de la Ley General de Cambio Climático;
+VII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-XXI. Generar y sistematizar la información de parámetros climáticos, biológicos y físicos relacionados con la biodiversidad para evaluar los impactos y la vulnerabilidad ante el cambio climático;
+VIII.- Administrar el Archivo General de la Comisión Estatal;
 
-XXII. Establecer nuevas áreas naturales protegidas, corredores biológicos, y otras modalidades de conservación y zonas prioritarias de conservación ecológica para que se facilite el intercambio genético y se favorezca la adaptación natural de la biodiversidad al cambio climático, a través del mantenimiento e incremento de la cobertura vegetal nativa, de los humedales y otras medidas de manejo, y
+IX.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-XXIII. Realizar diagnósticos de vulnerabilidad en el sector energético y desarrollar los programas y estrategias integrales de adaptación.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-#### SECCIÓN SEGUNDA. MITIGACIÓN
+X. Atender las necesidades administrativas de las oficinas de la Comisión Estatal, de acuerdo con los lineamientos generales fijados por el Consejo Consultivo, el Órgano Interno de Control y por el Presidente del Organismo;
 
-###### Artículo 15.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-La política estatal de mitigación de emisiones de gases efecto invernadero deberá incluir, a través de los instrumentos de planeación, de gestión y económicos previstos en la presente Ley, un diagnóstico que incluirá escenarios de líneas base y líneas base por sector, para el logro gradual de metas de reducción de emisiones específicas.
+XI. Establecer, con la aprobación del Presidente de la Comisión Estatal, las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales del Organismo y la prestación de servicios generales de apoyo;
 
-###### Artículo 16.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-En las acciones para la mitigación, el Estado y los municipios, en el ámbito de sus competencias, deberán promover la reducción de emisiones en los siguientes sectores:
+XII. Coordinar la elaboración del informe anual de labores y del programa operativo anual, así como del proyecto de presupuesto de la Comisión Estatal y vigilar su cumplimiento de acuerdo con la aprobación del Consejo Consultivo;
 
-I.- Energía:
+XIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-a).- Fomentar prácticas de eficiencia energética y promover el uso de fuentes renovables de energía; así como la transferencia de tecnología de bajas emisiones de carbono;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-b).- Fomentar la utilización de energías renovables para la cogeneración de electricidad, de conformidad con la legislación aplicable en la materia;
+XIV. Autorizar las adquisiciones de acuerdo con los preceptos legales y los lineamientos que fijen el Órgano Interno de Control y el titular de la Comisión Estatal;
 
-c).- Fomentar el uso de energía solar térmica para el calentamiento de agua en los sectores habitacional, comercial, servicios e industrial;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-d).- Promover la construcción y uso de estufas rurales ahorradoras de leña, en comunidades del Estado;
+XV. Conservar y custodiar los bienes muebles e inmuebles de la Comisión Estatal conforme a los lineamientos que al efecto se dicten y llevar el registro y control de los mismos;
 
-e).- Promover y apoyar a los municipios con proyectos de sustitución de alumbrado público tradicional u obsoleto, por sistemas eficientes para el ahorro de energía eléctrica;
+XVI.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-f).- Fomentar la integración e implementación de programas de desempeño ambiental en dependencias de la administración pública estatal y municipales., así como en el sector educativo, que promueva el ahorro y eficiencia energética; y
+XVII. - (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-g).- Promover el uso de sistemas fotovoltaicos con y sin interconexión a la red eléctrica en zonas urbanas y rurales.
+XVIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-II.- Transporte;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-a).- Promover la inversión en la construcción de ciclovías o infraestructura de transporte no motorizado, así como la implementación de reglamentos de tránsito que promuevan el uso de la bicicleta;
+XIX. Proponer al Presidente de la Comisión Estatal la formulación y actualización de la estructura orgánica de los órganos y las unidades administrativas de la Comisión Estatal;
 
-b).- Diseñar e implementar sistemas de transporte público integrales y programas de movilidad sustentable en las zonas urbanas o conurbadas para disminuir los tiempos de traslado, el uso de automóviles particulares, los costos de transporte, el consumo energético, la incidencia de enfermedades respiratorias;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-c).- Fortalecer el cumplimiento del Programa Obligatorio de Verificación Vehicular, como una medida para contribuir a reducir las emisiones de gases efecto invernadero y al control de contaminantes;
+XX. Proponer y fortalecer las relaciones de la Comisión Estatal, con Instituciones y Dependencias públicas, nacionales y estatales, en materia de Derechos Humanos;
 
-d).- Establecer programas que promuevan el trabajo de oficina en casa, cuidando aspectos de confidencialidad, a fin de reducir desplazamientos y servicios de los trabajadores; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-e).- Desarrollar instrumentos económicos para que las empresas otorguen el servicio de transporte colectivo a sus trabajadores hacia los centros de trabajo, a fin de reducir el uso del automóvil.
+XXI. Establecer las políticas de contratación, relaciones y desarrollo laboral, así como implementar el servicio civil de carrera y supervisar su cumplimiento; y
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-f).- Impulsar la movilidad activa o no motorizada, la electromovilidad y el transporte con menor costo ambiental para garantizar la mejora en la calidad del aire.
+XXII. Las demás que al efecto le establezcan el Presidente o el Consejo Consultivo de la Comisión Estatal.
 
-III.- Agropecuario:
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-a).- Prácticas de agricultura y sistemas alimentarios sostenibles que permitan garantizar una adecuada producción y autosuficiencia en el abasto de alimentos;
+###### ARTÍCULO 45 Bis.
 
-b) Intensificar de manera sostenible una producción agrícola que permita reducir las emisiones de Gases de Efecto Invernadero;
+Para el ejercicio de sus atribuciones, la Secretaría Ejecutiva contará con las siguientes áreas:
 
-c).- Implementación de sistemas agroforestales;
+I.- Coordinación de Desarrollo Organizacional y Finanzas; y
 
-d).- Reducir al mínimo las acciones de quemas agrícolas;
+II.- Departamento de Recursos Humanos y Servicios Generales.
 
-e).- Incentivar acciones de restauración de terrenos agropecuarios con problemas de erosión; y
+Además contará con el personal profesional, técnico y administrativo autorizado en el presupuestó de egresos de la Comisión Estatal.
 
-f).- Implementación de biodigestores.
+###### ARTICULO 46.
 
-IV.- Preservación de los ecosistemas y de la biodiversidad:
+Los estudios legislativos y las propuestas de esa naturaleza realizados por la Secretaría Ejecutiva, sólo se harán en aquellas materias de la exclusiva competencia de la Comisión Estatal.
 
-a).- Fomentar la adopción de adecuadas políticas de gestión y conservación de los recursos naturales;
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-b).- Adoptar políticas eficientes en los diferentes sectores, dirigidas a reconocer las acciones y buenas prácticas del sector privado, que conjuntamente contribuyan a la conservación de los medios naturales, su biodiversidad y la reducción de emisiones; y
+### CAPÍTULO VI. ÓRGANO INTERNO DE CONTROL
 
-c).- Crear la base de conocimiento necesario para reforzar la integración de proyectos de investigación aplicados en biodiversidad y cambio climático.
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-V.- Forestal:
+ARTÍCULO 46 BIS.- La Comisión de Derechos Humanos del Estado contará con un Órgano Interno de Control que estará a cargo de un titular que será propuesto por el Presidente la Comisión Estatal y aprobado su nombramiento por el Consejo Consultivo, y ejercerá las facultades y atribuciones a que hacen referencia la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, y:
 
-a).- Aumento en superficie y establecimiento de nuevos bosques y selvas que sirvan como almacenes de carbono;
+I.- Diseñar, desarrollar, implementar, actualizar y vigilar el cumplimiento del Manual de Organización General y los demás manuales e instructivos de organización, procedimientos y servicios;
 
-b).- Reducir la degradación de los ecosistemas forestales por cualquier causa;
+II.- Inspeccionar el ejercicio del gasto y administración del patrimonio de la Comisión Estatal;
 
-c).- Reducir las emisiones de carbono a la atmosfera por causa de incendios forestales;
+III.- Implantar y vigilar el cumplimiento de las normas complementarias en materia de control, así como realizar las auditorías o revisiones que se requieran a los órganos y unidades administrativas de la Comisión Estatal, para lo cual emitirá las observaciones y recomendaciones correspondientes;
 
-d).- Incentivar los procesos de certificación forestal y cadenas de custodia dentro de los aprovechamientos forestales en el Estado;
+IV.- Realizar auditorias de desempeño a los órganos y unidades administrativas de la Comisión Estatal de conformidad con las metas y actividades establecidas en el Programa Anual de Trabajo;
 
-e).- Fomentar que la mayor parte de la producción forestal estatal sea utilizada en productos de mayor durabilidad o permanencia;
+V.- Establecer las políticas que regirán las contrataciones de auditores externos y dar seguimiento al cumplimiento de las observaciones y recomendaciones que formulen dichos auditores y las que emita la Auditoría Superior del Estado;
 
-f).- Establecimiento de plantaciones forestales comerciales con diferentes fines para reducir la presión sobre los bosques y selvas naturales; y
+VI.- Establecer los mecanismos para difundir la obligación de presentar la declaración de situación patrimonial; por parte de los servidores públicos de la Comisión Estatal;
 
-g).- Promover acciones de reforestación en zonas urbanizadas.
+VII.- Recibir, registrar y custodiar las declaraciones de situación patrimonial que presenten los servidores públicos de la Comisión Estatal en términos de las disposiciones legales aplicables e intervenir en los actos de entrega y recepción del cargo de estos servidores públicos;
 
-VI.- Residuos:
+VIII.- Recibir, investigar y resolver las quejas y denuncias que se presenten en contra de los servidores públicos de este Organismo, en los términos de la normatividad aplicable;
 
-a).- Desarrollar acciones y promover el desarrollo y la instalación de infraestructura para minimizar y valorizar los residuos, así como para reducir y evitar las emisiones de metano provenientes de los residuos sólidos urbanos;
+IX.- Acordar con el Presidente de la Comisión los asuntos de su competencia; y
 
-b).- Fortalecer los procesos de diseño, construcción, operación y rehabilitación de plantas de tratamiento de aguas residuales municipales en cabeceras municipales y comunidades;
+X.- Las demás que le confiera el presente reglamento y otras disposiciones legales aplicables, así como aquellas que le asigne el Presidente de la Comisión Estatal.
 
-c).- Fortalecer el cumplimiento de las normas oficiales mexicanas, para descargas industriales a cuerpos de agua y sistema de alcantarillado municipal;
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE MARZO DE 2006)</small>
 
-d).- Fomentar la construcción de plantas de tratamiento en industrias, servicios, rastros, procesadoras de carne y leche; y
+### CAPITULO VII. DEL INSTITUTO DE ESTUDIOS EN DERECHOS HUMANOS
 
-f) (sic).- Fomentar la cultura del agua con amplia participación ciudadana.
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2006)</small>
 
-VII.- Procesos industriales:
+ARTÍCULO 46 TER.-La Comisión de Derechos Humanos del Estado contará con un órgano académico denominado Instituto de Estudios en Derechos Humanos, que estará a cargo de un titular que será elegido por el Consejo Consultivo a propuesta del Presidente de la Comisión Estatal, y tendrá las siguientes atribuciones y obligaciones:
 
-a).- Desarrollar programas para incentivar la eficiencia energética en las actividades de los procesos industriales;
+I.- Promover el fortalecimiento de la cultura del respeto a los Derechos Humanos en el ámbito estatal, mediante el desarrollo de actividades de capacitación, divulgación y difusión;
 
-b).- Fomentar y promover la correcta aplicación de los preceptos que establece la Ley de Procesos Productivos Eficientes del Estado de Hidalgo;
+II.- Impartir estudios de posgrado en los niveles académicos de Especialidad, Maestría y Doctorado;
 
-c).- Desarrollar mecanismos y programas que incentiven la implementación de procesos de producción más limpia, que reduzcan el consumo energético y la emisión de gases y compuestos de efecto invernadero;
+III.- Fomentar la práctica de investigaciones académicas interdisciplinarias, especializadas en materia de Derechos Humanos;
 
-d).- Identificar, regular y controlar a fuentes emisoras de contaminantes climáticos de vida corta, incluyendo la regulación y control de emisiones de compuestos orgánicos (COVs) generadas por fuentes industriales, estaciones de servicio de gasolina, así como fuentes de área y servicios que utilizan solventes; y
+IV.- De conformidad con el artículo 14 fracción III de la Ley de la Comisión de Derechos Humanos del Estado de Campeche y previa autorización de la Presidencia, podrá firmar acuerdos, convenios y/o contratos con diferentes instituciones académicas, sociales o privadas, locales, nacionales e internacionales, que apoyen los proyectos de estudios en materia de capacitación, enseñanza, divulgación e investigación en Derechos Humanos;
 
-e).- Incentivar, promover y desarrollar el uso de combustibles alternativos que reduzcan el uso de combustibles fósiles convencionales.
+V.- Promover la celebración de intercambios académicos con instituciones nacionales e internacionales, públicas y privadas;
 
-VIII.- Educación y cambios de patrones de conducta, consumo y producción:
+VI.- Dirigir, impulsar e incrementar el acervo de la Biblioteca de la Comisión Estatal, así como apoyar a través de los servicios bibliotecarios con los que cuenta, a los órganos y a las unidades administrativas de la Comisión, investigadores, especialistas, estudiantes y público en general;
 
-a).- Instrumentar programas que fomenten conciencia social sobre los efectos adversos de la generación de emisiones de gases y compuestos de efecto invernadero en patrones de producción y consumo;
+VII. Elaborar materiales didácticos y de divulgación en materia de Derechos Humanos;
 
-b).- Desarrollar programas que promuevan patrones de producción y consumo sustentables en los sectores público, social y privado a través de incentivos económicos; fundamentalmente en áreas como el consumo de energía, el transporte, la gestión integral de los residuos y el uso eficiente del agua;
+VIII.- Gestionar, previa autorización de la Presidencia de la Comisión de Derechos Humanos del Estado, la obtención de apoyos humanos y financieros para el ejercicio de sus funciones; y
 
-c).- Incentivar y reconocer a las empresas e instituciones que propicien que sus trabajadores tengan domicilio cercano a los centros de trabajo, consumo, educación y entretenimiento, así como el establecimiento de jornadas de trabajo continuas; y
+IX.- Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Estatal.
 
-d).- Desarrollar políticas e instrumentos para promover la mitigación de emisiones directas e indirectas relacionadas con la prestación de servicios públicos, planeación y construcción de viviendas, construcción y operación de edificios públicos y privados, comercios e industrias.
+Para el desempeño de sus funciones, el Instituto de Estudios en Derechos Humanos contará con las siguientes áreas:
 
-###### Artículo 17.
+I.- Centro de Estudios en Derechos Humanos;
 
-El Sistema Estatal de Cambio Climático estará integrado por la Comisión y el Consejo.
+II.- Departamento de Capacitación y Divulgación;
 
-###### Artículo 18.
+III.- Coordinación Académica de Estudios de Posgrado;
 
-El Sistema Estatal de Cambio Climático, analizará y promoverá la aplicación de los instrumentos de política previstos en la presente Ley.
+IV.- Departamento de Control Escolar y Vinculación Académica;
 
-###### Artículo 19.
+V.- Departamento de Investigación y Análisis; y
 
-Los mecanismos de funcionamiento y operación del Sistema Estatal de Cambio Climático, se establecerán en el reglamento que para tal efecto se expida.
+VI.- Departamento de Recursos Humanos y Servicios Generales.
 
-#### SECCIÓN PRIMERA. COMISIÓN
+Además contará con el personal profesional, académico, técnico y administrativo que le sea autorizado en el presupuesto de egresos de la Comisión Estatal.
 
-### CAPÍTULO IV. SISTEMA ESTATAL DE CAMBIO CLIMÁTICO
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-###### Artículo 20.
+## TITULO CUARTO. DE LAS EXCUSAS E IMPEDIMENTOS
 
-Se crea la Comisión Estatal Intersectorial de Cambio Climático, con el objeto de coordinar las acciones del Estado, para la mitigación de emisiones de gases de efecto invernadero, la adaptación a los efectos del cambio climático, considerando la vulnerabilidad de la Entidad.
+### CAPITULO I. DE LA PRESENTACIÓN DE LA QUEJA
 
-### CAPÍTULO V. INSTRUMENTOS DE PLANEACIÓN
+###### ARTICULO 47.
 
-###### Artículo 21.
+Toda queja que se dirija a la Comisión Estatal deberá presentarse mediante escrito, con la firma o huella digital del interesado. Dicho escrito deberá contener, como datos mínimos de identificación, el nombre, los apellidos, el domicilio y, en su caso, un número telefónico de la persona que presuntamente ha sido o está siendo afectada en sus Derechos Humanos y, en su caso, de la persona que presente la queja.
 
-La Comisión estará integrada por las y los Titulares de:
+Sólo en casos urgentes podrá admitirse una queja no escrita que se formule por cualquier medio de comunicación electrónica, inclusive por teléfono. En esos supuestos únicamente se requerirá contar con los datos mínimos de identificación a que alude el párrafo anterior y se levantará acta circunstanciada de la queja por parte del funcionario de la Comisión Estatal que la reciba.
 
-I.- El Ejecutivo Estatal, que tendrá el cargo de Presidente Honorario;
+###### ARTICULO 48.
 
-II.- La Secretaría de Medio Ambiente y Recursos Naturales, que tendrá el cargo de Presidente Ejecutivo;
+Se considerará anónima una queja que no esté firmada, o no contenga huella digital, o no cuente con los datos de identificación del quejoso. Esa situación se hará saber, si ello es posible, al quejoso para que ratifique la queja dentro de los tres días siguientes a su presentación, contados a partir del momento en que el quejoso reciba la comunicación de la Comisión Estatal de que debe subsanar la omisión. De preferencia la comunicación al quejoso se hará por vía telefónica, en cuyo caso se levantará el acta circunstanciada por parte del funcionario de la Comisión Estatal que haga el requerimiento telefónico.
 
-III.- La Subsecretaría de Medio Ambiente y Recursos Naturales que tendrá el cargo de Secretario Técnico;
+###### ARTICULO 49.
 
-IV.- La Secretaría del Trabajo y Previsión Social;
+De no contar con número telefónico, el requerimiento para ratificar la queja se hará por cualquier otro medio de comunicación, sea telefax, telegrama, servicio de mensajería o correo certificado. En cualquier supuesto, el término de los tres días se contará a partir del correspondiente al acuse de recepción o del momento en que se tenga la certeza de que el quejoso recibió el requerimiento para ratificar la queja.
 
-V.- La Secretaría de Turismo y Cultura;
+###### ARTICULO 50.
 
-VI.- La Secretaría de Seguridad Pública;
+De no ratificarse la queja en el plazo señalado en el artículo anterior, se tendrá por no presentado el escrito de queja y se dispondrá su archivo. Esto no impedirá que la Comisión Estatal, de manera discrecional, determine investigar de oficio el motivo de queja, si a su juicio considera graves los actos presuntamente violatorios. Tampoco será impedimento para que el quejoso vuelva a presentar la queja con los requisitos de identificación debidamente acreditados y se admita la instancia correspondiente. Una queja que carezca de domicilio, teléfono o cualquier otro dato suficiente para la localización del quejoso, será enviada inmediatamente al archivo.
 
-VII.- La Secretaría de Salud;
+###### ARTICULO 51.
 
-VIII.- La Secretaría de Planeación, Desarrollo Regional y Metropolitano;
+Cuando un quejoso solicite que su nombre se mantenga en estricta reserva, la Comisión Estatal evaluará los hechos y, discrecionalmente, determinará si de oficio inicia la investigación de la misma.
 
-IX.- La Secretaría de Obras Públicas y Ordenamiento Territorial;
+###### ARTICULO 52.
 
-X.- La Secretaría de Gobierno;
+De recibirse dos o más quejas por los mismos actos u omisiones que se atribuyan a la misma autoridad o servidor público, se acordará su acumulación en un solo expediente. El acuerdo respectivo será notificado a todos los quejosos en los términos del artículo 63 del presente Reglamento.
 
-XI.- La Secretaría de Finanzas y Administración;
+Igualmente procederá la acumulación de quejas en los casos en que sea estrictamente necesaria para no dividir la investigación correspondiente.
 
-XII.- La Secretaría de Educación Pública;
+###### ARTICULO 53.
 
-XIII.- La Secretaría de Desarrollo Social;
+La aplicación de las disposiciones del párrafo final del Artículo 24 de la Ley, se sujetará a las normas siguientes:
 
-XIV.- La Secretaría de Desarrollo Económico;
+I. Se entiende por "Organizaciones No Gubernamentales legalmente constituidas", las personas morales dedicadas a la promoción, defensa y difusión de los Derechos Humanos. Se comprenden dentro de esas organizaciones los organismos de colaboración y participación ciudadana o vecinal, que se constituyan conforme a la legislación de la materia;
 
-XV.- La Secretaría de Desarrollo Agropecuario;
+II. No será necesario acreditar la constitución legal de las Organizaciones No Gubernamentales ni la personalidad y facultades de quienes ocurran por ellas. Cuando la Comisión Estatal tenga dudas al respecto, podrá solicitar a los comparecientes la documentación respectiva, sin que ello obste para que la queja continúe su tramitación. Si dentro del plazo que al efecto se le señale, no se acreditan las circunstancias anteriores, la denuncia se tendrá por interpuesta a título personal por quien o quienes la hayan suscrito. Del mismo modo, la queja de cualquier organización no constituida legalmente, se entenderá promovida sólo por la o las personas que aparezcan suscribiéndola;
 
-XVI.- La Comisión Estatal del Agua y Alcantarillado;
+III. Entre los casos en que las Organizaciones No Gubernamentales legalmente constituidas pueden formular denuncias ante la Comisión Estatal, se comprenden las violaciones a los Derechos Humanos en los centros de reclusión de adultos y de menores.
 
-XVII.- La Comisión Estatal de Fomento y Ahorro de Energía;
+###### ARTICULO 54.
 
-XVIII.- La Comisión Agua y Alcantarillado de Sistemas Intermunicipales;
+La excepción a que se refiere el Artículo 25 de la Ley para la presentación de la queja, procederá mediante resolución razonada del Visitador General cuando se trate de:
 
-XIX.- El Consejo Estatal de Vivienda;
+I. Infracción grave a los derechos fundamentales de la persona, a la libertad y a la vida, así como a la integridad física y psíquica; o
 
-XX.- El Consejo de Ciencia y Tecnología;
+II. Violaciones de esa (sic) humanidad, esto es, cuando las anteriores infracciones atenten en contra de una comunidad o grupo social en su conjunto.
 
-XXI.- Un representante del Congreso Local; y
+###### ARTICULO 55.
 
-XXII.- Los presidentes municipales de los 84 municipios que conforman el Estado.
+La Comisión Estatal podrá radicar de oficio quejas por presuntas violaciones a Derechos Humanos. Para ello será indispensable que así lo acuerde el Presidente de la Comisión, por sí o a propuesta de los Visitadores Generales.
 
-Además, cuando así se requiera, la Comisión convocará a enlaces y/o representantes de las delegaciones federales en el Estado, de los municipios, de los sectores académico, privado y social y del Consejo de Cambio Climático.
+La queja radicada de oficio seguirá, en lo conducente, el mismo trámite que las quejas radicadas a petición de los particulares.
 
-La Comisión tendrá un Secretario Técnico, quien será el titular de la Subsecretaría de Medio Ambiente y Recursos Naturales.
+###### ARTICULO 56.
 
-###### Artículo 22.
+En el caso del Artículo 30 de la Ley, la identificación de las autoridades o servidores públicos cuyos actos y omisiones considere el quejoso que hubieren afectado sus derechos fundamentales, se intentará realizar por la Comisión Estatal durante el curso de la investigación de la queja, valiéndose de los medios a su alcance, con aquellos que las autoridades deberán poner a su disposición y con la participación que al quejoso le corresponda.
 
-Los integrantes de la Comisión podrán designar a sus respectivos suplentes, quienes deberán contar con nivel de subsecretario o su equivalente; asimismo, deberán designar a una de sus unidades administrativas para coordinar y dar seguimiento los trabajos de la Comisión.
+###### ARTICULO 57.
 
-###### Artículo 23.
+Para los efectos del Artículo 36 de la Ley, será de 30 días calendario el lapso que deberá mediar entre los dos requerimientos al quejoso para que aclare la queja.
 
-A la Comisión se invitará personal del INECC para participar en las sesiones.
+El plazo referido se contará a partir de la fecha del acuse de recibo del primer requerimiento.
 
-###### Artículo 24.
+Si el quejoso no contesta dentro de los 30 días calendario siguientes a la fecha del acuse de recibo del segundo requerimiento, se enviará la queja sin más trámite al archivo por falta de interés del propio quejoso.
 
-La Comisión se reunirá en sesiones ordinarias de forma cuatrimestral, pudiendo reunirse además en sesiones extraordinarias a convocatoria del Presidente, o a petición de cualquiera de los miembros, en los términos que se determine en el reglamento de la presente Ley.
+###### ARTICULO 58.
 
-Las decisiones de la Comisión serán tomadas en principio, por consenso, en caso de no ser posible, por mayoría de votos simples y en caso de empate el Presidente contará con voto de calidad.
+La correspondencia que los internos de cualquier centro de reclusión envíen a la Comisión Estatal no podrá ser objeto de censura de ningún tipo y deberá ser remitida sin demora por los encargados del centro respectivo.
 
-###### Artículo 25.
+Asimismo, no podrán ser objeto de escucha o de interferencia las conversaciones que se establezcan entre funcionarios de la Comisión Estatal y los internos de algún centro de reclusión, ya sea de adultos o de menores.
 
-La Comisión contará, al menos, con las siguientes instancias de coordinación y trabajo:
+###### ARTICULO 59.
 
-I.- Un Presidente Ejecutivo;
+No se admitirán quejas notoriamente improcedentes o infundadas, esto es, aquellas en las que se advierta mala fe, carencia de fundamento o inexistencia de pretensión, lo cual se notificará al quejoso. En estos casos no habrá lugar a apertura de expediente.
 
-II.- Un Secretario Técnico;
+Tampoco se radicarán como quejas aquellos escritos que vayan dirigidos a la Comisión Estatal, en los que no se pida de manera expresa la intervención de este organismo.
 
-III.- Grupo de Trabajo de Adaptación;
+### CAPITULO II. DE LA CALIFICACIÓN DE LA QUEJA
 
-IV.- Grupo de Trabajo de Mitigación;
+###### ARTICULO 60.
 
-V.- Grupo de Trabajo de Financiamiento; y
+Una vez que el escrito de queja haya sido recibido, registrado, asignado número de expediente y se haya acusado recibo de la queja, se turnará de inmediato al Visitador General que la Presidencia disponga para los efectos de su calificación.
 
-VI.- Grupo de Trabajo para la coordinación, seguimiento y evaluación del Programa y Estrategia Estatal.
+###### ARTICULO 61.
 
-Cada uno de los grupos de trabajo tendrá un coordinador que será nombrado por el Presidente de la Comisión a propuesta de sus integrantes.
+Inmediatamente que sea recibido el expediente de queja, en un plazo máximo de tres días hábiles, el Visitador General emitirá y suscribirá el correspondiente acuerdo de calificación, que podrá ser:
 
-### CAPÍTULO VI. INSTRUMENTOS DE GESTIÓN
+I. Presunta violación a los Derechos Humanos;
 
-###### Artículo 26.
+II. Incompetencia de la Comisión Estatal para conocer de la queja;
 
-Para el cumplimiento de su objeto, la Comisión tendrá las siguientes atribuciones:
+III. Incompetencia de la Comisión Estatal y la necesidad de realizar orientación jurídica; o
 
-I.- Impulsar en coordinación con la Secretaría la elaboración, evaluación y seguimiento del Programa y Estrategia Estatal de Cambio Climático, con la finalidad de establecer las acciones tendientes a la adaptación y mitigación del cambio climático, considerando la vulnerabilidad del Estado;
+IV. Acuerdo de calificación pendiente, cuando la queja no reúna los requisitos legales o reglamentarios, o sea confusa.
 
-II.- Formular, impulsar y coordinar políticas, estrategias y metas estatales para hacer frente a los efectos adversos del cambio climático y su incorporación en los programas institucionales, relativas al cumplimiento de esta Ley;
+###### ARTICULO 62.
 
-III.- Coordinar acciones de las dependencias y entidades del Gobierno del Estado, enfocados a la mitigación de emisiones de gases efecto invernadero y a la adaptación al cambio climático, en el ámbito de sus respectivas competencias;
+Cuando la queja haya sido calificada como presuntamente violatoria de Derechos Humanos, el Visitador al que le haya correspondido conocer de la queja, enviará al quejoso un acuerdo de admisión de la instancia, en la que se le informará el resultado de la calificación; el nombre del Visitador encargado del expediente y su teléfono. Asimismo le invitará a mantener comunicación con dicho Visitador durante la tramitación del expediente.
 
-IV.- Garantizar la coordinación entre leyes, programas, medidas y acciones de adaptación y mitigación al cambio climático por parte de las dependencias del Gobierno del Estado, así como con los programas del sector federal;
+El acuerdo de admisión de la instancia deberá contener la prevención a que se refiere el Artículo 31 de la Ley.
 
-V.- Podrá formular recomendaciones para el fortalecimiento de las Políticas y Acciones de Mitigación, Adaptación y Reducción de Vulnerabilidad;
+###### ARTICULO 63.
 
-VI.- Definir, coordinar e impulsar las acciones necesarias para cumplir con los objetivos y compromisos contenidos en el Programa y Estrategia Estatal, así como en los instrumentos derivados de convenciones nacionales e internacionales en la materia y que competen al Estado;
+Cuando la queja haya sido calificada como de incompetencia de la Comisión Estatal, el Visitador General enviará al quejoso el acuerdo respectivo en el que, con toda claridad, se señalará la causa de incompetencia y sus fundamentos constitucionales, legales y reglamentarios, de suerte tal que el quejoso tenga absoluta claridad sobre esa determinación.
 
-VII.- Regular y determinar la temporalidad en la elaboración y actualización del Programa y Estrategia Estatal, de las evaluaciones de impacto económico del cambio climático, de los Atlas de Riesgos Ambientales del Estado, y demás estudios que se consideren necesarios para hacer frente al cambio climático en la Entidad;
+###### ARTICULO 64.
 
-VIII.- Promover el fortalecimiento de los programas de educación y comunicación a nivel estatal y municipal, incorporando criterios de cambio climático;
+Cuando la queja haya sido calificada como de incompetencia, pero exista la posibilidad de orientar jurídicamente al quejoso, el Visitador General correspondiente enviará el respectivo documento de orientación en el que se explicará de manera breve y sencilla la naturaleza del problema y sus posibles formas de solución.
 
-IX.- Fomentar la participación de los sectores público y privado en la instrumentación del Programa y Estrategia Estatal de Cambio Climático y en la coordinación y transversalidad de políticas, planes, programas y proyectos prioritarios de la Administración Pública Estatal;
+En estos casos se señalará el nombre de la dependencia pública que debe atender al quejoso. A dicha dependencia pública se le enviará un oficio en el cual se señalará que la Comisión Estatal ha orientado al quejoso y le pedirá que éste sea recibido para la atención de su problema.
 
-X.- Diseñar, coordinar y fomentar estrategias de difusión en los sectores privado y social en materia de cambio climático;
+###### ARTICULO 65.
 
-XI.- Promover el desarrollo de estudios y proyectos de investigación y desarrollo tecnológico con relación al cambio climático;
+Cuando la queja haya sido determinada como pendiente de calificación, por no reunir los requisitos legales o reglamentarios o porque ésta sea imprecisa o ambigua, se procederá en los términos señalados por el artículo siguiente.
 
-XII.- Promover en los sectores privado y social la realización de proyectos para la reducción y captura de emisiones de gases de efecto invernadero;
+###### ARTICULO 66.
 
-XIII.- Coadyuvar con la Secretaría en la integración, elaboración y actualización del Inventario;
+El Visitador tendrá la responsabilidad de integrar debidamente el expediente de queja y solicitará a las autoridades la información necesaria, así como al quejoso las aclaraciones o precisiones que correspondan; se hará llegar las pruebas conducentes y practicará las indispensables, siempre que no estén reñidas con la ley o la moral, hasta contar con las evidencias adecuadas para resolver la queja. Una vez que se cuente con las evidencias necesarias, acordará determinando la conclusión que estime pertinente.
 
-XIV.- Promover el fortalecimiento de las capacidades administrativas, humanas y de equipamiento; en los órdenes estatal y municipal, para implementar mecanismos de medición, reporte y verificación, así como de monitoreo y evaluación en las políticas públicas, programas y proyectos de mitigación y adaptación ante el cambio climático;
+###### ARTICULO 67.
 
-XV.- En coordinación con la Secretaría, elaborar el presupuesto para realizar acciones de mitigación de emisiones de gases efecto invernadero, y el correspondiente a la adaptación para reducir la vulnerabilidad ante los efectos del cambio climático;
+En la integración e investigación de los expedientes de queja, los Visitadores Adjuntos auxiliarán a los Visitadores Generales.
 
-XVI.- Emitir su Reglamento Interno, para el cumplimiento de su propósito y el objeto de la presente Ley; y
+### CAPITULO III. DE LA TRAMITACIÓN DE LA QUEJA
 
-XVII.- Las demás que establezca las diferentes disposiciones aplicables.
+###### ARTICULO 68.
 
-###### Artículo 27.
+Para los efectos del Artículo 33 de la Ley, corresponderá exclusivamente al Presidente de la Comisión Estatal o a los Visitadores Generales la determinación de urgencia de un asunto que amerite reducir el plazo máximo de 15 días concedido a una autoridad para que rinda su informe. En el correspondiente oficio de solicitud de información se razonarán someramente los motivos de urgencia.
 
-El Presidente Ejecutivo de la Comisión tendrá las siguientes funciones:
+En los casos de urgencia, independientemente del oficio de solicitud de información, el Presidente de la Comisión Estatal, los Visitadores Generales o los Visitadores Adjuntos deberán establecer de inmediato la comunicación telefónica con la autoridad señalada como responsable o con su superior jerárquico, para conocer la gravedad del problema y, en su caso, solicitar las medidas necesarias para evitar la consumación irreparable de las violaciones denunciadas.
 
-I.- Coordinar, dirigir y supervisar los trabajos de la Comisión;
+En el oficio en que se solicite la información, se deberá incluir el apercibimiento contemplado en el párrafo segundo del Artículo 37 de la Ley.
 
-II.- Proponer la formulación y adopción de las políticas, estrategias y acciones necesarias para el cumplimiento de los fines de la Comisión;
+###### ARTICULO 69.
 
-III.- Presidir y convocar las sesiones ordinarias y extraordinarias de la Comisión;
+En los casos del artículo anterior y en todos aquellos en que algún funcionario de la Comisión Estatal entable comunicación telefónica con cualquier autoridad respecto de una queja, se deberá levantar acta circunstanciada, la cual se integrará al expediente respectivo.
 
-IV.- Nombrar a propuesta de los integrantes de la Comisión, los coordinadores de cada uno de los grupos de trabajo;
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-V.- Dar a conocer a la Comisión, los acuerdos que se celebren en la Comisión Intersecretarial de Cambio Climático y en su caso, proponer la aplicación de los mismos en el Estado; y
+###### ARTICULO 70.
 
-VI.- Las demás que se determinen en el Reglamento Interno de la Comisión o se atribuyan al Presidente por consenso de los integrantes de la misma.
+Toda la documentación que remita la autoridad judicial deberá estar certificada y debidamente foliada.
 
-###### Artículo 28.
+Los visitadores adjuntos, adscritos a la visitaduría general deberán foliar todas las evidencias y actuaciones integradas a los expedientes que se encuentren a su cargo. El número de folio se marcará en la esquina superior derecha de la hoja, iniciando en la primera hoja y continuando sucesivamente incluyendo los anexos correspondientes, si es que existen.
 
-El Secretario Técnico de la Comisión tendrá las siguientes funciones:
+###### ARTICULO 71.
 
-I.- Emitir las convocatorias para las sesiones ordinarias y extraordinarias de la Comisión previo acuerdo con el Presidente:
+La respuesta de la autoridad se podrá hacer del conocimiento del quejoso en aquellos casos en que exista una contradicción evidente en lo manifestado por el propio quejoso y la información de la autoridad; en que la autoridad pida al quejoso se presente para resarcirle la presunta violación y en todos los demás en que a juicio del Visitador General se haga necesario que el quejoso conozca el contenido de la respuesta de la autoridad.
 
-II.- Preparar las sesiones, verificar el quórum y levantar las actas correspondientes,
+En los casos anteriores se concederá al quejoso un plazo máximo de 30 días contados a partir del acuse de recibo, para que manifieste lo que a su derecho convenga. De no hacerlo en el plazo fijado, se ordenará el envío del expediente al archivo, siempre y cuando resulte evidente que la autoridad se ha conducido con verdad.
 
-III.- Llevar un registro y control de las actas, acuerdos y toda la documentación relativa al funcionamiento de la Comisión;
+###### ARTICULO 72.
 
-IV.- Proponer el Programa Anual de Trabajo de la Comisión y presentar el Informe Anual de Actividades;
+En los casos en que un quejoso solicite expresamente la reapertura de un expediente o que se reciba información o documentación posterior al envío de un expediente al archivo, el Visitador General analizará el asunto en particular y emitirá acuerdo razonado para reabrir o para negar la reapertura del expediente.
 
-V.- Dar seguimiento a los acuerdos de la Comisión y promover su cumplimiento, Informando periódicamente al Presidente sobre los avances, y
+En todo caso, la determinación correspondiente se hará del conocimiento del quejoso y de la autoridad señalada como responsable, si a ésta se le pidieron informes durante la integración del expediente.
 
-VI.- Las demás que se establezcan en el Reglamento Interno de la Comisión o que se le encomienden por consenso de los integrantes de la misma.
+###### ARTICULO 73.
 
-###### Artículo 29.
+La Comisión Estatal, salvo el caso de excepción, no estará obligada a entregar ninguna de las constancias que obran en los expedientes de queja, sea a solicitud del quejoso o de la autoridad. Tampoco estará obligada a entregar ninguna de sus pruebas a la autoridad a la cual dirigió una Recomendación o a algún particular. Sin embargo, los Visitadores Generales, previo acuerdo con el Presidente de la Comisión Estatal, podrán determinar discrecionalmente si se accede a la solicitud respectiva.
 
-Los integrantes de la Comisión tendrán las siguientes funciones:
+###### ARTICULO 74.
 
-I.- Participar con derecho a voz y voto en las sesiones de la Comisión;
+Para los efectos del Artículo 48 de la Ley, la Comisión Estatal notificará al quejoso los resultados del expediente, a través de oficio dirigido con acuse de recibo.
 
-II.- Formular propuestas respecto del Programa Anual de Trabajo que presente el Secretario Técnico de la Comisión;
+###### ARTICULO 75.
 
-III.- Proponer al Presidente de la Comisión, por escrito y por lo menos con 10 días previos a la celebración de la sesión respectiva, los temas que estimen deban incluirse en el orden del día de las sesiones, acompañando la documentación necesaria;
+El Presidente de la Comisión Estatal, los Visitadores Generales y, en su caso, los Visitadores Adjuntos, tendrán fe pública en el desempeño de sus funciones, y serán responsables, en su caso, por el indebido ejercicio de las mismas.
 
-IV.- Proponer estudios, proyectos, programas, mecanismos de difusión y actividades en materia de cambio climático para cumplir con los objetivos de la Comisión;
+Se entenderá por fe pública la facultad de autenticar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos funcionarios, sin perjuicio del valor probatorio que en definitiva se les atribuya de conformidad con las normas del Artículo 40 de la Ley.
 
-V.- Proponer al Presidente de la Comisión la creación de los grupos de trabajo que se requieran para el cumplimiento de los objetivos de la Comisión; y
+Las declaraciones y hechos a que alude el párrafo anterior, se harán constar en el acta circunstanciada que al efecto levantará el funcionario correspondiente.
 
-VI.- Las demás que se determinen en el Reglamento Interno de la Comisión o que se decidan por consenso de los integrantes de la misma.
+###### ARTICULO 76.
 
-#### SECCIÓN SEGUNDA. CONSEJO DE CAMBIO CLIMÁTICO
+Durante la fase de investigación de una queja, los Visitadores Generales, o los Adjuntos que sean designados al efecto, podrán presentarse a cualquiera oficina administrativa o centro de reclusión para comprobar cuantos datos fueren necesarios, hacer las entrevistas personales pertinentes, sea con autoridades o con testigos o proceder al estudio de los expedientes o documentación necesarios. Las autoridades deberán dar las facilidades que se requieran para el buen desempeño de las labores de investigación y permitir el acceso a la documentación o a los archivos respectivos.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2019)</small>
+En caso de que la autoridad estime con carácter reservado la documentación solicitada, se estará a lo dispuesto por el Artículo 55 de la Ley.
 
-###### Artículo 30.
+La falta de colaboración de las autoridades a las labores de los funcionarios de la Comisión Estatal podrá ser motivo de la presentación de una protesta en su contra ante su superior jerárquico, independientemente de las responsabilidades administrativas a que haya lugar y de la solicitud de amonestación a la que alude el Artículo 60 de la Ley.
 
-El Consejo, es el órgano de consulta de la Comisión, se integrará por miembros de los sectores social, privado y académico, bajo el principio de paridad de género, con experiencia en materia ambiental y de cambio climático, que serán designados por el presidente de la Comisión, a propuesta de sus integrantes y de conformidad a lo señalado en su Reglamento Interno, debiendo garantizarse el equilibrio entre los sectores e intereses respectivos.
+###### ARTICULO 77.
 
-###### Artículo 31.
+Se podrá requerir hasta por dos ocasiones a la autoridad a la que se corrió traslado de la queja para que rinda el informe o envíe la documentación solicitada. El lapso que deberá correr entre los dos requerimientos será de 15 días contados a partir del acuse de recibo.
 
-El Consejo tendrá un presidente y un secretario, que deberán ser servidores públicos adscritos a la Secretaría.
+Los dos requerimientos procederán tanto en el caso de que la autoridad no rinda el informe, como para el supuesto de que lo rinda pero no envíe la documentación solicitada.
 
-###### Artículo 32.
+De no recibir respuesta, el Visitador General, o el Adjunto que él designe, podrá acudir a la oficina de la autoridad para hacer la investigación respectiva en los términos del artículo anterior.
 
-Los integrantes del Consejo ejercerán su encargo de manera honorífica y a título personal, con independencia de la institución, empresa u organización de la que formen parte o en la cual presten sus servicios.
+Si del resultado de la investigación se acredita la violación a Derechos Humanos, la consecuencia inmediata será una Recomendación en la que se precise la falta de rendición del informe a cargo de la autoridad. En estos casos no habrá posibilidad de amigable composición ni operará la prueba en contrario. El envío de la Recomendación no impedirá que la Comisión Estatal pueda solicitar la aplicación de las responsabilidades administrativas correspondientes en contra del funcionario respectivo.
 
-###### Artículo 33.
+Si al concluir la investigación no se acredita violación de Derechos Humanos alguna, se hará del conocimiento del quejoso y, en su caso, se le orientará. En esta específica situación, no habrá lugar a elaborar documento de No Responsabilidad a la autoridad.
 
-El Consejo sesionará de manera ordinaria dos veces por año o cada vez que la Comisión requiera su opinión.
+###### ARTICULO 78.
 
-El quórum legal para las reuniones del Consejo se integrará con la mitad más uno de sus miembros. Los acuerdos que se adopten en el seno del Consejo serán por mayoría simple de los presentes.
+Cuando una autoridad o servidor público deje de dar respuesta a los requerimientos de información de la Comisión Estatal, en más de dos ocasiones diferentes, el Organismo recomendará al superior jerárquico del funcionario moroso, que le imponga una amonestación pública con copia para su expediente, de acuerdo con el procedimiento que corresponda.
 
-###### Artículo 34.
+###### ARTICULO 79.
 
-El Consejo tendrá las funciones siguientes:
+Para el efecto de documentar debidamente las evidencias en un expediente de queja instaurado por presuntas violaciones a Derechos Humanos, la Comisión Estatal podrá solicitar la rendición y desahogar todas aquellas pruebas que resulten indispensables, con la sola condición de que éstas estén previstas como tales en el orden jurídico mexicano, y no estén reñidas con la ley o la moral.
 
-I.- Asesorar a la Comisión en los asuntos de su competencia;
+###### ARTICULO 80.
 
-II.- Recomendar a la Comisión realizar estudios y adoptar políticas, acciones y metas tendientes a enfrentar los efectos adversos del cambio climático;
+Para los efectos del Artículo 39 de la Ley, se entienden por medidas precautorias o cautelares, todas aquellas acciones o abstenciones previstas como tales en el orden jurídico mexicano y que el Visitador General solicite a las autoridades competentes para que, sin sujeción a mayores formalidades, se conserve o restituya a una persona el goce de sus derechos humanos.
 
-III.- Promover la participación social, informada y responsable, a través de las consultas públicas que determine en coordinación con la Comisión;
+###### ARTICULO 81.
 
-IV.- Dar seguimiento al Programa y a la Estrategia Estatal y los programas municipales; así como formular propuestas a la Comisión y al Sistema Estatal de Cambio Climático;
+El Visitador General podrá requerir a las autoridades para que adopten medidas precautorias o cautelares ante la noticia de la violación reclamada, cuando ésta se considere grave y sin necesidad de que estén comprobados los hechos u omisiones aducidos, constituyendo razón suficiente el que, de ser ciertos los mismos, resulte difícil o imposible la reparación del daño causado o la restitución al agraviado en el goce de sus derechos humanos.
 
-V.- Integrar grupos de trabajo especializados que coadyuven a las atribuciones de la Comisión y a las funciones del Consejo;
+Las medidas precautorias o cautelares solicitadas se notificarán a los titulares de las áreas o a quienes los sustituyan en sus funciones, utilizando a tal efecto cualquier medio de comunicación escrita o telefónica. Las autoridades o servidores públicos a quienes se haya solicitado una medida precautoria o cautelar, contarán con un plazo máximo de tres días para notificar a la Comisión Estatal si dicha medida ha sido aceptada. En caso de que la solicitud se realice vía telefónica, se estará a lo dispuesto en el Artículo 69 de este Reglamento.
 
-VI.- Integrar, publicar y presentar a la Comisión, a través de su Presidente, el informe anual de sus actividades, a más tardar en el mes de febrero de cada año, y
+###### ARTICULO 82.
 
-VII.- Las demás que se establezcan en el Reglamento Interno o las que le otorguen la Comisión.
+Cuando siendo ciertos los hechos, la autoridad a la que se notifique el requerimiento de la Comisión Estatal para que decrete una medida cautelar o precautoria negare los mismos o no adoptare la medida requerida, esta circunstancia se hará notar en la Recomendación que se emita, una vez realizadas las investigaciones a efecto de que se hagan efectivas las responsabilidades del caso. Cuando los hechos violatorios no resulten ciertos, las medidas solicitadas quedarán sin efecto.
 
-###### Artículo 35.
+###### ARTICULO 83.
 
-La organización, estructura y el funcionamiento del Consejo de Cambio Climático se determinarán en el Reglamento que para los fines se expida.
+Las medidas precautorias o cautelares se solicitarán, cuando la naturaleza del caso lo amerite, por un plazo cierto que no podrá ser superior a treinta días calendario.
 
-###### Artículo 36.
+Durante este lapso la Comisión Estatal deberá concluir el estudio de la queja y se pronunciará sobre el fondo de la misma.
 
-Son instrumentos de planeación de la política estatal de cambio climático los siguientes:
+###### ARTICULO 84.
 
-I.- El Programa Estatal;
+En el desempeño de sus funciones, los funcionarios de la Comisión Estatal estarán obligados a identificarse con la credencial que a su nombre se expida. En caso de que algún funcionario hiciere uso indebido de la credencial, será sujeto a responsabilidad administrativa y, en su caso, penal. Para tal efecto, el Visitador General, luego de escuchar al funcionario implicado y previo acuerdo del Presidente de la Comisión Estatal, podrá imponer la sanción que corresponda o presentar la denuncia ante el ministerio público respectivo.
 
-II.- La Estrategia Estatal, y
+### CAPITULO IV. DE LA CONCILIACIÓN
 
-III.- Los Programas Municipales.
+###### ARTICULO 85.
 
-### CAPÍTULO VII. INSTRUMENTOS ECONÓMICOS
+Cuando una queja, calificada como presuntamente violatoria de Derechos Humanos, no se refiera a violaciones a los derechos a la vida o a la integridad, física o síquica, o a otras que se consideren especialmente graves por el número de afectados o sus posibles consecuencias, la misma podrá sujetarse a un procedimiento de conciliación con las autoridades señaladas como presuntamente responsables.
 
-###### Artículo 37.
+###### ARTICULO 86.
 
-La planeación de la política estatal en materia de cambio climático comprenderá dos vertientes:
+En el supuesto señalado en el artículo anterior, el Visitador General correspondiente, de una manera breve y sencilla, presentará por escrito a la autoridad o servidor público la propuesta de conciliación del caso, siempre dentro del respeto a los derechos humanos que se consideren afectados, a fin de lograr una solución inmediata a la violación.
 
-I.- La proyección de los periodos constitucionales que correspondan a las administraciones estatales y federales; y
+Para este efecto podrá escucharse al quejoso.
 
-II.- La proyección en mediano y largo plazo que tendrán previsiones a diez, veinte y cuarenta años, conforme se determine en la Estrategia Estatal, misma que será congruente y vinculante con la Estrategia Nacional.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-#### SECCIÓN PRIMERA. PROGRAMA ESTATAL DE ACCIÓN ANTE EL CAMBIO CLIMÁTICO
+###### ARTICULO 87.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
+La autoridad o servidor público, a quien se envíe una propuesta de conciliación, dispondrá de un plazo de quince días calendario para responder a la propuesta, también por escrito, y enviar las pruebas correspondientes. En situaciones que a juicio de la Comisión se consideren urgentes, dicho plazo podrá ser reducido.
 
-###### Artículo 38.
+###### ARTICULO 88.
 
-El Programa Estatal, constituye el instrumento rector de la política estatal en el mediano plazo para enfrentar los efectos del cambio climático y transitar hacia una economía competitiva, sustentable y de bajas emisiones de carbono.
+El Visitador a quien corresponda el conocimiento de una queja, susceptible de ser solucionada por la vía conciliatoria, inmediatamente dará aviso al quejoso o agraviado de esta circunstancia, aclarándole en qué consiste el procedimiento y sus ventajas. Asimismo, el Visitador mantendrá informado al quejoso del avance del trámite conciliatorio hasta su total conclusión.
 
-La Secretaría elaborará el Programa Estatal con la participación de instituciones académicas y de investigación, con apoyo y asesoría del INECC, la opinión del Consejo y la aprobación de la Comisión, será publicada en el Periódico Oficial del Estado, de acuerdo al procedimiento establecido por la Secretaría de Gobierno.
+###### ARTICULO 89.
 
-El Programa deberá emitirse en un plazo máximo de 180 días naturales, contados a partir del inicio de cada administración de gobierno del estado.
+Cuando la autoridad o servidor público correspondiente no acepte la propuesta de conciliación formulada por la Comisión Estatal, la consecuencia inmediata será la preparación del proyecto de Recomendación que corresponda.
 
-Los objetivos, acciones y metas de mitigación y adaptación que se incluyan en los programas sectoriales, el Programa y Estrategia, así como en los programas municipales, estarán alineados con la estrategia nacional y con lo establecido en esta Ley.
+###### ARTICULO 90.
 
-###### Artículo 39.
+Durante el trámite conciliatorio la autoridad o servidor público correspondiente, podrá presentar a la Comisión Estatal las evidencias que considere pertinentes para comprobar que en el caso particular no existen violaciones a los Derechos Humanos, o para oponer alguna o algunas causas de incompetencia de la propia Comisión Estatal.
 
-El Programa establecerá los objetivos, estrategias, acciones y metas para enfrentar el cambio climático mediante la definición de prioridades en materia de adaptación, mitigación, investigación, así como la asignación de responsabilidades, tiempos de ejecución, coordinación de acciones y de resultados y estimación de costos, en congruencia con el Plan Estatal de Desarrollo y el Programa Sectorial de Medio Ambiente y Recursos Naturales, y con la Estrategia Nacional.
+### CAPITULO V. DE LAS CAUSAS DE CONCLUSIÓN DE LOS EXPEDIENTES DE QUEJAS
 
-###### Artículo 40.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-El Programa deberá contener, entre otros, los elementos siguientes:
+###### ARTICULO 91.
 
-I.- Diagnóstico de las emisiones en el Estado y acciones que den prioridad a los sectores de mayor potencial de reducción y que logren al mismo tiempo beneficios ambientales, sociales y económicos;
+Los expedientes de queja que hubieran sido abiertos podrán ser concluidos por las siguientes causas:
 
-II.- Oportunidades para la mitigación de emisiones en la generación y uso de energía, quema y venteo de gas natural, uso de suelo y cambio de uso de suelo, transporte, procesos industriales, gestión de residuos y demás sectores o actividades;
+I. Por incompetencia de la Comisión Estatal para conocer de la queja planteada;
 
-III.- Escenarios de línea base;
+II. Cuando, por no tratarse de violaciones a Derechos Humanos, se oriente jurídicamente al quejoso;
 
-IV.- Emisiones de línea base;
+III. Por haberse dictado la Recomendación correspondiente, quedando abierto el caso exclusivamente para los efectos del seguimiento de la Recomendación;
 
-V.- Trayectoria objetivo de emisiones;
+IV. Por haberse enviado a la autoridad o servidor público señalado como responsable un documento de No Responsabilidad;
 
-VI.- La planeación con perspectiva de largo plazo, de sus objetivos y acciones, en congruencia con la Estrategia Nacional y el Programa Especial;
+V. Por desistimiento del quejoso, presentado antes del dictado de la resolución que ponga fin al procedimiento de queja.
 
-VII.- Los escenarios de Cambio Climático y los diagnósticos de vulnerabilidad y de capacidad de adaptación;
+VI. Por falta de interés del quejoso en la continuación del procedimiento; o
 
-VIII.- Las metas y acciones para la mitigación y adaptación en materia de su competencia señaladas en la presente Ley y las demás disposiciones que de ella deriven;
+VII. Por haberse solucionado la queja mediante los procedimientos de conciliación o durante el trámite respectivo.
 
-IX.- La medición, el reporte y la verificación de las medidas de adaptación y mitigación, y sus correspondientes mecanismos de monitoreo y evaluación; y
+VIII. Por haber quedado sin materia la tramitación de la queja.
 
-X.- Los demás que determinen las disposiciones legales en la materia.
+###### ARTICULO 92.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
+No se surte la competencia de la Comisión Estatal tratándose de:
 
-###### Artículo 41.
+I. Asuntos jurisdiccionales;
 
-Para la elaboración del Programa, la Comisión en coordinación con el Consejo promoverá la participación activa de las organizaciones de la sociedad civil organizada conforme a las disposiciones aplicables.
+II. Conflictos entre particulares;
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
+III. Asuntos laborales;
 
-###### Artículo 42.
+IV. Asuntos electorales;
 
-El Programa contará con un proceso de seguimiento y evaluación de cumplimiento para verificar si requiere modificaciones o actualizaciones para ajustarse a las revisiones de la Estrategia Estatal, de ser así dichas modificaciones o actualizaciones deberán publicarse en el Periódico Oficial del Estado.
+V. Quejas extemporáneas;
 
-#### SECCIÓN SEGUNDA. ESTRATEGIA ESTATAL DE CAMBIO CLIMÁTICO
+VI. Asuntos de competencia exclusiva de diversa Comisión Estatal de Derechos Humanos o de la Comisión Nacional de Derechos Humanos en los cuales no se haya ejercitado la facultad de atracción a que se refiere el Artículo 60 de la Ley;
 
-###### Artículo 43.
+VII. Asuntos que vulneren su autonomía y su autoridad moral de conformidad con el artículo 34 de la Ley; y
 
-La Estrategia Estatal constituye el elemento base para fortalecer la coordinación, vinculación y trasversalidad sectorial de programas y proyectos que permitan asegurar el cumplimiento de las metas señaladas en el Programa Estatal.
+VIII. Consultas formuladas por autoridades, particulares u otras entidades, sobre la interpretación de las disposiciones constitucionales y legales.
 
-### CAPÍTULO VIII. FONDO AMBIENTAL
+###### ARTICULO 93.
 
-###### Artículo 44.
+En todas aquellas quejas en las que aparezca una causal de incompetencia de la Comisión Estatal, pero al propio tiempo resulte posible orientar jurídicamente al quejoso, se determinará siempre esta segunda opción para dar por concluido el expediente.
 
-La Estrategia Estatal deberá reflejar los objetivos de las políticas de mitigación y adaptación al cambio climático establecidas en la presente Ley y contendrá entre otros elementos, los siguientes:
+###### ARTICULO 94.
 
-I.- Desarrollo institucional, transversalidad y coordinación de políticas públicas;
+Los expedientes de queja serán formalmente concluidos mediante la firma del acuerdo correspondiente del Visitador General a quien le haya correspondido conocer del asunto. En dicho acuerdo se establecerá con toda claridad la causa de conclusión del expediente y su fundamento legal y reglamentario.
 
-II.- Metas sexenales de mitigación, dando prioridad a las relacionadas con la generación y uso de energía, quema y venteo de gas, transporte, agricultura, bosques, otros usos de suelo, procesos industriales y gestión de residuos;
+###### ARTICULO 95.
 
-III.- Metas sexenales de adaptación relacionadas con la gestión integral del riesgo; aprovechamiento y conservación de recursos hídricos; agricultura; ganadería; silvicultura; pesca y acuacultura; ecosistemas y biodiversidad; energía; industria y servicios; infraestructura de transporte y comunicaciones; desarrollo rural; ordenamiento ecológico territorial y desarrollo urbano; asentamientos humanos; infraestructura y servicios de salud pública, y las demás que resulten pertinentes;
+Los acuerdos de conclusión de los expedientes de queja serán firmados por el Visitador General una vez que se haya realizado la notificación correspondiente tanto al quejoso y a la autoridad o servidor público que hubiese estado involucrado.
 
-IV.- Vulnerabilidad y gestión de riesgos;
+###### ARTICULO 96.
 
-V.- Estimaciones presupuestales necesarias para implementar sus objetivos y metas;
+Sólo procederá notificar a la autoridad o servidor público que hubiese sido señalado como responsable de la conclusión de un expediente, cuando se le hubiere corrido traslado con la queja y solicitado los informes respectivos.
 
-VI.- Proyectos o estudios de investigación, transferencia de tecnología, capacitación, difusión y su financiamiento; y
+### CAPITULO VI. DE LAS RECOMENDACIONES
 
-VII.- Los demás elementos que determine la Comisión.
+###### ARTICULO 97.
 
-#### SECCIÓN TERCERA. PROGRAMAS MUNICIPALES
+Concluida la investigación y reunidos los elementos de convicción necesarios para probar la existencia de violaciones a Derechos Humanos, el Visitador General iniciará la elaboración de la Recomendación correspondiente.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
+ARTICUL0 98.- Elaborado el proyecto, el Visitador General lo presentará a la consideración del Presidente de la Comisión Estatal.
 
-###### Artículo 45.
+###### ARTICULO 99.
 
-Los programas municipales en materia de cambio climático establecerán las estrategias, políticas, directrices, objetivos, acciones, así como, seguimiento y evaluación del cumplimiento de metas e indicadores que se implementarán y cumplirán durante el periodo de gobierno correspondiente de conformidad con el Programa y Estrategia Estatal, las disposiciones de esta Ley y las demás que determinen las disposiciones aplicables en la materia.
+El Presidente de la Comisión Estatal estudiará todos los proyectos de Recomendación que los Visitadores Generales presenten a su consideración, formulará las modificaciones, las observaciones y las consideraciones que resulten convenientes y, en su caso, suscribirá el texto de la Recomendación.
 
-Los programas municipales se elaborarán al inicio de cada administración, contando con un plazo máximo de 180 días naturales para su emisión y publicación, procurando la igualdad de género y la representación de las poblaciones más vulnerables al cambio climático, indígenas, personas con discapacidad, académicos e investigadores, así como, la coordinación interinstitucional con los órdenes de gobierno.
+###### ARTICULO 100.
 
-###### Artículo 46.
+Los textos de las Recomendaciones contendrán los siguientes elementos:
 
-Los programas municipales incluirán, entre otros, los siguientes elementos:
+I. Descripción de los hechos violatorios de Derechos Humanos;
 
-I.- La planeación con perspectiva de largo plazo, de sus objetivos y acciones, en congruencia con el Programa y Estrategia Estatal;
+II. Enumeración de evidencias que demuestran la violación a Derechos Humanos;
 
-II.- El inventario municipal de emisiones de gases efecto invernadero;
+III. Descripción de la situación jurídica generada por la violación a Derechos Humanos y del contexto en que los hechos se presentaron;
 
-III.- Los diagnósticos de vulnerabilidad y de capacidad de adaptación;
+IV. Observaciones, adminiculación de pruebas y razonamientos lógico-jurídicos y de equidad en los que se soporte la convicción sobre la violación de Derechos Humanos reclamada;
 
-IV.- Las metas y acciones para la mitigación y adaptación en materia de su competencia señaladas en la presente Ley y las demás disposiciones que de ella deriven;
+V. Recomendaciones específicas, que son las acciones que se solicitan a la autoridad sean llevadas a cabo para efecto de reparar la violación a los Derechos Humanos y sancionar a los responsables.
 
-V.- La medición, el reporte y la verificación de las medidas de adaptación y mitigación, y sus correspondientes mecanismos de monitoreo y evaluación; y
+###### ARTICULO 101.
 
-VI.- Los demás que determinen las disposiciones legales en la materia.
+Una vez que la Recomendación haya sido suscrita por el Presidente, ésta se notificará de inmediato a la autoridad o servidor público a la que vaya dirigida, a fin de que éste tome las medidas necesarias para el cumplimiento de la Recomendación.
 
-### CAPÍTULO IX. DE LAS NORMAS TÉCNICAS
+La misma se dará a conocer a la opinión pública varios días después de su notificación.
 
-### CAPÍTULO X. DESARROLLO DE CONOCIMIENTO E INNOVACIÓN ANTE EL CAMBIO CLIMÁTICO
+Cuando las acciones solicitadas en la Recomendación no requieran de discreción para su cabal cumplimiento, éstas se podrán dar a conocer de inmediato a los medios de comunicación.
 
-### CAPÍTULO XI. PARTICIPACIÓN SOCIAL
+###### ARTICULO 102.
 
-###### Artículo 47.
+Las Recomendaciones se publicarán en la forma prevista en el artículo 49 de la Ley. Cuando la naturaleza del caso lo requiera, sólo el Presidente de la Comisión Estatal podrá disponer que no sea publicada.
 
-El objeto de los Instrumentos de Gestión, es aplicar directamente a las fuentes emisoras, lineamientos que permitan conocer los impactos generados por estas, a través de la transferencia de sus diversas emisiones.
+###### ARTICULO 103.
 
-###### Artículo 48.
+Las Recomendaciones serán notificadas a los quejosos dentro de los seis días calendario siguientes a aquel en que sean firmadas por el Presidente de la Comisión Estatal.
 
-Los Instrumentos de Gestión son:
+###### ARTICULO 104.
 
-I.- Sistema de Información Estatal sobre el Cambio climático;
+La autoridad o servidor público a quien se haya dirigido una Recomendación, dispondrá de un plazo de quince días hábiles para responder si la acepta o no.
 
-II.- Registro de Emisiones; y
+En caso negativo, así se hará del conocimiento de la opinión pública. En caso afirmativo dispondrá de un plazo de otros quince días hábiles, contados a partir del vencimiento del término del que disponía para responder sobre la aceptación, a fin de enviar las pruebas de que la Recomendación ha sido cumplida.
 
-III.- Inventario.
+Cuando a juicio del destinatario de la Recomendación el plazo al que se refiere el artículo anterior para el envío de las pruebas de cumplimiento sea insuficiente, así lo expondrá de manera razonada al Presidente de la Comisión Estatal, estableciendo una propuesta de fecha límite para probar el cumplimiento total de la Recomendación.
 
-#### SECCIÓN PRIMERA. SISTEMA DE INFORMACIÓN ESTATAL SOBRE EL CAMBIO CLIMÁTICO
+###### ARTICULO 105.
 
-###### Artículo 49.
+Se entiende que la autoridad o servidor público que haya aceptado una Recomendación, asume el compromiso de dar a ella su total cumplimiento.
 
-Se integrará un Sistema de Información sobre el Cambio Climático a cargo de la Secretaría de Medio Ambiente y Recursos Naturales del Estado, con apego a lo dispuesto por la Ley del Sistema Nacional de Información, Estadística y Geografía.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-###### Artículo 50.
+###### ARTÍCULO 106.
 
-El Sistema de Información sobre el Cambio Climático del Estado con el apoyo de las diferentes dependencias de Gobierno del Estado y de los Municipios, deberán generar un conjunto de indicadores clave que atenderán como mínimo los temas siguientes:
+La Secretaría Técnica reportará el estado de las Recomendaciones de acuerdo con las siguientes hipótesis:
 
-I.- Las emisiones del inventario estatal y del registro;
+I. Recomendaciones no aceptadas;
 
-II.- Los proyectos de reducción de emisiones del Registro o de aquellos que participen en los acuerdos de los que los que el Estado y la Federación sean parte;
+II. Recomendaciones aceptadas, con pruebas de cumplimiento total;
 
-III.- Las condiciones atmosféricas del territorio nacional, pronósticos del clima en el corto plazo, proyecciones de largo plazo y caracterización de la variabilidad climática;
+III. Recomendaciones aceptadas, con pruebas de cumplimiento parcial;
 
-IV.- La vulnerabilidad de asentamientos humanos, Infraestructura, delta de ríos, actividades económicas y afectaciones al ambiente, atribuibles al cambio climático;
+IV. Recomendaciones aceptadas, sin pruebas de cumplimiento;
 
-V.- La estimación de los costos atribuibles al cambio climático en un año determinado, que se incluirá en el cálculo del Producto Interno Neto Ecológico;
+V. Recomendaciones aceptadas con cumplimiento insatisfactorio;
 
-VI.- La calidad de los suelos, incluyendo su contenido de carbono; y
+VI. Recomendaciones aceptadas, en tiempo para presentar pruebas de cumplimiento;
 
-VII.- La protección, adaptación y manejo de la biodiversidad.
+VII. Recomendaciones en tiempo de ser contestadas;
 
-###### Artículo 51.
+VIII. Recomendaciones aceptadas cuyo cumplimiento reviste características peculiares.
 
-Basado en el Sistema de Información sobre el Cambio Climático, la Secretaría deberá elaborar, publicar y difundir informes sobre adaptación y mitigación del cambio climático y sus repercusiones, considerando la articulación de éstos con la Estrategia Estatal y el Programa Estatal de Acción ante el cambio climático.
+###### ARTICULO 107.
 
-###### Artículo 52.
+Una vez expedida la Recomendación, la competencia de la Comisión Estatal consiste en dar seguimiento y verificar que ella se cumpla en forma cabal. En ningún caso tendrá competencia para intervenir con la autoridad involucrada en una nueva o segunda investigación, formar parte de una Comisión Administrativa o participar en una Averiguación Previa sobre el contenido de la Recomendación.
 
-Los datos se integrarán en un sistema electrónico de información geográfica que almacene, comparta y muestre los indicadores clave geográficamente referenciados.
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-#### SECCIÓN SEGUNDA. REGISTRO DE EMISIONES
+###### ARTICULO 107 Bis.
 
-###### Artículo 53.
+La Comisión Estatal también podrá emitir recomendaciones generales a las diversas autoridades del Estado, a fin de que se promuevan las modificaciones de disposiciones normativas y prácticas administrativas que constituyan o propicien violaciones a los derechos humanos. Estas recomendaciones se elaborarán de manera similar que las particulares y se fundamentarán en los estudios realizados por la propia Comisión Estatal a través de las visitadurías generales, previo acuerdo de presidente de la Comisión Estatal. Antes de su emisión estas recomendaciones se harán del conocimiento del Consejo Consultivo para su análisis y aprobación.
 
-La Secretaría, deberá integrar el Registro de Emisiones generadas por las fuentes de área, fijas y móviles de emisiones que se identifiquen como sujetas a reporte.
+### CAPITULO VII. DE LOS DOCUMENTOS DE NO RESPONSABILIDAD
 
-Las disposiciones que estipule el Reglamento de la presente Ley identificarán las fuentes que deberán reportar en el Registro por sector, subsector y actividad, asimismo establecerán los siguientes elementos para la integración del Registro:
+###### ARTICULO 108.
 
-I.- Los gases o compuestos de efecto invernadero que deberán reportarse para la integración del Registro;
+Concluida la investigación y en caso de existir los elementos de convicción necesarios para demostrar la no existencia de violaciones a Derechos Humanos, o de no haberse acreditado éstos de manera fehaciente, el Visitador General procederá a la elaboración del Documento de No Responsabilidad correspondiente.
 
-II.- Los umbrales a partir de los cuales los establecimientos sujetos a reporte de competencia estatal deberán presentar el reporte de sus emisiones directas e indirectas;
+###### ARTICULO 109.
 
-III.- Las metodologías para el cálculo de las emisiones directas e indirectas que deberán ser reportadas;
+La formulación del proyecto de Documento de No Responsabilidad y su consecuente aprobación, se realizará de acuerdo con los lineamientos que para los efectos de las Recomendaciones establecen los artículos 96, 97 y 98 del presente Reglamento.
 
-IV.- El sistema de monitoreo, reporte y verificación para garantizar la integridad, consistencia, transparencia y precisión de los reportes, y
+###### ARTICULO 110.
 
-V.- La vinculación, en su caso, con otros registros federales o estatales de emisiones.
+Los textos de los Documentos de No Responsabilidad contendrán los siguientes elementos:
 
-###### Artículo 54.
+I. Los antecedentes de los hechos que fueron alegados como violatorios de Derechos Humanos;
 
-Las personas físicas y morales responsables de las fuentes sujetas a reporte están obligadas a proporcionar la información, datos y documentos necesarios sobre sus emisiones directas e indirectas para la integración del Registro.
+II. Enumeración de las evidencias que demuestran la no violación de Derechos Humanos o la inexistencia de aquéllas en las que se soporta la violación;
 
-###### Artículo 55.
+III. Análisis de las causas de no violación a los Derechos Humanos; y
 
-Las personas físicas o morales que lleven a cabo proyectos o actividades que tengan como resultado la mitigación o reducción de emisiones, podrán inscribir dicha información en el Registro, conforme a las disposiciones reglamentarias que al efecto se expidan.
+IV. Conclusiones.
 
-Los proyectos contendrán información entre otros elementos, de las transacciones en el comercio de emisiones, ya sea nacional o internacional de reducciones o absorciones certificadas, expresadas en toneladas métricas y en toneladas de bióxido de carbono equivalente y la fecha en que se hubieran verificado las operaciones correspondientes; los recursos obtenidos y la fuente de financiamiento respectiva.
+###### ARTICULO 111.
 
-El Reglamento de la presente Ley establecerán las medidas para evitar la doble contabilidad de reducciones de emisiones que se verifiquen en el territorio estatal, considerando los sistemas y metodologías internacionales disponibles.
+Los Documentos de No Responsabilidad serán de inmediato notificados a los quejosos y a las autoridades o servidores públicos a los que vayan dirigidos. Estos Documentos serán publicados en el Periódico Oficial del Estado y en la Gaceta de la propia Comisión. También se podrán hacer del conocimiento de los medios de comunicación con las modalidades que establezca el Presidente de la Comisión Estatal.
 
-###### Artículo 56.
+###### ARTICULO 112.
 
-Las disposiciones reglamentarias de la presente Ley establecerán los procedimientos y reglas para llevar a cabo el monitoreo, reporte y verificación y, en su caso, la certificación de las reducciones de emisiones obtenidas en proyectos inscritos en el Registro, a través de organismos acreditados de acuerdo a la Ley Federal sobre Metrología y Normalización, y autorizados por la Secretaría o por los organismos internacionales de los que los Estados Unidos Mexicanos sean parte.
+Los Documentos de No Responsabilidad que expide la Comisión Estatal se refieren a casos concretos cuyo origen es una situación específica. En consecuencia, dichos Documentos no son de aplicación general y no eximen de responsabilidad a la autoridad respecto a otros casos de la misma índole.
 
-Las disposiciones reglamentarias de la presente Ley establecerán los requisitos para validar ante el Registro, las certificaciones obtenidas por registros internacionales, de la reducción de proyectos realizados en los Estados Unidos Mexicanos.
+###### ARTICULO 113.
 
-#### SECCIÓN TERCERA. INVENTARIO
+Cuando un quejoso de manera dolosa hubiese faltado a la verdad ante la Comisión Estatal, de acuerdo con la gravedad y circunstancias del caso, tanto aquélla como la autoridad a quien se haya imputado el acto u omisión violatorio de los Derechos Humanos, podrán presentar la denuncia penal correspondiente por el delito de falsedad en declaraciones rendidas a una autoridad distinta de la judicial.
 
-###### Artículo 57.
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-El Inventario deberá ser elaborado por el INECC, de acuerdo con los lineamientos y metodologías establecidos por la Convención, la Conferencia de las Partes y el Grupo Intergubernamental de Cambio Climático.
+### CAPITULO VIII
 
-La Secretaría elaborará los contenidos del Inventario de acuerdo con los siguientes plazos:
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-I.- La estimación de las emisiones de la quema de combustibles fósiles se realizará anualmente;
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-II.- La estimación de las emisiones distintas a las de la quema de combustibles fósiles se realizará cada dos años, con excepción de las relativas al cambio de uso de suelo; y
+ARTICULO 113 bis.- Los visitadores generales, adjuntos y demás personal de la Comisión, están impedidos para conocer de asuntos por alguna de las causas siguientes:
 
-III.- La estimación del total de las emisiones por las fuentes y las absorciones por los sumideros de todas las categorías incluidas en el Inventario, se realizará cada cuatro años.
+I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado o por afinidad con alguno de los interesados o sus representantes, o con el servidor público involucrado como presunto responsable en el asunto;
 
-###### Artículo 58.
+II. Tener amistad íntima o enemistad manifiesta con alguna de las personas a que se refiere la fracción anterior;
 
-las autoridades municipales proporcionarán a la Secretaría los datos, documentos y registros relativos a información relacionada con las categorías de fuentes emisoras que se originen en el ámbito de sus respectivas jurisdicciones, conforme a los formatos, las metodologías y los procedimientos que se determinen en las disposiciones jurídicas que al efecto se expidan.
+III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus familiares, en los grados que expresa la fracción primera de este artículo;
 
-###### Artículo 59.
+IV. Tener familiaridad o vivir en familia con alguno de los interesados en el asunto que se encuentre en trámite o se pretenda tramitar ante la Comisión Estatal;
 
-Se entenderá como instrumentos económicos a los estímulos fiscales, financieros y de mercado que incentiven únicamente el cumplimiento de los objetivos de esta ley, por medio de los cuales los beneficiarios asuman los costos relacionados con la mitigación y adaptación al cambio climático. De esta forma promover la ejecución de acciones que favorezcan la mitigación y adaptación a dicho cambio.
+V. Haber aceptado presentes o servicios de alguno de los interesados en el asunto;
 
-### CAPÍTULO XII. INSPECCIÓN Y VIGILANCIA
+VI. Haber hecho promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes o haber amenazado de cualquier modo a alguno de ellos;
 
-###### Artículo 60.
+VII. Haber sido agente del Ministerio Público, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente a favor o en contra de alguno de los interesados, y
 
-El Estado y sus Municipios, según sus respectivas atribuciones serán los encargados de planificar, desarrollar y ejecutar instrumentos económicos que generen recursos al Estado para estimular y promover el cumplimiento de los objetivos de la presente ley, así mismo se retribuya de forma económica a los dueños o poseedores de áreas forestales que ofrezcan un servicio ambiental o ecosistémico, con la finalidad de que estos adopten prácticas de uso que garanticen la provisión de dichos servicios.
+VIII. Cualquier otro análogo a las anteriores.
 
-###### Artículo 61.
+En caso de que un visitador general, visitador adjunto y demás personal de la Comisión Estatal tenga conocimiento de que se encuentra en alguna de las causas de impedimento deberá excusarse de inmediato del conocimiento del asunto y solicitar a su superior la calificación y determinación final sobre la excusa. De ser procedente el Presidente de la Comisión indicará sobre el servidor público que deba conocer el asunto.
 
-Se consideraran como acciones prioritarias para efectos de otorgamiento de los estímulos fiscales a:
+## TITULO QUINTO. INFORMES ANUALES Y ESPECIALES
 
-I.- La compensación económica por servicios ambientales o ecosistémicos en cualquiera de sus tipos, la investigación, incorporación o utilización de mecanismos o sistemas de reduzcan, controlen o eviten la emisión de gases de efecto invernadero a la atmosfera, así mismo que eficiente el consumo de energía y desarrollen energías limpias y renovables.
+### CAPITULO UNICO
 
-###### Artículo 62.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
-La Secretaría promoverá de manera coordinada con la Secretaría de Finanzas y Administración y la Secretaría de Desarrollo Económico, en el ámbito de sus competencias, el establecimiento de programas para incentivar fiscal y financieramente a los Interesados en participar de manera voluntaria en la realización de proyectos de reducción de emisiones.
+###### ARTICULO 114.
 
-###### Artículo 63.
+El Presidente de la Comisión de Derechos Humanos deberá presentar un informe anual, a los Poderes del Estado, sobre las actividades que haya realizado en el período respectivo. Dicho informe será difundido en la forma más amplia posible para el conocimiento de la sociedad.
 
-El Fondo Ambiental al que se refiere la Ley para la Protección al Ambiente del Estado, deberá captar y canalizar recursos económicos públicos, privados, nacionales e internacionales para acciones de mitigación y adaptación al cambio climático en la Entidad.
+###### ARTICULO 115.
 
-###### Artículo 64.
+En el informe anual se incluirán los datos que señala el Artículo de la Ley. En él se podrán omitir los datos personales de los quejosos, para evitar su identificación.
 
-El Fondo, además de los recursos que establece la Ley para la Protección al Ambiente del Estado, podrá administrar recursos provenientes de:
+###### ARTICULO 116.
 
-I.- El pago de servicios ambientales;
+Cuando la naturaleza del caso lo requiera, por su importancia o gravedad, el Presidente de la Comisión Estatal podrá presentar a la opinión pública un informe especial en el que se expongan los logros obtenidos, la situación de particular gravedad que se presenta, las dificultades que para el desarrollo de las funciones de la Comisión Estatal hayan surgido, y el resultado de las investigaciones sobre situaciones de carácter general o sobre alguna cuestión que revista una especial trascendencia.
 
-II.- Las herencias, legados y donaciones que reciba;
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-III.- Los recursos destinados para ese efecto en el Presupuesto de Egresos del Estado de Hidalgo;
+## TITULO SEXTO. DE LAS RELACIONES LABORALES
 
-IV.- Las aportaciones y/o donativos por mitigación y/o compensación ambiental generados a través de los procedimientos de evaluación de impacto ambiental, regulación y control de fuentes emisoras de contaminantes a la atmósfera y manejo de residuos de manejo especial;
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-V.- Aportaciones de organismos nacionales e internacionales;
+### CAPITULO I. DE LOS NOMBRAMIENTOS
 
-VI.- Los productos de sus operaciones; y
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-VII.- Los demás recursos que se generen por cualquier otro concepto.
+###### ARTICULO 117.
 
-###### Artículo 65.
+Con las excepciones establecidas en la Ley y el Reglamento corresponde al Presidente de la Comisión Estatal, nombrar libre y discrecionalmente a todo el personal del Organismo, y removerlo con apego en lo dispuesto en el artículo 119 del presente Reglamento.
 
-Los recursos del Fondo podrán ser destinados a:
+El nombramiento es el acto jurídico- laboral por el que una persona presta sus servicios, previo pago de un sueldo o salario acorde con el puesto o plaza que desempeña.
 
-I.- Programas y acciones para la Adaptación y Mitigación al cambio climático atendiendo de manera especial a las poblaciones ubicadas en zonas de alto riesgo y grupos vulnerables de Los municipios, mujeres, niños y personas con capacidades diferentes;
+El nombramiento deberá contener el nombre completo del trabajador, el puesto o plaza a desempeñar, la fecha a partir de la cual fue dado de alta en la nomina respectiva y la firma del Presidente de la Comisión Estatal.
 
-II.- Proyectos que contribuyan a incrementar y preservar el capital natural;
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-III.- El desarrollo de programas de educación e investigación en materia ambiental y para el fomento y difusión de experiencias y prácticas para la protección, conservación y aprovechamiento de los recursos naturales y el ambiente;
+###### ARTICULO 118.
 
-IV.- Coadyuvar con la autoridad competente para la conservación de las áreas naturales protegidas;
+La Comisión Estatal no será responsable de la terminación de la relación laboral por las causas siguientes:
 
-V.- Formulación del Atlas de Riesgo Ambiental, pronósticos y escenarios climáticos en el Estado;
+I. RENUNCIA VOLUNTARIA,
 
-VI.- Proyectos de mitigación de emisiones de gases efecto invernadero y adaptación al cambio climático;
+II. CESE MOTIVADO POR EL PROPIO TRABAJADOR,
 
-VII.- El fortalecimiento de la gestión ambiental municipal;
+III. FALLECIMIENTO DEL TRABAJADOR,
 
-VIII.- Presupuesto de adaptación al cambio climático presentado por la Comisión, en coordinación con la Secretaría y los municipios, previa autorización del Gobernador del Estado; y
+IV. INCAPACIDAD PERMANENTE, FÍSICA O MENTAL, QUE IMPIDA QUE EL TRABAJADOR DESEMPEÑE SU FUNCIÓN.
 
-IX.- Demás proyectos y acciones en materia de cambio climático que la Comisión considere estratégicos.
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-###### Artículo 66.
+###### ARTICULO 119.
 
-La Secretaría administrará el Fondo Ambiental, teniendo funciones de Secretario Técnico del Comité Técnico.
+Los trabajadores del Organismo serán sancionados a través del correspondiente procedimiento administrativo por incurrir en alguna de las prohibiciones siguientes:
 
-El manejo, integración, funcionamiento y operación del Fondo Ambiental del Estado, será de conformidad con la normativa aplicable.
+A) Una vez registrada su entrada laboral abandone o desatienda el mismo sin causa justificada;
 
-###### Artículo 67.
+B) Asistir a sus labores en estado de embriaguez o bajo los efectos de algún psicotrópico, narcótico o droga enervante (estupefaciente);
 
-El Fondo Ambiental se sujetará a los mecanismos de control, auditoría, transparencia, evaluación y rendición de cuentas que establece la legislación del Estado y sus Reglas de operación.
+C) No asistir a laborar por más de tres días en un mes, sin causa justificada o sin permiso previo o autorización del superior inmediato o mediato;
 
-### CAPÍTULO XIII. DE LAS NOTIFICACIONES
+D) Ocasionar daños y perjuicios dolosamente o por negligencia al edificio o implementos de trabajo o poner en peligro la seguridad del local y del personal del mismo;
 
-###### Artículo 68.
+E) Hostigar sexualmente, molestar en cualquier forma o cometer actos inmorales con los compañeros de trabajo, dentro de las oficinas que ocupa o fuera de la jornada laboral;
 
-La Secretaría establecerá los requisitos, criterios, especificaciones técnicas, parámetros y límites permisibles, mediante la expedición de Normas Técnicas que resulten necesarias para garantizar las medidas de adaptación y mitigación al cambio climático en el Estado.
+F) Comunicar a otro u otros asuntos secretos o reservados relacionados con su labor;
 
-###### Artículo 69.
+G) No cumplir las disposiciones que le dicten sus superiores en el ejercicio de sus Atribuciones;
 
-El Estado y los Municipios en el ámbito de sus respectivas competencias, impulsarán acciones destinadas a fomentar la educación, la investigación, el desarrollo e innovación que permita la reducción de emisiones, la adaptación y mitigación de los efectos adversos del cambio climático.
+H) Cuando exista motivo justificado para perder la confianza que se le tenía encomendada al trabajador;
 
-Con el fin de lograr estos objetivos, las instituciones competentes en materia de educación, investigación, desarrollo e innovación y en medio ambiente, coordinarán sus actuaciones para integrar tales objetivos en sus instrumentos de planeación.
+I) Por sentencia ejecutoriada que imponga el juez correspondiente al trabajador por delitos dolosos que merezcan pena corporal;
 
-La Secretaría, establecerá canales de comunicación y líneas de trabajo permanentes con las instituciones educativas, científicas y tecnológicas, fomentando el intercambio continuo de conocimiento.
+J) Registrar por otro la asistencia a sus labores;
 
-###### Artículo 70.
+K) Las demás que dispongan la Ley Reglamentaria del Capitulo XVII de la Constitución Política del Estado de Campeche.
 
-El Estado y los municipios deberán promover y garantizar la participación corresponsable de la ciudadanía, para la toma de decisiones y en el desarrollo, implementación y verificación del Programa y la Estrategia y de los Programas Municipales, así como en las medidas individuales y colectivas de adaptación y mitigación del cambio climático.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-###### Artículo 71.
+### CAPITULO II. DIAS DE DESCANSO OBLIGATORIO
 
-La Secretaría por conducto de la Procuraduría, realizará actos de inspección y vigilancia para asegurar el cumplimiento de las disposiciones establecidas en esta Ley.
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-###### Artículo 72.
+###### ARTICULO 120.
 
-Las personas físicas o morales responsables de las fuentes emisoras que sean requeridas por la Secretaría para proporcionar los informes, datos o documentos que integran el reporte de emisiones tendrán la obligación de hacerlo dentro de un plazo no mayor a quince días hábiles, contados a partir del día siguiente al de la fecha de su notificación.
+El Presidente de la Comisión determinará a través del acuerdo respectivo los días inhábiles que gozará el personal de la Comisión Estatal, tomando como base los señalados en la Ley Federal del Trabajo.
 
-###### Artículo 73.
+Las mujeres embarazadas disfrutarán de tres meses de Incapacidad por maternidad, misma que podrá distribuirse en dos partes antes y después del alumbramiento dependiendo de la salud de la madre y del nacimiento del producto.
 
-Las autoridades competentes podrán realizar, por conducto de personal debidamente autorizado, visitas de inspección y verificación, sin perjuicio de otras medidas previstas en las leyes aplicables.
+Durante la lactancia tendrá dos descansos extraordinarios por día de media hora cada uno, pudiendo convertirse en una hora al inicio o término de la jornada y tendrá una duración de seis meses.
 
-###### Artículo 74.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-El procedimiento de inspección y vigilancia se substanciará conforme a lo dispuesto en la Ley para la Protección al Ambiente del Estado y la Ley Estatal del Procedimiento Administrativo.
+### CAPITULO III
 
-###### Artículo 75.
+VACACIONES, PERMISOS Y LICENCIAS.
 
-La Secretaría con el objeto de comprobar el cumplimiento de esta Ley y demás ordenamientos aplicables, realizará visitas técnicas a las personas físicas o morales, públicas o privadas que deban atender a lo dispuesto en esta Ley, mismas que estarán obligadas a permitir el acceso, proporcionar información y documentación que los verificadores requieran para el desarrollo de su labor.
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-Los verificadores para practicar una visita deberán estar provistos de orden escrita, con firma autógrafa de la autoridad competente de la Secretaría, en la que se precisará el lugar, zona o región que ha de verificarse, el objeto de la visita, el alcance que deba tener y las disposiciones legales que la fundamenten.
+###### ARTICULO 121.
 
-###### Artículo 76.
+El Presidente de la Comisión de Derechos Humanos determinara los dos periodos anuales de vacaciones que el personal de la misma con más de seis meses de servicio tendrá derecho a gozar, consistente en diez días hábiles cada uno y de acuerdo a las necesidades del servicio de manera que no se interrumpan las labores de la misma.
 
-Las visitas técnicas serán ordinarias y extraordinarias, las primeras se efectuarán por lo menos una vez cada seis meses en días y horas hábiles y las segundas, en cualquier tiempo y bajo cualquier circunstancia que lo amerite de acuerdo a la Ley, su Reglamento y normas aplicables.
+El período vacacional será independiente de cualquier incapacidad que se presente, en ningún caso el trabajador podrá renunciar a ellas, compensarse con una remuneración o ser acumulables unas con otras.
 
-###### Artículo 77.
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-El personal estará obligado a permitir el acceso y a proporcionar las facilidades necesarias, documentación, datos, información y demás elementos que sean inherentes a la naturaleza de su actividad. El personal que realice la visita técnica, para el desempeño de su labor mostrará su identificación y el documento que contenga la orden de visita.
+###### ARTICULO 122.
 
-En el supuesto de negativa o desobediencia, la Secretaría dará vista a la Procuraduría, para que ésta, se constituya en el lugar e inicie el procedimiento administrativo correspondiente en los términos de esta Ley, su Reglamento y la normatividad aplicable al caso. Además requerirá la presentación del documento o informe omitido en un plazo de tres días naturales.
+Discrecionalmente el Presidente de la Comisión Estatal podrá otorgar al personal de la misma, permisos económicos con goce de sueldo, consistentes en nueve días al año, por causas personales o de fuerza mayor, no pudiendo concederse más de tres días por mes.
 
-###### Artículo 78.
+Se consideran causas de fuerza mayor:
 
-De toda visita técnica se levantará acta circunstanciada, oyendo lo que esgrima el visitado en su defensa, con base a lo señalado en esta Ley, su Reglamento y disposiciones legales aplicables.
+a) Fallecimiento de padres, hijo, cónyuge o hermanos;
 
-###### Artículo 79.
+b) Enfermedad grave o intervención quirúrgica de padres, hijo o cónyuge;
 
-Cuando de las visitas técnicas o de inspección realizadas a las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte, en el caso de que la Secretaría determine que existe riesgo inminente derivado de contravenir las disposiciones aplicables en esta Ley, le dará vista a la Procuraduría, quien podrá ordenar las medidas de seguridad previstas en el Reglamento de esta Ley.
+c) Matrimonio del trabajador;
 
-###### Artículo 80.
+d) Examen profesional del trabajador;
 
-El incumplimiento a las obligaciones establecidas en esta Ley, su Reglamento y demás disposiciones legales aplicables, dará lugar a las sanciones previstas en esta Ley y medidas de seguridad contempladas en el Reglamento.
+e) Cuando no sean aceptados los hijos en guardería por enfermedad;
 
-###### Artículo 81.
+f) Por haber recibido citatorio para comparecer a alguna diligencia judicial;
 
-El procedimiento para la aplicación de sanciones se iniciará mediante la inspección o la presentación de denuncia que se interponga ante la Procuraduría.
+g) Las que considere el Presidente como causa personal o fuerza mayor.
 
-###### Artículo 82.
+Los permisos por causas personales serán negados en víspera de vacaciones, fin de semana o días de descanso obligatorio.
 
-La Secretaría a través de la Procuraduría podrá imponer las sanciones siguientes:
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-I.- Amonestación con apercibimiento;
+###### ARTICULO 123.
 
-II.- Multa;
+El Presidente de la Comisión Estatal podrá conceder al personal licencias sin goce de sueldo con aprobación del Consejo Consultivo, por razones personales hasta treinta días acumulables por cada año de servicio, no excediendo de tres meses en un año.
 
-III.- Arresto Administrativo hasta por 36 horas; y
+La solicitud de la misma deberá realizarse por escrito señalándose las razones de su petición cuando menos con diez días de anticipación a la convocatoria de sesión del Consejo Consultivo y tener la aprobación de su jefe superior inmediato o mediato quien deberá examinar discrecionalmente la oportunidad y necesidad de ella así como su duración. Sin embargo éstas podrán ser negadas cuando se considere que afectan la prestación del servicio de dicho Organismo.
 
-IV.- Las demás que establezcan leyes y reglamentos aplicables;
+En los casos de solicitud de permisos para realizar algún curso, taller, diplomado, postgrado o similar con carácter personal deberá anexarse la documentación que acredite la mismas, y tener la autorización de su superior inmediato o mediato. El Presidente de la Comisión tendrá la facultad de negar o autorizar dicho permiso, teniendo siempre en cuenta en primer lugar las necesidades del servicio y si el Organismo obtiene algún beneficio con la aplicación de dicho conocimiento.
 
-Las presentes sanciones se impondrán en los términos que fije el Reglamento de la Ley, sin perjuicio de la responsabilidad civil, ambiental o penal que resultare, en los términos de la legislación aplicable.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-###### Artículo 83.
+### CAPITULO IV. DE LA ASISTENCIA
 
-Contra los actos y resoluciones administrativas que dicte o ejecute la Secretaría por conducto de la Procuraduría en aplicación de esta Ley y su Reglamento, los interesados se estarán a lo dispuesto en la Ley Estatal de Procedimiento Administrativo para el Estado de Hidalgo.
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-###### Artículo 84.
+###### ARTICULO 124.
 
-Las dependencias, servidores públicos, Comisión o cualquier otra persona, sin necesidad de comprobar el interés jurídico o afectación directa alguna, podrá denunciar ante la Procuraduría, las conductas que contravengan las disposiciones de la presente Ley, sin perjuicio de la Responsabilidad ambiental y/o penal que pudiera existir.
+Todos los trabajadores deben asistir a sus labores iniciando y terminando con puntualidad la jornada de trabajo que les corresponda.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+La jornada de trabajo será fijada por el Presidente de la Comisión De Derechos Humanos con aprobación del Consejo Consultivo al inicio de cada año laboral, tomando en consideración como premisa principal las necesidades de la ciudadanía. Se considera jornada de trabajo el tiempo durante el cual el trabajador presta sus servicios con el horario establecido de y las necesidades de servicio.
 
-### CAPÍTULO XIV. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
+El control de la misma estará a cargo de la Secretaria Ejecutiva y su registro será a través del sistema electrónico de asistencia laboral instalado en el interior del edificio que ocupe el Organismo.
 
-###### Artículo 85.
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-Toda persona tendrá derecho a que las autoridades en materia de cambio climático, así como la Comisión, el Consejo y el Sistema de Información Estatal sobre el Cambio Climático pongan a su disposición la información que les soliciten en los términos previstos por las leyes.
+###### ARTICULO 125.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+El Registro de asistencia se manejará de acuerdo a las reglas siguientes:
 
-###### Artículo 86.
+a) Será considerado como Retardo tolerable el efectuado entre el minuto uno y el cinco después de la hora de entrada;
 
-La Comisión deberá elaborar y desarrollar una página de Internet que incluya el informe anual detallado de la situación general del estado en materia de cambio climático, el informe anual de actividades de la Comisión, las medidas que se llevaron a cabo para apoyar la implementación de acciones para enfrentar el cambio climático, los recursos que anualmente se asignan en el Presupuesto de Egresos de la entidad a las dependencias que integran la Comisión para cumplir con las obligaciones de esta Ley y la forma en que se ejercieron; así como los resultados de las evaluaciones de la política estatal de cambio climático que se realicen.
+b) Retardo menor el realizado entre el minuto cinco y el quince después de la hora de entrada;
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+c) Retardo mayor el efectuado entre el minuto quince y el treinta de la hora fijada para la entrada laboral, misma que al acumularse tres de ellos dará lugar a una falta injustificada.
 
-###### Artículo 87.
+d) En caso de efectuarse después de la hora considerada como retardo mayor se considerará como falta de asistencia del servidor.
 
-Los recursos federales que sean transferidos al Estado de Hidalgo y a los municipios para enfrentar los efectos adversos del cambio climático, a través de los convenios de coordinación, se sujetarán a las disposiciones legales aplicables en materia de transparencia y evaluación de los recursos públicos.
+El hecho de no efectuar o registrar su entrada o salida respectiva sin causa justificada se considerará como falta injustificada. Por cada falta injustificada se descontará un día de sueldo.
 
-### CAPÍTULO XV. DE LOS RECURSOS
+La tarjeta electrónica para registrar la asistencia laboral será proporcionada y renovada por la Comisión Estatal cuando se trate de desgaste por uso. En los casos de robo, extravío o mal uso la reposición será con cargo del trabajador.
 
-### CAPÍTULO XVI. DENUNCIA CIUDADANA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-### CAPÍTULO XVII. TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
+### CAPITULO V. CAPACITACION
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
+
+###### ARTÍCULO 126.
+
+El Instituto de Estudios en Derechos Humanos realizará programas de capacitación para todos los servidores públicos de la Comisión de Derechos Humanos del Estado de Campeche, teniendo el carácter de obligatorio al menos 1 curso por año laboral, el cual será impartido a costa del Organismo.
+
+Para que los trabajadores de la Comisión Estatal tengan derecho a aspirar a ascensos y/o promociones dentro del organismo, es obligatorio es obligatorio haber participado cuando menos en uno de los cursos de capacitación a que se refiere el párrafo anterior, así como aprobar los exámenes correspondientes.
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+PRIMERO.- El presente Reglamento entrará en vigor treinta días después al de su publicación en el Periódico Oficial del Gobierno del Estado de Campeche.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Se derogan todas aquellas disposiciones emitidas por la Comisión Estatal que extinguió la Ley, en lo que se opongan a lo establecido por este Reglamento.
 
-###### ARTÍCULO SEGUNDO.
+REGLAMENTO APROBADO UNÁNIMEMENTE POR EL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE EN SESIÓN EXTRAORDINARIA DE 8 DE JUNIO DE 1993.
 
-La reglamentación de esta Ley deberá ser expedida por el Titular del Poder Ejecutivo del Estado de Hidalgo, dentro de los noventa días hábiles siguientes a la entrada en vigor de este ordenamiento.
+CAMPECHE, CAM., A 8 DE JUNIO DE 1993.- LIC. CARLOS FELIPE ORTEGA RUBIO, PRESIDENTE DEL CONSEJO Y DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO.- RÚBRICA.
 
-###### ARTÍCULO TERCERO.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-Se derogan las disposiciones legales, reglamentarias y administrativas que convengan lo dispuesto en esta Ley.
+P.O. 27 DE JULIO DE 2000.
 
-###### ARTÍCULO CUARTO.
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche.
 
-La Comisión Intersectorial de Cambio Climático del Estado de Hidalgo, deberá quedar instalada en un término que no exceda de cuarenta y cinco días hábiles, contados a partir de la entrada en vigor de la presente Ley.
+SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias en lo que se opongan al contenido del presente acuerdo.
 
-###### ARTÍCULO QUINTO.
+P.O. 27 DE OCTUBRE DE 2003.
 
-El Comité Técnico del Fondo Ambiental, deberán realizar los ajustes legales, administrativos y técnicos necesarios a través del convenio modificatorio correspondiente, para cumplir con lo previsto en el CAPÍTULO VIII de esta Ley.
+PRIMERO.- Las presentes reformas al Reglamento Interno de la Comisión de Derechos Humanos del Estado de Campeche, entrarán en vigor al día siguiente de su publicación.
 
-AL EJECUTIVO DE LA ENTIDAD, PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HIDALGO, A LOS OCHO DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL TRECE.
+SEGUNDO.- En lo que respecta a la instalación del Órgano Interno de Control, el titular de dicho órgano será designado por el Presidente de la Comisión Estatal una vez autorizada la plaza correspondiente para el ejercicio presupuestal del año 2004. En tanto, el Secretario Técnico del Consejo Consultivo, además de sus responsabilidades, tendrá a su cargo de manera transitoria las funciones de Contralor Interno.
 
-PRESIDENTE
+TERCERO.- Por lo que respecta a las unidades administrativas incorporadas a la presente reforma, los titulares de éstas serán los servidores públicos de este Organismo que desempeñan esas funciones.
 
-DIP. CARLOS ALBERTO ANAYA DE LA PEÑA.
+CUARTO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan al contenido del presente acuerdo.
 
-SECRETARIO
+P.O. 5 DE OCTUBRE DE 2004.
 
-DIP. CHRISTIAN PULIDO ROLDÁN.
+PRIMERO.- Las presentes reformas y adiciones al Reglamento Interno de la Comisión de Derechos Humanos del Estado de Campeche, entrarán en vigor al día siguiente de su publicación.
 
-SECRETARIA
+SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan al contenido del presente acuerdo.
 
-DIP. HEMEREGILDA ESTRADA DÍAZ.
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Campeche, de acuerdo a lo establecido en el Artículo 29 del Reglamento Interno de la Comisión Estatal.
 
-EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
+P.O. 8 DE MARZO DE 2006.
 
-DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS DIECISÉIS DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL TRECE.
+PRIMERO.- Las presentes reformas y adiciones al Reglamento Interno de la Comisión de Derechos Humanos del Estado de Campeche, entrarán en vigor al día siguiente de su publicación.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan al contenido del presente acuerdo.
 
-LIC. JOSÉ FRANCISCO OLVERA RUIZ
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 15 DE AGOSTO DE 2016.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 692.- QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
-
-P.O. 31 DE JULIO DE 2017.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 208 QUE REFORMA EL ARTÍCULO 10 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO."]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
-
-P.O. 1 DE ABRIL DE 2019.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 176.- QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
-
-Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
-
-P.O. 13 DE SEPTIEMBRE DE 2021.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 745 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO”.]
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
-
-P.O. 12 DE JUNIO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 273 QUE REFORMA LOS ARTÍCULOS 38; 41; 42 Y 45 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO”.]
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
-
-P.O. 7 DE JUNIO DE 2024.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 955 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO".]
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
-
-P.O. 16 DE AGOSTO DE 2024.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1046 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO”.]
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
-
-P.O. 26 DE DICIEMBRE DE 2025.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 359 – LXVI POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII, Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 3 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, EN MATERIA DE AMPLIACIÓN DEL OBJETO DE LA LEY”.]
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Campeche, de acuerdo a lo establecido en el artículo 29 del Reglamento Interno de la Comisión Estatal.
