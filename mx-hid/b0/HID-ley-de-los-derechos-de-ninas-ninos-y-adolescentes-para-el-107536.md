@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2026-07-08"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -1683,9 +1683,13 @@ XII. Ajustarse al tiempo de participación máximo para la intervención de niñ
 
 XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales;
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-XIV. Realizar de forma oficiosa y asequible las pruebas psicológicas y de entorno social, para garantizar la prevención y protección adecuada de niñas, niños y adolescentes víctimas.
+XIV. Realizar de forma oficiosa y asequible las pruebas psicológicas y de entorno social, para garantizar la prevención y protección adecuada de niñas, niños y adolescentes víctimas; y
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XV. Garantizar que el personal que intervenga cuente con formación especializada y emplee metodologías adecuadas a la edad, desarrollo evolutivo, cognoscitivo y grado de madurez de niñas, niños y adolescentes, con el objeto de evitar su exposición innecesaria, reducir experiencias abrumadoras y prevenir su revictimización.
 
 ###### Artículo 83.
 
@@ -3498,3 +3502,11 @@ P.O. 8 DE JULIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 576 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE CRIANZA POSITIVA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 716 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 82 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE FORMACIÓN ESPECIALIZADA PARA AUTORIDADES QUE INTERVIENEN CON NIÑEZ Y ADOLESCENCIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La implementación de las disposiciones previstas en este Decreto se realizará con cargo a los recursos humanos, materiales y presupuestarios aprobados a las autoridades competentes, por lo que no implicará la creación de estructuras administrativas ni la autorización de recursos adicionales.
