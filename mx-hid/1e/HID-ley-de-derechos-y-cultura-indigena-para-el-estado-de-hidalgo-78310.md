@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-y-cultura-indigena-para-el-estado-de-hidalgo-78
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2026-04-07"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "HID"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -2771,55 +2771,101 @@ Los pueblos y comunidades indígenas tienen derecho a revitalizar, utilizar, fom
 
 El Catálogo de Pueblos y Comunidades Indígenas tiene por objeto reconocer mediante la investigación o autoadscripción a los Pueblos y Comunidades Indígenas que habitan en nuestro Estado, con la finalidad de hacer más eficiente la atención mediante la identificación, garantizando el acceso y el reconocimiento de sus derechos.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 9.
 
-El Congreso del Estado, será el encargado de modificar el Catálogo de Pueblos y Comunidades Indígenas, mismo que será revisado a propuesta del Gobierno del Estado, los Municipios, la Comisión Nacional para el Desarrollo de los Pueblos Indígenas y las autoridades auxiliares, debiendo considerar un periodo de cuatro años preferentemente, noventa días hábiles posteriores a la toma de protesta a los Ayuntamientos, cumpliendo con los elementos básicos de la metodología para la dictaminación bajo las siguientes categorías:
+El Congreso del Estado, será el encargado de modificar el Catálogo de Pueblos y Comunidades Indígenas, mismo que será revisado a propuesta del Gobierno del Estado, los Municipios, el Instituto Nacional de los Pueblos Indígenas y las autoridades auxiliares, debiendo considerar un periodo de cuatro años preferentemente, noventa días hábiles posteriores a la toma de protesta a los Ayuntamientos, cumpliendo con los elementos básicos de la metodología para la dictaminación bajo las siguientes categorías:
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 1) Hablantes de lengua indígen (sic).
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+
 2) Territorio.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 3) Autoridad tradicional.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+
 4) Asamblea comunitaria.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 5) Comités internos tradicional.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+
 6) Autoadscripción.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 7) Usos y Costumbres para resolver sus conflictos.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+
 8) Trabajo comunitario.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 9) Medicina Tradicional.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+
 10) Parteras tradicionales.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 11) Médicos tradicionales.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+
 12) Fiestas del pueblo: Patronal, santos, carnaval, agrícola o climática.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 13) Relación del ciclo económico con ceremonias.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+
 14) Lugares sagrados (cerros, cuevas, piedras...).
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 15) Música (tradicional, costumbre).
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+
 16) Danza.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 17) Leyendas y creencias.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+
 18) Vestimenta tradicional.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 19) Artesanías.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+
 20) Origen.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 21) Reglamentos y/o acuerdos.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+
 22) Patrimonio comunitario.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 La presente Ley prevé nuevos indicadores para el reconocimiento de población indígena.
 
@@ -3626,5 +3672,11 @@ P.O. 15 DE JUNIO DE 2023.
 P.O. 7 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 587 – LXVI POR EL QUE SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X, TODAS DEL ARTÍCULO 58 DE LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, EN MATERIA DE FOMENTO AL EMPRENDIMIENTO A LAS MUJERES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 698 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, Y DE LA LEY DE PRESTACIÓN DE SERVCIOS PARA LA ATENCIÓN, CUIDADO, PROTECCIÓN Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
