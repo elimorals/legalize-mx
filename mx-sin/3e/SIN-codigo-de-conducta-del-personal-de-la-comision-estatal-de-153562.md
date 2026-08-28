@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-conducta-del-personal-de-la-comision-estatal-de-15356
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-13"
-last_updated: "2021-12-13"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE CONDUCTA DEL PERSONAL DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL PERSONAL DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DEL PERSONAL DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026 (SIN EFECTOS).
 
 Código publicado en el No. 150 del Periódico Oficial del Estado de Sinaloa, el lunes 13 de diciembre de 2021.
 
@@ -538,3 +540,15 @@ Es dado en la ciudad de Culiacán Rosales, Sinaloa, a los treinta días del mes 
 El Presidente de la Comisión Estatal de los Derechos Humanos
 
 Mtro. José Carlos Álvarez Ortega
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL PERSONAL DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS”.]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. A partir de su entrada en vigor, quedará sin efectos el Código de Conducta publicado en el Periódico Oficial "El Estado de Sinaloa" No. 150 de fecha 13 de diciembre de 2021.
+
+TERCERO. En lo no previsto en los presentes Lineamientos, se aplicarán de manera supletoria las disposiciones previstas en el Código de Ética y demás normativa aplicable.
