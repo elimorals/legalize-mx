@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2025-08-06"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -329,11 +329,11 @@ Corresponde a la Secretaría, la publicación de las normas técnicas a las que 
 
 Es facultad de la Secretaría coordinarse con los municipios para la implementación del padrón de personas prestadoras de servicios, guarderías, hoteles para animales de compañía, pensiones, refugios y escuelas de adiestramiento y entrenamiento.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 8°.
 
-Corresponde a la Autoridad en materia de educación en el Estado, en el ámbito de su competencia, en coordinación con la Secretaría el desarrollo de programas de educación en las Instituciones de Enseñanza Básica, Media y Superior, en materia de trato digno y respetuoso a los animales y su hábitat.
+Corresponde a la autoridad en materia de educación en el Estado, en el ámbito de su competencia y en coordinación con la Secretaría, promover, en las instituciones de educación básica, media superior y superior, el desarrollo y fortalecimiento de programas y acciones orientados al respeto, cuidado, protección y trato digno y respetuoso a los animales y su hábitat, así como a la tenencia responsable y a la prevención del maltrato y la crueldad animal, conforme a las disposiciones aplicables y con respeto a la autonomía que la ley otorgue a las instituciones de educación superior.
 
 ###### Artículo 9º.
 
@@ -1650,5 +1650,11 @@ P.O. 28 DE MARZO DE 2025.
 P.O. 6 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 307 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO, EN MATERIA DE CONDICIONES PARA LA EXHIBICIÓN, RESGUARDO Y VENTA DE ANIMALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 709 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO Y DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN PARA EL RESPETO, CUIDADO Y PROTECCIÓN ANIMAL".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
