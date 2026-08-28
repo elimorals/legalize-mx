@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2026-06-22"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2459,11 +2459,11 @@ Para los efectos de las disposiciones anteriores, el Juez ordenará el retiro in
 
 ### CAPITULO I. VIOLACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 176.
 
-Tipo y punibilidad de la violación.- Se impondrá prisión de diez a veinte años y hasta trescientos días multa, al que por medio de la violencia física ó moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo; si la persona ofendida fuere menor de catorce años la pena de prisión será de quince a treinta años y hasta quinientos días multa.
+Tipo y punibilidad de la violación.- Se impondrá prisión de diez a veinte años y hasta trescientos días multa, al que tenga cópula con una persona sin el consentimiento de esta, sea cual fuere su sexo.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -2473,27 +2473,31 @@ Para los efectos de este artículo, se entiende por cópula, la introducción de
 
 Sólo se procederá contra el violador a petición de la parte ofendida, cuando la violación se cometa entre cónyuges o entre personas que vivan en concubinato.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 177.
 
-Violación equiparada.- Al que tenga cópula con persona menor de catorce años de edad o que por cualquier causa no esté en posibilidad de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa; se le impondrá de doce a veintidós años de prisión y hasta quinientos días multa.
+Violación equiparada.- Al que tenga cópula con persona menor de dieciocho años de edad o que por cualquier causa no esté en posibilidad de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá de quince a treinta años de prisión y hasta quinientos días multa.
 
-Artículo 177 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+Artículo 177 BIS.- Para efecto de los artículos 176, 177 y 178 no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad.
+
+El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 178.
 
-Violación impropia.- Se equipara a la violación, al que sin consentimiento de una persona o con el consentimiento de un o una menor de catorce años, introduzca uno o más dedos o un objeto de cualquier naturaleza en la región anal o vaginal, la pena será de ocho a quince años de prisión y hasta trescientos días multa, sin perjuicio de las penas que resulten de la comisión de otro u otros delitos
+Violación impropia.- Se equipara a la violación al que, sin consentimiento de una persona o con el consentimiento de un o una menor de dieciocho años, introduzca uno o más dedos, un objeto de cualquier naturaleza o cualquier otro elemento en la región anal o vaginal, la pena será de ocho a quince años de prisión y hasta trescientos días multa, sin perjuicio de las penas que resulten de la comisión de otro u otros delitos.
 
 Artículo 178 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 179.
 
-Agravación de la pena.- Cuando la violación fuere cometida con intervención directa o inmediata de dos o más personas, o para su realización se le haya suministrado a la víctima drogas, estupefacientes, psicotrópicos o agentes químicos, o el delito haya sido cometido dentro (sic) las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso, la prisión será de quince a veintisiete años y hasta quinientos días multa; si en la comisión de este delito intervinieren uno o más menores, esta circunstancia no relevará de responsabilidad a los mayores, que participen en su comisión; a los demás se les aplicará (sic) las reglas contenidas en el artículo 16 de este Código.
+Agravación de la pena.- Cuando la violación fuere cometida con intervención directa o inmediata de dos o más personas, o cuando se emplee violencia física o moral que produzca lesiones graves o un daño psicológico grave, o para su realización se le haya suministrado a la víctima drogas, estupefacientes, psicotrópicos o agentes químicos, o el delito haya sido cometido dentro de las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso, la prisión será de quince a veintisiete años y hasta quinientos días multa; si en la comisión de este delito intervinieren uno o más menores, esta circunstancia no relevará de responsabilidad a los mayores, que participen en su comisión; a los demás se les aplicará las reglas contenidas en el artículo 16 de este Código.
 
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
@@ -2511,9 +2515,9 @@ Cuando el delito de violación se cometa en contra de persona menor de dieciocho
 
 Es aplicable para todos los casos de violación lo que para la reparación del daño establece el artículo 184 de este Código.
 
-> <small>(ADICIONADO, P.O. 4 DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
-Las penas señaladas en los artículos 176, 177 y 178, se incrementarán hasta en una tercera parte, cuando el agente sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
+Para todos los casos de violación, la reparación del daño comprenderá los gastos derivados del delito a favor de la persona ofendida. Cuando esta sea del sexo femenino, se incluirá también los gastos médicos de la madre y los alimentos al hijo o hijos que de dicho delito resulten, observándose las reglas que sobre la forma y términos de pago fija el Código Civil.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE OCTUBRE DE 1992)</small>
 
@@ -2589,29 +2593,23 @@ Artículo 180 QUATER.- De la reparación del daño.- Adicional a la sanción est
 
 Persecución oficiosa.- El delito de abuso sexual previsto en los artículos 180 y 180 BIS se perseguirá de oficio.
 
-### CAPITULO III. ESTUPRO
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+Artículo 181 BIS. - Excluyente de responsabilidad.- Las conductas tipificadas en los artículos 177, 178 y 180 BIS de este Código, no generarán responsabilidad penal cuando se realicen entre personas que hayan cumplido los catorce y menores de dieciocho años, no exista diferencia de edad mayor a dos años entre ellas y haya existido el consentimiento expreso, libre, voluntario, específico, reversible e indubitable.
+
+### CAPITULO III. ESTUPRO
 
 ###### Artículo 182.
 
-Tipo y punibilidad.- Al que realice cópula con persona mayor de catorce años de edad y menor de dieciocho, obteniendo su consentimiento por medio de la seducción o el engaño se le impondrá de dos a seis años de prisión y hasta cien días multa.
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
-
-Agravación de la punibilidad.- La pena se aumentará hasta una mitad más, cuando para la realización del delito se le haya suministrado a la víctima drogas, estupefacientes, psicotrópicos o agentes químicos, o el delito haya sido cometido dentro las instalaciones de alguna institución educativa, asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico u (sic) físico a otras personas, o cuando el sujeto activo del delito se haya valido de una relación de parentesco o posición jerárquica derivada de su relación docente, laboral, religiosa o doméstica.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+(DEROGADO, P.O. 28 DE AGOSTO DE 2026)
 
 ###### Artículo 183.
 
-Querella.- No se procederá contra el sujeto activo del delito de estupro, sino por queja de la persona ofendida o de sus padres, a falta de éstos, de sus representantes legítimos.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+(DEROGADO, P.O. 28 DE AGOSTO DE 2026)
 
 ###### Artículo 184.
 
-Reparación del daño.- La reparación del daño en los casos de estupro, comprenderá los gastos derivados del delito a favor de la persona ofendida, cuando esta sea del sexo femenino se incluirá también los gastos médicos de la madre y los alimentos al hijo o hijos que de dicho delito resultare, observándose las reglas que sobre la forma y términos de pago fija el Código Civil.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2026)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE OCTUBRE DE 1992)</small>
 
@@ -7086,3 +7084,13 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los procedimientos penales en materia de abuso sexual, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del presente Decreto.
 
 TERCERO. En el caso de personas sentenciadas con anterioridad a la vigencia del presente Decreto por el delito de abuso sexual, subtipo de abuso sexual, incluyendo sus agravantes, les seguirá surtiendo efecto la resolución judicial que les condenó.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 304 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS, LA ADICIÓN DEL ARTÍCULO 181 BIS, ASÍ COMO LA DEROGACIÓN DE DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. Los procedimientos penales en materia de estupro, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del presente Decreto.
+
+TERCERO. En el caso de personas sentenciadas con anterioridad a la vigencia del presente Decreto por el delito de estupro, les seguirá surtiendo efecto la resolución judicial que les condenó
