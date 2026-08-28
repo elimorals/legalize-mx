@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-108266"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-25"
-last_updated: "2024-05-03"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO, PROTECCIÓN Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de mayo de 2015.
 
@@ -375,7 +375,9 @@ IX. La Delegación Estatal del Instituto de Seguridad y Servicios Sociales de lo
 
 X. La Delegación Estatal del Instituto Mexicano del Seguro Social;
 
-XI. La Delegación Estatal de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XI. La oficina de representación en Hidalgo del Instituto Nacional de los Pueblos Indígenas;
 
 XII. La Delegación Estatal de la Secretaría de Desarrollo Social;
 
@@ -904,3 +906,9 @@ P.O. 3 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 861 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO, PROTECCIÓN Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 698 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, Y DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO, PROTECCIÓN Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
