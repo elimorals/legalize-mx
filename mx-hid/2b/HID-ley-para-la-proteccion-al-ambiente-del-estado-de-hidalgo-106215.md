@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2026-07-08"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -2261,9 +2261,17 @@ I. Para acciones de adiestramiento y capacitación de personal encargado del com
 
 II. Cuando con esta medida se evite un riesgo mayor a la comunidad o los elementos naturales, y medie recomendación de alguna autoridad de atención a emergencias; y
 
-III. En caso de quemas agrícolas, cuando medie autorización de alguna autoridad forestal o agropecuaria.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2026)</small>
 
-La Secretaría establecerá las condicionantes y medidas de seguridad que deberán observarse mediante el Reglamento de la presente Ley en la materia.
+III. En terrenos de uso agropecuario, cuando el uso del fuego se realice de conformidad con la Ley General de Desarrollo Forestal Sustentable, las Normas Oficiales Mexicanas y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+En los casos previstos en las fracciones I y II, la Secretaría establecerá las condicionantes y medidas de seguridad que deberán observarse conforme al Reglamento de la presente Ley en la materia. En el caso de la fracción III, deberá observarse además lo relativo a avisos previos, autorizaciones, medidas preventivas, y demás particularidades que dispongan la Ley General y las normas oficiales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+La Secretaría, en coordinación con las autoridades federales, estatales y municipales que resulten competentes, podrá brindar servicios de capacitación a personas productoras agropecuarias, sobre el manejo seguro del fuego.
 
 ### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
@@ -3950,3 +3958,9 @@ P.O. 8 DE JULIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 596 - LXVI POR EL QUE SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 84 QUINQUIES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO; ASÍ COMO LA FRACCIÓN V DEL ARTÍCULO 18 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 28 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE ESPECIES ENDÉMICAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 717 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 146 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE QUEMAS AGROPECUARIAS CONTROLADAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
