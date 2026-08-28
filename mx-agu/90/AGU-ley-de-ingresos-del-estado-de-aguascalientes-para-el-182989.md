@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-182989"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-26"
-last_updated: "2026-06-23"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en la Primera Sección al Número 71 del Periódico Oficial del Estado de Aguascalientes, el viernes 26 de diciembre de 2025.
 
@@ -50,6 +50,8 @@ En el Ejercicio Fiscal del año 2026, la Hacienda Pública del Estado percibirá
 Por los Ingresos del Gobierno Central:
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 26 DE DICIEMBRE DE 2025, PÁGINAS DE LA 2 A LA 6.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LAS TABLAS P.O. 28 DE AGOSTO DE 2026, PÁGINAS DE LA 2 A LA 3.]</small>
 
 El desglose de los ingresos para el Ejercicio Fiscal 2026 no contempla los conceptos y los numerales correspondientes a Cuotas y Aportaciones de Seguridad Social, Contribuciones de Mejoras y Transferencias, Asignaciones, Subsidios y Subvenciones, y Pensiones y Jubilaciones; establecidos en el Catálogo del Clasificador por Rubro de Ingresos en virtud de que no son aplicables para los ingresos que establece esta Ley.
 
@@ -837,6 +839,20 @@ XII. Opinión de situación Fiscal de Cumplimiento de Obligaciones Estatales GRA
 
 XIII. Información solicitada por las Autoridades Judiciales GRATUITO
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XIV. Por la expedición del certificado de condiciones físico-mecánicas de vehículo antiguo 750
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XV. Por los servicios relacionados con el alta en el Padrón Vehicular del Estado de Aguascalientes de vehículos regularizados mediante "Decreto por el que se Fomenta la Regularización de Vehículos Usados de Procedencia Extranjera" (Decreto) , expedido por el Poder Ejecutivo de la Federación, de los propietarios que trasladaron su residencia al Estado de Aguascalientes:
+
+1) Validación de documentos relativos al procedimiento de regularización por Decreto, por cada vehículo: 250
+
+2) Inscripción de vehículos regularizados por Decreto: 2,000
+
+El pago de los derechos señalados en esta fracción, no exime del pago de las demás contribuciones aplicables al trámite de alta de vehículos que correspondan conforme a la normatividad vigente.
+
 ### CAPÍTULO IV. De las Autoridades de la Secretaría de Planeación, Participación y Desarrollo
 
 ###### Artículo 9°.
@@ -1099,161 +1115,13 @@ Por el uso de espacios para eventos de los conceptos incluidos en el presente Ar
 
 La Secretaría de Finanzas del Estado mediante solicitud justificada vía oficio que reciba del Titular de la Secretaría de Turismo, podrá otorgar descuentos de hasta el 50% por los derechos señalados en este Artículo, con el fin de fomentar los programas turísticos en el Estado.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ### CAPÍTULO VI. De las Autoridades de la Coordinación General de Movilidad
 
 ###### Artículo 11.
 
-Por el uso o goce de bienes y por la prestación de servicios de la Coordinación General de Movilidad, se causarán y pagarán los derechos correspondientes, aplicando las siguientes tarifas:
-
-I. Por la autorización a las Personas Físicas o Morales que presten los siguientes servicios de transporte público:
-
-1) Por tarjetón de identificación de operador de transporte público en las modalidades de colectivo urbano, suburbano, urbano y foráneo en taxi, colectivo foráneo, de personal, escolar, turístico, público especializado, mixto, bicitaxi, de carga ligera y pesada, de materiales para la construcción o materialista, de líquido a granel, de grúas de arrastre y de carga especializada:
-
-A) Expedición con vigencia 3 años 316
-
-B) Reposición 193
-
-C) Renovación cada tres años 251
-
-2) Otros servicios:
-
-A) Por la expedición de permiso para circular sin placas a vehículos de transporte público en las modalidades de colectivo urbano, suburbano, urbano y foráneo en taxi, colectivo foráneo, de personal, escolar, turístico, público especializado, mixto, bicitaxi, de carga ligera y pesada, de materiales para la construcción o materialista, de líquidos a granel, de grúas de arrastre y de carga especializada:
-
-a) Por mes 963
-
-b) Por cada día 96
-
-B) Permiso mensual para portar publicidad impresa y/o digital en unidades de transporte público 193
-
-C) Aportación por el uso de infraestructura del SITMA, por vehículo 2,290
-
-3) Por alta de concesión de transporte público, por vehículo:
-
-A) Transporte de Personas:
-
-a) SITMA (Sistema Integrado de Transporte Público Multimodal de Aguascalientes) costo por cada unidad de colectivo urbano 13,931
-
-b) Transporte Suburbano 13,669
-
-c) Transporte colectivo foráneo 13,669
-
-d) Transporte de personal 5,484
-
-e) Transporte escolar 5,484
-
-f) Transporte urbano y foráneo en taxis 11,593
-
-g) Transporte Turístico, público especializado, mixto 5,222
-
-h) Por Unidad de Bicicleta pública y bici taxi 2,531
-
-B) Transporte de bienes en todas sus modalidades 5,511
-
-4) Reasignación de concesión de transporte público por causa de muerte o incapacidad física:
-
-A) Transporte de Personas:
-
-a) Transporte suburbano 31,640
-
-b) Transporte colectivo foráneo 15,189
-
-c) Transporte de personal 5,698
-
-d) Transporte escolar 5,061
-
-e) Transporte urbano y foráneo en taxis 12,021
-
-f) Transporte Turístico, público especializado, mixto 5,698
-
-g) Por Unidad de Bicicleta pública y bici taxi 1,268
-
-B) Transporte de bienes en todas sus modalidades 5,821
-
-5) Por la explotación de la concesión o permiso para prestar el servicio público de transporte por vehículo por año de calendario:
-
-A) Transporte de personas:
-
-a) SITMA 2,274
-
-b) Transporte suburbano 2,215
-
-c) Transporte colectivo foráneo 1,519
-
-d) Transporte de personal 1,899
-
-e) Transporte escolar 1,675
-
-f) Transporte urbano y foráneo en taxis 3,105
-
-B) Transporte de bienes en todas sus modalidades 888
-
-6) Permiso semestral por unidad para explotar temporalmente las modalidades de transporte público de personas:
-
-A) SITMA, colectivo urbano, suburbano, colectivo foráneo, de personal, escolar, mixto y público especializado 1,899
-
-B) Turístico:
-
-a) Autobús, microbús, minibús y midibús 1,519
-
-b) Vehículo cerrado con capacidad de hasta 19 pasajeros 1,771
-
-7) Permiso semestral para explotar temporalmente las modalidades de transporte público de bienes:
-
-A) De carga ligera y pesada, de materiales para la construcción o materialista, de líquidos a granel, de grúas de arrastre y de carga especializada 1,391
-
-8) Reposición por extravío de título de concesión de transporte público 6,329
-
-9) Por transmisión de derecho de explotación de la concesión a solicitud del titular de la concesión:
-
-A) Transporte público en taxis 68,341
-
-B) Transporte público colectivo foráneo (combis) 89,853
-
-10) Autorización para prestar el servicio a empresas de redes de transporte contratado mediante plataformas tecnológicas:
-
-A) Registro anual a la plataforma de redes de transporte en vehículos particulares, persona moral 101,249
-
-B) Aportación trimestral al Fondo Estatal de Movilidad, de cuando menos el uno punto cinco por ciento del total de los ingresos generados por los viajes contratados por medio de plataformas tecnológicas.
-
-C) Expedición de la carta registro:
-
-a) Por doce meses 3,880
-
-D) Reposición de la carta de registro 1,899
-
-E) Expedición de ficha de identificación de operador de vehículos particulares que presten servicios de transporte contratados mediante plataformas tecnológicas 342
-
-F) Reposición de ficha de identificación de operador de vehículos particulares que presten servicios de transporte contratados mediante plataformas tecnológicas 193
-
-G) Renovación anual de ficha de identificación de operador de vehículos particulares que presten servicios de transporte contratados mediante plataformas tecnológicas 128
-
-H) Revisión Físico Mecánica 128
-
-11) Servicios Administrativos:
-
-A) Expedición de copia simple de documentos, por cada hoja 9
-
-B) Expedición de copia certificada de documentos, por cada hoja 28
-
-12) Tarjeta de Identificación de beneficiarios de tarifa preferencial para el transporte público colectivo urbano y colectivo foráneo:
-
-A) Expedición de tarjeta 80
-
-B) Reposición de tarjeta de identificación 125
-
-C) Renovación de vigencia GRATUITO
-
-II. Por los servicios prestados por la Coordinación General de Movilidad en materia de evaluación y emisión de impacto a la movilidad se causará y pagará:
-
-1) Por la evaluación del Estudio de Impacto a la movilidad y emisión del Dictamen de Impacto a la Movilidad 6,329
-
-2) Por la modificación ampliación o ratificación del Dictamen de Impacto en Movilidad 3,793
-
-Se otorga un 10% (diez por ciento) de descuento en el pago de los derechos por la explotación de la concesión o permiso para prestar el servicio público de transporte por vehículo, por año de calendario, aplicable únicamente al transporte urbano y foráneo en taxis; así como un 10% (diez por ciento) de descuento en la expedición de la Carta de Registro por doce meses para la autorización de vehículos destinados a la prestación del servicio de transporte de personas contratados a través de plataformas tecnológicas, exclusivamente a quienes realicen el pago de contado dentro de los primeros tres meses del ejercicio fiscal 2026.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
-
-La Secretaría de Finanzas del Estado podrá otorgar descuentos del 30% en el pago de derechos por la transmisión de concesiones del servicio de transporte público en las modalidades de taxi y colectivo foráneo (combis), siempre que exista una solicitud por parte del concesionario.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2026)
 
 ### CAPÍTULO VII. De las Autoridades de la Secretaría de Sustentabilidad, Medio Ambiente y Agua
 
@@ -5285,6 +5153,278 @@ dd) Uso de auditorio, por evento hasta 3 horas, con capacidad de 80 personas. 2,
 
 ee) Uso de aula, por hora con capacidad de 40 personas 1,000
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XXXIX. Agencia de Movilidad del Estado de Aguascalientes:
+
+1. Por la autorización a las Personas Físicas o Morales que presten los siguientes servicios de transporte público:
+
+1) Por tarjetón de identificación de operador de transporte público en las modalidades de colectivo urbano, suburbano, urbano y foráneo en taxi, colectivo foráneo, de personal, escolar, turístico, público especializado, mixto, bicitaxi, de carga ligera y pesada, de materiales para la construcción o materialista, de líquido a granel, de grúas de arrastre y de carga especializada:
+
+A) Expedición con vigencia 3 años 316
+
+B) Reposición 193
+
+C) Renovación cada tres años 251
+
+2) Otros servicios:
+
+A) Por la expedición de permiso para circular sin placas a vehículos de transporte público en las modalidades de colectivo urbano, suburbano, urbano y foráneo en taxi, colectivo foráneo, de personal, escolar, turístico, público especializado, mixto, bicitaxi, de carga ligera y pesada, de materiales para la construcción o materialista, de líquidos a granel, de grúas de arrastre y de carga especializada:
+
+a) Por mes 963
+
+b) Por cada día 96
+
+B) Permiso mensual para portar publicidad impresa y/o digital en unidades de transporte público 193
+
+C) Aportación por el uso de infraestructura del SITMA, por vehículo 2,290
+
+D) Permiso anual para el suministro de taxímetros
+
+a) Instalación y modificación de taxímetros por unidad 150
+
+3) Por alta de concesión de transporte público, por vehículo:
+
+A) Transporte de Personas:
+
+a) SITMA (Sistema Integrado de Transporte Público Multimodal de Aguascalientes) costo por cada unidad de colectivo urbano 13,931
+
+b) Transporte Suburbano 13,669
+
+c) Transporte colectivo foráneo 13,669
+
+d) Transporte de personal 5,484
+
+e) Transporte escolar 5,484
+
+f) Transporte urbano y foráneo en taxis 11,593
+
+g) Transporte Turístico, público especializado, mixto 5,222
+
+h) Por Unidad de Bicicleta pública y bici taxi 2,531
+
+B) Transporte de bienes en todas sus modalidades 5,511
+
+4) Reasignación de concesión de transporte público por causa de muerte o incapacidad física:
+
+A) Transporte de Personas:
+
+a) Transporte suburbano 31,640
+
+b) Transporte colectivo foráneo 15,189
+
+c) Transporte urbano y foráneo en taxis 12,021
+
+d) Por Unidad de Bicicleta pública y bici taxi 1,268
+
+5) Por la explotación de la concesión o permiso para prestar el servicio público de transporte por vehículo por año de calendario:
+
+A) Transporte de personas:
+
+a) SITMA 2,274
+
+b) Transporte suburbano 2,215
+
+c) Transporte colectivo foráneo 1,519
+
+d) Transporte de personal 1,899
+
+e) Transporte escolar 1,675
+
+f) Transporte urbano y foráneo en taxis 3,105
+
+B) Transporte de bienes en todas sus modalidades 1,391
+
+6) Permiso semestral por unidad para explotar temporalmente las modalidades de transporte público de personas:
+
+A) SITMA, colectivo urbano, suburbano, colectivo foráneo, de personal, escolar, mixto y público especializado 1,899
+
+B) Turístico:
+
+a) Autobús, microbús, minibús y midibús 1,519
+
+b) Vehículo cerrado con capacidad de hasta 19 pasajeros 1,771
+
+7) Permiso semestral para explotar temporalmente las modalidades de transporte público de bienes:
+
+A) De carga ligera y pesada, de materiales para la construcción o materialista, de líquidos a granel, de grúas de arrastre y de carga especializada 888
+
+8) Reposición por extravío de título de concesión de transporte público 6,329
+
+9) Por transmisión de derecho de explotación de la concesión a solicitud del titular de la concesión:
+
+A) Transporte público en taxis 68,341
+
+B) Transporte público colectivo foráneo (combis) 89,853
+
+10) Autorización para prestar el servicio a empresas de redes de transporte contratado mediante plataformas tecnológicas:
+
+A) Registro anual a la plataforma de redes de transporte en vehículos particulares, persona moral 101,249
+
+B) Aportación trimestral al Fondo a la Agencia de Movilidad del Estado de Aguascalientes, de cuando menos el uno punto cinco por ciento del total de los ingresos generados por los viajes contratados por medio de plataformas tecnológicas.
+
+C) Expedición de la carta registro:
+
+a) Por doce meses 3,880
+
+D) Reposición de la carta de registro 1,899
+
+E) Expedición de ficha de identificación de operador de vehículos particulares que presten servicios de transporte contratados mediante plataformas tecnológicas 342
+
+F) Reposición de ficha de identificación de operador de vehículos particulares que presten servicios de transporte contratados mediante plataformas tecnológicas 193
+
+G) Renovación anual de ficha de identificación de operador de vehículos particulares que presten servicios de transporte contratados mediante plataformas tecnológicas. 128
+
+H) Revisión Físico Mecánica 128
+
+11) Servicios Administrativos:
+
+A) Expedición de copia simple de documentos, por cada hoja 9
+
+B) Expedición de copia certificada de documentos, por cada hoja 28
+
+12) Tarjeta de Identificación de beneficiarios de tarifa preferencial para el transporte público colectivo urbano y colectivo foráneo:
+
+A) Expedición de tarjeta 80
+
+B) Reposición de tarjeta de identificación 125
+
+C) Renovación de vigencia GRATUITO
+
+El Director General de la Agencia de Movilidad del Estado de Aguascalientes podrá otorgar descuento del 30% en el pago de derechos por la transmisión de concesiones del servicio de transporte público en las modalidades de taxi y colectivo foráneo (combis), siempre que exista una solicitud por parte del concesionario.
+
+2. Por los servicios prestados por la Agencia de Movilidad del Estado de Aguascalientes en materia de evaluación y emisión de impacto a la movilidad se causará y pagará:
+
+1) Por la evaluación del Estudio de Impacto a la movilidad y emisión del Dictamen de Impacto a la Movilidad 6,329
+
+2) Por la modificación ampliación o ratificación del Dictamen de Impacto en Movilidad 3,793
+
+3. Multas que imponga la Agencia de Movilidad del Estado de Aguascalientes y en su caso las que establezca la normatividad en materia de movilidad vigente, las cuales se establecerán con base a Unidades de Medida y Actualización, de acuerdo con la siguiente clasificación:
+
+1) El incumplimiento de las obligaciones de los operadores, conforme a lo establecido en el artículo 386 de la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes, de acuerdo a la siguiente clasificación:
+
+A) Por efectuar ascenso y descenso de pasaje fuera de los lugares autorizados.10 a 20
+
+B) Por prestar servicio con mala presentación personal, desaseado y en su caso, sin el uniforme requerido 10 a 20
+
+C) Por tratar en forma irrespetuosa a usuarios y terceros durante la prestación del servicio 10 a 30
+
+D) Por poner en riesgo la seguridad de los usuarios y terceros al operar las unidades con falta de precaución 21 a 100
+
+E) Por no portar la licencia para conducir vehículos de servicio público, y el gafete de identificación a la vista del usuario 10 a 30
+
+F) Por conducir un vehículo de servicio público sin contar con la licencia respectiva, o ésta sea insuficiente para la modalidad 20 a 50
+
+G) Por no respetar el trato preferencial en la prestación del servicio a los adultos mayores, niños (as), personas con discapacidad y mujeres embarazadas 10 a 20
+
+H) Por alterar las tarifas o sus reglas de aplicación 50 a 200
+
+I) Por abastecer de combustible a los vehículos del servicio de transporte público con pasaje a bordo de los mismos 10 a 50
+
+J) Por negar, sin causa justificada, el servicio público de transporte 5 a 30
+
+K) Para el caso de que se obstaculice, impida o niegue el servicio a adultos mayores, niños (as), personas con discapacidad, y mujeres embarazadas 10 a 50
+
+L) Por utilizar teléfonos celulares, o exceder la velocidad permitida 30 a 100
+
+M) Por no respetar los itinerarios autorizados 10 a 30
+
+N) Por utilizar el vehículo de servicio público para otros usos diferentes a la prestación del servicio 10 a 30
+
+O) Por transportar personas en los lugares destinados para la carga o en los espacios destinados para el ascenso y descenso de la unidad o circular con las puertas abiertas o sin precaución al abrir las mismas 20 a 100
+
+P) No respetar las señales de vialidad, evitando realizar maniobras que pongan en peligro la seguridad de los pasajeros, de la carga y de los demás conductores 21 a 100
+
+Q) Por modificar las especificaciones de las unidades y de sus equipos, así como usar sombras o polarizados prohibidos 10 a 50
+
+R) Por prestar el servicio de taxi a personas distintas al usuario original durante el recorrido 10 a 50
+
+S) Por realizar sitio en un lugar prohibido o donde se obstaculice la circulación 10 a 20
+
+T) Por no contar con gafete o que este se encuentre vencido 20 a 50
+
+U) Por no asistir a los citatorios que le sean enviados 10 a 30
+
+V) Por detener el curso de la unidad con fines personales, haciendo esperar al usuario 10 a 30
+
+W) Por no seguir el itinerario cuando el usuario se lo indique 10 a 30
+
+X) Por rebasar la capacidad máxima permitida de usuarios 100 a 200
+
+Y) Por no facilitar la supervisión de las condiciones en que se preste el servicio 10 a 50
+
+Z) Por agredir física o verbalmente a las autoridades en materia de movilidad 100 a 200
+
+AA) Por manejar la unidad con aliento alcohólico, en estado de ebriedad o bajo el influjo de algún estupefaciente o psicotrópico 50 a 300
+
+AB) Por alterar o violar los sellos colocados por la autoridad competente 50 a 100
+
+AC) Por alterar el estado original del gafete o la ficha de identificación 50 a 100
+
+AD) Por reincidir en causales de amonestación 10 a 20
+
+2) A los titulares de concesiones, permisos o autorizaciones, conforme a lo establecido en el artículo 387 de la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes, de acuerdo a la siguiente clasificación:
+
+A) Por portar un vehículo objeto de una concesión, permiso o autorización para la prestación del servicio público de transporte, publicidad sin la autorización correspondiente 50 a 300
+
+B) Por no presentarse a la revista vehicular en las fechas y lugares que señale la Agencia de Movilidad del Estado de Aguascalientes mediante convocatoria respectiva 100 a 200
+
+C) En el caso de que presentado el vehículo a la revista vehicular no haya aprobado la revisión, y siga prestando el servicio 200 a 300
+
+D) Por interrumpir la prestación del servicio en forma injustificada, o sin haber dado aviso a la Agencia de Movilidad del Estado de Aguascalientes, o que ésta no lo haya autorizado 200 a 300
+
+E) Por negarse a proporcionar la información, datos, informes y documentos necesarios para conocer y evaluar la prestación del servicio concesionado o permisionario para el caso de personas físicas 50 a 100
+
+F) Por negarse a proporcionarla información, datos, informes y documentos necesarios para conocer y evaluar la prestación del servicio concesionado o permisionario para el caso de personas morales 100 a 200
+
+G) Por modificar o alterar sin autorización de la Agencia de Movilidad del Estado de Aguascalientes los itinerarios, rutas, horarios, frecuencias de servicio, terminales, o condiciones autorizadas para la prestación del servicio público de transporte 50 a 100
+
+H) Por no portar póliza de seguro o su equivalente vigente a bordo de vehículo afecto a una concesión de servicio público de transporte 50 a 300
+
+I) Por ordenar aplicación de tarifas y reglas de operación no autorizadas por la Agencia de Movilidad del Estado de Aguascalientes 50 a 300
+
+J) Por prestar el servicio público de transporte en vehículos que excedan la antigüedad máxima permitida por la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes, o que se encuentren en malas condiciones mecánicas, físicas o de operación 50 a 200
+
+K) Por no instalar o mantener fuera de operación los dispositivos para el control de velocidad a que hace referencia la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes 20 a 100
+
+L) Por alterar los taxímetros, sistemas de pago electrónico y demás equipos utilizados para el cobro y aplicación de tarifas autorizadas 50 a 300
+
+M) Por no completar los trámites administrativos dentro del plazo señalado para tal efecto 10 a 20
+
+N) Por no portar el permiso vigente para prestar el servicio de transporte público 10 a 50
+
+O) Por no reemplazar el vehículo mediante el cual se presta el servicio de transporte en el plazo señalado por la autoridad 20 a 200
+
+P) Por sustitución temporal o definitiva de la unidad registrada con la que se presta el servicio, sin contar con la autorización correspondiente 50 a 100
+
+Q) Por no dar de alta o de baja al operador 10 a 20
+
+R) Por no avisar del cambio de domicilio que realice el concesionario 10 a 30
+
+S) Por no asistir a los citatorios que le sean enviados 10 a 30
+
+T) Por no acudir a la revisión documental 100 a 200
+
+U) Por reincidir en la imposición de causales de amonestación 10 a 20
+
+V) Por no iniciar el trámite de sucesión testamentaria de la concesión después de treinta días de fallecido el titular 50 a 100
+
+W) Por alterar o violar los sellos colocados por la autoridad 50 a 100
+
+X) Por no contar con el equipamiento a que refiere el Artículo 138 de la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes 50 a 100
+
+Y) Por incumplir con el contenido de la fracción VII del Artículo 220, o con lo dispuestos en la Fracción XXXVII del Artículo 263
+
+de la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes 100 a 200
+
+3) Se sancionará con multa a las personas que, sin contar con concesión, permiso o carta de registro, presten el servicio de transporte público o contratado a través de plataformas tecnológicas, conforme a lo establecido en el artículo 389 de la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes 300 a 500
+
+Cuando el pago de las infracciones a que se refiere este apartado se lleve a cabo dentro de los cinco días hábiles siguientes a la fecha de la infracción, se otorgará un descuento del 50%, sobre el valor de la misma.
+
+En los casos de reincidencia por parte del infractor, se aplicará el doble del monto inicial de la multa que se hubiere impuesto.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE AL ARTÍCULO]</small>
+
 Los conceptos señalados en la fracción V incisos 2) subincisos A), B), e inciso 3); fracción VII incisos 3) y 4) y fracción IX inciso 29) subincisos H), N), Q), R), S); e inciso 30) subincisos C), D), G); todas del presente artículo, tienen el carácter de cuotas voluntarias.
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
@@ -5357,7 +5497,9 @@ I. De la venta del Periódico Oficial del Estado:
 
 Aprovechamientos de la Secretaría de Finanzas:
 
-I. Sanciones que imponga la Secretaría de Finanzas a los propietarios de los vehículos que porten placas vencidas, se harán acreedores a una sanción de 5 a 20 Unidades de Medida y Actualización, por cada canje no realizado, conforme a lo previsto en el artículo 300 de la Ley de Movilidad del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+I. Sanciones que imponga la Secretaría de Finanzas a los propietarios de los vehículos que porten placas vencidas, se harán acreedores a una sanción de 5 a 20 Unidades de Medida y Actualización, por cada canje no realizado, conforme a lo previsto en el artículo 378 de la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes.
 
 II. A los propietarios de los vehículos que no realicen el pago de Derechos de Control Vehicular del 1° de enero al 31 de marzo de 2026, se harán acreedores a una sanción del 80% al 90% de la contribución, por cada contribución omitida, conforme a lo previsto en el artículo 68 BIS, primer párrafo, del Código Fiscal del Estado de Aguascalientes.
 
@@ -5371,9 +5513,11 @@ Por los Aprovechamientos de la Secretaría de Administración:
 
 I. Cobros por penalización a proveedores ante los retardos en entregas de bienes y/o servicios adquiridos a través de la Dirección General de Adquisiciones, equivalente al cobro del 2 al millar sobre el valor total de la operación, misma que se descontará de la porción de mora con el máximo de los pagos que deberán hacérseles. Esto de conformidad a los Artículos 4° y 74 de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, en relación a los Artículos 3°, fracción XII y 25 fracción XXV del Manual Único de Adquisiciones, Arrendamientos y Servicios del Gobierno del Estado de Aguascalientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 26.
 
-Multas que imponga la Secretaría de Seguridad Pública del Estado y/o la Dirección General de Seguridad Pública y Vialidad por infracciones a la Ley de Movilidad del Estado de Aguascalientes, las cuales se establecerán con base a Unidades de Medida y Actualización (UMA), de acuerdo a la siguiente clasificación:
+Multas que imponga la Secretaría de Seguridad Pública del Estado y/o la Dirección General de Seguridad Pública y Vialidad por infracciones a la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes, las cuales se establecerán con base a Unidades de Medida y Actualización (UMA) , de acuerdo a la siguiente clasificación:
 
 I. Multas:
 
@@ -5387,133 +5531,13 @@ I. Multas:
 
 Cuando el pago de las infracciones a que se refiere este apartado se lleve a cabo dentro de los cinco días hábiles siguientes a la fecha de la infracción, se otorgará un descuento del 50% sobre el valor de la misma.
 
-II. Por infracciones a la Ley de Movilidad del Estado de Aguascalientes en materia de escuelas de Manejo, se deberán de aplicar estas, de acuerdo a lo establecido por el artículo 51 fracciones III y IV del reglamento interior de la Dirección General de Seguridad Pública y Vialidad del Estado y de las relaciones y derechos de los elementos de las corporaciones de Seguridad Pública adscritas a la Secretaría de Seguridad Pública del Estado de Aguascalientes, las cuales se establecerán con base a Unidades de Medida y Actualización 50 a 500
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+II. Por infracciones a la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes en materia de escuelas de Manejo, se deberán de aplicar estas, de acuerdo a lo establecido por el artículo 51 fracciones III y IV del reglamento interior de la Dirección General de Seguridad Pública y Vialidad del Estado y de las relaciones y derechos de los elementos de las corporaciones de Seguridad Pública adscritas a la Secretaría de Seguridad Pública del Estado de Aguascalientes, las cuales se establecerán con base a Unidades de Medida y Actualización 50 a 500
 
 ###### Artículo 27.
 
-Multas que imponga la Coordinación General de Movilidad (CMOV):
-
-I. Multas que imponga la Coordinación General de Movilidad y en su caso las que establezca la normatividad en materia de movilidad vigente, las cuales se establecerán con base a Unidades de Medida y Actualización, de acuerdo con la siguiente clasificación:
-
-1) El incumplimiento de las obligaciones de los operadores, conforme a lo establecido en el artículo 308 de la Ley de Movilidad del Estado de Aguascalientes, de acuerdo a la siguiente clasificación:
-
-A) Por efectuar ascenso y descenso de pasaje fuera de los lugares autorizados 10 a 20
-
-B) Por prestar servicio con mala presentación personal, desaseado y en su caso, sin el uniforme requerido 10 a 20
-
-C) Por tratar en forma irrespetuosa a usuarios y terceros durante la prestación del servicio 10 a 30
-
-D) Por poner en riesgo la seguridad de los usuarios y terceros al operar las unidades con falta de precaución 21 a 100
-
-E) Por no portar la licencia para conducir vehículos de servicio público, y el gafete de identificación a la vista del usuario 10 a 30
-
-F) Por conducir un vehículo de servicio público sin contar con la licencia respectiva, o ésta sea insuficiente para la modalidad 20 a 50
-
-G) Por no respetar el trato preferencial en la prestación del servicio a los adultos mayores, niños (as), personas con discapacidad y mujeres embarazadas 10 a 20
-
-H) Por alterar las tarifas o sus reglas de aplicación 50 a 200
-
-I) Por abastecer de combustible a los vehículos del servicio de transporte público con pasaje a bordo de los mismos 10 a 50
-
-J) Por negar, sin causa justificada, el servicio público de transporte 5 a 30
-
-K) Para el caso de que se obstaculice, impida o niegue el servicio a adultos mayores, niños (as), personas con discapacidad, y mujeres embarazadas 10 a 50
-
-L) Por utilizar teléfonos celulares, o exceder la velocidad permitida 30 a 100
-
-M) Por no respetar los itinerarios autorizados 10 a 30
-
-N) Por utilizar el vehículo de servicio público para otros usos diferentes a la prestación del servicio 10 a 30
-
-O) Por transportar personas en los lugares destinados para la carga o en los espacios destinados para el ascenso y descenso de la unidad o circular con las puertas abiertas o sin precaución al abrir las mismas 20 a 100
-
-P) No respetar las señales de vialidad, evitando realizar maniobras que pongan en peligro la seguridad de los pasajeros, de la carga y de los demás conductores 21 a 100
-
-Q) Por modificar las especificaciones de las unidades y de sus equipos, así como usar sombras o polarizados prohibidos 10 a 50
-
-R) Por prestar el servicio de taxi a personas distintas al usuario original durante el recorrido 10 a 50
-
-S) Por realizar sitio en un lugar prohibido o donde se obstaculice la circulación 10 a 20
-
-T) Por no contar con gafete o que este se encuentre vencido 20 a 50
-
-U) Por no asistir a los citatorios que le sean enviados 10 a 30
-
-V) Por detener el curso de la unidad con fines personales, haciendo esperar al usuario 10 a 30
-
-W) Por no seguir el itinerario cuando el usuario se lo indique 10 a 30
-
-X) Por rebasar la capacidad máxima permitida de usuarios 100 a 200
-
-Y) Por no facilitar la supervisión de las condiciones en que se preste el servicio 10 a 50
-
-Z) Por agredir física o verbalmente a las autoridades en materia de movilidad 100 a 200
-
-AA) Por manejar la unidad con aliento alcohólico, en estado de ebriedad o bajo el influjo de algún estupefaciente o psicotrópico 50 a 300
-
-AB) Por alterar o violar los sellos colocados por la autoridad competente 50 a 100
-
-AC) Por alterar el estado original del gafete o la ficha de identificación 50 a 100
-
-AD) Por reincidir en causales de amonestación 10 a 20
-
-2) A los titulares de concesiones, permisos o autorizaciones, conforme a lo establecido en el artículo 309 de la Ley de Movilidad del Estado de Aguascalientes, de acuerdo a la siguiente clasificación:
-
-A) Por portar un vehículo objeto de una concesión, permiso o autorización para la prestación del servicio público de transporte, publicidad sin la autorización correspondiente 50 a 300
-
-B) Por no presentarse a la revista vehicular en las fechas y lugares que señale la CMOV mediante convocatoria respectiva 100 a 200
-
-C) En el caso de que presentado el vehículo a la revista vehicular no haya aprobado la revisión, y siga prestando el servicio 200 a 300
-
-D) Por interrumpir la prestación del servicio en forma injustificada, o sin haber dado aviso a la CMOV, o que ésta no lo haya autorizado 200 a 300
-
-E) Por negarse a proporcionar la información, datos, informes y documentos necesarios para conocer y evaluar la prestación del servicio concesionado o permisionario para el caso de personas físicas 50 a 100
-
-F) Por negarse a proporcionar la información, datos, informes y documentos necesarios para conocer y evaluar la prestación del servicio concesionado o permisionario para el caso de personas morales 100 a 200
-
-G) Por modificar o alterar sin autorización de la CMOV los itinerarios, rutas, horarios, frecuencias de servicio, terminales, o condiciones autorizadas para la prestación del servicio público de transporte 50 a 100
-
-H) Por no portar póliza de seguro o su equivalente vigente a bordo de vehículo afecto a una concesión de servicio público de transporte 50 a 300
-
-I) Por ordenar aplicación de tarifas y reglas de operación no autorizadas por la CMOV 50 a 300
-
-J) Por prestar el servicio público de transporte en vehículos que excedan la antigüedad máxima permitida por la Ley de Movilidad del Estado de Aguascalientes, o que se encuentren en malas condiciones mecánicas, físicas o de operación 50 a 200
-
-K) Por no instalar o mantener fuera de operación los dispositivos para el control de velocidad a que hace referencia la Ley de Movilidad del Estado de Aguascalientes 20 a 100
-
-L) Por alterar los taxímetros, sistemas de pago electrónico y demás equipos utilizados para el cobro y aplicación de tarifas autorizadas 50 a 300
-
-M) Por no completar los trámites administrativos dentro del plazo señalado para tal efecto 10 a 20
-
-N) Por no portar el permiso vigente para prestar el servicio de transporte público 10 a 50
-
-O) Por no reemplazar el vehículo mediante el cual se presta el servicio de transporte en el plazo señalado por la autoridad 20 a 200
-
-P) Por sustitución temporal o definitiva de la unidad registrada con la que se presta el servicio, sin contar con la autorización correspondiente 50 a 100
-
-Q) Por no dar de alta o de baja al operador 10 a 20
-
-R) Por no avisar del cambio de domicilio que realice el concesionario 10 a 30
-
-S) Por no asistir a los citatorios que le sean enviados 10 a 30
-
-T) Por no acudir a la revisión documental 100 a 200
-
-U) Por reincidir en la imposición de causales de amonestación 10 a 20
-
-V) Por no iniciar el trámite de sucesión testamentaria de la concesión después de treinta días de fallecido el titular 50 a 100
-
-W) Por alterar o violar los sellos colocados por la autoridad 50 a 100
-
-X) Por no contar con el equipamiento a que refiere el Artículo 90 de la Ley de Movilidad del Estado de Aguascalientes 50 a 100
-
-Y) Por incumplir con el contenido de la fracción VII del Artículo 159, o con lo dispuestos en la Fracción XXXVII del Artículo 200 de la Ley de Movilidad del Estado de Aguascalientes 100 a 200
-
-3) Se sancionará con multa a las personas que, sin contar con concesión, permiso o carta de registro, presten el servicio de transporte público o contratado a través de plataformas tecnológicas, conforme a lo establecido en el artículo 311 de la Ley de Movilidad del Estado de Aguascalientes, con sanciones de: 300 a 500
-
-Cuando el pago de las infracciones a que se refiere este apartado se lleve a cabo dentro de los cinco días hábiles siguientes a la fecha de la infracción, se otorgará un descuento del 50%, sobre el valor de la misma.
-
-En los casos de reincidencia por parte del infractor, se aplicará el doble del monto inicial de la multa que se hubiere impuesto.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2026)
 
 ###### Artículo 28.
 
@@ -6867,7 +6891,9 @@ O) Taller de Ruedas y Ejes IEA, mensual 20,000
 
 P) Oficinas IAM, mensual 15,760
 
-Q) Baños y Vestidores CMOV, mensual 15,770
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+Q) Baños y Vestidores Agencia de Movilidad del Estado de Aguascalientes, mensual 15,770
 
 R) Fundición de Zapatas SEDECyT, mensual 103,990
 
@@ -8019,6 +8045,12 @@ XXX. Poder Judicial del Estado de Aguascalientes
 
 a) Copia Digital, en USB DE 16 $420
 
+> <small>(ADICIONADA [N. DE E. CON EL SEGUNDO PÁRRAFO QUE LA INTEGRA], P.O. 28 DE AGOSTO DE 2026)</small>
+
+XXXI. Agencia de Movilidad del Estado de Aguascalientes
+
+Cuando la Agencia de Movilidad del Estado de Aguascalientes preste directamente el servicio público de transporte colectivo urbano dentro del Sistema Integrado de Transporte Público Multimodal de Aguascalientes (SITMA) , percibirá los ingresos derivados del cobro de las tarifas aplicables a la prestación del servicio, conforme a las modalidades tarifarias previstas en el Acuerdo Tarifario vigente emitido de conformidad con la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes, incluyendo la tarifa pública, las tarifas preferenciales, la tarifa integrada y las demás modalidades tarifarias que, en su caso, se autoricen conforme a las disposiciones jurídicas aplicables.
+
 ## TÍTULO SEPTIMO. INGRESOS DERIVADOS DE FINANCIAMIENTO
 
 ### CAPÍTULO ÚNICO. Financiamiento Interno
@@ -8113,9 +8145,11 @@ El presente estímulo fiscal no tiene efectos retroactivos.
 
 La aplicación del Estímulo contenido en el presente artículo no dará lugar a devolución ni compensación alguna.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 43.
 
-Las multas estatales que se deban pagar en la Secretaría de Finanzas del Estado o en sus oficinas autorizadas, se disminuirán en un 50% de su monto, si se pagan en la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción, o dentro de los 10 días siguientes a dicha fecha, sin necesidad de que la autoridad que la impuso dicte nueva resolución. Lo anterior no resulta aplicable en el caso de las multas contenidas en el artículo 27, de esta Ley.
+Las multas estatales que se deban pagar en la Secretaría de Finanzas del Estado o en sus oficinas autorizadas, se disminuirán en un 50% de su monto, si se pagan en la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción, o dentro de los 10 días siguientes a dicha fecha, sin necesidad de que la autoridad que la impuso dicte nueva resolución. Lo anterior no resulta aplicable en el caso de las multas contenidas en el artículo 20 fracción XXXIX, numeral 3., de esta Ley.
 
 Asimismo, las multas que deban pagar los contribuyentes en la Secretaría de Finanzas del Estado en sus oficinas autorizadas, que deriven del ejercicio de facultades de comprobación, en materia de las contribuciones previstas en esta Ley se disminuirán del 50% al 80%, si el contribuyente corrige su situación fiscal y se pagan las contribuciones omitidas y sus accesorios, antes de notificar la resolución determinante del crédito fiscal; previa autorización del Secretario de Finanzas o el Subsecretario de Ingresos.
 
@@ -8207,6 +8241,8 @@ El Presente Decreto entrará en vigencia al día 1º de enero de 2026.
 
 > <small>[N. DE E. VÉASE ANEXOS EN EL P.O. DE 26 DE DICIEMBRE DE 2025, PÁGINAS DE LA 89 A LA 141.]</small>
 
+> <small>[N. DE E. VÉASE REFORMA AL ANEXO I, P.O. 28 DE AGOSTO DE 2026 PÁGINAS DE LA 9 A LA 10.]</small>
+
 Al Ejecutivo para su promulgación y publicación.
 
 Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, a los dieciocho días del mes de diciembre del año dos mil veinticinco.
@@ -8250,3 +8286,25 @@ P.O. 23 DE JUNIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 567.- SE REFORMA LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2026".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se otorga un plazo de treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, para que el Ejecutivo del Estado realice las modificaciones necesarias al Reglamento del Padrón Vehicular del Estado de Aguascalientes.
+
+Asimismo, se otorga un plazo de hasta sesenta días naturales posteriores a la publicación de las referidas modificaciones reglamentarias, para que la Secretaría de Finanzas lleve a cabo las acciones conducentes en materia de capacitación y certificación de los servidores públicos que tendrán a su cargo la revisión de las condiciones físico-mecánicas de los vehículos clásicos o antiguos.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza incorporar al presupuesto de egresos de la Agencia de Movilidad del Estado de Aguascalientes los ingresos propios que ésta perciba con motivo del presente Decreto y, en su caso, efectuar las adecuaciones presupuestarias que de ellos deriven, en términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
