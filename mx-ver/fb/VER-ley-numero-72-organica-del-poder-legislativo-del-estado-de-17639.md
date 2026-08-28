@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2026-05-28"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -481,9 +481,9 @@ XXXV. Conceder dispensas de ley por causas justificadas o por razones de utilida
 
 XXXVI. Conceder cartas de ciudadanía honoraria a los vecinos de otros Estados que fueren acreedores a ello por sus méritos; otorgar premios o recompensas a los que hayan prestado servicios de importancia a la humanidad, al país o al Estado; y declarar beneméritos a los que se hayan distinguido por servicios eminentes a Veracruz;
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2026)</small>
 
-XXXVII. Recibir del o la Gobernadora, de diputadas, diputados, Magistradas, Magistrados, integrantes del órgano de administración judicial y titulares de los organismos autónomos de (sic) Estado la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen;
+XXXVII. Recibir del o la Gobernadora, de Diputadas, Diputados, Magistradas, Magistrados, Juezas, Jueces, integrantes del Órgano de Administración Judicial y titulares de los Organismos Autónomos de (sic) Estado la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen;
 
 XXXVIII. Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna ley constituya un ataque a la soberanía o autonomía del Estado, o de la Constitución Federal;
 
@@ -553,21 +553,21 @@ LIII. Expedir la legislación en materia local anticorrupción, de conformidad c
 
 LIV. Designar y remover al Fiscal General del Estado, de conformidad con lo previsto en el artículo 67 fracción I inciso d) de la Constitución Política Local;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2026)</small>
 
-LV. Emitir la convocatoria para la elección de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Tribunal de Conciliación y Arbitraje, así como para Juezas y Jueces de Primera Instancia del Poder Judicial del Estado de Veracruz;
+LV. Emitir, a más tardar el treinta de abril del año anterior al de la elección judicial que corresponda, la convocatoria para la elección de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Tribunal de Conciliación y Arbitraje, así como para Juezas y Jueces de Primera Instancia del Poder Judicial del Estado de Veracruz, la cual contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables, los cargos a elegir y la información necesaria para su desarrollo;
 
-> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2026)</small>
 
-LVI. Conformar el Comité de Evaluación del Poder Legislativo del Estado para integrar el listado de postulaciones del Poder Legislativo en la elección judicial correspondiente;
+LVI. Conformar el Comité de Evaluación del Poder Legislativo del Estado para integrar el listado de postulaciones del Poder Legislativo en la elección judicial correspondiente, integrado por cinco personas honorables de reconocido prestigio en el ámbito de la actividad jurídica, que actuará conforme a la Constitución Política del Estado, la convocatoria y los acuerdos de la Comisión Coordinadora;
 
-> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2026)</small>
 
-LVII. Aprobar, por el voto de las dos terceras partes de sus integrantes presentes, el listado de postulaciones del Poder Legislativo para ocupar magistraturas y juzgados de primera instancia;
+LVII. Aprobar, por el voto de las dos terceras partes de sus integrantes presentes, el listado de dos postulaciones del Poder Legislativo por cada cargo para ocupar magistraturas y juzgados de primera instancia, integrado y depurado por el Comité de Evaluación mediante insaculación pública, con observancia de la paridad de género y, cuando corresponda, de la especialidad;
 
-> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2026)</small>
 
-LVIII. Recibir los listados de postulaciones de los Poderes del Estado y remitirlos al Organismo Público Local Electoral a efecto de que organice el proceso electivo; y
+LVIII. Recibir los listados de postulaciones de los Poderes del Estado y remitirlos al Organismo Público Local Electoral dentro de los plazos previstos en la convocatoria, a efecto de que organice el proceso electivo. Precluirá la facultad del Poder que no remita sus postulaciones al término del plazo correspondiente; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE ENERO DE 2025)</small>
 
@@ -586,6 +586,22 @@ En un plazo no mayor de quince días hábiles posteriores a la conclusión de la
 Las respuestas del Gobernador del Estado se turnarán a los Grupos Legislativos y a las Comisiones Permanentes, para su análisis y conclusiones.
 
 Las preguntas por escrito que, en su caso, formule el Congreso y las respuestas que les recaigan, se publicarán en la Gaceta Legislativa y en la página electrónica del Poder Legislativo.
+
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+###### Artículo 18 Ter.
+
+Para el ejercicio de las atribuciones previstas en las fracciones LV a LVIII del artículo 18 de esta Ley, se observarán las reglas siguientes:
+
+I. El Comité de Evaluación del Poder Legislativo elegirá de entre sus integrantes a la persona que coordine sus trabajos y participe en la Comisión Coordinadora de los Comités de Evaluación de los Poderes del Estado.
+
+II. El Comité aplicará los criterios, metodologías, exámenes y acuerdos emitidos por la Comisión Coordinadora; integrará, para cada cargo, un listado de las cuatro personas mejor evaluadas para cada cargo y lo depurará mediante insaculación pública hasta reducirlo a dos personas, garantizando la paridad de género y, cuando corresponda, la especialidad;
+
+III. El listado depurado será remitido a la Mesa Directiva para que, por su conducto, sea sometido al Pleno. Para la aprobación del listado depurado, se requiere del voto de las dos terceras partes de las diputadas y los diputados presentes; en caso de que la votación no alcance la mayoría requerida, podrá someterse nuevamente mientras no venza el plazo previsto en la convocatoria. El Congreso únicamente podrá aprobarlo o rechazarlo y no podrá sustituir, adicionar o alterar las postulaciones determinadas por el Comité;
+
+IV. Los actos, acuerdos, listados, resultados de la insaculación y votaciones serán públicos, salvo la información protegida por las disposiciones en materia de datos personales y transparencia; y
+
+V. La Mesa Directiva y la Secretaría General, en el ámbito de sus atribuciones, realizarán los actos de trámite, publicación, notificación, resguardo documental y remisión necesarios para cumplir la convocatoria y los plazos constitucionales y electorales.
 
 ### CAPÍTULO II. DE LA MESA DIRECTIVA
 
@@ -2184,3 +2200,11 @@ Sexto. En cumplimiento de lo previsto por el artículo Octavo Transitorio del De
 Quedan expresamente prohibidas las ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas y cualquier otro mecanismo que tenga por objeto o por efecto incrementar directamente el presupuesto del Congreso del Estado por encima del límite previsto en el último párrafo de la fracción XXVIII del artículo 33 de la Constitución Política del Estado y en el presente artículo transitorio.
 
 Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente transitorio será nulo de pleno derecho.
+
+G.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 534 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE ARMONIZACIÓN DE LA ELECCIÓN DE PERSONAS JUZGADAS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
