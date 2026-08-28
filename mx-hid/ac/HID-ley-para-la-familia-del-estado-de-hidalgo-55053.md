@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2025-12-29"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -987,9 +987,9 @@ Si el monto de los gastos por concepto de alimentos no pudiera determinarse, el 
 
 El acreedor alimentista puede exigir el cumplimiento de la obligación ante el Juez Familiar cuando el deudor haya incurrido en mora.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
 
-Artículo 141 BIS.- Toda persona obligada al pago de pensión alimenticia mediante sentencia firme o convenio debidamente ratificado ante el Juez de conocimiento, que incumpla con la obligación de dar alimentos por un periodo de noventa días consecutivos o discontinuos en un año, se constituirá en deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, formalice el descuento correspondiente.
+Artículo 141 BIS.- Toda persona obligada al pago de pensión alimenticia mediante sentencia firme o convenio debidamente ratificado ante el Juez de conocimiento, que incumpla con la obligación de dar alimentos por un periodo mayor de sesenta días naturales, consecutivos o discontinuos, se constituirá en deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, formalice el descuento correspondiente.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
@@ -3005,6 +3005,20 @@ El Oficial del Registro del Estado Familiar exhortará a quienes acudan a regist
 
 Una vez registrada la niña o el niño, se le deberá asignar la Clave Única de Registro de Población.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+###### Artículo 416 Bis.
+
+En la inscripción en el Registro del Estado Familiar de una constancia de nacimiento expedida en el extranjero, el nombre de la persona se asentará conforme al documento de origen, sin perjuicio de lo dispuesto en los párrafos siguientes.
+
+Cuando la constancia identifique la filiación respecto de dos personas progenitoras, pero el nombre de la persona cuyo nacimiento se inscribirá comprenda únicamente el apellido de una de ellas, podrá solicitarse, de manera simultánea a la inscripción, la incorporación de uno de los apellidos de la otra persona progenitora, en el orden que determinen quienes estén legitimados para formular la solicitud.
+
+La solicitud será formulada por la persona cuyo nacimiento se inscribirá, si es mayor de edad. Cuando se trate de una niña, niño o adolescente, deberá presentarse por quien o quienes ejerzan la patria potestad o tutela; si esta corresponde a más de una persona, se requerirá su acuerdo. A falta de acuerdo, o cuando la solicitud pueda afectar derechos de terceros, se estará a la determinación de la autoridad jurisdiccional competente.
+
+La inscripción deberá conservar referencia expresa al nombre que figure en la constancia extranjera, a la solicitud y a los documentos de filiación que sustenten la incorporación.
+
+La Dirección del Registro del Estado Familiar establecerá los mecanismos de verificación necesarios para evitar la duplicidad de registros y asegurar la continuidad de la identidad jurídica de la persona, conforme a las disposiciones aplicables.
+
 ###### Artículo 417.
 
 Las actas de nacimiento se levantarán conforme a las siguientes bases:
@@ -3381,11 +3395,25 @@ III.- Datos del acta que acrediten el vínculo entre la persona deudora y la o e
 
 IV.- Número de pagos incumplidos y monto del adeudo alimentario a ese momento;
 
-V.- Órgano jurisdiccional que ordena el registro; y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-VI.- Datos del expediente del que deriva su inscripción.
+V.- Órgano jurisdiccional que ordenó la inscripción;
 
-El Registro del Estado Familiar llevará a cabo la inscripción al día hábil siguiente a la recepción del oficio judicial que así lo ordene.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+VI.- Datos del expediente del que deriva la inscripción;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+VII.- Fecha de inscripción en el Registro; y
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+VIII.- Folio o identificador único asignado por el Registro.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+El Registro del Estado Familiar llevará a cabo la inscripción al día hábil siguiente a la recepción del oficio judicial que así lo ordene e informará de ello al órgano jurisdiccional ordenante. El tratamiento y, en su caso, el intercambio de la información se realizará conforme a la legislación en materia de protección de datos personales y a las disposiciones aplicables al Registro Nacional de Obligaciones Alimentarias.
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
 
@@ -3393,23 +3421,51 @@ El Registro del Estado Familiar llevará a cabo la inscripción al día hábil s
 
 El Registro estará a disposición de toda persona que acredite legítimo interés. Los Oficiales del Registro del Estado Familiar expedirán certificados de No inscripción o Inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos, con base en las constancias que obren en su poder, previo pago de los derechos correspondientes.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 480.
 
-El certificado expedido por el Registro de Deudoras y Deudores Alimentarios Morosos contendrá:
+El certificado expedido por el Registro de Deudoras y Deudores Alimentarios Morosos podrá emitirse en formato físico o electrónico y contendrá:
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2021)</small>
 
 I.- Fecha de emisión;
 
-II.- Nombre Completo y Clave Única de Registro de Población de la persona deudora morosa; y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-III.- Especificación de contar con inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos o en su caso de No inscripción.
+II.- Nombre completo y Clave Única de Registro de Población de la persona deudora alimentaria morosa;
 
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2025)</small>
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+III.- Número de folio o identificador único del certificado;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+IV.- Código o medio de verificación que permita comprobar la autenticidad del documento;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+V.- Especificación de contar con inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos o, en su caso, de no inscripción;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 28 DE AGOSTO DE 2026)</small>
+
+VI.- En caso de inscripción, además de lo anterior, deberá contener:
+
+a) Estatus del registro;
+
+b) Órgano jurisdiccional que ordenó la inscripción;
+
+c) Número de expediente del que derivó la orden de inscripción; y
+
+d) Monto del adeudo alimentario que conste en la resolución o comunicación judicial correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 481.
 
 Las autoridades estatales y municipales, en el ámbito de sus competencias, podrán disponer lo necesario a fin de establecer como requisito la presentación del certificado de no inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos y en el Registro Nacional de Obligaciones Alimentarias.
+
+Las personas notarías públicas podrán requerir la presentación del certificado de no inscripción en dichos registros, previo a la realización o protocolización de actos relativos a la compraventa de bienes inmuebles y a la constitución o transmisión de derechos reales, de conformidad con la legislación aplicable.
 
 ## TRANSITORIOS
 
@@ -3664,5 +3720,19 @@ P.O. 6 DE AGOSTO DE 2025.
 P.O. 29 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 383 – LXVI POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 141 BIS DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, EN MATERIA DE ALIMENTARIOS MOROSOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 720 – LXVI POR EL QUE SE ADICIONA UN ARTÍCULO 416 BIS A LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DE APELLIDOS EN LA INSCRIPCIÓN DE ACTAS DE NACIMIENTO EXPEDIDAS EN EL EXTRANJERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Dentro de los ciento ochenta días naturales siguientes a su entrada en vigor, la Dirección del Registro del Estado Familiar de Hidalgo y las autoridades municipales competentes en la materia, deberán efectuar las adecuaciones reglamentarias, administrativas y operativas necesarias para dar cumplimiento al presente decreto.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 721 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, EN MATERIA DE REGISTRO DE PERSONAS DEUDORAS ALIMENTARIAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
