@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2026-07-08"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -323,9 +323,13 @@ X.- Ser informado de la resolución que corresponda a las iniciativas o asuntos 
 
 XI.- Tener acceso a los documentos públicos y medios de información disponibles en el Congreso, tales como informes individuales, informes de resultados de la revisión de la cuenta pública, informes de actividades de las diferentes dependencias, en cuanto sean del conocimiento de las Comisiones respectivas; salvo las restricciones que establece la legislación en materia de transparencia y protección de datos personales;
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XII.- Realizar, en el ejercicio de su función representativa, actividades de gestión social, orientación y canalización de solicitudes ciudadanas ante las autoridades competentes, sin sustituir sus atribuciones;
+
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
-XII.- Las demás que establezca esta Ley y su Reglamento.
+XIII.- Las demás que establezca esta Ley y su Reglamento.
 
 ###### ARTÍCULO 26.
 
@@ -3238,3 +3242,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Congreso del Estado, por conducto de la Dirección de Servicios Administrativos realizará el cambio de la imagen institucional del Instituto, sin que ello implique erogaciones presupuestales adicionales.
 
 TERCERO. Todas las disposiciones normativas que hagan referencia al “Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo” se entenderán referidas al “Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano del Estado de Hidalgo”.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 710 – LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 25 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, EN MATERIA DE GESTIÓN SOCIAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
