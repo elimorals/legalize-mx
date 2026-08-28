@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2026-06-11"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -935,6 +935,24 @@ VIII. Participar en el rescate, defensa, preservación y difusión de las lengua
 
 Se declara de interés público el fomento y apoyo de las tradiciones, costumbres, festividades y certámenes populares, por lo que las autoridades competentes establecerán programas especiales de fomento a la salvaguardia, para que las comunidades cuenten con facilidades para su práctica, preservación, desarrollo y difusión.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+###### Artículo 39 Ter.
+
+La Secretaría, en el ámbito de sus atribuciones y conforme a su disponibilidad presupuestal, podrá crear un Padrón Estatal de Cocineras y Cocineros Tradicionales, como un registro público, permanente y actualizado de las personas que preservan, practican y transmiten conocimientos, técnicas, procesos y expresiones gastronómicas tradicionales.
+
+Dicho padrón tendrá por objeto:
+
+I. Documentar, preservar y difundir las técnicas, recetas, prácticas y expresiones asociadas a la cocina tradicional del Estado;
+
+II. Facilitar la vinculación de las personas registradas con programas de capacitación, certificación, promoción y fortalecimiento productivo que implementen las autoridades competentes;
+
+III. Impulsar, en coordinación con la Secretaría de Turismo, la Secretaría de Desarrollo Económico y los municipios, la participación de las personas registradas en festivales, encuentros, ferias gastronómicas y actividades culturales y turísticas;
+
+IV. Generar información estadística que contribuya al diseño de políticas públicas en materia cultural, turística y de desarrollo económico, y
+
+V. Promover el reconocimiento y la difusión de la cocina tradicional hidalguense como parte del patrimonio cultural inmaterial del Estado.
+
 ###### Artículo 40.
 
 Es de interés público, la protección, el fomento y el apoyo al valor cultural de las artesanías hidalguenses.
@@ -1336,3 +1354,11 @@ P.O. 11 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 646 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, EN MATERIA DE NOMBRAMIENTO DE CRONISTAS MUNICIPALES".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 700 – LXVI POR EL QUE SE ADICIONA UN ARTÍCULO 39 TER A LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, EN MATERIA DEL PADRÓN ESTATAL DE COCINERAS Y COCINEROS TRADICIONALES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La Secretaría de Cultura del Estado de Hidalgo emitirá las disposiciones administrativas y los lineamientos necesarios para la creación, integración, operación, actualización y funcionamiento del Padrón Estatal de Cocineras y Cocineros Tradicionales, conforme a sus capacidades técnicas y administrativas y a la disponibilidad presupuestaria correspondiente.
