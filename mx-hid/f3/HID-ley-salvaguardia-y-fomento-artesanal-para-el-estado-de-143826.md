@@ -4,7 +4,7 @@ identifier: "HID-ley-salvaguardia-y-fomento-artesanal-para-el-estado-de-143826"
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2025-01-09"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance Uno al Número 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -163,7 +163,9 @@ II.- Gestionar herramientas que contribuyan a incentivar la creatividad e innova
 
 III.- Establecer estrategias para fortalecer el emprendimiento y la consolidación de empresas culturales que atiendan alguna de las problemáticas de las diferentes ramas artesanales;
 
-IV.- Coordinar el Padrón único de artesanos y artesanas del estado de Hidalgo como instrumento de atención a la salvaguardia del patrimonio cultural en materia artesanal y apoyos en vinculación con las otras Secretarías;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+IV.- Coordinar el Padrón único de artesanos y artesanas del estado de Hidalgo como instrumento de atención a la salvaguardia del patrimonio cultural en materia artesanal y apoyos en vinculación con las otras Secretarías; asimismo, podrá expedir una credencial que reconozca su labor y facilite su acceso a programas de fomento y salvaguardia. El Reglamento y los lineamientos correspondientes, en su caso, determinarán los requisitos, vigencia y características de dicha identificación;
 
 V.- Promover mecanismos de comunicación y cooperación entre el sector artesanal con las instituciones nacionales e internacionales, públicas y privadas, relacionadas con el ámbito artesanal;
 
@@ -283,7 +285,23 @@ I.- Un Presidente, que será el Secretario de Cultura;
 
 II.- Un Secretario, que será el Secretario de Desarrollo Social;
 
-III.- Nueve vocales; el Secretario de Desarrollo Agropecuario, el Secretario de Desarrollo Económico, el Secretario de Medio Ambiente y Recursos Naturales, el Secretario de Turismo, dos representantes de las organizaciones de artesanos y tres miembros de la comunidad académica, cultural y artística vinculada a la actividad artesanal;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 28 DE AGOSTO DE 2026)</small>
+
+III.- Diez vocalías conformadas de la siguiente manera:
+
+a) La persona titular de la Secretaría de Agricultura y Desarrollo Rural;
+
+b) La persona titular de la Secretaría de Desarrollo Económico;
+
+c) La persona titular de la Secretaría de Medio Ambiente y Recursos Naturales;
+
+d) La persona titular de la Secretaría de Turismo;
+
+e) La persona legisladora que presida la Comisión Permanente de Cultura;
+
+f) Dos personas representantes de las organizaciones de artesanos; y
+
+g) Tres miembros de la comunidad académica, cultural y artística vinculada a la actividad artesanal;
 
 Los miembros integrantes del Consejo tendrán cargos honoríficos, y podrán nombrar un suplente para que esporádicamente los cubra en sus ausencias temporales.
 
@@ -305,13 +323,17 @@ V.- Fomentar la coordinación entre los municipios integrantes de una región co
 
 VI.- Investigar y analizar en lo general y lo particular las necesidades y problemáticas que enfrenta el sector artesanal, así como proponer alternativas que alienten su estudio, desarrollo y consolidación desde el ámbito cultural, social, económico y de medio ambiente con la finalidad de preservar sus valores tradicionales;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-VII.- Propiciar un protocolo (con base en la Metodología DAM) que permita identificar la diferenciación entre artesanía, manualidad e híbrido, y
+VII.- Propiciar un protocolo (con base en la Metodología DAM) que permita identificar la diferenciación entre artesanía, manualidad e híbrido;
 
-> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-VIII.- Procurar la implementación de programas de apoyo a mujeres artesanas enfocados a la obtención de materias primas, producción y comercialización de los productos terminados.
+VIII.- Procurar la implementación de programas de apoyo a mujeres artesanas enfocados a la obtención de materias primas, producción y comercialización de los productos terminados; y
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+IX.- Analizar, emitir opiniones técnicas y formular propuestas respecto a las políticas, programas y acciones orientadas al fomento y desarrollo del sector artesanal en el Estado y sus municipios.
 
 ###### Artículo 15.
 
@@ -506,3 +528,9 @@ P.O. 9 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 16 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 32 DE LA LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN ARTESANAL".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 697 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE FORTALECIMIENTO DEL CONSEJO TÉCNICO ARTESANAL DEL ESTADO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
