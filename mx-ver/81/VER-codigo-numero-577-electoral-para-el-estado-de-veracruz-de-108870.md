@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2026-06-04"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 2. EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE L
 
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 4 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 28 DE AGOSTO DE 2026.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -9131,7 +9131,9 @@ La etapa de la jornada electoral inicia a las ocho horas del primer domingo de j
 
 La etapa de cómputos y sumatoria inicia con la remisión de la documentación y los expedientes electorales a los órganos desconcentrados, y concluye con la sumatoria de los cómputos de la elección que realice el Consejo General.
 
-La declaración de validez, se vincula a la etapa de asignación de cargos, esta inicia con la identificación por parte del Organismo Público Local Electoral de Veracruz de las candidaturas que hayan obtenido el mayor número de votos y la asignación de estas en cada cargo de Magistraturas, Juezas y Jueces; tratándose del Tribunal Superior de Justicia y de Disciplina Judicial, además señalará el número de votos que obtuvo cada candidatura para efectos de definir su presidencia; estas etapas concluye con la entrega de constancias de mayoría a las candidaturas, que resulten ganadoras.
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+Las etapas de declaración de validez y asignación de cargos inician con la identificación por parte del Organismo Público Local Electoral de Veracruz de las candidaturas que hayan obtenido el mayor número de votos y la asignación de estas en cada cargo de Magistraturas, Juezas y Jueces; tratándose de los Tribunales Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje, además señalará el número de votos que obtuvo cada candidatura para efectos de definir las Presidencias respectivas. Estas etapas concluyen con la entrega de constancias de mayoría a las candidaturas que resulten ganadoras.
 
 El proceso electoral del Poder Judicial concluye al resolverse el último de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones respectivas o cuando se tenga constancia de que no se presentó ninguno.
 
@@ -9143,31 +9145,61 @@ El Consejo General del Organismo Público Local Electoral de Veracruz notificar�
 
 ### CAPÍTULO SEGUNDO. De la Convocatoria y Postulación de Candidaturas
 
-> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 431.
 
-El Congreso del Estado, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, emitirá la convocatoria general dirigida a los Poderes del Estado para integrar el listado de candidaturas para la elección de las personas juzgadoras del Poder Judicial de la entidad.
+El Congreso del Estado publicará, a más tardar el treinta de abril del año anterior al de la elección judicial que corresponda, la convocatoria general dirigida a los Poderes del Estado para integrar los listados de candidaturas. La convocatoria contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables, los cargos a elegir y demás información necesaria para su desarrollo, conforme a la Constitución Política del Estado y este Código.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 20 DE ENERO DE 2025)</small>
 
 La convocatoria general deberá observar los principios de paridad sustantiva de género, las bases, procedimientos y requisitos que establece la Constitución Política del Estado y este Código, debiendo contener lo siguiente:
 
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
 a) Fundamentos constitucionales y legales aplicables;
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
 
 b) Denominación de los cargos sujetos a elección, número de personas a elegir por tipo de cargo, periodo de ejercicio del cargo, así como la especialización por materia, y demás información que resulte aplicable;
 
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
 c) Requisitos para cada tipo de cargo, en los términos establecidos por la Constitución Política del Estado;
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
 
 d) Ámbito territorial de la elección;
 
-e) Etapas y fechas del proceso de elección;
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
 
-f) Fechas y plazos que deberán observar los Poderes del Estado para la postulación de las personas candidatas, así como los procedimientos para la recepción de las candidaturas, y
+e) Etapas y fechas del proceso de elección, así como plazos improrrogables del procedimiento de evaluación, selección, insaculación, aprobación y remisión de postulaciones;
 
-g) Fecha de cierre de la convocatoria, que se verificará una vez que concluya el plazo para la instalación de los Comités de Evaluación.
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+f) Fechas y plazos que deberán observar los Poderes del Estado para la postulación de dos personas por cada cargo, así como los procedimientos para la recepción de las candidaturas;
+
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+g) La fecha de instalación de la Comisión Coordinadora de los Comités de Evaluación y los plazos para que emita los criterios, metodologías y acuerdos de su competencia;
+
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+h) Fecha de cierre de la convocatoria, que se verificará una vez que concluyan los plazos para la instalación de los Comités de Evaluación y para la remisión de los listados al Organismo Público Local Electoral de Veracruz; e
+
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+i) La distribución de los cargos a elegir que corresponderán a mujeres y hombres y, tratándose de Juezas y Jueces de Primera Instancia, la materia o especialidad respectiva, conforme al principio constitucional de paridad de género y a las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
 
 La convocatoria general no podrá establecer requisitos adicionales a los establecidos por la Constitución Política del Estado y este Código para la integración y funcionamiento de los Comités de Evaluación que establezcan los Poderes de la entidad.
 
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
 Para la emisión de la convocatoria general, el órgano de administración judicial comunicará oportunamente al Congreso del Estado los cargos sujetos a elección y el número de vacantes a cubrir, la especialización por materia y demás información que se le requiera. De generarse vacantes no previstas en la convocatoria con fecha posterior a su publicación y previo al cierre de ésta, el órgano de administración judicial lo comunicará de inmediato al Congreso del Estado para su incorporación en la convocatoria respectiva.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
 
 En caso de que el órgano de administración judicial no remita oportunamente la información que requiera el Congreso del Estado para la elaboración de la convocatoria general, el órgano legislativo la integrará con la información pública que disponga.
 
@@ -9177,7 +9209,9 @@ En caso de que el órgano de administración judicial no remita oportunamente la
 
 Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial del Estado. Dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determinen la Constitución Política del Estado, este Código y demás leyes aplicables.
 
-Cada Poder instalará un Comité de Evaluación a través de los mecanismos que determinen dentro de los quince días naturales posteriores a la publicación de la convocatoria general que emita el Congreso del Estado. Los Comités emitirán las reglas para su funcionamiento. Podrán celebrar convenios con instituciones públicas que coadyuven en sus respectivos procesos y privilegiarán el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones.
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+Cada Poder instalará un Comité de Evaluación a través de los mecanismos que determine, dentro de los quince días naturales posteriores a la publicación de la convocatoria general que emita el Congreso del Estado. Sus integrantes elegirán de entre sí a la persona que coordine sus trabajos. Los Comités emitirán las reglas para su funcionamiento. Podrán celebrar convenios con instituciones públicas que coadyuven en sus respectivos procesos y privilegiarán el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones.
 
 Estarán conformados por cinco personas de reconocido prestigio en la actividad jurídica, quienes deberán reunir al menos los siguientes requisitos, observando la paridad de género:
 
@@ -9199,27 +9233,49 @@ b) Las etapas, fechas y plazos aplicables al proceso de inscripción, evaluació
 
 c) Los mecanismos, formatos y otros medios de contacto para inscribirse en la convocatoria, así como para el seguimiento del proceso, y
 
-d) La metodología de evaluación de idoneidad de las personas aspirantes para el desempeño de los cargos de elección que correspondan por cada cargo y materia de especialización, la cual incluirá, por lo menos, lo dispuesto en el párrafo séptimo del presente artículo.
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+d) La metodología de evaluación de idoneidad, conforme a los criterios homologados que apruebe la Comisión Coordinadora, para cada cargo y especialidad, la cual incluirá, por lo menos, lo dispuesto en el párrafo octavo del presente artículo.
+
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+Las convocatorias que emitan los Comités de Evaluación deberán sujetarse a la distribución de cargos por género y, en su caso, por materia o especialidad, establecida en la convocatoria general.
 
 Concluido el plazo para inscribirse en la convocatoria, los Comités integrarán la lista de las personas aspirantes que hayan concurrido a la convocatoria y reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, sin que puedan exigirse requisitos adicionales a los establecidos en la Constitución Política del Estado.
 
-Los Comités publicarán la lista de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad. Las candidaturas que hayan sido rechazadas podrán impugnar esa decisión ante el Tribunal Electoral dentro del plazo y conforme al procedimiento que determine el Código y los acuerdos generales en la materia. Las impugnaciones serán resueltas dentro de un plazo que permita a las y los aspirantes participar en la evaluación de idoneidad en caso de que su impugnación resulte fundada.
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
 
-Acreditados los requisitos de las personas aspirantes, los Comités procederán a calificar su idoneidad para desempeñar el cargo. Para ello, podrán tomar en cuenta su perfil curricular, así como sus antecedentes profesionales y académicos, entre otros que determine cada Comité para valorar su honestidad y buena fama pública. Por último, los Comités podrán realizar entrevistas públicas a las personas aspirantes que califiquen más idóneas a efecto de evaluar sus conocimientos técnicos para el desempeño del cargo en cuestión y su competencia en el ejercicio de la actividad jurídica.
+Los Comités publicarán la lista de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad. Las personas aspirantes cuya solicitud haya sido rechazada podrán impugnar esa determinación ante el Tribunal Electoral dentro del plazo y conforme al procedimiento que determine el Código y los acuerdos generales en la materia. Las impugnaciones serán resueltas dentro de un plazo que permita a las y los aspirantes participar en la evaluación de idoneidad en caso de que su impugnación resulte fundada.
+
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+Acreditados los requisitos de las personas aspirantes, los Comités procederán a calificar su idoneidad para desempeñar el cargo. Para ello, podrán tomar en cuenta su perfil curricular, así como sus antecedentes profesionales y académicos, entre otros que determine cada Comité para valorar su honestidad y buena fama pública. Por último, los Comités podrán realizar entrevistas públicas a las personas aspirantes que hayan sido calificadas como idóneas a efecto de evaluar sus conocimientos técnicos para el desempeño del cargo en cuestión y su competencia en el ejercicio de la actividad jurídica, conforme a los criterios y metodologías homologados por la Comisión Coordinadora.
 
 La participación simultánea de una persona aspirante en dos o más convocatorias emitidas por otros Poderes del Estado por el mismo cargo no afectará el resultado de la evaluación.
 
-Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de integrantes de los Tribunales Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje, y de las seis personas mejor evaluadas para cada cargo en los casos de Juezas y Jueces de Primera Instancia, por lo que publicarán dicho listado en los estrados que para tal efecto habiliten.
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
 
-Los Comités depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo por cada Poder del Estado atendiendo a su especialidad por materia y observando la paridad de género, publicarán los resultados en los estrados habilitados y los remitirán a cada Poder del Estado para su aprobación en términos del artículo 59 de la Constitución Política del Estado y de conformidad con lo siguiente:
+Los Comités de Evaluación integrarán, para cada cargo, un listado de las cuatro personas mejor evaluadas en los casos de integrantes de los Tribunales Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje, así como de Juezas y Jueces de Primera Instancia, con observancia de la paridad de género, y publicarán dicho listado en los estrados que para tal efecto habiliten.
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], G.O. 28 DE AGOSTO DE 2026)</small>
+
+Los Comités depurarán cada listado mediante insaculación pública hasta reducirlo a dos personas por cargo a elegir, atendiendo a su especialidad por materia y observando la paridad de género; publicarán los resultados en los estrados habilitados y los remitirán a cada Poder del Estado para su aprobación en términos del artículo 59 de la Constitución Política del Estado y de conformidad con lo siguiente:
 
 a) El Poder Ejecutivo, por conducto de la persona titular del Gobierno del Estado;
 
 b) El Poder Legislativo, por conducto del Pleno del Congreso del Estado, mediante votación calificada de las dos terceras partes de las Diputadas y Diputados presentes, y
 
-c) El Poder Judicial, por conducto de la persona que presida el Tribunal Superior de Justicia, por votación de la mayoría del Pleno de dicho Tribunal.
+c) El Poder Judicial del Estado, por conducto del Pleno del Tribunal Superior de Justicia, por votación de la mayoría de sus integrantes.
 
 Los listados aprobados en términos del párrafo anterior por los Poderes serán remitidos al Congreso del Estado a más tardar el primero de febrero del año de la elección que corresponda, en los términos establecidos en la convocatoria general, acompañados de los expedientes que acrediten la elegibilidad e idoneidad de las personas postuladas. Las autoridades que no remitan postulaciones al término del plazo previsto en la convocatoria respectiva estarán impedidas para hacerlo posteriormente.
+
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+###### Artículo 432 Bis.
+
+Las personas coordinadoras de los Comités de Evaluación de los Poderes Ejecutivo, Legislativo y Judicial integrarán la Comisión Coordinadora prevista en el artículo 59 de la Constitución Política del Estado, responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer los criterios y metodologías homologados de evaluación, selección y exámenes de conocimientos, y emitir los acuerdos que regulen los trabajos de los tres Comités.
+
+La Comisión Coordinadora se instalará en el plazo previsto en la convocatoria general, adoptará sus decisiones por mayoría de votos y publicará sus criterios, metodologías y acuerdos. En el ejercicio de sus atribuciones, la Comisión Coordinadora observará los requisitos de elegibilidad previstos en la Constitución y la ley y respetará las competencias de los Comités de Evaluación y de los Poderes del Estado en materia de valoración de idoneidad y aprobación de postulaciones.
 
 > <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
 
@@ -9227,7 +9283,9 @@ Los listados aprobados en términos del párrafo anterior por los Poderes serán
 
 El Congreso del Estado integrará los listados y expedientes de las personas postuladas por cada Poder conforme al tipo de elección e incorporará a dichos listados a las personas juzgadoras que estén en funciones en los cargos a elegir, exceptuando a aquellas que hayan manifestado ante el órgano legislativo la declinación de su candidatura dentro de los treinta días posteriores a la publicación de la convocatoria general, y a quienes hayan sido postuladas para un cargo diverso al que ocupen.
 
-Las personas juzgadoras en funciones en los cargos a elegir que pretendan contender para un cargo diverso deberán informarlo al Congreso del Estado dentro de los treinta días posteriores a la publicación de la convocatoria general, a efectos de no ser incorporadas en los listados de candidaturas. El Congreso del Estado cancelará las candidaturas de las personas servidoras públicas que omitan informar lo anterior y sean postuladas por alguno de los Poderes para un cargo diverso al que ocupen.
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+Las personas juzgadoras en funciones que pretendan contender por un cargo distinto al que ocupen deberán separarse de éste mediante renuncia expresa e irrevocable, que presentarán ante el órgano de administración judicial antes de su registro; dicho órgano comunicará de inmediato la vacante al Congreso del Estado y al Organismo Público Local Electoral de Veracruz para los efectos constitucionales y electorales conducentes. El Congreso del Estado cancelará las candidaturas de quienes incumplan la obligación de presentar la renuncia y sean postuladas por alguno de los Poderes para un cargo diverso al que ocupen. La postulación para el mismo cargo no exigirá renuncia, sin perjuicio de las reglas electorales aplicables.
 
 El Congreso del Estado estará impedido de pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que les sean remitidas y se limitará a integrar y remitir los listados y sus expedientes al Organismo Público Local Electoral de Veracruz a más tardar el doce de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
 
@@ -9335,13 +9393,17 @@ El Organismo Público Local Electoral observará las reglas, lineamientos y crit
 
 #### Sección Tercera. De la Elección
 
-> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 443.
 
-En el mes de septiembre del año previo al de la elección, el órgano de administración judicial remitirá al Congreso del Estado la información del número de cargos de personas juzgadoras a ocupar, así como las materias; y demás información que estime necesaria, para su inmediata remisión al Organismo Público Local Electoral. En caso de que el órgano de administración judicial no remita dicha información, el Congreso del Estado determinará lo conducente con la información pública que disponga.
+Dentro de los primeros diez días del mes de abril del año anterior al de la elección judicial, el órgano de administración judicial remitirá al Congreso del Estado la información contenida en el informe de cargos previsto en el artículo 174 Bis de la Ley Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, para su inmediata remisión al Organismo Público Local Electoral. En caso de que el órgano de administración judicial no remita dicha información, el Congreso del Estado determinará lo conducente con la información pública que disponga.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
 
 La Secretaría Ejecutiva, con base en la información remitida por el órgano de administración judicial, elaborará un plan integral y un calendario para la elección de personas juzgadoras, en el cual indicará los órganos desconcentrados del Organismo Público Local Electoral de Veracruz que coadyuvarán en la organización de la elección, así como en la respectiva etapa de cómputos de las elecciones.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
 
 El Consejo General del Organismo Público Local Electoral de Veracruz aprobará el plan integral y el calendario para la elección de personas juzgadoras, llevando a cabo la instalación de los órganos desconcentrados estrictamente indispensables para la realización de la elección que corresponda.
 
@@ -9481,15 +9543,27 @@ Para efectos de las actividades que realice el Organismo para la promoción de l
 
 La jornada electoral se desarrollará en los términos establecidos en la Ley General de Instituciones y Procedimientos Electorales, este Código, y los acuerdos que emita la autoridad electoral correspondiente.
 
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+La ubicación de las casillas en las que se reciba la votación de la elección judicial será la que determine el Instituto Nacional Electoral, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la legislación general, sus acuerdos y los convenios de coordinación aplicables. Cuando en el año de la elección judicial se celebren elecciones ordinarias federales o locales, la ubicación y, en su caso, la coincidencia de las casillas se sujetarán a las determinaciones de dicho Instituto y a la normativa aplicable.
+
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+Las autoridades electorales adoptarán las medidas necesarias para garantizar que la jornada electoral judicial se desarrolle sin la intervención de las representaciones de los partidos políticos. Esta previsión no afectará las atribuciones que correspondan a dichas representaciones respecto de las elecciones ordinarias concurrentes ni los derechos de observación electoral ciudadana.
+
 > <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
 
 ###### Artículo 456.
 
 Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
 
-a) Se contará un voto válido por la marca o asiento que realice la persona votante en un recuadro de una misma boleta en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas contenidas en una misma boleta.
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
 
-b) El Organismo determinará la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de candidaturas a elegir.
+a) Se contará un voto válido por la marca o asiento que realice la persona votante en un recuadro de una misma boleta en favor de una candidatura claramente identificable. La persona votante podrá elegir una sola candidatura por cada materia o especialidad comprendida en la boleta correspondiente;
+
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+b) El Organismo determinará, en la documentación electoral de cada elección, las materias o especialidades comprendidas en cada boleta, con sujeción a la regla prevista en el inciso anterior; y
 
 c) Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
 
@@ -9519,31 +9593,35 @@ El Consejo General del Organismo Público Local Electoral de Veracruz, por sí o
 
 El mismo Consejo emitirá los lineamientos que regulen esta etapa.
 
-> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 459.
 
-El cómputo se realizará de manera pública, para lo cual el Organismo implementará las acciones necesarias para su difusión, que se llevará a cabo en los Órganos Desconcentrados de conformidad con lo previsto en este Código y los criterios emitidos por el Consejo General.
+El cómputo se realizará de manera pública, para lo cual el Organismo implementará las acciones necesarias para su difusión. Los cómputos se llevarán a cabo en los órganos desconcentrados que determine el Consejo General, de conformidad con lo previsto en este Código y los lineamientos que emita el propio Consejo.
 
-> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 460.
 
-Concluidos los cómputos de cada elección, los Órganos desconcentrados emitirán una Constancia de Resultados, misma que contendrá los votos obtenidos dentro del Órgano desconcentrado respectivo.
+Concluidos los cómputos de cada elección, los órganos desconcentrados emitirán la constancia de resultados correspondiente, que contendrá los votos obtenidos en su ámbito y será remitida de inmediato al Consejo General.
 
-Una vez que se hayan computado la totalidad de las elecciones por parte de los Órganos desconcentrados, se remitirán al Consejo General del Organismo Público Local Electoral de Veracruz para que proceda a realizar la sumatoria por tipo de elección.
+Una vez realizados los cómputos correspondientes, el Consejo General efectuará la sumatoria final por tipo de elección.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, G.O. 20 DE ENERO DE 2025)</small>
 
 ### CAPÍTULO SEXTO. De la Declaración de Validez, asignación de cargos y entrega de constancias
 
-> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 461.
 
-El Consejo General del Organismo Público Local Electoral emitirá la declaración de validez de la elección que corresponda, realizará la sumatoria final procediendo a asignar los cargos de Magistraturas de los Tribunales Superior de Justicia, Disciplina Judicial y de Conciliación y Arbitraje, así como Juezas y Jueces de Primera Instancia entre las candidaturas, como se establece en el párrafo sexto del artículo 430 de este Código, y posteriormente hará la entrega de las constancias de mayoría a las candidaturas que resulten ganadoras.
+El Consejo General del Organismo Público Local Electoral de Veracruz realizará la sumatoria final, emitirá la declaración de validez de la elección que corresponda y procederá a asignar los cargos entre las candidaturas conforme al párrafo sexto del artículo 430 de este Código y a la distribución de cargos por género y, en su caso, por materia o especialidad establecida desde la convocatoria general, observando el principio de paridad de género y las demás reglas previstas en la Constitución Política del Estado y en este Código.
 
-Las personas juzgadoras locales electas deberán tomar protesta ante el Congreso del Estado el día en que se instale el Primer Periodo Ordinario de Sesiones del año de la elección que corresponda.
+Tratándose de las Magistraturas del Tribunal Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje, el Consejo General establecerá el orden de prelación que regirá la renovación de su Presidencia, conforme al número de votos obtenidos, de mayor a menor, por cada Magistrada y Magistrado electo para integrar cada Tribunal. En caso de empate, el Consejo General determinará el orden de las candidaturas empatadas mediante insaculación pública.
+
+Para determinar ese orden, únicamente se computarán los votos obtenidos por las personas electas para integrar el tribunal correspondiente; en ningún caso podrán computarse votos emitidos para integrar otro órgano jurisdiccional. El Consejo General emitirá los criterios técnicos y operativos necesarios para la ejecución de dichas reglas, en el ámbito de sus atribuciones y con observancia de los elementos sustantivos de asignación previstos en la ley. Posteriormente, hará la entrega de las constancias de mayoría a las candidaturas que resulten ganadoras.
+
+El Tribunal Electoral de Veracruz deberá resolver los medios de impugnación relacionados con los resultados, la declaración de validez, la asignación de cargos y el orden de prelación antes de la fecha prevista para la toma de protesta. Las personas juzgadoras locales electas deberán rendir protesta ante el Congreso del Estado en la fecha prevista por la Constitución Política del Estado.
 
 ## TRANSITORIOS
 
@@ -9812,3 +9890,13 @@ G.O. 4 DE JUNIO DE 2026.
 PRIMERO. El presente Decreto iniciará su vigencia a partir del día de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 536 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El Organismo Público Local Electoral de Veracruz y el Tribunal Electoral de Veracruz realizarán las adecuaciones reglamentarias, administrativas y operativas necesarias para el cumplimiento del presente Decreto antes del inicio del Proceso Electoral 2027-2028.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
