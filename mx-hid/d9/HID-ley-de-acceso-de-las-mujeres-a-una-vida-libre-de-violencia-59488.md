@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2026-08-06"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -296,6 +296,12 @@ f). (DEROGADO, P.O. 1 DE AGOSTO DE 2018)
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
 VII. Violencia contra los derechos sexuales y reproductivos: Es toda acción u omisión que limite o vulnere el derecho de las mujeres de cualquier edad a decidir de manera libre, voluntaria e informada sobre su sexualidad y el número y espaciamiento de sus hijas e hijos; acceder a métodos anticonceptivos, incluidos los de emergencia; a una maternidad elegida y segura; a servicios de interrupción legal del embarazo en el marco jurídico previsto en la legislación vigente en el Estado; así como a servicios de atención prenatal y obstétricos de emergencia;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+VII Bis. Violencia relacionada con el embarazo infantil: Es cualquier acción u omisión que, con motivo del embarazo de una niña o adolescente menor de quince años, vulnere o sea susceptible de vulnerar sus derechos a la integridad personal, la salud, la autonomía progresiva, el acceso a la justicia o a una vida libre de violencia.
+
+Para efectos de esta fracción, se entenderá por embarazo infantil el embarazo de una niña o adolescente menor de quince años. Su detección deberá dar lugar a la valoración inmediata de la posible existencia de violencia sexual y a la activación, por las autoridades competentes, de las medidas de atención, protección e investigación previstas en las disposiciones aplicables;
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
@@ -2632,5 +2638,11 @@ P.O. 27 DE JULIO DE 2026.
 P.O. 6 DE AGOSTO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 675 – LXVI POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XVIII DEL ARTÍCULO 4 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE PERSPECTIVA DE GÉNERO Y VIOLENCIA CONTRA LAS MUJERES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 712 - LXVI POR EL QUE SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE EMBARAZO INFANTIL".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
