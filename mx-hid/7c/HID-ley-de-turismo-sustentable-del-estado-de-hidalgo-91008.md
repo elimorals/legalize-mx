@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2026-07-08"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -160,6 +160,10 @@ VI.- Consejo Municipal: El Consejo Consultivo Municipal de Turismo Sustentable d
 VI Bis.- Geoturismo: Turismo que sostiene y promueve la identidad del territorio, tomando en consideración la geología y los recursos de ésta.
 
 VII.- Guía de turistas: Especialista que tiene conocimiento sobre algún atractivo o tema en específico y obtuvo reconocimiento por la autoridad competente en su respectiva categoría de turismo;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+VII Bis.- Inclusión Financiera: El acceso y uso de servicios financieros formales bajo una regulación apropiada que garantice esquemas de protección a las personas consumidoras y promueva la educación financiera para mejorar la capacidad y autonomía económica de todos los segmentos de la población, con especial énfasis en la reducción de las brechas de género;
 
 VIII.- Ley: Ley de Turismo Sustentable del Estado de Hidalgo;
 
@@ -385,9 +389,9 @@ XXVII.- Diseñar y publicar la Guía del Inversionista Turístico del Estado de 
 
 XXVIII.- Promover e impulsar estrategias institucionales para el desarrollo del turismo de convenciones y visitantes, así como de segmentos como el turismo de salud, de naturaleza, cinegético, de aventura, religioso, el turismo social, el turismo inclusivo, entre otros, que generen una afluencia de turistas al Estado.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-XXVIII Bis.- Fomentar la inclusión digital en los establecimientos que ofrezcan un servicio turístico;
+XXVIII Bis.- Fomentar la inclusión digital y financiera en los establecimientos y empresas que presten servicios turísticos;
 
 > <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
 
@@ -915,9 +919,15 @@ La Secretaría con la participación de los Municipios y dentro de sus facultade
 
 La Secretaría impulsará, facilitará y promoverá las inversiones en el sector con el apoyo de la Promotora Turística de Hidalgo, elevando la integración vertical y horizontal de las empresas del sector y sus cadenas productivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 39.
 
-Será de especial atención la incorporación de micro, pequeñas y medianas empresas al eslabonamiento sectorial, con el propósito de favorecer los vínculos de negocios y productivos con actividades económicas relacionadas de manera directa o indirecta con el turismo. Para ello, la Secretaría, en coordinación con la Secretaría de Desarrollo Económico y las Entidades competentes, pondrá en marcha un programa que atienda las necesidades financieras que se puedan derivar.
+Será de especial atención la incorporación de micro, pequeñas y medianas empresas al eslabonamiento sectorial, con el propósito de favorecer los vínculos de negocios y productivos con actividades económicas relacionadas de manera directa o indirecta con el turismo. Para ello, la Secretaría, en coordinación con la Secretaría de Desarrollo Económico y las Entidades competentes, pondrá en marcha programas de capacitación y acompañamiento para fomentar la inclusión financiera y atender las necesidades de financiamiento que se puedan derivar.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+Con el propósito de reducir la brecha de género en el sector turístico, la Secretaría, en coordinación con el Instituto Hidalguense de las Mujeres y la Secretaría de Desarrollo Económico, impulsará estrategias para la inclusión financiera de las micro, pequeñas y medianas empresas turísticas lideradas por mujeres, mediante programas de capacitación, educación financiera, asistencia técnica y asesoramiento empresarial.
 
 ###### Artículo 40.
 
@@ -1632,5 +1642,11 @@ TERCERO: La Secretaría de Turismo del Estado de Hidalgo deberá llevar a cabo l
 P.O. 8 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 369 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 8 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN A LOS PRESTADORES DE SERVICIOS TURÍSTICOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 702 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE EMPODERAMIENTO ECONÓMICO DE LAS MUJERES QUE LIDERAN MIPYMES DEL SECTOR TURÍSTICO EN EL ESTADO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
