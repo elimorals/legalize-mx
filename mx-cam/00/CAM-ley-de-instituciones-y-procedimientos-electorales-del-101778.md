@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-instituciones-y-procedimientos-electorales-del-101778"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2025-03-28"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE EL 28 DE AGOSTO DE 2026.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 30 de junio de 2014.
 
@@ -51,13 +53,19 @@ La renovación de los poderes Ejecutivo y Legislativo, así como de los integran
 
 Esta Ley reglamenta las normas constitucionales relativas a:
 
-I. Los derechos y obligaciones político-electorales de los ciudadanos campechanos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-II. La organización, función y prerrogativas de los partidos políticos, las agrupaciones políticas estatales y candidatos independientes;
+I. Los derechos y obligaciones político-electorales de la ciudadanía campechana;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+II. La organización, función y prerrogativas de los partidos políticos, las agrupaciones políticas estatales y candidaturas independientes;
 
 III. La función estatal de organizar las elecciones de los integrantes de los poderes Ejecutivo y Legislativo del Estado;
 
-IV. La función estatal de organizar las elecciones de las autoridades municipales: Presidentes, Regidores y Síndicos de ayuntamientos y juntas municipales; y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+IV. La función estatal de organizar las elecciones de las autoridades municipales: Presidencias, Regidurías y Sindicaturas de ayuntamientos y juntas municipales;
 
 V. Las reglas comunes a los procesos electorales federales y locales.
 
@@ -83,9 +91,9 @@ I. Actos anticipados de campaña: Las expresiones que se realicen bajo cualquier
 
 II. Actos anticipados de precampaña: Las expresiones que se realicen bajo cualquier modalidad y en cualquier momento durante el lapso que va desde el inicio del proceso electoral hasta antes del plazo legal para el inicio de las precampañas, que contengan llamados expresos al voto en contra o a favor de una precandidatura;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-III. Aspirante a Candidatura Independiente: la o el ciudadano campechano que obtiene su constancia que lo acredite como “Aspirante a Candidatura Independiente”, que participa en la etapa de obtención de apoyo ciudadano y pretende ser registrado como Candidato Independiente por el Consejo General del Instituto Electoral;
+III. Aspirante a Candidatura Independiente: La o el ciudadano campechano que obtiene su constancia que lo acredite como “Aspirante a Candidatura Independiente” por parte del Consejo General del Instituto Electoral y pretende ser registrado como Candidatura Independiente;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -257,11 +265,15 @@ En el supuesto de registro que el párrafo anterior señala, sólo se permitirá
 
 Los partidos deben procurar incluir en las candidaturas a personas con discapacidad, o pertenecientes a comunidades o pueblos indígenas; garantizando en todo momento el principio de paridad de género y de alternancia.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 13.
 
-A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral, salvo en el caso que se previene en el artículo anterior.
+A ninguna persona podrá registrársele como candidata o candidato a distintos cargos de elección popular en el mismo proceso electoral, salvo en el caso que se previene en el artículo anterior.
 
-## TÍTULO TERCERO. DE LA ELECCIÓN DEL GOBERNADOR, DIPUTADOS, Y PRESIDENTES, REGIDORES Y SÍNDICOS DE AYUNTAMIENTOS Y JUNTAS MUNICIPALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2026)</small>
+
+## TÍTULO TERCERO. DE LA ELECCIÓN DE LA GUBERNATURA, DIPUTACIONES, Y PRESIDENCIAS, REGIDURIAS Y SÍNDICATURAS DE AYUNTAMIENTOS Y JUNTAS MUNICIPALES
 
 ### CAPÍTULO PRIMERO. DE LOS SISTEMAS ELECTORALES
 
@@ -283,13 +295,13 @@ Las diputaciones podrán ser electas hasta por cuatro períodos consecutivos. La
 
 Para los efectos de este artículo el territorio del Estado se constituirá en una sola circunscripción plurinominal. Las listas de Representación Proporcional se integrarán hasta con catorce candidaturas por Partido Político.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 16.
 
-El gobierno de cada uno de los municipios del Estado corresponderá a un Ayuntamiento que se integrará con una presidencia, cinco regidurías y una sindicatura de mayoría relativa que se elegirán por planilla; además de tres regidurías y una sindicatura asignadas por el principio de representación proporcional.
+El gobierno de cada uno de los municipios del Estado corresponderá a un Ayuntamiento que se integrará con una presidencia, cinco regidurías y una sindicatura de mayoría relativa que se elegirán por planilla; además de cuatro regidurías asignadas por el principio de representación proporcional.
 
-Los ayuntamientos de los municipios de Campeche y Carmen se integrarán con una presidencia, siete regidurías y dos sindicaturas de mayoría relativa que se elegirán por planilla y cuatro regidurías y una sindicatura de representación proporcional. La asignación de los munícipes de representación proporcional se hará mediante un sistema de listas propuestas en una circunscripción, para ese efecto cada Municipio constituirá una circunscripción plurinominal. Estas listas se integrarán con cuatro candidaturas por Partido Político, y para el caso de los municipios de Campeche y Carmen por cinco candidaturas. La asignación de las regidurías y sindicaturas adicionales se ajustarán a lo previsto los artículos 566, 580 y 581 de esta Ley de Instituciones.
+Los ayuntamientos de los municipios de Campeche y Carmen se integrarán con una presidencia, siete regidurías y una sindicatura de mayoría relativa que se elegirán por planilla y seis regidurías de representación proporcional. La asignación de los munícipes de representación proporcional se hará mediante un sistema de listas propuestas en una circunscripción, para ese efecto cada Municipio constituirá una circunscripción plurinominal. Estas listas se integrarán con cuatro candidaturas por Partido Político, y para el caso de los municipios de Campeche y Carmen por seis candidaturas. La asignación de las regidurías adicionales se ajustará a lo previsto en los artículos 566, 580 y 581 de esta Ley de Instituciones.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -299,27 +311,35 @@ En aquellos municipios que se encuentren divididos en secciones municipales, el 
 
 Para los efectos de este artículo, cada Sección Municipal constituirá una circunscripción plurinominal. La asignación de la regiduría adicional se ajustará a lo previsto en el artículo 581 de esta Ley de Instituciones.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 18.
 
-Las presidencias, regidurías y sindicaturas de los ayuntamientos y de las juntas municipales serán electas cada tres años mediante voto directo, y podrán ser reelectas hasta por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las presidencias, regidurías y sindicaturas de los ayuntamientos y de las juntas municipales serán electas cada tres años mediante voto directo.
+
+Cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
+
+En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
 
 ### CAPÍTULO SEGUNDO. DISPOSICIONES COMPLEMENTARIAS
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 19.
 
-Las elecciones ordinarias tendrán lugar el primer domingo de junio para elegir a:
+Las elecciones ordinarias tendrán lugar el primer domingo de junio para elegir los cargos de:
 
-I. Gobernador del Estado, cada seis años;
+I. Gubernatura del Estado, cada seis años;
 
-II. Diputados locales, cada tres años, y
+II. Diputaciones locales, cada tres años; y
 
-III. Presidente, regidores y síndicos de ayuntamientos y juntas municipales, cada tres años.
+III. Presidencias, regidurías y sindicaturas de ayuntamientos y juntas municipales, cada tres años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 20.
 
-El Instituto Electoral una vez iniciado el proceso electoral expedirá la convocatoria para la elección ordinaria. En ésta deberán señalarse las elecciones a las que se convoca; los períodos de precampañas de partidos políticos; procedimiento para los aspirantes de candidaturas independientes, registro de candidatos; campañas electorales; la fecha de la elección, así como las demás disposiciones que para tales efectos considere necesarias el Consejo General.
+El Instituto Electoral una vez iniciado el proceso electoral expedirá la convocatoria para la elección ordinaria. En ésta deberán señalarse las elecciones a las que se convoca; los períodos de precampañas de partidos políticos; procedimiento para las y los aspirantes de candidaturas independientes, registro de candidaturas; campañas electorales; la fecha de la elección, así como las demás disposiciones que para tales efectos considere necesarias el Consejo General.
 
 El día en que deban celebrarse las elecciones ordinarias será considerado no laborable en todo el territorio del Estado.
 
@@ -331,9 +351,11 @@ En el año que deban celebrarse elecciones ordinarias, podrán efectuarse elecci
 
 Cuando se declare nula una elección o los integrantes de la fórmula o planilla triunfadora resultaran inelegibles, la convocatoria para la elección extraordinaria deberá emitirse dentro de los cuarenta y cinco días siguientes a la conclusión de la última etapa del proceso electoral.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 23.
 
-Si se declarase nula la elección de Gobernador, se estará a lo dispuesto en el Artículo 66 de la Constitución Estatal.
+Si se declarase nula la elección de la Gubernatura, se estará a lo dispuesto en el artículo 66 de la Constitución Estatal.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -351,13 +373,17 @@ Las vacantes de la Presidencia, regidurías o sindicaturas por el principio de M
 
 Las regidurías y sindicaturas por el principio de Representación Proporcional se cubrirán por candidaturas del mismo Partido Político y género que le sigan en el orden de la lista respectiva, después de habérsele asignado los que le hubieren correspondido.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 26.
 
-Las convocatorias para la celebración de elecciones ordinarias o extraordinarias no podrán restringir los derechos que esta Ley de Instituciones reconoce a los ciudadanos campechanos y a los partidos políticos, ni alterar los procedimientos y formalidades que establece.
+Las convocatorias para la celebración de elecciones ordinarias o extraordinarias no podrán restringir los derechos que esta Ley de Instituciones reconoce a la ciudadanía campechana y a los partidos políticos, ni alterar los procedimientos y formalidades que establece.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 27.
 
-El Consejo General podrá ajustar los plazos establecidos en esta Ley de Instituciones conforme a la fecha señalada en la convocatoria respectiva. En ningún caso podrá participar en elecciones ordinarias o extraordinarias el Partido Político que estuviere suspendido o hubiere perdido su registro con anterioridad a la fecha en que éstas deban realizarse. No obstante podrá participar en una elección extraordinaria el Partido que hubiese perdido su registro, siempre y cuando hubiere participado con fórmula de candidatos o planilla en la elección ordinaria que fue anulada.
+El Consejo General podrá ajustar los plazos establecidos en esta Ley de Instituciones conforme a la fecha señalada en la convocatoria respectiva. En ningún caso podrá participar en elecciones ordinarias o extraordinarias el Partido Político que estuviere suspendido o hubiere perdido su registro con anterioridad a la fecha en que éstas deban realizarse. No obstante, podrá participar en una elección extraordinaria el Partido que hubiese perdido su registro, siempre y cuando hubiere participado con fórmula de candidaturas o planilla en la elección ordinaria que fue anulada.
 
 # LIBRO SEGUNDO. DE LAS AGRUPACIONES POLÍTICAS, LOS PARTIDOS POLÍTICOS Y CANDIDATOS INDEPENDIENTES
 
@@ -383,11 +409,11 @@ III. Votar y ser votado para todos los cargos de elección popular dentro de los
 
 Los derechos político-electorales, se ejercerán sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 29.
 
-Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, con registro legal ante el Instituto Nacional o ante el Instituto Electoral y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, garantizando en todo momento el principio de paridad de género en el ejercicio de los derechos político-electorales, así como el respeto a los derechos humanos de las mujeres.
+Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, con registro legal ante el Instituto Nacional o ante el Instituto Electoral y tienen como fin promover la participación del pueblo en la vida democrática, garantizar el principio de paridad de género, contribuir a la integración de los órganos de representación política y como organizaciones ciudadanas, hacer posible su acceso al ejercicio del poder público, garantizando en todo momento el principio de paridad de género en el ejercicio de los derechos político-electorales, así como el respeto a los derechos humanos de las mujeres.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -395,9 +421,11 @@ Los partidos políticos son entidades de interés público con personalidad jur�
 
 La actuación, representación y todo lo relacionado con los partidos políticos con representación ante el Instituto Electoral se regirá por lo dispuesto por la Ley General de Instituciones, la Ley General de Partidos, la Ley General de Acceso, la presente Ley de Instituciones y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 31.
 
-La denominación de "Partido Político Local" se reserva para los efectos de esta Ley de Instituciones, a las organizaciones de ciudadanos que obtengan su registro como tal, ante el Consejo General. Los partidos políticos locales tienen personalidad jurídica, gozarán de los derechos y de las prerrogativas y quedarán sujetos a las obligaciones que establecen la Ley General de Partidos, la Constitución Estatal y esta Ley de Instituciones.
+La denominación de "Partido Político Local" se reserva para los efectos de esta Ley de Instituciones, a las organizaciones ciudadanas que obtengan su registro como tal, ante el Consejo General. Los partidos políticos locales tienen personalidad jurídica, gozarán de los derechos y de las prerrogativas y quedarán sujetos a las obligaciones que establecen la Ley General de Partidos, la Constitución Estatal y esta Ley de Instituciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -439,7 +467,9 @@ Los partidos y agrupaciones políticas, para el logro de los fines establecidos 
 
 En lo no previsto por esta Ley de Instituciones se estará a lo dispuesto por la Ley General de Instituciones, la Ley General de Partidos, la Ley General del Sistema de Medios de Impugnación en Materia Electoral, aplicadas de manera supletoria en el Estado de Campeche, la jurisprudencia, los criterios emitidos por el Tribunal Electoral del Poder Judicial de la Federación y, los principios generales de derecho.
 
-La interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos deberá tomar en cuenta el carácter de entidad de interés público de estos como organizaciones ciudadanas, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus afiliados o militantes.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+La interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos deberá tomar en cuenta el carácter de entidad de interés público de estos como organizaciones ciudadanas, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus afiliadas y afiliados o militancia.
 
 ## TÍTULO SEGUNDO. DE LA CONSTITUCIÓN, REGISTRO, DERECHOS Y OBLIGACIONES
 
@@ -453,9 +483,11 @@ Las agrupaciones políticas estatales son formas de asociación ciudadana que co
 
 Las agrupaciones políticas estatales sólo podrán participar en los procesos electorales estatales mediante la previa celebración de Acuerdos de Participación con un Partido Político o Coalición. Las candidaturas surgidas de los Acuerdos de Participación serán registradas por el Partido Político y serán votadas con la denominación, emblema, color o colores del correspondiente Partido. En la propaganda y campaña electoral se podrá mencionar a la Agrupación participante.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 40.
 
-El Acuerdo de Participación a que se refiere el artículo anterior deberá presentarse para su registro ante el Presidente del Consejo General, en los plazos previstos en el artículo 150 de esta Ley de Instituciones, según corresponda.
+El Acuerdo de Participación a que se refiere el artículo anterior deberá presentarse para su registro ante la Presidencia del Consejo General, en los plazos previstos en el artículo 150 de esta Ley de Instituciones, según corresponda.
 
 ###### Artículo 41.
 
@@ -475,9 +507,9 @@ La Asociación interesada presentará durante el mes de enero del año anterior 
 
 Cuando proceda el registro, el Consejo General emitirá la declaratoria y expedirá la constancia respectiva. En caso de negativa, expresará las causas que la motivan y lo comunicará a la asociación interesada. La resolución correspondiente deberá publicarse en el Periódico Oficial del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
-Asimismo las agrupaciones políticas estatales para mantener el registro deberán conservar el mínimo de asociados en el Estado, para lo cual en el mes de agosto del año anterior de la elección deberán entregar el padrón actualizado de asociados con corte al mes de julio anterior, para que el Instituto Electoral haga la verificación correspondiente según el Reglamento que para el efecto expida y deberá de emitir constancia de mantener el mínimo de asociados a más tardar el último día de noviembre del año anterior de la elección.
+Asimismo las agrupaciones políticas estatales para mantener el registro deberán conservar el mínimo de asociados en el Estado, para lo cual en el mes de agosto del año anterior al de la elección, deberán entregar el padrón actualizado de asociadas y asociados con corte al último día del mes de julio del año anterior al de la elección, para que el Instituto Electoral haga la verificación correspondiente según el Reglamento que para el efecto expida y deberá de emitir constancia de mantener el mínimo de asociadas y asociados a más tardar el último día de noviembre del año anterior al de la elección.
 
 ###### Artículo 45.
 
@@ -515,13 +547,17 @@ VII. Incumplan las disposiciones que al efecto expida el Consejo General.
 
 ### CAPÍTULO SEGUNDO. DE LA CONSTITUCIÓN Y REGISTRO DE LOS PARTIDOS POLÍTICOS LOCALES
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 49.
 
-Las organizaciones de ciudadanos que pretendan constituirse en Partido Político Local, deberán obtener su registro ante el Instituto Electoral.
+Las organizaciones ciudadanas que pretendan constituirse en Partido Político Local, deberán obtener su registro ante el Instituto Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 50.
 
-Para que una organización de ciudadanos sea registrada como Partido Político Local, se deberá verificar que ésta cumpla con los requisitos siguientes:
+Para que una organización ciudadana sea registrada como Partido Político Local, se deberá verificar que ésta cumpla con los requisitos siguientes:
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -529,45 +565,67 @@ I. Presentar una declaración de principios y en congruencia con éstos, su prog
 
 II. Contar con militantes en cuando menos dos terceras partes de los municipios de la Entidad; los cuales deberán contar con credencial para votar en dichos municipios o demarcaciones; bajo ninguna circunstancia, el número total de sus militantes en la Entidad podrá ser inferior al cero punto veintiséis por ciento del Padrón Electoral que haya sido utilizado en la elección local ordinaria inmediata anterior a la presentación de la solicitud de que se trate.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 51.
 
-La organización de ciudadanos que pretenda constituirse en Partido Político Local para obtener su registro deberá informar al Instituto Electoral tal propósito en el mes de enero del año siguiente al de la elección de la Gubernatura.
+La organización ciudadana que pretenda constituirse en Partido Político Local para obtener su registro deberá informar al Instituto Electoral tal propósito en el mes de enero del año siguiente al de la elección de la Gubernatura.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 A partir del momento del aviso a que se refiere el párrafo anterior, hasta la resolución sobre la procedencia del registro, la organización informará mensualmente al Instituto Electoral del Estado de Campeche, sobre el origen y destino de sus recursos, dentro de los primeros diez días hábiles siguientes al que concluya el mes correspondiente, conforme a lo dispuesto por esta Ley de Instituciones y el Reglamento de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 52.
 
-Las organizaciones de ciudadanos que pretendan constituirse en Partido Político Local, deberán acreditar:
+Las organizaciones ciudadanas que pretendan constituirse en Partido Político Local, deberán acreditar:
 
-I. La celebración, por lo menos en dos terceras partes de los distritos electorales locales o bien, de los municipios de una asamblea en presencia de un funcionario del Instituto Electoral, quien certificará:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2026)</small>
 
-a) El número de afiliados que concurrieron y participaron en las asambleas, que en ningún caso podrá ser menor del cero punto veintiséis por ciento del padrón electoral del Distrito o Municipio, según sea el caso, que suscribieron el documento de manifestación formal de afiliación; que asistieron libremente; que conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos y que eligieron a los delegados propietarios y suplentes a la asamblea local constitutiva;
+I. La celebración, por lo menos en dos terceras partes de los distritos electorales locales o bien, de los municipios de una asamblea en presencia de una persona funcionaria del Instituto Electoral, quien certificará:
 
-b) Que con los ciudadanos mencionados en el inciso anterior, quedaron formadas las listas de afiliados con el nombre, los apellidos, domicilio, clave y folio de la credencial para votar, y
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+a) El número de afiliados y afiliadas que concurrieron y participaron en las asambleas, que en ningún caso podrá ser menor del cero punto veintiséis por ciento del padrón electoral del Distrito o Municipio, según sea el caso, que suscribieron el documento de manifestación formal de afiliación; que asistieron libremente; que conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos y que eligieron a las y los delegados propietarios y suplentes a la asamblea local constitutiva;
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+b) Que con las y los ciudadanos mencionados en el inciso anterior, quedaron formadas las listas de afiliadas y afiliados con el nombre, los apellidos, domicilio, clave y folio de la credencial para votar; y
 
 c) Que en la realización de las asambleas de que se trate no existió intervención de organizaciones gremiales o de otras con objeto social diferente al de constituir el Partido Político.
 
-II. La celebración de una asamblea local constitutiva ante la presencia del funcionario designado por el Instituto Electoral, quien certificará:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2026)</small>
 
-a) Que asistieron los delegados propietarios o suplentes, elegidos en las asambleas distritales o municipales, según sea el caso;
+II. La celebración de una asamblea local constitutiva ante la presencia de una persona funcionaria designada por el Instituto Electoral, quien certificará:
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+a) Que asistieron las y los delegados propietarios o suplentes, elegidos en las asambleas distritales o municipales, según sea el caso;
 
 b) Que acreditaron, por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en el inciso anterior;
 
-c) Que se comprobó la identidad y residencia de los delegados a la asamblea local, por medio de su credencial para votar u otro documento fehaciente;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
-d) Que los delegados aprobaron la declaración de principios, programa de acción y estatutos, y
+c) Que se comprobó la identidad y residencia de las y los delegados a la asamblea local, por medio de su credencial para votar u otro documento fehaciente;
 
-e) Que se presentaron las listas de afiliados con los demás ciudadanos con que cuenta la organización en el Estado, con el objeto de satisfacer el requisito del porcentaje mínimo exigido por esta Ley de Instituciones. Estas listas contendrán los datos requeridos en el inciso b) de la fracción anterior.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+d) Que las y los delegados aprobaron la declaración de principios, programa de acción y estatutos; y
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+e) Que se presentaron las listas de afiliadas y afiliados con las y los demás ciudadanos con que cuenta la organización en el Estado, con el objeto de satisfacer el requisito del porcentaje mínimo exigido por esta Ley de Instituciones. Estas listas contendrán los datos requeridos en el inciso b) de la fracción anterior.
 
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 2025)</small>
 
 El Reglamento de la materia deberá garantizar el cumplimiento al principio de paridad de género en la conformación de las fórmulas de las personas delegadas en las Asambleas. Asimismo, deberá preverse un procedimiento específico para subsanar el incumplimiento al principio de paridad de género en la conformación de dichas fórmulas y, en caso de renuncia, el procedimiento de sustitución de esta figura.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 53.
 
-El costo de las certificaciones requeridas en el artículo anterior será con cargo al presupuesto del Instituto Electoral. Los funcionarios autorizados para expedirlas están obligados a realizar las actuaciones correspondientes. En caso de que la organización interesada no presente su solicitud de registro en el plazo previsto en el artículo 51 de esta Ley de Instituciones dejará de tener efecto la notificación formulada.
+El costo de las certificaciones requeridas en el artículo anterior será con cargo al presupuesto del Instituto Electoral. Las y los funcionarios autorizados para expedirlas están obligados a realizar las actuaciones correspondientes. En caso de que la organización interesada no presente su solicitud de registro en el plazo previsto en el artículo 51 de esta Ley de Instituciones dejará de tener efecto la notificación formulada.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -591,9 +649,13 @@ El orden del día al cual se ceñirán las asambleas distritales y municipales s
 
 I. Lista de asistencia;
 
-II. Declaración de existencia de quórum, el cual se conformará por el mínimo de afiliados por Distrito o Municipio, según corresponda, señalado en el artículo 56 fracción II;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-III. Elección de la mesa directiva que conducirá los trabajos de la asamblea y que se integrará con un Presidente, un Secretario y dos escrutadores;
+II. Declaración de existencia de quórum, el cual se conformará por el mínimo de afiliadas y afiliados por Distrito o Municipio, según corresponda, señalado en el artículo 56 fracción II;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+III. Elección de la mesa directiva que conducirá los trabajos de la asamblea y que se integrará con una presidencia, una secretaria o secretario y dos escrutadoras o escrutadores;
 
 IV. Lectura y aprobación del proyecto de declaración de principios;
 
@@ -601,7 +663,9 @@ V. Lectura y aprobación del proyecto de programa de acción;
 
 VI. Lectura y aprobación del proyecto de estatutos;
 
-VII. Elección de los delegados propietarios y suplentes, que representarán al Distrito o Municipio en la asamblea estatal; y
+(REFORMADA, P.O. 28 DE AGOSTO DE 2026) (F. DE E. P.O. 28 DE AGOSTO DE 2026)
+
+VII. Elección de las y los delegados propietarios y suplentes, que representarán al Distrito o Municipio en la asamblea estatal; y
 
 VIII. Clausura de la asamblea.
 
@@ -611,9 +675,13 @@ El orden del día al cual se ceñirá la asamblea local será el siguiente:
 
 I. Lista de asistencia;
 
-II. Declaración de existencia de quórum, el cual se conformará por no menos del setenta y cinco por ciento de los delegados propietarios o suplentes, elegidos en las asambleas distritales o municipales;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-III. Elección de la mesa directiva que conducirá los trabajos de la asamblea y que se integrará con un Presidente, un Secretario y dos escrutadores;
+II. Declaración de existencia de quórum, el cual se conformará por no menos del setenta y cinco por ciento de las y los delegados propietarios o suplentes, elegidos en las asambleas distritales o municipales;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+III. Elección de la mesa directiva que conducirá los trabajos de la asamblea y que se integrará con una presidencia, una secretaria o un secretario y dos escrutadoras o escrutadores;
 
 IV. Lectura y aprobación definitiva de la declaración de principios;
 
@@ -621,23 +689,27 @@ V. Lectura y aprobación definitiva del programa de acción;
 
 VI. Lectura y aprobación definitiva de los estatutos;
 
-VII. Nombramiento del representante o representantes legítimos de la organización, y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+VII. Nombramiento de la o el representante o representantes legítimos de la organización, y
 
 VIII. Clausura de la asamblea.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 57.
 
-El Instituto Electoral, al conocer la solicitud de la organización de ciudadanos que pretenda su registro como Partido Político Local, remitirá a la Comisión de Organización Electoral, Partidos y Agrupaciones Políticas para examinar los documentos a que se refiere el artículo anterior a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución establecidos en la Ley General de Partidos y en la presente Ley de Instituciones. La Comisión formulará el proyecto de dictamen de registro.
+El Instituto Electoral, al conocer la solicitud de la organización ciudadana que pretenda su registro como Partido Político Local, remitirá a la Comisión de Organización Electoral, Partidos y Agrupaciones Políticas para examinar los documentos a que se refiere el artículo anterior a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución establecidos en la Ley General de Partidos y en la presente Ley de Instituciones. La Comisión formulará el proyecto de dictamen de registro y lo someterá a consideración del Consejo General.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 58.
 
-El Instituto Electoral notificará al Instituto Nacional para que realice la verificación del número de afiliados y de la autenticidad de las afiliaciones del partido en formación, ya sea en su totalidad o a través de un método aleatorio, en los términos de los Lineamientos que al efecto expida el Consejo General del Instituto Nacional para validar que cuando menos cumplan con el mínimo de afiliados requerido inscritos en el Padrón Electoral, actualizado a la fecha de la solicitud de que se trate, para cerciorarse de que dichas afiliaciones cuenten con un año de antigüedad como máximo dentro del Partido Político de nueva creación.
+El Instituto Electoral notificará al Instituto Nacional para que realice la verificación del número de afiliadas y afiliados y de la autenticidad de las afiliaciones del partido en formación en los términos de los Lineamientos que al efecto expida el Consejo General del Instituto Nacional, para validar que dichas afiliaciones cuenten con un año de antigüedad como máximo dentro del Partido Político de nueva creación.
 
 Para los efectos de lo citado en el párrafo anterior, se deberá verificar que no exista doble afiliación a partidos ya registrados o en formación.
 
-En el caso de que un ciudadano aparezca en más de un padrón de afiliados de partidos políticos, el Instituto Electoral dará vista a los partidos políticos involucrados para que manifiesten lo que a su derecho convenga; de subsistir la doble afiliación, el Instituto Electoral requerirá al ciudadano para que se manifieste al respecto y en caso de que no se manifieste, subsistirá la más reciente.
+En el caso de que una o un ciudadano aparezca en más de un padrón de afiliaciones de partidos políticos, el Instituto Electoral dará vista a los partidos políticos involucrados para que manifiesten lo que a su derecho convenga; de subsistir la doble afiliación, el Instituto Electoral requerirá a la o el ciudadano para que se manifieste al respecto y en caso de que no se manifieste, subsistirá la más reciente.
 
 ###### Artículo 59.
 
@@ -681,19 +753,21 @@ XI. Acceder a la defensa de sus intereses legítimos dentro del sistema de justi
 
 XII. Las demás que se (sic) le otorguen la Constitución Federal, la Ley General de Partidos, la Ley General de Instituciones, la Constitución Estatal y esta Ley de Instituciones.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 62.
 
-No podrán actuar como representantes de los partidos políticos o representante del candidato independiente, ante los órganos del Instituto Electoral, quienes tengan la calidad de:
+No podrán actuar como representantes de los partidos políticos o representante de la candidatura independiente, ante los órganos del Instituto Electoral, quienes tengan la calidad de:
 
-I. Magistrado, Juez o Secretario General del algún órgano del Poder Judicial del Estado;
+I. Magistrada o Magistrado, Jueza o Juez, Secretaria o Secretario General del (sic) algún órgano del Poder Judicial del Estado;
 
-II. Magistrado electoral o Secretario General de la autoridad local jurisdiccional electoral;
+II. Magistrada o Magistrado electoral o Secretaria o Secretario General de la autoridad local jurisdiccional electoral;
 
-III. Magistrado, Juez o Secretario General del Poder Judicial Federal;
+III. Magistrada o Magistrado, Jueza o Juez o Secretaria o Secretario General del Poder Judicial Federal;
 
-IV. Miembro en servicio activo de cualquier fuerza armada o policíaca, y
+IV. Miembro en servicio activo de cualquier fuerza armada o policíaca; y
 
-V. Agente del Ministerio Público Federal o Local o Delegado, Gerente, Agente o Representante en el Estado de dependencias y entidades de la Administración Pública Federal.
+V. Agente del Ministerio Público Federal o Local o Delegada o Delegado, Gerente, Agente o Representante en el Estado de dependencias y entidades de la Administración Pública Federal.
 
 ### CAPÍTULO CUARTO. DE LAS OBLIGACIONES
 
@@ -1215,7 +1289,9 @@ Los partidos políticos tendrán derecho al financiamiento público de sus activ
 
 I. Para el sostenimiento de actividades ordinarias permanentes:
 
-a) El Consejo General, en el caso de los partidos políticos, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral del Estado, según sea el caso, a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del salario mínimo diario vigente para el Estado. El resultado de la operación anteriormente señalada constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá de la forma siguiente: El treinta por ciento de la cantidad total que resulte se les entregará en forma igualitaria a los partidos políticos que hayan conservado su registro después de la última elección de diputados locales y el setenta por ciento se distribuirá según el porcentaje de la votación estatal emitida que hubiesen obtenido en la indicada elección de Diputado;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+a) El Consejo General, en el caso de los partidos políticos, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral del Estado, según sea el caso, a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del salario mínimo diario vigente para el Estado. El resultado de la operación anteriormente señalada constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá de la forma siguiente: El treinta por ciento de la cantidad total que resulte se les entregará en forma igualitaria a los partidos políticos que hayan conservado su registro después de la última elección de diputaciones y el setenta por ciento se distribuirá según el porcentaje de la votación estatal emitida que hubiesen obtenido en la indicada elección de diputaciones;
 
 b) Las cantidades que, en su caso, se determinen para cada Partido Político, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente;
 
@@ -1243,7 +1319,9 @@ IV. Apoyo para el sostenimiento de una oficina:
 
 a) Percibir anualmente en ministraciones mensuales, un apoyo para el sostenimiento de una oficina conforme a lo dispuesto en el Reglamento respectivo, equivalente a la parte que le corresponda respecto del doce por ciento del monto total del financiamiento asignado para actividades ordinarias permanentes del año de que se trate, dividido en partes iguales entre todos los partidos políticos debidamente acreditados.
 
-V. Actividades de la Representación Política ante el Consejo General del Instituto Electoral:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2026)</small>
+
+V. Actividades de la Representación Partidista ante el Consejo General del Instituto Electoral:
 
 a) Percibir anualmente en ministraciones mensuales un apoyo económico para el representante propietario acreditado ante el Consejo General, equivalente a la parte que le corresponda respecto del doce por ciento del monto total del financiamiento asignado para actividades ordinarias permanentes del año de que se trate, dividido en partes iguales entre todos los partidos políticos debidamente acreditados.
 
@@ -1737,63 +1815,83 @@ El Consejo General emitirá las reglas de operación para la organización y des
 
 El derecho de la ciudadanía campechana para solicitar su registro de manera independiente a los partidos políticos será libre de discriminación alguna por razones de género, discapacidad, o por ser parte de una comunidad o pueblo indígena, debiéndose sujetar a los requisitos, condiciones y términos establecidos en la Constitución Federal, en la Constitución Estatal y demás normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 166.
 
-Candidato Independiente, es el ciudadano campechano, que una vez cumplidos con los requisitos, condiciones y términos que para tal efecto establece esta Ley de Instituciones y demás disposiciones aplicables, obtenga del Instituto Electoral la constancia de registro que lo acredite como tal.
+Candidatura Independiente, es la o el ciudadano campechano, que una vez cumplidos con los requisitos, condiciones y términos que para tal efecto establece esta Ley de Instituciones y demás disposiciones aplicables, obtenga del Instituto Electoral la constancia de registro que la o lo acredite como tal.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 167.
 
-Los candidatos independientes tendrán derecho a participar dentro de un proceso electoral local para ocupar los siguientes cargos de elección popular:
+Las candidaturas independientes tendrán derecho a participar dentro de un proceso electoral local para ocupar los siguientes cargos de elección popular:
 
-I. Gobernador;
+I. Gubernatura;
 
-II. Diputados locales por el principio de Mayoría Relativa;
+II. Diputaciones locales por el principio de Mayoría Relativa;
 
-III. Presidente, regidores y síndicos de ayuntamientos por el principio de mayoría relativa, y
+III. Presidencias, regidurías y sindicaturas de ayuntamientos por el principio de mayoría relativa, y
 
-IV. Presidente, regidores y síndicos de juntas municipales por el principio de Mayoría Relativa.
+IV. Presidencias, regidurías y sindicaturas de juntas municipales por el principio de Mayoría Relativa.
 
-No procederá en ningún caso, el registro de aspirantes a candidatos independientes por el principio de Representación Proporcional.
+No procederá en ningún caso, el registro de aspirantes a candidaturas independientes por el principio de Representación Proporcional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 168.
 
-En ningún caso, los candidatos independientes participarán en los procedimientos de asignación de diputados, regidores y síndicos por el principio de Representación Proporcional.
+En ningún caso, las candidaturas independientes participarán en los procedimientos de asignación de diputaciones, regidurías y sindicaturas por el principio de Representación Proporcional.
 
 Para la determinación de la votación estatal emitida y votación municipal emitida, el Instituto Electoral deducirá los votos que se hubiesen emitido en favor de las candidaturas independientes.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 169.
 
-Las disposiciones establecidas en la presente Ley de Instituciones, para los candidatos de partidos políticos, en su caso se aplicarán en forma supletoria, para los candidatos independientes.
+Las disposiciones establecidas en la presente Ley de Instituciones, para las candidaturas de partidos políticos, en su caso se aplicarán en forma supletoria, para las candidaturas independientes.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 170.
 
-Para los efectos de la integración del Congreso del Estado los candidatos independientes para el cargo de Diputado deberán registrar la fórmula integrada por propietario y suplente del mismo género.
+Para los efectos de la integración del Congreso del Estado las candidaturas independientes para el cargo de diputaciones deberán registrar la fórmula integrada por propietaria o propietario y suplente del mismo género.
 
-Las candidaturas independientes para Presidente, regidores y síndicos de ayuntamientos y juntas municipales por el principio de Mayoría Relativa se registrarán por los candidatos independientes que encabezan las planillas, mismas que estarán integradas por propietarios y suplentes el total de candidatos propietarios propuestos no deberán incluir una proporción mayor al cincuenta por ciento de candidatos de un mismo género y se conformarán alternando las candidaturas de género distinto.
+Las candidaturas independientes para Presidencia, regidurías y sindicaturas de ayuntamientos y juntas municipales por el principio de Mayoría Relativa se registrarán por las candidaturas independientes que encabezan las planillas, mismas que estarán integradas por propietarias o propietarios y suplentes el total de candidaturas propietarias propuestas no deberán incluir una proporción mayor al cincuenta por ciento de candidaturas de un mismo género y se conformarán alternando las candidaturas de género distinto.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 171.
 
-Los candidatos independientes que participaron en una elección ordinaria que haya sido anulada, tendrán derecho a participar en las elecciones extraordinarias correspondientes.
+Las candidaturas independientes que participaron en una elección ordinaria que haya sido anulada, tendrán derecho a participar en las elecciones extraordinarias correspondientes.
 
 ### CAPÍTULO SEGUNDO. DE LOS REQUISITOS DE ELEGIBILIDAD
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 172.
 
-Los ciudadanos que pretendan postularse como candidatos independientes para el cargo de Gobernador, Diputado local, Presidente, regidores y síndicos de ayuntamientos y juntas municipales por el principio de Mayoría Relativa, deberán cumplir además de los requisitos señalados por la Constitución Estatal, en esta Ley de Instituciones, en las disposiciones reglamentarias establecidas al efecto, así como los criterios o acuerdos que emitan las autoridades electorales competentes y demás disposiciones legales aplicables. Asimismo, no deberán ejercer algún cargo de dirección dentro de un Partido Político, salvo que hayan renunciado con cinco días anteriores a la fecha del registro.
+Las y los ciudadanos que pretendan postularse como candidaturas independientes para los cargos de Gubernatura, Diputación local, Presidencia, regidurías y sindicaturas de ayuntamientos y juntas municipales por el principio de Mayoría Relativa, deberán cumplir además de los requisitos señalados por la Constitución Estatal, en esta Ley de Instituciones, en las disposiciones reglamentarias establecidas al efecto, así como los criterios o acuerdos que emitan las autoridades electorales competentes y demás disposiciones legales aplicables. Asimismo, no deberán ejercer algún cargo de dirección dentro de un Partido Político, salvo que hayan renunciado con cinco días anteriores a la fecha del registro.
 
 ### CAPÍTULO TERCERO. DEL PROCESO DE SELECCIÓN DE CANDIDATOS INDEPENDIENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 173.
 
-Para los efectos de esta Ley de Instituciones, el proceso de selección de los candidatos independientes comprende las etapas siguientes:
+Para los efectos de esta Ley de Instituciones, el proceso de selección de las candidaturas independientes comprende las etapas siguientes:
 
 I. De la Convocatoria;
 
-II. De los actos previos al registro de candidatos independientes;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+II. De los actos previos al registro de candidaturas independientes;
 
 III. De la obtención del apoyo ciudadano, y
 
-IV. Del registro de candidatos independientes.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+IV. Del registro de candidaturas independientes.
 
 ### CAPÍTULO CUARTO. CONVOCATORIA
 
@@ -1817,9 +1915,11 @@ Una vez hecha la comunicación anexando la documentación a que se refiere el ar
 
 ### CAPÍTULO SEXTO. DE LA OBTENCIÓN DEL APOYO CIUDADANO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 178.
 
-A partir del día siguiente de la fecha en que obtengan la constancia que lo acredite con la calidad de “Aspirante a Candidato Independiente” éstos podrán realizar actos tendentes a recabar el porcentaje de apoyo ciudadano requerido por medios diversos a la radio y la televisión, siempre que los mismos no constituyan actos anticipados de campaña.
+A partir del día siguiente de la fecha en que obtengan la constancia que lo acredite con la calidad de “Aspirante a Candidatura Independiente” éstos podrán realizar actos tendentes a recabar el porcentaje de apoyo ciudadano requerido por medios diversos a la radio y la televisión, siempre que los mismos no constituyan actos anticipados de campaña.
 
 El Consejo General podrá realizar ajustes a los plazos a efecto de garantizar que se verifiquen los actos tendentes a recabar el apoyo ciudadano. Cualquier ajuste que el Consejo General realice deberá ser difundido ampliamente.
 
@@ -1851,25 +1951,27 @@ La cédula de respaldo de apoyo de la ciudadanía debe acompañarse de las copia
 
 Al respecto deberán también de atenderse los lineamientos y demás consideraciones técnicas y tecnológicas que el Instituto Nacional apruebe para la obtención del apoyo de la ciudadanía.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
-###### ARTÍCULO 182.
+###### Artículo 182.
 
-La cédula de respaldo de apoyo ciudadano a que se refiere el artículo anterior, se sujetará a lo siguiente:
+La cédula de respaldo del apoyo de la ciudadanía a que se refiere el artículo anterior, se sujetará a lo siguiente:
 
-I. Para la Gubernatura, la relación deberá contener la firma de una cantidad de ciudadanas y ciudadanos equivalente a cuando menos el dos por ciento del Padrón Electoral correspondiente a toda la Entidad con corte al treinta y uno de julio del año previo al de la elección y estar integradas por electores de por lo menos la mitad de los municipios que sumen cuando menos el dos por ciento de ciudadanos que figuren en la lista nominal de electores de cada una de ellas;
+I. Para la Gubernatura, la relación deberá contener la firma de una cantidad de ciudadanas y ciudadanos equivalente a cuando menos el dos por ciento del Padrón Electoral correspondiente a toda la Entidad con corte al treinta y uno de julio del año previo al de la elección y estar integradas por electores de por lo menos la mitad de los municipios que sumen cuando menos el dos por ciento de las y los ciudadanos que figuren en la lista nominal de electores de cada una de ellas;
 
-II. Para fórmulas de diputaciones de Mayoría Relativa, la relación deberá contener la firma de una cantidad de ciudadanas y ciudadanos equivalente a cuando menos el tres por ciento del Padrón Electoral correspondiente al Distrito Electoral Uninominal de que se trate, con corte al treinta y uno de julio del año previo al de la elección y estar integradas por electores de por lo menos la mitad de las secciones, que sumen cuando menos el dos por ciento de ciudadanos que figuren en la lista nominal de electores de cada una de ellas;
+II. Para fórmulas de diputaciones de Mayoría Relativa, la relación deberá contener la firma de una cantidad de ciudadanas y ciudadanos equivalente a cuando menos el dos por ciento del Padrón Electoral correspondiente al Distrito Electoral Uninominal de que se trate, con corte al treinta y uno de julio del año previo al de la elección y estar integradas por las y los electores de por lo menos la mitad de las secciones, que sumen cuando menos el dos por ciento de las y los ciudadanos que figuren en la lista nominal de electores de cada una de ellas;
 
-III. Para la planilla de ayuntamientos de Mayoría Relativa, la relación deberá contener la firma de cuando menos el tres por ciento del Padrón Electoral correspondiente al Municipio de que se trate, con corte al treinta y uno de julio del año previo al de la elección y estar integradas por electores de por lo menos la mitad de las secciones, que sumen cuando menos el dos por ciento de ciudadanas y ciudadanos que figuren en la lista nominal de electores de cada una de ellas, y
+III. Para la planilla de ayuntamientos de Mayoría Relativa, la relación deberá contener la firma de cuando menos el dos por ciento del Padrón Electoral correspondiente al Municipio de que se trate, con corte al treinta y uno de julio del año previo al de la elección y estar integradas por electores de por lo menos la mitad de las secciones, que sumen cuando menos el dos por ciento de ciudadanas y ciudadanos que figuren en la lista nominal de electores de cada una de ellas; y
 
-IV. Para la planilla de juntas municipales de Mayoría Relativa, la relación deberá contener la firma de cuando menos el tres por ciento del Padrón Electoral correspondiente a la sección municipal de que se trate, con corte al treinta y uno de julio del año previo al de la elección y estar integradas por electores de por lo menos la mitad de las secciones, que sumen cuando menos el dos por ciento de ciudadanas y ciudadanos que figuren en la lista nominal de electores de cada una de ellas.
+IV. Para la planilla de juntas municipales de Mayoría Relativa, la relación deberá contener la firma de cuando menos el dos por ciento del Padrón Electoral correspondiente a la sección municipal de que se trate, con corte al treinta y uno de julio del año previo al de la elección y estar integradas por las y los electores de por lo menos la mitad de las secciones, que sumen cuando menos el dos por ciento de ciudadanas y ciudadanos que figuren en la lista nominal de electores de cada una de ellas.
 
 ### CAPÍTULO SÉPTIMO. DE LA PROPAGANDA PARA LA OBTENCIÓN DEL APOYO CIUDADANO
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 183.
 
-Es un derecho de los aspirantes a candidatos independientes realizar propaganda para la obtención del porcentaje requerido del apoyo ciudadano para su registro como Candidato Independiente, de acuerdo a lo establecido en esta Ley de Instituciones.
+Es un derecho de las y los aspirantes a candidaturas independientes realizar propaganda para la obtención del porcentaje requerido del apoyo de la ciudadanía, para su registro como Candidatura Independiente, de acuerdo a lo establecido en esta Ley de Instituciones.
 
 ###### Artículo 184.
 
@@ -2279,25 +2381,27 @@ Los candidatos independientes que incumplan con las disposiciones establecidas e
 
 Los candidatos independientes gozarán de los derechos y deberán cumplir con las obligaciones que esta Ley de Instituciones establece, para las candidaturas registradas.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 220.
 
-Los candidatos independientes, de conformidad con lo previsto por el reglamento de sesión aprobado por el Consejo General, podrán designar representantes ante los órganos del Instituto Electoral, en los términos siguientes:
+Las y los candidatos independientes, de conformidad con lo previsto por el reglamento de sesión aprobado por el Consejo General, podrán designar representantes ante los órganos del Instituto Electoral, en los términos siguientes:
 
-I. Los candidatos independientes a Gobernador, ante el Consejo General y en la totalidad de los consejos distritales;
+I. Las candidaturas independientes a Gubernatura, ante el Consejo General y en la totalidad de los consejos distritales;
 
-II. Los candidatos independientes a diputados locales, ante el Consejo Distrital que corresponda, y
+II. Las candidaturas independientes a diputaciones locales, ante el Consejo Distrital que corresponda; y
 
-III. Los candidatos independientes que integran las planillas de ayuntamientos y juntas municipales, ante el Consejo Distrital o Municipal según corresponda.
+III. Las candidaturas independientes que integran las planillas de ayuntamientos y juntas municipales, ante el Consejo Distrital o Municipal según corresponda.
 
-La designación del representante ante el Consejo Electoral que corresponda se realizará mediante escrito signado por el Candidato Independiente de que se trate.
+La designación de la o el representante ante el Consejo Electoral que corresponda se realizará mediante escrito signado por la Candidatura Independiente de que se trate.
 
-La acreditación de su representante propietario y suplente se realizará ante los consejos que correspondan, dentro de los diez días posteriores al de la aprobación de su registro como Candidato Independiente.
+La acreditación de su representación propietaria y suplente se realizará ante los consejos que correspondan, dentro de los diez días posteriores al de la aprobación de su registro como Candidatura Independiente.
 
 Si la designación no se realiza en el plazo previsto en el párrafo anterior perderá este derecho.
 
-Los representantes ante los órganos no tendrán derecho a percibir el financiamiento otorgado a los representantes de los partidos políticos y coaliciones establecido en el artículo 97 fracción V de esta Ley de Instituciones.
+Las representaciones ante los órganos no tendrán derecho a percibir el financiamiento otorgado a las representaciones de los partidos políticos y coaliciones establecido en el artículo 97 fracción V de esta Ley de Instituciones.
 
-Asimismo, deben cumplir con lo exigido en el presente capítulo para los representantes de los partidos políticos en lo conducente.
+Asimismo, deben cumplir con lo exigido en el presente capítulo para las representaciones de los partidos políticos en lo conducente.
 
 ###### Artículo 221.
 
@@ -2501,13 +2605,19 @@ El Instituto Electoral ejercerá las siguientes funciones:
 
 I. Aplicar las disposiciones generales, reglas, lineamientos, criterios y formatos, ejercicio de las facultades que le confiere las (sic) Constitución Federal, la Ley General de Instituciones y las que le establezca el Instituto Nacional;
 
-II. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidatos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-III. Ministrar el financiamiento público a que tienen derechos los partidos políticos nacionales y locales y, en su caso, a los candidatos independientes;
+II. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidaturas;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+III. Ministrar el financiamiento público a que tienen derechos los partidos políticos nacionales y locales y, en su caso, a las candidaturas independientes;
 
 IV. Desarrollar y ejecutar los programas de educación cívica;
 
-V. Orientar a los ciudadanos en la entidad para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+V. Orientar a la ciudadanía en la Entidad para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
 
 VI. Llevar a cabo las actividades necesarias para la preparación de la jornada electoral;
 
@@ -2515,19 +2625,27 @@ VII. Imprimir los documentos y producir los materiales electorales, en términos
 
 VIII. Efectuar el escrutinio y cómputo total de las elecciones que se lleven a cabo, con base en los resultados consignados en las actas de cómputos distritales y municipales;
 
-IX. Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos, así como, la constancia de asignación a las fórmulas de Representación Proporcional, conforme al cómputo y declaración de validez que efectúe el propio Instituto Electoral;
+(REFORMADA, P.O. 28 DE AGOSTO DE 2026) (F. DE E. P.O. 28 DE AGOSTO DE 2026)
 
-X. Efectuar el cómputo de la elección de Gobernador;
+IX. Expedir las constancias de mayoría y declarar la validez de la elección a las candidaturas que hubiesen obtenido la mayoría de votos, así como, la constancia de asignación a las fórmulas de Representación Proporcional, conforme al cómputo y declaración de validez que efectúe el propio Instituto Electoral;
+
+(REFORMADA, P.O. 28 DE AGOSTO DE 2026) (F. DE E. P.O. 28 DE AGOSTO DE 2026)
+
+X. Efectuar el cómputo de la elección de Gubernatura;
 
 XI. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones del Estado, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional;
 
 XII. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en la entidad de que se trate;
 
-XIII. Desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observación electoral de que se trate, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XIII. Desarrollar las actividades que se requieran para garantizar el derecho de la ciudadanía a realizar labores de observación electoral de que se trate, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
 
 XIV. Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos emitidos por el Instituto Nacional;
 
-XV. Organizar, desarrollar y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana en los términos que establezca la ley local correspondiente;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XV. Organizar, desarrollar y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana en los términos que establezca la Constitución Estatal, la presente Ley y demás normativa aplicable;
 
 XVI. Supervisar las actividades que realicen los consejos distritales y municipales durante el proceso electoral;
 
@@ -4505,7 +4623,9 @@ Queda prohibido a los precandidatos a cargos de elección popular realizar activ
 
 La violación a lo previsto en el párrafo anterior será sancionada por el partido político con la cancelación del registro como precandidato del infractor, o en su defecto con la negativa a registrarlo como candidato; así como también por las sanciones que establezca el Instituto Nacional.
 
-### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DEL REGISTRO DE CANDIDATOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2026)</small>
+
+### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DEL REGISTRO DE CANDIDATURAS
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -4531,19 +4651,23 @@ Las candidaturas a diputaciones por el principio de Mayoría Relativa presentada
 
 Corresponde exclusivamente a los partidos políticos, presentar las candidaturas a diputaciones por el principio de Representación Proporcional, las que se registrarán por listas integradas hasta por catorce candidaturas, alternando los géneros en su integración, para garantizar la paridad.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 388.
 
-Las candidaturas presentadas por los partidos políticos, coaliciones y en su caso, por quienes ostenten una candidatura independiente, para conformar la presidencia, regidurías y sindicaturas de mayoría relativa, de ayuntamientos y juntas municipales, se registrarán por planillas integradas por propietarios y suplentes del mismo género. Tratándose de fórmulas encabezadas por hombres, la posición de suplente puede ser ocupada, de manera indistinta, por un hombre o una mujer.
+Las candidaturas presentadas por los partidos políticos, coaliciones y en su caso, por quienes ostenten una candidatura independiente, para conformar la presidencia, regidurías y sindicaturas de mayoría relativa, de ayuntamientos y juntas municipales, se registrarán por planillas integradas por propietarias y suplentes del mismo género. Tratándose de fórmulas encabezadas por hombres, la posición de suplente puede ser ocupada, de manera indistinta, por un hombre o una mujer.
 
-Las candidaturas presentadas por los partidos políticos para regidurías y sindicaturas por el principio de Representación Proporcional, se registrarán por listas, alternando los géneros en su integración, para garantizar la paridad.
+Las candidaturas presentadas por los partidos políticos para regidurías por el principio de Representación Proporcional se registrarán por listas, alternando los géneros en su integración, para garantizar la paridad.
 
-Las listas se integrarán con cinco candidaturas, tratándose de los ayuntamientos de los municipios de Campeche y Carmen, y por cuatro candidaturas en lo que respecta a los ayuntamientos de los demás municipios, y de dos candidaturas tratándose de juntas municipales, por Partido o Coalición y por circunscripción plurinominal.
+Las listas se integrarán con seis candidaturas, tratándose de los ayuntamientos de los municipios de Campeche y Carmen, y por cuatro candidaturas en lo que respecta a los ayuntamientos de los demás municipios, y de dos candidaturas tratándose de juntas municipales, por Partido o Coalición y por circunscripción plurinominal.
+
+Los partidos políticos o coaliciones deben presentar fórmulas completas de sus planillas, a fin de garantizar la correcta integración de los Ayuntamientos y Juntas Municipales, por lo que se encuentran obligados a postular planillas que contengan tantas candidaturas como el número de cargos que integran los Ayuntamientos o Juntas Municipales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 389.
 
-Corresponde a los partidos políticos, coaliciones y, en su caso, a los candidatos independientes el derecho de solicitar el registro de candidatos a cargos de elección popular, mediante el cumplimiento de los siguientes preceptos:
+Corresponde a los partidos políticos, coaliciones y, en su caso, a las candidaturas independientes el derecho de solicitar el registro de candidaturas a cargos de elección popular, mediante el cumplimiento de los siguientes preceptos:
 
 I. El registro de fórmulas de candidatos a diputados por el principio de Mayoría Relativa serán compuestas cada una por un propietario y un suplente del mismo género. El registro total no deberá incluir una proporción mayor al cincuenta por ciento de las fórmulas de candidatos del mismo género;
 
@@ -4561,13 +4685,21 @@ IV. Para los efectos de las fracciones anteriores, los consejos General y distri
 
 V. Las planillas de candidatos a integrantes de ayuntamientos y juntas municipales, por el principio de Mayoría Relativa serán compuestas por propietarios y suplentes; el total de candidatos propietarios propuestos no deberán incluir una proporción mayor al cincuenta por ciento de candidatos del mismo género y se conformarán alternando las candidaturas de género distinto;
 
-VI. Las listas de candidatos a regidores y síndicos por el principio de Representación Proporcional, no deberá incluir una proporción mayor al cincuenta por ciento de candidatos del mismo género y lo conformarán alternando candidaturas de género distinto;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+VI. Las listas de candidatos a regidurías por el principio de Representación Proporcional, no deberá incluir una proporción mayor al cincuenta por ciento de candidatos del mismo género y lo conformarán alternando candidaturas de género distinto;
 
 VII. Para los efectos de la fracción V y VI de este artículo, los consejos General, municipales o distritales según corresponda, al recibir las solicitudes para el registro de candidaturas, revisarán que se cumpla con lo anterior, de no hacerlo así, se requerirá al Partido Político para que realicen las sustituciones correspondientes en los plazos establecidos por esta Ley de Instituciones. En caso de que no sean sustituidas se le negará el registro de la candidatura correspondiente;
 
 VIII. Si un Partido Político o Coalición, según sea aplicable, no cumple con lo anteriormente establecido, el Consejo General, tratándose de las candidaturas a diputados, o el respectivo Consejo Electoral Distrital o Municipal, según sea el caso, respecto de las candidaturas a integrantes de ayuntamientos y juntas municipales, le requerirá, para que dentro del plazo de cuarenta y ocho horas, contadas a partir de la notificación rectifique la solicitud de registro de candidaturas, apercibiéndole de que en caso de no hacerlo así, se le negará el registro de las candidaturas correspondientes;
 
-IX. En el caso de que, para un mismo cargo de elección popular sean registrados diferentes candidatos, fórmulas, planillas o listas por un mismo Partido Político o coalición, según sea aplicable, el Secretario del respectivo Consejo Electoral, una vez detectada esta situación, requerirá al Partido Político o Coalición según se trate, que informe al aludido Consejo, en un término de cuarenta y ocho horas contados a partir de la notificación qué candidato, fórmula, planilla o lista prevalece. En caso de que el Partido Político o Coalición no informe, se entenderá que opta por el último de los registros presentados, quedando sin efecto los anteriores;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+IX. En el caso de que, para un mismo cargo de elección popular sean registrados diferentes candidaturas, fórmulas, planillas o listas por un mismo Partido Político o coalición, según sea aplicable, la Secretaria o el Secretario del respectivo Consejo Electoral, una vez detectada esta situación, requerirá al Partido Político o Coalición según se trate, que informe al aludido Consejo, en un término de cuarenta y ocho horas contados a partir de la notificación qué candidatura, fórmula, planilla o lista prevalece. En caso de que el Partido Político o Coalición no informe, se entenderá que opta por el último de los registros presentados, quedando sin efecto los anteriores; y
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+X. Los partidos políticos que participen de forma coaligada deben observar la paridad de género en la totalidad de sus postulaciones en lo individual y como parte de la coalición.
 
 Lo relativo a la integración de las candidaturas independientes en cuanto a género se estará a lo dispuesto por esta Ley de Instituciones en los artículos 170 y 210 fracción XIII.
 
@@ -4581,11 +4713,17 @@ Para el registro de candidaturas a todo cargo de elección popular, el Partido P
 
 Con las salvedades previstas en esta Ley de Instituciones, los plazos y órganos competentes para el registro de las candidaturas en el año de la elección son los siguientes:
 
-I. Para Gobernador del veinticuatro de febrero al tres de marzo inclusive, ante el Consejo General del Instituto Electoral;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-II. Para diputados e integrantes de ayuntamientos y juntas municipales por el principio de Mayoría Relativa, del veinticinco de marzo al primero de abril inclusive, ante los consejos electorales distritales o municipales correspondientes, y
+I. Para Gubernatura, del veinticuatro de febrero al tres de marzo inclusive, ante el Consejo General del Instituto Electoral;
 
-III. Para Diputados e integrantes de ayuntamientos y juntas municipales por el principio de Representación Proporcional, del ocho al quince de abril inclusive, ante el Consejo General los primeros y ante los consejos electorales distritales o municipales, según corresponda, los demás.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+II. Para diputaciones e integrantes de ayuntamientos y juntas municipales por el principio de Mayoría Relativa, del veinticinco de marzo al primero de abril inclusive, ante los consejos electorales distritales o municipales correspondientes; y
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+III. Para diputaciones e integrantes de ayuntamientos y juntas municipales por el principio de Representación Proporcional, del ocho al quince de abril inclusive, ante el Consejo General los primeros y ante los consejos electorales distritales o municipales, según corresponda, los demás.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -4687,6 +4825,10 @@ Transcurrido el plazo a que se refiere el párrafo anterior, el Partido polític
 
 A los doce días siguientes de que concluyan los plazos establecidos para el registro de candidaturas, los consejos General, distritales y municipales celebrarán una sesión cuyo único objeto será registrar las candidaturas que procedan.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+Los Consejos distritales y municipales deberán remitir y someter a consideración del Consejo General las solicitudes de registro para candidaturas de elección popular que hayan recepcionado, en atención al principio de paridad de género y acciones afirmativas.
+
 ###### Artículo 403.
 
 Los consejos electorales distritales y municipales comunicarán de inmediato al Consejo General el acuerdo relativo al registro de candidaturas que hayan realizado durante la sesión. El Consejo General, a su vez, comunicará de inmediato a los consejos distritales y municipales las determinaciones que haya tomado sobre el registro de las candidaturas que a él corresponden en términos de esta Ley de Instituciones. El aviso se hará, en exclusiva, a los consejos electorales distritales en lo referente a las candidaturas a Gobernador y diputados, y a los consejos municipales, o a quienes desempeñen sus funciones, en lo atinente a candidaturas de Presidente, regidores y síndicos de ayuntamientos y juntas municipales.
@@ -4779,15 +4921,21 @@ No se considerarán, dentro de los topes de campaña, los gastos que realicen lo
 
 El Consejo General, en la determinación de los topes de gastos de campaña, aplicará las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-I. A más tardar el día quince de febrero del año de la elección determinará el tope máximo de gastos de campaña para la elección de Gobernadora o Gobernador, que será la cantidad equivalente al veinte por ciento del total del financiamiento público asignado a los partidos políticos para el año de la elección;
+I. A más tardar el día quince de febrero del año de la elección determinará el tope máximo de gastos de campaña para la elección de Gubernatura, que será la cantidad equivalente al veinte por ciento del total del financiamiento público asignado a los partidos políticos para el año de la elección;
 
-II. A más tardar el día quince de febrero del año de la elección determinará el tope máximo de gastos de campaña para la elección de Diputado por el principio de Mayoría Relativa, que será la cantidad que resulte de dividir el tope de gasto de campaña de Gobernador entre el total de distritos uninominales;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-III. A más tardar el día quince de febrero del año de la elección, determinará el tope de gastos de campaña para la elección de presidente, regidores y síndicos de ayuntamientos, que será la cantidad que resulte de multiplicar el tope de gastos de campaña para la elección de Diputado local, por el número de distritos uninominales completos con que cuente cada municipio, y
+II. A más tardar el día quince de febrero del año de la elección determinará el tope máximo de gastos de campaña para la elección de diputaciones por el principio de Mayoría Relativa, que será la cantidad que resulte de dividir el tope de gasto de campaña de Gubernatura entre el total de distritos uninominales;
 
-IV. A más tardar el día quince de febrero del año de la elección, determinará el tope de gastos de campaña para la elección de presidente, regidores y síndico de juntas municipales, que será el equivalente a las dos terceras partes del tope de gastos de campaña de la elección de Diputado local.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+III. A más tardar el día quince de febrero del año de la elección, determinará el tope de gastos de campaña para la elección de presidencias, regidurías y sindicaturas de ayuntamientos, que será la cantidad que resulte de multiplicar el tope de gastos de campaña para la elección de diputaciones locales, por el número de distritos uninominales completos con que cuente cada municipio; y
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+IV. A más tardar el día quince de febrero del año de la elección, determinará el tope de gastos de campaña para la elección de presidencias, regidurías y sindicaturas de juntas municipales, que será el equivalente a las dos terceras partes del tope de gastos de campaña de la elección de diputación local.
 
 ###### Artículo 417.
 
@@ -4879,15 +5027,21 @@ II. Los costos erogados por el retiro o cubrimiento de la propaganda deberán pa
 
 III. En el supuesto de que el candidato no realice el pago correspondiente, el Instituto Electoral realizará el cobro de la multa, el cual se hará a través del procedimiento económico coactivo a cargo de la Secretaría de Finanzas del Gobierno del Estado; pago que será remitido en su importe total al Instituto Electoral para los efectos conducentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 432.
 
-El Instituto Electoral será la instancia facultada para organizar los debates entre todos los candidatos a Gobernador conforme a las disposiciones que así determine el Consejo General. Los debates que se realicen, deberán atender en el caso a los principios de equidad e imparcialidad en la contienda y podrán participar en ellos, todos los candidatos con registro ante el Instituto Electoral.
+El Instituto Electoral será la instancia facultada para organizar los debates entre las candidaturas a Gubernatura conforme a las disposiciones que así determine el Consejo General. Los debates que se realicen deberán atender en el caso a los principios de equidad e imparcialidad en la contienda y podrán participar en ellos, todas las candidaturas con registro ante el Instituto Electoral.
 
-El Consejo General deberá integrar una Comisión de Consejeros, misma que revisará el formato de debate entre los candidatos debidamente registrados.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+El Consejo General deberá integrar una Comisión de Consejerías, misma que revisará el formato de debate entre las candidaturas debidamente registradas.
 
 El Reglamento de la materia señalará la integración y funcionamiento de la Comisión, así como los formatos, metodología, plazos, procedimiento, características de producción técnica y difusión y demás relativos a la organización y difusión de los debates referidos.
 
-En el supuesto del párrafo anterior, los debates de los candidatos a Gobernador, deberán ser transmitidos por las estaciones de radio y televisión de las concesionarias locales de uso público del Estado. El Instituto Electoral promoverá la transmisión de los debates por parte de otros concesionarios de radiodifusión con cobertura en el Estado y de telecomunicaciones, en los términos que dispone la Ley General.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+En el supuesto del párrafo anterior, los debates de las candidaturas a Gubernatura, deberán ser transmitidos por las estaciones de radio y televisión de las concesionarias locales de uso público del Estado. El Instituto Electoral promoverá la transmisión de los debates por parte de otros concesionarios de radiodifusión con cobertura en el Estado y de telecomunicaciones, en los términos que dispone la Ley General.
 
 Las instituciones públicas y privadas o medios de comunicación local podrán organizar libremente debates entre candidatos a presidentes municipales, diputados locales y juntas municipales, siempre que se ajusten a lo señalado en las disposiciones de este apartado, así como del reglamento respectivo y cuenten con la autorización del Consejo General, además de que se cumpla con lo siguiente:
 
@@ -5989,9 +6143,11 @@ En el caso señalado en el artículo anterior, con el objeto de resguardar la in
 
 Concluido el cómputo y emitida la declaración de validez, los presidentes del Consejo Electoral, Distrital o Municipal según corresponda, expedirán la respectiva Constancia de Mayoría, de acuerdo con el modelo que al efecto se apruebe por el Consejo General, a las fórmulas de candidatos a diputados y planillas de Presidente, regidores y síndicos de ayuntamientos y juntas municipales, que hayan obtenido el mayor número de votos en la elección, salvo el caso de que los integrantes de la fórmula fuere inelegible.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 558.
 
-Los presidentes de los consejos electorales, distritales o municipales en su caso, fijarán en el exterior de sus locales, al término de la sesión de cómputo, los resultados de cada una de las elecciones de que se trate.
+Las presidencias de los consejos electorales distritales, municipales en su caso, fijarán en el exterior de sus locales, al término de la sesión de cómputo, los resultados de cada una de las elecciones de que se trate.
 
 ###### Artículo 559.
 
@@ -6171,17 +6327,23 @@ Una vez realizada la distribución a que se refiere el artículo anterior, se de
 
 En todo lo caso, para la asignación de diputados por el principio de Representación Proporcional se seguirá el orden que tuviesen los candidatos en las listas respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 580.
 
-La asignación de regidurías y sindicaturas por el principio de Representación Proporcional, para el caso de ayuntamientos se hará conforme a lo dispuesto en el artículo 102 de la Constitución Estatal y esta Ley de Instituciones, atendiendo las reglas siguientes:
+La asignación de regidurías por el principio de Representación Proporcional, para el caso de ayuntamientos se hará conforme a lo dispuesto en el artículo 102 de la Constitución Estatal y esta Ley de Instituciones, atendiendo las reglas siguientes:
 
 I. En la asignación no participará el Partido Político cuya planilla haya obtenido el triunfo de Mayoría Relativa;
 
 II. Se desarrollará, una sola vez, la fórmula de proporcionalidad pura prevista en esta Ley de Instituciones;
 
-III. Se determinarán las regidurías y sindicatura que se le asignarán a cada Partido Político, conforme al número de veces que contenga su votación el Cociente Natural, y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-IV. Las que se distribuirán por Resto Mayor si, después de aplicarse el cociente natural, quedaren regidurías y/o sindicaturas por repartir, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos en la asignación.
+III. Se determinarán las regidurías que se le asignarán a cada Partido Político, conforme al número de veces que contenga su votación el Cociente Natural; y
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+IV. Las que se distribuirán por Resto Mayor si, después de aplicarse el cociente natural, quedaren regidurías por repartir, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos en la asignación.
 
 ###### Artículo 581.
 
@@ -8200,3 +8362,17 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Instituto Electoral del Estado de Campeche, deberá realizar las adecuaciones normativas necesarias para cumplir con los fines establecidos en el presente Decreto en un plazo que no exceda de los 60 días naturales siguientes a la entrada en vigor de este.
 
 TERCERO.- Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan a lo contenido en el presente decreto.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 282 POR EL QUE “SE REFORMAN LAS FRACCIONES I, II Y IV DEL ARTÍCULO 1°; LA FRACCIÓN III DEL ARTÍCULO 4°; EL ARTÍCULO 13; EN EL LIBRO PRIMERO LA DENOMINACIÓN DEL TÍTULO TERCERO PARA QUEDAR COMO “DE LA ELECCIÓN DE LA GUBERNATURA, DIPUTACIONES, Y PRESIDENCIAS, REGIDURIAS Y SINDICATURAS DE AYUNTAMIENTOS Y JUNTAS MUNICIPALES”; LOS ARTÍCULOS 16, 18 Y 19; EL PÁRRAFO PRIMERO DEL ARTÍCULO 20; LOS ARTÍCULOS 23; 26; 27; 29; 31; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 37; EL ARTÍCULO 40; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 44; EL ARTÍCULO 49; EL PÁRRAFO PRIMERO DEL ARTÍCULO 50; EL PÁRRAFO PRIMERO DEL ARTÍCULO 51; EL PÁRRAFO PRIMERO, LA FRACCIÓN I Y SUS INCISOS A) Y B), LA FRACCIÓN II Y SUS INCISOS A), C), D) Y E) DEL ARTÍCULO 52; EL ARTÍCULO 53; LAS FRACCIONES II, III Y VII DEL ARTÍCULO 55; LAS FRACCIONES II, III Y VII DEL ARTÍCULO 56; LOS ARTÍCULOS 57; 58; 62; EL INCISO A) DE LA FRACCIÓN I Y LA FRACCIÓN V DEL ARTÍCULO 99; LOS ARTÍCULOS 166; 167; EL PÁRRAFO PRIMERO DEL ARTÍCULO 168; LOS ARTÍCULOS 169; 170; 171; 172; EL PÁRRAFO PRIMERO Y LAS FRACCIONES II Y IV DEL ARTÍCULO 173; EL PÁRRAFO PRIMERO DEL ARTÍCULO 178; LOS ARTÍCULOS 182; 183; 220; LAS FRACCIONES II, III, V, IX, X, XIII Y XV DEL ARTÍCULO 250; EN EL LIBRO CUARTO EN SU TÍTULO SEGUNDO LA DENOMINACIÓN DEL CAPÍTULO TERCERO PARA QUEDAR COMO “DEL PROCEDIMIENTO DEL REGISTRO DE CANDIDATURAS”; EL ARTÍCULO 388; EL PÁRRAFO PRIMERO, LAS FRACCIONES VI Y IX DEL ARTÍCULO 389; LAS FRACCIONES I, II Y III DEL ARTÍCULO 391; LAS FRACCIONES I, II, III Y IV DEL ARTÍCULO 416; LOS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO DEL ARTÍCULO 432; EL ARTÍCULO 558; Y EL PÁRRAFO PRIMERO Y LAS FRACCIONES III Y IV DEL ARTÍCULO 580; Y SE ADICIONAN LA FRACCIÓN X AL ARTÍCULO 389 Y, EL PÁRRAFO SEGUNDO AL ARTÍCULO 402, TODOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con la salvedad prevista en las disposiciones transitorias siguientes.
+
+SEGUNDO.- Las modificaciones a las disposiciones contenidas en el presente decreto en materia de no reelección y nepotismo electoral serán aplicables a partir del proceso electoral a celebrarse en el año 2030, de conformidad con el Decreto publicado el 1° de abril del año 2025 en el Diario Oficial de la Federación.
+
+Todo lo demás previsto en el presente decreto, entendido como una regla electoral, será aplicable para el proceso electoral del 2027.
+
+TERCERO.- El Consejo General del Instituto Electoral del Estado de Campeche aprobará los ajustes necesarios a su normatividad interna - reglamentos, lineamientos, criterios y demás instrumentos que resulten necesarios- a fin de garantizar la debida ejecución de las actividades y procedimientos electorales contenidos en el presente decreto antes del inicio del proceso electoral 2027.
+
+CUARTO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
