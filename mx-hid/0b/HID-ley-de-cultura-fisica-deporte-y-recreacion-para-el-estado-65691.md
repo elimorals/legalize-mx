@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2026-08-17"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -299,9 +299,9 @@ V.- Garantizar mecanismos de igualdad de oportunidades en la práctica deportiva
 
 VI.- Promover la cultura de la educación física y el deporte entre los habitantes del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-VII.- Generar mecanismos con perspectiva de género y de derechos humanos, para garantizar que no exista acoso, violencia, hostigamiento o discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que constituya una agresión al libre desarrollo de la personalidad, y
+VII.- Generar mecanismos con perspectiva de género y de derechos humanos para garantizar que no exista acoso, violencia, hostigamiento o discriminación motivada por el origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, la identidad de género o la expresión de género, el estado civil o cualquier otra causa que constituya una agresión al libre desarrollo de la personalidad; y
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
@@ -421,9 +421,9 @@ VII.- Establecer los procedimientos para lograr una coordinación y concertació
 
 VII Bis.- Impulsar campañas de actividad física y recreación.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-VIII.- Diseñar y operar estrategias que contribuyan a fomentar, promover y estimular la actividad física, la cultura física y el deporte, bajo el principio de equidad e igualdad hacia las personas con discapacidad, adultas mayores, grupos étnicos y población de escasos recursos;
+VIII.- Diseñar y operar estrategias que contribuyan a fomentar, promover y estimular la actividad física, la cultura física y el deporte, bajo los principios de equidad e igualdad, en favor de las personas con discapacidad, adultas mayores, pertenecientes a grupos étnicos, de la diversidad sexual y de género, y de la población de escasos recursos;
 
 IX.- Formular programas destinados a promover y apoyar la formación, capacitación y actualización constante entre todo el personal técnico del deporte, que se dedica a trabajar en las diferentes disciplinas deportivas;
 
@@ -597,9 +597,9 @@ Las Autoridades Municipales, administrarán con transparencia y legalidad de man
 
 Los bienes inmuebles que sirvan como instalaciones deportivas, que pertenezcan o se encuentren bajo el resguardo de los municipios, deberán administrarse con responsabilidad, privilegiando su destino para actividades de cultura física, deporte y recreación. Cuando en ellos se autoricen eventos distintos o actividades que impliquen la venta o consumo de bebidas alcohólicas, los ayuntamientos deberán observar la reglamentación municipal aplicable y adoptar, en el ámbito de sus atribuciones, las medidas de prevención, seguridad y protección civil que correspondan.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
 
-Los ayuntamientos podrán expedir sus respectivos Reglamentos, sin contravenir las disposiciones de esta Ley y su Reglamento, conforme a los principios de equidad, igualdad sustantiva, máxima publicidad y rendición de cuentas.
+La asignación de horarios y espacios en las instalaciones deportivas municipales deberá realizarse conforme a criterios objetivos, públicos y no discriminatorios, sin discriminación motivada por la orientación sexual, la identidad de género o la expresión de género, en términos de las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -2028,5 +2028,11 @@ P.O. 27 DE JULIO DE 2026.
 P.O. 17 DE AGOSTO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 687 - LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE PREVENCIÓN DE LA VIOLENCIA EN EL DEPORTE".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 711 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE IGUALDAD Y NO DISCRIMINACIÓN POR ORIENTACIÓN SEXUAL, IDENTIDAD DE GÉNERO Y EXPRESIÓN DE GÉNERO EN EL ÁMBITO DEPORTIVO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
