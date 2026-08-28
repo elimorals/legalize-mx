@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2026-08-17"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -181,6 +181,10 @@ También podrán implementar programas y proyectos de capacitación, dirigidos a
 
 De la misma manera, podrán implementar programas que promuevan en la comunidad escolar la cultura del respeto, solidaridad y compromiso social hacia las personas adultas mayores.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+Asimismo, la Secretaría y las autoridades educativas municipales, en el ámbito de sus atribuciones, podrán promover programas y acciones educativas que fomenten en la comunidad escolar el respeto, cuidado, protección y bienestar de los animales y de su hábitat, la tenencia responsable, así como la prevención del maltrato y la crueldad animal, conforme a las disposiciones aplicables.
+
 ###### Artículo 11.
 
 En la prestación de los servicios educativos se impulsará el desarrollo humano integral para que las personas que habitan en el Estado de Hidalgo puedan:
@@ -297,25 +301,25 @@ X BIS. Promover la economía social y solidaria, con el fin de propiciar el trab
 
 XI. Fomentar la enseñanza y aprendizaje integral del idioma inglés, sin menoscabo de la enseñanza del español y de lenguas indígenas;
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-XI BIS. Fomentar la cultura tributaria y el civismo fiscal; y
+XI BIS. Fomentar la cultura tributaria y el civismo fiscal;
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XIII.]</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+XII. Fomentar e inculcar la enseñanza y aprendizaje de educación financiera, de la cultura del ahorro y del emprendimiento;
 
-XII. Todos aquellos que contribuyen al bienestar y desarrollo del país y del Estado de Hidalgo.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XII.]</small>
+XIII. Desarrollar habilidades emocionales y socioemocionales que permitan al alumnado y profesorado adquirir conocimientos, prácticas y competencias emocionales que contribuyan al desarrollo integral de la personalidad;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-XIII. Todos aquellos que contribuyen al bienestar y desarrollo del país y del Estado de Hidalgo.
+XIV. Fomentar el respeto, cuidado, protección y bienestar de los animales y de su hábitat, así como la tenencia responsable, como parte de la formación integral y la prevención y erradicación del maltrato y la crueldad animal, y
 
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE AGOSTO DE 2026)</small>
 
-XIV. Desarrollar habilidades emocionales y socioemocionales que permitan al alumnado y al profesorado, adquirir conocimientos, prácticas y competencias emocionales que contribuyan a un desarrollo integral de la personalidad.
+XV. Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado de Hidalgo.
 
 ###### Artículo 15.
 
@@ -1001,6 +1005,12 @@ La Secretaría, en el ámbito de su competencia, promoverá la formación y capa
 
 Así mismo, fomentará la capacitación para el uso responsable de las tecnologías de la información y comunicación entre docentes.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+###### Artículo 71 Bis.
+
+La Secretaría, en el ámbito de sus atribuciones, promoverá acciones de alfabetización digital dirigidas especialmente a las personas adultas mayores, mediante actividades educativas y de capacitación orientadas al acceso, uso y aprovechamiento seguro de las tecnologías de la información y la comunicación, con el objeto de reducir las brechas digital y generacional y favorecer su integración social y comunitaria.
+
 ### CAPÍTULO IV. DE LA GUÍA OPERATIVA PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS SERVICIOS DE EDUCACIÓN BÁSICA Y MEDIA SUPERIOR
 
 ###### Artículo 72.
@@ -1263,11 +1273,17 @@ La Secretaría será quien efectuará las acciones necesarias para que los movim
 
 El sistema de administración de nómina deberá observar los criterios de control presupuestario de servicios personales, así como los principios de transparencia, publicidad y de rendición de cuentas, para lo cual la Secretaría, se coordinará con la Autoridad Educativa Federal y la Secretaría de Hacienda y Crédito Público. Los pagos se deberán realizar preferentemente mediante medios electrónicos.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 96 Bis.
 
-Las autoridades educativas promoverán medidas y protocolos que fomenten y procuren la protección y la salvaguarda de la dignidad, integridad física, emocional y profesional de las maestras y los maestros en el ejercicio de sus funciones, con la finalidad de prevenir, atender y combatir cualquier tipo de discriminación o violencia en su contra, en los términos de los artículos 91 y 92 de esta Ley.
+Las autoridades educativas promoverán medidas y protocolos que fomenten y procuren la protección y la salvaguarda de la dignidad, integridad física, emocional y profesional de las maestras y los maestros en el ejercicio de sus funciones, con la finalidad de prevenir, atender y combatir cualquier tipo de discriminación o violencia en su contra, incluida la violencia cibernética dentro o fuera de los planteles educativos, en los términos de los artículos 91 y 92 de esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+A efecto de lo anterior debe entenderse por violencia cibernética hacia el personal docente, a la ejercida en términos de la fracción I del artículo 13 de la Ley para la Prevención, Atención y Erradicación de Violencia Escolar en el Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 Además, podrán implementar programas de capacitación, orientación, canalización, atención, vigilancia y sensibilización en materia de respeto a las maestras y los maestros, con la finalidad de contribuir al pleno ejercicio del derecho a la educación y construir una cultura de paz en los centros educativos.
 
@@ -2732,5 +2748,23 @@ P.O. 6 DE AGOSTO DE 2026.
 P.O. 17 DE AGOSTO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 689 – LXVI POR EL QUE SE ADICIONA EL ARTÍCULO 117 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE PRESUNCIÓN DE INOCENCIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 696 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE ALFABETIZACIÓN DIGITAL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 709 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO Y DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN PARA EL RESPETO, CUIDADO Y PROTECCIÓN Y ANIMAL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 718 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 96 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, SOBRE VIOLENCIA CIBERNÉTICA HACIA EL PERSONAL DOCENTE".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
