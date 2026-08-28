@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-231-organica-del-poder-judicial-del-estado-de-177046
 country: "mx"
 rank: "ley"
 publication_date: "2025-01-29"
-last_updated: "2025-02-12"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=177046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 LEY NUMERO 231 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 12 DE FEBRERO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN GACETA OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 29 de enero de 2025.
 
@@ -353,9 +351,11 @@ XXII. Conocer de los demás asuntos que expresamente establezcan la Constitució
 
 #### SECCIÓN TERCERA. De la Presidencia del Tribunal Superior de Justicia
 
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 16.
 
-El Tribunal Superior será presidido por una Magistrada o Magistrado que no integrará Sala. La Presidencia se renovará cada tres años en términos de lo dispuesto por el segundo párrafo del artículo 57 de la Constitución Política del Estado.
+El Tribunal Superior será presidido por una Magistrada o Magistrado electo para integrar dicho órgano, que no integrará Sala. La Presidencia se renovará cada tres años en términos de lo dispuesto por el segundo párrafo del artículo 57 de la Constitución Política del Estado.
 
 ###### Artículo 17.
 
@@ -437,9 +437,11 @@ En caso de que el proyecto de la ponencia no resulte aprobado, otra Magistratura
 
 Las sesiones en las que se expongan y discutan los asuntos serán públicas, salvo en los casos en que la ley, la moral o el interés público exijan que sean privadas.
 
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 21.
 
-Las excusas o impedimentos para conocer de un asunto que presenten las y los Magistrados serán calificados y resueltos de inmediato por la Sala de su adscripción, y se comunicarán a la Presidencia del Tribunal Superior para proveer lo conducente a la suplencia, en la forma y términos previstos en esta Ley y el Reglamento.
+Las excusas o impedimentos para conocer de un asunto que presenten las y los Magistrados serán calificados y resueltos de inmediato por la Sala de su adscripción, y se comunicarán a la Presidencia del Tribunal Superior para proveer lo conducente a la suplencia, en la forma y términos previstos en esta Ley y el Reglamento del Tribunal Superior.
 
 ###### Artículo 22.
 
@@ -665,9 +667,11 @@ VIII. Conocer de los demás asuntos que expresamente establezcan la Constitució
 
 #### SECCIÓN CUARTA. De la Presidencia del Tribunal de Conciliación y Arbitraje
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 36.
 
-Ocupará la Presidencia del Tribunal de Conciliación, la candidatura que haya obtenido la mayor votación en la elección que corresponda, durará en el cargo dos años y se renovará de manera rotativa en función de la votación obtenida.
+Ocupará la Presidencia del Tribunal de Conciliación la Magistrada o el Magistrado electo para integrar dicho Tribunal que haya obtenido la mayor votación en la elección que corresponda; durará en el cargo dos años y se renovará de manera rotativa en función de la votación obtenida.
 
 La Presidencia del Tribunal de Conciliación tendrá las atribuciones siguientes:
 
@@ -763,7 +767,9 @@ El Tribunal de Disciplina funciona en Pleno y en Comisiones; y contará con los 
 
 El Tribunal de Disciplina se integrará por cinco Magistraturas electas por la ciudadanía a nivel estatal conforme al procedimiento y los requisitos establecidos en la Constitución Política del Estado.
 
-La Presidencia del Tribunal de Disciplina durará tres años, la ocupará la candidatura que haya obtenido la mayor votación en la elección que corresponda y se renovará de manera rotatoria en los términos señalados en la Constitución Política del Estado.
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+La Presidencia del Tribunal de Disciplina durará tres años, la ocupará la Magistrada o el Magistrado electo para integrar dicho Tribunal que haya obtenido la mayor votación en la elección que corresponda y se renovará de manera rotatoria en los términos señalados en la Constitución Política del Estado.
 
 ###### Artículo 41.
 
@@ -791,11 +797,13 @@ II. Órgano de Evaluación del Desempeño Judicial.
 
 El Órgano de Investigación tendrá a su cargo la investigación de los hechos u omisiones que puedan constituir responsabilidades administrativas de las personas que ejercen funciones jurisdiccionales en el Poder Judicial, en los términos establecidos en esta Ley, en los acuerdos generales que emita el propio Tribunal de Disciplina, así como en la Ley General de Responsabilidades Administrativas.
 
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 45.
 
-El Órgano de Evaluación será el competente de la evaluación y seguimiento del desempeño de los órganos jurisdiccionales del Poder Judicial, en los términos previstos en esta Ley y en los acuerdos generales que emita el propio Tribunal de Disciplina.
+El Órgano de Evaluación será competente para la evaluación y el seguimiento del desempeño de las Magistradas, los Magistrados, las Juezas, los Jueces y los órganos jurisdiccionales del Poder Judicial, en los términos previstos en esta Ley y en los acuerdos generales que emita el propio Tribunal de Disciplina.
 
-En todo caso, la evaluación deberá tener en cuenta elementos cualitativos y cuantitativos relacionados con el desempeño de los órganos jurisdiccionales. La función judicial comprende tanto la actividad propiamente jurisdiccional como la administrativa relacionada directamente con la impartición de justicia.
+En todo caso, la evaluación deberá tener en cuenta elementos cualitativos y cuantitativos relacionados con el desempeño individual y de los órganos jurisdiccionales, mediante indicadores verificables que consideren la materia, la carga de trabajo, las condiciones institucionales y el respeto a la independencia judicial. La función judicial comprende tanto la actividad propiamente jurisdiccional como la administrativa relacionada directamente con la impartición de justicia.
 
 #### SECCIÓN SEGUNDA. De sus resoluciones
 
@@ -969,9 +977,13 @@ El Órgano de Evaluación podrá aplicar los métodos de evaluación que estime 
 
 Los procesos de evaluación del desempeño serán las evaluaciones ordinarias, extraordinarias y de seguimiento.
 
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 73.
 
-El Órgano de Evaluación podrá realizar el procedimiento de evaluación ordinaria al desempeño de las Magistradas, Magistrados, Juezas y Jueces con posterioridad a los primeros noventa días naturales desde su toma de protesta, y con anterioridad a que concluya el primer año de su mandato.
+El Órgano de Evaluación realizará el procedimiento de evaluación ordinaria del desempeño de las Magistradas, los Magistrados, las Juezas y los Jueces una vez transcurridos los primeros noventa días naturales desde su toma de protesta y antes de que concluya el primer año de su mandato. La evaluación tendrá como finalidad identificar necesidades de capacitación y fortalecer la calidad de la función jurisdiccional.
+
+La metodología, los criterios, los indicadores y las etapas de la evaluación deberán aprobarse y publicarse previamente. La persona evaluada tendrá derecho de audiencia, acceso al expediente y oportunidad de formular manifestaciones respecto de los resultados obtenidos. La evaluación no podrá alterar el resultado de la elección ni constituir, por sí misma, causa de remoción. Sus resultados producirán los efectos previstos en los artículos 74 a 81 de esta Ley.
 
 ###### Artículo 74.
 
@@ -1551,11 +1563,21 @@ La integración de los juzgados Mixtos, será similar a la de los Civiles y Merc
 
 #### SECCIÓN TERCERA. De los requisitos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 116.
 
-Las Juezas y Jueces de Primera Instancia se elegirán por el principio de mayoría relativa, a través de sufragio universal, libre, secreto, directo personal e intransferible; durarán en su encargo nueve años, podrán ser reelectos y, si lo fueren, solo podrán ser privados de sus cargos en términos del Título Quinto de la Constitución Política del Estado de Veracruz, salvo que se ausenten de manera definitiva, dejen de cumplir con los requisitos señalados para ser Jueza o Juez o, se actualicen los supuestos previstos para el retiro forzoso o por resolución del Tribunal de Disciplina.
+Las Juezas y Jueces de Primera Instancia se elegirán por el principio de mayoría relativa, en una sola circunscripción estatal y atendiendo a la materia o especialidad del cargo, a través de sufragio universal, libre, secreto, directo, personal e intransferible; durarán en su encargo nueve años, podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus cargos en términos del Título Quinto de la Constitución Política del Estado de Veracruz, salvo que se ausenten de manera definitiva, dejen de cumplir con los requisitos señalados para ser Jueza o Juez, se actualicen los supuestos previstos para el retiro forzoso o exista resolución del Tribunal de Disciplina.
 
 Los requisitos e impedimentos, para ser Jueza o Juez de Primera Instancia, serán los señalados por la Constitución Política del Estado.
+
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+###### Artículo 116 Bis.
+
+Dentro de los tres días hábiles siguientes a la toma de protesta, el Órgano de Administración Judicial realizará la adscripción de las Juezas y los Jueces electos. La adscripción deberá corresponder a la materia o especialidad para la cual fueron electos y atender las necesidades del servicio, sin alterar el resultado de la elección.
+
+Sólo por causa extraordinaria, debidamente fundada y motivada, podrá realizarse una adscripción temporal en una materia afín, por el plazo estrictamente necesario y sin exceder de seis meses.
 
 ###### Artículo 117.
 
@@ -1723,7 +1745,9 @@ IX. Tener bajo su custodia las salas de audiencia, así como los bienes asignado
 
 X. Custodiar los bienes y valores que se encuentren a disposición del órgano jurisdiccional con motivo de la tramitación de los asuntos sometidos a su conocimiento;
 
-XI. Entregar y recibir bajo inventario los bienes y valores a que se refieren las fracciones X y XI de este artículo;
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2026)</small>
+
+XI. Entregar y recibir bajo inventario los bienes y valores a que se refieren las fracciones IX y X de este artículo;
 
 XII. Convocar a las partes para que concurran a audiencia en aquellos casos en que la ley establezca que la autoridad judicial deba convocar a una audiencia y no sea necesaria una valoración judicial previa, respecto a la necesidad de celebrarla; y
 
@@ -1867,6 +1891,12 @@ Las ausencias a que se refieren las fracciones II, III y IV se concederán sin g
 
 Las mismas disposiciones, en lo conducente, aplicarán para quienes integren el Órgano de Administración.
 
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+###### Artículo 150 Bis.
+
+Las licencias de las Juezas y los Jueces de Primera Instancia que excedan de un mes serán resueltas por el Órgano de Administración Judicial, sin goce de sueldo y por causa justificada. No podrán otorgarse con carácter indefinido ni modificar la duración constitucional del encargo.
+
 ###### Artículo 151.
 
 En sus ausencias o licencias temporales y para efectos de integrar Sala o Tribunal, las Magistradas y Magistrados serán suplidos:
@@ -1883,13 +1913,27 @@ Cuando la falta de una Magistrada o Magistrado, Jueza o Juez, de temporal se con
 
 I. La Presidencia del órgano al que pertenezca lo hará del conocimiento del Órgano de Administración; y
 
-II. El Órgano de Administración, lo acordará e incluirá la vacante en el informe señalado en el artículo 59, fracción I de la Constitución Política del Estado.
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2026)</small>
+
+II. El Órgano de Administración lo acordará e incluirá la vacante en el informe señalado en el artículo 59, fracción I, de la Constitución Política del Estado, y la comunicará de inmediato al Congreso del Estado y a la autoridad electoral competente.
 
 En lo conducente, se observará el mismo procedimiento en el caso de ausencias definitivas de integrantes del Órgano de Administración.
 
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+###### Artículo 152 Bis.
+
+La Magistrada, el Magistrado, la Jueza o el Juez que pretenda contender por un cargo de elección judicial distinto al que ocupa deberá separarse mediante renuncia expresa e irrevocable, en los términos y plazos previstos en la Constitución y en la legislación electoral.
+
+La postulación para el mismo cargo no exigirá renuncia, sin perjuicio de las reglas electorales aplicables.
+
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 153.
 
-El Órgano de Administración resolverá sobre los casos de renuncia, licencia, ausencia temporal y falta definitiva del personal que integre los Tribunales, Juzgados de Primera Instancia y órganos administrativos, con excepción de Magistradas, Magistrados, Juezas y Jueces.
+El órgano de administración judicial resolverá sobre los casos de renuncia, licencia, ausencia temporal y falta definitiva del personal que integre los Tribunales, los Juzgados de Primera Instancia y los órganos administrativos, con excepción de Magistradas y Magistrados.
+
+Tratándose de Juezas y Jueces, el órgano de administración judicial resolverá sobre sus licencias y ausencias temporales conforme a esta Ley; recibirá las renuncias, incluidas las previstas en el artículo 152 Bis, y las remitirá de inmediato al Congreso del Estado para los efectos constitucionales y legales conducentes; y declarará y comunicará las faltas definitivas y vacantes en los términos de los artículos 152 y 174 Bis de esta Ley.
 
 ###### Artículo 154.
 
@@ -2049,9 +2093,11 @@ El Órgano de Administración se integrará por cinco personas en los términos 
 
 Cada integrante del Órgano de Administración contará con las Secretarías de Estudio y Cuenta, así como Oficiales Judiciales, necesarios para el ejercicio de sus atribuciones, de conformidad con la disponibilidad presupuestal.
 
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 168.
 
-La Presidencia del Órgano de Administración será designada mediante insaculación, durará dos años en el encargo y ejercerá las atribuciones que le confiere el artículo 184 de esta Ley.
+La Presidencia del Órgano de Administración Judicial durará tres años y será rotatoria entre sus integrantes. Al inicio de cada periodo, el Pleno del Órgano de Administración Judicial determinará mediante insaculación pública quién la ejercerá entre las personas integrantes que no la hayan ocupado durante su encargo. La Presidencia ejercerá las atribuciones que le confiere el artículo 184 de esta Ley.
 
 ###### Artículo 169.
 
@@ -2071,9 +2117,11 @@ Las sesiones ordinarias del Pleno del Órgano de Administración serán privadas
 
 El Pleno del Órgano de Administración podrá sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes. Dicha solicitud deberá presentarse a la Presidencia del propio Órgano de Administración a fin de que emita la convocatoria correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 173.
 
-Las resoluciones del Pleno del Órgano de Administración se tomarán por el voto de la mayoría de las y los integrantes presentes, y por mayoría calificada de cuatro votos tratándose de los casos previstos en las fracciones I, II, XI, XIII, XIV, XV, XVI, XVII, XL, XLII, XLIV, XLV y XLIX, del artículo 174 de esta Ley.
+Las resoluciones del Pleno del Órgano de Administración Judicial se tomarán por el voto de la mayoría de las y los integrantes presentes, y por mayoría calificada de cuatro votos tratándose de los casos previstos en las fracciones I, II, XI, XIII, XIV, XV, XVI, XVII, XL, XLII, XLIV y XLV del artículo 174 de esta Ley.
 
 Las y los integrantes no podrán abstenerse de votar sino cuando tengan impedimento legal o cuando no hayan asistido a la discusión del asunto de que se trate. En caso de empate, la Presidencia tendrá voto de calidad.
 
@@ -2097,7 +2145,9 @@ IV. Adscribir a las Juezas y Jueces de Primera Instancia a los Juzgados correspo
 
 V. Cambiar la residencia de los Juzgados de Primera Instancia;
 
-VI. Regular las autorizaciones para abandonar el lugar de residencia de las y los funcionarios judiciales a que se refiere el artículo 158 de esta Ley;
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2026)</small>
+
+VI. Regular las autorizaciones para abandonar el lugar de residencia de las y los funcionarios judiciales a que se refiere el artículo 157 de esta Ley;
 
 VII. Dictar las disposiciones necesarias para regular el turno de los asuntos de los Juzgados de Primera Instancia, cuando en un mismo lugar haya varios de ellos;
 
@@ -2113,11 +2163,15 @@ XII. Dictar medidas como las relativas al cambio de adscripción, cambio de órg
 
 XIII. Aplicar y ejecutar las medidas provisionales necesarias que permitan la efectiva substanciación de cualquier proceso de investigación, por sí, o a solicitud del Tribunal de Disciplina;
 
-XIV. Hacer del conocimiento del Congreso del Estado los cargos sujetos a elección, la cantidad de plazas disponibles para cada cargo, la especialización por materia, el distrito judicial respectivo y demás información que se requiera;
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2026)</small>
+
+XIV. Hacer del conocimiento del Congreso del Estado dentro de los primeros diez días del mes de abril del año anterior al de la elección judicial, los cargos sujetos a elección, la cantidad de plazas disponibles para cada cargo, la especialización por materia, el distrito judicial respectivo y demás información que se requiera;
 
 XV. Resolver sobre las renuncias que presenten las personas servidoras públicas del Poder Judicial, con excepción de Magistradas, Magistrados, Juezas y Jueces;
 
-XVI. Recibir las renuncias que presenten Magistradas, Magistrados, Juezas y Jueces y remitirlas al Congreso del Estado, para los efectos legales procedentes;
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2026)</small>
+
+XVI. Recibir las renuncias que presenten Magistradas, Magistrados, Juezas y Jueces y remitirlas al Congreso del Estado, para los efectos legales procedentes, así como realizar las comunicaciones electorales que correspondan;
 
 XVII. Acordar el retiro por término de mandato de las personas juzgadoras del Poder Judicial;
 
@@ -2127,7 +2181,9 @@ XIX. Establecer las disposiciones generales necesarias para el ingreso, estímul
 
 XX. Determinar las disposiciones generales necesarias para el ingreso, permanencia y separación del personal de carrera judicial y administrativo;
 
-XXI. Conocer y autorizar las licencias, con o sin goce de sueldo, para todas las personas servidoras públicas del Poder Judicial, con excepción de los cargos de Magistradas y Magistrados;
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2026)</small>
+
+XXI. Conocer y autorizar las licencias, con o sin goce de sueldo, para todas las personas servidoras públicas del Poder Judicial, con excepción de los cargos de Magistradas y Magistrados; tratándose de Juezas y Jueces, se estará a lo dispuesto en el artículo 150 Bis de esta Ley;
 
 XXII. Designar a servidoras y servidores públicos para desempeñar funciones jurisdiccionales, en caso de ausencia de Juezas y Jueces;
 
@@ -2176,6 +2232,14 @@ XLIII. Formar anualmente una lista con los nombres de las personas que puedan pe
 XLIV. Generar y coordinar una política estatal de difusión de la cultura jurídica y el respeto al estado de derecho; y
 
 XLV. Desempeñar cualquier otra función que la ley encomiende al Órgano de Administración.
+
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+###### Artículo 174 Bis.
+
+Para efectos de la elección judicial, el órgano de administración judicial integrará y mantendrá actualizado un informe de cargos que contendrá, por cada plaza, la denominación del cargo, órgano jurisdiccional, materia o especialidad, distrito judicial, periodo constitucional, situación de vacancia y fecha en que deba renovarse.
+
+El informe se remitirá al Congreso del Estado dentro de los primeros diez días del mes de abril del año anterior al de la elección judicial y se actualizará dentro de los cinco días hábiles siguientes a cualquier modificación. Se publicará una versión que proteja los datos personales y la información legalmente reservada.
 
 ###### Artículo 175.
 
@@ -2262,6 +2326,12 @@ El Secretariado Ejecutivo del Pleno, a través de la Junta de Coordinación, aux
 ###### Artículo 187.
 
 Corresponderá al Secretariado Ejecutivo del Pleno del Órgano de Administración presentar quejas o denuncias ante el Tribunal de Disciplina, así como proporcionarle, de oficio o cuando el Tribunal de Disciplina formalmente lo requiera, la información y documentación que pueda constituir indicio o ·medios de prueba en la investigación y determinación de responsabilidades administrativas de las personas trabajadoras del Poder Judicial.
+
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+###### Artículo 187 Bis.
+
+Corresponderá al Secretariado Ejecutivo del Pleno del órgano de administración judicial certificar las copias o reproducciones de las actas, acuerdos, resoluciones, constancias, documentos, correspondencia y expedientes de naturaleza administrativa que obren bajo su resguardo.
 
 #### SECCIÓN QUINTA. De las comisiones
 
@@ -2675,7 +2745,9 @@ VII. Designar los peritos que se requieran para la formulación de los dictámen
 
 VIII. Desarrollar todas las funciones que sean necesarias en los asuntos de su competencia; y
 
-X (sic). Las demás que expresamente le sean conferidas por la persona titular de la Dirección de Asuntos Jurídicos.
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2026)</small>
+
+IX. Las demás que expresamente le sean conferidas por la persona titular de la Dirección de Asuntos Jurídicos.
 
 #### SECCIÓN DÉCIMA SEGUNDA. De la Junta General de Coordinación Judicial
 
@@ -2881,7 +2953,9 @@ SEGUNDO. Se abroga la Ley 615 Orgánica del Poder Judicial del Estado de Veracru
 
 TERCERO. Hasta en tanto las Magistradas y Magistrados electos en el proceso electoral extraordinario 2024-2025 tomen protesta y las y los integrantes del Órgano de Administración Judicial entren en funciones, la conformación actual del Poder Judicial se regirá para todos los efectos por las atribuciones, competencias, obligaciones, reglas de votación, faltas, licencias, nombramientos, designaciones, régimen de organización y operación y demás disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave que se abroga.
 
-CUARTO. El número de magistraturas señaladas para integrar los Tribunales Superior de Justicia y de Conciliación y Arbitraje, precisados en los artículos 9 y 32 de la presente Ley, respectivamente, será efectivo cuando se haya realizado la renovación completa de dichos órganos, es decir, una vez culminado el Proceso Electoral Ordinario 2026-2027; en tanto, el Pleno del Tribunal Superior de Justicia, por única ocasión, podrá realizar los ajustes necesarios para garantizar el adecuado funcionamiento de los mismos, incluyendo la implementación de medidas administrativas y organizacionales, así como la adscripción y readscripción de las titularidades reguladas bajo el modelo anterior al Decreto número 227 por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del Estado el veintisiete de diciembre de dos mil veinticuatro.
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2026)</small>
+
+CUARTO. El número de magistraturas señaladas para integrar los Tribunales Superior de Justicia y de Conciliación y Arbitraje, precisados en los artículos 9 y 32 de la presente Ley, respectivamente, será efectivo cuando se haya realizado la renovación completa de dichos órganos, es decir, una vez culminado el Proceso Electoral Ordinario 2026-2028; en tanto, el Pleno del Tribunal Superior de Justicia, por única ocasión, podrá realizar los ajustes necesarios para garantizar el adecuado funcionamiento de los mismos, incluyendo la implementación de medidas administrativas y organizacionales, así como la adscripción y readscripción de las titularidades reguladas bajo el modelo anterior al Decreto número 227 por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del Estado el veintisiete de diciembre de dos mil veinticuatro.
 
 QUINTO. A partir de la entrada en vigor de la presente Ley, el Consejo de la Judicatura determinará, mediante acuerdo general, la organización, plan, bases y medidas del régimen de transición y transferencia de los recursos humanos, materiales, financieros y presupuestales a los distintos órganos y áreas del Poder Judicial, de acuerdo con las atribuciones señaladas en la presente Ley.
 
@@ -2932,3 +3006,17 @@ FELIPE PINEDA BARRADAS
 DIPUTADO SECRETARIO
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 535 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial, el Tribunal de Conciliación y Arbitraje y el Órgano de Administración Judicial deberán adecuar sus reglamentos, acuerdos generales, manuales y sistemas de registro dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. Por única ocasión, las Magistradas y los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, así como las Juezas y los Jueces de Primera Instancia que resulten electos en la elección judicial del año dos mil veintiocho, durarán en su encargo ocho años, el cual concluirá el treinta y uno de agosto del año dos mil treinta y seis.
