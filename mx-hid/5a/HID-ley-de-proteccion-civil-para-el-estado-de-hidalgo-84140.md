@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2026-07-27"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -1051,7 +1051,9 @@ Con el propósito de fomentar dicha cultura, las autoridades Educativas, dentro 
 
 I.- Incorporar contenidos temáticos de protección civil en todos los niveles educativos públicos y privados, considerándola como asignatura obligatoria;
 
-II.- Impulsar programas dirigidos a la población en general que le permita conocer de forma clara mecanismos de prevención y autoprotección;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+II.- Impulsar programas dirigidos a la población en general que, con criterios de claridad, accesibilidad e inclusión, permitan conocer los mecanismos de prevención y autoprotección;
 
 III.- Elaborar, estructurar y promocionar campañas de difusión sobre temas de su competencia relacionados con la protección civil; y
 
@@ -1460,3 +1462,9 @@ P.O. 27 DE JULIO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Las autoridades estatales y municipales competentes en materia de protección civil deberán, en el ámbito de sus atribuciones, adecuar progresivamente sus programas, protocolos y acciones de protección civil para dar cumplimiento a lo dispuesto en el presente Decreto, conforme a su disponibilidad presupuestaria.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 719 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 50 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE ACCESIBILIDAD E INCLUSIÓN EN PROGRAMAS DE PREVENCIÓN Y AUTOPROTECCIÓN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
