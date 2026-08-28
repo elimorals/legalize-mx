@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2026-07-08"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -75,7 +75,9 @@ I.- El Ejecutivo Estatal, a través de las Secretarías que integran la Administ
 
 II.- La familia de los adultos mayores vinculados por el parentesco de conformidad con lo que disponga la legislación de la materia; y
 
-III.- Los ciudadanos, la sociedad civil y los sectores público y privado, mediante la celebración de convenios o acuerdos de colaboración entre sí y con las instancias, Estatales y Municipales para lograr los objetivos o fines de esta Ley.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+III.- Las personas, la sociedad civil y los sectores público, social y privado, mediante la celebración de convenios o acuerdos de colaboración entre sí y con las instancias estatales y municipales, así como con las y los notarios públicos y quienes, por disposición legal, ejerzan funciones notariales, en el ámbito de sus atribuciones y conforme a la legislación aplicable, para lograr los objetivos y fines de esta Ley.
 
 ###### Artículo 4.
 
@@ -114,6 +116,18 @@ X.- Instituto.- Instituto para la Atención de los Adultos Mayores del Estado de
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
 
 XI.- Abandono: La falta de acción deliberada o no para atender de manera integral las necesidades de una persona adulta mayor, que ponga en peligro su vida o su integridad física, psicológica o moral, obstaculizando con ello el goce o ejercicio de sus derechos.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XI Bis.- Abandono familiar: La omisión injustificada de los deberes de cuidado, asistencia, apoyo o protección hacia una persona adulta mayor por parte de familiares o personas obligadas a proporcionarlos, cuando afecte o ponga en riesgo su integridad, salud, seguridad, patrimonio o derecho a una vida digna;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XI Ter.- Abandono institucional: La omisión, negligencia, desatención o falta de cuidado adecuado hacia una persona adulta mayor por parte de instituciones públicas, privadas o sociales que tengan bajo su responsabilidad su atención, guarda, cuidado, alojamiento, tratamiento, asistencia o protección, cuando ello afecte o ponga en riesgo su integridad, salud, bienestar, seguridad o dignidad;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XI Quáter.- Abandono social: La situación de aislamiento, exclusión, marginación o ausencia de redes de apoyo que afecte a una persona adulta mayor y limite el ejercicio de sus derechos, su bienestar, integración comunitaria, seguridad o derecho a una vida digna;
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -215,11 +229,15 @@ I.- La Integridad, Dignidad y Preferencia.- A una vida plena con calidad; a vivi
 
 II.- Certeza Jurídica.- Recibir un trato digno y apropiado en cualquier procedimiento judicial de las Instituciones Federales, Estatales y Municipales en el ejercicio y respeto de sus derechos; a recibir asesoría jurídica en forma gratuita en los procedimientos judiciales y administrativos y podrá contar con un representante legal cuando sea necesario; En los procedimientos que señala el párrafo anterior, tendrá especial atención la protección de su patrimonio personal y familiar y cuando sea el caso, testar sin presiones ni violencia principalmente por parte de familiares que se beneficien por esto;
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+En los actos jurídicos de naturaleza notarial que involucren la disposición o transmisión de bienes, el otorgamiento de testamento u otras decisiones patrimoniales, las personas adultas mayores tendrán derecho a recibir información clara, accesible, suficiente y comprensible sobre sus alcances y consecuencias jurídicas, de conformidad con la legislación aplicable.
+
 Así mismo recibirá información referente a los derechos laborales contemplados en la Ley Federal del Trabajo y demás ordenamientos legales aplicables;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-III.- Derecho a la salud y a una alimentación nutritiva, suficiente y de calidad.- Tener acceso a los servicios generales de salud; recibir orientación en materia de nutrición, higiene y servicios de Geriatría, Gerontología y Tanatología, en su caso, así como a todo aquello que favorezca su cuidado personal;
+III.- Derecho a la salud y a una alimentación nutritiva, suficiente y de calidad.- Tener acceso a los servicios generales de salud; recibir orientación en materia de nutrición, higiene y cuidado personal; y acceder, en su caso, a servicios de Geriatría, Gerontología y Tanatología, cuidados paliativos y atención integral, en términos de esta Ley y demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2018)</small>
 
@@ -321,13 +339,17 @@ XX.- Derecho a la independencia y a la autonomía.- La persona adulta mayor tien
 
 XXI.- Derecho de acceso a la cultura.- La persona adulta mayor tiene derecho a participar en la vida cultural del Estado, al disfrute de los bienes y servicios culturales, así como a una identidad cultural; asimismo tiene derecho a participar de los beneficios del progreso científico y tecnológico y a transmitir sus conocimientos, habilidades y experiencias en el ámbito científico, cultural y artístico, en cualquiera de los contextos que se desarrolle;
 
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-XXII.- Derecho a un medio ambiente sano.- La persona adulta mayor tiene derecho a vivir en un medio ambiente sano para su desarrollo y bienestar; a contar con servicios públicos básicos de agua potable y saneamiento en forma suficiente, saludable y asequible, entre otros; y
+XXII.- Derecho a un medio ambiente sano.- La persona adulta mayor tiene derecho a vivir en un medio ambiente sano para su desarrollo y bienestar; a contar con servicios públicos básicos de agua potable y saneamiento en forma suficiente, saludable y asequible, entre otros;
 
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-XXIII.- Derecho a la accesibilidad.- La persona adulta mayor tiene derecho a la accesibilidad al entorno físico, social, económico y cultural, así como a la movilidad personal en igualdad de condiciones.
+XXIII.- Derecho a la accesibilidad.- La persona adulta mayor tiene derecho a la accesibilidad al entorno físico, social, económico y cultural, así como a la movilidad personal en igualdad de condiciones, y
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XXIV.- Derecho a la tecnología.- La persona adulta mayor tiene derecho a acceder, usar y aprovechar las tecnologías de la información y la comunicación; a recibir educación y capacitación para el desarrollo de habilidades digitales; a crear, consultar, producir y difundir contenidos en medios digitales; así como a utilizar dispositivos electrónicos, redes de comunicación y servicios de radiodifusión y telecomunicaciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -399,6 +421,10 @@ Cualquier persona física, moral, asociación, sociedad, instituto u organismo p
 
 El Estado garantizará las condiciones óptimas de salud, educación, nutrición, vivienda, desarrollo integral y seguridad social a las personas adultas mayores con el fin de lograr plena calidad de vida para su vejez. Promoverá la Publicación y difusión de esta Ley para que la sociedad en general y las familias respeten a las personas adultas mayores e invariablemente otorguen el reconocimiento a su dignidad.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+Cuando, por sus condiciones físicas, mentales, familiares o sociales, o por encontrarse en situación de abandono, maltrato, abuso o vulnerabilidad, requieran asistencia para su protección y bienestar, las autoridades estatales y municipales competentes, en el ámbito de sus atribuciones, brindarán a las personas adultas mayores orientación, atención y, en su caso, canalización, de conformidad con esta Ley y demás disposiciones aplicables.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MAYO DE 2021)</small>
 
 ### CAPÍTULO IV. POLÍTICA PÚBLICA A FAVOR DE LAS PERSONAS ADULTAS MAYORES
@@ -429,9 +455,11 @@ V.- Establecer las bases para la planeación y la concertación de acciones entr
 
 VI.- Impulsar la atención integral e institucional de los sectores público y privado, con enfoque interseccional, de conformidad a los ordenamientos de regulación y vigilar el funcionamiento de los programas y servicios de acuerdo a las características de este grupo social;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
 
-VI Bis.- Promover que los sectores público, privado y social que brinden servicios a las personas adultas mayores mediante el uso de las tecnologías de la información y la comunicación, les otorguen apoyo y asesoría directa, cuando sea requerida por la persona adulta mayor.
+VI Bis.- Promover que los sectores público, privado y social que brinden servicios a las personas adultas mayores mediante el uso de las tecnologías de la información y la comunicación, así como de aplicaciones e innovaciones tecnológicas, otorguen apoyo y asesoría directa cuando sea requerida por las personas adultas mayores, a fin de facilitar la realización de trámites y el acceso a servicios que contribuyan a su bienestar.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 En su caso, estos sectores podrán contar con módulos de orientación presencial dirigidos a las personas adultas mayores para la realización de los trámites correspondientes, procurando dar la mayor difusión posible.
 
@@ -659,9 +687,13 @@ XVII.- Establecer convenios con universidades públicas y privadas para el desar
 
 XVIII.- Fomentar se amplié la red de atención a las personas adultas mayores, a través de convenios con instituciones del sector salud privadas y/o sociales autorizadas;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-XIX.- Canalizar a las personas adultas mayores en situación de vulnerabilidad social o familiar con las instituciones pertinentes; y
+XIX. Brindar orientación y asistencia a las personas adultas mayores que acudan solas a solicitar atención médica y, cuando se advierta una situación de abandono, maltrato, abuso o vulnerabilidad, dar aviso y canalizarlas a las autoridades competentes, de conformidad con los protocolos y disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XIX Bis. Promover, conforme a la disponibilidad presupuestaria, acciones de orientación, acompañamiento y capacitación dirigidas a las personas que realicen tareas de cuidado de personas adultas mayores, incluidas sus familiares, para fortalecer conocimientos y habilidades que favorezcan un cuidado digno, seguro y respetuoso; y
 
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
@@ -699,9 +731,13 @@ VI.- Crear y facilitar el acceso a la expresión a las personas adultas mayores 
 
 VII.- Diseñar programas para efectuar concursos en los que participen activamente las personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2026)</small>
 
-VIII.- Garantizar la educación para las personas adultas mayores, que comprenderá: alfabetización, educación primaria, secundaria, y educación para la vida y el trabajo;
+VIII.- Garantizar la educación para las personas adultas mayores, que comprenderá: alfabetización, alfabetización digital, educación primaria, secundaria y educación para la vida y el trabajo.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+La alfabetización digital tendrá por finalidad desarrollar conocimientos y habilidades para el acceso, uso y aprovechamiento seguro de las tecnologías de la información y la comunicación, con el objeto de favorecer la autonomía, la inclusión social y comunitaria y el ejercicio pleno de los derechos de las personas adultas mayores;
 
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
 
@@ -791,7 +827,9 @@ Al Sistema para el Desarrollo Integral de la Familia del Estado, le corresponde:
 
 I.- Los servicios de asistencia y orientación jurídica en forma gratuita, en especial aquellos que se refieren a la seguridad de su patrimonio, en materia de alimentos y testamentaria;
 
-II.- Realizar programas de prevención, atención y protección para las personas adultas mayores en situación de riesgo, desamparo, marginación, maltrato y abandono, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+II.- Realizar programas de prevención, atención, protección, orientación y, en su caso, canalización de las personas adultas mayores que se encuentren en situación de riesgo, desamparo, marginación, maltrato, abandono familiar, institucional o social, procurando su permanencia o reintegración en un entorno familiar seguro, cuando sea posible, resulte acorde con su voluntad y no represente riesgo para su integridad, o su alojamiento en instituciones adecuadas, de conformidad con las disposiciones aplicables;
 
 III.- Promover, mediante la vía conciliatoria, la solución de conflictos familiares y si es el caso, asistir a las personas adultas mayores, cuando no se trate de delitos tipificados por el Código Penal;
 
@@ -1350,5 +1388,25 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
 P.O. 8 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 585 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 21 Y SE ADICIONA UNA FRACCIÓN XII BIS AL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE ATENCIÓN MÉDICA INTEGRAL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 696 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE ALFABETIZACIÓN DIGITAL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 706 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN INTEGRAL, CUIDADOS, ASISTENCIA Y SEGURIDAD JURÍDICA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La implementación de las disposiciones previstas en este Decreto se realizará con cargo a los recursos humanos, materiales y presupuestarios aprobados a las autoridades competentes, por lo que no implicará la creación de estructuras administrativas ni la autorización de recursos adicionales.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 714 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 7 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE CUIDADOS PALIATIVOS Y ATENCIÓN INTEGRAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
