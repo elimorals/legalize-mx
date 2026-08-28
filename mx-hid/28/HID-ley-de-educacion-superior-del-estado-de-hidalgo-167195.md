@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-superior-del-estado-de-hidalgo-167195"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-03"
-last_updated: "2026-07-06"
+last_updated: "2026-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance Catorce del Número 31 del Periódico Oficial del Estado de Hidalgo, el jueves 3 de agosto de 2023.
 
@@ -711,11 +711,19 @@ XIV. La erradicación de cualquier circunstancia social, educativa, económica, 
 
 XV. La formación integral para el desarrollo de habilidades blandas, que contribuyan a que los egresados de educación superior se incorporen de manera efectiva al ejercicio de su profesión;
 
-> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2026)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2026)</small>
 
-XVI. La promoción de programas permanentes e interinstitucionales de desarrollo socioemocional que incluyan formación en manejo del estrés, control de impulsos, regulación emocional, comunicación asertiva, prevención de violencia y resolución pacífica de conflictos. Estos programas deberán evaluarse periódicamente y contar con la participación de especialistas en salud mental y educación socioemocional, y
+XVI. La promoción de programas permanentes e interinstitucionales de desarrollo socioemocional que incluyan formación en manejo del estrés, control de impulsos, regulación emocional, comunicación asertiva, prevención de violencia y resolución pacífica de conflictos. Estos programas deberán evaluarse periódicamente y contar con la participación de especialistas en salud mental y educación socioemocional;
 
-XVII. Todas aquellas que contribuyan al logro de los criterios, fines y políticas de la educación superior.
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2026)</small>
+
+XVII. Políticas públicas transversales encaminadas al arraigo laboral y emprendedor de las y los egresados, que fomenten un entorno competitivo, proyectos de base tecnológica e innovación, procurando que su desarrollo, consolidación e impacto socioeconómico permanezcan en el territorio estatal; y
+
+XVIII. Todas aquellas que contribuyan al logro de los criterios, fines y políticas de la educación superior.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)</small>
+
+Establecer mecanismos para prevenir que las patentes y proyectos de innovación desarrollados en Hidalgo sean registrados o explotados fuera del estado, favoreciendo su permanencia y aprovechamiento local.
 
 ###### Artículo 40.
 
@@ -1490,5 +1498,11 @@ P.O. 7 DE ENERO DE 2026.
 P.O. 6 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 654 - LXVI POR EL QUE SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 35 DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO, EN MATERIA DE INNOVACIÓN, PROFESIONALIZACIÓN Y MOVILIDAD ACADÉMICA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 704 – LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 39 DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN DE POLÍTICAS PÚBLICAS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
