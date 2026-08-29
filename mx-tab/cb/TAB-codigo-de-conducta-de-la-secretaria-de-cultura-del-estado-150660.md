@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-la-secretaria-de-cultura-del-estado-15066
 country: "mx"
 rank: "codigo"
 publication_date: "2021-04-21"
-last_updated: "2021-04-21"
+last_updated: "2026-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE CULTURA DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE CULTURA DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 29 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE CULTURA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 21 de abril de 2021.
 
@@ -520,3 +522,15 @@ En Villahermosa, Tabasco a los _____ días del mes de ________ del año ___.
 PROTESTO LO NECESARIO
 
 Nombre y firma
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE CULTURA DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Código de Conducta de la Secretaría de Cultura, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se abroga el Código de Conducta de la Secretaría de Cultura, publicado en el suplemento B del Periódico Oficial del Estado de Tabasco 4488, edición 8204, de fecha 21 de abril de 2021.
+
+TERCERO.- Todas las personas servidoras públicas de la Secretaría de Cultura, deberán suscribir ante el órgano de Control Interno la Carta Compromiso de cumplimiento al Código de Ética e Integridad para un Buen Gobierno en la Administración Pública Estatal y del Código de Conducta correspondiente.
