@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2026-07-01"
+last_updated: "2026-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2026.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -669,11 +669,11 @@ Las sesiones de los Ayuntamientos serán presididas por la persona titular de la
 
 El recinto del Ayuntamiento es inviolable. Toda fuerza pública, está impedida para tener acceso al mismo, salvo con el permiso de la persona titular de la Presidencia Municipal, en cuyo caso estará a cargo de ésta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 22.
 
-El Ayuntamiento como órgano deliberante, deberá resolver los asuntos de su competencia colegiadamente y, al efecto, celebrará sesiones públicas ordinarias o extraordinarias, mismas que procurarán transmitirse en vivo y, en su caso, estar disponibles desde su portal oficial de internet, en algún medio electrónico o plataforma digital a su alcance. Previo acuerdo de la mayoría de sus integrantes, las sesiones podrán ser privadas cuando así se justifique.
+El Ayuntamiento como órgano deliberante, deberá resolver los asuntos de su competencia colegiadamente y, al efecto, celebrará sesiones públicas ordinarias o extraordinarias, mismas que se transmitirán en vivo desde su portal oficial de internet o por la plataforma tecnológica disponible, y almacenadas para su consulta en el servicio digital que se encuentre al alcance de cada Ayuntamiento. Previo acuerdo de la mayoría de sus integrantes, las sesiones podrán ser privadas cuando así se justifique.
 
 Las sesiones ordinarias se celebrarán periódicamente en las fechas y lugar que para tal efecto se establezcan en la primera sesión de Cabildo de cada nueva gestión. Habrá por lo menos, dos sesiones ordinarias cada mes.
 
@@ -6116,3 +6116,19 @@ P.O. 1 DE JULIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFCOD/0502/2026 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 22, PRIMER PÁRRAFO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintisiete.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de la Entidad harán las previsiones necesarias para el cumplimiento del presente Decreto, en cuanto a los aspectos presupuestales y organizativos a que hubiera lugar.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado.
