@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2026-04-15"
+last_updated: "2026-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2026.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -544,6 +544,10 @@ Cuando esto no sea posible, y previo acuerdo con la o el titular de la dependenc
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2015)</small>
 
 Los hombres tendrán un permiso de paternidad de cinco días laborables, con goce de sueldo, por el nacimiento de sus hijos o hijas, contados a partir del parto y, de igual manera, en el caso de la adopción de un infante.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2026)</small>
+
+Las mujeres trabajadoras que durante el climaterio o menopausia sufran de síntomas incapacitantes, podrán disfrutar de licencia con goce de sueldo por el tiempo que sea necesario, según lo determine el personal médico correspondiente, de conformidad con lo señalado en el artículo 147 de este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
@@ -11260,3 +11264,11 @@ P.O. 15 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 29 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFCOD/0539/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 92, UN QUINTO PÁRRAFO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
