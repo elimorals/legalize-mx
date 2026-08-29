@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-victimas-para-el-estado-de-chihuahua-113286"
 country: "mx"
 rank: "ley"
 publication_date: "2016-02-27"
-last_updated: "2026-05-27"
+last_updated: "2026-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de febrero de 2016.
 
@@ -883,7 +883,9 @@ El otorgamiento de la calidad de víctima se realiza por la determinación de cu
 
 I. El Juzgador penal mediante sentencia ejecutoriada.
 
-II. El Juzgador en materia de amparo, civil o familiar que tenga los elementos para acreditar que el sujeto es víctima.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2026)</small>
+
+II. El Juzgador en materia de amparo, civil, familiar o laboral que tenga los elementos para acreditar que el sujeto es víctima.
 
 III. El Ministerio Público.
 
@@ -1416,6 +1418,14 @@ OCTAVO.- En un plazo de sesenta días contados a partir de la entrada en vigor d
 P.O. 27 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0483/2026 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0519/2026 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 36, FRACCIÓN II, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
