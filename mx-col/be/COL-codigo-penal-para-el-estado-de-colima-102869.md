@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2026-07-04"
+last_updated: "2026-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2026.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -2397,7 +2397,7 @@ I. Cuando sea cometido en contra de alguna persona menor de dieciocho años de e
 
 II. Cuando sea cometido en contra de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo.
 
-III. Cuando sea cometido sin su consentimiento.
+III. (DEROGADA, P.O. 29 DE AGOSTO DE 2026)
 
 IV. Cuando sea cometido por un miembro de la familia. Se entenderá como miembro de la familia para efecto de este artículo, a los parientes en línea recta, ascendente o descendente, sin limitación de grado, pariente colateral o consanguíneo o por afinidad hasta el cuarto grado, adoptante o adoptado.
 
@@ -5182,3 +5182,11 @@ P.O. 4 DE JULIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 335.- POR EL QUE SE ADICIONA EL CAPÍTULO II TER, Y EL ARTÍCULO 133 QUINQUIES AL TÍTULO PRIMERO, SECCIÓN PRIMERA, LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 349.- POR EL QUE SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 162 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
