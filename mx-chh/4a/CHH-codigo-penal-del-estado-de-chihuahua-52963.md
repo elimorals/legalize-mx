@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2026-07-01"
+last_updated: "2026-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2026.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1985,35 +1985,45 @@ II. Se produzcan por una omisión de auxilio o de cuidado.
 
 ###### Artículo 138.
 
-Cuando el homicidio o las lesiones se cometan imprudencialmente con motivo del tránsito de vehículos, se impondrá una mitad más de las penas previstas en el artículo 73, en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+Cuando el homicidio o las lesiones se cometan imprudencialmente con motivo del tránsito de vehículos, se impondrá de uno a siete años de prisión y de cuarenta a ciento veinte días multa, en los siguientes casos:
 
-I. El agente conduzca en primer o segundo grado de ebriedad; o
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2026)</small>
 
-II. No auxilie a la víctima del delito y se dé a la fuga.
+I. El agente conduzca en primer o segundo estado de ebriedad;
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2026)</small>
 
-Cuando el agente conduzca en tercer grado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares y cometa homicidio o lesiones de las previstas en las fracciones IV, V o VII del artículo 129 de este Código, se impondrá de dos a ocho años de prisión.
+II. No auxilie a la víctima del delito y se dé a la fuga; o
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2026)</small>
 
-Cuando las víctimas en la hipótesis referida en el párrafo anterior sean dos o más, se impondrá de tres años seis meses a ocho años de prisión.
+III. El agente conduzca treinta kilómetros por hora más del límite legal permitido.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2026)</small>
+
+Cuando el agente conduzca en tercer estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares, y cometa homicidio o lesiones de las previstas en las fracciones IV, V, VI o VII del artículo 129 de este Código, se impondrá de dos a nueve años de prisión y de sesenta a ciento cincuenta días multa.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2026)</small>
+
+Cuando las víctimas en la hipótesis referida en el párrafo anterior sean dos o más, se impondrá de tres a diez años de prisión y de ochenta a doscientos días multa.
 
 ###### Artículo 139.
 
-Cuando se causen lesiones a dos o más personas, de las previstas en las fracciones VI o VII del artículo 129 de este Código y se trate de vehículos de carga o servicio de transporte público, escolar, de personal o pasajeros de alguna institución o empresa, y el agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares, la pena aplicable será de tres a diez años de prisión.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2026)</small>
 
-Además, se impondrá suspensión de los derechos en cuyo ejercicio hubiese cometido el delito, por un lapso igual al de la pena de prisión que se le imponga.
+Cuando con motivo del tránsito de vehículos, imprudencialmente se causen lesiones de las previstas en las fracciones VI o VII del artículo 129 de este Código y se trate de vehículos de carga o servicio de transporte público, escolar, de personal o pasajeros de alguna institución o empresa, y el agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares, la pena aplicable será de tres a once años de prisión y de ochenta a doscientos veinte días multa.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
+Además, se impondrá suspensión de los derechos en cuyo ejercicio hubiese cometido el delito, por un lapso igual al de la pena de prisión que se le imponga.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 140.
 
-Cuando por imprudencia se cause homicidio de dos o más personas, en las circunstancias previstas en el artículo anterior, las penas serán de cuatro a doce años de prisión y suspensión de los derechos en cuyo ejercicio hubiese cometido el delito por un periodo igual al de la pena de prisión impuesta.
+Cuando por imprudencia se cause homicidio de dos o más personas, en las circunstancias previstas en el artículo anterior, las penas serán de cuatro a trece años de prisión, de cien a doscientos cincuenta días multa, y suspensión de los derechos en cuyo ejercicio hubiese cometido el delito por un periodo igual al de la pena de prisión impuesta.
 
 (REFORMA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2018)
 
@@ -3759,6 +3769,10 @@ Se le impondrá de seis meses a tres años de prisión a quien por medio de la v
 
 La pena será de uno a cinco años de prisión, cuando la desobediencia o resistencia sea a un mandato judicial o al cumplimiento a una sentencia.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2026)</small>
+
+Si la desobediencia recae sobre una orden de protección en favor de una víctima de violencia familiar, la pena se incrementará en dos terceras partes y se impondrá de doscientos a mil días multa.
+
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### Artículo 278 Bis.
@@ -4204,6 +4218,10 @@ IV. No procure por los medios lícitos que tenga a su alcance y sin riesgo para 
 ###### Artículo 317.
 
 No comete el delito a que se refiere al artículo anterior, quien oculte al responsable de un hecho calificado por la ley como delito o impida que se averigüe, siempre que el sujeto tenga la calidad de defensor, ascendiente o descendiente consanguíneo en línea recta o colateral hasta el cuarto grado, por adopción, por afinidad hasta el segundo grado, cónyuge, concubina o concubinario o persona ligada con el imputado por amor, respeto, gratitud o estrecha amistad.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2026)</small>
+
+Las disposiciones contenidas en el párrafo anterior no serán aplicables cuando el autor o partícipe sea responsable del delito de feminicidio u homicidio y el agente lo ayude a que se sustraiga de la acción de la justicia, u oculte, destruya, altere o inutilice vestigios, efectos o instrumentos del delito.
 
 ## TÍTULO VIGÉSIMO PRIMERO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN
 
@@ -6070,6 +6088,30 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 1 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLYC/0505/2026 II P.O., MEDIANTE EL CUAL SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA, Y DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFCOD/0504/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 278, UN SEGUNDO PÁRRAFO, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFCOD/0510/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 317, UN SEGUNDO PÁRRAFO, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFCOD/0526/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
