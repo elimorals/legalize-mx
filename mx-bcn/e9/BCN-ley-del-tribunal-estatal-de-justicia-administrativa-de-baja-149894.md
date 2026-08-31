@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-estatal-de-justicia-administrativa-de-baja-149
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-18"
-last_updated: "2021-06-18"
+last_updated: "2026-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2026.
 
 Ley publicada en la Sección I al No. 43 del Periódico Oficial del Estado de Baja California, el viernes 18 de junio de 2021.
 
@@ -367,9 +367,13 @@ b) Impondrá sanciones que correspondan a los servidores públicos y particulare
 
 c) Dictar las medidas preventivas y cautelares para evitar que el procedimiento sancionador quede sin materia, y el desvío de recursos obtenidos de manera ilegal.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 AGOSTO DE 2026)</small>
+
 II. Los juicios que se promuevan contra los actos o resoluciones definitivas siguientes:
 
-a) Las que emitan los Órganos de la Administración Pública del Estado, los Municipios y Organismos Descentralizados, fisco estatal y fiscos municipales, Poder Legislativo y Poder Judicial del Estado, con motivo de la aplicación de sanciones por responsabilidad administrativa a los servidores públicos, en términos de la legislación aplicable;
+> <small>(REFORMADO, P.O. 31 AGOSTO DE 2026)</small>
+
+a) Las que emitan los Órganos de la Administración Pública del Estado, los Municipios y Organismos Descentralizados, fisco estatal y fiscos municipales y Poder Legislativo, con motivo de la aplicación de sanciones por responsabilidad administrativa a las personas servidoras públicas, en términos de la legislación aplicable;
 
 b) Las resoluciones por las que se impongan sanciones administrativas, así como las que determinen la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de los miembros de las instituciones policiales, en términos de la legislación aplicable;
 
@@ -1672,3 +1676,11 @@ GOBERNADOR DEL ESTADO
 AMADOR RODRÍGUEZ LOZANO
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 314 MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DE LA NUEVA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
