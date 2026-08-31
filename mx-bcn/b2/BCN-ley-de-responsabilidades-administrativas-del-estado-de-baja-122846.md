@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-administrativas-del-estado-de-baja-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-07"
-last_updated: "2026-08-28"
+last_updated: "2026-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2026.
 
 Ley publicada en el Número Especial al Periódico Oficial del Estado de Baja California, el lunes 7 de agosto de 2017.
 
@@ -61,17 +61,25 @@ IV. Determinar los mecanismos para la prevención, corrección e investigación 
 
 V. Crear las bases para que todo Ente Público establezca políticas eficaces de ética pública y responsabilidad en el servicio público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 3.
 
 Para efectos de esta Ley se entenderá por:
 
 I. Auditoría Superior: La Auditoría Superior del Estado;
 
-II. Autoridad investigadora: La Secretaria de la Contraloría y Transparencia Gubernamental del Estado, los Órganos internos de control, la Auditoría Superior del Estado y las Sindicaturas Municipales, así como las unidades de responsabilidades de las Empresas productivas del Estado incluyendo las unidades de responsabilidades de aquellas que deriven de una ley Estatal que apliquen, administren, reciban, manejen o ejecuten fondos públicos, encargadas de la investigación de Faltas administrativas;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2026)</small>
 
-III. Autoridad substanciadora: La Secretaria de la Contraloría y Transparencia Gubernamental del Estado, los Órganos internos de control, la Auditoría Superior y las Sindicaturas Municipales, así como las unidades de responsabilidades que, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
+II. Autoridad investigadora: La Secretaría Anticorrupción y Buen Gobierno del Estado, el Tribunal de Disciplina Judicial, la Contraloría, los Órganos internos de control, la Auditoría Superior del Estado y las Sindicaturas Municipales, así como las unidades de responsabilidades de las Empresas productivas del Estado incluyendo las unidades de responsabilidades de aquellas que deriven de una ley Estatal que apliquen, administren, reciban, manejen o ejecuten fondos públicos, encargadas de la investigación de Faltas administrativas;
 
-IV. Autoridad resolutora: Tratándose de Faltas administrativas no graves lo será la unidad de responsabilidades administrativas o el servidor público asignado en los Órganos internos de control. Para las Faltas administrativas graves, así como para las Faltas de particulares, lo será la Sala Especializada en materia de Responsabilidades Administrativas y Combate a la Corrupción del Tribunal Estatal de Justicia Administrativa;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2026)</small>
+
+III. Autoridad substanciadora: La Secretaría Anticorrupción y Buen Gobierno del Estado, el Tribunal de Disciplina Judicial, la Contraloría, los Órganos internos de control, la Auditoría Superior y las Sindicaturas Municipales, así como las unidades de responsabilidades que, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2026)</small>
+
+IV. Autoridad resolutora: Tratándose de Faltas administrativas no graves lo será la unidad de responsabilidades administrativas, el servidor público asignado en los Órganos internos de control, la Comisión respectiva del Tribunal de Disciplina Judicial o el área respectiva de la Contraloría. Para las Faltas administrativas graves, así como para las Faltas de particulares, lo será la Sala Especializada en materia de Responsabilidades Administrativas y Combate a la Corrupción del Tribunal Estatal de Justicia Administrativa, el Tribunal de Disciplina Judicial o el Pleno del Consejo de Administración, según el ámbito de su competencia;
 
 V. Comité Coordinador: La instancia a la que hace referencia el artículo 95 de la Constitución Política del Estado Libre y Soberano de Baja California, encargado de la coordinación y eficacia del Sistema Estatal;
 
@@ -79,47 +87,97 @@ VI. Conflicto de Interés: La posible afectación del desempeño imparcial y obj
 
 VII. Constitución: La Constitución Política del Estado Libre y Soberano de Baja California;
 
-VIII. Declarante: El Servidor Público obligado a presentar declaración de situación patrimonial, de intereses y fiscal, en los términos de esta Ley;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2026)</small>
 
-IX. Denunciante: La persona física o moral, o el Servidor Público que acude ante las Autoridades investigadoras a que se refiere la presente Ley, con el fin de denunciar actos u omisiones que pudieran constituir o vincularse con Faltas administrativas, en términos de los artículos 91 y 93 de esta Ley;
+VIII. Contraloría: El Órgano Interno de Control dependiente y auxiliar del Consejo de Administración del Poder Judicial del Estado;
 
-X. Ente público: Los Poderes Legislativo y Judicial, los organismos constitucionales autónomos, así como aquellos que las leyes del Estado les confieren autonomía, las dependencias y entidades de la Administración Pública Estatal; los municipios y sus dependencias y entidades; la Procuraduría General de Justicia del Estado y las fiscalías; los órganos jurisdiccionales que no formen parte de los poderes judiciales; las empresas productivas del Estado, incluyendo aquellas que deriven de una ley Estatal que apliquen, administren, reciban, manejen o ejecuten fondos públicos, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos antes citados de los tres órdenes de gobierno;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
 
-XI. Entidades: Los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren la Ley Orgánica de la Administración Pública del Estado de Baja California, la Ley de las Entidades Paraestatales del Estado de Baja California y demás aplicables;
+IX. Declarante: El Servidor Público obligado a presentar declaración de situación patrimonial, de intereses y fiscal, en los términos de esta Ley;
 
-XII. Auditoría Superior del Estado: El órgano a que hace referencia el Título Tercero, Capitulo Cuarto de la Constitución Política del Estado de Baja California;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
 
-XIII. Expediente de presunta responsabilidad administrativa: El expediente derivado de la investigación que las Autoridades Investigadoras realizan en sede administrativa, al tener conocimiento de un acto u omisión posiblemente constitutivo de Faltas administrativas;
+X. Denunciante: La persona física o moral, o el Servidor Público que acude ante las Autoridades investigadoras a que se refiere la presente Ley, con el fin de denunciar actos u omisiones que pudieran constituir o vincularse con Faltas administrativas, en términos de los artículos 91 y 93 de esta Ley;
 
-XIV. Faltas administrativas: Las Faltas administrativas graves, las Faltas administrativas no graves; así como las Faltas de particulares, conforme a lo dispuesto en esta Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
 
-XV. Falta administrativa no grave: Las faltas administrativas de los Servidores Públicos en los términos de la presente Ley, cuya sanción corresponde a las Secretarías y a los Órganos internos de control;
+XI. Ente público: Los Poderes Legislativo y Judicial, los organismos constitucionales autónomos, así como aquellos que las leyes del Estado les confieren autonomía, las dependencias y entidades de la Administración Pública Estatal; los municipios y sus dependencias y entidades; la Procuraduría General de Justicia del Estado y las fiscalías; los órganos jurisdiccionales que no formen parte de los poderes judiciales; las empresas productivas del Estado, incluyendo aquellas que deriven de una ley Estatal que apliquen, administren, reciban, manejen o ejecuten fondos públicos, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos antes citados de los tres órdenes de gobierno;
 
-XVI. Falta administrativa grave: Las faltas administrativas de los Servidores Públicos catalogadas como graves en los términos de la presente Ley, cuya sanción corresponde al Tribunal Estatal de Justicia Administrativa;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
 
-XVII. Faltas de particulares: Los actos de personas físicas o morales privadas que estén vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero de esta Ley, cuya sanción corresponde al Tribunal en los términos de la misma;
+XII. Entidades: Los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren la Ley Orgánica de la Administración Pública del Estado de Baja California, la Ley de las Entidades Paraestatales del Estado de Baja California y demás aplicables;
 
-XVIII. Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del Servidor Público o de un particular en la comisión de Faltas administrativas;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2026)</small>
 
-XIX. Magistrados: Los Titulares integrantes del Pleno del Tribunal Estatal de Justicia Administrativa y de la Sala Especializada en Materia de Responsabilidades Administrativas y Combate a la Corrupción, competentes en materia de responsabilidades administrativas;
+XIII. Auditoría Superior del Estado: El órgano a que hace referencia el Título Tercero, Capítulo Cuarto de la Constitución Política del Estado de Baja California;
 
-XX. Órganos constitucionales autónomos: Organismos a los que la Constitución otorga expresamente autonomía técnica y de gestión, personalidad jurídica y patrimonio propio; incluidos aquellos creados con tal carácter por las leyes del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
 
-XXI. Órganos internos de control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos; la Secretaria responsable del control interno de (sic) Ejecutivo del Estado, las Sindicaturas Municipales, así como aquellas otras instancias de los Órganos constitucionales autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades de Servidores Públicos; incluyendo aquellas que tengan a su cargo las funciones de Contraloría Interna;
+XIV. Expediente de presunta responsabilidad administrativa: El expediente derivado de la investigación que las Autoridades Investigadoras realizan en sede administrativa, al tener conocimiento de un acto u omisión posiblemente constitutivo de Faltas administrativas;
 
-XXII. Plataforma Digital Estatal: La plataforma a que se refiere la Ley del Sistema Estatal Anticorrupción, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
 
-XXIII. Sala Especializada: La Sala Especializada en materia de Responsabilidades Administrativas y Combate a la Corrupción del Tribunal Estatal de Justicia Administrativa;
+XV. Faltas administrativas: Las Faltas administrativas graves, las Faltas administrativas no graves; así como las Faltas de particulares, conforme a lo dispuesto en esta Ley;
 
-XXIV. Secretaría: La Secretaria de la Contraloría y Transparencia Gubernamental del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
 
-XXV. Sindicatura: Las Sindicaturas Municipales correspondientes a los Ayuntamientos del Estado de Baja California;
+XVI. Falta administrativa no grave: Las faltas administrativas de los Servidores Públicos en los términos de la presente Ley, cuya sanción corresponde a las Secretarías y a los Órganos internos de control;
 
-XXVI. Servidores Públicos: cualquier persona que se ubique en alguno de los supuestos establecidos en el artículo 91 de la Constitución Política del Estado Libre y Soberano de Baja California;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2026)</small>
 
-XXVII. Sistema Estatal Anticorrupción: La instancia de coordinación entre las autoridades de (sic) competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos; y
+XVII. Falta administrativa grave: Las faltas administrativas de las personas servidoras públicas catalogadas como graves en los términos de la presente Ley, cuya sanción corresponde al Tribunal Estatal de Justicia Administrativa con excepción de las cometidas por las personas servidoras públicas del Poder Judicial del Estado cuya sanción corresponde al Tribunal de Disciplina Judicial o la Contraloría, según corresponda;
 
-XXVIII. Tribunal: El Tribunal Estatal de Justicia Administrativa.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
+
+XVIII. Faltas de particulares: Los actos de personas físicas o morales privadas que estén vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero de esta Ley, cuya sanción corresponde al Tribunal en los términos de la misma;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
+
+XIX. Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del Servidor Público o de un particular en la comisión de Faltas administrativas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
+
+XX. Magistrados: Los Titulares integrantes del Pleno del Tribunal Estatal de Justicia Administrativa y de la Sala Especializada en Materia de Responsabilidades Administrativas y Combate a la Corrupción, competentes en materia de responsabilidades administrativas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
+
+XXI. Órganos constitucionales autónomos: Organismos a los que la Constitución otorga expresamente autonomía técnica y de gestión, personalidad jurídica y patrimonio propio; incluidos aquellos creados con tal carácter por las leyes del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2026)</small>
+
+XXII. Órganos internos de control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos; la Secretaría responsable del control interno de (sic) Ejecutivo del Estado, el Tribunal de Disciplina Judicial, la Contraloría, las Sindicaturas Municipales, así como aquellas otras instancias de los Órganos constitucionales autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades de las personas servidoras públicas; incluyendo aquellas que tengan a su cargo las funciones de Contraloría Interna;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
+
+XXIII. Plataforma Digital Estatal: La plataforma a que se refiere la Ley del Sistema Estatal Anticorrupción, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
+
+XXIV. Sala Especializada: La Sala Especializada en materia de Responsabilidades Administrativas y Combate a la Corrupción del Tribunal Estatal de Justicia Administrativa;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2026)</small>
+
+XXV. Secretaría: La Secretaría Anticorrupción y Buen Gobierno;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
+
+XXVI. Sindicatura: Las Sindicaturas Municipales correspondientes a los Ayuntamientos del Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2026)</small>
+
+XXVII. Servidores Públicos: cualquier persona que se ubique en alguno de los supuestos establecidos en el artículo 91 de la Constitución Política del Estado Libre y Soberano de Baja California;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2026)</small>
+
+XXVIII. Sistema Estatal Anticorrupción: La instancia de coordinación entre las autoridades de (sic) competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2026)</small>
+
+XXIX. Tribunal: El Tribunal Estatal de Justicia Administrativa; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2026)</small>
+
+XXX. Tribunal de Disciplina Judicial: El Tribunal de Disciplina Judicial del Poder Judicial del Estado de Baja California.
 
 ###### Artículo 4.
 
@@ -185,11 +243,15 @@ Las autoridades del Estado y Municipios concurrirán en el cumplimiento del obje
 
 El Sistema Estatal Anticorrupción establecerá las bases y principios de coordinación entre las autoridades competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 9.
 
 En el ámbito de su competencia, serán autoridades facultadas para aplicar la presente Ley:
 
-I. La Secretaria de la Contraloría y Transparencia Gubernamental del Estado;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2026)</small>
+
+I. La Secretaría Anticorrupción y Buen Gobierno;
 
 II. Los Órganos internos de control;
 
@@ -197,7 +259,9 @@ III. La Auditoría Superior del Estado;
 
 IV. El Tribunal Estatal de Justicia Administrativa;
 
-V. Tratándose de las responsabilidades administrativas de los Servidores Públicos de los poderes judiciales, serán competentes para investigar e imponer las sanciones que correspondan, el Tribunal Superior de Justicia y el Consejo de la Judicatura del Estado, conforme al régimen establecido por la Constitución. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2026)</small>
+
+V. Tratándose de las responsabilidades administrativas de las personas servidoras públicas del Poder Judicial del Estado, serán competentes para investigar e imponer las sanciones correspondientes: el Tribunal de Disciplina Judicial, respecto del personal jurisdiccional; y la Contraloría, respecto del personal administrativo, de conformidad con lo dispuesto en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Baja California, así como la Ley Orgánica del Poder Judicial del Estado. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos;
 
 VI. Las Sindicaturas Municipales; y
 
@@ -247,9 +311,13 @@ En los casos en que, derivado de sus investigaciones, acontezca la presunta comi
 
 El Tribunal, además de las facultades y atribuciones conferidas en su legislación orgánica y demás normatividad aplicable, estará facultado para resolver la imposición de sanciones por la comisión de Faltas administrativas graves y de Faltas de particulares, conforme a los procedimientos previstos en esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 13.
 
 Cuando las Autoridades investigadoras determinen que de los actos u omisiones investigados se desprenden tanto la comisión de faltas administrativas graves como no graves por el mismo servidor público, por lo que hace a las Faltas administrativas graves substanciarán el procedimiento en los términos previstos en esta Ley, a fin de que sea el Tribunal el que imponga la sanción que corresponda a dicha falta. Si el Tribunal determina que se cometieron tanto faltas administrativas graves, como faltas administrativas no graves, al graduar la sanción que proceda tomará en cuenta la comisión de éstas últimas.
+
+Lo anterior, sin menoscabo de la competencia con que para estos efectos cuenta el Tribunal de Disciplina Judicial y la Contraloría, respecto de las personas servidoras públicas del Poder Judicial del Estado.
 
 ###### Artículo 14.
 
@@ -345,9 +413,11 @@ En el Sistema Estatal de Servidores Públicos y particulares sancionados de la P
 
 Los entes públicos, previo al nombramiento, designación o contratación de quienes pretendan ingresar al servicio público, consultarán el Sistema Nacional de Servidores Públicos y particulares sancionados de la Plataforma digital Estatal, con el fin de verificar si existen inhabilitaciones de dichas personas.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 28.
 
-La información relacionada con las declaraciones de situación patrimonial y de intereses, podrá ser solicitada y utilizada por el Ministerio Público, el Tribunal o las autoridades judiciales en el ejercicio de sus respectivas atribuciones, el Servidor Público interesado o bien, cuando las Autoridades investigadoras, substanciadoras o resolutoras lo requieran con motivo de la investigación o la resolución de procedimientos de responsabilidades administrativas.
+La información relacionada con las declaraciones de situación patrimonial y de intereses, podrá ser solicitada y utilizada por el Ministerio Público, el Tribunal, el Tribunal de Disciplina Judicial, la Contraloría o las autoridades judiciales en el ejercicio de sus respectivas atribuciones, el Servidor Público interesado o bien, cuando las Autoridades investigadoras, substanciadoras o resolutoras lo requieran con motivo de la investigación o la resolución de procedimientos de responsabilidades administrativas.
 
 ###### Artículo 29.
 
@@ -1255,9 +1325,11 @@ La presentación de los testigos será responsabilidad de la parte que los ofrez
 
 Quienes por motivos de edad o salud no pudieran presentarse a rendir su testimonio ante la Autoridad resolutora, se les tomará su testificación en su domicilio o en el lugar donde se encuentren, pudiendo asistir las partes a dicha diligencia.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 148.
 
-Los representantes de elección popular; magistrados y jueces del Poder Judicial del Estado, los consejeros del Consejo de la Judicatura del Estado, los Servidores Públicos que sean ratificados o nombrados con la intervención del Congreso del Estado, los Síndicos Municipales, los Secretarios del Poder Ejecutivo Estatal y los equivalentes en los Gobiernos Municipales, los titulares de los organismos a los que la Constitución les otorgue autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
+Los representantes de elección popular; las Magistraturas, Juezas y Jueces del Poder Judicial del Estado, las y (sic) las personas integrantes del Consejo de Administración del Poder Judicial del Estado las personas servidoras públicas que sean ratificadas o nombradas con la intervención del Congreso del Estado, los Síndicos Municipales, las personas Secretarias del Poder Ejecutivo Estatal y los equivalentes en los Gobiernos Municipales, los titulares de los organismos a los que la Constitución les otorgue autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
 
 ###### Artículo 149.
 
@@ -1623,7 +1695,9 @@ IX. La existencia o inexistencia que en términos de esta Ley constituyen Faltas
 
 X. Los puntos resolutivos, donde deberá precisarse la forma en que deberá cumplirse la resolución.
 
-### Capítulo II. Del procedimiento de responsabilidad administrativa ante las Secretarías y Órganos internos de control
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2026)</small>
+
+### Capítulo II. Del procedimiento de responsabilidad administrativa ante las Secretarías, Órganos internos de control, el Tribunal de disciplina judicial y la Contraloría
 
 ###### Artículo 208.
 
@@ -1653,9 +1727,11 @@ XI. La resolución, deberá notificarse personalmente al presunto responsable. E
 
 ### Capítulo III. Del procedimiento de responsabilidad administrativa cuya resolución corresponda al Tribunal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 209.
 
-En los asuntos relacionados con faltas administrativas graves o faltas de particulares, se deberá proceder de conformidad con el procedimiento previsto en este artículo.
+En los asuntos relacionados con faltas administrativas graves que sean competencia del Tribunal o faltas de particulares, se deberá proceder de conformidad con el procedimiento previsto en este artículo.
 
 Las Autoridades substanciadoras deberán observar lo dispuesto en las fracciones I a VII del artículo anterior, luego de lo cual procederán conforme a lo dispuesto en las siguientes fracciones:
 
@@ -1924,3 +2000,9 @@ P.O. 28 DE AGOSTO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 305 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 57 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA".]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 314 MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DE LA NUEVA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
