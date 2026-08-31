@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2024-10-11"
+last_updated: "2026-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "BCN"
 
 [NOTA 2: DE CONFORMIDAD CON EL PUNTO ÚNICO DE LA DECLARATORIA PUBLICADA EN EL P.O. DE 11 DE OCTUBRE DE 2024 Y CON FUNDAMENTO EN EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 122 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO CON FECHA 2 DE SEPTIEMBRE DE 2022, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 2, 53, 69 Y 90 DECIES SE DECLARA QUE EN BAJA CALIFORNIA, HAN ENTRADO EN VIGOR LOS JUZGADOS ESPECIALIZADOS EN VIOLENCIA FAMILIAR CONTRA LAS MUJERES. LO ANTERIOR DEBIDO A QUE EL PODER JUDICIAL DEL ESTADO, SE ENCUENTRA PLENAMENTE PREPARADO PARA SU IMPLEMENTACIÓN, CONTANDO CON LA INFRAESTRUCTURA NECESARIA, ESPACIOS ADECUADOS, REQUERIMIENTOS TÉCNICOS, PERSONAL CAPACITADO, ASÍ COMO JUECES ESPECIALIZADOS NOMBRADOS PARA DESEMPEÑAR ESTAS FUNCIONES.]
 
+[NOTA 3: DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 31 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2026 (ABROGADA).
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -4056,3 +4058,33 @@ P.O. 11 DE OCTUBRE DE 2024.
 T R A N S I T O R I O
 
 ÚNICO.- La presente declaratoria entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 314 MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DE LA NUEVA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, con excepción de lo previsto en el siguiente transitorio.
+
+SEGUNDO.- Las disposiciones relativas a la competencia del Tribunal de Disciplina Judicial para conocer y resolver los conflictos laborales entre el Poder Judicial del Estado y sus trabajadores entrarán en vigor gradualmente de conformidad con la declaratoria que para tal efecto expida la Comisión conformada por las personas integrantes del Tribunal de Disciplina Judicial, una persona representante del Tribunal Superior de Justicia y una del Consejo de Administración del Poder Judicial del Estado, cuyo objeto será determinar la forma, términos y condiciones de la declaratoria correspondiente.
+
+TERCERO.- Se abroga la Ley Orgánica del Poder Judicial del Estado de Baja California, publicada en el Periódico Oficial del Estado el 4 de octubre de 1995.
+
+CUARTO.- A partir de la entrada en vigor del presente Decreto, el Consejo de Administración deberá velar que los distintos órganos y áreas del Poder Judicial, cuenten con los recursos materiales, humanos, financieros y presupuestales, de acuerdo con las atribuciones señaladas en la presente Ley, y al Decreto No. 36, publicado en el Periódico Oficial del Estado, el 31 de diciembre de 2024, mediante el cual se aprobaron las reformas a los artículos 5, 18, 27, 42, 49, 55, 57, 58, 60, 61, 62, 63, 64, 65, 66, 67, 90, 93, 94, 95, 107 y 109 de la Constitución Política del Estado Libre y Soberano de Baja California, en materia de elección de personas juzgadoras.
+
+QUINTO.- Los derechos laborales de las personas trabajadoras que se encuentren adscritas al Consejo de la Judicatura del Estado serán respetados en su totalidad. El Presupuesto de Egresos del Poder Judicial del Estado del ejercicio fiscal que corresponda considerará los recursos necesarios para el pago de las diversas prestaciones u obligaciones de carácter laboral que correspondan, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables.
+
+SEXTO.- Los procedimientos en trámite iniciados ante el extinto Consejo de la Judicatura continuarán sustanciándose hasta su total conclusión, conforme a las disposiciones aplicables al momento de la comisión de los hechos, ante los órganos que asuman sus atribuciones respecto del personal jurisdiccional o administrativo del Poder Judicial del Estado, según corresponda.
+
+SÉPTIMO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto. El Poder Judicial del Estado deberá en su oportunidad, emitir o adecuar las disposiciones que deriven de la presente Ley.
+
+OCTAVO.- El nombramiento, designación o contratación de las nuevas plazas que se crean estará sujeto a la disponibilidad presupuestal correspondiente. El Tribunal de Disciplina Judicial y el Consejo de Administración adoptarán las medidas necesarias para garantizar el adecuado funcionamiento de las áreas respectivas.
+
+NOVENO. Por única ocasión, las designaciones del personal adscrito al Tribunal de Disciplina Judicial se realizarán de manera directa, a propuesta del Tribunal de Disciplina Judicial y mediante designación del Consejo de Administración del Poder Judicial del Estado, sin sujeción a los procedimientos de concurso.
+
+A partir de la primera vacante que se genere en dichos cargos, su provisión deberá efectuarse mediante los mecanismos de concurso previstos en la normativa aplicable, en virtud de que forman parte del sistema de carrera judicial.
+
+DÉCIMO. Los reglamentos de Haber de Retiro expedidos con anterioridad a la entrada en vigor del presente Decreto, continuarán aplicándose en lo que no se opongan al presente Decreto, hasta en tanto el Consejo de Administración expida los reglamentos correspondientes.
+
+DÉCIMO PRIMERO. Para el primer periodo de funcionamiento de la Autoridad Garante, la Presidencia recaerá en la Magistratura del Tribunal de Disciplina Judicial que determine su Pleno.
+
+La primera presidencia de la Autoridad Garante se ejercerá por un periodo que comprenderá a partir de su instalación y hasta el treinta y uno de agosto de dos mil veintisiete.
