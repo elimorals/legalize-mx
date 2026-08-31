@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2025-12-30"
+last_updated: "2026-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2026.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -2065,23 +2065,23 @@ I. Actos de campaña: las reuniones públicas, debates, asambleas, visitas domic
 
 II. Propaganda electoral: el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos o coaliciones, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2026)</small>
 
-La propaganda electoral señalada en el párrafo anterior, quedará prohibida a los partidos políticos, las coaliciones y los candidatos registrados, cuando se trate de colocar, colgar, fijar, proyectar, adherir y pintar propaganda electoral en bardas, publivallas, espectaculares, pantallas electrónicas, postes o similares, ya sean éstos de uso común o privado, así como en unidades de servicio público de transporte de pasajeros o de carga.
+Los partidos políticos, las coaliciones y los candidatos registrados podrán colocar, colgar, fijar, proyectar, adherir y pintar propaganda electoral en bardas, publivallas, espectaculares y pantallas electrónicas, ya sean éstos de uso común o privado, así como en unidades de servicio público de transporte de pasajeros o de carga, debiendo, tratándose de bienes de uso privado, contar con la autorización de su propietario o poseedor, y observar en todo momento las disposiciones aplicables en materia de protección civil, señalización y vialidad. Lo dispuesto en este párrafo no exime de la observancia de las prohibiciones relativas a elementos del equipamiento urbano previstas en el artículo 165 de esta Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE AGOSTO DE 2026)</small>
 
-El Consejo General está facultado para ordenar el retiro o la suspensión inmediata de la propaganda electoral que incumpla (sic) lo señalado en este artículo.
+El Consejo General está facultado para ordenar el retiro o la suspensión inmediata de la propaganda electoral que incumpla lo señalado en este artículo.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE AGOSTO DE 2026)</small>
 
 Tanto los actos de campaña, como la propaganda electoral deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos o coaliciones en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE AGOSTO DE 2026)</small>
 
 Se prohíbe la contratación por parte de terceros, de propaganda electoral a favor o en contra de algún partido político, coalición o candidato.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE AGOSTO DE 2026)</small>
 
 Para los efectos de lo dispuesto por el párrafo quinto del artículo 100 de la Constitución del Estado, y el párrafo octavo del artículo 134 de la Constitución Federal, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del periodo de campaña electoral.
 
@@ -4389,9 +4389,7 @@ a) Con amonestación pública, y
 
 b) Con multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente, según la gravedad de la falta.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2021)</small>
-
-Artículo 354 BIS.- A quien incumpla lo dispuesto en el artículo 152, fracción II, segundo párrafo de esta Ley, se le aplicará una multa de cincuenta a cinco mil veces al valor diario de la unidad de medida y actualización vigente.
+Artículo 354 BIS.- (DEROGADO, P.O. 31 DE AGOSTO DE 2026)
 
 ###### Artículo 355.
 
@@ -5314,3 +5312,9 @@ P.O. 30 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 207 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, SE APRUEBAN (SIC) LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY ELECTORAL DEL ESTADO, SE APRUEBA ARTÍCULO 29 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA DEROGACIÓN DEL ARTÍCULO 9 TER DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día inicio del proceso electoral 2029-2030 a celebrarse en 2030, por lo que la prohibición de nepotismo electoral, será aplicable para dicho proceso y las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace (sic) referencia las presentes reformas, no podrán postularse para procesos de reelección correspondientes.
+
+P.O. 31 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 313 MEDIANTE MEDIANTE EL CUAL SE APRUEBA LA REFORMA EL ARTÍCULO 152 Y SE DEROGA EL ARTÍCULO 354 BIS DE LA LEY ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
