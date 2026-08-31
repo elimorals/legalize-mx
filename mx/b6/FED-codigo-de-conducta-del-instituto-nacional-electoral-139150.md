@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-del-instituto-nacional-electoral-139150"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-21"
-last_updated: "2019-11-21"
+last_updated: "2026-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-11-06"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA Y EXPIDE EL CÓDIGO DE CONDUCTA DEL INSTITUTO NACIONAL ELECTORAL Y SE ABROGA EL CÓDIGO APROBADO MEDIANTE ACUERDO INE/JGE193/2019, PUBLICADO EN EL D.O.F. DE 31 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE AGOSTO DE 2026 (ABROGADO).
 
 Acuerdo publicado en el Número 17 del Diario Oficial de la Federación, el jueves 21 de noviembre de 2019.
 
@@ -242,3 +244,19 @@ Persona servidora pública Toda persona que preste sus servicios al Instituto, c
 32. Cuidar que las reuniones con proveedores se realicen en las instalaciones del Instituto, salvo que la norma disponga otra situación, preferentemente con presencia de al menos dos servidores públicos de las áreas relacionadas con la materia de que se trate, procurando dejar constancia por escrito.
 
 33. No revelar o proporcionar información a la cual se tenga acceso con motivo del ejercicio del cargo, para facilitar una ventaja indebida a alguna persona en perjuicio de los demás.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE AGOSTO DE 2026.
+
+> <small>[N. DE E. PUNTOS DEL “ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA Y EXPIDE EL CÓDIGO DE CONDUCTA DEL INSTITUTO NACIONAL ELECTORAL Y SE ABROGA EL CÓDIGO APROBADO MEDIANTE ACUERDO INE/JGE193/2019”.]</small>
+
+PRIMERO.- Se expide el Código de Conducta del Instituto Nacional Electoral, el cual se anexa al presente Acuerdo y forma parte integral del mismo.
+
+SEGUNDO.- El presente Acuerdo y el Código de Conducta del Instituto Nacional Electoral, mismos que son de interés general, entrarán en vigor al día siguiente de su aprobación y permanecerán vigentes hasta en tanto se emitan nuevas disposiciones en la materia.
+
+TERCERO.- Con la entrada en vigor del presente acuerdo y su anexo, se abroga el Código de Conducta del Instituto Nacional Electoral, aprobado mediante acuerdo INE/JGE193/2019.
+
+CUARTO.- El Comité de Ética del Instituto Nacional Electoral deberá dar amplia difusión al Código de Conducta del Instituto Nacional Electoral, a través de los medios que se estimen conducentes, con el objetivo de garantizar que todas las personas servidoras públicas conozcan su contenido y alcances.
+
+QUINTO.- Publíquese el presente Acuerdo y el Código de Conducta del Instituto Nacional Electoral, en la Gaceta Electoral del Instituto Nacional Electoral, en el portal NormaINE y en el DOF.
