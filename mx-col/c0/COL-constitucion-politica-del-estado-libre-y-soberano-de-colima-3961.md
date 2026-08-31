@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2026-07-04"
+last_updated: "2026-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2026.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1675,27 +1675,53 @@ Artículo 70
 
 Las Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial; así como las Juezas y Jueces del Poder Judicial del Estado, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones locales ordinarias del año que corresponda, conforme al siguiente procedimiento:
 
-I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El órgano de administración judicial hará del conocimiento del Congreso los cargos sujetos a elección, la especialización por materia y la demás información que se requiera;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2026)</small>
+
+I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas a más tardar el treinta de abril del año anterior al de la elección judicial que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El órgano de administración judicial hará del conocimiento del Congreso los cargos sujetos a elección, la especialización por materia y la demás información que se requiera;
 
 II. Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme a los párrafos segundo y tercero del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
 a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
 
-b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2026)</small>
 
-c) Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, y de las seis personas mejor evaluadas para cada cargo en los casos de Juezas y Jueces del Poder Judicial. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso.
+b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, quienes elegirán de entre sus integrantes a la persona que coordine sus trabajos.
 
-III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Electoral del Estado a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2026)</small>
+
+Las personas coordinadoras de los tres Comités integrarán una Comisión Coordinadora, responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos, y emitir acuerdos que regulen los trabajos de los tres Comités.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2026)</small>
+
+Cada Comité seleccionará, conforme a los criterios definidos por la Comisión Coordinadora, a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2026)</small>
+
+c) Los Comités de Evaluación integrarán un listado de las cuatro personas mejor evaluadas para cada cargo. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo a dos personas para cada cargo. Los Comités garantizarán la paridad de género en el listado de personas a insacular por especialidad. Asimismo, observarán la paridad de género en el listado de propuestas posterior a la insaculación. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2026)</small>
+
+Para los efectos del párrafo anterior, cada uno de los Poderes del Estado postulará a dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo, mediante mayoría calificada de las dos terceras partes de sus integrantes presentes; y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, mediante mayoría calificada de las dos terceras partes de sus integrantes presentes en la sesión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2026)</small>
+
+III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Electoral del Estado en los plazos que refiera la convocatoria, a efecto de que organice el proceso electivo.
 
 Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria, no podrán hacerlo posteriormente; y
 
-IV. El Instituto Electoral del Estado efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado, quien resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicha Soberanía.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2026)</small>
 
-Para el caso de Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, la elección se realizará a nivel estatal conforme al procedimiento anterior y en los términos que dispongan las leyes. El Poder Ejecutivo postulará por conducto de la persona titular del mismo, hasta tres personas aspirantes; el Poder Legislativo postulará hasta tres personas, mediante votación calificada de dos terceras partes de sus integrantes presentes, y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, postulará hasta tres personas por mayoría calificada de las dos terceras partes de los presentes en la sesión.
+IV. El Instituto Electoral del Estado efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado, quien resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicha Soberanía. Las autoridades electorales no podrán modificar los resultados de la elección ni la asignación de cargos después de esa fecha.
 
-Para el caso de Juezas y Jueces del Poder Judicial, la elección también se realizará a nivel estatal conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes. Cada uno de los Poderes del Estado postulará hasta dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo mediante votación calificada de dos terceras partes de sus integrantes presentes, y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, postulará hasta dos personas por mayoría calificada de las dos terceras partes de los presentes en la sesión.
+> <small>(REFORMADO [N. DE E. PERTENECE AL ARTÍCULO], P.O. 31 DE AGOSTO DE 2026)</small>
 
-El Congreso incorporará a los listados que remita al Instituto Electoral del Estado a las personas que se encuentren en funciones en los cargos señalados en los párrafos anteriores al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
+Para el caso de Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como de Juezas y Jueces del Poder Judicial, la elección se realizará a nivel estatal conforme al procedimiento anterior y en los términos que dispongan las leyes. Cada Poder postulará dos candidaturas por cargo a renovar en la elección de que se trate. La asignación de los cargos electos se realizará entre las candidaturas que obtengan mayor número de votos, observando la integración paritaria del órgano correspondiente.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE AGOSTO DE 2026)</small>
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2026)</small>
+
+El Congreso incorporará a los listados que remita al Instituto Electoral del Estado a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
 
 La etapa de preparación de la elección correspondiente iniciará con la primera sesión que el Consejo General del Instituto Electoral del Estado celebre dentro de la primera quincena del mes de octubre del año anterior a la elección.
 
@@ -1704,6 +1730,18 @@ Las personas candidatas tendrán derecho de acceso a radio y televisión de mane
 Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
 
 La duración de las campañas para los cargos señalados en el presente artículo será de sesenta días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2026)</small>
+
+Las boletas electorales de la elección judicial distinguirán al Poder postulante y, cuando corresponda, a las personas juzgadoras en funciones en los cargos a elegir. Asimismo, distinguirán las especialidades que correspondan a cada ámbito territorial y contendrán los nombres completos de las personas candidatas. Las candidaturas se ubicarán en recuadros para que la ciudadanía señale su preferencia, debiendo elegir una sola candidatura por especialidad.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2026)</small>
+
+La jornada electoral judicial se celebrará en la misma ubicación donde se realicen las elecciones ordinarias federales o locales de ese año. Las autoridades electorales adoptarán las medidas necesarias para garantizar que la jornada electoral judicial se desarrolle sin la intervención de personas representantes de partidos políticos.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2026)</small>
+
+El escrutinio y cómputo de los votos se realizará en la casilla donde fueron sufragados.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
@@ -1725,9 +1763,13 @@ El Tribunal de Disciplina Judicial podrá dar vista al Ministerio Público compe
 
 Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas.
 
-El Tribunal de Disciplina Judicial evaluará el desempeño de las Magistradas y Magistrados del Tribunal Superior de Justicia y de las Juezas y Jueces que resulten electas en la elección estatal que corresponda durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2026)</small>
 
-La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+El Tribunal de Disciplina Judicial evaluará el desempeño de las Magistradas y Magistrados del Tribunal Superior de Justicia y de las Juezas y Jueces que resulten electas en la elección estatal que corresponda durante su primer año de ejercicio y aplicará programas de capacitación y actualización permanente, para lo cual podrá coordinarse con la Escuela Estatal de Formación Judicial. La ley establecerá los métodos, criterios e indicadores aplicables a los procesos de evaluación que correspondan.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE AGOSTO DE 2026)</small>
+
+La ley señalará los criterios, metodologías, etapas, áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la transparencia, imparcialidad y objetividad de los procesos de evaluación y de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación correspondiente resulte insatisfactoria:
 
 a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
 
@@ -1821,15 +1863,15 @@ Cuando la falta de una Magistrada o Magistrado del Tribunal Superior de Justicia
 
 Las renuncias de las Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente.
 
-Las licencias de las personas servidoras públicas señaladas en el párrafo primero de este artículo, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Tribunal Superior de Justicia para el caso de Magistradas y Magistrados que lo integren, por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes, y por el órgano de administración judicial para el caso de Juezas y Jueces del Poder Judicial. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2026)</small>
+
+Las licencias de las personas servidoras públicas señaladas en el párrafo primero de este artículo, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Tribunal Superior de Justicia para el caso de Magistradas y Magistrados que lo integren, por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes, y por el órgano de administración judicial para el caso de Juezas y Jueces del Poder Judicial. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente, salvo en el caso de las Judicaturas, que podrán concederse sin goce de sueldo por el órgano de administración judicial. Ninguna licencia podrá exceder del término de un año.
 
 La forma y términos en que deberán cubrirse las ausencias temporales que no excedan de un mes, se establecerán en la Ley Orgánica.
 
 Será causa de retiro forzoso en los cargos de Magistradas y Magistrados del Tribunal Superior de Justicia, así como de Juezas y Jueces del Poder Judicial, cuando:
 
-(NOTA: EL 1 DE JUNIO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 120/2025 Y SU ACUMULADA 121/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN I DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE JUNIO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-I. CUMPLAN SETENTA AÑOS DE EDAD; O
+I. (DEROGADA, P.O. 31 DE AGOSTO DE 2026)
 
 II. Padezcan incapacidad física o mental permanente que les imposibilite el desempeño de su encargo con independencia de su edad.
 
@@ -4754,3 +4796,15 @@ P.O. 4 DE JULIO DE 2026.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 Segundo.- El Instituto Electoral del Estado de Colima y el Tribunal Electoral del Estado de Colima revisarán y adecuarán sus disposiciones normativas y administrativas para garantizar el cumplimiento de lo previsto en el presente Decreto.
+
+P.O. 31 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 357.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE COLIMA, EN MATERIA DE REFORMA AL PODER JUDICIAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. El Congreso del Estado realizará las adecuaciones necesarias a las leyes locales de la materia conforme a las disposiciones transitorias del Decreto publicado en el Diario Oficial de la Federación el 02 de junio del 2026, por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma al Poder Judicial Federal.
+
+TERCERO. Se autoriza al Poder Ejecutivo del Gobierno del Estado para que realice las adecuaciones presupuestales que resulten necesarias al techo presupuestario autorizado en el Presupuesto de Egresos del Estado de Colima para el presente ejercicio fiscal y posteriores, a los entes públicos involucrados, a efecto de dar viabilidad a la implementación del presente decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
