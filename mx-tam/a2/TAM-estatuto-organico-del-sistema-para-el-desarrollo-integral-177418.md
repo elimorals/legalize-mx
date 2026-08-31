@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-sistema-para-el-desarrollo-integral-17741
 country: "mx"
 rank: "estatuto"
 publication_date: "2024-12-17"
-last_updated: "2024-12-17"
+last_updated: "2026-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=177418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 31 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2026 (ABROGADO).
 
 Estatuto publicado en la Edición Vespertina del Número 151 del Periódico Oficial del Estado de Tamaulipas, el martes 17 de diciembre de 2024.
 
@@ -2704,3 +2706,37 @@ El presente Estatuto Orgánico del Sistema para el Desarrollo Integral de la Fam
 Dado en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintinueve días del mes de noviembre del año dos mil veinticuatro.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de Tamaulipas entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, publicado en el Periódico Oficial del Estado de Tamaulipas, Edición Vespertina Número 151, de fecha 17 de diciembre de 2024.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones administrativas que se opongan a lo previsto en el presente Estatuto Orgánico.
+
+###### ARTÍCULO CUARTO.
+
+Las funciones específicas de las personas titulares de las Unidades Administrativas que integran el Sistema para el Desarrollo Integral de la Familia de Tamaulipas se establecerán en el Manual de Organización correspondiente, el cual deberá emitirse y publicarse dentro de los noventa días naturales siguientes a la entrada en vigor del presente Estatuto Orgánico.
+
+###### ARTÍCULO QUINTO.
+
+Los manuales, lineamientos, acuerdos y demás disposiciones administrativas del Sistema para el Desarrollo Integral de la Familia de Tamaulipas deberán adecuarse a las disposiciones del presente Estatuto Orgánico.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos en trámite cuya atención corresponda a las Unidades Administrativas previstas en disposiciones orgánicas que queden sin efectos con motivo de la entrada en vigor del presente Estatuto Orgánico continuarán su sustanciación por las Unidades Administrativas que asuman las atribuciones correspondientes, previa formalización del acta de entrega-recepción, cuando resulte procedente.
+
+###### ARTÍCULO SÉPTIMO.
+
+El presente Estatuto Orgánico deberá inscribirse en el Registro Estatal de Organismos Descentralizados, en términos de las disposiciones jurídicas aplicables.
