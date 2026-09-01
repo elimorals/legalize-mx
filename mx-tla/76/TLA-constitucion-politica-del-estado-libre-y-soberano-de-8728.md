@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2026-08-10"
+last_updated: "2026-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -631,11 +631,11 @@ Los impedimentos establecidos en las fracciones I y II del párrafo anterior dur
 
 Si la resolución a que se refiere la fracción I del párrafo primero de este artículo se dictara por una autoridad diversa a la jurisdiccional en materia penal, el impedimento se mantendrá por un lapso de tres años, contados a partir del día siguiente a que quede firme.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTICULO 25.
 
-Los procesos de elección para renovar a los poderes del Estado, a los Tribunales de Justicia Administrativa y de Conciliación y Arbitraje, así como a los ayuntamientos y presidencias de comunidad electas por voto constitucional, se realizarán por medio del sufragio universal, libre, secreto y directo; ordinariamente se celebrarán el primer domingo de junio de cada tres o seis años conforme a la elección que corresponda o extraordinariamente, según sean convocados y de acuerdo a los principios y las bases que prescriben la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución. La ley de la materia determinará las reglas y los procedimientos aplicables.
+Los procesos de elección para renovar a los poderes del Estado, a los Tribunales de Justicia Administrativa y de Conciliación y Arbitraje, así como a los ayuntamientos y presidencias de comunidad electas por voto constitucional, se realizarán por medio del sufragio universal, libre, secreto y directo; ordinariamente se celebrarán el primer domingo de junio de cada tres o seis años conforme a la elección que corresponda o extraordinariamente, según sean convocados, de acuerdo con los principios y bases que prescriben la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución. Tratándose de la elección de personas juzgadoras, la jornada electoral se celebrará en la fecha que corresponda a la elección judicial federal, conforme a las bases previstas en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en las leyes aplicables. La Ley de la materia determinará las reglas y los procedimientos que correspondan.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1137,15 +1137,17 @@ XIV. Determinar las participaciones que correspondan a los municipios de los imp
 
 XV. Expedir leyes que regulen las relaciones de trabajo entre los poderes del Estado, los municipios, organismos autónomos y los organismos paraestatales con sus trabajadores, con base en lo dispuesto por los artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las relativas al sistema de seguridad social de que deban gozar éstos. Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social. El Tribunal se compondrá por tres magistraturas, cuyas personas titulares serán electas de manera libre, directa y secreta por la ciudadanía en la misma jornada electoral de las elecciones estatales ordinarias, conforme al procedimiento establecido en el artículo 84 de esta Constitución. La postulación de las personas candidatas se realizará a través del Comité de Evaluación del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social. El Tribunal se compondrá por tres magistraturas, cuyas personas titulares serán electas de manera libre, directa y secreta por la ciudadanía en la misma jornada electoral de las elecciones estatales ordinarias, conforme al procedimiento establecido en el artículo 84 de esta Constitución. La postulación de las personas candidatas se realizará a través del Comité de Evaluación del Poder Ejecutivo.
+Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social. El Tribunal se compondrá por tres magistraturas, cuyas personas titulares serán electas de manera libre, directa y secreta por la ciudadanía en la elección judicial local que corresponda, en forma coincidente con la elección judicial federal, conforme al procedimiento establecido en el artículo 84 de esta Constitución, en lo que resulte aplicable. La postulación de las personas candidatas se realizará a través del Comité de Evaluación del Poder Ejecutivo.
 
 Las personas que aspiren a ocupar una magistratura en el Tribunal de Conciliación y Arbitraje del Estado deberán cumplir con los requisitos para ser magistradas o magistrados establecidos en el artículo 83 de esta Constitución, así como acreditar experiencia profesional en materia de derecho laboral y de seguridad social.
 
 Las magistradas y magistrados del Tribunal de Conciliación y Arbitraje, ejercerán su encargo por un periodo de nueve años y podrán ser reelectos por un periodo adicional de la misma duración.
 
-Las licencias de las magistradas y magistrados de este Tribunal, cuando no excedan de un mes, podrán ser concedidas por el Pleno de Tribunal. Cuando la falta excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo. Las licencias que excedan de un mes deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Las licencias de las magistradas y magistrados de este Tribunal, cuando no excedan de un mes, podrán ser concedidas por el Pleno de Tribunal. En caso de defunción, renuncia, destitución o ausencia definitiva, la Presidencia del Tribunal declarará la vacante y ésta deberá renovarse para un nuevo periodo en la elección judicial inmediata posterior que corresponda. La Ley establecerá el régimen de sustitución temporal para garantizar la continuidad del servicio público de impartición de justicia.
 
 Las renuncias de las magistradas y magistrados, únicamente por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente.
 
@@ -1877,37 +1879,69 @@ Antes de acudir al Juzgado Laboral, los trabajadores y patrones deberán asistir
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTICULO 79.
 
-El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, que es el órgano supremo, en Juzgados de Primera Instancia, y contará además con un Órgano de Administración Judicial, un Tribunal del Disciplina Judicial y un Centro Estatal de Justicia Alternativa, con las atribuciones que le señalen esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes que expida el Congreso del Estado.
+El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia que es el órgano supremo, y en los Juzgados de Primera Instancia, y contará además con un Órgano de Administración Judicial, un Tribunal de Disciplina Judicial y un Centro Estatal de Justicia Alternativa, con las atribuciones que le señalen esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes que expida el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
 
 El Poder Judicial residirá en la Capital del Estado, sin perjuicio de que para el mejor desempeño de sus funciones y eficiencia en la prestación de servicios a la ciudadanía, en términos de lo que disponga la Ley Orgánica del Poder Judicial del Estado de Tlaxcala y por acuerdo del Órgano de Administración Judicial, se autorice el establecimiento de órganos jurisdiccionales, dependencias u oficinas del Poder Judicial en el recinto denominado "Ciudad Judicial" ubicado en la comunidad de Santa Anita Huiloac del Municipio de Apizaco, así como en otros municipios del Estado. Tratándose de órganos jurisdiccionales del orden civil, familiar, penal, ejecución de sanción, administración de justicia para adolescentes, mercantil y laboral o segunda instancia, deberá señalarse su competencia en la Ley Orgánica del Poder Judicial del Estado de Tlaxcala.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
+
 El Tribunal Superior de Justicia funcionará en Pleno y en dos Salas para atender los asuntos de su competencia y las necesidades de los justiciables; se compondrá por siete integrantes, magistradas y magistrados, incluyendo a su Presidente, quien no integrará Sala. Las Salas tendrán carácter colegiado y se integrarán por tres magistradas o magistrados cada una, para conocer respectivamente de las materias. Su presidencia se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quien alcance mayor votación.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
 
 En la integración del Tribunal Superior de Justicia se observará el principio de paridad de género, por lo que no habrá más de cuatro magistrados del mismo sexo.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
+
 Las Salas tendrán carácter colegiado y se integrarán por tres magistrados cada una, para conocer respectivamente de las materias Civil-Familiar y Penal y Especializada en Administración de Justicia para Adolescentes.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
 
 El pleno del Tribunal estará facultado para expedir acuerdos generales a fin de lograr una adecuada distribución competencial y de las cargas de trabajo.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
+
 La administración del Poder Judicial del Estado estará a cargo del Órgano de Administración Judicial, mientras que la disciplina de su personal estará a cargo del Tribunal de Disciplina Judicial, en los términos y las bases que señalan esta Constitución y la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
 
 Las magistradas y los magistrados, durarán en el ejercicio de su encargo nueve años, podrán ser reelectos hasta por un periodo más; las juezas y jueces del Poder Judicial del Estado durarán en el ejercicio de su encargo nueve años, podrán ser reelectos y, si lo fueren, ambos podrán ser privados de sus puestos por el Tribunal de Disciplina Judicial por faltas u omisiones graves en el desempeño de sus funciones; por incapacidad física o mental; por sanción impuesta en la Ley General de Responsabilidades, o por haber cumplido sesenta y cinco años. No podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, entidades federativas, municipios o particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
-Cuando la falta de magistradas, magistrados, juezas y jueces del Poder Judicial del Estado, excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Las licencias de las personas servidoras públicas señaladas en el párrafo anterior, cuando no excedan de un mes, podrán ser concedidas por el Pleno de Tribunal Superior de Justicia para el caso de sus magistradas y magistrados, por el Pleno del Tribunal de Disciplina Judicial del Estado para el caso de sus integrantes, y por el Órgano de Administración Judicial para el caso juezas y jueces del Poder Judicial del Estado. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
+Cuando la falta de magistradas o magistrados del Tribunal Superior de Justicia o del Tribunal de Disciplina Judicial, juezas y jueces del Poder Judicial del Estado, excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, el Órgano de Administración Judicial declarará la vacante y ésta deberá renovarse para un nuevo periodo en la elección judicial inmediata posterior que corresponda. La ley establecerá el régimen de sustitución temporal para garantizar la continuidad del servicio público de impartición de justicia. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Las licencias de las personas servidoras públicas, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Tribunal Superior de Justicia, para el caso de sus magistradas y magistrados, por el Pleno del Tribunal de Disciplina Judicial del Estado, para el caso de sus integrantes, y por el Órgano de Administración Judicial y para el caso de juezas y jueces del Poder Judicial del Estado. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente, salvo en el caso de juezas y jueces, en cuyo supuesto podrán ser concedidas por el Órgano de Administración Judicial. Ninguna licencia podrá exceder del término de un año.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Las personas juzgadoras que aspiren a un cargo de elección distinto al que ostenten deberán separarse del cargo mediante renuncia expresa e irrevocable, la cual informarán al Órgano de Administración Judicial antes de su registro en el proceso correspondiente. El Órgano de Administración Judicial comunicará de inmediato la vacante al Congreso del Estado y al Instituto Tlaxcalteca de Elecciones, para que el cargo sea sujeto a elección en los términos de esta Constitución y de las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
 
 Las personas que hayan ocupado el cargo de magistradas, magistrados, juezas y jueces, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial de Estado o del Tribunal Electoral del Estado. Para el caso de juezas y los jueces, este impedimento aplicará respecto del distrito judicial de su adscripción al momento de dejar el cargo, en los términos que establezca la ley. Durante dicho plazo, las personas que hayan desempeñado el cargo de magistradas, magistrados, juezas y jueces, no podrán ocupar los cargos señalados en la fracción V del artículo 83 de esta Constitución.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
+
 Los impedimentos de este artículo serán aplicables a los servidores públicos judiciales que gocen de licencia.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
 
 La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
+
 Las magistradas, magistrados, juezas y jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
 
 En el Poder Judicial del Estado no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
 
@@ -1935,7 +1969,9 @@ VIII. Rendir la cuenta pública trimestralmente al Congreso del Estado dentro de
 
 IX. Publicar en el boletín judicial del Estado, las disposiciones de observancia general que dicte;
 
-X. Conceder licencias a sus magistrados para que puedan separarse de sus cargos hasta por un mes, siempre y cuando no se trate de ocupar un cargo de elección popular; en todo caso, presentará la renuncia correspondiente con el carácter de irrevocable, y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+X. Conceder licencias a sus magistradas y magistrados para que puedan separarse de sus cargos hasta por un mes, siempre que no se trate de ocupar un cargo de elección popular o un cargo judicial de elección distinto al que ostenten; en tales casos, deberán presentar renuncia expresa e irrevocable en los términos previstos por esta Constitución, y
 
 XI. Las demás que señale esta Constitución y la Ley Orgánica del Poder Judicial.
 
@@ -2049,55 +2085,99 @@ Para ser electo como magistrada o magistrado, jueza o juez del Poder Judicial de
 
 I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Contar el día de la publicación de la convocatoria señalada en la fracción I del artículo 84 de esta Constitución, con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado. Para el caso de magistrada y magistrado deberá contar además con práctica profesional de al menos tres años en un área jurídica afín a su candidatura;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+II. Contar el día de la publicación de la convocatoria señalada en la fracción II del artículo 84 de esta Constitución, con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado. Para el caso de magistrada y magistrado deberá contar además con práctica profesional de al menos tres años en un área jurídica afín a su candidatura;
 
 III. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
 
-IV. Haber residido en el Estado de Tlaxcala durante el año anterior al día de la publicación de la convocatoria señalada en la fracción I del artículo 84 de esta Constitución, y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+IV. Haber residido en el Estado de Tlaxcala durante el año anterior al día de la publicación de la convocatoria señalada en la fracción II del artículo 84 de esta Constitución, y
 
 V. No haber ocupado el cargo de titular de Secretaría o su equivalente del Poder Ejecutivo Estatal, Fiscal o Legislador Federal o Local, durante el año previo al día de la publicación de la convocatoria respectiva emitida por el Congreso del Estado.
 
 El ingreso, formación y permanencia del personal de la carrera judicial del Poder Judicial del Estado se sujetará a la regulación establecida en las disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTICULO 84.
 
-Las Magistradas y Magistrados del Tribunal Superior de Justicia, las magistradas y magistrados del Tribunal de Disciplina Judicial, Juezas y Jueces, se elegirán de manera libre, directa y secreta por la ciudadanía el día en que se realicen las elecciones estatales ordinarias del año que corresponda conforme al procedimiento siguiente:
+Las magistradas y magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, las juezas y jueces, se elegirán de manera libre, directa y secreta por la ciudadanía el primer domingo de junio del año que corresponda a la elección judicial federal, de forma coincidente con ésta, y a través de mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de todas las personas interesadas conforme al procedimiento siguiente:
 
-I. El Órgano de Administración del Poder Judicial, por lo menos con sesenta días de anticipación a la fecha de inicio del proceso electoral informará al Congreso del Estado, la conclusión del encargo de los integrantes del Poder Judicial que se encuentren próximos al término de su período, tratándose del Tribunal de Justicia Administrativa y del Tribunal de Conciliación y Arbitraje se realizará a través de la persona que ocupe la Presidencia;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-II. El Congreso del Estado, publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. En el caso de juezas y jueces se precisará la especialización por materia y demás información que se requiera;
+I. El Órgano de Administración Judicial, a más tardar el quince de abril del año anterior al de la elección judicial que corresponda, hará del conocimiento del Congreso del Estado, los cargos del Poder Judicial sujetos a elección, indicando órgano jurisdiccional, distrito judicial, especialización por materia, género, vacancias, renuncias, y demás información que resulte necesaria. Tratándose del Tribunal de Justicia Administrativa y del Tribunal de Conciliación y Arbitraje, la información respectiva será remitida por la persona que ocupe la Presidencia del órgano correspondiente;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+II. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas a más tardar el treinta de abril del año anterior al de la elección judicial que corresponda, la cual contendrá las etapas completas del procedimiento, sus fechas, plazos improrrogables, cargos a elegir, órgano jurisdiccional, distrito judicial, especialización por materia, reglas de evaluación, reglas de insaculación, mecanismos para garantizar la paridad de género y demás información que se requiera;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2024)</small>
 
 III. Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme al presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
 a) Los Poderes establecerán mecanismos públicos abiertos, transparentes, inclusivos, accesibles y paritarios que permitan la participación de las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en sus leyes;
 
-b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, que recibirán los expedientes de las personas aspirantes, evaluarán el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia, antecedentes académicos y profesionales en el ejercicio de la actividad jurídica;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Para definir criterios uniformes y homologados, los Comités de Evaluación de los tres poderes podrán integrarse en un Comité Estatal de Evaluación, en el cual podrán generar lineamientos sobre procedimientos y criterios de evaluación para generar una lista única de las y los aspirantes a los cargos de elección. Siempre y cuando las decisiones alcancen la mayoría de votos de sus integrantes, e
+b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, quienes elegirán de entre sus integrantes a la persona que coordine sus trabajos. Cada Comité recibirá los expedientes de las personas aspirantes, verificará el cumplimiento de los requisitos constitucionales y legales, aplicará los criterios y metodologías homologadas que emita la Comisión Coordinadora y seleccionará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
 
-c) Los Comités de Evaluación de cada poder o en su caso el Comité Estatal de Evaluación, integrará un listado con las dos personas mejor evaluadas para cada cargo debiendo ser del mismo género, con el objeto de garantizar la paridad de género, dichos listados se remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y posterior envío al Congreso del Estado.
+Las personas coordinadoras de los Comités de Evaluación integrarán una Comisión Coordinadora, responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos, así como emitir los acuerdos que regulen los trabajos de los tres Comités. Cada Comité conservará su competencia para integrar los listados que correspondan al Poder que lo hubiere designado, conforme a las bases de esta Constitución y de la convocatoria respectiva, e
 
-Cada uno de los Poderes del Estado postulará hasta dos personas para cada cargo debiendo ser del mismo género. El Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo postulará a las personas por mayoría simple de sus integrantes, y el Poder Judicial del Estado, por conducto del Pleno, postulará hasta dos personas por mayoría simple de sus integrantes;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-IV. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Tlaxcalteca de Elecciones a más tardar el doce de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+c) Los Comités de Evaluación integrarán un listado de las cuatro personas mejor evaluadas para cada cargo. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo a dos personas para cada cargo. Los Comités garantizarán la paridad de género en el listado de personas a insacular por especialidad y distrito judicial, de ser aplicable, así como en el listado de propuestas posterior a la insaculación. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado, para su aprobación y posterior envío al Congreso del Estado.
+
+Cada uno de los Poderes del Estado postulará dos personas para cada cargo o especialidad sujeta a elección, observando el principio de paridad de género. El Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo postulará a las personas mediante votación calificada de las dos terceras partes de sus integrantes presentes; y el Poder Judicial del Estado, por conducto del Pleno del Tribunal Superior de Justicia, postulará a las personas por mayoría de cinco votos;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+IV. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Tlaxcalteca de Elecciones en los plazos improrrogables previstos en la convocatoria respectiva, a efecto de que organice el proceso electivo.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
 
 Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente, y
 
-V. El Instituto Tlaxcalteca de Elecciones efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. Dichos resultados podrán ser impugnados ante el Tribunal Electoral de Tlaxcala, quien resolverá las impugnaciones a más tardar el quince de agosto del año de la elección. Las personas que resulten electas tomarán protesta ante el Congreso del Estado, el día que se instale el primer período ordinario de sesiones.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Para el caso de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de Justicia Administrativa, del Tribunal de Conciliación y Arbitraje, Juezas y Jueces, la elección se realizará a nivel estatal conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes.
+V. El Instituto Tlaxcalteca de Elecciones efectuará los cómputos de la elección, publicará los resultados, declarará la validez de la elección y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, observando la integración paritaria de los órganos correspondientes. Dichos resultados podrán ser impugnados ante el Tribunal Electoral de Tlaxcala, quien resolverá las impugnaciones a más tardar el quince de agosto del año de la elección. Las personas que resulten electas tomarán protesta ante el Congreso del Estado el día que se instale el primer período ordinario de sesiones. Las autoridades electorales no podrán modificar los resultados de la elección ni la asignación de cargos después de esa fecha.
 
-El Congreso incorporará a los listados que remita al Instituto Tlaxcalteca de Elecciones a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Para el caso de magistradas y magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de Justicia Administrativa, del Tribunal de Conciliación y Arbitraje y de juezas y jueces, la elección se realizará conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes. La Ley y la convocatoria determinarán el ámbito territorial de elección que corresponda a cada cargo, atendiendo a la naturaleza del órgano, distrito judicial, especialidad por materia y número de cargos a elegir. El Instituto Tlaxcalteca de Elecciones determinará en coordinación con el Órgano de Administración Judicial y conforme a la Ley, el ámbito territorial de elección de las juezas y jueces, así como de las magistraturas que corresponda elegir por distrito judicial, materia o especialidad. Para tal efecto, podrá generar listas de candidaturas por especialidad, distinguir el Poder postulante y el género de las personas candidatas y, cuando resulte aplicable, asignará aleatoriamente las candidaturas que correspondan a cada distrito judicial, garantizando que los poderes postulen en cada distrito a dos personas del mismo género por especialidad.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+El Congreso incorporará a los listados que remita al Instituto Tlaxcalteca de Elecciones a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación, o cuando aspiren a un cargo de elección distinto al que ostenten, supuesto en el cual deberán separarse mediante renuncia expresa e irrevocable en los términos de esta Constitución. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos, observando el principio de paridad de género.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
 
 La etapa de preparación de la elección local correspondiente iniciará con la primera sesión que el Consejo General del Instituto Tlaxcalteca de Elecciones celebre en el mes de diciembre del año anterior a la elección.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
+
 Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley. Podrán, además, participar en foros de debate organizados por el propio Instituto Tlaxcalteca de Elecciones o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
 
 Para todos los cargos de elección dentro del Poder Judicial del Estado, del Tribunal de Justicia Administrativa y del Tribunal de Conciliación y Arbitraje estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2024)</small>
+
 La duración de las campañas para los cargos señalados en el presente artículo será conforme a lo que establezcan las disposiciones aplicables y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Las boletas electorales de la elección judicial distinguirán al Poder postulante y, cuando corresponda, a las personas juzgadoras en funciones en los cargos a elegir. Asimismo, distinguirán las especialidades que correspondan a cada ámbito territorial y contendrán los nombres completos de las personas candidatas. Las candidaturas se ubicarán en recuadros para que la ciudadanía señale su preferencia, debiendo elegir una sola candidatura por cargo o especialidad.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+La jornada electoral judicial se celebrará en la misma ubicación donde se realicen las elecciones ordinarias federales o locales de ese año. Las autoridades electorales adoptarán las medidas necesarias para garantizar que la jornada electoral judicial se desarrolle sin la intervención de personas representantes de partidos políticos.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+El escrutinio y cómputo de los votos se realizará en la casilla donde fueron sufragados.
 
 > <small>(DEROGADO, P.O. 31 DE OCTUBRE DE 2023)</small>
 
@@ -2115,11 +2195,21 @@ ARTICULO 84 BIS.- (DEROGADO, P.O. 31 DE OCTUBRE DE 2023)
 
 El Órgano de Administración Judicial es un órgano del Poder Judicial con independencia técnica, de gestión y para emitir sus resoluciones, y será responsable de la administración y carrera judicial del Poder Judicial del Estado; tendrá las facultades siguientes:
 
-I. Determinar el número, división en distritos, competencia territorial y especialización por materias de las magistradas, magistrados, juezas y jueces; el ingreso, formación, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial, y las demás que establezcan las leyes;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-II. Expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley, y
+I. Determinar el número, división en distritos, competencia territorial y especialización por materias de las magistradas, magistrados, juezas y jueces; el ingreso, formación, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; declarar las vacantes de magistradas, magistrados, juezas y jueces en los casos previstos por esta Constitución; comunicar dichas vacantes al Congreso del Estado y al Instituto Tlaxcalteca de Elecciones para los efectos electorales conducentes, y las demás que establezcan las leyes;
 
-III. Elaborar el presupuesto del Poder Judicial del Estado, el cual lo remitirá para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+II. Expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la Ley;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+III. Elaborar el presupuesto del Poder Judicial del Estado, el cual lo remitirá para su inclusión en el proyecto de Presupuesto de Egresos del Estado, y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+IV. Hacer del conocimiento del Congreso del Estado, en los plazos previstos por esta Constitución, los cargos sujetos a elección, la especialización por materia, el distrito judicial respectivo, vacancias, renuncias y demás información que requiera la convocatoria correspondiente.
 
 Las personas integrantes del Órgano de Administración Judicial no representarán a quien los designa y ejercerán su función con independencia e imparcialidad, durante su encargo sólo podrán ser removidas en los términos del Título XI de la presente Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la Autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
 
@@ -2157,7 +2247,9 @@ El Tribunal de Disciplina Judicial del Estado funcionará en Pleno y en comision
 
 Cualquier persona o Autoridad podrá denunciar ante el Tribunal de Disciplina Judicial del Estado hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial del Estado, incluyendo magistradas, magistrados, juezas y jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial del Estado conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley.
 
-El Tribunal de Disciplina Judicial del Estado conocerá y resolverá el procedimiento de responsabilidades administrativas en primera instancia a través de comisiones conformadas por tres servidores públicos, que fungirán como autoridad investigadora, substanciadora y resolutora en los asuntos de su competencia. La autoridad a quien se encomiende la substanciación y/o resolución del procedimiento de responsabilidad administrativa, deberá ser distinto de aquél o aquellos encargados de la investigación. Sus resoluciones podrán ser impugnadas ante el Pleno, que resolverá por mayoría de cuatro votos, en los términos que señale la ley. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de éstas.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+El Tribunal de Disciplina Judicial del Estado conocerá y resolverá el procedimiento de responsabilidades administrativas en primera instancia a través de comisiones conformadas por tres servidores públicos, que fungirán como autoridad investigadora, substanciadora y resolutora en los asuntos de su competencia. La autoridad a quien se encomiende la substanciación y/o resolución del procedimiento de responsabilidad administrativa deberá ser distinta de aquella o aquellas encargadas de la investigación. Sus resoluciones podrán ser impugnadas ante el Pleno, que resolverá por mayoría de sus integrantes, en los términos que señale la Ley. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procederá juicio ni recurso alguno en contra de éstas.
 
 El Tribunal de Disciplina Judicial del Estado conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual ordenara la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
 
@@ -2165,7 +2257,9 @@ El Tribunal de Disciplina Judicial del Estado podrá dar vista al Ministerio Pú
 
 Las sanciones que emita el Tribunal de Disciplina Judicial del Estado podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con excepción de magistradas y magistrados del Pleno del Tribunal Superior de Justicia, que sólo podrán ser removidos en los términos del Título XI de esta Constitución.
 
-El Tribunal de Disciplina Judicial del Estado evaluará el desempeño de las magistradas, magistrados, juezas y jueces del Poder Judicial del Estado que resulten electas en la elección que corresponda durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+El Tribunal de Disciplina Judicial del Estado evaluará el desempeño de las magistradas, magistrados, juezas y jueces del Poder Judicial del Estado que resulten electas en la elección que corresponda durante su primer año de ejercicio, y aplicará programas de capacitación y actualización permanente. La Ley establecerá los métodos, criterios, indicadores, etapas, áreas intervinientes y mecanismos de seguimiento aplicables a dicha evaluación, garantizando la transparencia, imparcialidad y objetividad de los procesos de evaluación y de las personas evaluadoras.
 
 La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
 
@@ -2177,9 +2271,13 @@ El Tribunal de Disciplina Judicial del Estado conocerá y resolverá los conflic
 
 El Tribunal de Disciplina Judicial del Estado podrá solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional local en los asuntos de su competencia.
 
-Las magistradas y los magistrados del Tribunal de Disciplina del Estado ejercerán su función con independencia e imparcialidad. Durante su cargo, sólo podrán ser removidos en los términos del Título XI de esta Constitución.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Las magistradas y magistrados del Tribunal de Disciplina ejercerán su función bajo los principios de excelencia, profesionalismo, objetividad, imparcialidad e independencia.
+Las magistradas y los magistrados del Tribunal de Disciplina Judicial del Estado ejercerán su función con independencia e imparcialidad. Durante su cargo, sólo podrán ser removidos en los términos del Título XI de esta Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Las magistradas y magistrados del Tribunal de Disciplina Judicial del Estado ejercerán su función bajo los principios de excelencia, profesionalismo, objetividad, imparcialidad e independencia.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2435,11 +2533,11 @@ La Ley Municipal determinará las demás facultades y obligaciones de los Ayunta
 
 ### CAPITULO I. DEL INSTITUTO TLAXCALTECA DE ELECCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTICULO 95.
 
-El Instituto Tlaxcalteca de Elecciones es el órgano encargado de la organización, dirección, vigilancia y desarrollo de los procesos electorales y de consulta ciudadana que prevé el apartado A del artículo 29 de esta Constitución; que constituyen una función de carácter público y estatal; es autoridad en la materia, dotada de autonomía en su funcionamiento e independencia en sus decisiones con relación a los poderes públicos y a los particulares; tiene carácter permanente, personalidad jurídica y patrimonio propios; dispondrá de los elementos necesarios para el cumplimiento de sus atribuciones y gozará de autonomía presupuestal y financiera.
+El Instituto Tlaxcalteca de Elecciones es el órgano encargado de la organización, dirección, vigilancia y desarrollo de los procesos electorales, incluidos los procesos de elección de personas juzgadoras, y de consulta ciudadana que prevé el apartado A del artículo 29 de esta Constitución, la cual que constituye una función de carácter público y estatal; es autoridad en la materia, dotada de autonomía en su funcionamiento e independencia en sus decisiones con relación a los poderes públicos y a los particulares; tiene carácter permanente, personalidad jurídica y patrimonio propios; dispondrá de los elementos necesarios para el cumplimiento de sus atribuciones y gozará de autonomía presupuestal y financiera.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -2455,9 +2553,9 @@ En el cumplimiento de sus atribuciones y la consecución de sus fines, el Instit
 
 El Instituto Tlaxcalteca de Elecciones contará en su estructura con un consejo general que será el órgano superior de dirección, consejos distritales electorales, consejos municipales electorales y mesas directivas de casillas.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-El consejo general estará integrado por un consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos con registro nacional o estatal, concurrirán a las sesiones solo con derecho a voz; cada partido político contará con un representante en dicho Instituto. Los consejeros electorales del consejo general serán designados y removidos en términos de lo establecido por el artículo 116 de la Constitución Federal y la ley aplicable. Todos ellos durarán en su cargo siete años y no podrán ser reelectos. El Secretario Ejecutivo del Instituto Tlaxcalteca de Elecciones será nombrado por las dos terceras partes de su consejo general, a propuesta de su Consejero Presidente; durará en el cargo 7 años y podrá ser reelecto una sola vez; la ley de la materia determinará los requisitos para su nombramiento.
+El consejo general estará integrado por una Consejera Presidenta o Consejero Presidente y seis consejeras y consejeros electorales, con derecho a voz y voto; la persona titular de la Secretaría Ejecutiva y las personas representantes de los partidos políticos con registro nacional o estatal concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con una persona representante en dicho Instituto. En las acciones, actividades, sesiones y determinaciones vinculadas con la organización, desarrollo, vigilancia, cómputo y calificación administrativa de los procesos de elección de personas juzgadoras, no intervendrán las personas representantes de los partidos políticos. Las y los consejeros electorales del Consejo General serán designados y removidos en términos de lo establecido por el artículo 116 de la Constitución Federal y la Ley aplicable. Todos ellos durarán en su cargo siete años y no podrán ser reelectos. La o el Secretario Ejecutivo del Instituto Tlaxcalteca de Elecciones será nombrado por las dos terceras partes de su consejo general, a propuesta de la o le Consejero Presidente; durará en el cargo siete años y podrá ser reelecto una sola vez; la Ley de la materia determinará los requisitos para su nombramiento.
 
 > <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -2649,11 +2747,15 @@ ARTICULO 97 BIS.- El Tribunal de Justicia Administrativa del Estado de Tlaxcala 
 
 Tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública estatal y municipal con los particulares y será el órgano competente para imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, a los particulares que incurran en actos vinculados con faltas administrativas graves; así como para fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública Estatal o Municipal, o bien, al patrimonio de los entes públicos estatales o municipales, en los términos que establezca la legislación correspondiente.
 
-El Tribunal de Justicia Administrativa del Estado de Tlaxcala se compondrá por tres magistraturas, las cuales serán electas de manera libre, directa y secreta por la ciudadanía en la misma jornada electoral de las elecciones estatales ordinarias, conforme al procedimiento establecido en el artículo 84 de esta Constitución. La postulación de las personas candidatas se realizará a través del Comité de Evaluación del Poder Legislativo. Tendrá autonomía presupuestaria, el Congreso del Estado aprobará el presupuesto a propuesta del Presidente del Tribunal de Justicia Administrativa, para su inclusión en el proyecto de Presupuesto del Estado. Asimismo, el Tribunal deberá expedir su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+El Tribunal de Justicia Administrativa del Estado de Tlaxcala se compondrá por tres magistraturas, las cuales serán electas de manera libre, directa y secreta por la ciudadanía en la elección judicial local que corresponda, en forma coincidente con la elección judicial federal, conforme al procedimiento establecido en el artículo 84 de esta Constitución, en lo que resulte aplicable. La postulación de las personas candidatas se realizará a través del Comité de Evaluación del Poder Legislativo. Tendrá autonomía presupuestaria, el Congreso del Estado aprobará el presupuesto a propuesta del Presidente del Tribunal de Justicia Administrativa, para su inclusión en el proyecto de Presupuesto del Estado. Asimismo, el Tribunal deberá expedir su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
 
 Para ser magistrada o magistrado de este Tribunal se requiere cumplir con los requisitos para ser magistradas y magistrados establecidos en el artículo 83 de esta Constitución, así como acreditar experiencia profesional en materia de derecho administrativo y fiscal; ejercerán su cargo por un periodo de nueve años y podrán ser reelectos por un periodo adicional de la misma duración. No se podrá ocupar el cargo como propietario en forma consecutiva, ni discontinua, por más de dicho periodo. Las y los Magistrados solo podrán ser removidos de sus cargos por las causas graves que establezca la ley.
 
-Cuando la falta de magistradas o magistrados de este Tribunal excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo. Las licencias que excedan de un mes deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Cuando la falta de magistradas o magistrados de este Tribunal excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia, destitución o ausencia definitiva, la Presidencia del Tribunal declarará la vacante y ésta deberá renovarse para un nuevo periodo en la elección judicial inmediata posterior que corresponda. La Ley establecerá el régimen de sustitución temporal para garantizar la continuidad del servicio público de impartición de justicia. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo. Las licencias que excedan de un mes deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
 
 Las renuncias de las magistradas y magistrados, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente.
 
@@ -4373,11 +4475,17 @@ Las personas que se encuentren en funciones en los cargos señalados en el párr
 
 El Congreso del Estado tendrá un plazo de cuarenta y cinco días naturales posteriores a la entrada en vigor del presente Decreto para emitir la convocatoria para integrar los listados de las personas candidatas que participen en la elección extraordinaria para renovar los cargos del Poder Judicial del Estado, conforme al procedimiento previsto en el artículo 84 de este Decreto.
 
-Para el caso de magistradas, magistrados, juezas y jueces del Poder Judicial, la elección será escalonada, renovándose la mitad de los cargos correspondientes a cada distrito judicial en la elección extraordinaria del año 2025 y la parte restante en la elección ordinaria del año 2027, conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Para el caso de magistradas, magistrados, juezas y jueces del Poder Judicial, la elección será escalonada, renovándose la mitad de los cargos correspondientes a cada distrito judicial en la elección extraordinaria del año 2025 y la parte restante en la elección judicial local del año 2028, de forma coincidente con la elección judicial federal que se celebre en dicha anualidad, conforme a lo siguiente:
 
 a) Para seleccionar los cargos a renovar en la elección extraordinaria del año 2025, el Consejo de la Judicatura del Poder Judicial del Estado entregará al Congreso del Estado un listado con la totalidad de cargos de personas juzgadoras, indicando su distrito judicial, especialización por materia, género, vacancias, renuncias y retiros programados, y la demás información que se le requiera, e
 
 b) El Congreso del Estado determinará la porción de cargos a elegir en cada distrito judicial considerando en primer término las vacancias, renuncias y retiros programados. Los cargos restantes serán seleccionados en los términos publicados en la convocatoria.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Los cargos de personas juzgadoras del Poder Judicial del Estado que no hayan sido objeto de renovación en la elección judicial local del año 2025, así como las vacantes correspondientes, se elegirán sin excepción en la elección judicial local del año 2028. Las personas juzgadoras cuyo encargo concluiría en el año 2027 permanecerán en funciones hasta el año 2028, concluyendo su encargo en la fecha en que tomen protesta las personas servidoras públicas que emanen de la elección judicial respectiva.
 
 El Consejo General del Instituto Tlaxcalteca de Elecciones podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo y vigilancia del proceso electoral extraordinario del año 2025 y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales federales, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. Las y los representantes de los partidos políticos ante el Consejo General no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
 
@@ -4387,15 +4495,19 @@ Las boletas electorales contendrán, entre otros datos, el cargo y, en su caso, 
 
 La etapa de preparación de la elección extraordinaria del año 2025 iniciará con la primera sesión que el Consejo General del Instituto Tlaxcalteca de Elecciones celebre dentro de los siete días posteriores a la entrada en vigor del presente Decreto.
 
-La jornada electoral se celebrará el primer domingo de junio del año 2025. Podrán participar como observadoras las personas o agrupaciones acreditadas por el Instituto Tlaxcalteca de Elecciones, con excepción de representantes o militantes de un partido político.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+La jornada electoral de la elección judicial local del año 2028 se celebrará el primer domingo de junio de dicho año, de forma coincidente con la elección judicial federal. Podrán participar como observadoras las personas o agrupaciones acreditadas por la autoridad electoral competente, con excepción de representantes de los partidos políticos.
 
 El Instituto Tlaxcalteca de Elecciones efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, iniciando por mujer. También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal Electoral, quienes resolverán las impugnaciones a más tardar el 15 de agosto de 2025.
 
 Las personas que resulten electas tomarán protesta de su encargo ante el Congreso del Estado el 1o. de septiembre de 2025. El Órgano de Administración Judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar el 15 de septiembre de 2025.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
 ###### ARTÍCULO TERCERO.
 
-El periodo de las Magistradas y Magistrados del Poder Judicial del Estado, Tribunal de Justicia Administrativa y Tribunal de Conciliación y Arbitraje, las Juezas y Jueces que resulten electos en la elección extraordinaria que se celebre en el año 2025 conforme al artículo Segundo transitorio del presente Decreto durará ocho años, por lo que vencerá en el año 2033.
+El periodo de las magistradas y magistrados del Poder Judicial del Estado, Tribunal de Justicia Administrativa y Tribunal de Conciliación y Arbitraje, las juezas y jueces que resulten electos en la elección extraordinaria que se celebre en el año 2025 conforme al artículo Segundo transitorio del presente Decreto durarán ocho años, por lo que vencerá en el año 2033. El periodo de las personas juzgadoras que resulten electas en la elección judicial local del año 2028 será el que establezca esta Constitución y las leyes aplicables, sin perjuicio de las reglas de renovación escalonada que, en su caso, determine el Congreso del Estado.
 
 ###### ARTÍCULO CUARTO.
 
@@ -4590,3 +4702,71 @@ Remítase el presente Decreto a los sesenta ayuntamientos, que corresponden a lo
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 287.- SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+La totalidad de los cargos de magistradas, magistrados, juezas y jueces del Poder Judicial del Estado que no hubieren sido objeto de renovación en la elección judicial local celebrada en el año 2025, así como las vacantes definitivas que existan a la entrada en vigor del presente Decreto o que se generen con posterioridad y deban someterse a elección, serán renovadas sin excepción en la elección judicial local del año 2028, de forma coincidente con la elección judicial federal que se celebre en dicha anualidad.
+
+Las personas juzgadoras del Poder Judicial del Estado cuyo encargo concluiría en el año 2027 permanecerán en funciones hasta el año 2028, concluyendo su encargo en la fecha en que rindan protesta las personas servidoras públicas que emanen de la elección judicial local respectiva.
+
+###### ARTÍCULO TERCERO.
+
+La jornada electoral de la elección judicial local del año 2028 se celebrará el primer domingo de junio de dicho año, de forma coincidente con la elección judicial federal. El Instituto Tlaxcalteca de Elecciones realizará los actos preparatorios, de organización, cómputo, declaración de validez y entrega de constancias conforme a la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tlaxcala, las leyes generales aplicables, las leyes locales y los convenios de coordinación que, en su caso, celebre con el Instituto Nacional Electoral. El Órgano de Administración Judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar el quince de septiembre de dicha anualidad.
+
+###### ARTÍCULO CUARTO.
+
+El Pleno del Tribunal de Disciplina Judicial del Poder Judicial de Estado deberá emitir su Reglamento Interior dentro de un plazo no mayor a sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el cual regulará sus competencias, atribuciones, operación, periodicidad de sus sesiones, integración y facultades de sus comisiones y órganos auxiliares, incluyendo los procedimientos de responsabilidad administrativa, la evaluación del desempeño de la función judicial y los conflictos laborales.
+
+###### ARTÍCULO QUINTO.
+
+El Congreso del Estado deberá emitir la convocatoria para integrar los listados de candidaturas de la elección judicial local del año 2028 a más tardar el treinta de abril del año 2027. Dicha convocatoria deberá contener las etapas completas del procedimiento, fechas, plazos improrrogables, cargos a elegir, especialización por materia, ámbito territorial de elección, reglas de evaluación, reglas de insaculación, mecanismos de paridad de género y demás elementos necesarios para la certeza del proceso.
+
+###### ARTÍCULO SEXTO.
+
+El Órgano de Administración Judicial deberá remitir al Congreso del Estado, a más tardar el quince de abril del año 2027, el listado completo de los cargos del Poder Judicial del Estado sujetos a elección en el año 2028, indicando órgano jurisdiccional, distrito judicial, especialización por materia, género, vacancias, renuncias, licencias definitivas y demás información que resulte necesaria para la emisión de la convocatoria.
+
+Tratándose del Tribunal de Justicia Administrativa y del Tribunal de Conciliación y Arbitraje, cuando corresponda su renovación conforme a la Constitución local, la información respectiva será remitida por la persona que ocupe la presidencia del órgano correspondiente, dentro del mismo plazo previsto en el párrafo anterior.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las personas juzgadoras que se encuentren en funciones y aspiren a un cargo de elección distinto al que ocupen, deberán separarse del cargo mediante renuncia expresa e irrevocable, la cual deberán informar al Órgano de Administración Judicial antes de su registro en el proceso correspondiente. El Órgano de Administración Judicial comunicará de inmediato la vacante al Congreso del Estado y al Instituto Tlaxcalteca de Elecciones para los efectos constitucionales y legales conducentes.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto se expiden o reforman las leyes secundarias necesarias, se aplicarán directamente las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado Libre y Soberano de Tlaxcala y, de manera supletoria, la legislación electoral general y local, siempre que no se oponga a la naturaleza de la elección judicial ni a las bases constitucionales aplicables.
+
+###### ARTÍCULO NOVENO.
+
+El Congreso del Estado deberá realizar, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, las reformas necesarias a la Ley de Instituciones y Procedimientos Electorales para el Estado de Tlaxcala, a la Ley de Medios de Impugnación en Materia Electoral, a la Ley Orgánica del Poder Judicial del Estado de Tlaxcala, a la ley organica del Tribunal de Justicia Administrativa, a la legislación del Tribunal de Conciliación y Arbitraje y a las demás disposiciones legales que resulten necesarias para la plena ejecución del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos de evaluación, selección, insaculación, postulación, organización electoral, cómputo, declaración de validez, entrega de constancias, resolución de impugnaciones, toma de protesta, adscripción y sustitución temporal de cargos deberán observar los principios de certeza, legalidad, independencia, imparcialidad, objetividad, máxima publicidad, paridad de género, transparencia, accesibilidad y participación ciudadana.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los derechos laborales de las personas servidoras públicas del Poder Judicial del Estado, del Tribunal de Justicia Administrativa y del Tribunal de Conciliación y Arbitraje serán respetados en términos de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se reforman las disposiciones transitorias del Decreto publicado en el Periódico Oficial del Gobierno del Estado de Tlaxcala el diez de diciembre de 2024, en materia de reforma al Poder Judicial, para sustituir toda referencia a la elección ordinaria del año 2027 por la elección judicial local del año 2028, en los términos del presente Decreto.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El periodo de las magistradas, magistrados, juezas y jueces que resulten electos en la elección que se celebre en el año 2028, conforme al presente Decreto, durarán ocho años, por lo que vencerá en 2036.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Remítase el presente Decreto a los sesenta ayuntamientos que corresponden a los municipios que integran el Estado de Tlaxcala, para los efectos de lo dispuesto en el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
