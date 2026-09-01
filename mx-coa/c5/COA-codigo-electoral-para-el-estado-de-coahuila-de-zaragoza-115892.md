@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-para-el-estado-de-coahuila-de-zaragoza-115892"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-01"
-last_updated: "2025-08-29"
+last_updated: "2026-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 1 de agosto de 2016.
 
@@ -107,7 +107,9 @@ t) Ciudadanía: Las mujeres y los hombres que tengan las calidades reconocidas p
 
 a) Los derechos y obligaciones político-electorales de la ciudadanía;
 
-b) La organización y desarrollo de los procesos de renovación de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos del Estado de Coahuila;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+b) La organización y el desarrollo de los procesos de renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos del Estado de Coahuila, garantizando los principios de paridad de género, igualdad sustantiva y perspectiva de género;
 
 c) La organización, función y prerrogativas de los partidos políticos;
 
@@ -115,13 +117,17 @@ c) La organización, función y prerrogativas de los partidos políticos;
 
 d) El registro, derechos y obligaciones de las candidaturas independientes en los procesos electorales estatales;
 
-e) La organización y funcionamiento del Instituto, y Tribunal Electoral;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+e) La organización y funcionamiento del Instituto, y del Tribunal Electoral;
 
-f) La regulación de los actos y procedimientos para la preparación, organización, desarrollo, calificación y validez de las elecciones de los poderes Legislativo, Judicial y Ejecutivo, y de los Ayuntamientos;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-g) La relación entre el Instituto y el Instituto Nacional.
+f) La regulación de los actos y procedimientos para la preparación, organización, desarrollo, calificación y validez de las elecciones de los Poderes Legislativo, Judicial y Ejecutivo, así como de los Ayuntamientos, conforme a los principios previstos en este Código, y los de paridad de género, igualdad sustantiva y perspectiva de género;
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+g) La relación entre el Instituto y el Instituto Nacional, y
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
@@ -155,37 +161,67 @@ Para regular la participación electoral de las personas candidatas, el Institut
 
 2. La interpretación se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en la Constitución.
 
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-3. La protección de los derechos político-electorales de las mujeres deberá tener una interpretación progresiva y maximizadora, en la que se protejan de la violencia política por razones de género a las mujeres que participan en la vida pública y desempeñan un papel fundamental para el orden democrático, de manera enunciativa se protege a:
+3. La protección de los derechos político-electorales de las mujeres deberá tener una interpretación progresiva y maximizadora conforme al principio de igualdad sustantiva, en la que se protejan de la violencia política por razones de género a las mujeres que participan en la vida pública y desempeñan un papel fundamental para el orden democrático, de manera enunciativa se protege a:
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 a) Precandidatas.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 b) Candidatas.
 
-e) Aspirantes a candidatas independientes.
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+c) Aspirantes a candidatas independientes.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 d) Candidatas independientes.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 e) Funcionarias electas.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 f) Secretarias de estado.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 g) Periodistas.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 h) Defensoras de derechos humanos.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 i) Magistradas electorales.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 j) Consejeras electorales.
 
-k) Funcionarias del Instituto y Tribunal Electoral.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+k) Funcionarias del Instituto y del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 l) Funcionarias de casillas.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 m) Militantes.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 n) Afiliadas.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ñ) Simpatizantes.
 
@@ -203,23 +239,37 @@ p) Candidatas judiciales.
 
 ### CAPÍTULO PRIMERO. DE LOS DERECHOS Y OBLIGACIONES
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 6.
 
-1. Votar en las elecciones constituye un derecho y una obligación que se ejerce para integrar los órganos estatales de elección popular. También es derecho de la ciudadanía y obligación para los partidos políticos la igualdad de oportunidades; los partidos políticos garantizarán la paridad de género para tener acceso a cargos de elección popular, las candidaturas a diputaciones locales, así como integrantes de los ayuntamientos y estarán obligados a respetar las cuotas de género establecidas en este Código.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. Votar en las elecciones constituye un derecho y una obligación que se ejerce para integrar los órganos estatales de elección popular. También es derecho de la ciudadanía y obligación para los partidos políticos la igualdad de oportunidades. Los partidos políticos promoverán y garantizarán la paridad de género, así como la igualdad sustantiva para tener acceso a cargos de elección popular, las candidaturas a diputaciones locales, así como a integrantes de los Ayuntamientos y estarán obligados a respetar las cuotas de género establecidas en este Código.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 2. El voto es universal, libre, secreto, directo, personal e intransferible.
 
-3. Quedan prohibidos los actos que generen presión o coacción a los electores.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-4. Es derecho de la ciudadanía participar en las precampañas y campañas, apoyando a las candidaturas de su simpatía y a su partido, cuando se trate de funcionario público deberá participar con sus recursos propios y fuera del horario de trabajo oficial.
+3. Quedan prohibidos los actos que generen presión o coacción a las y los electores.
 
-5. En el caso de la o del titular del poder ejecutivo del estado y de las presidencias municipales no podrán participar apoyando a los aspirantes, candidaturas independientes, precandidaturas, candidaturas o partidos políticos debiendo abstenerse de hacer manifestaciones públicas a favor o en contra, desde el inicio del proceso electoral y hasta la conclusión del mismo.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-6. Es derecho de la ciudadanía constituir partidos políticos y afiliarse a ellos individual y libremente. Ninguna ciudadana o ciudadano podrá estar afiliado a más de un partido político.
+4. Es derecho de la ciudadanía participar en las precampañas y campañas, apoyando a las precandidaturas y candidaturas de su simpatía y a su partido, así como a las candidaturas independientes. Cuando se trate de una servidora pública o de un servidor público deberán participar con sus recursos propios y fuera del horario de trabajo oficial.
 
-7. La ciudadanía podrá participar en las candidaturas independientes a los cargos de elección popular, bajo los requisitos establecidos por este Código.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+5. En el caso de la o del titular del Poder Ejecutivo del Estado y de las Presidentas o Presidentes Municipales, no podrán participar apoyando a las y los aspirantes, candidaturas independientes, precandidaturas, candidaturas o partidos políticos, por lo que deberán abstenerse de hacer manifestaciones públicas a favor o en contra, desde el inicio del proceso electoral y hasta la conclusión del mismo.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+6. Es derecho de la ciudadanía constituir partidos políticos y afiliarse a ellos individual y libremente. Ninguna ciudadana o ciudadano podrá estar afiliada o afiliado a más de un partido político.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+7. Las ciudadanas y los ciudadanos podrán participar como candidatas o candidatos independientes a los cargos de elección popular, bajo los requisitos establecidos por este Código.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 8. Es obligación de la ciudadanía integrar las mesas directivas de casilla en los términos de las leyes generales y este Código.
 
@@ -309,15 +359,21 @@ j) Las observadoras y los observadores podrán presentar, ante el Instituto, inf
 
 2. Las organizaciones a las que pertenezcan las observadoras y los observadores electorales, a más tardar treinta días después de la jornada electoral, deberán declarar el origen, monto y aplicación del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con la observación electoral que realicen, mediante informe que presenten al Instituto.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 8.
 
-1. Para el ejercicio del voto la ciudadanía deberá satisfacer, además de los que fija el artículo 34 de la Constitución General y 18 de la Constitución, los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. Para el ejercicio del voto la ciudadanía deberá satisfacer, además de los que fija el artículo 34 de la Constitución General y 11 de la Constitución, los siguientes requisitos:
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 a) Estar inscritos en el Registro Federal de Electores, y
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 b) Contar con la credencial para votar correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 2. En cada municipio o distrito electoral, el sufragio se emitirá en la sección electoral que comprenda al domicilio de la ciudadana o del ciudadano, salvo en los casos de excepción expresamente señalados por este Código.
 
@@ -339,41 +395,63 @@ f) Los demás que señale este Código.
 
 ### CAPÍTULO SEGUNDO. DE LOS REQUISITOS DE ELEGIBILIDAD
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 10.
 
-1. Son requisitos para ser titular de la gubernatura, ocupar una diputación del Congreso del Estado o ser integrante de un Ayuntamiento, además de los que señalan respectivamente los artículos 36 y 76 de la Constitución y el artículo 43 del Código Municipal para el Estado de Coahuila de Zaragoza, los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. Son requisitos para ser titular de la gubernatura, ocupar una diputación del Congreso del Estado o ser integrante de un Ayuntamiento, además de los que señalan los artículos 36 y 76 de la Constitución y 43 del Código Municipal para el Estado de Coahuila de Zaragoza, los siguientes:
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 a) Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 b) No ser titular de Magistratura electoral o secretaría del Tribunal Electoral, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral de que se trate;
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 c) No ser titular de la Secretaría Ejecutiva, dirección ejecutiva o integrante del cuerpo del servicio profesional electoral del Instituto, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral de que se trate;
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 d) No ser consejera o consejero del Instituto, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral de que se trate;
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-e) No ser titular de alguna Secretaría de la Administración Pública Estatal, Fiscalía General del Estado, Magistrada o Magistrado del Poder Judicial, Presidencia Municipal, Sindicatura o Regiduría, integrante de las Legislaturas federal o local, Consejera o Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, salvo que se separen de su encargo un día antes del inicio de la precampaña que corresponda.
+e) No ser titular de alguna Secretaría de la Administración Pública Estatal, de la Fiscalía General del Estado, de una Magistratura del Poder Judicial, de una Presidencia Municipal, Sindicatura o Regiduría, o integrante de las Legislaturas federal o local, Consejera o Consejero o integrante del órgano de dirección de los organismos públicos autónomos o titular de los organismos descentralizados, salvo que se separen de su encargo un día antes del inicio de la precampaña que corresponda;
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 Las Diputaciones del Congreso del Estado y las y los titulares de las Presidencias Municipales no requerirán separarse de sus funciones cuando busquen la reelección del cargo. Las y los titulares de sindicaturas y regidurías tampoco requerirán separarse de sus funciones a menos de que contiendan al cargo de titular de la Presidencia Municipal, para lo cual deberán pedir licencia en los términos de la presente fracción;
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 Las candidaturas que contiendan en modalidad de reelección, tanto para el Congreso del Estado como Ayuntamientos, sin separarse del cargo, deberán abastenerse de realizar cualquier tipo de proselitismo electoral dentro (sic) los horarios de trabajo relativos a sus funciones
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 f) Presentar ante el Instituto la declaración patrimonial, fiscal y de no conflicto de intereses;
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 g) No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
 
-(NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL INCISO h) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
-
-h) No haber sido condenada o condenado por resolución o condena judicial firme por delito, INFRACCIÓN O DECLARACIÓN de cualquier tipo o modalidad de violencia en contra de las mujeres en razón de género de las contempladas en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia o la Ley de Acceso a las Mujeres a una Vida Libre de Violencia del Estado, así como por delitos, INFRACCIONES O DECLARACIONES COMETIDAS en contra de niñas, niños y adolescentes, establecidos en el Código Penal del Estado, o en la normatividad aplicable correspondiente.
+h) No haber sido condenada o condenado por resolución o condena judicial firme por la comisión intencional de delitos de cualquier tipo o modalidad de violencia en contra de las mujeres en razón de género de las contempladas en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias o en la Ley de Acceso a las Mujeres a una Vida Libre de Violencia del Estado, así como por delitos, cometidos en contra de niñas, niños y adolescentes, establecidos en el Código Penal del Estado, o en la normatividad aplicable correspondiente;
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
 i) No ser declarada, por juez o jueza competente, como persona deudora alimentaria morosa en los términos que establece el Código Nacional de Procedimientos Civiles y Familiares, lo cual se corroborará presentando el certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+j) Gozar de buena reputación y no haber sido condenada o condenado mediante sentencia firme por delitos graves, incluyendo los relacionados con delincuencia organizada, en los términos que establezca la ley, y
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+k) No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -387,25 +465,13 @@ i) No ser declarada, por juez o jueza competente, como persona deudora alimentar
 
 ### CAPÍTULO TERCERO. AFECTACIÓN A LOS DERECHOS POLÍTICO-ELECTORALES POR VIOLENCIA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO O POR INCUMPLIMIENTO DE OBLIGACIONES ALIMENTARIAS
 
-(NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+Artículo 11 BIS.
 
-Artículo 11 BIS. La vigencia de la inelegibilidad A LA QUE SE REFIEREN LOS INCISOS G) Y H) DEL ARTÍCULO ANTERIOR durará:
+La vigencia de la inelegibilidad durará en materia penal el tiempo que dure la extinción de la sanción correspondiente.
 
-(NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-I. EN MATERIA ELECTORAL POR EL TIEMPO QUE SE ESTABLEZCA EN EL REGISTRO NACIONAL PARA PERSONAS SANCIONADAS POR VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO.
-
-(NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-II. En materia penal por el tiempo que dure la extinción de la sanción penal, QUE NO PODRÁ SER MENOR A TRES AÑOS.
-
-(NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-III. EN MATERIA FAMILIAR, CIVIL O LABORAL, POR EL PLAZO QUE UNA VEZ PRESENTADA LA SOLICITUD DE INELEGIBILIDAD, EL TRIBUNAL ELECTORAL DETERMINE SEGÚN EL CASO EN CONCRETO.
-
-La solicitud para declarar la inelegibilidad podrá ser presentada por cualquier persona a través de un Juicio Electoral o Juicio para la para la (sic) Protección de los Derechos Político-Electorales de la Ciudadanía ante el Tribunal Electoral, dentro del plazo establecido en la Ley de Medios de Impugnación, debiéndose garantizar el derecho de audiencia.
+La solicitud para declarar la inelegibilidad podrá ser presentada por cualquier persona a través de un Juicio Electoral o Juicio para la Protección de los Derechos Político-Electorales de la Ciudadanía ante el Tribunal Electoral, dentro del plazo establecido en la Ley de Medios de Impugnación en Materia Político-Electoral y de Participación Ciudadana para el Estado de Coahuila de Zaragoza, debiéndose garantizar el derecho de audiencia.
 
 Para tal efecto, el Tribunal deberá realizar las notificaciones personales correspondientes y podrá allegarse de todos los documentos necesarios para sustanciar y resolver el medio de impugnación.
 
@@ -413,9 +479,9 @@ Para tal efecto, el Tribunal deberá realizar las notificaciones personales corr
 
 Artículo 11 TER. El derecho a ser votado podrá suspenderse temporalmente por ser declarada, por juez o jueza competente, como persona deudora alimentaria morosa.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-## TÍTULO TERCERO. DE LA ELECCIÓN DE DIPUTACIONES, GUBERNATURA DE LAS Y LOS INTEGRANTES DE LOS AYUNTAMIENTOS
+## TÍTULO TERCERO. DE LA ELECCIÓN DE DIPUTACIONES, GUBERNATURA E INTEGRANTES DE LOS AYUNTAMIENTOS
 
 ### CAPÍTULO PRIMERO. DE LOS SISTEMAS ELECTORALES
 
@@ -431,19 +497,13 @@ Artículo 11 TER. El derecho a ser votado podrá suspenderse temporalmente por s
 
 2. EL CONGRESO DEL ESTADO SE RENOVARÁ CADA TRES AÑOS, SE COMPONDRÁ DE DIECISÉIS DIPUTACIONES ELECTAS SEGÚN EL PRINCIPIO DE MAYORÍA RELATIVA, MEDIANTE EL SISTEMA DE DISTRITOS ELECTORALES UNINOMINALES, Y NUEVE QUE SERÁN ELECTOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL ORDINARIA Y DOS DE GRUPOS VULNERABLES, EN LOS TÉRMINOS QUE DISPONE EL ARTÍCULO 33 DE LA CONSTITUCIÓN Y ESTA LEY.
 
-3. Las diputadas y los diputados podrán ser electos hasta por cuatro periodos consecutivos, en los términos que señala la Constitución y observando lo siguiente:
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-a) La postulación y solicitud de registro solo podrá ser realizada por el mismo partido que los haya postulado previamente o bien por cualquiera de los partidos coaligados, salvo que la interesada o el interesado haya renunciado o perdido su militancia antes de cumplir la mitad de su periodo de mandato;
+3. Las personas propietarias a las diputaciones locales no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato.
 
-b) Tratándose de diputaciones que hayan sido electas como candidaturas independientes solo podrán postularse para la reelección con la misma calidad con la que fueron electas;
+Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas diputadas propietarias no podrán ser electas para el periodo inmediato posterior con el carácter de suplentes.
 
-c) Las diputadas y los diputados que pretendan la reelección podrán ser registradas o registrados por el principio de mayoría relativa o de representación proporcional.
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
-
-d) Las diputaciones externas o sin partido deberán desvincularse del partido político que originalmente los postuló, antes de la mitad de su mandato, si pretenden reelegirse por un partido político distinto. Este requisito no será exigible si el partido postulante perdió su registro.
-
-4. El Consejo General del Instituto emitirá los criterios de equivalencia para cumplir lo dispuesto en el inciso c) anterior, cuando por efecto de acuerdos del Instituto Nacional cambie la delimitación de distritos electorales o el número total de éstos.
+4. (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2026)
 
 (NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -511,41 +571,49 @@ D) LAS REGLAS INTERNAS DE POSTULACIÓN PARITARIA QUE CADA PARTIDO ESTABLEZCA DE 
 
 6. LA ELECCIÓN DE CUALQUIERA DE LAS REGLAS DE PARIDAD NO ES EXCLUYENTE, POR TANTO, LOS PARTIDOS POLÍTICOS PUEDEN COMBINAR LOS PROCESOS O REGLAS EN LOS PROCESOS DE DESIGNACIÓN INTERNA DE CANDIDATURAS A LA GUBERNATURA DEL ESTADO, EN ATENCIÓN A LOS PRINCIPIOS DE AUTODETERMINACIÓN Y AUTOORGANIZACIÓN PARTIDISTA.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 14.
 
-1. Los Ayuntamientos se integrarán en la forma prevista por la Constitución y el Código Municipal del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. Los Ayuntamientos se integrarán en la forma prevista por la Constitución General, la Constitución, el Código Municipal para el Estado de Coahuila de Zaragoza y este Código.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 2. Cada Municipio estará gobernado por un Ayuntamiento, cuyos integrantes serán electos conforme al sistema de mayoría relativa y de representación proporcional, en los términos de las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 3. Los Ayuntamientos se renovarán cada tres años.
 
-4. Las y los integrantes de los ayuntamientos podrán ser electos hasta por dos periodos consecutivos en los términos que señala la Constitución y observando lo siguiente:
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-a) La postulación y solicitud de registro solo podrá ser realizada por el mismo partido que los haya postulado previamente o bien por cualquiera de los partidos coaligados, salvo que la interesada o el interesado haya renunciado o perdido su militancia antes de cumplir la mitad de su periodo de mandato;
+4. Las personas electas que ejerzan los cargos de Presidenta o Presidente Municipal, Síndica o Síndico, Regidora o Regidor con el carácter de propietarias que hayan estado en ejercicio, no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato. La misma prohibición será aplicable a las personas que integren a los Ayuntamientos y que hayan sido electas como independientes.
 
-b) Tratándose de quienes hayan sido electos como candidatas y candidatos independientes solo podrán postularse para la reelección con la misma calidad con la que fueron electos;
-
-c) Las ciudadanas y ciudadanos que ocupen los cargos de presidencias municipales, sindicaturas y regidurías, que pretendan la reelección deberán ser registradas y registrados para el mismo municipio en que fueron electos previamente;
-
-d) Quienes hayan ocupado los cargos de sindicatura o regiduría podrán ser postuladas o postulados en el periodo inmediato siguiente como candidatas y candidatos a la presidencia municipal, sin que ello suponga reelección, pero quienes hayan ocupado el cargo de la presidencia municipal no podrán postularse como candidatas o candidatos a sindicaturas o regidurías en el periodo inmediato siguiente.
+Las personas a que se refiere el párrafo anterior, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias, a menos que hayan estado en ejercicio.
 
 ###### Artículo 15.
 
 1. La demarcación territorial de los distritos uninominales se establecerá mediante acuerdo tomado por el Consejo General del Instituto Nacional antes del inicio del proceso electoral en que vaya a aplicarse, conforme a lo establecido a las leyes generales y normas que lo regulen.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
-
 ###### Artículo 16.
 
-1. El registro de candidaturas a diputaciones de mayoría relativa se realizará mediante el sistema de fórmulas. Los partidos políticos, registrarán candidaturas observando el principio de paridad de género. Las fórmulas encabezadas por hombres podrán registrar suplentes hombres o mujeres indistintamente, en tanto que las fórmulas encabezadas por mujeres deberán registrar suplentes de este mismo género. En todo caso, deberán cumplir con los mismos requisitos establecidos en este Código. Para el registro deberán de postular de forma igualitaria, hombres y mujeres en cuando menos la mitad de los distritos, entregando una lista para que la autoridad realice la asignación que corresponda al partido.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. El registro de candidaturas a diputaciones de mayoría relativa se realizará mediante el sistema de fórmulas. Los partidos políticos, registrarán candidaturas observando los principios de paridad de género, igualdad sustantiva y perspectiva de género.
+
+Las fórmulas para personas diputadas al Congreso del Estado que registren los partidos políticos, en los casos de mayoría relativa, como de representación proporcional, estarán compuestas cada una por una persona propietaria y una persona suplente, ambas del mismo género. En todo caso, deberán cumplir con los mismos requisitos establecidos en este Código.
+
+Para el registro deberán de postular de forma igualitaria, hombres y mujeres en cuando menos la mitad de los distritos, entregando una lista para que la autoridad realice la asignación que corresponda al partido.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 2. Para tener derecho al registro de las listas de candidaturas a diputaciones por el principio de representación proporcional, cada partido político deberá registrar al menos nueve fórmulas de candidaturas a diputaciones de mayoría relativa.
 
-3. En caso de que, en la integración del Congreso las mujeres se encuentren subrepresentadas, el Instituto tendrá la obligación de hacer las sustituciones necesarias para garantizar la paridad. Para ello, una vez que se hayan revisado los límites de sobre y subrepresentación, se realizarán los ajustes iniciando en la fase de resto mayor con el o los candidatos hombres del partido político que hayan sido asignados con el menor número de votos.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Si aún fuera necesario realizar ajustes para garantizar la paridad, éstos deberán efectuarse en la fase de cociente natural, debiendo recaer en el o los candidatos hombres asignados cuyo partido político hubiere obtenido el menor número de votos no utilizados en la asignación.
+3. En caso de que en la integración del Congreso, las mujeres se encuentren subrepresentadas, el Instituto tendrá la obligación de hacer las sustituciones necesarias para garantizar la paridad de género. Para ello, una vez que se hayan revisado los límites de sobre y subrepresentación, se realizarán, considerando los principios de igualdad sustantiva y perspectiva de género, los ajustes iniciando en la fase de resto mayor con el o los candidatos hombres del partido político que hayan sido asignados con el menor número de votos.
+
+Si aún fuera necesario realizar ajustes para garantizar la paridad de género, éstos deberán efectuarse en la fase de cociente natural, debiendo recaer en el o los candidatos hombres asignados cuyo partido político hubiere obtenido el menor número de votos no utilizados en la asignación.
 
 Por último, si las mujeres continúan subrepresentadas, los siguientes ajustes se harán en la fase de porcentaje específico, comenzando con el partido que hubiere obtenido el menor porcentaje de la votación válida emitida.
 
@@ -557,7 +625,27 @@ Por lo que respecta a las personas en condición de vulnerabilidad previstas en 
 
 En el caso de las coaliciones electorales, esta se considerará como un solo partido político para la postulación de las candidaturas referidas en el párrafo anterior.
 
-Los partidos políticos deberán postular preferentemente candidaturas que pertenezcan a los grupos de personas de pueblos y comunidades indígenas y afromexicanas; personas con discapacidad, personas que se autoadscriban como LGBTTTIQ+ , personas adultas mayores y personas jóvenes. Las personas que integren la fórmula deberán de pertenecer al mismo grupo.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Los partidos políticos deberán postular preferentemente candidaturas que pertenezcan a los grupos de personas de pueblos y comunidades indígenas y afromexicanas; personas con discapacidad, personas que se autoadscriban como LGBTTTIQ+, personas adultas mayores y personas jóvenes. Las personas que integren la fórmula podrán pertenecer a cualquiera de los grupos.
+
+Para el caso de las candidaturas de personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas, así como a las personas que se autoadscriban como LGBTTTIQ+, basta con su autoadscripción como requisito para tener por acreditada la pertenencia a dicho grupo en situación de vulnerabilidad.
+
+Cuando se tenga la presunción de fraude a la autoadscripción, al Instituto le corresponderá investigar y resolver lo conducente a partir de los elementos con que cuente, sin imponer cargas a las y los sujetos interesados, ni generar actos de molestia que impliquen la discriminación de la persona candidata. Por su parte, los fraudes a esta disposición provocarán la inelegibilidad de la candidatura correspondiente.
+
+Los lineamientos, acuerdos o criterios que en su caso emita el Instituto, deberán apegarse a lo previsto en la presente disposición. No podrán solicitar requisitos adicionales que distorsionen las postulaciones referidas en los párrafos anteriores.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 16 Ter.
+
+Los partidos políticos, en la elección de Ayuntamientos, deberán postular por el principio de mayoría relativa, una fórmula en por lo menos ocho municipios conformada por cualquiera de las categorías de vulnerabilidad señaladas en el artículo 81 de la Carta de Derechos Políticos de Coahuila de Zaragoza.
+
+En el caso de las coaliciones electorales, éstas se considerarán como un solo partido político para la postulación de las candidaturas referidas en el párrafo anterior.
+
+Los partidos políticos deberán postular por el principio de representación proporcional, una fórmula en al menos 10 municipios, conformada por cualquiera de las categorías de vulnerabilidad señaladas en el artículo 81 de la Carta de Derechos Políticos de Coahuila de Zaragoza.
+
+Los partidos políticos deberán postular preferentemente candidaturas que pertenezcan a los grupos de personas de pueblos y comunidades indígenas y afromexicanas; personas con discapacidad, personas que se autoadscriban como LGBTTTIQ+, personas adultas mayores y personas jóvenes. Las personas que integren la fórmula podrán pertenecer a cualquiera de las categorías de vulnerabilidad.
 
 Para el caso de las candidaturas de personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas, así como a las personas que se autoadscriban como LGBTTTIQ+, basta con su autoadscripción como requisito para tener por acreditada la pertenencia a dicho grupo en situación de vulnerabilidad.
 
@@ -567,15 +655,17 @@ Los lineamientos, acuerdos o criterios que en su caso emita el Instituto, deber�
 
 ###### Artículo 17.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-1. Los partidos políticos garantizarán la paridad de género, por lo que las candidaturas propietarias a diputaciones por ambos principios de cada partido político deberán ser al menos el cincuenta por ciento para el género femenino. El Instituto, rechazará el registro del número de candidaturas del género que no cumpla con el principio de paridad, fijando al partido un plazo improrrogable de tres días para la sustitución de estas.
+1. Los partidos políticos garantizarán el principio de paridad de género, así como la igualdad sustantiva, por lo que las candidaturas propietarias a diputaciones por ambos principios de cada partido político deberán ser al menos el cincuenta por ciento para el género femenino.
 
 > <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 La postulación de candidaturas al Congreso del Estado deberá cumplir con los requisitos de competitividad y transversalidad para garantizar la paridad de género, de conformidad con las siguientes bases:
 
-I. La postulación de las candidaturas en la elección de diputaciones por ambos principios, tanto para partidos políticos como para coaliciones deberá ser del cincuenta por ciento para cada género.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+I. La postulación de las candidaturas en la elección de diputaciones por ambos principios, tanto para partidos políticos como para coaliciones deberá ser al menos el cincuenta por ciento para el género femenino.
 
 II. El Instituto dividirá en dos bloques de ocho distritos cada uno a cada partido político conforme a los porcentajes de votación que haya obtenido en la elección inmediata anterior de diputaciones, los cuales serán catalogados de alta y baja competitividad respectivamente.
 
@@ -593,13 +683,15 @@ Si con motivo de la coalición, el número total de las candidaturas es impar, s
 
 VIII. Tratándose de una coalición total, cada partido coaligado debe postular de manera paritaria las candidaturas que le corresponden al interior de la coalición.
 
-IX. Los partidos políticos asumirán plena responsabilidad para garantizar el cumplimiento del principio de paridad de género en el registro de candidaturas, independientemente de los casos de reelección, en cuyo supuesto el partido tendrá que hacer los ajustes correspondientes.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-(NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+IX. Los partidos políticos, conforme a los principios de igualdad sustantiva y perspectiva de género, asumirán plena responsabilidad para garantizar el cumplimiento del principio de paridad de género en el registro de candidaturas.
 
-X. CUANDO SE INCUMPLA CON LA PARIDAD DE GÉNERO EN EL REGISTRO DE CANDIDATURAS, EL INSTITUTO OTORGARÁ, POR ÚNICA VEZ, UN PLAZO DE 24 HORAS PARA SUBSANAR LA OMISIÓN.
+X. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2026)
 
-EN CASO DE QUE ALGÚN PARTIDO POLÍTICO INCUMPLA CON LAS REGLAS DE PARIDAD, EL INSTITUTO PROCEDERÁ A LA CANCELACIÓN DE LOS REGISTROS DE CANDIDATURAS DE HOMBRES QUE REPRESENTEN EL DÉFICIT DE PARIDAD, LO ANTERIOR MEDIANTE UN SORTEO ALEATORIO Y PÚBLICO DE LOS DISTRITOS EN LOS QUE SE HAYAN REGISTRADO.
+> <small>(REFORMADO [N. DE E. PERTENECE AL NUMERAL 1], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+En caso de que algún partido político incumpla con las reglas de paridad de género, el Instituto procederá a la cancelación de los registros de candidaturas de hombres que representen el déficit de paridad. Lo anterior mediante un sorteo aleatorio y público de los distritos en los que se hayan registrado.
 
 > <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
@@ -613,13 +705,17 @@ III. Si el resultado de las diputaciones de mayoría relativa no es paritario, e
 
 IV. Con independencia de la existencia de coaliciones, cada partido deberá registrar por sí mismo las listas de candidaturas a diputaciones de representación proporcional.
 
-V. Para garantizar la paridad, el Instituto observará las reglas del artículo 16, numeral 3 de este código.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+V. Para garantizar la paridad de género, el Instituto observará las reglas del artículo 16, numeral 3 de este Código.
+
+> <small>[N. DE E. PERTENECE AL NUMERAL 2, P.O. 29 DE SEPTIEMBRE DE 2023]</small>
 
 La asignación de personas no binarias no reducirá la participación paritaria de las mujeres.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-3. En la integración de las planillas para integrantes de los Ayuntamientos, se observará la paridad horizontal y vertical al postular todos los cargos que lo conforman, debiendo presentar, en al menos la mitad de los municipios o en su caso en la mitad de las candidaturas que registre, planillas encabezadas por un género distinto. Para ello, los partidos o las coaliciones deberán dividir las postulaciones en los municipios en tres bloques, registrando al menos el cincuenta por ciento de las postulaciones de un género distinto en cada segmento:
+3. En la integración de las planillas para integrantes de los Ayuntamientos, así como al postular todos los cargos que los conforman, los partidos políticos garantizarán la paridad de género atendiendo a los principios de verticalidad y horizontalidad e igualdad sustantiva. Asimismo, deberán presentar en al menos la mitad de los municipios o, en su caso, en la mitad de las candidaturas que registren, planillas encabezadas por un género distinto. Para ello, los partidos políticos o las coaliciones deberán dividir las postulaciones en los municipios en tres bloques, registrando al menos el cincuenta por ciento de las postulaciones de un género distinto en cada segmento:
 
 a) Municipios de hasta 7,000 habitantes.
 
@@ -627,13 +723,11 @@ b) Municipios de 7,001 a 50,000 habitantes.
 
 c) Municipios de 50,001 habitantes en adelante.
 
-(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+4. El Instituto revisará que los partidos políticos o coaliciones cumplan con lo previsto en los numerales 1, 2 y 3 de este artículo. En caso de incumplimiento, el Instituto otorgará un plazo improrrogable de cuarenta y ocho horas siguientes para subsanar los requisitos de lo contrario, se rechazará el registro.
 
-4. LOS PARTIDOS POLÍTICOS PODRÁN CONFORMAR SUS LISTAS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL OPTANDO POR UN SISTEMA MIXTO OBSERVANDO LAS REGLAS PREVISTAS EN LOS NUMERALES 2 Y 3 DEL PRESENTE ARTÍCULO.
-
-EN CASO DE OPTAR POR EL SISTEMA MIXTO, LOS PARTIDOS SERÁN LIBRES PARA DETERMINAR EL ORDEN DE PRELACIÓN DE SUS DOS LISTAS, UNA DE HOMBRES Y UNA DE MUJERES, SEÑALANDO QUÉ FÓRMULAS SE SUJETARÁN A CADA REGLA RESPECTIVAMENTE.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 5. En la integración de las planillas para integrantes de los Ayuntamientos, se observarán la paridad horizontal y vertical al postular todos los cargos que lo conforman, debiendo presentar, en al menos la mitad de los municipios o en su caso en la mitad de las candidaturas que registre, planillas encabezadas por un género distinto, para ello los partidos podrán dividir las postulaciones en los municipios en cuatro bloques, registrando al menos el cuarenta por ciento de las postulaciones de un género distinto en cada segmento:
 
@@ -645,6 +739,8 @@ c) Municipios de 40001 a 100000
 
 d) Municipios de 100 001 en adelante
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 6. El Instituto revisará que los partidos políticos o coaliciones cumplan con lo previsto en los numerales 1, 2 y 3 de este artículo. Si de la revisión de las solicitudes de registros se desprende que no se cumple con la paridad en la postulación de las candidaturas, el instituto otorgará un plazo de hasta veinticuatro horas para subsanar la omisión, en caso de no hacerlo se negará el registro solicitado.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
@@ -655,13 +751,17 @@ d) Municipios de 100 001 en adelante
 
 2. La designación de la regiduría étnica o afromexicana en esos municipios se realizará de acuerdo con sus sistemas normativos conformados por los principios, normas, procedimientos y prácticas tradicionales, pero debiendo observar el principio de paridad de género.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 17 Ter.
 
-1. El Consejo General del Instituto, dentro de los primeros 15 días del proceso electoral para la integración de ayuntamientos, emitirá los lineamientos para la designación de la fórmula de regiduría étnica o afromexicana.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. El Consejo General del Instituto, dentro de los primeros quince días del proceso electoral para la integración de los Ayuntamientos, emitirá los lineamientos para la designación de la fórmula de regiduría indígena o afromexicana. Para tal efecto, deberá observar los límites de integración de los Ayuntamientos previstos en el artículo 19 de este Código, a efecto de que la asignación de las regidurías indígenas o afromexicanas se realice sin exceder el número máximo de integrantes que corresponda a cada municipio, de conformidad con las disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 2. Para la designación de la regiduría étnica o afromexicana, el Instituto deberá considerar a todas las comunidades étnicas o afromexicanas que tengan asentamiento dentro del territorio de Coahuila, así como su sistema normativo; además deberán registrar ante el Consejo General la autoridad que los represente ante el citado órgano.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 3. Será facultad del Consejo General reglamentar lo relativo a la falta, ausencia y sustituciones de las personas integrantes de las regidurías étnicas o afromexicanas.
 
@@ -678,6 +778,54 @@ b) Gozar de la garantía de no remoción ni privación de la facultad de represe
 c) Acceder a los mismos recursos económicos y materiales que el resto de las regidurías.
 
 d) Contar con la asistencia correspondiente para cualquier traducción que requiera en el ejercicio de su encargo.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 17 Quinquies.
+
+1. Los partidos políticos, coaliciones y candidaturas independientes garantizarán la paridad entre hombres y mujeres para tener acceso a las candidaturas relativas a la integración del Ayuntamiento y estarán obligados a respetar el principio constitucional de Paridad de Género en sus distintas vertientes.
+
+2. En la integración de las planillas que registren los partidos políticos, coaliciones o candidaturas independientes se deberá de observar la paridad de género, debiendo postular el 50% de cada género.
+
+3. Las planillas que presenten los partidos políticos, coaliciones o candidaturas independientes, para la integración de los Ayuntamientos, deberán de estar integradas por una candidatura propietaria y suplente del mismo género, y se presentarán de forma alternada.
+
+Asimismo, también se podrá postular una candidatura propietaria y suplente de distinto género, siempre y cuando la persona propietaria sea hombre y la suplente sea mujer.
+
+4. Cuando sea impar el número total de candidaturas postuladas por algún partido político, coalición o candidatura independiente en la planilla respectiva, el número mayoritario procurará corresponder al género mujer.
+
+5. Para efecto de cumplir con el principio de paridad de género, los partidos políticos, coaliciones parciales y flexibles y candidaturas independientes, deberán realizar individualmente la postulación en sus planillas respectivas. En el caso de coaliciones totales, se les considerará como un solo partido político.
+
+I. Tratándose de una coalición flexible o parcial se debe observar lo siguiente: la coalición debe presentar sus candidaturas paritariamente, para lo cual no es necesario exigir que cada uno de los partidos políticos que la integra registre el mismo número de mujeres y hombres en las postulaciones que les corresponden al interior de la asociación y, los partidos coaligados deben presentar de manera paritaria la totalidad de sus candidaturas, lo que implica que la suma de las que se presentan a través de la coalición y de forma individual resulte al menos la mitad de mujeres.
+
+II. Tratándose de una coalición total, cada partido coaligado debe postular de manera paritaria las candidaturas que le corresponden al interior de la coalición, pues esta es la única manera de cumplir con el mandato de postulación paritaria en lo individual.
+
+Tratándose de coaliciones, para contabilizar el número de candidatas y candidatos postulados por los partidos políticos, se revisarán los convenios de coaliciones. Por lo que, es necesario que del total de las postulaciones que correspondan a cada partido de acuerdo al convenio de coalición, se cumpla con la paridad, lo anterior de conformidad con la presente disposición.
+
+6. Con la finalidad de cumplir con la paridad horizontal, los partidos políticos y/o coaliciones deberán equilibrar las postulaciones que realicen en los municipios, registrando al menos el 50 % de las postulaciones del género mujer en cada uno de los tres bloques poblacionales, de conformidad con lo dispuesto en el artículo 17, numeral 3 de este Código.
+
+Cuando sea impar el número total de candidaturas postuladas por algún partido político, coalición, el número mayoritario procurará corresponder al género mujer.
+
+7. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos municipios en los que el partido y/o coalición hayan obtenido los porcentajes de votación más bajos en la elección desarrollada en el Proceso Electoral Local de Ayuntamientos correspondiente.
+
+A efecto del cumplimiento de la paridad transversal, las postulaciones se sujetarán a lo siguiente:
+
+I. Por cada partido político y/o coalición se enlistarán los resultados obtenidos por municipio en la elección desarrollada en el Proceso Electoral correspondiente, ordenados conforme al porcentaje de votación obtenida de mayor a menor.
+
+II. Acto seguido, por cada bloque poblacional, se enlistarán los municipios que lo integren en orden decreciente de acuerdo al porcentaje de votación obtenido en la elección correspondiente, a fin de conseguir un segmento de alto porcentaje de votación y un segmento de bajo porcentaje de votación, a efecto de observar lo dispuesto en el artículo 3, numeral 5, de la Ley General de Partidos Políticos, el cual prevé que no se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos Ayuntamientos en los que el partido político o coalición haya obtenido los porcentajes de votación más bajos.
+
+III. Si al hacer la división de municipios en los dos segmentos referidos en la fracción anterior, sobrare alguno, éste se agregará al segmento de votación alta.
+
+IV. En los casos en que los partidos políticos en lo individual o en coalición, no hayan postulado candidatura en la elección correspondiente y al no existir un parámetro para determinar porcentaje de votación, las postulaciones se realizarán atendiendo a los criterios de paridad, exceptuándose los criterios de competitividad.
+
+Los lineamientos, acuerdos o criterios que en su caso emita el Instituto, deberán apegarse a lo previsto en el presente artículo y a este Código, y no podrán solicitar requisitos ni establecer medidas o acciones adicionales que distorsionen las postulaciones referidas en las disposiciones anteriores.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 17 Sexies.
+
+1. Para efectos de dar cumplimiento al principio de paridad de género, el Instituto debe garantizar la integración paritaria de cada Ayuntamiento, para lo cual deberá hacer los ajustes necesarios para alcanzarla, realizando la modificación en la asignación de regidurías por el principio de representación proporcional.
+
+2. El ajuste se realizará únicamente cuando resulte subrepresentado el género femenino, y se llevará a cabo al concluir el ejercicio de asignación, iniciando en la fase de resto mayor con el o los candidatos hombres del partido o candidatura independiente que hayan sido asignados con el menor número de votos; si aún correspondieran realizarse ajustes, éstos deberán efectuarse en la siguiente fase de cociente natural, debiendo recaer en el o los candidatos hombres asignados a cuyo partido político hubiere obtenido el menor número de votos no utilizados para la asignación; por último si quedaran subrepresentadas las mujeres, los ajustes podrán hacerse en la fase siguiente, es decir, en porcentaje específico, la cual se hará con el partido que hubiere obtenido el menor porcentaje de votación válida emitida.
 
 ### CAPÍTULO SEGUNDO. DE LA REPRESENTACIÓN PROPORCIONAL EN EL CONGRESO Y LOS MUNICIPIOS
 
@@ -717,35 +865,33 @@ f) Ningún partido político podrá contar con más de dieciséis diputaciones p
 
 g) EL CONSEJO GENERAL DEBERÁ VERIFICAR LA AFILIACIÓN EFECTIVA DE LAS CANDIDATURAS REGISTRADAS POR LAS COALICIONES ELECTORALES, PARA EFECTOS DE EVITAR DISTORSIONES EN LA REPRESENTATIVIDAD DEL CONGRESO DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 19.
 
-1. Cada Municipio estará gobernado por un Ayuntamiento, cuyos miembros serán electos conforme al sistema de mayoría relativa y de representación proporcional.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. Cada Municipio estará gobernado por un Ayuntamiento cuyos integrantes serán electas y electos conforme al sistema de mayoría relativa y de representación proporcional.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 2. La base para definir el número de integrantes de cada Ayuntamiento será el número de habitantes de conformidad con el último censo poblacional del Instituto Nacional de Estadística y Geografía, conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-a) Los miembros de los Ayuntamientos que serán electos según el principio de mayoría relativa en cada uno de los municipios del Estado, serán los siguientes:
+a) Las y los integrantes de los Ayuntamientos que serán electas y electos según el principio de mayoría relativa en cada uno de los municipios del Estado, serán los siguientes:
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 I. Una Presidencia Municipal, cinco Regidurías y una Sindicatura en los municipios que tengan hasta 7,000 habitantes.
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
 II. Una Presidencia Municipal, siete Regidurías y una Sindicatura, en los municipios que tengan de 7,001 hasta 50,000 habitantes.
 
-III. Una Presidencia Municipal, once Regidurías y una Sindicatura en los municipios que tengan 50,001 habitantes en adelante.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-b) Se asignará una segunda sindicatura al partido político que se constituya como la primera minoría.
+III. Una Presidencia Municipal, diez Regidurías y una Sindicatura en los municipios que tengan 50,001 habitantes en adelante.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
-
-La Sindicatura de primera minoría se asignará a la opción política que haya obtenido el segundo lugar en la votación y será otorgada a la candidatura que haya sido postulada al cargo de Síndico de mayoría en la planilla respectiva.
-
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
-
-Una vez asignada la Sindicatura de primera minoría, los candidatos a la Sindicatura de Mayoría postulados por los partidos políticos restantes ya no podrán formar parte del cabildo.
+b) (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2026)
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
@@ -755,15 +901,19 @@ I. Dos Regidurías, en los municipios que cuenten hasta con 7,000 habitantes.
 
 II. Cuatro Regidurías, en aquellos municipios que tengan de 7,001 hasta 50,000 habitantes, y
 
-> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-III. Seis Regidurías, en aquellos municipios que tengan de 50,001 habitantes en adelante.
+III. Cinco Regidurías en aquellos municipios que tengan de 50,001 habitantes en adelante.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 3. Para que los partidos políticos o planilla de candidatura independiente tengan derecho a participar en la asignación de Regidurías de representación proporcional, deberán satisfacer los siguientes requisitos:
 
 a) Que no hayan alcanzado el triunfo de mayoría en el Municipio de que se trate; y
 
 b) Que obtengan, por lo menos, el tres por ciento del total de la votación válida emitida en el Municipio correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 4. La asignación de Regidurías de representación proporcional se hará conforme a las fórmulas de porcentaje específico, cociente natural y resto mayor, de acuerdo con las bases siguientes:
 
@@ -779,7 +929,9 @@ c) Si después de aplicar el cociente natural restan regidurías por repartir, �
 
 Se entiende por resto mayor, el remanente de votación más alto de cada partido político después de deducir la que utilizó para la asignación de regidurías a que se refieren todas las fracciones anteriores.
 
-5. En la distribución y asignación de regidurías por el principio de representación proporcional, deberá de garantizarse el principio de paridad de género que se establecen en el presente Código.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+5. En la distribución y asignación de regidurías por el principio de representación proporcional, deberán garantizarse los principios de paridad de género e igualdad sustantiva en los términos previstos por la Constitución General, la Constitución y el presente Código.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
@@ -787,15 +939,25 @@ Se entiende por resto mayor, el remanente de votación más alto de cada partido
 
 Las listas de candidaturas postuladas por el principio de representación proporcional podrán integrarse con las candidaturas postuladas por el principio de mayoría relativa a la Presidencia Municipal y las Regidurías, en el orden de prelación que determinen los partidos políticos.
 
-Los partidos políticos podrán incluir libremente en su lista a ciudadanos que no fueron postulados por el principio de mayoría relativa.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Los partidos políticos podrán incluir libremente en su lista a ciudadanas y ciudadanos que no fueron postulados por el principio de mayoría relativa.
 
 En el caso de que un partido político no haya registrado una lista de candidaturas de representación proporcional, el Instituto realizará la asignación entre aquellas candidaturas propietarias que hubieren sido postuladas bajo el principio de mayoría relativa, siguiendo el orden de prelación en el que fueron registradas ante el Instituto, asignando la primera regiduría a los candidatos a la Presidencia Municipal y las subsecuentes a las candidaturas a las Regidurías que correspondan.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 7. En los municipios en donde se presente un sólo partido a la elección, las regidurías serán electas únicamente por mayoría.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 8. El Instituto, al realizar el procedimiento de asignación de las regidurías de representación proporcional, seguirá el orden de prelación establecido en su lista por cada partido político, coalición o planilla de candidaturas independientes.
 
-9. En caso de que la persona que corresponda, de conformidad a la lista de preferencia de cada partido, no garantice el principio de paridad en la integración del ayuntamiento, el Instituto tendrá la obligación de hacer la sustitución necesaria para que el lugar que pertenezca a cada partido sea ocupado por la siguiente persona en el orden de prelación de la lista que cumpla con el requisito de género.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+9. En caso de que la persona que corresponda, de conformidad a la lista de preferencia de cada partido, no garantice el principio de paridad de género en la integración del Ayuntamiento, el Instituto tendrá la obligación de hacer la sustitución necesaria para que el lugar que pertenezca a cada partido sea ocupado por la siguiente persona en el orden de prelación de la lista que cumpla con el requisito de género.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 10. La asignación de las regidurías étnicas se llevará a cabo de conformidad con los lineamientos que para tal efecto emita el Consejo General del Instituto y su funcionamiento atenderá a las bases contenidas en el artículo 17 Quater.
 
@@ -813,23 +975,33 @@ b) Diputaciones, cada tres años, y
 
 c) Ayuntamientos, cada tres años.
 
-2. El día en que deban celebrarse las elecciones ordinarias en el Estado, los patrones y centros de trabajo, deberán otorgar a sus trabajadores las facilidades necesarias para que éstos puedan ejercer su derecho al voto.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-3. Tratándose de la elección de la gubernatura, el Instituto expedirá la convocatoria correspondiente, dentro de los primeros quince días siguientes al inicio del proceso electoral; cuando se trate de elecciones de Diputaciones y Ayuntamientos concurrentes con la de la gubernatura, las convocatorias deberán expedirse al mismo tiempo que la de la gubernatura.
+2. El día en que deban celebrarse las elecciones ordinarias en el Estado, las y los patrones y centros de trabajo, deberán otorgar a las personas trabajadoras las facilidades necesarias para que éstas puedan ejercer su derecho al voto.
 
-4. El Instituto expedirá la convocatoria, por lo menos dentro de los cuarenta y cinco días siguientes al inicio del proceso electoral, tratándose de elecciones de Diputaciones y miembros de Ayuntamientos.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+3. Tratándose de la elección de la gubernatura, el Instituto expedirá la convocatoria correspondiente dentro de los primeros quince días siguientes al inicio del proceso electoral; cuando se trate de elecciones de Diputaciones e integrantes de Ayuntamientos concurrentes con la de la gubernatura, las convocatorias deberán expedirse al mismo tiempo.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+4. El Instituto expedirá la convocatoria, por lo menos dentro de los cuarenta y cinco días siguientes al inicio del proceso electoral, tratándose de elecciones de Diputaciones e integrantes de Ayuntamientos.
 
 5. En dicha convocatoria se expresarán los cargos que en ellas habrán de elegirse y la fecha de la jornada electoral.
 
 ###### Artículo 21.
 
-1. Cuando se declare nula una elección o los integrantes de la fórmula triunfadora resultaren inelegibles, la convocatoria para la elección extraordinaria deberá emitirse dentro de los noventa días siguientes a la declaración de la misma.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-2. En el caso de vacantes de miembros del Congreso, electos por el principio de mayoría relativa, el Instituto convocará a elecciones extraordinarias en un plazo de noventa días siguientes a la notificación de la diputación vacante.
+1. Cuando se declare nula una elección, o las personas integrantes de la fórmula triunfadora resultaren inelegibles, la convocatoria para la elección extraordinaria deberá emitirse dentro de los noventa días siguientes a la declaración de la misma.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-3. Las vacantes de miembros del Congreso electos por el principio de representación proporcional deberán ser cubiertas por aquella fórmula de candidaturas del mismo partido que siga en el orden de la lista respectiva, después de habérsele asignado las diputaciones que le hubieren correspondido.
+2. En el caso de vacantes de personas integrantes del Congreso, electas por el principio de mayoría relativa, el Instituto convocará a elecciones extraordinarias en un plazo de noventa días siguientes a la notificación de la diputación vacante.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+3. Las vacantes de personas integrantes del Congreso, electas por el principio de representación proporcional deberán ser cubiertas por aquella fórmula de candidaturas del mismo partido que siga en el orden de la lista respectiva, después de habérsele asignado las diputaciones que le hubieren correspondido.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -843,7 +1015,9 @@ c) Ayuntamientos, cada tres años.
 
 2. El Consejo General del Instituto podrá ajustar los plazos establecidos en este Código.
 
-3. En ningún caso podrá participar en elecciones ordinarias o extraordinarias, el partido político que hubiere perdido su registro con anterioridad a la fecha en que éstas deban realizarse. No obstante, podrá participar en una elección extraordinaria, el partido político que hubiese perdido su registro, siempre y cuando hubiera participado con candidatura en la elección ordinaria que fue anulada. En su caso si se anula una elección por causa imputable a una candidatura independiente este no podrá participar en el proceso electoral extraordinario que se derive.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+3. En ningún caso podrá participar en elecciones ordinarias o extraordinarias, el partido político que hubiere perdido su registro con anterioridad a la fecha en que éstas deban realizarse. No obstante, podrá participar en una elección extraordinaria el partido político que hubiese perdido su registro, siempre y cuando hubiera participado con candidatura o candidaturas en la elección ordinaria que fue anulada. En su caso si se anula una elección por causa imputable a una candidatura independiente ésta no podrá participar en el proceso electoral extraordinario que se derive.
 
 # LIBRO SEGUNDO. DEL SISTEMA DE PARTIDOS POLÍTICOS
 
@@ -861,9 +1035,11 @@ c) Ayuntamientos, cada tres años.
 
 2. Queda prohibida la intervención de organizaciones civiles, sociales o gremiales, nacionales o extranjeras, o con objeto social diferente en la creación de partidos, así como cualquier forma de afiliación corporativa a ellos.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-3. Los partidos políticos promoverán los valores cívicos y la cultura democrática, la igualdad sustantiva entre niñas, niños y adolescentes, y garantizarán la participación paritaria en la integración de sus órganos, así como en la postulación de candidaturas.
+3. Los partidos políticos promoverán los valores cívicos y la cultura democrática, la igualdad sustantiva entre niñas, niños y adolescentes, y garantizarán la participación paritaria y la perspectiva de género en la integración de sus órganos, así como en la postulación de candidaturas.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
 Los partidos políticos deberán realizar capacitaciones y la sensibilización correspondiente para promover los derechos político-electorales de las personas que pertenezcan a los grupos en situación de vulnerabilidad.
 
@@ -925,11 +1101,13 @@ a) Partidos Políticos Nacionales: Aquellos que cuenten con registro ante el Ins
 
 b) Partidos Políticos Locales: Aquellos que cuenten con registro otorgado por el Instituto.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 27.
 
-1. Las elecciones ordinarias se celebrarán el primer domingo de junio del año que corresponda a las elecciones federales.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. Las elecciones ordinarias se celebrarán el primer domingo de junio del año que corresponda.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 2. Si un partido político nacional pierde su registro con este carácter, pero en la última elección de diputaciones y ayuntamientos del Estado, obtuvo por lo menos el tres por ciento de la votación válida emitida y postuló candidaturas propias en, al menos, la mitad de los municipios y distritos, puede optar por el registro como partido político local, debiendo cumplir con todos los requisitos para la constitución de partido político.
 
@@ -1115,11 +1293,11 @@ e) Ser agente del ministerio público federal o estatal.
 
 2. Las personas aspirantes y candidatas a los cargos judiciales populares son sujetos obligados en materia de transparencia, en los términos y modalidades que establezca la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 45.
 
-1. Los principios, bases, términos y procedimientos establecidos en la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Acceso a la Información Pública y la Protección de Datos Personales para el Estado de Coahuila, serán aplicables para los partidos políticos, las agrupaciones políticas y las candidaturas independientes.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. Los principios, bases, términos y procedimientos establecidos en la Ley General de Transparencia y Acceso a la Información Pública y en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, serán aplicables, en lo conducente y para los efectos que dichos ordenamientos señalan, para los partidos políticos, las agrupaciones políticas y las candidaturas independientes.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
@@ -1357,11 +1535,17 @@ Los partidos políticos nacionales que no tuvieren derecho a financiamiento púb
 
 1. El financiamiento que no provenga del erario público tendrá las siguientes modalidades:
 
-a) Las aportaciones o cuotas individuales y obligatorias, ordinarias y extraordinarias, en dinero o en especie, que realicen los militantes de los partidos políticos.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-b) Las aportaciones voluntarias y personales, en dinero o en especie, que los precandidatos y candidatos aporten exclusivamente para sus precampañas y campañas.
+a) Las aportaciones o cuotas individuales y obligatorias, ordinarias y extraordinarias, en dinero o en especie, que realicen las y los militantes de los partidos políticos.
 
-c) Las aportaciones voluntarias y personales que realicen los simpatizantes durante los procesos electorales locales estarán conformados por las aportaciones o donativos, en dinero o en especie, hechas a los partidos políticos en forma libre y voluntaria por las personas físicas mexicanas con residencia en el país.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+b) Las aportaciones voluntarias y personales, en dinero o en especie, que las precandidatas y los precandidatos, así como las candidatas y los candidatos aporten exclusivamente para sus precampañas y campañas.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+c) Las aportaciones voluntarias y personales que realicen las y los simpatizantes durante los procesos electorales locales estarán conformados por las aportaciones o donativos, en dinero o en especie, hechas a los partidos políticos en forma libre y voluntaria por las personas físicas mexicanas con residencia en el país.
 
 2. Los partidos políticos no podrán solicitar créditos provenientes de la banca de desarrollo para el funcionamiento de sus actividades.
 
@@ -1375,27 +1559,33 @@ c) Las aportaciones voluntarias y personales que realicen los simpatizantes dura
 
 a) Para el caso de las aportaciones o cuotas de militantes, individuales u obligatorias, ordinarias o extraordinarias, en dinero o en especie, no podrá exceder en su conjunto, del cuarenta porciento (sic) del monto total de financiamiento público otorgado a cada uno de los partidos políticos para el sostenimiento de sus actividades ordinarias y también de campaña en el año en que se lleve a cabo la jornada electoral.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-b) Para el caso de las aportaciones de precandidatos y candidatos para el financiamiento de sus precampañas y campañas, las aportaciones no podrán exceder en su conjunto, del quince por ciento del monto total de financiamiento público otorgado a cada uno de los partidos políticos para el sostenimiento de sus actividades ordinarias y de campaña en el año en que se lleve a cabo la jornada electoral.
+b) Para el caso de las aportaciones de precandidatas, precandidatos y candidatas, así como de candidatos para el financiamiento de sus precampañas y campañas, las aportaciones no podrán exceder en su conjunto, del quince por ciento del monto total de financiamiento público otorgado a cada uno de los partidos políticos para el sostenimiento de sus actividades ordinarias y de campaña en el año en que se lleve a cabo la jornada electoral.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-c) Para el caso de las aportaciones voluntarias y personales que realicen los simpatizantes durante la actividad ordinaria y en los procesos electorales locales para ser utilizadas en las etapas de precampaña y campaña, las aportaciones no podrán exceder en su conjunto, del veinte por ciento del tope de gasto para la elección de Gubernatura inmediata anterior.
+c) Para el caso de las aportaciones voluntarias y personales que realicen las y los simpatizantes durante la actividad ordinaria y en los procesos electorales locales para ser utilizadas en las etapas de precampaña y campaña, las aportaciones no podrán exceder en su conjunto, del veinte por ciento del tope de gasto para la elección de Gubernatura inmediata anterior.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-d) Las aportaciones de simpatizantes, militantes, precandidatos y candidatos, tendrán como límite individual anual el dos por ciento del tope de gasto para la elección de Gubernatura inmediata anterior.
+d) Las aportaciones de simpatizantes, militantes, precandidatas, precandidatos y candidatas, así como candidatos, tendrán como límite individual anual el dos por ciento del tope de gasto para la elección de Gubernatura inmediata anterior.
 
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 En todos estos casos, el Instituto deberá garantizar que los recursos públicos prevalezcan sobre los recursos de origen privado.
 
-2. Los partidos políticos deberán expedir recibos foliados en los que se hagan constar el nombre completo y domicilio, clave de elector y, en su caso, Registro Federal de Contribuyentes del aportante. Para el caso de que la aportación se realice con cheque o transferencia bancaria, la cuenta de origen deberá estar a nombre del aportante. Invariablemente, las aportaciones o cuotas deberán depositarse en cuentas bancarias a nombre del partido político, de conformidad con lo que establezca la normativa aplicable.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-3. Las aportaciones en especie se harán constar en un contrato celebrado entre el partido político y el aportante, en el cual se precise el valor unitario de los bienes o servicios aportados, el monto total de la aportación y, en caso de ser aplicable, el número de unidades aportadas; de igual forma, se deberá anexar factura en la que se precise la forma de pago; conforme a lo previsto en el artículo 29 A, fracción VII, inciso c) del Código Fiscal de la Federación.
+2. Los partidos políticos deberán expedir recibos foliados en los que se hagan constar el nombre completo y domicilio, clave de elector y, en su caso, Registro Federal de Contribuyentes de la persona aportante. Para el caso de que la aportación se realice con cheque o transferencia bancaria, la cuenta de origen deberá estar a nombre de la persona aportante. Invariablemente, las aportaciones o cuotas deberán depositarse en cuentas bancarias a nombre del partido político, de conformidad con lo que establezca la normativa aplicable.
 
-4. El partido político deberá entregar una relación mensual de los nombres de los aportantes y, en su caso, las cuentas del origen del recurso que, necesariamente, deberán estar a nombre de quien realice la aportación.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+3. Las aportaciones en especie se harán constar en un contrato celebrado entre el partido político y la persona aportante, en el cual se precise el valor unitario de los bienes o servicios aportados, el monto total de la aportación y, en caso de ser aplicable, el número de unidades aportadas; de igual forma, se deberá anexar factura en la que se precise la forma de pago; conforme a lo previsto en el artículo 29 A, fracción VII, inciso c) del Código Fiscal de la Federación.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+4. El partido político deberá entregar una relación mensual de los nombres de las personas aportantes y, en su caso, las cuentas del origen del recurso que, necesariamente, deberán estar a nombre de quien realice la aportación.
 
 5. Las aportaciones de bienes muebles o inmuebles deberán destinarse únicamente para el cumplimiento del objeto del partido político que haya sido beneficiado con la aportación.
 
@@ -1757,29 +1947,37 @@ a) Las ciudadanas y los ciudadanos que hayan desempeñado un cargo de dirigencia
 
 b) Quienes desempeñen un cargo de elección popular, a menos que renuncien al partido por el que accedieron al cargo, un día antes de la manifestación de intención de contender como candidata o candidato independiente.
 
-(NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO c) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+c) Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexual; el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos y, por ser declarada como persona deudora alimentaria morosa.
 
-c) Las personas que hayan sido sancionadas por autoridad judicial POR VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO O CUALQUIER OTRO TIPO Y MODALIDAD DE VIOLENCIA PREVISTA EN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA O por los delitos de violencia familiar o de incumplimiento de obligaciones alimentarias. Esta restricción se aplicará a partir de que la resolución cause ejecutoria.
+En los supuestos previstos en este inciso, la persona no podrá ser registrada como candidata independiente o candidato independiente para cualquier cargo de elección popular.
+
+Esta restricción se aplicará a partir de que la resolución cause ejecutoria.
 
 > <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 d) Las personas que hayan sido sancionadas por haber recabado firmas apócrifas o no auténticas en la obtención del apoyo ciudadano.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Los supuestos de imposibilidad previstos en este artículo serán aplicando los mismos criterios de temporalidad previstos en el artículo 11 Bis.
+e) La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo el cargo al que se aspira.
+
+En el supuesto previsto en este inciso, la persona no podrá ser registrada como candidata independiente o candidato independiente para cualquier cargo de elección popular, únicamente mientras subsista la suspensión de sus derechos.
+
+> <small>(REFORMADO [N. DE E. PERTENECE AL NUMERAL 1], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Los supuestos de imposibilidad previstos en este artículo, en lo conducente, deberán aplicarse los mismos criterios de temporalidad previstos en el artículo 11 Bis.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 88.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+1. Para los efectos de la integración de la legislatura del Congreso del Estado en los términos de los artículos 27 y 33 de la Constitución, las candidatas y los candidatos independientes para el cargo a una diputación deberán registrar la fórmula correspondiente de propietario y suplente del mismo género.
 
-1. Para los efectos de la integración de la Legislatura en los términos de los artículos 19 y 27 de la Constitución Local, las candidatas y candidatos independientes para el cargo de una diputación deberán registrar la fórmula correspondiente de propietario y suplente del mismo género.
+2. En el caso de las y los integrantes de Ayuntamientos, las planillas deberán de estar integradas por propietario y suplente del mismo género y se presentarán de forma alternada, de conformidad con el número de integrantes que determina este Código.
 
-2. En el caso de los integrantes de ayuntamientos, las planillas deberán de estar integradas por propietario y suplente del mismo género y se presentarán de forma alternada, de conformidad con el número de miembros que respectivamente les determina este Código.
-
-3. En ambos casos, deberá de garantizarse el principio de paridad de género.
+3. En ambos casos, deberán garantizarse los principios de paridad de género e igualdad sustantiva.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1821,7 +2019,9 @@ d) El registro de candidaturas independientes.
 
 2. El Instituto dará amplia difusión a la convocatoria.
 
-### CAPÍTULO SEGUNDO. DE LOS ACTOS PREVIOS AL REGISTRO DE CANDIDATOS INDEPENDIENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS ACTOS PREVIOS AL REGISTRO DE CANDIDATAS Y CANDIDATOS INDEPENDIENTES
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1995,7 +2195,9 @@ El Instituto establecerá la utilización de la cédula de respaldo o, en su cas
 
 1. Los aspirantes que sin haber obtenido el registro a la candidatura independiente no entreguen los informes antes señalados, serán sancionados en los términos de este Código.
 
-### CAPÍTULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES DE LOS ASPIRANTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+### CAPÍTULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES DE LAS Y LOS ASPIRANTES
 
 ###### Artículo 115.
 
@@ -2083,11 +2285,11 @@ l) Las demás establecidas por este Código.
 
 #### SECCIÓN PRIMERA. DE LOS REQUISITOS DE ELEGIBILIDAD
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 117.
 
-1. Las y los ciudadanos que aspiren a participar como candidatas y candidatos independientes en las elecciones locales de que se trate, deberán satisfacer, además de lo dispuesto por la Constitución, los requisitos señalados (sic) este Código.
+1. Las ciudadanas y los ciudadanos que aspiren a participar como candidatas y candidatos independientes en las elecciones locales de que se trate, deberán satisfacer, además de lo dispuesto por la Constitución General, la Constitución y, el Código Municipal para el Estado de Coahuila de Zaragoza, los requisitos señalados en este Código.
 
 #### SECCIÓN SEGUNDA. DE LA SOLICITUD DE REGISTRO
 
@@ -2097,17 +2299,29 @@ l) Las demás establecidas por este Código.
 
 1. Las ciudadanas y los ciudadanos que aspiren a participar como candidatas o candidatos independientes a un cargo de elección popular deberán presentar su solicitud por escrito, la cual deberá contener:
 
-a) Apellido paterno, apellido materno, nombre completo y firma o, en su caso, huella dactilar del solicitante;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-b) Lugar y fecha de nacimiento del solicitante;
+a) Apellido paterno, apellido materno, nombre completo y firma o, en su caso, huella dactilar de la persona solicitante;
 
-c) Domicilio del solicitante y tiempo de residencia en el mismo;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-d) Ocupación del solicitante;
+b) Lugar y fecha de nacimiento de la persona solicitante;
 
-e) Clave de la credencial para votar del solicitante;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-f) Cargo para el que se pretenda postular el solicitante;
+c) Domicilio de la persona solicitante y tiempo de residencia en el mismo;
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+d) Ocupación de la persona solicitante;
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+e) Clave de la credencial para votar de la persona solicitante;
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+f) Cargo para el que se pretenda postular de la persona solicitante;
 
 g) Designación del representante legal y domicilio para oír y recibir notificaciones;
 
@@ -2131,13 +2345,25 @@ d) Los datos de identificación de la cuenta bancaria aperturada para el manejo 
 
 e) Los informes de gastos y egresos de los actos tendentes a obtener el apoyo de la ciudadanía;
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-f) Las manifestaciones ciudadanas de respaldo para cada uno de los aspirantes, según el tipo de cargo al que se aspire o para las planillas municipales, se obtendrán en las cédulas de respaldo, las que deberán contener el nombre, firma, clave de elector y el número identificador ubicado al reverso de la credencial para votar denominado reconocimiento óptico de caracteres (OCR). El formato de la cédula de respaldo de la ciudadanía será aprobado por el Consejo General del Instituto.
+f) Las manifestaciones ciudadanas de respaldo para cada una o uno de los aspirantes, según el tipo de cargo al que se aspire o para las planillas municipales, se obtendrán en las cédulas de respaldo, las que deberán contener el nombre, firma, clave de elector y el número identificador ubicado al reverso de la credencial para votar denominado reconocimiento óptico de caracteres (OCR). El formato de la cédula de respaldo de la ciudadanía será aprobado por el Consejo General del Instituto.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 Se deberá entregar al Instituto las cédulas de respaldo ordenadas por distrito o municipio acompañadas de listados que contengan el nombre completo de cada persona, acompañando además el archivo en medio digital de acuerdo a las características que determine el Instituto.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 Tratándose de aspirantes a las candidaturas a diputaciones la documentación se entregará en el comité distrital respectivo; tratándose de planillas municipales, ante el comité municipal respectivo, y tratándose de aspirantes a la candidatura a la Gubernatura ante el Secretario Ejecutivo del Instituto, dentro de los plazos y cumpliendo los demás requisitos del reglamento o los que señale el Consejo General.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Las y los aspirantes deberán entregar al Instituto las cédulas de respaldo ordenadas por distrito o municipio acompañadas de listados que contengan el nombre completo de cada ciudadana y ciudadano, así como los datos de la credencial para votar, acompañando además el archivo en medio digital de acuerdo a las características que determine el Instituto.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Tratándose de aspirantes a candidata o candidato a una diputación la documentación se entregará en el comité distrital respectivo; tratándose de planillas municipales, ante el comité municipal respectivo, y tratándose de aspirantes a candidata o candidato a gobernadora o gobernador ante el Secretario Ejecutivo del Instituto, dentro de los plazos y cumpliendo los demás requisitos del reglamento o los que señale el Consejo General.
 
 g) Manifestación por escrito, bajo protesta de decir verdad, de:
 
@@ -2151,7 +2377,15 @@ II. No ser presidente del comité ejecutivo nacional, estatal, municipal, dirige
 
 III. No tener ningún otro impedimento de tipo legal para contender a una candidatura independiente.
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+IV. Gozar de buena reputación y no haber sido condenada o condenado mediante sentencia firme por delitos graves, incluyendo los relacionados con delincuencia organizada, en los términos que establezca la ley, ni por los delitos a que se refiere el artículo 87, numeral 1, inciso c) de este Código.
+
 h) Escrito en el que manifieste su conformidad para que todos los ingresos y egresos de la cuenta bancaria aperturada sean fiscalizados, en cualquier momento, por el Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+i) Certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias, así como en el Registro de Deudores Alimentarios Morosos, con una antigüedad no mayor a cinco días previos a la presentación de su solicitud.
 
 ###### Artículo 119.
 
@@ -2245,11 +2479,11 @@ A fin de salvaguardar la garantía de audiencia de las personas aspirantes a una
 
 #### SECCIÓN CUARTA. DE LA SUSTITUCIÓN Y CANCELACIÓN DEL REGISTRO
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 129.
 
-1. Las candidaturas independientes que obtengan su registro no podrán ser sustituidos en ninguna de las etapas del proceso electoral. En caso de falta de la candidata o candidato por cualquier causa se cancelará el registro.
+1. Las candidaturas independientes que obtengan su registro no podrán ser sustituidas en ninguna de las etapas del proceso electoral. En caso de falta de la candidata o del candidato por cualquier causa, se cancelará el registro.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -2257,19 +2491,25 @@ A fin de salvaguardar la garantía de audiencia de las personas aspirantes a una
 
 1. Tratándose de la fórmula de diputaciones por mayoría relativa, procederá la sustitución únicamente de la candidatura suplente. La solicitud de sustitución deberá ser presentada por el representante de la candidatura propietaria acreditada ante el organismo electoral. A falta de la candidatura propietaria, se cancelará el registro de la fórmula.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 131.
 
-1. Para el caso de sustitución de candidaturas independientes de los integrantes de la planilla de ayuntamientos, se estará a las siguientes disposiciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. Para el caso de sustitución de candidaturas independientes de las y los integrantes de la planilla de Ayuntamientos, se estará a las siguientes disposiciones:
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 a) Respecto de la candidatura independiente al cargo de presidencia municipal, no procede sustitución alguna. En caso de falta de la candidatura respectiva por cualquiera de las causas previstas en este Código, se cancelará el registro de la planilla completa.
 
-b) Respecto de las fórmulas de candidaturas a sindicaturas y regidurías independientes que integren la planilla, procederá su sustitución por fallecimiento, inhabilitación, incapacidad o renuncia ratificada por la candidata o candidato ante la autoridad electoral. Será el representante de la candidatura a presidencia municipal acreditado ante el organismo electoral, quien solicite la sustitución respectiva. Si las sustituciones afectan a más de la mitad de las candidaturas propietarias de la planilla, se cancelará el registro.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+b) Respecto de las fórmulas de candidaturas a regidurías y sindicatura independientes que integren la planilla, procederá su sustitución por fallecimiento, inhabilitación, incapacidad o renuncia ratificada por la candidata o el candidato ante la autoridad electoral. Será la o el representante de la candidatura a la Presidencia Municipal acreditada o acreditado ante el Instituto, quien solicite la sustitución respectiva. Si las sustituciones afectan a más de la mitad de las candidaturas propietarias de la planilla, se cancelará el registro.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 132.
 
-1. Las cancelaciones de registro de candidatos independientes no los eximen de presentar informes de campaña sobre el origen y monto de todos sus ingresos y egresos en campaña.
+1. Las cancelaciones de registro de candidatas o de candidatos independientes no los eximen de presentar informes de campaña sobre el origen y monto de todos sus ingresos y egresos en campaña.
 
 ## TÍTULO TERCERO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES
 
@@ -2349,11 +2589,9 @@ n) Presentar, en los mismos términos en que lo hagan los partidos políticos, l
 
 o) Ser responsable solidario, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes, y
 
-(NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO p) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
-
-p) Abstenerse de calumniar a otras personas ASPIRANTES O PRECANDIDATAS; y
+p) Abstenerse de calumniar a otras personas; y
 
 > <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2651,23 +2889,29 @@ d) Dictamen y declaración de validez de la elección.
 
 2. Se entiende por precampaña electoral el conjunto de actos que realizan los partidos políticos, sus militantes, las precandidatas y los precandidatos a candidaturas a cargos de elección popular debidamente registrados por cada partido político.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-3. Se entiende por actos de precampaña electoral las reuniones públicas, asambleas, marchas y en general aquellos en que las precandidatas y precandidatos se dirigen a las y los afiliados o simpatizantes o al electorado en general del instituto político en cuyo proceso de selección interno participa, con el objetivo de obtener su respaldo para ser postulado como candidata o candidato a un cargo de elección popular.
+3. Se entiende por actos de precampaña electoral las reuniones públicas, asambleas, marchas y en general aquellos en que las precandidatas y precandidatos se dirigen a las y los afiliados o simpatizantes o al electorado en general del instituto político en cuyo proceso de selección interno participa, con el objetivo de obtener su respaldo para ser postulada o postulado como candidata o candidato a un cargo de elección popular.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 4. Se entiende por propaganda de precampaña el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por este Código y el que señale la convocatoria respectiva difunden las precandidatas y los precandidatos con el propósito de dar a conocer sus propuestas. La propaganda de precampaña deberá señalar de manera expresa, por medios gráficos y auditivos, la calidad de precandidata o precandidato de quien es promovida o promovido.
 
-5. Precandidato es el ciudadano que pretende ser postulado por un partido político como candidato a un cargo de elección popular, conforme a este Código y a los Estatutos de un partido político, en el proceso de selección interna de candidatos a cargos de elección popular.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-6. Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición. Durante las precampañas está prohibido el otorgamiento de artículos promocionales utilitarios.
+5. Precandidata o Precandidato es la persona ciudadana que pretende ser postulada por un partido político como candidata a un cargo de elección popular, conforme a este Código y a los Estatutos de un partido político, en el proceso de selección interna de personas candidatas a cargos de elección popular.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+6. Ninguna ciudadana o ciudadano podrá participar simultáneamente en procesos de selección interna de candidatas o candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición. Durante las precampañas está prohibido el otorgamiento de artículos promocionales utilitarios.
 
 7. Se entenderá por actos anticipados de precampaña, las expresiones que se realicen bajo cualquier modalidad y en cualquier momento durante el lapso que va desde el inicio del proceso electoral hasta antes del plazo legal para el inicio de las precampañas, que contengan llamados expresos al voto en contra o a favor de una precandidatura.
 
 ###### Artículo 169.
 
-1. Al menos treinta días antes del inicio formal de los procesos internos para la selección de candidatos, cada partido político determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo General del Instituto dentro de las setenta y dos horas siguientes a su aprobación, señalando la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno; los órganos de dirección responsables de su conducción y vigilancia; la fecha de celebración de la asamblea electoral estatal, distrital o municipal, o en su caso, de realización de la jornada comicial interna, conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. Al menos treinta días antes del inicio formal de los procesos internos para la selección de candidatas o candidatos, cada partido político determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatas o candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo General del Instituto dentro de las setenta y dos horas siguientes a su aprobación, señalando la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno; los órganos de dirección responsables de su conducción y vigilancia; la fecha de celebración de la asamblea electoral estatal, distrital o municipal, o en su caso, de la realización de la jornada comicial interna, conforme a lo siguiente:
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
 
@@ -2769,13 +3013,15 @@ En el supuesto de una precandidatura única o designación directa, la sustituci
 
 ### CAPÍTULO SEGUNDO. DISPOSICIONES GENERALES DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATURAS
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 176.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 1. Los partidos políticos tienen el derecho de solicitar el registro de candidaturas a cargos de elección popular, sin perjuicio de las candidaturas independientes en los términos de este Código.
 
-2. En la postulación de candidaturas a diputaciones o integrantes de los ayuntamientos, los partidos políticos deberán garantizar la paridad de género, tanto vertical como horizontal, esto es, que en las elecciones de ayuntamientos cada partido político deberá postular el cincuenta por ciento de planillas encabezadas por uno de los géneros, y en las elecciones de diputaciones locales, el cincuenta por ciento de las formulas deberán ser encabezadas por uno de los géneros en los términos del presente Código.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+2. En la postulación de candidaturas a diputaciones o integrantes de los Ayuntamientos, los partidos políticos deberán garantizar la paridad de género, tanto vertical como horizontal conforme a los principios de igualdad sustantiva y perspectiva de género. Por tanto, en las elecciones de diputaciones locales, el cincuenta por ciento de las formulas deberán ser encabezadas, en los términos que prevé el presente Código, por uno de los géneros. En las elecciones de Ayuntamientos cada partido político deberá postular el cincuenta por ciento de planillas encabezadas por uno de los géneros.
 
 ###### Artículo 177.
 
@@ -2849,9 +3095,7 @@ f) Cargo para el que se les postule,
 
 g) En su caso, el partido político o coalición que lo postule, y
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
-h) Las candidatas y candidatos a diputaciones locales e integrantes de ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
+h) (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2026)
 
 2. La solicitud deberá acompañarse de lo siguiente:
 
@@ -2864,6 +3108,14 @@ c) Copia certificada del anverso y reverso de la credencial para votar;
 d) Copia certificada de la constancia de registro de la plataforma electoral, y
 
 e) Constancia de residencia.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+f) Manifestación bajo protesta de decir verdad de que goza de buena reputación y no ha sido condenada o condenado mediante sentencia firme por delitos graves, incluyendo los relacionados con delincuencia organizada, en los términos que establezca la ley, ni por los delitos a que se refiere el artículo 10, numeral 1, inciso h) de este Código.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+g) Certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias, así como en el Registro de Deudores Alimentarios Morosos, con una antigüedad no mayor a cinco días previos a la presentación de la solicitud.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
@@ -3229,7 +3481,9 @@ c) Nombre y apellidos de la persona candidata; en el caso de la elección de gub
 
 En ningún caso, el sobrenombre o apodo podrá sustituir o modificar el nombre de la persona candidata a la gubernatura ni las dimensiones ni características de los recuadros.
 
-En el caso de la elección de miembros de los ayuntamientos, solo se imprimirá el nombre y apellidos de las candidatas o candidatos a presidencias municipales. Los nombres de las candidaturas a las sindicaturas y las regidurías y sus suplencias se imprimirán al reverso de las boletas;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+En el caso de la elección de integrantes de los Ayuntamientos, solo se imprimirá el nombre y apellidos de las candidatas o candidatos a Presidencias Municipales. Los nombres de las candidaturas a las Regidurías y Sindicatura, así como sus suplencias se imprimirán al reverso de las boletas;
 
 d) Color o combinación de colores y emblema a color de cada partido político en el orden que le corresponda de acuerdo a la antigüedad de su registro como partido político;
 
@@ -3237,7 +3491,9 @@ d) Color o combinación de colores y emblema a color de cada partido político e
 
 e) Espacio para cada una de las candidaturas independientes;
 
-f) En el caso de la elección de ayuntamientos, un sólo espacio para la planilla de propietarios y suplentes, postulados por cada partido político o coalición;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+f) En el caso de la elección de Ayuntamientos, un sólo espacio para la planilla de candidaturas de personas propietarias y suplentes, postuladas por cada partido político o coalición;
 
 (NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO g) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -3253,7 +3509,9 @@ h) En el caso de la elección de la Gubernatura, un sólo espacio para cada cand
 
 i) Un espacio para asentar los nombres de las candidaturas no registradas;
 
-j) Sello y firmas impresas del Presidente y del Secretario del Consejo General del Instituto;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+j) Sello y firmas impresas de la o el Presidente y de la o el Secretario del Consejo General del Instituto;
 
 k) El emblema del Instituto impreso al reverso de la boleta;
 
@@ -3975,13 +4233,13 @@ iii. Que sea determinante para el resultado de la elección. Se entenderá que e
 
 g) Cumplidos todos los requisitos, el Tribunal Electoral, llevará a cabo el recuento parcial o total de la elección de que se trate, dentro de los autos del juicio interpuesto, para lo cual deberá emitir los acuerdos e implementar los medios idóneos para efectuar dicho recuento.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 253.
 
-1. Concluido el cómputo para la elección de diputaciones, miembros de los ayuntamientos y sindicaturas, la persona que ocupe la presidencia del comité respectivo expedirá la constancia de mayoría y validez a la candidatura, fórmula o planilla que hubiese obtenido el triunfo, y remitirá al Secretario Ejecutivo copia certificada de tales documentos.
+1. Concluido el cómputo para la elección de diputaciones e integrantes de los Ayuntamientos, la persona que ocupe la presidencia del comité respectivo expedirá la constancia de mayoría y validez a la candidatura, fórmula o planilla que hubiese obtenido el triunfo, y remitirá a la o el Secretario Ejecutivo copia certificada de tales documentos.
 
-2. Una vez realizado el cómputo municipal para la elección de integrantes de los ayuntamientos, el comité municipal procederá a la asignación de regidurías de representación proporcional y, en su caso, de la segunda sindicatura en los términos de lo dispuesto por este Código.
+2. Una vez realizado el cómputo municipal para la elección de integrantes de los Ayuntamientos, el comité municipal procederá a la asignación de regidurías de representación proporcional, en los términos de lo dispuesto por este Código.
 
 ###### Artículo 254.
 
@@ -4257,9 +4515,17 @@ c) Otorgar, por cualquier medio, recursos a los partidos políticos, aspirantes,
 
 d) Proporcionar documentación o información falsa al Registro Federal de Electores;
 
-e) La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia; y
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-f) El incumplimiento de cualquiera de las disposiciones contenidas en la Ley General y este Código.
+e) La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia;
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+f) El incumplimiento de cualquiera de las disposiciones contenidas en la Ley General y este Código, y
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+g) Manifestar o declarar falsamente, u omitir la verdad en las constancias que, bajo protesta de decir verdad, establece el presente Código que deben presentar.
 
 ###### Artículo 265.
 
@@ -5289,9 +5555,13 @@ dd) Asumir la competencia de los Comités Electorales Distritales y Municipales 
 
 ee) La preparación, organización, cómputo y calificación de la jornada del proceso judicial electoral le corresponderá, de manera exclusiva y conforme a sus reglas especiales, al Instituto, a través del Consejo General, la Comisión Especial de Elecciones Judiciales, la Secretaría Ejecutiva, los Comités Judiciales Electorales y sus demás órganos auxiliares, en los términos que establezca la Constitución, este Código y las demás leyes especiales aplicables.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 20 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-ff) Las demás que le confiera este Código u otras disposiciones legales aplicables.
+ff) Aprobar las condiciones generales de trabajo y los lineamientos para el otorgamiento de compensaciones, remuneraciones, liquidaciones y demás prestaciones laborales que correspondan, en su caso, al funcionariado y al personal del Instituto.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+gg) Las demás que le confiera este Código u otras disposiciones legales aplicables.
 
 ###### Artículo 345.
 
@@ -6225,9 +6495,9 @@ i) Designar al personal técnico, auxiliar, administrativo y manual que sea nece
 
 j) Realizar el cómputo municipal de la votación para la Gubernatura del Estado y remitir al Instituto los resultados de la misma;
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-k) Realizar el cómputo municipal de la elección de Ayuntamientos; declarar la validez de la elección; expedir y entregar la constancia de mayoría respectiva, así como las constancias de asignación que procedan en el caso de regidurías de representación proporcional y segunda sindicatura y remitir de inmediato los resultados al Instituto;
+k) Realizar el cómputo municipal de la elección de Ayuntamientos; declarar la validez de la elección; expedir y entregar la constancia de mayoría respectiva, así como las constancias de asignación que procedan en el caso de Regidurías de representación proporcional y remitir de inmediato los resultados al Instituto;
 
 l) Declarar formalmente electos a los miembros del Ayuntamiento respectivo;
 
@@ -6727,6 +6997,10 @@ f) La inhabilitación sólo será aplicable por resolución de la autoridad comp
 
 3. Serán considerados personal de confianza dentro del Instituto: el Secretario Ejecutivo, los Directores Ejecutivos, los asesores y, en general, quienes realicen funciones de dirección, administración, control y supervisión y los directamente relacionados con el uso y aplicación de los recursos.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+4. Las remuneraciones de las personas consejeras electorales, titulares de las secretarías de órganos administrativos y titulares de áreas ejecutivas y técnicas del Instituto Electoral de Coahuila no excederán el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos. Asimismo, no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo
+
 # LIBRO SÉPTIMO. DEL TRIBUNAL ELECTORAL
 
 ## TÍTULO ÚNICO
@@ -6755,11 +7029,17 @@ No se admitirá recurso o medios de impugnación no previstos en la Ley, ni tamp
 
 En el caso de las personas sancionadas por la violación al debido proceso judicial electoral, el Tribunal Electoral conocerá y resolverá, en los términos de su competencia, para determinar la responsabilidad y sus sanciones de las personas con interés jurídico, personal y directo.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 423 Bis.
+
+Para el cumplimiento de sus fines institucionales, el Pleno del Tribunal Electoral podrá celebrar convenios de colaboración con Instituciones de Educación Superior, para establecer los términos de la formación, capacitación y especialización en materia de los derechos político- electorales, de conformidad con la disponibilidad presupuestaria del Tribunal.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 424.
 
-1. El Tribunal Electoral contará con una Secretaría General de Acuerdo y Trámite, Coordinaciones de Ponencia, Secretarías de Estudio y Cuenta "A", Secretarías de Estudio y Cuenta "B", Auxiliares, Actuarías, una Oficialía de Partes, Contraloría Interna y demás personal jurisdiccional y administrativo que considere necesario el Pleno y/o la Presidencia del Tribunal Electoral para el cumplimiento de sus atribuciones que le confiere este Código, el Reglamento Interior y demás ordenamientos electorales, de acuerdo con la disponibilidad presupuestal.
+1. El Tribunal Electoral contará con una Secretaría General de Acuerdo y Trámite, Coordinaciones de Ponencia, Secretarías de Estudio y Cuenta "A", Secretarías de Estudio y Cuenta "B", Auxiliares, Actuarías, una Oficialía de Partes, Contraloría Interna cuyo titular será designada o designado por el Congreso de Estado en los términos previstos por la Constitución, y demás personal jurisdiccional y administrativo que considere necesario el Pleno o la Presidencia del Tribunal Electoral para el cumplimiento de sus atribuciones que le confiere este Código, el Reglamento Interior y demás ordenamientos electorales, de acuerdo con la disponibilidad presupuestal.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -6801,13 +7081,13 @@ d) Las impugnaciones que se realicen en contra de los actos o resoluciones defin
 
 e) Conocer sobre las nulidades establecidas en la Ley de Medios de Impugnación en Materia Político-Electoral y de Participación Ciudadana para el Estado de Coahuila de Zaragoza, que puedan afectar la votación emitida en una o varias casillas, y en consecuencia los resultados de cómputo de la elección impugnada.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-f) Conocer sobre la inelegibilidad de candidaturas a diputaciones, electas por el principio de mayoría relativa, y en su caso sobre la inelegibilidad de diputaciones, regidurías o sindicaturas electos (sic) por el principio de representación proporcional de conformidad con la legislación aplicable.
+f) Conocer sobre la inelegibilidad de candidaturas a diputaciones, electas por el principio de mayoría relativa y, en su caso, sobre la inelegibilidad de diputaciones o regidurías electas por el principio de representación proporcional, de conformidad con las disposiciones previstas en la Constitución General, la Constitución, el presente Código y demás ordenamientos aplicables.
 
 g) Las impugnaciones de actos o resoluciones que violen los derechos de votar y ser votado, de asociación individual, y para tomar parte en forma pacífica en los asuntos políticos y de afiliación libre e individualmente a los partidos políticos.
 
-h) Los conflictos o diferencias laborales entre el Tribunal Electoral y sus respectivos servidores;
+h) (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2026)
 
 i) Los medios de impugnación previstos en la Ley de Medios de Impugnación en Materia Político-Electoral y de Participación Ciudadana para el Estado de Coahuila de Zaragoza y demás leyes aplicables.
 
@@ -6819,13 +7099,19 @@ j) Las impugnaciones que se realicen de algún supuesto de violencia política c
 
 k) Las demás que la Constitución, el Reglamento Interior, y las leyes aplicables determinen.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 428.
 
-1. El Congreso del Estado deberá fijar en el presupuesto anual las remuneraciones de las Magistraturas electorales, en términos del artículo 127 de la Constitución General, las cuales no podrán disminuirse durante el tiempo que dure su encargo.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. El Congreso del Estado deberá fijar anualmente en el Presupuesto de Egresos del Estado, las remuneraciones de las Magistraturas Electorales, en términos del artículo 127 de la Constitución General, por tanto, no excederán el límite establecido en dicha disposición y no podrán disminuirse durante el tiempo que dure su encargo.
+
+El Tribunal Electoral no podrá adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 2. La remuneración de las Magistraturas electorales deberá de ser adecuada e irrenunciable.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 3. Esta remuneración les será cubierta en los términos que establezcan las leyes aplicables y el Reglamento Interior.
 
@@ -7153,7 +7439,9 @@ a) Conocer y resolver los asuntos de su competencia que este Código, el Reglame
 
 b) Autorizar la celebración de convenios de colaboración con otros tribunales, instituciones y autoridades;
 
-c) Calificar y resolver sobre los impedimentos, las recusaciones y las excusas de los magistrados del Tribunal Electoral, en los asuntos de su respectiva competencia;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+c) Calificar y resolver sobre los impedimentos, las recusaciones y las excusas de las Magistradas y Magistrados del Tribunal Electoral, en los asuntos de su respectiva competencia;
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -7173,11 +7461,15 @@ g) Designar al personal jurisdiccional y administrativo que se haga acreedor a r
 
 h) Conceder licencias al personal de su adscripción, con goce de sueldo o sin él, de más de treinta días. Toda solicitud de licencia requiere causa justificada y las de las Secretarías, Coordinaciones de Ponencia y las Secretarías de Estudio y Cuenta "A" y "B", además, autorización de la magistratura a la que estén adscritas;
 
-i) Conceder las licencias temporales de los magistrados que no excedan de tres meses;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+i) Conceder las licencias temporales de las Magistradas y de los Magistrados que no excedan de tres meses;
 
 j) Presentar iniciativas ante el Congreso del Estado, en materia de administración de justicia y codificación electoral;
 
-k) Expedir y modificar el Reglamento Interior y demás acuerdos generales para regular su organización y funcionamiento interno, así como los lineamientos para el desahogo de los procedimientos sancionadores por las infracciones en las que incurran los magistrados electorales y el personal jurisdiccional y administrativo adscrito al Tribunal Electoral;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+k) Expedir y modificar el Reglamento Interior y demás acuerdos generales para regular su organización y funcionamiento interno, así como los lineamientos para el desahogo de los procedimientos sancionadores por las infracciones en las que incurran las magistradas y los magistrados electorales y el personal jurisdiccional y administrativo adscrito al Tribunal Electoral;
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -7185,13 +7477,13 @@ l) Discutir, aprobar y modificar el Proyecto de Presupuesto Anual de Egresos que
 
 m) Determinar anualmente el Calendario Oficial del Tribunal Electoral;
 
-n) Conocer y resolver los conflictos o diferencias laborales entre el Tribunal Electoral y sus servidores, así como de los servidores del Instituto;
+n) (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2026)
 
 o) Aprobar los lineamientos para el servicio profesional de carrera de conformidad con lo establecido en el Reglamento Interior;
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-p) Aprobar las jubilaciones, pensiones o haberes del retiro, liquidaciones por servicios prestados, préstamos o créditos de las magistradas, magistrados y demás personal del Tribunal Electoral, de conformidad con el presupuesto del mismo y lo previsto en el Reglamento Interior y disposiciones aplicables;
+p) Aprobar las jubilaciones, pensiones o haberes del retiro, liquidaciones por servicios prestados, de las Magistradas, Magistrados y demás personal del Tribunal Electoral, de conformidad con el presupuesto del mismo y lo previsto en el Reglamento Interior y demás disposiciones aplicables;
 
 q) Crear el Fondo para el Mejoramiento de la Administración de la Justicia de acuerdo con lo previsto en el Reglamento Interior y leyes aplicables;
 
@@ -7221,9 +7513,13 @@ x) Emitir opiniones consultivas o acciones declarativas relacionadas con el prin
 
 La interpretación del Tribunal será vinculante para los partidos políticos y el Instituto, así como a las autoridades estatales y la ciudadanía que se ubique en la hipótesis jurídica en cuestión.; (sic) y
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-y) Las demás que le confiera este Código u otras disposiciones legales aplicables.
+y) Aprobar las condiciones generales de trabajo y los lineamientos para el otorgamiento de compensaciones económicas por jornadas extraordinarias laboradas en virtud del desarrollo de los procesos electorales, al personal de Tribunal, conforme a su disponibilidad presupuestaria.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+z) Las demás que le confiera este Código u otras disposiciones legales aplicables.
 
 ### CAPÍTULO QUINTO. DE LAS SESIONES
 
@@ -7301,23 +7597,33 @@ xv. Los votos particulares y las observaciones por escrito deberán ser firmadas
 
 ### CAPÍTULO SÉPTIMO. DE LA CONTRALORÍA INTERNA DEL TRIBUNAL ELECTORAL
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 439.
 
-1. La Contraloría Interna es el órgano de control interno del Tribunal Electoral que tendrá a su cargo la fiscalización de los ingresos y egresos del mismo; en el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+1. La Contraloría Interna es el órgano de control interno del Tribunal Electoral que tendrá autonomía técnica y de gestión para la fiscalización de los ingresos y egresos del mismo, así como para decidir sobre su funcionamiento y resoluciones.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 2. El titular de la Contraloría será denominado "contralora interna" o "contralor interno", tendrá un nivel jerárquico y remuneración equivalente a la Secretaría General de Acuerdo y Trámite del Tribunal Electoral.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-3. La persona titular de la Contraloría Interna será designada por el Pleno del Tribunal, con el voto de la mayoría de sus integrantes, previa convocatoria que para tal efecto se emita.
+3. La persona titular de la Contraloría Interna será designada por el Congreso del Estado, con el voto de las dos terceras partes de las diputadas y de los diputados presentes en la sesión correspondiente, de conformidad con las reglas y el procedimiento establecidos por la ley de la materia. Durará en su encargo siete años y podrá ser ratificada por una sola vez.
 
-4. La contralora o el contralor electo rendirá la protesta de ley ante el Pleno del Tribunal Electoral.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-5. La contralora o el contralor durará en su encargo siete años y podrá ser reelecto por una sola vez; estará adscrito administrativamente a la Presidencia del Tribunal Electoral y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+4. La contralora o el contralor electo rendirá la protesta de ley ante el Pleno Legislativo del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+5. La Contraloría Interna estará adscrita administrativamente a la Presidencia del Tribunal Electoral y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 6. La Contraloría contará con la estructura orgánica, personal y recursos necesarios para su desempeño, conforme las disponibilidades presupuestarias.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 7. En su desempeño, la Contraloría se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia.
 
@@ -7329,9 +7635,11 @@ xv. Los votos particulares y las observaciones por escrito deberán ser firmadas
 
 2. La contralora o el contralor podrá ser sancionado, en lo conducente, conforme lo previsto en el Título Cuarto del Libro Sexto de este Código, por las causas graves de responsabilidad administrativa.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-3. El Pleno del Tribunal Electoral dará vista al Tribunal de Justicia Administrativa para que resuelva sobre la aplicación de las sanciones a la Contralora o Contralor, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes en la sesión.
+3. El Pleno del Tribunal Electoral dará vista al Tribunal de Justicia Administrativa para que resuelva sobre la aplicación de las sanciones a la Contralora o Contralor, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia a la persona afectada. La remoción requerirá del voto de las dos terceras partes de los miembros presentes en la sesión.
+
+La magistrada o el magistrado que presida el Tribunal Electoral dará aviso inmediato al Congreso del Estado del procedimiento administrativo de responsabilidad iniciado en los términos del párrafo que antecede. De igual manera le comunicará sobre la resolución que se haya dictado para que, en caso de remoción, adopte las medidas para realizar la designación que corresponda.
 
 ###### Artículo 441.
 
@@ -7357,11 +7665,11 @@ xv. Los votos particulares y las observaciones por escrito deberán ser firmadas
 
 5. Son supletorias, para los efectos del presente Libro, las disposiciones contenidas en la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 443.
 
-1. Cuando la Contraloría encuentre responsabilidades administrativas atribuibles a cualquiera de los magistrados del Tribunal Electoral, integrará el expediente y lo remitirá de inmediato a la Presidencia de la Cámara de Senadores para los efectos conducentes.
+1. Cuando la Contraloría encuentre responsabilidades administrativas atribuibles a cualquiera de las Magistradas o de los Magistrados del Tribunal Electoral, integrará el expediente y lo remitirá de inmediato a la Presidencia de la Cámara de Senadores para los efectos conducentes.
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
@@ -8770,3 +9078,61 @@ PRIMERO. El presente decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
 
 TERCERO. Con el propósito de garantizar seguridad y certeza jurídica, las disposiciones contenidas en el presente decreto en materia electoral serán aplicables en el Estado a partir del proceso electoral que se celebre en el año 2026, en términos de lo dispuesto en el artículo 105, fracción II, penúltimo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 1 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO 515.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. Las reformas, adiciones y derogaciones a los artículos del Código Electoral para el Estado de Coahuila previstos en este decreto, relativas a la prohibición de reelección inmediata serán aplicables, en correspondencia con las disposiciones del régimen transitorio de las reformas conducentes a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado de Coahuila de Zaragoza, a partir de los procesos electorales a celebrarse en el Estado en el año de 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia este decreto, no podrán postularse para procesos de reelección.
+
+Por lo que hace a los procesos electorales locales que se celebren previo al año 2030, se deberá observar lo siguiente:
+
+I. Las Diputaciones del Congreso del Estado, así como las personas titulares de las Presidencias Municipales no requerirán separarse de sus funciones cuando busquen la reelección del cargo. Las y los titulares de sindicaturas y regidurías tampoco requerirán separarse de sus funciones a menos de que contiendan al cargo de titular de la Presidencia Municipal, para lo cual deberán pedir licencia en los términos del artículo 10 de este Código.
+
+II. Las candidaturas que contiendan en modalidad de reelección, tanto para el Congreso del Estado como Ayuntamientos, sin separarse del cargo, deberán abstenerse de realizar cualquier tipo de proselitismo electoral dentro los horarios de trabajo relativos a sus funciones.
+
+III. Las diputadas y los diputados podrán ser electos hasta por cuatro periodos consecutivos, observando lo siguiente:
+
+a) La postulación y solicitud de registro solo podrá ser realizada por el mismo partido que los haya postulado previamente o bien por cualquiera de los partidos coaligados, salvo que la interesada o el interesado haya renunciado o perdido su militancia antes de cumplir la mitad de su periodo de mandato;
+
+b) Tratándose de diputaciones que hayan sido electas como candidaturas independientes solo podrán postularse para la reelección con la misma calidad con la que fueron electas;
+
+c) Las diputadas y los diputados que pretendan la reelección podrán ser registradas o registrados por el principio de mayoría relativa o de representación proporcional;
+
+d) Las diputaciones externas o sin partido deberán desvincularse del partido político que originalmente los postuló, antes de la mitad de su mandato, si pretenden reelegirse por un partido político distinto. Este requisito no será exigible si el partido postulante perdió su registro.
+
+IV. Las y los integrantes de los Ayuntamientos podrán ser electos hasta por dos periodos consecutivos, observando lo siguiente:
+
+a) La postulación y solicitud de registro solo podrá ser realizada por el mismo partido que los haya postulado previamente o bien por cualquiera de los partidos coaligados, salvo que la interesada o el interesado haya renunciado o perdido su militancia antes de cumplir la mitad de su periodo de mandato;
+
+b) Tratándose de quienes hayan sido electos como candidatas y candidatos independientes solo podrán postularse para la reelección con la misma calidad con la que fueron electos;
+
+c) Las ciudadanas y ciudadanos que ocupen los cargos de presidencias municipales, sindicaturas y regidurías, que pretendan la reelección deberán ser registradas y registrados para el mismo municipio en que fueron electos previamente;
+
+d) Quienes hayan ocupado los cargos de sindicatura o regiduría podrán ser postuladas o postulados en el periodo inmediato siguiente como candidatas y candidatos a la presidencia municipal, sin que ello suponga reelección, pero quienes hayan ocupado el cargo de la presidencia municipal no podrán postularse como candidatas o candidatos a sindicaturas o regidurías en el periodo inmediato siguiente;
+
+V. Las candidatas y candidatos a diputaciones locales e integrantes de Ayuntamientos que busquen reelegirse en sus cargos, para el registro de su candidatura, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos en materia de reelección.
+
+CUARTO. Las reformas y adiciones a los artículos del Código Electoral para el Estado de Coahuila previstos en este decreto, relativos a la prohibición de nepotismo electoral, serán aplicables, en correspondencia con las disposiciones del régimen transitorio de las reformas conducentes a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado de Coahuila de Zaragoza, a partir de los procesos electorales a celebrarse en el Estado en el año de 2030.
+
+QUINTO. La integración de los Ayuntamientos que prevén el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 158-K de la Constitución Política del Estado de Coahuila de Zaragoza y el presente decreto, surtirá efectos en la Entidad a partir del periodo administrativo municipal subsecuente.
+
+Por tanto, en aquellos casos en que el número de regidurías sea mayor a quince y sindicaturas mayor a una, la siguiente elección de personas munícipes deberá atender a la integración de los Ayuntamientos que prevén las disposiciones normativas a que se refiere el párrafo que antecede.
+
+SEXTO. En atención a lo previsto en el numeral 3 del artículo 17, en relación con el 17 quinquies, durante el Proceso Electoral Local Concurrente del año 2027, el Instituto Electoral de Coahuila y los partidos políticos o coaliciones, en su caso, deberán de utilizar el porcentaje de votación de la última elección de Ayuntamientos para efecto de verificar los mecanismos de competitividad y paridad, tanto en las postulaciones individuales como en las de las coaliciones.
+
+SÉPTIMO. En el supuesto de configurarse coaliciones totales dentro del Proceso Electoral previsto para el año 2027, a efecto de determinar el orden de los municipios de mayor a menor votación, se considerará la suma del porcentaje de votación obtenida por cada partido político integrante de la coalición en el Proceso Electoral Local que dispone el anterior artículo transitorio.
+
+Asimismo, para el caso de coaliciones parciales o flexibles, en los municipios donde postulen conjuntamente deberá observarse lo dispuesto en el párrafo anterior, en el entendido de que, en los municipios donde postulen individualmente deberá determinarse su porcentaje de votación por partido político de manera separada.
+
+OCTAVO. El Instituto Electoral de Coahuila y el Tribunal Electoral del Estado de Coahuila revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y en el artículo 27, numeral 5, inciso c) y numeral 6 de la Constitución Política del Estado de Coahuila de Zaragoza y el presente Decreto.
+
+En todo caso, deberán garantizarse los derechos adquiridos del personal.
+
+NOVENO. Para la designación de la persona titular de la Contraloría Interna del Tribunal Electoral del Estado de Coahuila, en los términos que disponen los artículos 424, numeral 1 y 439, numerales 3 y 4, del presente decreto, el Congreso del Estado, dentro de un plazo de 180 días, contado a partir del inicio de vigencia de este decreto, llevará a cabo la designación de la persona que habrá de ocupar la titularidad de la Contraloría Interna del Tribunal Electoral del Estado de Coahuila.
+
+DÉCIMO. Las personas magistradas del Tribunal Electoral del Estado, llevarán a cabo las reformas que sean procedentes al reglamento interior del tribunal, dentro del plazo de 90 días, contado a partir de inicio de vigencia de este decreto.
