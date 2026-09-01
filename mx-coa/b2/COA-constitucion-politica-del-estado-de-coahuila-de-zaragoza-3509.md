@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2025-10-28"
+last_updated: "2026-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -110,13 +110,13 @@ Derechos Humanos y sus Garantías.
 
 Dentro del territorio del Estado, toda persona gozará de los derechos humanos reconocidos en esta Constitución, en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales en los que el Estado Mexicano sea parte. El ejercicio de estos derechos no podrá restringirse ni suspenderse, salvo los casos y bajo las condiciones que establece la Constitución Federal.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Las personas son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
+Las personas son iguales ante la ley. Ésta protegerá la organización y el desarrollo de las familias. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres.
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Los derechos humanos son inalienables, imprescriptibles, irrenunciables, irrevocables y exigibles. En la aplicación e interpretación de las normas de derechos humanos prevalecerá el principio por persona.
+Los derechos humanos son inalienables, imprescriptibles, irrenunciables, irrevocables y exigibles. En la interpretación y aplicación de las normas relativas a derechos humanos prevalecerán los principios pro persona y de igualdad sustantiva, considerando la perspectiva de género como herramienta fundamental para garantizar a las personas el ejercicio pleno de sus derechos en todos los ámbitos de la vida social, cultural, económica y política.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
 
@@ -272,6 +272,10 @@ Las personas migrantes o desplazadas que ingresen, transiten o residan temporalm
 
 Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Toda persona tiene derecho a vivir una vida libre de violencias. El Estado tiene deberes reforzados de protección con las mujeres, niñas, niños y adolescentes. La ley definirá las bases y modalidades para garantizar su realización.
+
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE AGOSTO DE 2022)</small>
 
 #### SECCION PRIMERA. PRINCIPIOS FUNDAMENTALES
@@ -312,7 +316,9 @@ Todas las personas son libres e iguales en dignidad, derechos y deberes. Las per
 
 La libertad consiste en poder hacer todo aquello que no dañe o ponga en riesgo grave a los demás y que no esté explícitamente prohibido por (sic) ley.
 
-La igualdad consiste en poder tener en igualdad de condiciones las mismas oportunidades, poderes o recursos, para posibilitar el libre desarrollo de la personalidad, sin privilegios, discriminaciones, ni ventajas indebidas. La paridad es una garantía para asegurar condiciones reales de igualdad entre los diferentes géneros en forma progresiva, transitoria y efectiva.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+La igualdad consiste en poder tener, en igualdad de condiciones, las mismas oportunidades, poderes o recursos, para posibilitar el libre desarrollo de la personalidad, sin privilegios, discriminaciones, ni ventajas indebidas. El Estado garantizará la igualdad sustantiva mediante la adopción de medidas diferenciadas, proporcionales y razonables que eliminen desigualdades estructurales y aseguren condiciones reales de igualdad en el ejercicio de los derechos de las personas. La paridad es una garantía para alcanzar la igualdad sustantiva entre los géneros, de manera progresiva, transitoria y efectiva.
 
 La seguridad jurídica consiste en la certeza de aplicar normas válidas, ciertas, predecibles y razonables que delimiten la esfera de lo permitido y de lo prohibido por la ley.
 
@@ -330,19 +336,33 @@ Se prohíbe toda distinción, exclusión o restricción basada en cualquier cond
 
 Nadie podrá ser objeto de discriminaciones fundadas en sus características genéticas, cuyo efecto sería atentar contra su dignidad, sus derechos y libertades fundamentales.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 7°-F.
 
-Los derechos humanos son universales, imperativos, innegociables, integrales, indivisibles, progresivos, interdependientes e interrelacionados. Se reconocen en su conjunto de manera justa y son válidos para todos y vigentes en cualquier lugar y momento.
+Los derechos humanos son universales, imperativos, innegociables, integrales, indivisibles, progresivos, interdependientes e interrelacionados. Se reconocen en su conjunto de manera justa y son válidos para todas las personas y vigentes en cualquier lugar y momento.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2022)</small>
 
 Los derechos humanos tienen el mismo valor o peso, sin perjuicio de la prioridad que corresponda a cada uno de ellos conforme a los principios de contenido esencial, limitación o ponderación según las circunstancias de cada caso concreto.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2022)</small>
+
 El disfrute de algunos derechos facilitará el ejercicio o la realización de otros. En ningún caso su reconocimiento, vigencia o disfrute dependerá uno de otro en forma necesaria.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2022)</small>
 
 Se prohibirán las reformas legales o cualquier otro acto de autoridad que impliquen de manera desproporcional medidas regresivas a los estándares de mayor protección de los derechos humanos.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2022)</small>
+
 En estricta observancia a los principios de progresividad y no regresividad previstos en el artículo 199 de esta Constitución, con fundamento en la dignidad humana y el principio pro persona, los derechos y libertades reconocidos en el Estado, en esta Constitución y en las leyes que de ella emanen, podrán reformarse para ampliar, proteger y garantizar los derechos de las personas, nunca en su detrimento, salvo en aquellos casos en los que se justifique plenamente el principio de proporcionalidad en casos de necesidad social imperiosa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+La progresividad de los derechos y su eficacia se garantizarán a través de una garantía de política pública con enfoque de derechos humanos y perspectiva de género. El Estado, a través del poder Ejecutivo, deberá implementar en su gestión un programa local de política pública para garantizar la construcción de ciudades de derechos humanos con la colaboración y asistencia neutral de la Comisión de Derechos Humanos del Estado, la sociedad civil, la academia y la comunidad local, nacional e internacional, para promover las buenas prácticas y mayores estándares de derechos humanos.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2022)</small>
 
 Los tribunales competentes de la entidad están comprometidos a desarrollar e interpretar los derechos humanos siguiendo los más altos estándares nacionales e internacionales en la materia.
 
@@ -446,7 +466,9 @@ Las disposiciones legislativas no deberán entenderse como la negación de otros
 
 Las personas juzgadoras podrán reconocer derechos, libertades y garantías conforme al derecho implícito que esté en concordancia con los principios de esta Constitución y el principio de primacía internacional.
 
-En los casos de lagunas legislativas, las personas juzgadoras colmarán las omisiones de derechos y garantías bajo el principio de interpretación conforme, el principio pro persona o la construcción jurídica de las normas.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+En los casos de lagunas o ambigüedades legislativas, las personas juzgadoras colmarán las omisiones de derechos y garantías bajo el principio de interpretación conforme, el principio pro persona, el principio de igualdad sustantiva o la construcción jurídica de las normas.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2022)</small>
 
@@ -474,7 +496,9 @@ Los derechos se garantizarán conforme a la cláusula de igual protección.
 
 La ley deberá garantizar la igualdad de hecho y de derecho.
 
-La cláusula de igualdad de género tendrá por objeto asegurar la participación e integración equilibrada entre hombres y mujeres en la vida social, cultural, política y económica.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+La cláusula de igualdad de género tendrá por objeto asegurar la participación e integración equilibrada de las personas en la vida social, cultural, política y económica. El Estado implementará políticas, programas y acciones que garanticen el derecho de las mujeres a la igualdad sustantiva, así como la erradicación de desigualdades, discriminaciones y exclusiones.
 
 Las personas o grupos que se encuentren en una situación de desventaja y vulnerabilidad tienen derecho a que el Estado adopte medidas apropiadas y preferenciales para erradicar la condición de desigualdad.
 
@@ -520,7 +544,9 @@ Todas las autoridades estarán obligadas a ejercer el control difuso local para 
 
 I. La interpretación conforme en sentido amplio, según la cual todas las autoridades del Estado deberán interpretar la norma de acuerdo a principios y reglas de los derechos humanos, favoreciendo en todo tiempo la protección más amplia;
 
-II. La aplicación del principio pro persona, según el cual cuando hay dos o más versiones interpretativas válidas las autoridades deberán, partiendo de la presunción de constitucionalidad de las leyes, preferir aquella que hace a la ley acorde a los derechos humanos y amplía su esfera de protección;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+II. La aplicación del principio pro persona, según el cual, cuando hay dos o más versiones interpretativas válidas, las autoridades deberán, partiendo de la presunción de constitucionalidad de las leyes, preferir aquella que hace a la ley acorde a los derechos humanos y amplía su esfera de protección. Esta interpretación deberá atender al principio de igualdad sustantiva, privilegiando el sentido que elimine desigualdades estructurales y garantice condiciones reales de igualdad en el ejercicio de los derechos.
 
 III. La inaplicación de la ley o cualquier otra norma secundaria o de su acto indebido de aplicación, como atribución exclusiva de los jueces, cuando las alternativas anteriores no son posibles;
 
@@ -582,15 +608,13 @@ En todo caso, los jueces deberán garantizar la máxima publicidad de los juicio
 
 En el Estado de Coahuila de Zaragoza, el ejercicio de los derechos fundamentales no tiene más límites que las disposiciones prohibitivas de la ley. De ésta emanan la autoridad de los que gobiernen y las obligaciones de los gobernados. En consecuencia, el ejercicio de la autoridad debe concretarse a las atribuciones determinadas en las leyes.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+Corresponde a los poderes públicos del Estado y de los municipios y a los organismos públicos autónomos, promover e instrumentar las garantías necesarias para que sean reales, efectivas y democráticas, la libertad, la igualdad, la igualdad sustantiva, la seguridad jurídica, la justicia social, la paridad y todos los derechos humanos reconocidos en el orden jurídico mexicano, de todas las personas y de los grupos en que se integran; facilitar su participación en la vida política, económica, cultural y social del Estado; así como remover los obstáculos que impidan o dificulten el pleno desarrollo de estos derechos fundamentales.
 
-Corresponde a los poderes públicos del estado y de los municipios y a los organismos públicos autónomos, promover e instrumentar las garantías necesarias para que sean reales, efectivas y democráticas, la libertad, la igualdad, la seguridad jurídica, la justicia social y todos los derechos humanos reconocidos en el orden jurídico mexicano, de todas las personas y de los grupos en que se integran; facilitar su participación en la vida política, económica, cultural y social del estado; así como remover los obstáculos que impidan o dificulten el pleno desarrollo de estos derechos fundamentales.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
-
-En el Estado de Coahuila de Zaragoza la protección y garantía de los derechos humanos reconocidos a favor de niños y niñas, estará a cargo de una Procuraduría y del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas, que establecerá los mecanismos de coordinación y participación de los poderes públicos del estado y de los municipios, de los organismos públicos autónomos y la sociedad civil, en los términos que determine la ley, a fin de garantizar el interés superior de la niñez.
+En el Estado de Coahuila de Zaragoza la protección y garantía de los derechos humanos reconocidos a favor de niñas, niños y adolescentes estará a cargo de la Procuraduría y del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas, que establecerá los mecanismos de coordinación y participación de los poderes públicos del Estado y de los municipios, de los organismos públicos autónomos y la sociedad civil, en los términos que determine la ley, a fin de garantizar el interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
@@ -798,6 +822,20 @@ V. Por no cumplir con las prevenciones de las leyes del Registro Civil.
 
 VI. Por negarse a servir los cargos de elección popular sin causa justificada y calificada por quien corresponda. En este caso, la suspensión será por el tiempo que deba durar el cargo de que se trate y el remiso sufrirá, además, una sanción económica que fijará la ley de la materia.
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+VII. Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales; el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos y, por ser declarada como persona deudora alimentaria morosa.
+
+En los supuestos previstos en esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
+
+La vigencia de inelegibilidad surtirá sus efectos el tiempo que dure la extinción de la sanción penal.
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+VIII. Por estar prófugo o prófuga de la justicia desde que se dicte orden de aprehensión hasta en tanto quede sin efectos o prescriba la acción penal.
+
+En el supuesto previsto en esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, únicamente mientras subsista la suspensión de sus derechos.
+
 ###### Artículo 21.
 
 La calidad de ciudadano coahuilense se pierde:
@@ -880,13 +918,11 @@ g) En la propaganda política o electoral que difundan, los partidos deberán ab
 
 h) La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y campañas electorales;
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+i) En la postulación y registro de candidaturas a diputaciones al Congreso del Estado, los partidos garantizarán la paridad de género. Las autoridades electorales realizarán las acciones a efecto de procurar la paridad de género en la integración del Congreso al realizar la asignación de las diputaciones de representación proporcional.
 
-i) En la postulación y registro de candidatos a diputados del Congreso del Estado, los partidos garantizarán la paridad. Las autoridades electorales realizarán las acciones a efecto (sic) procurar la paridad en la integración del Congreso al realizar la asignación de los diputados de representación proporcional.
-
-En la postulación y registro de los candidatos a integrar los ayuntamientos, los partidos políticos garantizarán la paridad horizontal y vertical, para el registro de candidatos de mayoría y representación proporcional. Las autoridades electorales realizarán las acciones a efecto de salvaguardar la paridad en la integración del Ayuntamiento al realizar la asignación de representación proporcional.
+En la postulación y registro de las personas candidatas a integrar los Ayuntamientos, los partidos políticos garantizarán la paridad de género para el registro de personas candidatas de mayoría y representación proporcional. Las autoridades electorales realizarán las acciones a efecto de salvaguardar la paridad de género atendiendo a los principios de verticalidad y horizontalidad, perspectiva de género e igualdad sustantiva en la integración y ejercicio del poder público municipal, al realizar la asignación de representación proporcional.
 
 > <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -904,9 +940,11 @@ a) Será autoridad en la materia, independiente en sus decisiones y funcionamien
 
 b) La certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores de su desempeño;
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-c) Contará en su estructura con los órganos de dirección, ejecutivos, técnicos y de vigilancia que señale la ley. El Consejo General será su órgano superior de dirección y se integrará por un Consejero Presidente y seis Consejeros Electorales; concurrirán con voz y sin voto los Representantes de los Partidos Políticos y el Secretario Ejecutivo. El Secretario Ejecutivo será propuesto por la o el Consejero Presidente y aprobado por al menos el voto de cinco Consejeros Electorales del Órgano Superior de Dirección del Organismo Público Local Electoral, durará en su encargo seis años y podrá ser ratificado por una sola vez en los términos que disponga la ley; tendrá un Contralor interno con autonomía de gestión; designado por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes de conformidad con las reglas y el procedimiento establecidos por la ley; durará en su encargo seis años y podrá ser ratificado por una sola vez.
+c) Contará en su estructura con los órganos de dirección, ejecutivos, técnicos y de vigilancia que señale la ley. El Consejo General será su órgano superior de dirección y se integrará por una Consejera Presidenta o un Consejero Presidente y seis Consejeras o Consejeros Electorales; concurrirán con voz y sin voto las personas representantes de los Partidos Políticos y la persona titular de la Secretaría Ejecutiva. Ésta será propuesta por la o el Consejero Presidente y su designación será aprobada por al menos el voto de cinco Consejeras o Consejeros Electorales del Órgano Superior de Dirección del Organismo Público Local Electoral, durará en su encargo seis años y podrá ser ratificada por una sola vez en los términos que disponga la ley; tendrá una Contralora Interna o un Contralor Interno con autonomía de gestión que designará el Congreso del Estado, con el voto de las dos terceras partes de las diputadas o los diputados presentes, de conformidad con las reglas y el procedimiento establecidos por la ley; durará en su encargo seis años y podrá ser ratificada o ratificado por una sola vez.
+
+Las remuneraciones de las personas consejeras electorales, titulares de las secretarías de órganos administrativos y titulares de áreas ejecutivas y técnicas del Instituto Electoral de Coahuila no excederán el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos. Asimismo, no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -924,11 +962,9 @@ g) El Instituto Electoral de Coahuila contará con una oficialía electoral inve
 
 6. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales y los relativos a plebiscitos y referendos, la ley establecerá un sistema de medios de impugnación del que conocerá el Tribunal Electoral del Estado de Coahuila de Zaragoza. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto reclamado. El Tribunal Electoral será órgano permanente, autónomo y máxima autoridad jurisdiccional electoral. Se integrará por tres Magistrados, que durarán en su encargo 7 años y cuya designación se realizará de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y las Leyes en la Materia.
 
-(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2022)</small>
-
-EL TRIBUNAL ELECTORAL SERÁ, CON EXCEPCIÓN DE LO DISPUESTO EN LAS FRACCIONES I Y II DEL ARTÍCULO 158 DE ESTA CONSTITUCIÓN, LA MÁXIMA AUTORIDAD JURISDICCIONAL EN LA MATERIA Y ÓRGANO ESPECIALIZADO, EN LOS TÉRMINOS QUE ESTABLECE EL ARTÍCULO 136 DE ESTA CONSTITUCIÓN Y DEMÁS LEYES APLICABLES.
+Las remuneraciones de las magistradas y los magistrados electorales del Estado, no excederán el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos. Asimismo, no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 7. La ley determinará las infracciones y responsabilidades en materia electoral; igualmente establecerá las conductas tipificadas como delitos electorales, así como las sanciones que deban imponerse en ambos casos.
 
@@ -1014,21 +1050,27 @@ Para garantizar la paridad de género, las listas de candidatos a integrantes de
 
 Los cargos públicos son un mandato que el pueblo confiere, para que sean desempeñados por los ciudadanos que merezcan su confianza. Ningún servidor público será inamovible en el desempeño de su encargo, excepción hecha de lo que la Constitución dispone para los miembros del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 30.
 
-El Gobernador del Estado, cuyo origen sea la elección popular ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+La Gobernadora o el Gobernador del Estado, cuyo origen sea la elección popular ordinaria o extraordinaria, en ningún caso y por ningún motivo podrán volver a ocupar ese cargo, ni aún con carácter interino, provisional, sustituto o como encargada o encargado del despacho.
 
-Nunca podrán ser electos para el período inmediato, el Gobernador substituto o el designado para concluir el período en caso de falta absoluta del constitucional, independientemente de la denominación que se le dé; así como el Gobernador interino, el provisional o el ciudadano que bajo cualquiera denominación, sea nombrado para cubrir faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+Nunca podrán ser electas como Gobernadora o Gobernador Constitucional, para el período inmediato, las personas que hubieren sido designadas como Gobernadora o Gobernador Sustituto o las designadas para concluir el período en caso de falta absoluta del constitucional, independientemente de la denominación que se le dé, así como la Gobernadora o el Gobernador Interino, la o el provisional o la persona ciudadana que bajo cualquiera denominación, sea nombrada para cubrir faltas temporales de la Gobernadora o del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+Asimismo, estará impedida la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.
 
-Los Diputados del Congreso del Estado, podrán ser electos hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las personas propietarias a las diputaciones locales no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas diputadas propietarias no podrán ser electas para el periodo inmediato posterior con el carácter de suplentes.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+En ningún caso podrá participar en la elección de una diputación la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
-Los presidentes municipales, regidores y síndicos de los Ayuntamientos, electos popularmente por elección directa, así como las personas que por elección indirecta, por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé o las que integren un Concejo Municipal, podrán ser electas para el período inmediato.
+Las personas electas que ejerzan los cargos de presidenta o presidente municipal, síndica o síndico o regidora o regidor con el carácter de propietarias que hayan estado en ejercicio, no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato. La misma prohibición será aplicable a las personas que integren a los Ayuntamientos y que hayan sido electas como independientes.
+
+Las personas a que se refiere el párrafo anterior, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias, a menos que hayan estado en ejercicio.
+
+Tratándose de las personas que por elección indirecta, por nombramiento o designación de alguna autoridad desempeñen las funciones propias de los cargos a que se refiere el párrafo quinto de este artículo, cualquiera que sea la denominación que se les dé o las que integren un Concejo Municipal, no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato. Cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias, a menos que hayan estado en ejercicio.
+
+En ningún caso podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -1050,39 +1092,21 @@ Elección e Instalación.
 
 Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
-(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 33.- El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con dieciséis diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales, y con nueve diputados electos por el principio de representación proporcional, los cuales serán asignados en los términos que establezca la ley entre aquellos partidos políticos que obtengan cuando menos el 2% de la votación válida emitida en el Estado para la elección de Diputados.
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Por cada diputado propietario, deberá elegirse un suplente en los términos que establezca la ley. Las fórmulas para Diputados al Congreso del Estado que registren los Partidos Políticos, tanto en el caso de mayoría relativa, como de representación proporcional, estarán compuestas cada una por un Propietario y un Suplente ambos del mismo género. La Lista de Representación Proporcional de Diputados al Congreso del Estado, se integrarán alternando las fórmulas de distinto género para garantizar el principio de paridad hasta agotar la lista.
+En su integración y funcionamiento deberán garantizarse los principios de paridad, igualdad sustantiva y perspectiva de género.
 
-En el caso de candidatos de mayoría relativa al Congreso del Estado, y con objeto de garantizar la paridad de género, la mitad de los distritos se integrará con candidatos de un género diferente. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
-
-En el caso de candidatos independientes que se registren para contender por el principio de mayoría relativa, la fórmula de propietario y suplente, deberá estar integrada por el mismo género.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 33.
 
-El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con dieciséis diputaciones electas según el principio de mayoría relativa mediante el sistema de distritos electorales, y con once diputaciones electas por el principio de representación proporcional, los cuales serán asignados en los términos que establezca esta Constitución y la ley conforme a las bases siguientes:
+El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con dieciséis personas diputadas electas según el principio de mayoría relativa mediante el sistema de distritos electorales, y con nueve personas diputadas electas por el principio de representación proporcional, las cuales serán asignadas en los términos que establezca la ley entre aquellos partidos políticos que obtengan cuando menos el 3% de la votación válida emitida en el Estado para la elección de personas diputadas.
 
-I. Para la elección de las nueve diputaciones de representación proporcional, se constituirá una circunscripción electoral cuya demarcación será el Estado.
+Por cada persona diputada propietaria, deberá elegirse una persona suplente en los términos que establezca la ley. Las fórmulas para personas diputadas al Congreso del Estado que registren los Partidos Políticos, en el caso de mayoría relativa, estarán compuestas cada una por una persona propietaria y una persona suplente, ambas del mismo género. Tratándose de las listas de candidaturas a diputaciones por principio de representación proporcional se integrarán conforme al sistema que establezca la ley, mediante listas diferenciadas por género, garantizando en todo momento el principio de paridad de género.
 
-II. Para la elección de las dos diputaciones de representación proporcional reservadas para grupos en situación de vulnerabilidad, el Estado se dividirá en dos circunscripciones específicas. La primera se integrará con los distritos locales 1° al 8°; y, la segunda, con los distritos 9° al 16°. Los partidos políticos participarán de manera individual en la asignación de estas diputaciones y serán otorgadas exclusivamente a la ciudadanía que pertenezca a cualquier grupo en situación de vulnerabilidad.
+En el caso de personas candidatas de mayoría relativa al Congreso del Estado, y con objeto de garantizar la paridad de género y la igualdad sustantiva la mitad de los distritos se integrará con personas candidatas de un género diferente. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
-III. El sistema de representación proporcional de grupos históricamente vulnerados es paralelo al sistema de mayoría relativa y de representación proporcional que establece la ley, y serán electos de conformidad con el procedimiento previsto en ella.
-
-IV. Se entenderá por personas o grupos en situación de vulnerabilidad, aquellos que señale la Carta de Derechos Políticos del Estado de Coahuila y sus Protocolos, o cualquier otra situación de hecho que ubique a una persona o grupo en una posición vulnerable frente al resto de la población o que comprometa el ejercicio efectivo de sus derechos en igualdad de oportunidades con lo demás.
-
-V. Las fórmulas para diputaciones al Congreso del Estado que registren los partidos políticos, tanto en el caso de mayoría relativa, como de representación proporcional y de grupos en situación de vulnerabilidad, estarán compuestas por una persona propietaria y una suplente, ambas del mismo género, de conformidad con la regla de postulación prevista en la ley.
-
-VI. Las listas de diputaciones de representación proporcional y de grupos en situación de vulnerabilidad al Congreso del Estado deberán garantizar el principio de paridad en los términos que establece la ley electoral.
-
-VII. En el caso de candidaturas de mayoría relativa y con objeto de garantizar la paridad de género horizontal, la mitad de los distritos se integrará con candidaturas de un género diferente.
-
-VIII. En el caso de candidatos independientes que se registren para contender por el principio de mayoría relativa, la fórmula de propietario y suplente deberá estar integrada por el mismo género.
-
-La ley establecerá las condiciones, requisitos y límites para la asignación de este sistema de mayoría y de representación proporcional para asegurar el principio de pluralismo político.
-
-La postulación de candidaturas al Congreso del Estado deberá cumplir con los requisitos de competitividad y transversalidad para garantizar la paridad de género sustantiva en su integración, de conformidad con los bloques que establece la ley.
+En el caso de personas candidatas independientes que se registren para contender por el principio de mayoría relativa, la fórmula de persona propietaria y suplente, deberá estar integrada por el mismo género.
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
@@ -1168,6 +1192,14 @@ III. No estar en ejercicio activo en el Ejército Nacional ni tener mando en la 
 
 IV. No ser Secretario de la Administración Pública Estatal, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, Fiscal General del Estado, Magistrado del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, titular de algún organismo descentralizado, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto Electoral de Coahuila, ni Magistrado o Secretario del Tribunal Electoral del Estado de Coahuila de Zaragoza, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+V. No estar comprendido en alguno de los impedimentos que señala el artículo 30 de esta Constitución.
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+VI. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
+
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
 ###### Artículo 37.
@@ -1221,6 +1253,10 @@ El Congreso del Estado expedirá la Ley que regulará su estructura y funcionami
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia. Los Diputados tendrán la facultad exclusiva de aprobar, reformar y adicionar este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+La Ley a que se refiere este artículo establecerá las disposiciones que garanticen los principios de paridad, igualdad sustantiva y perspectiva de género, en la integración y funcionamiento de los órganos legislativos, parlamentarios y administrativos que integren la estructura orgánica del Congreso.
 
 ### CAPITULO II.
 
@@ -1462,27 +1498,23 @@ Las leyes y decretos se comunicarán al Ejecutivo, firmados por el Presidente y 
 
 La derogación o reformas de las leyes, se hará con los mismos requisitos y formalidades prescritos para su formación.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 66.
 
 La promulgación de las Leyes o Decretos, se hará bajo la siguiente fórmula:
 
-"N.N. Gobernador Constitucional del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes sabed:
+"N.N. Gobernadora Constitucional del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza o Gobernador Constitucional del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes sabed:
 
 Que el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, Decreta:
 
 (AQUI EL TEXTO)
 
-Dado en el Salón de Sesiones del Congreso del Estado.
+Dado en el Salón de Sesiones del Congreso del Estado (lugar, fecha y firmas de la Presidenta o el Presidente y Secretarias o Secretarios).
 
-(lugar, fecha y firmas del Presidente y Secretarios).
+IMPRÍMASE, COMUNÍQUESE Y OBSÉRVESE.
 
-IMPRIMASE, COMUNIQUESE Y OBSERVESE.
-
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2016)</small>
-
-(Lugar, fecha y firmas del Gobernador y del Secretario de Gobierno)."
+(Lugar, fecha y firmas de la Gobernadora o del Gobernador y de la o el Secretario de Gobierno)."
 
 ### CAPITULO IV.
 
@@ -1593,6 +1625,14 @@ XXIII. Designar al Presidente y Consejeros de la Comisión de los Derechos Human
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1998)</small>
 
 XXIV. Elaborar y aprobar su propio presupuesto de egresos, así como rendir su cuenta pública en los términos de ley.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+De conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, el presupuesto anual del Congreso del Estado no podrá exceder del cero punto setenta por ciento del Presupuesto de Egresos del Estado correspondiente al ejercicio fiscal de que se trate.
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+XXIV Bis. Ejercer las acciones necesarias para el debido cumplimiento de las disposiciones en materia de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaría, en términos de la legislación aplicable.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1900,13 +1940,17 @@ El Auditor Superior del Estado será designado por el voto de las dos terceras p
 
 Del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 75.
 
-El Poder Ejecutivo del Estado se deposita en una sola persona que se denominará Gobernador del Estado de Coahuila de Zaragoza.
+El Poder Ejecutivo del Estado se deposita en una sola persona que se denominará Gobernadora del Estado de Coahuila de Zaragoza o Gobernador del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 76.
 
-Para ser Gobernador se requiere:
+Para ser Gobernadora o Gobernador se requiere:
 
 I. Ser ciudadano mexicano por nacimiento.
 
@@ -1922,15 +1966,17 @@ III. Ser coahuilense por nacimiento o tener una residencia efectiva en el Estado
 
 IV. No encontrarse en el supuesto a que se refiere el segundo párrafo del artículo 30 de esta Constitución.
 
-(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “V. No ser secretario de la administración pública estatal, magistrado del Poder Judicial, presidente municipal, síndico o regidor, consejero o integrante del órgano de dirección de los organismos públicos autónomos, magistrado del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, Fiscal General del Estado, titulares de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretario del Tribunal Electoral del Poder Judicial del Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
-
-V. NO SER SECRETARIO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, MAGISTRADO DEL PODER JUDICIAL, PRESIDENTE MUNICIPAL, SÍNDICO O REGIDOR, CONSEJERO O INTEGRANTE DEL ÓRGANO DE DIRECCIÓN DE LOS ORGANISMOS PÚBLICOS AUTÓNOMOS, MAGISTRADO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE COAHUILA DE ZARAGOZA, FISCAL GENERAL DEL ESTADO, TITULARES DE LOS ORGANISMOS DESCENTRALIZADOS, MIEMBRO DE LOS ÓRGANOS DIRECTIVOS Y TÉCNICOS O INTEGRANTE DEL CUERPO DEL SERVICIO PROFESIONAL ELECTORAL DEL INSTITUTO, NI SECRETARIO DEL TRIBUNAL ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA, SALVO QUE SE SEPARE DE SU ENCARGO EN LOS TÉRMINOS QUE SEÑALE LA LEGISLACIÓN REGLAMENTARIA.
+V. No ser secretaria o secretario de la administración pública estatal, magistrada o magistrado del Poder Judicial, presidenta o presidente municipal, síndica o síndico o regidora o regidor, consejera o consejero o integrante del órgano de dirección de los organismos públicos autónomos, magistrada o magistrado del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, persona titular de la Fiscalía General del Estado, titular de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretaria o secretario del Tribunal Electoral, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
 
 VI. No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo.
 
 VII. No haber sido condenado en juicio por robo, fraude, abuso de confianza, falsificación u otro delito infamante.
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+VIII. No haber tenido ni tener, en los tres años anteriores al día de la elección, un vínculo de matrimonio o concubinato o unión de hecho, ni de parentesco por consanguinidad o civil en línea recta sin limitación de grado y, en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que ocupe la titularidad de la gubernatura.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
 
@@ -1946,19 +1992,23 @@ La elección de Gobernador será directa y en los términos que señale la Ley d
 
 LA POSTULACIÓN DE CANDIDATURAS A LA GUBERNATURA DEL ESTADO SE SUJETARÁ A LOS CRITERIOS DE COMPETITIVIDAD QUE ESTABLEZCA LA LEY.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 78.
 
-En caso de falta absoluta del Gobernador del Estado, que ocurra durante los tres primeros años del período constitucional correspondiente, el Congreso del Estado se constituirá inmediatamente en Colegio Electoral y con la concurrencia de cuando menos las dos terceras partes del total de sus miembros nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino. El Instituto Electoral de Coahuila, dentro de los noventa días siguientes al de la designación del Gobernador Interino, expedirá la convocatoria para la elección del Gobernador que deba concluir el período, debiendo precisar en la misma, la fecha en que habrá de celebrarse dicha elección.
+En caso de falta absoluta de la Gobernadora o del Gobernador del Estado, que ocurra durante los tres primeros años del período constitucional correspondiente, el Congreso del Estado se constituirá inmediatamente en Colegio Electoral y con la concurrencia de cuando menos las dos terceras partes del total de sus miembros nombrará, en escrutinio secreto y por mayoría absoluta de votos, a una Gobernadora Interina o a un Gobernador Interino. El Instituto Electoral de Coahuila, dentro de los noventa días siguientes al de la designación de la Gobernadora Interina o del Gobernador Interino, expedirá la convocatoria para la elección de la Gobernadora o del Gobernador que deba concluir el período, debiendo precisar en la misma, la fecha en que habrá de celebrarse dicha elección.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego una Gobernadora Provisional o a un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso, para que éste, a su vez, designe a la Gobernadora o al Gobernador Interino. El Instituto Electoral de Coahuila deberá convocar a elecciones en los términos del párrafo anterior.
 
-Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso, para que éste, a su vez, designe al Gobernador Interino. El Instituto Electoral de Coahuila deberá convocar a elecciones en los términos del párrafo anterior.
+Cuando la falta absoluta de la Gobernadora o del Gobernador del Estado, ocurriere en los tres últimos años del período constitucional respectivo, el Congreso del Estado designará una Gobernadora Sustituta o a un Gobernador Sustituto, en los términos que se establecen en el primer párrafo de este artículo, quien se encargará de concluir el período. Si el Congreso no estuviese reunido, la Diputación Permanente nombrará a una Gobernadora Provisional o a un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias, para que se erija en Colegio Electoral y haga la elección de la Gobernadora Sustituta o del Gobernador Sustituto.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+Por tanto, nunca podrán ser electas o electos para el período inmediato:
 
-Cuando la falta absoluta del Gobernador del Estado, ocurriere en los tres últimos años del período constitucional respectivo, el Congreso del Estado designará un Gobernador Substituto, en los términos que se establecen en el primer párrafo, quien se encargará de concluir el período. Si el Congreso no estuviese reunido, la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias, para que se erija en Colegio Electoral y haga la elección del Gobernador Substituto.
+I. La Gobernadora o el Gobernador Sustituto o la persona designada para concluir el período en caso de falta absoluta de la Gobernadora Constitucional o del Gobernador Constitucional, aun cuando tenga distinta denominación.
+
+II. La Gobernadora Interina o el Gobernador Interino, la o el provisional o la persona ciudadana que, bajo cualquier denominación, supla las faltas temporales de la Gobernadora o del Gobernador, siempre que desempeñe el cargo en los dos últimos años del periodo correspondiente.
+
+III. La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2290,11 +2340,13 @@ Los reglamentos, decretos, acuerdos y circulares expedidos por el Gobernador, se
 
 Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo del Secretario de Gobierno.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 89.
 
-Los Secretarios del Ramo y los Directores Generales o sus equivalentes de las entidades paraestatales, previa anuencia del Gobernador, así como los titulares de los organismos públicos autónomos concurrirán a las sesiones del Congreso, para que informen cuando se discuta una Ley o se estudie un asunto concerniente a sus respectivos ramos o actividades.
+Las personas titulares de las Secretarías del Ramo y las Direcciones Generales o sus equivalentes de las entidades paraestatales, previa anuencia de la persona titular del Poder Ejecutivo, así como las personas titulares de los organismos públicos autónomos, concurrirán a las sesiones del Congreso para que informen cuando se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos o actividades.
+
+La persona titular de la Fiscalía General del Estado, previa solicitud del Poder Legislativo a la persona titular del Poder Ejecutivo, podrá concurrir ante el Congreso cuando las leyes que se discutan sean de su competencia.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -2462,13 +2514,17 @@ De la Seguridad Pública y la Procuración de Justicia.
 
 #### Sección Primera. De la Seguridad Pública
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 108.
 
-La seguridad pública es una función a cargo de la federación, el estado y los municipios, que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, su investigación y persecución, la reinserción social del sentenciado, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias previstas en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución.
+La seguridad pública es una función a cargo de la federación, las entidades federativas y los municipios, que tiene como fines salvaguardar la vida, la integridad, el patrimonio y los derechos de las personas de conformidad con lo dispuesto en el artículo 7° de esta Constitución para garantizar los deberes reforzados de protección del Estado con las mujeres, niñas, niños y adolescentes, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, su investigación y persecución, la reinserción social de la persona sentenciada, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias previstas en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución.
 
-La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, honradez, transparencia y respeto a los derechos humanos.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, honradez y transparencia, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, esta Constitución y en las Cartas de Derechos y sus Protocolos Adicionales.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 El Estado desarrollará políticas en materia de prevención social de la delincuencia con carácter integral, sobre las causas que generan violencia, adicciones, la comisión de delitos y otras conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
 
@@ -2556,9 +2612,9 @@ La investigación de los delitos corresponde al Ministerio Público y a las poli
 
 El Ministerio Público es la institución única e indivisible, que dirige la investigación y persecución de los hechos probablemente constitutivos de delitos y, en su caso, promueve el ejercicio de la acción penal ante los tribunales de justicia, protege y brinda atención a las víctimas del delito y testigos, con el respeto irrestricto a los Derechos Humanos del imputado y demás intervinientes. En el ejercicio de su función de investigación y persecución de los delitos, el Ministerio Público goza de total autonomía, para garantizar su independencia en la emisión de las determinaciones de su competencia, por lo que ningún funcionario del Poder Ejecutivo o de cualquier otro poder podrá intervenir en sus decisiones.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-La actuación del personal de procuración de justicia se regirá bajo los principios de legalidad, eficiencia, profesionalismo, honradez, imparcialidad, transparencia, objetividad, independencia y respeto a los derechos humanos.
+La actuación del personal de procuración de justicia se regirá bajo los principios de legalidad, eficiencia, profesionalismo, honradez, imparcialidad, transparencia, objetividad, independencia, responsabilidad, perspectiva de género y respeto a los derechos humanos.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
@@ -2712,6 +2768,14 @@ Toda persona tiene derecho a gozar de los beneficios del desarrollo de la cienci
 
 La educación será considerada como un proceso integral correlacionado con sus diversos ciclos, de modo que exista una adecuada articulación y continuidad entre todos los niveles, y estará orientada a lograr el desarrollo armonioso de la personalidad humana, el amor a la patria, el respeto a los derechos humanos y la igualdad sustantiva, conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Los planes y programas de estudio de todos los niveles educativos tendrán perspectiva de género.
+
 La persona titular del Ejecutivo del Estado, a través de la Secretaría de Educación, propondrá, y en su caso, aplicará los planes y programas de estudio de educación inicial, preescolar, primaria, secundaria y normal previamente determinados por la federación, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Educación.
 
 Por lo que respecta al nivel bachillerato, la autoridad educativa estatal regulará en coordinación con la autoridad educativa federal los planes y programas de estudio, una vez establecido el marco curricular común.
@@ -2732,7 +2796,9 @@ La educación que el Estado debe de otorgar al alumnado deberá de contribuir a 
 
 El Estado y los municipios garantizarán y prestarán los servicios de educación inicial, preescolar, primaria, secundaria, media superior y superior.
 
-Los niveles de educación inicial, preescolar, primaria y secundaria formarán parte de la educación básica, estas y la media superior serán obligatorias; la educación superior lo será en los términos que dicte la normatividad aplicable, y tendrá como objetivo desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional en la independencia y en la justicia.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+Los niveles de educación inicial, preescolar, primaria y secundaria formarán parte de la educación básica, éstas y la media superior serán obligatorias; la educación superior lo será en los términos que dicte la normatividad aplicable, y tendrá como objetivo desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos, la igualdad sustantiva y la conciencia de la solidaridad internacional en la independencia y en la justicia.
 
 El Estado reconoce a la juventud el derecho de que se le complemente su educación en instituciones sostenidas con los fondos públicos, sin más limitación que las posibilidades económicas al alcance del Estado.
 
@@ -3144,17 +3210,17 @@ II. El acceso a la justicia se sujetará a lo siguiente:
 
 La defensoría pública, independientemente de su adscripción, contará con autonomía técnica, de gestión y operativa, y su objeto es coordinar, dirigir y controlar el servicio de la defensa pública, de acuerdo con las disposiciones de esta Constitución y demás ordenamientos legales aplicables. La defensoría pública desempeñará sus funciones jurídicas, técnicas y de gestión con independencia de su adscripción orgánica.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-6. El derecho a obtener una resolución fundada y motivada que ponga fin al proceso. Toda resolución deberá ser clara, precisa, accesible y deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia. Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública, previa citación de las partes.
+6. El derecho a obtener una resolución fundada y motivada que ponga fin al proceso. Toda resolución deberá ser clara, precisa, accesible y emitida con perspectiva de género y perspectiva de interseccionalidad; además, deberá observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia. Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública, previa citación de las partes.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
 7. La interpretación más extensiva de la acción para permitir el más amplio acceso a la jurisdicción.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-8. La interpretación restrictiva de las causas de de (sic) improcedencia que sólo serán las estrictamente necesarias.
+8. La interpretación restrictiva de las causas de improcedencia que sólo serán las estrictamente necesarias.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
@@ -3322,7 +3388,9 @@ V. Impugnar ante autoridad judicial las omisiones del Ministerio Público en la 
 
 VI. Al resguardo de su identidad y otros datos personales cuando sea menor de edad o se trate de delitos de violación, secuestro o trata de personas, o cuando a juicio del juzgador sea necesario para su protección, salvaguardando los derechos de la defensa; a que se le garantice su protección, y
 
-VII. Solicitar las medidas cautelares y providencias necesarias que prevea la ley, para la protección y restitución de sus derechos.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+VII. Solicitar las medidas cautelares, medidas de protección y demás providencias que prevea la ley, para garantizar la protección integral y la restitución de sus derechos, en especial cuando se trate de violencia de género.
 
 El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todos los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación.
 
@@ -3588,25 +3656,33 @@ IV. Podrá crearse un nuevo Municipio mediante fusión o división de los existe
 
 #### SECCIÓN II.. El Ayuntamiento y el Concejo Municipal
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 158-K.
 
-Cada Municipio será gobernado por un Ayuntamiento integrado por un presidente municipal y el número de regidores y síndicos que establezca la ley de la materia.
+Cada Municipio será gobernado por un Ayuntamiento integrado por una presidenta o un presidente municipal, una sindicatura y hasta quince regidurías, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal, de conformidad con los términos que establezca la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 El Ayuntamiento se conformará de acuerdo con las bases siguientes:
 
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
 I. Sus integrantes serán electos en la forma que establezca la ley de la materia.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-II. La elección consecutiva será permitida en los términos del artículo 30 de esta Constitución por un período adicional.
+II. Las personas electas popularmente, que ejerzan los cargos de presidenta o presidente municipal, síndica o síndico, regidora o regidor de los Ayuntamientos del Estado, no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato. La misma prohibición será aplicable a las personas que integren a los Ayuntamientos y que hayan sido electas como independientes.
 
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 III. Se renovará en su totalidad cada tres años.
 
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
 IV. Iniciará sus funciones el primero de enero del año inmediato siguiente al de la elección y concluirá el día anterior a aquel en que inicie funciones el que lo sucederá.
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
 
 V. La ley de la materia introducirá el principio de representación proporcional en la elección de los Ayuntamientos, en todos los Municipios del Estado.
 
@@ -3615,6 +3691,8 @@ V. La ley de la materia introducirá el principio de representación proporciona
 VI. Cuando el presidente municipal electo no se presente a tomar posesión del cargo o en caso de falta absoluta, el Congreso del Estado, con la concurrencia de cuando menos dos terceras partes del total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos a un presidente municipal, quien se encargará de concluir el período. El nombramiento se hará conforme a la propuesta que realice la dirigencia estatal del partido político que haya obtenido el triunfo en el municipio correspondiente.
 
 En el caso de coaliciones la ley reglamentaria determinara el procedimiento correspondiente.
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
 
 VII. Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo, será sustituido conforme el sistema de suplentes o se procederá de otra forma con arreglo a la ley.
 
@@ -3822,9 +3900,9 @@ Los Ayuntamientos tendrán las competencias, facultades y obligaciones siguiente
 
 I. En materia de gobierno y régimen interior:
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-1. Formular, aprobar y publicar los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones; el Reglamento de Seguridad Pública Municipal deberá estar ajustado a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y a las Leyes federales y estatales aplicables.
+1. Formular, aprobar y publicar los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones; el Reglamento de Seguridad Pública Municipal deberá ser ajustado a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y a las Leyes federales y estatales aplicables. La formulación de los ordenamientos y disposiciones municipales considerará la perspectiva de género, así como los mecanismos que garanticen la igualdad sustantiva.
 
 2. Intervenir en el proceso legislativo constitucional u ordinario de conformidad con los artículos 59, 62 y 196 de esta Constitución.
 
@@ -3838,7 +3916,9 @@ I. En materia de gobierno y régimen interior:
 
 7. Actualizar la información demográfica, económica y social que coadyuve a la mejor toma de decisiones de gobierno y colaborar con las autoridades federales y estatales en la formación de censos y estadísticas de toda índole.
 
-8. Conceder licencias hasta por quince días para separarse en lo individual de sus cargos, al presidente municipal, síndicos y regidores. En el caso de que las ausencias excedan de los plazos señalados, se requerirá autorización del Congreso del Estado.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+8. Conceder licencias hasta por quince días para separarse en lo individual de sus cargos, a la presidenta o el presidente municipal, síndica o síndico y regidoras o regidores. En el caso de que las ausencias excedan de los plazos señalados, se requerirá autorización del Congreso del Estado.
 
 9. Dictar, con el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos, las resoluciones que afecten el patrimonio inmobiliario municipal, con arreglo a la ley.
 
@@ -4100,15 +4180,13 @@ Las leyes aplicables, sancionarán el enriquecimiento ilícito con el decomiso, 
 
 Todo ciudadano, bajo su responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refieren los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 163.
 
-Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el Auditor Superior del Estado; el Gobernador del Estado; los Secretarios del ramo; los subsecretarios; el Fiscal General del Estado, los fiscales, los fiscales especializados; los directores generales o su equivalente en las entidades y los directores de las dependencias del Poder Ejecutivo y de la Fiscalía General del Estado de Coahuila de Zaragoza; los Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial; los integrantes del órgano de administración judicial; los Magistrados del Tribunal Electoral; los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; los presidentes, regidores y síndicos de los Ayuntamientos del Estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; así como los titulares e integrantes de los consejos y asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación.
+Podrán ser sujetos de juicio político las diputadas y los diputados del Congreso del Estado; la persona titular de la Auditoría Superior del Estado; la Gobernadora o el Gobernador del Estado; las y los Secretarios del ramo; las y los subsecretarios; la persona titular de la Fiscalía General del Estado, las personas fiscales, fiscales especializados, las y los directores generales o su equivalente en las entidades y las y los directores de las dependencias del Poder Ejecutivo y de la Fiscalía General del Estado de Coahuila de Zaragoza; las Magistradas y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial; las y los integrantes del órgano de administración judicial; las Magistradas y los Magistrados del Tribunal Electoral; las Magistradas y los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; la presidenta y el presidente municipal, las regidoras y los regidores y la persona síndica de los Ayuntamientos del Estado; las y los integrantes de los concejos municipales; las directoras y los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; así como las personas titulares e integrantes de los consejos y asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación.
 
-(REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
-
-El Gobernador del Estado, los Diputados al Congreso Local y los Magistrados del Tribunal Superior de Justicia del Estado, serán sujetos de juicio político en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, cuando incurran en violaciones graves a este supremo ordenamiento y a las leyes federales que de él emanen, así como en el caso de manejo indebido de fondos y recursos federales.
+La Gobernadora o el Gobernador del Estado, las diputadas y los Diputados al Congreso Local y las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, serán sujetos de juicio político en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, cuando incurran en violaciones graves a dicho ordenamiento y a las leyes federales que de él emanen, así como en el caso de manejo indebido de fondos y recursos federales.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -4120,17 +4198,23 @@ Para la aplicación de dichas sanciones, el Congreso del Estado conocerá de las
 
 Las declaraciones y resoluciones que emita el Congreso del Estado en estos casos, serán inatacables.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 165.
 
-Se podrá proceder penalmente contra el Gobernador del Estado; los Diputados del Congreso del Estado; el Auditor Superior del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; los secretarios del ramo; el Fiscal General del Estado, los fiscales y fiscales especializados; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los consejos municipales; y así como los titulares e integrantes de los consejos o asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación, por la comisión de delitos durante el tiempo de su encargo, éstos quedaran sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cual fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado y del acusador, si lo hubiere.
+Se podrá proceder penalmente contra la Gobernadora o el Gobernador del Estado; las Diputadas y los Diputados del Congreso del Estado; la persona titular de la Auditoría Superior del Estado; las Magistradas y los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de Conciliación y Arbitraje, de los Tribunales Distritales, las Magistradas y los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; las personas juzgadoras de primera instancia; las y los secretarios del ramo; la persona titular de la Fiscalía General del Estado, las personas fiscales y fiscales especializados; la presidenta y el presidente municipal, las regidoras y los regidores, así como la persona síndica de los Ayuntamientos del Estado; las personas integrantes de los concejos municipales; y así como las y los titulares e integrantes de los consejos o asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación, por la comisión de delitos durante el tiempo de su encargo, quedarán sujetas a la acción del Pleno del Tribunal Superior de Justicia, el cual fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia de la persona inculpada y de la acusadora, si la hubiere.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 Lo anterior se realizará conforme a las bases siguientes:
 
-Durante el proceso penal, el servidor público podrá seguir en su encargo salvo que se le imponga alguna medida cautelar consistente en prisión preventiva, o alguna otra medida que restrinja o limite su libertad, según lo establezca la ley de la materia aplicable. Las medidas cautelares no podrán consistir en prisión preventiva, restricción o limitación de la libertad, salvo en los casos de delincuencia organizada, delitos relacionados con hechos de corrupción, suspensión temporal en el ejercicio del cargo cuando se le atribuye un delito cometido por servidores públicos; así como delitos graves que determine la ley en contra de la seguridad de la nación y de la salud.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-En caso de que la sanción impuesta haga incompatible el ejercicio del cargo, se separará al sentenciado de sus funciones. La separación del cargo, tendrá efectos mientras se extingue la pena.
+Durante el proceso penal, la persona servidora pública podrá seguir en su encargo salvo que se le imponga alguna medida cautelar consistente en prisión preventiva, o alguna otra medida que restrinja o limite su libertad, según lo establezca la ley de la materia aplicable. Las medidas cautelares no podrán consistir en prisión preventiva, restricción o limitación de la libertad, salvo en los casos de delincuencia organizada, delitos relacionados con hechos de corrupción, suspensión temporal en el ejercicio del cargo cuando se le atribuye un delito cometido por personas servidoras públicas; así como delitos graves que determine la ley en contra de la seguridad de la nación y de la salud.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+En caso de que la sanción impuesta haga incompatible el ejercicio del cargo, se separará a la persona sentenciada de sus funciones. La separación del cargo tendrá efectos mientras se extingue la pena.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
@@ -4236,11 +4320,11 @@ La propiedad privada puede ser expropiada por causa de utilidad pública calific
 
 La comunidad participará de la plusvalía que generen las acciones urbanísticas por obras realizadas por el Estado o los Municipios.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 170.
 
-Toda persona tiene derecho a un trabajo digno y socialmente útil. El Estado, promoverá la creación de empleos y dentro del ámbito de sus atribuciones vigilará por la estricta aplicación y observancia de las normas de trabajo.
+Toda persona tiene derecho a un trabajo digno y socialmente útil. El Estado, promoverá la creación de empleos y, en el ámbito de sus atribuciones, vigilará por la estricta aplicación y observancia de las normas de trabajo. Asimismo, el Estado impulsará la igualdad sustantiva en el acceso, permanencia y remuneración laboral y, para tal efecto, adoptará medidas para prevenir y erradicar cualquier forma de discriminación laboral. Esas medidas incluirán, entre otras, la eliminación de las brechas salariales, con énfasis en la brecha salarial de género, así como la promoción de condiciones de igualdad en los procesos de contratación y ascenso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
@@ -4282,23 +4366,23 @@ El Estado y los Municipios, dentro del ámbito de sus respectivas competencias, 
 
 Para quienes violen lo dispuesto en el párrafo anterior, en los términos que la Ley fije, se establecerán sanciones penales, o en su caso, administrativas, así como la obligación de reparar el daño.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 173.
 
-El Estado reconoce a la familia como la agrupación primaria, natural y fundamental de la sociedad. A este efecto, dictará las disposiciones necesarias para su seguridad, estabilidad y mejoramiento. La Ley dispondrá la organización del patrimonio familiar, sobre la base de ser inalienable, inembargable y estar exento de toda carga pública.
+El Estado reconoce a las familias como las agrupaciones primarias, naturales y fundamentales de la sociedad. A este efecto, dictará las disposiciones necesarias para su seguridad, estabilidad y mejoramiento, con base en el principio de igualdad sustantiva y el respeto a la diversidad de estructuras familiares. La Ley dispondrá la organización del patrimonio familiar, sobre la base de ser inalienable, inembargable y estar exento de toda carga pública.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Los menores tienen derecho a una vida sana, a la salud, a la alimentación, a la educación, a la cultura, a la recreación, a la preparación para el trabajo y a llevar una vida digna en el seno de la familia; así como a todos los derechos que la Constitución General, los Tratados Internacionales suscritos por México y los previstos en esta Constitución les confieren. El Estado, los municipios, los poderes legislativo y judicial y demás autoridades, realizarán todas las acciones legislativas, reglamentarias, administrativas y judiciales para garantizar el uso y goce de estos derechos a las niñas y niños en Coahuila, sin menoscabo de lo dispuesto por el Artículo 8° de esta Constitución.
+Las niñas, niños y adolescentes tienen derecho a una vida sana, a la salud, a la alimentación, a la educación, a la cultura, a la recreación, a la preparación para el trabajo y a llevar una vida digna en el seno de la familia; así como a todos los derechos que la Constitución Federal, los tratados internacionales de los que el Estado Mexicano sea parte y los previstos en esta Constitución les confieren. El Estado, los municipios, los poderes legislativo y judicial y demás autoridades, realizarán todas las acciones legislativas, reglamentarias, administrativas y judiciales para garantizar el uso y goce de estos derechos a las niñas, niños y adolescentes en Coahuila, sin menoscabo de lo dispuesto por el Artículo 8º de esta Constitución.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a su salud física y mental. Las Leyes deberán ampararlos desde su concepción y determinarán los apoyos para su protección a cargo de las instituciones públicas.
+Es deber de las madres y los padres preservar el derecho de las niñas, niños y adolescentes a la satisfacción de sus necesidades y a su salud física y mental. Las leyes deberán ampararlos desde su concepción y determinarán los apoyos para su protección a cargo de las instituciones públicas.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-La Patria Potestad es el conjunto de derechos y deberes recíprocos, reflejo de la filiación, que corresponde por una parte a los padres y en su defecto a los abuelos y por la otra parte a los descendientes niñas o niños no emancipados, cuyo objeto es su desarrollo integral, la guarda de su persona y de sus bienes, así como su asistencia y representación legal. Es una función de interés público que se ejerce atendiendo al interés superior de la infancia, por lo tanto, dicha autoridad no podrá ser menoscabada, limitada ni suspendida sino mediante un mandamiento judicial, decretado fundadamente por un Juez, con conocimiento de causa y después de que los involucrados puedan ser oídos y vencidos en juicio, salvo lo dispuesto en las disposiciones aplicables, y los casos en que niños, niñas y adolescentes sean colocados en una situación de riesgo inminente e inmediato en la que se vean vulnerados sus derechos, debiendo actuar la autoridad competente de manera inmediata, urgente y expedita garantizando el interés superior de la infancia, mediante los mecanismos establecidos en la Ley de la Materia.
+La patria potestad es el conjunto de derechos y deberes recíprocos, reflejo de la filiación, que corresponde por una parte a las madres y los padres o, en su defecto, a las abuelas y los abuelos y, por la otra parte, a sus descendientes niñas, niños y adolescentes no emancipados, cuyo objeto es su desarrollo integral, la guarda de su persona y de sus bienes, así como su asistencia y representación legal. Es una función de interés público que se ejerce atendiendo al interés superior de la infancia, por lo tanto, dicha autoridad no podrá ser menoscabada, limitada ni suspendida sino mediante un mandamiento judicial, decretado fundadamente por una jueza o juez, con conocimiento de causa y después de que las partes involucradas puedan ser oídas y vencidas en juicio, salvo lo dispuesto en las disposiciones aplicables, y los casos en que niñas, niños y adolescentes sean colocados en una situación de riesgo inminente e inmediato en la que se vean vulnerados sus derechos, debiendo actuar la autoridad competente de manera inmediata, urgente y expedita garantizando el interés superior de la infancia, mediante los mecanismos establecidos en la ley de la materia.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2025)</small>
 
@@ -4308,9 +4392,9 @@ El Estado realizará una política de inclusión para las personas con discapaci
 
 A las personas adultas mayores, debe garantizarles el pleno respeto y ejercicio de sus derechos bajo los principios de inclusión e igualdad. En caso de desamparo, el Estado promoverá su bienestar mediante un sistema de servicios sociales que atenderán sus problemas específicos de salud, alimentación, vivienda y recreación.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
 
-Se reconoce la igualdad de derechos del hombre y de la mujer en todos los ámbitos de la vida cultural, social, jurídica, política y económica.
+Se reconoce la igualdad de derechos de las personas en todos los ámbitos de la vida cultural, social, jurídica, política y económica.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
 
@@ -4505,6 +4589,10 @@ Los servidores públicos que entren a ejercer su cargo después del día señala
 ###### Artículo 192.
 
 No podrán formar parte de un mismo Ayuntamiento, dos personas que sean parientes por consanguinidad dentro del segundo grado.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2026)</small>
+
+En ningún caso podrá participar en un proceso electoral la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo el cargo para el cual pretenda postularse.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -6403,6 +6491,72 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 314.- SE REFORMA EL PÁRRAFO NOVENO DEL ARTÍCULO 173 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE SEPTIEMBRE DE 2026
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 512.- SE REFORMA EL INCISO I) DEL NUMERAL 3, EL INCISO C) DEL NUMERAL 5 Y EL SEGUNDO PÁRRAFO DEL NUMERAL 6 DEL ARTÍCULO 27, EL ARTÍCULO 30, EL ARTÍCULO 33, EL ARTÍCULO 66, EL ARTÍCULO 75, LA FRACCIÓN V DEL ARTÍCULO 76, EL ARTÍCULO 78, EL PRIMER PÁRRAFO Y LA FRACCIÓN II DEL ARTÍCULO 158-K, EL NUMERAL 8 DE LA FRACCIÓN I DEL ARTÍCULO 158-U, EL ARTÍCULO 163, LOS PÁRRAFOS PRIMERO, TERCERO Y CUARTO DEL ARTÍCULO 165; Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTÍCULO 20, UN SEGUNDO PÁRRAFO AL ARTÍCULO 32, LAS FRACCIONES V Y VI AL ARTÍCULO 36, UN TERCER PÁRRAFO AL ARTÍCULO 45, UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXIV Y LA FRACCIÓN XXIV BIS AL ARTÍCULO 67, LA FRACCIÓN VIII AL ARTÍCULO 76 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 192, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las adiciones o reformas a los artículos 30, párrafos tercero y quinto y 158-K, fracción II, de esta Constitución, respecto de la prohibición de reelección de las personas servidoras públicas en ellas señaladas, serán aplicables a partir de los procesos electorales a celebrarse en el Estado en el año de 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+###### ARTÍCULO CUARTO.
+
+Las adiciones o reformas a los artículos 30, párrafos cuarto y séptimo, 36, fracción VI, 76, fracción VIII y 192, segundo párrafo de esta Constitución, respecto de la prohibición de nepotismo electoral, serán aplicables a partir de los procesos electorales a celebrarse en el Estado en el año de 2030.
+
+###### ARTÍCULO QUINTO.
+
+El Congreso del Estado tendrá un plazo de 30 días, contado a partir de la entrada en vigor de este decreto, para realizar las adecuaciones a la legislación estatal secundaria que corresponda, a fin de armonizarla con el contenido del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+La Sexagésima Tercera Legislatura del Congreso del Estado preverá, en el ámbito de su competencia y en los términos que señala el artículo quinto transitorio del decreto por el que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 23 de abril de 2026, los ajustes que, en su caso, fueren necesarios a su presupuesto, con el objeto de que se dé cumplimiento a lo previsto en el artículo 116 del citado texto constitucional, a partir del inicio de la legislatura siguiente.
+
+En todo caso, el presupuesto se actualizará conforme al índice de inflación que determine la autoridad competente.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Ayuntamientos del Estado que, a la entrada en vigor del presente Decreto, cuenten con un número de regidurías menor a quince, conservarán su integración actual. Sólo en los casos en que se requiera alguna modificación de dicha integración por criterios de variación poblacional u otros requisitos, se realizará conforme a lo establecido en las disposiciones jurídicas estatales aplicables.
+
+Por tanto, en aquellos casos en que el número de regidurías sea mayor a quince y sindicaturas mayor a una, la siguiente elección de personas munícipes deberá atender a la integración de los Ayuntamientos que prevé el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y el 158-K de la Constitución Política del Estado de Coahuila de Zaragoza para que surta efectos en la Entidad a partir del periodo administrativo municipal subsecuente.
+
+###### ARTÍCULO OCTAVO.
+
+Los recursos públicos que resulten como economías o ahorros en los presupuestos anuales de los municipios del Estado, con motivo de la reconfiguración de la integración de sus Ayuntamientos en los términos que prevén los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 158-K de la Constitución Política del Estado de Coahuila de Zaragoza, quedarán en el patrimonio de la hacienda de cada municipio para ser destinados, dentro del presupuesto correspondiente y en estricto apego a los principios de legalidad, honradez y transparencia y austeridad a obras de infraestructura pública en beneficio de la población.
+
+P.O. 1 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 513.- SE REFORMA EL PÁRRAFO SEGUNDO Y TERCERO DEL ARTÍCULO 7°; EL PÁRRAFO CUARTO DEL ARTÍCULO 7º-D; LOS PÁRRAFOS PRIMERO Y SEXTO DEL ARTÍCULO 7º-F; EL PÁRRAFO CUARTO DEL ARTÍCULO 7º-Ñ; EL PÁRRAFO TERCERO DEL ARTÍCULO 7°-Q; LA FRACCIÓN II DEL ARTÍCULO 7°-T; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 8°; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 108; EL PÁRRAFO CUARTO DEL ARTÍCULO 113; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 118; LOS NUMERALES 6 Y 8 DE LA FRACCIÓN II DEL ARTÍCULO 154; LA FRACCIÓN VII DEL APARTADO C DEL ARTÍCULO 157, EL NUMERAL 1 DE LA FRACCIÓN I DEL ARTÍCULO 158-U, EL ARTÍCULO 170; Y LOS PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, CUARTO Y SÉPTIMO DEL ARTÍCULO 173; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7º, Y LOS PÁRRAFOS SEGUNDO Y TERCERO, RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 117, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial del Estado, así como los organismos públicos autónomos en el Estado y los municipios deberán, en el ámbito de sus respectivas competencias, realizar dentro del plazo de 180 días, contados a partir del inicio de la vigencia de este Decreto, las adecuaciones normativas de naturaleza administrativa y reglamentaria necesarias para garantizar el cumplimiento de las disposiciones contenidas en el presente Decreto.
+
+Del mismo modo deberán formular programas de capacitación para el personal responsable de la aplicación de las disposiciones contenidas en el presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 514.- SE REFORMA EL ARTÍCULO 89 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO ÚNICO.
 
