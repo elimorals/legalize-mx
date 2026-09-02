@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-166559
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-01"
-last_updated: "2023-06-01"
+last_updated: "2026-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección Octava del Número 105 del Periódico Oficial del Estado de Nayarit, el jueves 1 de junio de 2023.
 
@@ -99,7 +99,9 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Acciones afirmativas: Medida temporales, compensatorias o de promoción, a favor de personas o grupos específicos, para corregir situaciones patentes de desigualdad en el disfrute de derechos y garantizar la igualdad sustantiva de oportunidades, mientras subsistan dichas situaciones;
 
-II. Ambiente: Conjunto de elementos naturales y artificiales o inducidos por el hombre, que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+II. Ambiente: Conjunto de elementos naturales y artificiales o inducidos por las personas, que hacen posible la existencia y desarrollo de las personas y demás organismos vivos que interactúan en un espacio y tiempo determinados;
 
 III. Aprovechamiento Forestal Sustentable: La extracción realizada en los términos de esta Ley, de los recursos forestales del medio en que se encuentren, incluyendo los maderables y los no maderables, en forma en que se respete la integridad funcional y las capacidades de cargas de los ecosistemas de los que forman parte dichos recursos por periodos indefinidos;
 
@@ -275,7 +277,9 @@ Los principios que guían la construcción y aplicación del Marco de Implementa
 
 La aplicación de esta Ley corresponde:
 
-I. Al Titular del Poder Ejecutivo del Estado, a través del Organismo Público Descentralizado denominado Comisión Forestal de Nayarit, y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+I. A la persona titular del Poder Ejecutivo del Estado, a través del Organismo Público Descentralizado denominado Comisión Forestal de Nayarit, y
 
 II. A los Ayuntamientos del Estado, en la esfera de competencia que establece la presente Ley.
 
@@ -349,7 +353,9 @@ XXX. Participar, de conformidad con los acuerdos y convenios que se celebren con
 
 XXXI. Hacer del conocimiento de las autoridades competentes, y en su caso, denunciar las infracciones o delitos que se cometan en materia forestal;
 
-XXXII. Elaborar estudios para, en su caso, recomendar al Titular del Ejecutivo Estatal, el establecimiento, modificación o levantamiento de vedas;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XXXII. Elaborar estudios para, en su caso, recomendar a la persona titular del Poder Ejecutivo Estatal, el establecimiento, modificación o levantamiento de vedas;
 
 XXXIII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos, y que no estén expresamente otorgados a la Federación o a los Municipios del Estado de Nayarit, y
 
@@ -441,19 +447,41 @@ VI. Los recursos que se obtengan por la comercialización de sus obras literaria
 
 VII. Los demás bienes, derechos y aprovechamientos que fijen las leyes y reglamentos o que provengan de otros fondos o aportaciones.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 13.
 
-La comisión tendrá una Junta de Gobierno, que será la máxima autoridad del organismo y estará integrada por el titular del Poder Ejecutivo del Estado o la persona que este designe, quien la presidirá; la persona titular de la Secretaría de Desarrollo Sustentable, quien fungirá como secretario técnico; la persona titular de la Secretaría de Desarrollo Rural; la persona titular de la Secretaría de Administración y Finanzas; la persona titular de la Secretaría de Infraestructura; la persona titular de la Secretaría de Economía, y la persona titular de la Secretaría de Educación, quienes fungirán como vocales y desempeñarán sus actividades de forma honorífica.
+La Comisión tendrá una Junta de Gobierno, que será la máxima autoridad del organismo y estará integrada por:
 
-Los miembros de la Junta de Gobierno tendrán voz y voto en las sesiones de las mismas. Por cada integrante de este órgano colegiado se podrá nombrar un suplente con nivel jerárquico de subsecretario o equivalente, a excepción de la persona que designe el titular del Poder Ejecutivo.
+I. La persona titular del Poder Ejecutivo del Estado o por la persona que esta designe, quien la presidirá;
+
+II. La persona titular de la Secretaría de Desarrollo Sustentable, quien estará a cargo de la Secretaría Técnica;
+
+III. La persona titular de la Secretaría de Desarrollo Rural;
+
+IV. La persona titular de la Secretaría de Administración y Finanzas;
+
+V. La persona titular de la Secretaría de Infraestructura;
+
+VI. La persona titular de la Secretaría de Desarrollo Económico y Social, y
+
+VII. La persona titular de la Secretaría de Educación.
+
+Las personas señaladas en las fracciones III, IV, V, VI y VII del presente artículo, fungirán como vocales.
+
+Las personas integrantes de la Junta de Gobierno desempeñarán sus actividades de manera honorífica y tendrán voz y voto en las sesiones de la misma. Por cada persona integrante de este órgano colegiado se podrá nombrar una persona suplente con nivel jerárquico de subsecretaría o equivalente, a excepción de quien designe la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 14.
 
-Para el cumplimiento de sus funciones, la Comisión tendrá un Director General, quien será designado por el titular del Poder Ejecutivo Estatal, debiendo recaer tal nombramiento en persona con perfil académico afín al ramo forestal, ambiental o agronómico, tener cuando menos cinco años de experiencia en las actividades forestales y reunir los demás requisitos previstos por el Reglamento de la presente Ley.
+Para el cumplimiento de sus funciones, la Comisión tendrá una Directora o un Director General, quien se designará por la persona titular del Poder Ejecutivo Estatal, debiendo recaer dicho nombramiento en una persona con perfil académico afín al ramo forestal , ambiental o agronómico, tener cuando menos cinco años de experiencia en las actividades forestales y reunir los demás requisitos previstos por el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 15.
 
-El Director General, será el representante legal de la Comisión en el cumplimiento de su objeto. Adscribirá las unidades administrativas de la misma, administrará sus bienes, expedirá sus manuales, tramitará ante las Dependencias competentes el ejercicio del presupuesto aprobado, delegará facultades en el ámbito de su competencia y tendrá las demás atribuciones que le confieran el Reglamento y demás disposiciones legales.
+La Directora o el Director General tendrá la representación legal de la Comisión en el cumplimiento de su objeto. Adscribirá las unidades administrativas de la misma, administrará sus bienes, expedirá sus manuales, tramitará ante las Dependencias competentes el ejercicio del presupuesto aprobado, delegará facultades en el ámbito de su competencia y tendrá las demás atribuciones que le confieran el Reglamento y demás disposiciones legales.
 
 ###### Artículo 16.
 
@@ -487,9 +515,11 @@ V. Aplicar y operar las demás disposiciones o programas que formulen el Gobiern
 
 Cuando un área de protección forestal se encuentre integrada por varios Municipios, el Gobierno del Estado y los Municipios involucrados deberán coordinarse entre sí, para establecer las líneas de acción tendientes a prevenir todo tipo de deterioros o daños que puedan causarse. También, deberá existir un convenio de colaboración que establezca la forma en la que habrán de coordinarse para prevenir y combatir los incendios, las plagas, la tala clandestina y el comercio ilegal de productos forestales tanto maderables como no maderables.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 21.
 
-El Titular del Ejecutivo del Estado por sí mismo y por conducto del Director de la Comisión, podrá celebrar con el Gobierno Federal y los Municipios, así como con los sectores social y privado, instrumentos de coordinación y concertación de acciones para la prevención, conservación, restauración y mejoramiento del sector forestal.
+La persona titular del Poder Ejecutivo del Estado por sí misma y por conducto de la Dirección General de la Comisión , podrá celebrar con el Gobierno Federal y los Municipios, así como con los sectores social y privado, instrumentos de coordinación y concertación de acciones para la prevención, conservación, restauración y mejoramiento del sector forestal.
 
 ## TÍTULO TERCERO. DEL PROGRAMA ESTATAL EN MATERIA FORESTAL
 
@@ -735,11 +765,13 @@ Será obligatoria la inscripción en el Padrón Forestal del Estado de los centr
 
 La Comisión recabará entre las personas físicas y morales vinculadas al sector forestal del Estado, los datos, estadística y otros elementos complementarios a los que obren en los archivos de las Dependencias y Entidades para integrarlos al Padrón Forestal del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 46.
 
-La Comisión, por conducto de su Director General, con base al Padrón Forestal del Estado, podrá expedir y revalidar certificados de inscripción, autorizaciones y revalidaciones de libros de registro de centros de almacenamiento y transformación de materias primas forestales, que de acuerdo a la presente Ley y su Reglamento se tengan que realizar, así como de constancias de datos que tengan en sus archivos, previa solicitud por escrito de los interesados y del pago de cuotas de recuperación de gastos, de conformidad con lo que se establezca en el Reglamento de la presente Ley.
+La Comisión, por conducto de su Dirección General, con base en el Padrón Forestal del Estado, podrá expedir y revalidar certificados de inscripción, autorizaciones y revalidaciones de libros de registro de centros de almacenamiento y transformación de materias primas forestales, que de acuerdo a la presente Ley y su Reglamento se tengan que realizar, así como de constancias de datos que tengan en sus archivos, previa solicitud por escrito de los interesados y del pago de cuotas de recuperación de gastos, de conformidad con lo que se establezca en el Reglamento de la presente Ley.
 
-Las personas físicas o morales, dueños o encargados de estos centros, deberán tener dicha documentación en lugares visibles y disponibles en todo tiempo.
+Las personas físicas o morales, dueñas o encargadas de estos centros, deberán tener dicha documentación en lugares visibles y disponibles en todo tiempo.
 
 ## TÍTULO CUARTO. DE LA SANIDAD FORESTAL
 
@@ -795,9 +827,11 @@ El aprovechamiento de arbustos y poda de árboles para la obtención de leña pa
 
 Las autorizaciones para el aprovechamiento de los recursos forestales tendrán una vigencia correspondiente al ciclo de corta, pudiéndose refrendar cuantas veces sea necesario para lograr los objetivos del programa de manejo respectivo y hasta el término de la vigencia del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 55.
 
-Los titulares de los aprovechamientos forestales estarán obligados a:
+Las personas titulares de los aprovechamientos forestales estarán obligadas a:
 
 I. Firmar el programa de manejo;
 
@@ -921,9 +955,11 @@ De conformidad con lo anterior, serán sancionados aquellos titulares de autoriz
 
 #### SECCIÓN PRIMERA. DEL APROVECHAMIENTO DE LOS RECURSOS FORESTALES MADERABLES
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 66.
 
-En los términos del artículo 73 de la presente Ley, se requerirá la opinión técnica de la Comisión en su calidad de Presidente Suplente del Consejo Estatal Forestal, para el aprovechamiento de recursos forestales maderables, en terrenos forestales o preferentemente forestales.
+En términos de lo dispuesto por el artículo 73 de la presente Ley, para el aprovechamiento de recursos forestales maderables en terrenos forestales o preferentemente forestales, se requerirá la opinión técnica de la Comisión, en su carácter de Presidencia Suplente del Consejo Estatal Forestal.
 
 ###### Artículo 67.
 
@@ -967,9 +1003,11 @@ Una vez presentado el programa de manejo forestal, la Comisión iniciará el pro
 
 Para la autorización a que se refiere este artículo, la Comisión deberá evaluar la factibilidad de las obras o actividades propuestas en el programa sobre recursos forestales sujetos a aprovechamiento, así como en los ecosistemas forestales de que se trate, considerando el conjunto de elementos que los conforman y no únicamente los recursos sujetos a aprovechamiento.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 73.
 
-La Comisión en calidad de Presidente Suplente del Consejo Estatal Forestal deberá resolver las solicitudes de opinión técnica giradas por la SEMARNAT sobre los aprovechamientos de recursos forestales, dentro de los diez días hábiles siguientes a la fecha de presentación de la solicitud.
+La Comisión, en su carácter de Presidencia Suplente del Consejo Estatal Forestal, deberá resolver las solicitudes de opinión técnica relativas a los aprovechamientos de recursos forestales, dentro de los diez días hábiles siguientes a la fecha de presentación de la solicitud.
 
 ###### Artículo 74.
 
@@ -991,9 +1029,11 @@ V. Exista falsedad en la información proporcionada por los promoventes, respect
 
 VI. Cuando se presenten conflictos agrarios, de límites y de sobreposición de predios, en cuyo caso, la negativa solo aplicará a las áreas en conflicto.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 76.
 
-En el caso que la Comisión no hubiere emitido resolución en los plazos previstos en la presente Ley, deberá informar al solicitante la situación por la cual no se resuelve su solicitud, sin menoscabo de la responsabilidad en la que pueda incurrir el servidor público en los términos de la Ley General de Responsabilidades Administrativas.
+En el caso que la Comisión no hubiere emitido resolución en los plazos previstos en la presente Ley, deberá informar a la persona solicitante la situación por la cual no se resuelve su solicitud, sin menoscabo de la responsabilidad en la que pueda incurrir la persona servidora pública en los términos de la Ley General de Responsabilidades Administrativas.
 
 #### SECCIÓN SEGUNDA. DE LAS PLANTACIONES FORESTALES COMERCIALES
 
@@ -1089,7 +1129,9 @@ Para su registro los prestadores de servicios forestales, presentarán la docume
 
 En un plazo de veinte días hábiles contados a partir de la solicitud, la Comisión expedirá el Certificado de Inscripción al Padrón Forestal del Estado o se emitirá la resolución respectiva, que se hará del conocimiento de la autoridad competente, para los efectos legales procedentes.
 
-El Titular del Ejecutivo por conducto de la Comisión, en coordinación con las Autoridades Federales, promoverá la organización, planeación y mejoramiento de los servicios forestales; asimismo promoverá la constitución de las unidades de manejo forestal, conforme a lo previsto en las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+La persona titular del Poder Ejecutivo por conducto de la Comisión, en coordinación con las Autoridades Federales, promoverá la organización, planeación y mejoramiento de los servicios forestales; asimismo promoverá la constitución de las unidades de manejo forestal, conforme a lo previsto en las disposiciones aplicables.
 
 La Comisión podrá prestar asesoría técnica en la elaboración de programas de manejo forestal, así como desarrollar actividades de capacitación y apoyar la contratación de servicios técnicos privados.
 
@@ -1495,43 +1537,55 @@ Los pueblos y comunidades indígenas que se asienten o sean propietarios de terr
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL FORESTAL
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 152.
 
-El Consejo Estatal Forestal es el organismo de consulta y asesoría en materia forestal, auxiliar de la Comisión que participará en la elaboración de programas y recomendaciones para la toma de decisiones en la política forestal estatal y regional.
+El Consejo Estatal Forestal es el organismo de consulta y asesoría en materia forestal auxiliar de la Comisión. Dicho Consejo participará en la elaboración de programas y recomendaciones para la toma de decisiones en la política forestal estatal y regional, se conformará de acuerdo con lo siguiente:
 
-El Consejo Estatal será presidido por el Titular del Ejecutivo, a quien suplirá en sus funciones el Presidente Suplente, que será el Director General de la Comisión Forestal del Estado; un Secretario Técnico que será designado por el Presidente; los Comités Técnicos y los Especializados que coadyuven a la buena operación del Consejo y podrán participar entre otros, en el número de representantes que apruebe el Presidente, los siguientes Sectores Forestales:
+I. La persona titular del Poder Ejecutivo Estatal, a quien suplirá en sus funciones la persona que ocupe la Presidencia Suplente, que será la Directora o el Director General de la Comisión Forestal del Estado;
 
-I. Académico y de Investigación;
+II. La persona que designe quien ejerza la Presidencia, la cual desempeñará las funciones de Secretaría Técnica;
 
-II. Núcleos agrarios forestales;
+III. Los Comités Técnicos y Especializados que coadyuven a su adecuado funcionamiento, y
 
-III. Pueblos Indígenas;
+IV. El número de personas representantes que apruebe la Presidencia del Consejo Estatal de los siguientes sectores forestales:
 
-IV. Industrial;
+a) Académico y de Investigación;
 
-V. Ambientalista;
+b) Núcleos agrarios forestales;
 
-VI. Pequeños Propietarios;
+c) Pueblos y Comunidades Indígenas;
 
-VII. Profesional Forestal;
+d) Industrial;
 
-VIII. Sociedad Civil, y
+e) Ambientalista;
 
-IX. Instituciones de las tres órdenes de Gobierno.
+f) Personas pequeñas propietarias;
 
-A invitación expresa del Consejo podrán participar solamente con voz personas o representantes de otras Dependencias e instituciones públicas, privadas y sociales que puedan coadyuvar al cumplimiento de los objetivos de este organismo, emitiendo opiniones técnicas sobre el tema, motivo o asunto por el que se invitó a participar en el Consejo.
+g) Profesional Forestal;
 
-En la conformación de los invitados, se vigilará que exista un equilibrio adecuado entre los diversos sectores. Los invitados participarán de forma honorifica, por lo que no devengarán remuneración alguna por su actividad.
+h) Organizaciones de la Sociedad Civil, y
 
-Los Comités Técnicos y los Comités especializados fungirán como cuerpos colegiados de carácter técnico en apoyo al Consejo Estatal sobre temas específicos que serán definidos de acuerdo a los criterios e instrumentos de la política forestal. El Consejo canalizará a través de los Comités Técnicos o Especializados los temas de consulta que se le presenten para su análisis y opinión técnica fundada y propuestas.
+i) Instituciones de los tres órdenes de Gobierno.
+
+A invitación expresa del Consejo Estatal, podrán participar, solamente con voz, personas o representantes de dependencias e instituciones públicas, privadas o sociales que puedan coadyuvar al cumplimiento de los objetivos del Consejo, emitiendo opiniones técnicas sobre el tema, motivo o asunto para el cual fueron convocadas.
+
+En la integración de las personas invitadas se procurará un equilibrio adecuado entre los diversos sectores. Su participación será de carácter honorífico, por lo que no recibirán remuneración alguna por su intervención.
+
+Los Comités Técnicos y los Comités Especializados fungirán como órganos colegiados de carácter técnico en apoyo al Consejo Estatal, en relación con temas específicos definidos conforme a los criterios e instrumentos de la política forestal.
+
+El Consejo canalizará, a través de dichos Comités, los asuntos que le sean sometidos a consulta para su análisis, emisión de opinión técnica fundada y formulación de propuestas.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 153.
 
-La incorporación de los diferentes sectores forestales del Consejo, será mediante convocatoria que emita el Presidente. En dicha convocatoria se establecerán las bases y plazos para la integración de los representantes de cada sector mencionado.
+La incorporación de los diferentes sectores forestales del Consejo, será mediante convocatoria que emita quien ejerza la Presidencia. En dicha convocatoria se establecerán las bases y los plazos para la integración de las personas representantes de cada sector.
 
-Cada sector miembro del Consejo Estatal designará a los Consejeros Titulares y Suplentes de acuerdo con lo establecido en la convocatoria. Los consejeros del sector de gobierno serán nombrados por el Presidente.
+Cada sector integrante del Consejo Estatal designará a sus personas consejeras titulares y suplentes, conforme a lo previsto en la convocatoria. Las personas consejeras del sector gubernamental serán nombradas por quien ejerza la Presidencia.
 
-El Consejo contará con su Reglamento interno donde se establecerá el funcionamiento del mismo, así como las atribuciones y funciones de sus órganos internos y de apoyo. El Reglamento será expedido por el Titular del Ejecutivo del Estado.
+El Consejo Estatal contará con su Reglamento Interno en el que se establecerá su organización y funcionamiento, así como las atribuciones de sus órganos internos y de apoyo. Dicho Reglamento será expedido por la persona titular del Poder Ejecutivo del Estado.
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA INSPECCIÓN, SANCIONES Y RECURSOS
 
@@ -1547,9 +1601,11 @@ El Gobierno del Estado, en coordinación con los Municipios y con la colaboraci�
 
 ### CAPÍTULO II. DE LA DENUNCIA CIUDADANA
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 156.
 
-Todo ciudadano deberá denunciar ante el Municipio, la Comisión o ante las autoridades competentes en materia forestal, todo hecho, acto u omisión que atente contra el equilibrio ecológico o contra el ecosistema forestal, de daños a los recursos forestales o contravenciones a las disposiciones legales relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
+Toda persona deberá denunciar ante el Municipio, la Comisión Estatal o las autoridades competentes en materia forestal, cualquier hecho, acto u omisión que atente contra el equilibrio ecológico o los ecosistemas forestales; que cause daños a los recursos forestales; o que contravenga las disposiciones legales aplicables en la materia, incluyendo aquellas relativas a los bienes y servicios ambientales asociados.
 
 ### CAPÍTULO III. DE LOS OPERATIVOS DE INSPECCIÓN Y MEDIDAS DE PREVENCIÓN
 
@@ -1596,3 +1652,13 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez García" Recinto Oficial de est
 Dip. Alba Cristal Espinoza Peña, Presidenta.- Rúbrica.- Dip, Jesús Noelia Ramos Nungaray, Secretaria.- Rúbrica.- Dip. Georgina Guadalupe López Arias, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, al primer día del mes de junio de dos mil veintitrés.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Mtro. Juan Antonio Echeagaray Becerra, Secretario General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE CON PERSPECTIVA DE GÉNERO Y ACTUALIZACIÓN DE LAS DENOMINACIONES DE AUTORIDADES Y ORGANISMOS PÚBLICOS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
