@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-114915"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-28"
-last_updated: "2025-12-27"
+last_updated: "2026-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento “B” del Periódico Oficial del Estado de Tabasco, el sábado 28 de mayo de 2016.
 
@@ -75,9 +75,9 @@ c) Las Salas en materia civil;
 
 d) Las Salas en materia penal; y
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-e) Las Salas especializadas en materia de Ejecución y de Justicia para Adolescentes;
+e) La Sala Especializada en Justicia para Adolescentes;
 
 (REFORMADA [N. DE E. ANTES INCISO F)], P.O. 27 DE DICIEMBRE DE 2025)
 
@@ -135,23 +135,27 @@ La representación del Poder Judicial del Estado, en su relación con los otros 
 
 El Poder Judicial del Estado tiene plena autonomía para el ejercicio de sus funciones y atribuciones, así como para programar y ejercer su presupuesto, debiendo observar que la administración de los recursos se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas e igualdad de género, y llevará su contabilidad conforme a los principios de contabilidad generalmente aceptados, aplicables a entidades gubernamentales, según su naturaleza, funciones y finalidades, cuidando que los registros contables permitan identificar con precisión cada una de las operaciones efectuadas, de conformidad con las normas previstas en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios, y demás disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+De igual forma, el Poder Judicial del Estado, a través de la Universidad Judicial tiene facultades para impartir educación jurídica especializada, de conformidad con las normas previstas en la Ley de Educación del Estado de Tabasco y demás disposiciones aplicables en la materia.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 Para su identificación cuenta con un logotipo aprobado por el Pleno, que tiene los símbolos esenciales de la Nación, del Estado y de la Justicia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-El logotipo tiene una forma circular en color oro, en la parte superior la leyenda: "Poder Judicial del Estado de Tabasco", tiene la representación de nuestra Nación a través de los colores de nuestra bandera, al interior al centro un recuadro en blanco, lleva la silueta de nuestro Estado y sobre ella la imagen de la dama de la justicia, los diecinueve distritos que integran el Poder Judicial están representados por los círculos superiores y los diecisiete municipios del Estado por los círculos inferiores, el fondo es de color café y en su base la frase: "Tribunal Superior de Justicia”; tal como se inserta a continuación:
-
-> <small>[N. DE E. VÉASE LOGOTIPO, EN EL P.O. DE 28 DE MAYO DE 2016, PÁGINA 99.]</small>
+El logotipo tiene una forma circular en color oro, en la parte superior la leyenda: "Poder Judicial del Estado de Tabasco", tiene la representación de nuestra Nación a través de los colores de nuestra bandera, al interior al centro un recuadro en blanco, lleva la silueta de nuestro Estado y sobre ella la imagen de la dama de la justicia, los diecinueve distritos que integran el Poder Judicial están representados por los círculos superiores y los diecisiete municipios del Estado por los círculos inferiores, el fondo es de color café y en su base la frase: "Tribunal Superior de Justicia", y demás elementos relativos a su identidad visual se establecerán en el Reglamento de la presente Ley.
 
 ###### Artículo 5.
 
 El Tribunal Superior de Justicia tendrá jurisdicción en todo el Estado de Tabasco y residirá en la Capital.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 6.
 
-Para los efectos de la administración de justicia, el Estado de Tabasco, conforme al sistema mixto tradicional, se dividirá en los distritos judiciales que al efecto determine el Órgano de Administración Judicial en los acuerdos respectivos, que deberán ser publicados en el Periódico Oficial del Estado.
+Para los efectos de la administración de justicia, el Estado de Tabasco, conforme al sistema mixto tradicional, funcionará en el distrito judicial que al efecto determine el Órgano de Administración Judicial en los acuerdos respectivos, que deberán ser publicados en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -369,6 +373,10 @@ XVIII. Solicitar al Tribunal de Disciplina Judicial se investigue la conducta de
 
 XIX. Conceder a las y los Magistrados del Tribunal Superior de Justicia, licencia hasta por un mes, con o sin goce de sueldo; así como designar a la persona que suplirá las ausencias o suspensiones hasta por un año;
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+De igual forma, proponer quien sustituirá a las y los integrantes del Pleno del Órgano de Administración Judicial, en caso de licencia hasta por un año; así como, quien suplirá sus ausencias o suspensiones hasta por un año;
+
 XX. Otorgar, sustituir o revocar poderes y mandatos, incluso aquellos que requieran cláusula especial, a favor de apoderados legales para la procuración y defensa de sus intereses, por conducto del Magistrado Presidente del Tribunal Superior de Justicia;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
@@ -471,9 +479,11 @@ El Tribunal Superior de Justicia, realizará sus labores en dos períodos de ses
 
 ### CAPÍTULO III. DE LA PRESIDENCIA DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 20.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2025)
+El Magistrado o Magistrada que presida el Tribunal Superior de Justicia no integrará Sala.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -575,7 +585,9 @@ XXVII. Proponer al Pleno del Tribunal Superior de Justicia, a la Magistrada o Ma
 
 XXVIII. Proponer al Órgano de Administración Judicial, lineamientos, protocolos, manuales y, en general, buenas prácticas administrativas para el buen funcionamiento de los tribunales laborales;
 
-XXIX. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XXIX. Proponer al Pleno del Órgano de Administración al Rector o Rectora de la Universidad Judicial;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -693,21 +705,21 @@ XII. Las demás que le encomiende la Magistrada o el Magistrado que presida el T
 
 #### SECCIÓN SEGUNDA. DE LA UNIDAD DE SERVICIOS PSICOLÓGICOS
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-###### Artículo 23 Quater.
+###### Artículo 23 Quáter.
 
-La Unidad de Servicios Psicológicos es un área auxiliar de la Administración de Justicia que depende de la Presidencia del Tribunal Superior de Justicia. Tiene a su cargo emitir, cuando le sean solicitados, los dictámenes especializados en la materia, en los procedimientos jurisdiccionales que se tramitan ante los órganos jurisdiccionales del Poder Judicial del Estado.
+La Unidad de Servicios Psicológicos es un órgano técnico dependiente del Órgano de Administración Judicial, que tiene a su cargo la prestación de servicios especializados en materia de valoraciones psicológicas y procesos terapéuticos, requeridos en los procedimientos judiciales y administrativos de la competencia del Poder Judicial.
 
-Además, brindará asistencia especializada durante la participación de alguna niña, niño o adolescente en un proceso judicial, cuando le sea requerido por alguna persona juzgadora.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-De igual manera, deberá emitir opiniones técnicas respecto del personal, cuando le sea solicitado por los órganos facultados para ello.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 23 Quinquies.
 
-La Unidad de Servicios Psicológicos estará integrada por un titular y contará con el personal que las necesidades del servicio requieran y el presupuesto permita.
+La Unidad de Servicios Psicológicos estará a cargo de una persona titular y contará con la estructura y el personal que determine el Pleno del Órgano de Administración Judicial, de acuerdo con la necesidad del servicio y al presupuesto.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -715,21 +727,53 @@ La Unidad de Servicios Psicológicos estará integrada por un titular y contará
 
 La persona titular de la Unidad de Servicios Psicológicos tendrá las obligaciones y facultades siguientes:
 
-I. Elaborar con el apoyo de la Dirección Jurídica un manual de operaciones que deberá mantener actualizado, a fin de unificar los criterios y procedimientos a seguir en los asuntos de su competencia; someterlo a la consideración del Pleno del Tribunal Superior de Justicia, para su aprobación y vigilar su estricto cumplimiento;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-II. Dirigir, coordinar y representar a la unidad a su cargo;
+I. Dirigir, coordinar, administrar y representar a la Unidad de Servicios Psicológicos a su cargo;
 
-III. Auxiliar en el ámbito de su competencia, cuando le sea requerido, a los Plenos del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Órgano de Administración Judicial, así como a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-IV. Coordinar y distribuir equitativamente con el personal a su cargo, las evaluaciones psicológicas y asistencia especializada en materia familiar, civil o penal, que le sean solicitadas por las y los jueces;
+II. Supervisar de manera constante que la aplicación de valoraciones psicológicas, peritajes y procesos terapéuticos se brinden de manera eficiente, oportuna y con altos estándares de calidad;
 
-V. Remitir a quien corresponda, los dictámenes periciales elaborados por los especialistas del área, para lo cual deberá vigilar que los mismos se realicen con apego a las normas relativas a la prueba pericial, según el ordenamiento del ramo, usando un lenguaje comprensible para quienes no tengan conocimientos técnicos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-VI. Mantener una eficiente organización y sigilo de los archivos que se lleven en la unidad;
+III. Elaborar, en colaboración con la Coordinación de Planeación, el manual de operaciones de la Unidad, manteniéndolo actualizado a fin de unificar criterios y procedimientos; someterlo a la consideración del Pleno del Órgano de Administración para su aprobación y vigilar su estricto cumplimiento;
 
-VII. Vigilar que en la elaboración de dictámenes periciales en donde intervienen niñas, niños y adolescentes, se utilicen las técnicas adecuadas para salvaguardar el interés superior de la infancia y se cumplan los lineamientos establecidos en los tratados; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-VIII. Las demás que le atribuya la normatividad aplicable, la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia o su Pleno.
+IV. Coordinar y distribuir equitativamente entre el personal adscrito, las valoraciones, asistencias especializadas, peritajes y requerimientos ordenados por las autoridades jurisdiccionales y áreas competentes;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+V. Revisar y remitir a la autoridad correspondiente los dictámenes periciales e informes emitidos por los especialistas de la Unidad, vigilando que se realicen con apego a las normas aplicables, bajo un lenguaje comprensible para quienes no tengan conocimientos técnicos;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VI. Garantizar el uso de técnicas que salvaguarden el interés superior de la infancia en casos donde intervengan niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VII. Auxiliar en el ámbito de su competencia, a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia, así como a los Plenos del Poder Judicial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VIII. Brindar y gestionar las condiciones necesarias y adecuadas, para garantizar entornos de prevención y seguridad en la prestación de los servicios de la Unidad;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+IX. Colaborar en los procesos de revinculación filial y convivencias, que le soliciten las autoridades jurisdiccionales y áreas competentes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+X. Mantener una eficiente organización, control, sigilo y confidencialidad de los archivos, expedientes e información técnica derivados de las intervenciones de la Unidad;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XI. Promover, diseñar e impulsar acciones de capacitación, actualización y desarrollo dirigidas al fortalecimiento del personal y de los servicios de la Unidad; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XII. Las demás que le atribuya la normatividad aplicable, la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia, así como los Plenos del Poder Judicial.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -737,7 +781,9 @@ VIII. Las demás que le atribuya la normatividad aplicable, la Magistrada o el M
 
 Para ser titular de la Unidad de Servicios Psicológicos se requiere satisfacer los requisitos siguientes:
 
-I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+I. Ser de nacionalidad mexicana, en pleno goce de sus derechos civiles y políticos;
 
 II. Tener veinticinco años cumplidos;
 
@@ -745,7 +791,45 @@ III. Ser de reconocida honorabilidad;
 
 IV. No ser ministro de algún culto religioso; y
 
-V. Contar con título y cédula profesional, preferentemente, de la licenciatura en psicología.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+V. Contar con título y cédula profesional, preferentemente de la licenciatura en psicología o carrera afín.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 23 Octies.
+
+La Unidad de Servicios Psicológicos tendrá las funciones siguientes:
+
+I. Realizar valoraciones psicológicas, peritajes, dictámenes, informes, opiniones técnicas y procesos terapéuticos que sean solicitados por las autoridades jurisdiccionales y áreas competentes, conforme a los principios científicos, éticos y derechos humanos;
+
+II. Colaborar con el Centro Estatal de Convivencia Familiar en el cumplimiento de las medidas decretadas por la autoridad jurisdiccional;
+
+III. Elaborar, proponer, actualizar y aplicar protocolos, lineamientos, criterios técnicos y modelos de valoraciones psicológicas;
+
+IV. Brindar asistencia y auxilio en materia de psicología, a las autoridades jurisdiccionales y áreas competentes en sus procedimientos;
+
+V. Colaborar con el Centro de Acceso a la Justicia Alternativa en el fortalecimiento de los medios alternativos de solución de controversias;
+
+VI. Auxiliar a otras instituciones en programas relacionados con su ámbito de competencia, previo acuerdo del Pleno del Órgano de Administración Judicial;
+
+VII. Diseñar y colaborar en programas de capacitación y actualización en el ámbito de su competencia;
+
+VIII. Proponer al Pleno de (sic) Órgano de Administración Judicial programas de orientación psicológica, prevención de violencia, fortalecimiento socioemocional, adicciones y salud mental;
+
+IX. Proporcionar atención terapéutica solicitada por las autoridades jurisdiccionales y áreas competentes;
+
+X. Dar seguimiento al cumplimiento de medidas terapéuticas ordenadas por las autoridades jurisdiccionales y áreas competentes;
+
+XI. Elaborar reportes de evolución terapéutica e informes técnicos requeridos por las autoridades jurisdiccionales y áreas competentes;
+
+XII. Salvaguardar la confidencialidad y protección de datos personales derivados de los procesos de la Unidad, conforme a la normativa aplicable;
+
+XIII. Integrar expedientes, registros y documentación técnica derivada de sus intervenciones;
+
+XIV. Brindar asistencia especializada durante la participación de alguna niña, niño o adolescente en un proceso judicial, cuando le sea requerido por las autoridades jurisdiccionales y áreas competentes; y
+
+XV. Las demás que establezcan la normatividad aplicable, la Magistrada o Magistrado que presida el Tribunal Superior de Justicia o por los Plenos del Poder Judicial.
 
 ### CAPÍTULO IV. DE LAS SALAS DEL TRIBUNAL
 
@@ -859,9 +943,11 @@ En lo conducente de las fracciones que preceden, se deberá resolver en forma co
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 29.
 
-Corresponde a la Sala Unitaria Especializada en Materia de Adolescentes, conocer de los recursos previstos en la Ley que establece el Sistema Integral de Justicia para Adolescentes.
+Corresponde a la Sala Especializada en Justicia para Adolescentes, conocer de los recursos previstos en la Ley que establece el Sistema Integral de Justicia para Adolescentes.
 
 ###### Artículo 30.
 
@@ -1393,11 +1479,13 @@ II. Ordenar que se remitan oportunamente al archivo judicial del Estado los expe
 
 III. Cumplir y hacer cumplir, sin demora y con estricto apego a la ley, sus propias determinaciones, las del Tribunal Superior de Justicia y la de las Autoridades Judiciales de la Federación;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-IV. Dar aviso inmediato al Órgano de Administración Judicial de los inicios y terminación de los expedientes y causas, según sea el caso; rendir dentro de los cinco primeros días de cada mes los datos estadísticos que le impongan las leyes, así como realizar dentro de ese plazo las autovisitas relacionadas con el trámite de los expedientes;
+IV. Dar aviso inmediato al Órgano de Administración Judicial de forma electrónica, a través del correo oficial respectivo, de los inicios y terminación de los expedientes y causas, según sea el caso; rendir dentro de los cinco primeros días de cada mes los datos estadísticos que le impongan las leyes, así como realizar dentro de ese plazo las autovisitas relacionadas con el trámite de los expedientes;
 
-V. Vigilar la asistencia y comportamiento de Servidores Públicos del Juzgado;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+V. Vigilar la asistencia y comportamiento de Servidores Públicos del Juzgado, así como dar vista al Tribunal de Disciplina Judicial de las actas que se levanten respecto a la disciplina de estos;
 
 VI. Practicar, en su caso, visitas mensuales a los establecimientos carcelarios de su distrito;
 
@@ -2139,9 +2227,25 @@ n) Inseminación Artificial y Esterilidad Provocada;
 
 ñ) Corrupción de Menores e Incapaces;
 
-o) Pornografía Infantil; y
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-p) Comunicación de Contenido Sexual con Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para Comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
+o) Pornografía infantil;
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+p) Comunicación de Contenido Sexual con Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para Comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo;
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+q) Acecho;
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+r) Desaparición forzada de personas, desaparición cometidos (sic) por particulares, cuando la víctima sea mujer; y
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+s) Discriminación.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -2209,15 +2313,15 @@ Tendrán las funciones siguientes:
 
 I. Realizar y supervisar las labores de actualización, control de la información, asignación y registro de causas en el sistema de gestión y en general las solicitudes de despacho asignadas;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-II. Integrar y digitalizar las causas; así como realizar las notificaciones electrónicas a las partes que intervengan en la audiencia y verificar que se realicen las personales que haya delegado;
+II. Integrar y digitalizar las causas, así como realizar las notificaciones electrónicas a las partes que intervengan en la audiencia, y verificar que se realicen las personales ordenadas en sus domicilios procesales;
 
 III. Proporcionar a la Unidad de Sala la información básica de cada audiencia a fin de que realice las acciones conducentes para la organización de las mismas;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-IV. Designar al encargado de sala que deberá apoyar la función del juez o jueza durante las audiencias;
+IV. Solicitar al Jefe de la Unidad de Sala la designación del encargado de sala que deberá apoyar la función del juez o jueza durante las audiencias;
 
 V. Acordar con su superior inmediato la resolución de los asuntos cuya tramitación se encuentre dentro de su área de competencia;
 
@@ -2235,9 +2339,9 @@ VIII. Solicitar al jefe de la unidad de sala, le proporcione fecha y hora para l
 
 IX. Supervisar que las resoluciones sean notificadas a las partes de forma oportuna;
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-X. Corroborar que se realicen las constancias de forma oportuna de las notificaciones realizadas;
+X. Corroborar que se realicen las constancias de forma oportuna de las diligencias de las notificaciones;
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
@@ -2259,7 +2363,9 @@ Para ser Jefe de Unidad de Sala se requieren, en lo aplicable, los mismos requis
 
 Tendrán las funciones siguientes:
 
-I. Administrar las agendas del Tribunal a fin de realizar el registro de las audiencias que sean solicitadas y correspondan a su jurisdicción, estableciendo el día y hora en que deberán ser celebradas, lo cual informará en forma inmediata al jefe de la unidad de causa;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+I. Administrar las agendas de los Órganos Jurisdicciones del Sistema Procesal Penal Acusatorio y Oral, a fin de realizar el registro de las audiencias que sean solicitadas y correspondan a su jurisdicción, estableciendo el día y hora en que deberán ser celebradas, lo cual informará en forma inmediata al jefe de la unidad de causa;
 
 II. Informar a los jueces sobre las audiencias que les han sido asignadas y las causas que correspondan a cada una de ellas;
 
@@ -2605,9 +2711,9 @@ El Órgano de Administración Judicial estará facultado para expedir los Acuerd
 
 El Órgano de Administración Judicial expedirá los Acuerdos Generales que le sean solicitados por el Tribunal de Disciplina Judicial y los relativos a la ejecución de las resoluciones que este considere necesarias para asegurar un adecuado ejercicio de la función jurisdiccional en los asuntos de su competencia; así como aquellos que considere necesarios para incluir en el Presupuesto de Egresos del ejercicio fiscal que corresponda, que beneficien y sean útiles para cumplir obligaciones con el personal del Poder Judicial.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-El Órgano de Administración Judicial contará con el auxilio del Centro de Especialización Judicial, que será el responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, y en su caso, de la Fiscalía General del Estado, del Instituto de la Defensoría Pública, la Comisión Estatal de los Derechos Humanos, instituciones de seguridad pública y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial, en términos de las disposiciones aplicables.
+El Órgano de Administración Judicial contará con el auxilio de la Universidad Judicial, que será la responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización de las personas juzgadoras, del personal de carrera judicial y administrativo del Poder Judicial del Estado, y en su caso, de la Fiscalía General del Estado, del Instituto de la Defensoría Pública, la Comisión Estatal de los Derechos Humanos, instituciones de seguridad pública y del público en general, lo anterior, a través de la impartición de licenciaturas, maestrías, doctorados, especialidades, diplomados, talleres, cursos y conferencias; así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial, en términos de las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -2615,9 +2721,35 @@ También contará para el ejercicio de sus atribuciones con la Contraloría y te
 
 > <small>(DEROGADO NOVENO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-Para el ejercicio de sus funciones de administración, el Órgano de Administración Judicial contará con el auxilio de la Oficialía Mayor, de la Tesorería Judicial, de la Unidad de Igualdad de Género y Derechos Humanos, la Unidad de Servicios Psicológicos y de la Unidad de Peritos Judiciales en Materia Laboral, las cuales ejercerán sus funciones conforme a lo establecido en la presente Ley Orgánica, el Reglamento Interior del Poder Judicial y del Órgano de Administración Judicial, así como los acuerdos generales emitidos por el Pleno del Órgano de Administración Judicial y demás disposiciones aplicables.
+Para el debido ejercicio de sus funciones de administración, el Órgano de Administración Judicial se auxiliará de la Universidad Judicial, la Oficialía Mayor, la Tesorería Judicial, la Unidad de Igualdad de Género y Derechos Humanos, la Unidad de Servicios Psicológicos, la Unidad de Peritos Judiciales en Materia Laboral, el Archivo General del Poder Judicial, el Centro de Información y Documentación Jurídica, las Oficialías de Partes, el Centro de Convivencia Familiar, la Dirección General de Administración del Sistema Procesal Penal Acusatorio y Oral y la Dirección General de Administración de los Tribunales Laborales.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+El Órgano de Administración Judicial contará con un logotipo aprobado por su Pleno que se integrará por los elementos gráficos siguientes:
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Un emblema circular en color oro con una línea interna en tono vino; en su interior, un círculo blanco que contiene en la parte superior la leyenda "Poder Judicial del Estado de Tabasco" y, en la parte inferior, la frase "Órgano de Administración Judicial".
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+En su eje central se representa con un escudo dividido en tres cuarteles, estilo terciado en perla. Del lado derecho aparece la figura del escribano prehispánico, símbolo de quien en las culturas originarias fungía como juez de paz, árbitro y mediador de conflictos. Representa al líder que resolvía disputas y promovía acuerdos de paz. El pincel en su mano alude a la justicia escrita, la importancia de hacer constar resoluciones y sentencias, fundamento de la certeza jurídica.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Del lado izquierdo se representa el recinto judicial de impartición de justicia. En la parte superior, el libro y la balanza simbolizan la ley y la justicia. El libro representa el marco normativo que rige la vida social, mientras que la balanza expresa la imparcialidad, el equilibrio y la equidad en la toma de decisiones.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+El escudo está rodeado por un círculo dorado que representa la unidad del Poder Judicial. En su parte superior alude a los 19 distritos judiciales que integran la estructura jurisdiccional, y en la parte inferior a los 17 municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Tal como se muestra a continuación:
+
+> <small>[N. DE E. VÉASE IMAGEN EN EL P.O. DE 2 DE SEPTIEMBRE DE 2026, PÁGINA 12.]</small>
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -2701,9 +2833,9 @@ Las sesiones del Órgano de Administración Judicial podrán ser de manera prese
 
 Son atribuciones del Pleno del Órgano de Administración Judicial:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-I. Resolver sobre la designación de las y los Jueces, en casos de sustitución por licencias hasta por un año; autorizarles licencias, únicamente hasta por un mes y resolver sobre la adscripción de los Jueces penales, así como lo relativo a los servidores públicos auxiliares de la función jurisdiccional de carrera judicial y al personal que desempeñe funciones administrativas o de apoyo.
+I. Resolver sobre la designación de las y los Jueces, en casos de sustitución por licencias hasta por un año; autorizar licencias sin goce de sueldo, de personas juzgadoras de primera instancia, que no excedan del término de un año, y resolver sobre la adscripción de los Jueces; de igual forma podrá nombrar jueces interinos en caso de renuncia o defunción de alguno de los titulares, hasta que dicha vacante sea votada en la siguiente elección judicial; así como lo relativo a los servidores públicos auxiliares de la función jurisdiccional de carrera judicial y al personal que desempeñe funciones administrativas o de apoyo;
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -2741,7 +2873,13 @@ IV. Informar al Pleno del Tribunal Superior de Justicia respecto de la designaci
 
 V. Organizarse entre sus integrantes para la distribución de las tareas específicas, tendentes a lograr su mejor funcionamiento;
 
-VI. (DEROGADA, P.O. 30 DE AGOSTO DE 2025)
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VI. Conceder a las y los integrantes del Pleno del Órgano de Administración, licencia hasta por un año, con o sin goce de sueldo; así como designar a la persona que suplirá sus ausencias o suspensiones hasta por un año.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Otorgar licencias hasta por un año con o sin goce de sueldo al Rector o Rectora de la Universidad Judicial, cuando sea designado para ocupar un cargo dentro del Poder Judicial.
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -2789,9 +2927,9 @@ XIX. Conceder licencia con goce de sueldo hasta por sesenta días, o sin él por
 
 XX. Nombrar y remover, previa consulta con el titular del área, al personal adscrito a la misma, excepto aquellos cuyo nombramiento corresponda al Pleno del Tribunal Superior de Justicia, de acuerdo a lo dispuesto por la Constitución del Estado, esta Ley, su Reglamento y demás leyes aplicables;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XXI. Establecer las bases para la formación, evaluación, certificación y actualización profesional de las personas servidoras públicas del Poder Judicial del Estado, así como para el desarrollo de la carrera judicial, auxiliándose para tal efecto del Centro de Especialización Judicial;
+XXI. Establecer las bases para la formación, evaluación, certificación y actualización profesional de las personas servidoras públicas del Poder Judicial del Estado, así como para el desarrollo de la carrera judicial, auxiliándose para tal efecto de la Universidad Judicial;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -2823,15 +2961,17 @@ XXX. (DEROGADA, P.O. 30 DE AGOSTO DE 2025)
 
 XXXI. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos y de servicios al público, en el ámbito de su competencia; así como para la organización, administración y resguardo de los archivos físicos del Poder Judicial del Estado. Para tal efecto, deberá emitir la regulación suficiente, por medio de reglas y acuerdos generales, para la presentación de escritos y la integración de expedientes en forma electrónica mediante el empleo de tecnologías de la información que utilicen la firma electrónica, documentos digitalizados o algún otro medio electrónico, de conformidad con lo estipulado en la normatividad aplicable y lo que se establezca en el Reglamento Interior;
 
-XXXII. Crear los Comités en materia de Obra, Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con las mismas y establecer la normatividad y lineamientos inherentes a su integración y funcionamiento;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XXXII. Crear los Comités en materia de Obra, Compra, Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con las mismas y establecer la normatividad y lineamientos inherentes a su integración y funcionamiento, conforme a la normativa aplicable;
 
 XXXIII. (DEROGADA, P.O. 30 DE AGOSTO DE 2025)
 
 XXXIV. (DEROGADA, P.O. 30 DE AGOSTO DE 2025)
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XXXV. Constituir, el Consejo de Administración del Centro de Especialización Judicial;
+XXXV. Constituir la Junta Directiva de la Universidad Judicial;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -2949,9 +3089,13 @@ LXIII. Establecer con base en la ley de la materia, las políticas y lineamiento
 
 LXIV. Expedir, a petición del Tribunal de Disciplina Judicial, acuerdos generales o la ejecución de las resoluciones que considere necesarias para asegurar un adecuado ejercicio de la función jurisdiccional de este;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-LXV. Nombrar a las y los titulares de las áreas auxiliares del Órgano de Administración Judicial, así como al personal que desempeñe funciones de apoyo, administrativo o adscrito al Pleno del Órgano y a las Salas del Tribunal Superior;
+LXV. Designar a propuesta del Magistrado o Magistrada que preside el Tribunal Superior de Justicia, al Rector o Rectora de la Universidad Judicial, conforme a los procedimientos, bases, requisitos y mecanismos establecidos en los acuerdos generales que para tal efecto emita.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+El Rector o Rectora de la Universidad será designado por un periodo de dos años, el cual podrá ser reelecto;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -2977,23 +3121,27 @@ Asimismo, remitir anualmente al mencionado Órgano de Fiscalización, a más tar
 
 LXXI. Delegar a la persona titular de la Presidencia la firma de informes de comprobación de gastos y programación;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-LXXII. Administrar, por conducto de las áreas auxiliares competentes, los recursos asignados a los órganos que conforman el Poder Judicial del Estado; y
+LXXII. Administrar por conducto de las áreas auxiliares competentes, los recursos asignados a los órganos que conforman el Poder Judicial del Estado;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-LXXIII. Las demás que las leyes, Reglamentos o Acuerdos Generales le otorguen.
+LXXIII. Emitir las bases mediante acuerdos generales, para facultar a la dirección jurídica para que realice adquisiciones, arrendamientos, enajenaciones, donaciones y cesiones de todo tipo de bienes del Poder Judicial; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+LXXIV. Las demás que las leyes, Reglamentos o Acuerdos Generales le otorguen.
 
 ###### Artículo 98.
 
 (DEROGADO, P.O. 30 DE AGOSTO DE 2025)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 99.
 
-El Órgano de Administración Judicial, para el cumplimento de sus atribuciones, será apoyado por las unidades administrativas que conforman orgánicamente al Tribunal Superior de Justicia.
+El Órgano de Administración Judicial, para el cumplimento de sus atribuciones, se auxiliará por las unidades administrativas que conforman orgánicamente al Tribunal Superior de Justicia.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -3004,6 +3152,10 @@ Las resoluciones del Órgano de Administración Judicial constarán en acta y de
 Cuando el Pleno del Órgano de Administración Judicial estime que sus reglamentos, acuerdos o resoluciones pudieren resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Estado.
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Las resoluciones del Órgano de Administración Judicial serán definitivas e inatacables y por lo tanto no procede juicio ni recurso alguno en contra de las mismas, salvo lo que establece la Constitución.
 
 ###### Artículo 100.
 
@@ -3194,6 +3346,16 @@ El Tribunal de Disciplina Judicial también es el encargado de inspeccionar, med
 Así también es el órgano que tiene a su cargo evaluar el desempeño de las personas integrantes del Poder Judicial que resulten electos, durante su primer año de ejercicio, en términos de lo dispuesto en el artículo 55-BIS de la Constitución del Estado y en esta Ley.
 
 El Tribunal de Disciplina Judicial funciona en Pleno y en Comisiones.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+El Tribunal de Disciplina contará con un logotipo aprobado por su Pleno, el cual se integrará por los elementos gráficos y cromáticos siguientes:
+
+Un emblema circular en color oro con una línea interna en tono vino; en su interior, un círculo blanco que contiene en la parte superior la leyenda "Poder Judicial del Estado de Tabasco" y, en la parte inferior, la frase "Tribunal de Disciplina Judicial". Al centro, un círculo en color dorado y vino con las letras "TDJ", estilizadas que conforman la imagen de una balanza, como símbolo de equidad y justicia.
+
+En la parte superior del círculo interno se representan, mediante los diecinueve distritos judiciales que conforman el Poder Judicial; y en la parte inferior los diecisiete municipios del Estado tal y como se muestra a continuación:
+
+> <small>[N. DE E. VÉASE IMAGEN EN EL P.O. DE 2 DE SEPTIEMBRE DE 2026, PÁGINA 12.]</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -3467,9 +3629,11 @@ El Pleno del Tribunal de Disciplina Judicial reglamentará, mediante acuerdos ge
 
 #### SECCIÓN QUINTA. DE LA UNIDAD DE INVESTIGACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-Artículo 106 Sexvicies. La Unidad de Investigación de Responsabilidades Administrativas fungirá como autoridad investigadora en términos de la Ley General de Responsabilidades Administrativas y tendrá la carga de la prueba para demostrar la veracidad sobre los hechos que demuestren la existencia de faltas administrativas cometidas por el personal jurisdiccional del Poder Judicial del Estado, así como la responsabilidad de aquellos a quienes se imputen las mismas, en los términos establecidos en esta Ley, en los acuerdos generales que emita el Órgano de Administración Judicial y el Pleno del Tribunal Superior de Justicia, así como en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables.
+Artículo 106 Sexvicies. La Unidad de Investigación de Responsabilidades Administrativas fungirá como autoridad investigadora en términos de la Ley General de Responsabilidades Administrativas y tendrá la carga de la prueba para demostrar la veracidad sobre los hechos que demuestren la existencia de faltas administrativas cometidas por el personal adscrito a los órganos jurisdiccionales del Poder Judicial del Estado, así como la responsabilidad de aquellos a quienes se imputen las mismas, en los términos establecidos en esta Ley, en los acuerdos generales que emita el Órgano de Administración Judicial y el Pleno del Tribunal Superior de Justicia, así como en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
 En el ejercicio de sus funciones podrá ordenar la recopilación de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
 
@@ -3483,13 +3647,17 @@ El Pleno del Tribunal de Disciplina Judicial, mediante acuerdos, establecerá la
 
 Artículo 106 Octovicies. La Unidad de Investigación de Responsabilidades Administrativas tendrá las funciones siguientes:
 
-I. Llevar a cabo las investigaciones por faltas administrativas del personal jurisdiccional del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+I. Llevar a cabo las investigaciones por faltas administrativas del personal adscrito a los órganos jurisdiccionales del Poder Judicial del Estado;
 
 II. Ordenar la recopilación de indicios y medios de prueba que estime conducentes para llegar a la verdad material de los hechos, así como desahogarlos en su momento procesal oportuno;
 
 III. Llamar a comparecer y apercibir a personas que aporten elementos de prueba;
 
-IV. Requerir información y documentación a las autoridades que resulten necesarias para el esclarecimiento de los hechos y conductas investigadas;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+IV. Requerir información y documentación a las autoridades que resulten necesarias para el esclarecimiento de los hechos y conductas investigadas; así como, requerir información de las investigaciones llevadas ante otras autoridades, en las que se encuentren relacionados servidores públicos adscritos a los órganos jurisdiccionales del Poder Judicial del Estado;
 
 V. Solicitar la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga noticia de los mismos;
 
@@ -3497,7 +3665,9 @@ VI. Inspeccionar, en el ámbito de su competencia, el funcionamiento administrat
 
 VII. Imponer las medidas de apremio para hacer cumplir sus determinaciones, a que se refiere el artículo 97 de la Ley General de Responsabilidades Administrativas;
 
-VIII. Integrar y presentar al Pleno o a las comisiones del Tribunal de Disciplina Judicial, según corresponda, los informes de probable responsabilidad administrativa cuando así resulte conducente o, emitir el acuerdo de conclusión y archivo del expediente, de conformidad con los acuerdos generales que dicte el Órgano de Administración Judicial a petición del Tribunal de Disciplina Judicial;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VIII. Integrar y presentar al Pleno o a las comisiones del Tribunal de Disciplina Judicial, según corresponda, los informes de presunta responsabilidad administrativa cuando así resulte conducente o, emitir el acuerdo de conclusión y archivo del expediente, de conformidad con los acuerdos generales que dicte el Órgano de Administración Judicial a petición del Tribunal de Disciplina Judicial;
 
 IX. Solicitar a la autoridad substanciadora o resolutora, en los procedimientos de responsabilidad administrativa, las medidas cautelares a que se refiere el artículo 124 de la Ley General de Responsabilidades Administrativas;
 
@@ -3511,11 +3681,11 @@ XIII. Recibir, tramitar y remitir al Pleno del Tribunal de Disciplina Judicial e
 
 XIV. Las demás que determinen las leyes, los reglamentos y acuerdos generales correspondientes.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-Artículo 106 Novovicies. La Unidad de Responsabilidades Administrativas, como resultado de su facultad investigadora, será la responsable de presentar a las Comisiones del Tribunal de Disciplina Judicial, el dictamen de probable responsabilidad administrativa cuando así resulte conducente o emitir el acuerdo de conclusión y archivo del expediente.
+Artículo 106 Novovicies. La Unidad de Investigación de Responsabilidades Administrativas, como resultado de su facultad investigadora, será la responsable de presentar a las Comisiones del Tribunal de Disciplina Judicial, el informe de presunta responsabilidad administrativa cuando así resulte conducente.
 
-Si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la probable responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar. Dicha determinación, en su caso, se notificará a los Servidores Públicos y particulares sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables, dentro de los diez días hábiles siguientes a su emisión.
+Si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar. Dicha determinación, en su caso, se notificará a los Servidores Públicos y particulares sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables, dentro de los diez días hábiles siguientes a su emisión.
 
 ## TÍTULO QUINTO. DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
 
@@ -3711,7 +3881,9 @@ VI. Comisión Editorial;
 
 VII. Dirección de Tecnologías de la Información y Comunicaciones;
 
-VIII. Centro de Especialización Judicial;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VIII. Universidad Judicial;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -3721,7 +3893,9 @@ X. Dirección de Comunicación Social;
 
 XI. Dirección Jurídica;
 
-XII. Unidad de Trasparencia;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XII. Unidad de Transparencia;
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -3911,9 +4085,13 @@ X. Supervisar en coordinación con el Órgano de Administración Judicial el bue
 
 XI. Informar al Órgano de Administración Judicial de los asuntos que competan y requieran de su determinación;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XII. Proponer al Órgano de Administración Judicial los criterios y medidas para el cumplimiento eficiente de las facultades y obligaciones de la Oficialía Mayor;
+XII. Proponer al Órgano de Administración Judicial los criterios y medidas para el cumplimiento eficiente de las facultades y obligaciones de la Oficialía Mayor.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Así mismo, solicitar al Pleno del Órgano de Administración la creación del Comité de Compras;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -3997,39 +4175,87 @@ XXXII. Las demás que la Magistrada o el Magistrado que presida el Tribunal Supe
 
 ### CAPÍTULO III. DE LA TESORERÍA JUDICIAL
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 130.
 
-La Tesorería Judicial estará integrada por:
+La Tesorería Judicial, como área auxiliar del Órgano de Administración Judicial, estará integrada por una persona titular, quien, para el despacho de los asuntos de su competencia, se auxiliará de las Coordinaciones siguientes:
 
-I. Un Tesorero;
+I. Control Presupuestal;
 
-II. El área de recursos financieros;
+II. Recursos Financieros;
 
-III. El área de control presupuestal;
+III. Contabilidad; y
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+IV. Consignaciones y Pagos.
 
-IV. El área de consignaciones y pagos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
-
-V. El área de contabilidad; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2023)</small>
-
-VI. El personal necesario para su funcionamiento.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
-
-Cada área contará con el personal de apoyo que el presupuesto permita y las necesidades que el servicio requiera y tendrán las facultades que determinen los Plenos del Tribunal, del Órgano de Administración Judicial, la Presidencia de ambos y la normatividad aplicable.
+La tesorería Judicial y sus Coordinaciones contarán con el personal de apoyo que el presupuesto permita y las necesidades que el servicio requiera y tendrán las facultades que determinen los Plenos del Poder Judicial y la normatividad aplicable.
 
 ###### Artículo 131.
 
 Para ser Tesorero Judicial se deben cumplir los mismos requisitos que para ser Oficial Mayor.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 132.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2025)
+Son atribuciones de la Tesorería Judicial:
+
+I. Administrar el presupuesto del Poder Judicial de manera eficaz, honesta y ajustada a la normatividad aplicable;
+
+II. Supervisar, evaluar y controlar las políticas de ingresos, egresos y contabilidad gubernamental, planeación, programación, presupuestos e inversión pública del Poder Judicial;
+
+III. Elaborar la cuenta pública del Poder Judicial, debidamente comprobada y con la información suficiente, en los términos de la Ley aplicable, para su examen y calificación anual;
+
+IV. Coadyuvar en la elaboración del proyecto del Presupuesto de Egresos del Poder Judicial, con base en los programas establecidos, para dar cumplimiento a lo dispuesto en la legislación aplicable;
+
+V. Dar cumplimiento a los acuerdos del Órgano de Administración Judicial en relación con el Presupuesto del Poder Judicial;
+
+VI. Recibir depósitos de los pagos y fianzas y realizar las devoluciones correspondientes;
+
+VII. Manejar y administrar el Fondo Auxiliar para la Administración de Justicia del Poder Judicial;
+
+VIII. Presentar al Pleno del Órgano de Administración, la propuesta sobre la política institucional en materia financiera, fiscal, patrimonial y de gasto público, para la toma de decisiones;
+
+IX. Presentar al Pleno del Órgano de Administración, el Plan Anual de Trabajo de la Tesorería Judicial, vigilar su ejecución e informarles de los avances y resultados alcanzados;
+
+X. Elaborar mensualmente el informe relativo al avance financiero y presupuestal, el cual, deberá rendir la persona que presida el Pleno del Órgano de Administración Judicial, dentro de los siguientes treinta días del mes correspondiente al Órgano Superior de Fiscalización del Estado;
+
+XI. Cubrir los gastos de operación administrativa, adquisiciones de bienes muebles e inmuebles y de la inversión pública en el ejercicio del presupuesto autorizado, conforme a la normatividad aplicable;
+
+XII. Gestionar y dar seguimiento a la ministración de los recursos asignados a cada partida del Poder Judicial;
+
+XIII. Efectuar puntualmente los pagos de nóminas y demás erogaciones autorizadas conforme al presupuesto;
+
+XIV. Gestionar los pagos de prestaciones, seguros e impuestos, y vigilar el cumplimiento de las disposiciones fiscales y sus modificaciones;
+
+XV. Aplicar las retenciones, descuentos y multas procedentes;
+
+XVI. Efectuar las devoluciones que procedan, observando los requisitos legales;
+
+XVII. Recepcionar y enviar las facturas de comprobación de los fondos revolventes;
+
+XVIII. Elaborar las conciliaciones bancarias correspondientes;
+
+XIX. Supervisar que las pólizas de ingresos y egresos cumplan con la documentación soporte de acuerdo a los requisitos fiscales requeridos, a las disposiciones legales aplicables a cada operación y los lineamientos de racionalidad, austeridad y disciplina presupuestaria;
+
+XX. Revisar, elaborar y suscribir, en su caso, las cédulas de solventaciones y demás documentación que, en términos de la normatividad aplicable, deban remitirse al Órgano Superior de Fiscalización del Estado;
+
+XXI. Revisar los cortes y arqueos de caja practicados por la Coordinación de Consignaciones y Pagos;
+
+XXII. Asistir a las reuniones del Órgano de Administración, cuando sea requerido para ello o por instrucción de su Presidencia;
+
+XXIII. Dar cumplimiento, en el ámbito de su competencia, a los acuerdos que emitan los Plenos del Poder Judicial;
+
+XXIV. Rendir los informes que le soliciten los órganos competentes;
+
+XXV. Efectuar las revisiones financieras que ordene el Pleno del Órgano de Administración Judicial o su Presidencia, en el ámbito de su competencia, y elaborar las actas correspondientes a fin de informar sobre los resultados obtenidos;
+
+XXVI. Elaborar y rendir el informe anual de ingresos y egresos del Fondo Auxiliar para la Administración de Justicia del Poder Judicial al Pleno del Órgano de Administración Judicial;
+
+XXVII. Dar cumplimiento, en calidad de autoridad responsable, a las determinaciones de la autoridad federal, respecto de actos reclamados en juicios de amparo; y
+
+XXVIII. Las demás relacionadas con su cargo y las que se establezcan en las disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -4273,9 +4499,9 @@ XVII. Proponer al Órgano de Administración Judicial, para su aprobación, la a
 
 XVIII. Seleccionar material bibliográfico para su adquisición sobre temas afines para la actualización del acervo del Centro de Información y Documentación Jurídica;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XIX. Elaborar la bibliografía que solicite el Centro de Especialización Judicial de acuerdo a los planes y programas de estudio de doctorados, maestrías, diplomados, especialidades, talleres y cursos;
+XIX. Elaborar la bibliografía que solicite la Universidad Judicial de acuerdo a los planes y programas de estudio de licenciaturas, doctorados, maestrías, diplomados, especialidades, talleres, cursos, conferencias y demás propios de su objeto;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -4357,193 +4583,107 @@ IV. No tener sentencia firme por la comisión intencional de delitos contra la v
 
 V. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 157.
 
 La Dirección de Tecnologías de la Información y Comunicaciones tendrá las funciones siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+I. Concentrar y sistematizar los datos procedentes de los Juzgados, Tribunales, Centros Regionales de Administración de Justicia, Salas, Plenos y demás áreas del Poder Judicial, relativos a los juicios y procedimientos que ante ellos se tramiten, con el propósito de llevar un control integral mediante el sistema informático institucional. Las personas titulares de los órganos y áreas referidos tendrán la obligación de remitir sus informes con la periodicidad que se establezca;
 
-I. Concentrar los datos procedentes de los Juzgados, Tribunales, de los Centros Regionales de Administración de Justicia, de las Salas, de los Plenos y demás áreas del Poder Judicial, relativos a los diversos juicios o procedimientos que ante ellos se tramiten, con el fin de efectuar un control de los mismos por medio del sistema informático. Los Jueces, en su caso, los administradores de los Centros Regionales, los Secretarios de Acuerdos de las Salas, los Secretarios Generales de Acuerdos y las personas titulares de los demás órganos o áreas, están obligados a rendir periódicamente sus informes;
+II. Mantener, conservar y actualizar registros estadísticos y datos digitales de los órganos jurisdiccionales y administrativos del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+III. Desarrollar y mantener herramientas tecnológicas orientadas al óptimo funcionamiento operativo y administrativo del Poder Judicial;
 
-II. Mantener y conservar actualizados los registros estadísticos de los juicios o procedimientos, por materia, por Juzgado o Tribunal, por Salas, Secretarías, órganos y demás áreas;
+IV. Dar soporte y mantenimiento al sistema de consignaciones de pensiones alimenticias, rentas, cauciones, multas, reparaciones del daño y garantías, entre otros conceptos que determine la normativa aplicable;
 
-III. Registrar las actividades del Poder Judicial en las áreas de administración, contabilidad, recursos humanos y materiales y otras que se requieran;
+V. Elaborar semestral y anualmente las estadísticas del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+VI. Brindar soporte técnico y mantenimiento preventivo y correctivo a los equipos de cómputo asignados a las y los servidores públicos del Poder Judicial, en coordinación con los responsables de cada área;
 
-IV. Llevar el registro digital en todas las actividades de apoyo al servicio de la administración, contabilidad, recursos humanos y materiales y otras que se requieran;
+VII. Grabar, resguardar y almacenar los audios y videos generados en las audiencias de los órganos jurisdiccionales, garantizando la conservación íntegra de su contenido;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+VIII. Auxiliar y dar soporte técnico en la digitalización de la carpeta judicial de los asuntos que se tramiten conforme al Sistema Procesal Penal Acusatorio y Oral, de acuerdo a los lineamientos de la normatividad aplicable y los acuerdos generales que al efecto se emitan;
 
-V. Auxiliar por medio del procesamiento de datos a la Oficialía Mayor y a la Tesorería Judicial en la elaboración de patrones, nóminas, plantillas, recibos de remuneraciones que otorgue el Poder Judicial por concepto de servicios personales, incapacidades y permisos;
+IX. Realizar las gestiones necesarias para garantizar la disponibilidad de los equipos de grabación de audio y video requeridos para las audiencias programadas en los Centros Regionales de Administración de Justicia y demás órganos jurisdiccionales;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+X. Atender y dar seguimiento a las solicitudes de asistencia técnica que formulen los encargados de las unidades informáticas de los Centros Regionales de Administración de Justicia, conforme a los procedimientos establecidos;
 
-VI. Apoyar en la elaboración del registro de adquisiciones y del inventario del almacén con el fin de programar los requerimientos del Poder Judicial;
+XI. Supervisar y asegurar que los sistemas de grabación de audio y video, así como los equipos informáticos de las salas de audiencias, se encuentren en óptimas condiciones de operación al momento de cada diligencia;
 
-VII. Ayudar en la elaboración de inventarios de mobiliario y equipo del Poder Judicial, así como en la programación de las necesidades de mantenimiento de los bienes muebles e inmuebles en general;
+XII. Supervisar que se realice periódicamente el respaldo de la información contenida en los sistemas de grabación, así como de las grabaciones de audio y video de las audiencias, con el fin de preservar su integridad;
 
-VIII. Procesar los datos establecidos en la documentación contable;
+XIII. Coordinar con los proveedores la prestación de los servicios de mantenimiento preventivo y correctivo de los equipos informáticos, de grabación, audio y video, así como de los sistemas y programas licenciados del Poder Judicial, conforme a los contratos vigentes;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+XIV. Solicitar al área administrativa correspondiente la sustitución o adquisición de equipos de grabación, audio y video, así como de equipos informáticos y demás dispositivos necesarios para el desarrollo de las audiencias, con base en el diagnóstico técnico que emita la Dirección de Tecnologías de la Información y Comunicación;
 
-IX. Llevar un registro de consignaciones de pensiones alimenticias y rentas, cauciones, multas, reparaciones de daño y garantías, entre otros;
+XV. Dar mantenimiento y atender las necesidades de actualización y corrección de los sistemas de gestión utilizados por los órganos y áreas del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+XVI. Diseñar, instrumentar y evaluar el Programa Institucional de Desarrollo en materia de Tecnologías de la Información y Comunicaciones del Poder Judicial, alineado a la Agenda Digital y a los estándares que, en su caso, establezca el Consejo Estatal de Gobierno Digital del Estado de Tabasco;
 
-X. Elaborar semestral y anualmente la Estadística Judicial, comprendiendo todas las variables de interés judicial científico;
+XVII. Elaborar y presentar ante la Magistrada o el Magistrado que presida del Tribunal Superior de Justicia los proyectos y programas de innovación y modernización tecnológica, apoyar su implementación y evaluar periódicamente su efectividad e impacto institucional, en su caso;
 
-XI. Proporcionar soporte técnico y mantenimiento a los equipos de cómputo asignados a los servidores del Poder Judicial;
+XVIII. Dirigir la administración de las tecnologías de la información y comunicaciones del Poder Judicial bajo criterios de eficiencia, productividad, racionalidad y austeridad, orientados al óptimo aprovechamiento de los recursos públicos;
 
-XII. Llevar el control de los audios y videos generados en las audiencias de los órganos jurisdiccionales de oralidad, así como la conservación de su contenido, en coordinación con el Archivo Judicial;
+XIX. Elaborar y someter a consideración de la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia los proyectos de estándares técnicos, procedimientos y metodologías para la adquisición, administración y uso de las tecnologías de la información y comunicaciones, así como proponer las actualizaciones que correspondan y supervisar su aplicación;
 
-XIII. Digitalizar la carpeta judicial de las causas que se tramiten conforme al Sistema Procesal Penal Acusatorio y Oral;
+XX. Emitir opinión técnica fundamentada para la adquisición, contratación de servicios, arrendamiento y mantenimiento de bienes informáticos, de telecomunicación y radiocomunicación, así como para la adquisición de refacciones y consumibles para equipos de cómputo, de conformidad con los estándares técnicos institucionales y los lineamientos que al efecto se emitan por los órganos que correspondan;
 
-XIV. Realizar las gestiones propias para garantizar que se cuente con los equipos necesarios para realizar las grabaciones de audio y video de las audiencias programadas en los Centros Regionales de Administración de Justicia y demás órganos jurisdiccionales;
+XXI. Proponer la viabilidad operativa para la implementación de sistemas operativos, licenciamientos, aplicaciones ofimáticas, manejadores de bases de datos, herramientas para el desarrollo de software, software de redes y configuración de los equipos de procesamiento de datos del Poder Judicial;
 
-XV. Gestionar la respuesta inmediata a las solicitudes de asistencia técnica que le formule el jefe de la unidad informática de los Centros Regionales de Administración de Justicia;
+XXII. Elaborar y mantener actualizados los lineamientos para el mantenimiento preventivo y correctivo de los equipos de cómputo, software, telecomunicaciones, periféricos, conmutadores, sistemas de aplicación y bases de datos en los órganos y áreas del Poder Judicial, y proporcionar los servicios de mantenimiento correspondientes;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+XXIII. Supervisar y controlar el desarrollo e implementación de aplicaciones y sistemas de gestión, así como la administración del correo institucional, el portal oficial, el acceso a internet y los servicios derivados de la red del Poder Judicial;
 
-XVI. Garantizar que todos los sistemas de grabación de audio y video, así como los equipos informáticos de las salas de audiencias, estén en funcionamiento;
+XXIV. Rendir informe oportunamente a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia sobre las anomalías detectadas en el seguimiento de los procedimientos, normas y políticas relativas al uso de los equipos y sistemas informáticos institucionales;
 
-XVII. Supervisar que se efectúe el respaldo de todos los sistemas de control y registro, así como de las grabaciones de audio y video de las audiencias;
+XXV. Establecer prácticas de coordinación, integración y sinergia del capital humano destinado a las tecnologías de la información y comunicaciones, entre los responsables de las áreas informáticas que integran la Dirección de Tecnologías de la Información y Comunicaciones;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+XXVI. Colaborar con los Plenos del Poder Judicial en el manejo de los sistemas informáticos gubernamentales vinculados con sus atribuciones, tanto federales como estatales, así como en lo relativo a la administración de la red intergubernamental de internet;
 
-XVIII. Coordinar a los proveedores para el mantenimiento periódico necesario de los equipos informáticos, de grabación, audio y video;
+XXVII. Diseñar, coordinar e implementar el programa de automatización y digitalización del Poder Judicial, ajustado a la Agenda Digital y a los estándares en materia de Tecnologías de la Información y Comunicaciones aprobados por el Consejo Estatal de Gobierno Digital del Estado de Tabasco, en los términos que correspondan;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+XXVIII. Administrar los recursos en materia de Tecnologías de la Información y Comunicaciones del Poder Judicial y proveer los servicios que se requieran para el adecuado funcionamiento de sus órganos y áreas;
 
-XIX. Solicitar al área respectiva la sustitución o compra de equipos de grabación, audio y video, así como informáticos, para el soporte de las audiencias;
+XXIX. Realizar la proyección presupuestal anual, derivada del diagnóstico de necesidades en materia de tecnologías de la información y comunicaciones del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+XXX. Planear, diseñar, mantener y supervisar la operación de los sistemas de información y comunicaciones requeridos por los órganos y áreas del Poder Judicial;
 
-XX. Atender las necesidades de actualización o corrección a los sistemas operativos, de control y registro de los órganos y áreas del Poder Judicial;
+XXXI. Ejecutar y mantener actualizados los mecanismos de seguridad de las Tecnologías de la Información y Comunicaciones del Poder Judicial, verificando permanentemente su correcto funcionamiento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2025)</small>
+XXXII. Brindar el apoyo técnico-operativo necesario para la instrumentación, operatividad y modernización de las tecnologías de la información y comunicaciones del Poder Judicial, incluyendo la administración y actualización de la página web institucional;
 
-XXI. Diseñar, instrumentar y evaluar el Programa Institucional de Desarrollo en materia de tecnologías de la información y comunicaciones del Poder Judicial, el cual deberá apegarse a lo establecido en la Agenda Digital y los estándares que establezca el Consejo Estatal de Gobierno Digital en el Estado de Tabasco, en su caso;
+XXXIII. Administrar los programas de asistencia y supervisión informática con el propósito de verificar el uso adecuado y la correcta asignación de los equipos tecnológicos y de comunicaciones;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+XXXIV. Verificar la existencia del licenciamiento de software correspondiente, así como la pertinencia de adquisiciones para los órganos y áreas del Poder Judicial;
 
-XXII. Diseñar, elaborar y presentar ante el Pleno del Tribunal Superior de Justicia, los proyectos o programas de innovación y modernización tecnológica, apoyar su implementación y evaluar su efectividad;
+XXXV. Proponer, coordinar y supervisar el cumplimiento de los lineamientos generales de licenciamiento y contratación de servicios de tecnologías de la información y comunicaciones, en coordinación con la Oficialía Mayor y las áreas afines;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+XXXVI. Recibir, concentrar y sistematizar la estadística institucional del Poder Judicial del Estado de Tabasco;
 
-XXIII. Dirigir la administración de las tecnologías de la información y comunicaciones del Poder Judicial, en términos de eficiencia y productividad, para contribuir al mejoramiento de control, racionalidad, austeridad y óptimo aprovechamiento;
+XXXVII. Resguardar los datos procedentes de los órganos y áreas del Poder Judicial, estableciendo los mecanismos necesarios para su debida protección y confidencialidad;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+XXXVIII. Informar mensualmente a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia sobre la situación estadística del Poder Judicial, mediante los reportes e indicadores que se determinen;
 
-XXIV. Elaborar y presentar los proyectos de estándares técnicos, procedimientos y metodologías para la adquisición, administración y uso de las tecnologías de la información y comunicaciones del Poder Judicial a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia. Proponer las modificaciones o actualizaciones que requieran y supervisar su aplicación;
+XXXIX. Atender las solicitudes de soporte técnico que le formulen las personas titulares de los órganos y áreas del Poder Judicial, de conformidad con los procedimientos establecidos para tal efecto;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+XL. Diseñar, proyectar y coordinar la ejecución de cursos de capacitación en materia de Tecnologías de la Información y Comunicaciones dirigidos al personal adscrito a los órganos y áreas del Poder Judicial;
 
-XXV. Emitir la opinión técnica para la adquisición, contratación de servicios, arrendamiento y mantenimiento de bienes informáticos, telecomunicaciones y radiocomunicación, así como para la adquisición de refacciones y consumibles para equipos de cómputo o tecnologías de la información y comunicaciones, de conformidad con los estándares técnicos aprobados por el Pleno del Tribunal Superior de Justicia, acorde a los lineamientos que para tal efecto se emitan;
+XLI. Fomentar, en coordinación con la Universidad Judicial, la cultura informática y el intercambio tecnológico, la investigación, el desarrollo y la actualización continua en la materia, entre las y los servidores públicos del Poder Judicial;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+XLII. Participar en los comités y grupos de trabajo que determine la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia; y
 
-XXVI. Proponer, en su caso, la viabilidad operativa para la implantación de los sistemas operativos, aplicaciones ofimáticas, manejadores de bases de datos, herramientas para desarrollo de software, software de redes y configuración de los equipos de procesamiento de datos del Poder Judicial;
+XLIII. Ejercer las demás atribuciones que le confieran la presente Ley, su Reglamento y los acuerdos que emitan los Plenos del Tribunal Superior de Justicia o del Órgano de Administración Judicial.
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XXVII. Elaborar los lineamientos para el mantenimiento preventivo y correctivo de los equipos de cómputo, software, telecomunicaciones, periféricos, conmutadores, sistemas de aplicación y bases de datos en los órganos y áreas del Poder Judicial; así como proporcionar los servicios de mantenimiento;
+### CAPÍTULO IX. DE LA UNIVERSIDAD JUDICIAL
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXVIII. Coordinarse con la Oficialía Mayor para el levantamiento del inventario de la infraestructura relacionada con Tecnologías de la Información y Comunicaciones, incluyendo los sistemas desarrollados;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXIX. Supervisar y controlar el desarrollo e implantación de aplicaciones, la administración y uso del correo institucional, portal oficial y acceso a internet, así como servicios que se deriven de la red del Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXX. Informar a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia acerca de anomalías en el seguimiento de los procedimientos, normas y políticas en el uso de los equipos y sistemas informáticos;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXXI. Establecer prácticas para optimizar el capital humano destinado a las tecnologías de la información y comunicaciones, mediante la coordinación, integración y apoyo entre los responsables de las áreas informáticas que integran la Dirección de Tecnologías de la Información y Comunicaciones;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXXII. Colaborar con los Plenos del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Órgano de Administración Judicial, en el manejo de los sistemas informáticos gubernamentales vinculados directamente con sus atribuciones, tanto federales como estatales, y en lo concerniente a la administración de la red intergubernamental de internet;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXXIII. Diseñar, coordinar e implementar el programa de automatización y digitalización del Poder Judicial, ajustándose a la Agenda Digital y a los estándares en materia de Tecnologías de la Información y Comunicaciones que apruebe el Consejo Estatal de Gobierno Digital en el Estado de Tabasco, en su caso;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXXIV. Administrar, los recursos en materia de Tecnologías de la Información y Comunicaciones del Poder Judicial y proveer los servicios que se requieran;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXXV. Proporcionar a la Tesorería Judicial la información presupuestal, derivada del diagnóstico de necesidades de tecnologías de la información y comunicaciones en el Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXXVI. Planear, diseñar, mantener y supervisar la operación de los sistemas de información y comunicaciones que requieran los órganos y áreas del Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXXVII. Ejecutar y actualizar los mecanismos de seguridad de las Tecnologías de la Información y Comunicaciones del Poder Judicial y vigilar su funcionamiento;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXXVIII. Brindar el apoyo técnico operativo necesario para la instrumentación, operatividad y modernización de las tecnologías de la información y comunicaciones del Poder Judicial, entre ellas, la página web y su actualización;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXXIX. Conducir los programas de asistencia y supervisión informática, con el propósito de verificar el uso adecuado y asignación de los equipos tecnológicos y de comunicaciones, la existencia del licenciamiento de software correspondiente, al igual que la pertinencia y asignación de las adquisiciones que se realicen en los órganos y áreas del Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XL. Proponer, coordinar y supervisar la observancia de lineamientos generales de licenciamiento y contratación de servicios de tecnologías de la información y comunicaciones; en coordinación con Oficialía Mayor y áreas afines designadas por la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XLI. Recibir, concentrar y sistematizar la estadística del Poder Judicial del Estado;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XLII. Resguardar los datos procedentes de los juzgados, tribunales, de los Centros Regionales de Administración de Justicia, de los Plenos del Poder Judicial, así como de las Salas y establecer mecanismos para su debida protección;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XLIII. Informar mensualmente a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia de la situación estadística que guarda el Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XLIV. Atender las solicitudes de soporte técnico e insumos que le requieran los titulares de las áreas u órganos del Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XLV. Diseñar, proyectar y ejecutar los cursos de capacitación en materia de Tecnologías de la Información y las Comunicaciones que requiera el personal adscrito a los órganos y áreas del Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XLVI. Fomentar, en coordinación con el Centro de Especialización Judicial, la cultura informática e intercambio tecnológico, la investigación, el desarrollo y la actualización continua en la materia, en los servidores públicos;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XLVII. Participar en los Comités y grupos de trabajo que la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia determine; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE AGOSTO DE 2025)</small>
-
-XLVIII. Aquellas otras que establezca esta Ley, el Reglamento y las que acuerden los Plenos del Tribunal Superior de Justicia o del Órgano de Administración Judicial.
-
-### CAPÍTULO IX. DEL CENTRO DE ESPECIALIZACIÓN JUDICIAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 158.
 
-El Centro de Especialización Judicial será un órgano auxiliar del Órgano de Administración Judicial con autonomía técnica y de gestión, estará a cargo de un Director o Directora, quien deberá reunir los requisitos siguientes:
+La Universidad Judicial será un órgano auxiliar del Órgano de Administración Judicial con autonomía técnica y de gestión, estará a cargo de un Rector o Rectora, quien deberá reunir los requisitos siguientes:
 
 I. Ser Licenciado en Derecho, en Administración de Empresas, Contador Público u otra profesión afín con cédula profesional correspondiente;
 
@@ -4563,17 +4703,55 @@ IV. No tener sentencia firme por la comisión intencional de delitos contra la v
 
 V. No haber sido declarada como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 159.
 
-El Centro de Especialización Judicial será responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial y, en su caso, de la Fiscalía General del Estado, del Instituto de la Defensoría Pública, la Comisión Estatal de los Derechos Humanos, instituciones de seguridad pública y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial, en términos de las disposiciones aplicables.
+La Universidad Judicial será responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial y, en su caso, de la Fiscalía General del Estado, del Instituto de la Defensoría Pública, la Comisión Estatal de los Derechos Humanos, instituciones de seguridad pública y del público en general, lo anterior, a través de la impartición de licenciaturas, maestrías, doctorados, especialidades, diplomados, talleres, cursos y conferencias, de conformidad con las normas previstas en la Ley de Educación del Estado de Tabasco; así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial, en términos de las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 159 Bis.
+
+La Universidad Judicial contará con un logotipo aprobado por el Pleno del Órgano de Administración Judicial, sus características, diseño gráfico, uso, significado y demás elementos relativos a su identidad visual se establecerán en el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 159 Ter.
+
+La Universidad Judicial tendrá facultades para diseñar, organizar, impartir, desarrollar, coordinar y evaluar programas académicos, de investigación, profesionalización, actualización y educación continua relacionados con las disposiciones del artículo 159.
+
+Para el cumplimiento de sus facultades, la Universidad Judicial podrá:
+
+I. Impartir estudios de licenciatura, especialidad, maestría, doctorado, diplomados, cursos, talleres, seminarios, conferencias y demás programas académicos especializados;
+
+II. Diseñar, actualizar y ejecutar planes y programas de estudio vinculados con la formación judicial, la carrera judicial y la profesionalización de personas servidoras públicas;
+
+III. Expedir títulos profesionales, grados académicos, diplomas, certificados, constancias y demás documentación académica derivada de los estudios impartidos por la Universidad Judicial, en términos de las disposiciones aplicables;
+
+IV. Obtener, promover, gestionar y mantener el reconocimiento de validez oficial de estudios de los programas académicos que imparta, en términos de la legislación educativa aplicable;
+
+V. Celebrar convenios de colaboración académica, científica, tecnológica y de reconocimiento recíproco con instituciones públicas y privadas, nacionales e internacionales, para el fortalecimiento de sus funciones;
+
+VI. Promover y desarrollar proyectos de investigación jurídica, judicial, interdisciplinaria y de innovación institucional;
+
+VII. Realizar publicaciones académicas, jurídicas, científicas y de divulgación relacionadas con el ejercicio de la función jurídica;
+
+VIII. Implementar programas de formación inicial, capacitación, actualización, certificación y evaluación;
+
+IX. Diseñar e implementar mecanismos de educación presencial, virtual, híbrida y a distancia, mediante el uso de plataformas tecnológicas y herramientas digitales;
+
+X. Organizar congresos, foros, coloquios, encuentros académicos y actividades de intercambio institucional orientadas al fortalecimiento de la cultura jurídica y judicial;
+
+XI. Integrar acervos bibliográficos, hemerográficos, digitales y bases de datos especializadas para apoyar las actividades académicas y de investigación; y
+
+XII. Las demás que establezcan la Constitución del Estado, la presente Ley, el Reglamento Interior del Poder Judicial y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 160.
 
-Son funciones y responsabilidades de la persona titular del Centro:
+Son funciones y responsabilidades del Rector o Rectora de la Universidad Judicial:
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -4599,31 +4777,39 @@ V. Coordinar lo relativo a la prestación del servicio social y prácticas profe
 
 VI. Realizar las demás funciones y asumir las responsabilidades que las disposiciones legales le asignen y las que le confiera el Órgano de Administración Judicial.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 160 Bis.
 
-El Centro de Especialización Judicial contará con un Consejo de Administración integrado por:
+La Universidad Judicial contará con una Junta Directiva integrada por:
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-a) El Presidente o Presidenta del Órgano de Administración Judicial o la persona a quien éste designe, quien lo presidirá y tendrá voto de calidad;
+a) El Magistrado o Magistrada que presida el Tribunal Superior de Justicia o la persona a quien éste designe, quien lo presidirá y tendrá voto de calidad;
 
-b) El Director del Centro, quien fungirá como Secretario;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
+b) El Presidente o Presidenta del Órgano de Administración Judicial o la persona a quien éste designe;
 
-c) Una persona Magistrada designada por el Pleno del Tribunal Superior de Justicia; y
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+c) El Rector o Rectora de la Universidad, quien fungirá como secretario;
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
 d) Dos integrantes más que serán nombrados por el Pleno del Órgano de Administración Judicial, quienes deberán haberse destacado en el ámbito de la educación superior, investigación jurídica o el ejercicio libre de la profesión del derecho, sus cargos serán honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño.
 
-El Consejo de Administración del Centro de Especialización Judicial tendrá las facultades siguientes:
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-I. Aprobar los planes de trabajo, el Reglamento Interior y la estructura orgánica del Centro;
+La Junta Directiva de la Universidad Judicial tendrá las facultades siguientes:
 
-II. Conocer los informes de actividades que realice el Centro;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+I. Aprobar los planes de trabajo, el Reglamento Interior y la estructura orgánica de la Universidad Judicial;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+II. Conocer los informes de actividades que realice la Universidad;
 
 III. Establecer las políticas para el otorgamiento de apoyo a los servidores públicos del Poder Judicial; y
 
@@ -4631,15 +4817,67 @@ III. Establecer las políticas para el otorgamiento de apoyo a los servidores p�
 
 IV. Las demás que le confiera el Órgano de Administración Judicial.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 160 Ter.
 
+La Universidad Judicial contará con un Consejo Académico como órgano colegiado de consulta, deliberación, evaluación y apoyo técnico-académico, encargado de garantizar la calidad, pertinencia, actualización y excelencia de las actividades académicas, de investigación y profesionalización que desarrolle la Universidad Judicial.
+
+El Consejo Académico estará integrado por:
+
+I. El Rector o Rectora de la Universidad Judicial, quien lo presidirá;
+
+II. La persona titular de la Coordinación de Licenciatura, Posgrado, Capacitación y Actualización;
+
+III. Las personas titulares de las áreas académicas o de investigación que determine el Reglamento Interior de la Universidad Judicial;
+
+IV. Hasta tres especialistas o personas académicas de reconocido prestigio en el ámbito jurídico, judicial o educativo, designadas por el Pleno del Órgano de Administración Judicial; y
+
+V. La persona titular de la Secretaría Académica o quien determine el Reglamento Interior, quien fungirá como Secretario Técnico.
+
+Las personas integrantes del Consejo Académico desempeñarán su encargo de manera honorífica, con excepción de quienes formen parte de la estructura orgánica de la Universidad Judicial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 160 Quáter.
+
+El Consejo Académico tendrá las facultades siguientes:
+
+I. Opinar sobre los planes y programas de estudio que imparta la Universidad Judicial;
+
+II. Emitir recomendaciones para el fortalecimiento de la calidad académica y la actualización permanente de los programas educativos;
+
+III. Proponer líneas de investigación jurídica, judicial, interdisciplinaria y de innovación institucional;
+
+IV. Opinar sobre la creación, modificación o supresión de programas académicos;
+
+V. Evaluar el desarrollo y desempeño de las actividades académicas y de investigación de la Universidad Judicial;
+
+VI. Promover mecanismos de vinculación académica con instituciones educativas, organismos públicos y centros de investigación nacionales e internacionales;
+
+VII. Opinar sobre los criterios para la certificación, evaluación y profesionalización de las personas servidoras públicas judiciales;
+
+VIII. Impulsar la publicación de obras jurídicas, investigaciones, revistas, estudios y materiales académicos especializados;
+
+IX. Proponer estrategias para el fortalecimiento de la educación digital, híbrida y a distancia;
+
+X. Emitir opiniones técnicas sobre los asuntos académicos que le sean sometidos por el Rector o Rectora o por el Pleno del Órgano de Administración Judicial; y
+
+XI. Las demás que establezcan esta Ley, el Reglamento Interior del Poder Judicial, el Reglamento Interior de la Universidad Judicial y demás disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO IX BIS. DEL CENTRO DE ACCESO A LA JUSTICIA ALTERNATIVA
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 160 TER], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 160 Quinquies.
+
 El Centro de Acceso a la Justicia Alternativa es un órgano auxiliar del Órgano de Administración Judicial con autonomía técnica, operativa y de gestión, facultado para el ejercicio de los mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en esta ley, en la Ley General de Mecanismos Alternativos de Solución de Controversias, la Ley de Acceso a la Justicia Alternativa para el Estado de Tabasco y los acuerdos generales que el Órgano de Administración Judicial emita al respecto.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 160 QUÁTER], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-###### Artículo 160 Quater.
+###### Artículo 160 Sexies.
 
 La persona titular del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial del Estado será designada por el Pleno del Órgano de Administración Judicial.
 
@@ -4647,25 +4885,27 @@ La estructura, organización y funcionamiento del centro de acceso a la justicia
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2025)</small>
 
-### CAPÍTULO IX BIS. DEL CENTRO DE ACCESO A LA JUSTICIA ALTERNATIVA
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
-
 ### CAPÍTULO X. DE LA CONTRALORÍA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 161.
 
-La Contraloría del Poder Judicial, como área auxiliar del Órgano de Administración Judicial tendrá las facultades de control interno y de coadyuvar en la inspección del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos y servidores públicos del Poder Judicial, sin perjuicio de las atribuciones de la Visitaduría Judicial. Asimismo, será la autoridad garante del derecho a la información que para tal efecto establece el artículo 4 bis fracción VII de la Constitución Política del Estado Libre y Soberano de Tabasco y demás disposiciones aplicables.
+La Contraloría como área auxiliar del Órgano de Administración Judicial, contará con independencia técnica y de gestión y tendrá las facultades de supervisión, evaluación, vigilancia y de coadyuvar en el cumplimiento de las normas de funcionamiento administrativo.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
+Será competente para realizar auditorías, revisiones e inspecciones con la finalidad de verificar el cumplimiento a la normatividad aplicable; promover, evaluar y fortalecer el buen funcionamiento del control interno, así como para iniciar y substanciar los procedimientos de responsabilidad administrativa cometidos por los servidores públicos que desempeñen funciones administrativas.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Así mismo, será la autoridad garante del derecho a la información que para tal efecto establece el artículo 4 bis fracción VII de la Constitución Política del Estado Libre y Soberano de Tabasco y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 162.
 
-La Contraloría estará integrada por un Contralor o Contralora, quien, para el despacho de los asuntos de su competencia, se auxiliará de las coordinaciones siguientes:
+La Contraloría estará integrada con el personal necesario para el correcto ejercicio de sus facultades y que el presupuesto permita; contará con una persona titular y se auxiliará de las coordinaciones siguientes:
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -4683,9 +4923,9 @@ c) Investigación; y
 
 d) Procedimientos administrativos.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-También contará con la Unidad de Transparencia y la de Supervisión de Obras como órganos auxiliares y con el demás personal que las necesidades del servicio requieran y el presupuesto permita, los cuales serán nombrados por el Pleno del Órgano de Administración Judicial.
+También contará con la Unidad de Transparencia y la de Supervisión de Obras como órganos auxiliares, los cuales serán nombrados por el Pleno del Órgano de Administración Judicial.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -4779,9 +5019,9 @@ XVI. Formar un expediente de la diligencia o auditoría que se practique, el cua
 
 XVII. Mantener en sus diligencias y procedimientos la más absoluta reserva y abstenerse de comunicar a los interesados o a terceros el resultado de sus indagaciones. La infracción de esta disposición será motivo de separación del cargo de los responsables, independientemente de otras responsabilidades que le correspondan conforme a la ley;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XVIII. Auxiliar a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia y a la Presidenta o Presidente del Órgano de Administración Judicial, en la coordinación para vigilar que la administración del presupuesto del Poder Judicial sea eficaz, honesta y ajustada a la normatividad aplicable, ejecutando las acciones operativas que se instruyan y las procedentes para tal efecto, informando el resultado a aquéllos, para los efectos legales a que hubiere lugar;
+XVIII. Auxiliar en la vigilancia de la administración del presupuesto del Poder Judicial, para que sea eficaz, honesta y ajustada a la normatividad aplicable, ejecutando las acciones operativas necesarias y las procedentes, informando el resultado al Pleno del Órgano de Administración Judicial para los efectos legales a que hubiere lugar;
 
 XIX. Para dar cumplimiento a la fracción anterior, en el ejercicio de sus atribuciones podrá auxiliarse, previa autorización del Pleno que corresponda, de despachos o profesionistas especializados en la materia a que se refiere el numeral anterior;
 
@@ -4815,9 +5055,13 @@ XXVIII. Vigilar el cumplimiento de la normatividad aplicable en materia de plane
 
 XXIX. Coordinar la recepción, registro y seguimiento de la evolución de la situación patrimonial del personal; y en su caso, instruir las acciones correspondientes por incumplimiento en su presentación, así como, coordinar las acciones correspondientes de verificación de la situación patrimonial conforme a la normativa aplicable;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XXX. Presentar a consideración del Pleno del Órgano de Administración Judicial, la propuesta de normatividad que se requiera para el adecuado ejercicio de sus atribuciones y facultades;
+XXX. Presentar a consideración del Pleno del Órgano de Administración Judicial, la propuesta de normatividad que se requiera para el adecuado ejercicio de sus atribuciones y facultades.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Así mismo, solicitar al Pleno del Órgano de Administración la creación del Comité de Obra;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -4839,9 +5083,9 @@ XXXIV. Elaborar y someter a consideración del Pleno del Órgano de Administraci
 
 XXXV. Proponer al Órgano de Administración Judicial, las medidas preventivas y correctivas para la determinación conducente del manejo de los recursos materiales, humanos y financieros con cargo a su presupuesto de egresos;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XXXVI. Proponer a la Magistrada o Magistrado que presida el Tribunal Superior de Justicia y al Pleno del Órgano de Administración Judicial, los tipos de auditoría para verificar que los sistemas, procedimientos, métodos de contabilidad, registro contable de los libros, documentos comprobatorios de ingreso y gasto público, así como de la cuenta pública, son los idóneos para obtener resultados congruentes entre el gasto público ejercido y el presupuesto de egresos del Poder Judicial;
+XXXVI. Plantear al Pleno del Órgano de Administración Judicial, los tipos de auditoría para verificar que los sistemas, procedimientos, métodos de contabilidad, registro contable de los libros, documentos comprobatorios de ingreso y gasto público, así como de la cuenta pública, son los idóneos para obtener resultados congruentes entre el gasto público ejercido y el presupuesto de egresos del Poder Judicial;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -4889,11 +5133,11 @@ La Coordinación de Auditoría tendrá como función realizar las auditorías o 
 
 La Coordinación de Control Interno tendrá a su cargo vigilar y participar en el fortalecimiento del Sistema de Control Interno de las áreas y órganos del Poder Judicial, de conformidad con las disposiciones normativas aplicables.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-###### Artículo 165 Quater.
+###### Artículo 165 Quáter.
 
-La Coordinación de Investigación tendrá a su cargo prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas, en el ámbito de su competencia.
+La Coordinación de Investigación tendrá a su cargo investigar actos u omisiones que pudieran constituir responsabilidades administrativas, en el ámbito de su competencia.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -5093,11 +5337,21 @@ IV. Realizar los trámites jurídicos necesarios para hacer efectivas las fianza
 
 V. Llevar a cabo los trámites jurídicos necesarios para hacer efectivas las penalizaciones y las rescisiones en caso de incumplimiento de las obligaciones contractuales que se pacten en beneficio de la Institución, así como los relativos a las terminaciones anticipadas de los contratos, coadyuvando con las demás áreas en los procedimientos licitatorios y de concursos;
 
-VI. Llevar a cabo los trámites jurídicos necesarios para mantener actualizada la documentación inherente al patrimonio inmobiliario de la institución; y,
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+VI. Llevar a cabo los trámites jurídicos necesarios para mantener actualizada la documentación inherente al patrimonio inmobiliario de la institución;
 
-VII. Las demás que le encomienden el Pleno del Tribunal Superior de Justicia y la Magistrada o el Magistrado que lo presida, las que se determinen en el Reglamento y normatividad aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VII. Realizar, previa autorización del Pleno del Órgano de Administración Judicial, mediante acuerdos generales, adquisiciones, arrendamientos, enajenaciones, donaciones y cesiones de todo tipo de bienes, conforme a la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VIII. Resguardar la documentación inherente a los bienes del Poder Judicial; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+IX. Las demás que le encomienden el Pleno del Tribunal Superior de Justicia y la Magistrada o el Magistrado que lo presida, las que se determinen mediante acuerdos generales, en el Reglamento y normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -5167,65 +5421,87 @@ VI. No haber sido declarada como persona deudora alimentaria morosa, salvo que a
 
 La Unidad de Transparencia tendrá las funciones siguientes:
 
-I. Recabar, transparentar y actualizar la información pública de oficio a que se refiere la ley en la materia;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+I. Recabar y difundir la información, y supervisar que las áreas la actualicen periódicamente, conforme las disposiciones jurídicas aplicables;
 
 II. Asesorar y orientar a quienes lo requieren, en la elaboración de las solicitudes de información, así como en los trámites para hacer efectivo el ejercicio de su derecho de acceso a la misma;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-III. Recibir, tramitar y resolver, previa consulta del área generadora o poseedora de la información, las solicitudes de acceso a la información pública, así como darles seguimiento hasta la entrega de dicha información en la forma que lo haya pedido el interesado conforme a la ley;
+III. Recibir y dar trámite a las solicitudes de acceso a la información, previa consulta del área generadora o poseedora de la información, así como dar seguimiento hasta la entrega de dicha información en la forma que lo haya requerido el interesado conforme a la ley;
 
-IV. Coordinar, organizar, administrar, custodiar y sistematizar los archivos que contengan la información pública a su cargo, respetando en todo momento los lineamientos que al efecto dicte el Órgano garante en la materia;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+IV. Coordinar, organizar, administrar, custodiar y sistematizar los archivos que contengan la información pública generada por la Unidad, respetando en todo momento los lineamientos que al efecto dicte el Órgano garante en la materia;
 
-V. Llevar el registro y actualizar mensualmente las solicitudes de acceso a la información, así como sus trámites, resoluciones, costos de producción o envío y resultados;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-VI. Efectuar las notificaciones correspondientes a los solicitantes en el término del reglamento de la ley;
+V. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
 
-VII. Proponer los procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-VIII. Elaborar un catálogo de información o de expedientes clasificados, el cual deberá ser actualizado por lo menos cada seis meses;
+VI. Efectuar las notificaciones a las personas solicitantes en los términos señalados por el marco jurídico aplicable;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VII. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VIII. Elaborar un catálogo de información o de expedientes clasificados, actualizándolo, por lo menos cada seis meses;
 
 IX. Verificar en cada caso, que la información solicitada no esté clasificada como reservada o confidencial;
 
 X. Recibir las solicitudes de aclaración, la acción de protección de datos personales, dándoles el seguimiento que corresponde;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XI. Coordinarse con los órganos jurisdiccionales y áreas correspondientes, para el cumplimiento en la difusión de las sentencias en versión digital, garantizando su publicidad y acceso universal, de conformidad con la ley de la materia, los criterios de la Suprema Corte de Justicia de la Nación y de la Corte Interamericana de Derechos Humanos;
+XI. Coordinarse con los órganos jurisdiccionales y áreas correspondientes, para el cumplimiento en la difusión de las sentencias en versión digital, garantizando su publicidad y acceso universal, de conformidad con el marco jurídico aplicable en la materia;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
 XII. Dar cumplimiento a las determinaciones del Comité de Transparencia del Poder Judicial del Estado de Tabasco;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XIII. Recabar, validar, reproducir, publicar y difundir la información generada por los órganos y áreas del Poder Judicial, que no tenga el carácter de reservada o confidencial, de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco y dentro de los plazos establecidos en esta;
+XIII. Supervisar el cumplimiento de las obligaciones legales en materia de transparencia y acceso a la información pública y protección de datos personales, por parte del personal responsable del Poder Judicial, e informar al titular del área correspondiente cuando se presente o detecte algún incumplimiento;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XIV. Supervisar el cumplimiento de las obligaciones legales en materia de transparencia y acceso a la información pública y protección de datos personales, por parte del personal responsable del Poder Judicial, e informar al titular del área correspondiente cuando se presente o detecte algún incumplimiento;
+XIV. Someter a la consideración del Comité de Transparencia los asuntos que requieran su autorización y ejecutar los acuerdos respectivos para su tramitación;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XV. Someter a la consideración del Comité de Transparencia los asuntos que requieran su autorización y ejecutar los acuerdos respectivos para su tramitación;
+XV. Organizar campañas entre el personal para la difusión de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XVI. Organizar campañas entre el personal para la difusión de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco;
+XVI. Promover la capacitación del personal responsable de rendir información, en materia de Acceso a la Información Pública, el ejercicio del derecho a la protección de datos personales y demás temas relacionados en la materia;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XVII. Promover la capacitación del personal responsable de rendir información, en materia de Acceso a la Información Pública, el ejercicio del derecho a la protección de datos personales y demás temas relacionados en la materia;
+XVII. Rendir los informes peticionados en ejercicio del derecho de acceso a la información pública, así como los correspondientes a los derechos de Acceso, Rectificación, Cancelación y Oposición;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XVIII. Rendir los informes peticionados en ejercicio del derecho de acceso a la información pública, así como los correspondientes a los derechos de Acceso, Rectificación, Cancelación y Oposición; y
+XVIII. Auxiliar y orientar a las personas particulares en la elaboración de solicitudes de acceso a la información, conforme a las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XIX. Las demás que le encomienden los Plenos del Tribunal Superior de Justicia y del Órgano de Administración Judicial, y las que se determinen en el Reglamento, Acuerdos Generales y normatividad aplicable.
+XIX. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XX. Promover e implementar políticas de transparencia con sentido social procurando su accesibilidad;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XXI. Fomentar la transparencia y accesibilidad al interior del Sujeto Obligado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XXII. Las demás que le encomienden los Plenos del Tribunal Superior de Justicia y del Órgano de Administración Judicial de acuerdo a lo que determine la normatividad aplicable.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -5425,7 +5701,13 @@ La Unidad de Supervisión de Obra tendrá las funciones siguientes:
 
 I. Revisar contratos, procedimientos de concursos o licitaciones de obra, con el auxilio de la Dirección Jurídica;
 
-II. Revisar que los anticipos, las garantías, las estimaciones y avances de obra, los proyectos ejecutivos, se cumplan en tiempo y forma; asimismo que los expedientes y demás documentación en la materia se encuentren debidamente integrados;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+II. Revisar que los anticipos, las garantías, las estimaciones y avances de obra, los proyectos ejecutivos, se cumplan en tiempo y forma.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Asimismo, verificar que los expedientes y demás documentación en la materia de obra pública se encuentren debidamente integrados;
 
 III. Comunicar oportunamente a la Dirección Jurídica cualquier incumplimiento en los contratos de obra, para los efectos legales que correspondan;
 
@@ -5455,9 +5737,9 @@ IX. Emitir las decisiones técnicas correspondientes y necesarias para la correc
 
 X. Llevar la bitácora de obras, la cual estará bajo su resguardo y le servirá de medio para girar las instrucciones pertinentes, así como recibir las solicitudes que le formule el contratista de que se trate;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XI. Vigilar y controlar la calidad, costo, tiempo y apego a los programas de ejecución de cada obra, en proporción a los avances, recursos asignados y rendimientos pactados en el contrato;
+XI. Vigilar y controlar la calidad, costo, tiempo y apego a los programas de ejecución de cada obra, de conformidad con los avances físicos-financieros y los recursos autorizados para su ejecución;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -5483,13 +5765,37 @@ XVI. Tramitar con el auxilio de la Dirección Jurídica los convenios modificato
 
 XVII. Rendir informes periódicos y el informe final sobre el cumplimiento legal, técnico, económico, financiero y administrativo del contratista;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XVIII. Verificar la correcta conclusión de los trabajos y que se entreguen en condiciones de operación, adjuntando los planos de la construcción final, los certificados de garantía de calidad y funcionamiento de los bienes instalados, así como los manuales instructivos de operación y mantenimiento; y
+XVIII. Verificar la correcta conclusión de los trabajos y que se entreguen en condiciones de operación, adjuntando los planos de la construcción final, los certificados de garantía de calidad y funcionamiento de los bienes instalados, así como los manuales instructivos de operación y mantenimiento;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-XIX. Las demás que le encomienden el Pleno del Órgano de Administración Judicial, la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia y las que se determinen en el Reglamento, los Acuerdos Generales y normatividad aplicable.
+XIX. Proponer al comité de obras los requisitos que se deben cumplirse para la inscripción en el Registro Único de Contratistas del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XX. Auxiliar en la recepción, revisión e integración de la documentación presentada por los interesados;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XXI. Efectuar previa autorización del comité de obra, las inscripciones que resulten procedentes al Registro Único de Contratistas;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XXII. Mantener actualizado el padrón de contratistas;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XXIII. Auxiliar al Comité de obra en la organización de las sesiones;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XXIV. Elaborar las actas de las sesiones del Comité de obras; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+XXV. Las demás que le encomienden el Pleno del Órgano de Administración Judicial, la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia y las que se determinen en el Reglamento, los Acuerdos Generales y normatividad aplicable.
 
 ### CAPÍTULO XVI. DEL CENTRO DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL
 
@@ -6535,7 +6841,9 @@ Las notificaciones personales se realizarán directamente al interesado, su repr
 
 La notificación personal también podrá llevarse a cabo por cualquier medio electrónico o a través de mensajería autorizada, debiéndose recabar constancia que demuestre que el servidor público quedó debidamente notificado.
 
-Excepcionalmente, las notificaciones a los servidores públicos probables responsables que hayan dejado de laborar en el Poder Judicial o se encuentren disfrutando de licencia mayor a tres meses, se realizarán en el domicilio particular registrado en su expediente personal.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Excepcionalmente, las notificaciones a los servidores públicos presuntos responsables que hayan dejado de laborar en el Poder Judicial o se encuentren disfrutando de licencia mayor a tres meses, se realizarán en el domicilio particular registrado en su expediente personal.
 
 Cuando la notificación deba realizarse en el domicilio particular, el notificador estará obligado a cerciorarse, por cualquier medio, que la persona a notificar vive en la casa designada y, después de ello, practicará la diligencia entregándole al servidor público copia autorizada de la resolución correspondiente, de todo lo cual se asentará razón en autos.
 
@@ -6703,11 +7011,11 @@ III. Cuando se ponga en riesgo la adecuada prestación del servicio público inh
 
 IV. Cuando por su permanencia en el cargo, el investigado pudiese entorpecer el desarrollo de la investigación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 246.
 
-La suspensión temporal surtirá efectos desde el momento de su notificación y no podrá exceder de treinta días naturales tratándose de faltas no graves y de noventa días naturales, tratándose de faltas graves.
+La suspensión temporal surtirá efectos desde el momento de su notificación, podrá mantenerse vigente durante todo el proceso de investigación y substanciación y dejará de surtir sus efectos hasta en tanto el Tribunal de Disciplina Judicial acuerde lo conducente.
 
 La resolución que determine la suspensión temporal de un servidor público, se notificará personalmente por conducto del servidor público que al efecto se designe.
 
@@ -6831,9 +7139,9 @@ Las denuncias podrán ser anónimas. En su caso, las autoridades investigadoras 
 
 Las autoridades investigadoras establecerán áreas de fácil acceso, para que cualquier interesado pueda presentar denuncias por presuntas faltas administrativas.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-La denuncia deberá contener los datos o indicios que permitan advertir la presunta responsabilidad administrativa por la comisión de faltas administrativas, y podrán ser presentadas de manera electrónica a través de los mecanismos que para tal efecto establezca mediante acuerdos generales el Pleno del Órgano de Administración Judicial.
+La denuncia deberá contener los datos o indicios que permitan advertir la presunta responsabilidad administrativa por la comisión de faltas administrativas, y podrán ser presentadas de manera electrónica a través de los mecanismos que para tal efecto establezca mediante acuerdos emitidos por el Pleno del Tribunal de Disciplina Judicial.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -6891,11 +7199,11 @@ Una vez calificada la conducta en los términos del párrafo anterior, se inclui
 
 Si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar. Dicha determinación, en su caso, se notificará a los Servidores Públicos y particulares sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables, dentro los diez días hábiles siguientes a su emisión.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 259 Bis.
 
-La calificación de los hechos como faltas administrativas no graves que realicen las autoridades investigadoras, será notificada al denunciante, cuando este fuere identificable. Además de establecer la calificación que se le haya dado a la presunta falta, la notificación también contendrá de manera expresa la forma en que el notificado podrá acceder al expediente de probable responsabilidad administrativa. La calificación y la abstención podrán ser impugnadas, en su caso, por el denunciante, mediante el recurso de inconformidad conforme a las disposiciones establecidas en esta Ley. La presentación del recurso tendrá como efecto que no se inicie el procedimiento de responsabilidad administrativa hasta en tanto este sea resuelto.
+La calificación de los hechos como faltas administrativas no graves que realicen las autoridades investigadoras, será notificada al denunciante, cuando este fuere identificable. Además de establecer la calificación que se le haya dado a la presunta falta, la notificación también contendrá de manera expresa la forma en que el notificado podrá acceder al expediente de presunta responsabilidad administrativa. La calificación y la abstención podrán ser impugnadas, en su caso, por el denunciante, mediante el recurso de inconformidad conforme a las disposiciones establecidas en esta Ley. La presentación del recurso tendrá como efecto que no se inicie el procedimiento de responsabilidad administrativa hasta en tanto este sea resuelto.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -6915,11 +7223,11 @@ El escrito de impugnación deberá presentarse ante la autoridad investigadora q
 
 En caso de que el escrito por el que se interponga el recurso de inconformidad fuera obscuro o irregular, el Tribunal de Disciplina Judicial requerirá al promovente para que subsane las deficiencias o realice las aclaraciones que corresponda, para lo cual le concederán un término de cinco días hábiles. De no subsanar las deficiencias o aclaraciones en el plazo antes señalado el recurso se tendrá por no presentado.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 259 Sexies.
 
-En caso de que el Tribunal de Disciplina Judicial tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad; o bien, cuando el escrito cumpla con los requisitos señalados en esta Ley, admitirán dicho recurso y darán vista al probable infractor para que en el término de cinco días hábiles manifieste lo que a su derecho convenga.
+En caso de que el Tribunal de Disciplina Judicial tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad; o bien, cuando el escrito cumpla con los requisitos señalados en esta Ley, admitirán dicho recurso y darán vista al presunto responsable para que en el término de cinco días hábiles manifieste lo que a su derecho convenga.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -6927,11 +7235,11 @@ En caso de que el Tribunal de Disciplina Judicial tenga por subsanadas las defic
 
 Una vez subsanadas las deficiencias o aclaraciones o si no existieren, el Tribunal de Disciplina Judicial resolverá el recurso de inconformidad en un plazo no mayor a treinta días hábiles.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 259 Octies.
 
-El recurso será resuelto tomando en consideración la investigación que conste en el expediente de probable responsabilidad administrativa y los elementos que aporten el denunciante o el probable infractor. Contra la resolución que se dicte no procederá recurso alguno.
+El recurso será resuelto tomando en consideración la investigación que conste en el expediente de presunta responsabilidad administrativa y los elementos que aporten el denunciante o el presunto responsable. Contra la resolución que se dicte no procederá recurso alguno.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -6981,9 +7289,9 @@ La prescripción se interrumpirá con la calificación de las faltas.
 
 Si se dejare de actuar en los procedimientos de responsabilidad administrativa originados con motivo de la admisión del Informe de Presunta Responsabilidad Administrativa y como consecuencia de ello se produjera la caducidad de la instancia, la prescripción se reanudará desde el día en que se admitió el referido informe.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-En ningún caso, en los procedimientos de responsabilidad administrativa podrá dejar de actuarse por más de seis meses sin causa justificada; de actualizarse dicha inactividad, se decretará, a solicitud del probable infractor, la caducidad de la instancia.
+En ningún caso, en los procedimientos de responsabilidad administrativa podrá dejar de actuarse por más de seis meses sin causa justificada; de actualizarse dicha inactividad, se decretará, a solicitud del presunto responsable, la caducidad de la instancia.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -7005,15 +7313,19 @@ II. El domicilio de la autoridad investigadora para oír y recibir notificacione
 
 III. El nombre o nombres de las o los servidores públicos que podrán imponerse de los autos del expediente de responsabilidad administrativa por parte de la autoridad investigadora, precisando el alcance que tendrá la autorización otorgada;
 
-IV. El nombre y domicilio de la o el servidor público a quien se señale como probable responsable, así como el órgano o área al que se encuentre adscrito y el cargo que ahí desempeñe. En caso de que los probables responsables sean particulares, se deberá señalar su nombre o razón social, así como el domicilio donde podrán ser emplazados;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+IV. El nombre y domicilio de la o el servidor público a quien se señale como probable responsable, así como el órgano o área al que se encuentre adscrito y el cargo que ahí desempeñe. En caso de que los presuntos responsables sean particulares, se deberá señalar su nombre o razón social, así como el domicilio donde podrán ser emplazados;
 
 V. La narración lógica y cronológica de los hechos que dieron lugar a la comisión de la presunta falta administrativa;
 
-VI. La infracción que se imputa a la persona señalada como probable responsable, señalando con claridad las razones por las que se considera que ha cometido la falta;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-VII. Las pruebas que se ofrecerán en el procedimiento de responsabilidad administrativa, para acreditar la comisión de la falta administrativa, y la responsabilidad que se atribuye al señalado como probable responsable.
+VI. La infracción que se imputa a la persona señalada como presunto responsable, señalando con claridad las razones por las que se considera que ha cometido la falta;
 
-Las pruebas documentales que obren en su poder, o bien, aquellas que, no estándolo, se acredite con el acuse de recibo correspondiente debidamente sellado, que las solicitó oportunamente;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VII. Las pruebas que se ofrecerán en el procedimiento de responsabilidad administrativa, para acreditar la comisión de la falta administrativa, y la responsabilidad que se atribuye al señalado como presunto responsable.
 
 VIII. La solicitud de medidas cautelares, de ser el caso, y
 
@@ -7067,7 +7379,9 @@ I. Cuando la falta administrativa haya prescrito;
 
 II. Cuando los hechos o las conductas materia del procedimiento no fueran de competencia de las autoridades substanciadoras o resolutoras del asunto. En este caso, mediante oficio, el asunto se deberá hacer del conocimiento a la autoridad que se estime competente;
 
-III. Cuando las faltas administrativas que se imputen al probable responsable ya hubieran sido objeto de una resolución que haya causado ejecutoria pronunciada por las autoridades resolutoras del asunto, siempre que el señalado como probable responsable sea el mismo en ambos casos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+III. Cuando las faltas administrativas que se imputen al presunto responsable ya hubieran sido objeto de una resolución que haya causado ejecutoria pronunciada por las autoridades resolutoras del asunto, siempre que el señalado como presunto responsable sea el mismo en ambos casos;
 
 IV. Cuando de los hechos que se refieran en el Informe de Presunta Responsabilidad Administrativa, no se advierta la comisión de faltas administrativas; y
 
@@ -7093,9 +7407,13 @@ Procederá el sobreseimiento en los casos siguientes:
 
 I. Cuando se actualice o sobrevenga cualquiera de las causas de improcedencia previstas en esta Ley;
 
-II. Cuando por virtud de una reforma legislativa, la falta administrativa que se imputa al probable responsable haya quedado derogada; o
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-III. Cuando el señalado como probable responsable muera durante el procedimiento de responsabilidad administrativa.
+II. Cuando por virtud de una reforma legislativa, la falta administrativa que se imputa al presunto responsable haya quedado derogada;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+III. Cuando el señalado como presunto responsable muera durante el procedimiento de responsabilidad administrativa; o,
 
 IV. Cuando las partes tengan conocimiento de alguna causa de sobreseimiento, la comunicarán de inmediato a la autoridad substanciadora o resolutora, según corresponda, y de ser posible, acompañarán las constancias que la acrediten.
 
@@ -7119,13 +7437,13 @@ Son partes en el procedimiento de responsabilidad administrativa:
 
 I. La autoridad investigadora;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-II. El servidor público señalado como probable responsable de la falta administrativa;
+II. El servidor público señalado como presunto responsable de la falta administrativa;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-III. El particular, sea persona física o moral, señalado como probable responsable en la comisión de faltas de particulares; y
+III. El particular, sea persona física o moral, señalado como presunto responsable en la comisión de faltas de particulares; y
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -7157,13 +7475,17 @@ En los asuntos relacionados con faltas administrativas, se deberá proceder en l
 
 I. La autoridad investigadora deberá presentar ante la autoridad substanciadora el Informe de Presunta Responsabilidad Administrativa, la cual, dentro de los tres días siguientes se pronunciará sobre su admisión, pudiendo prevenir a la autoridad investigadora para que subsane las omisiones que advierta, o que aclare los hechos narrados en el informe;
 
-II. En el caso de que la autoridad substanciadora admita el Informe de Presunta Responsabilidad Administrativa, ordenará el emplazamiento del probable responsable, debiendo citarlo para que comparezca personalmente a la celebración de la audiencia inicial, señalando con precisión el día, lugar y hora en que tendrá lugar dicha audiencia, así como la autoridad ante la que se llevará a cabo. Del mismo modo, le hará saber el derecho que tiene de no declarar contra de sí mismo ni a declararse culpable; de defenderse personalmente o ser asistido por un defensor perito en la materia y que, de no contar con un defensor, le será nombrado un defensor público;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+II. En el caso de que la autoridad substanciadora admita el Informe de Presunta Responsabilidad Administrativa, ordenará el emplazamiento del presunto responsable, debiendo citarlo para que comparezca personalmente a la celebración de la audiencia inicial, señalando con precisión el día, lugar y hora en que tendrá lugar dicha audiencia, así como la autoridad ante la que se llevará a cabo. Del mismo modo, le hará saber el derecho que tiene de no declarar contra de sí mismo ni a declararse culpable; de defenderse personalmente o ser asistido por un defensor perito en la materia y que, de no contar con un defensor, le será nombrado un defensor público;
 
 III. Entre la fecha del emplazamiento y la de la audiencia inicial deberá mediar un plazo no menor de diez ni mayor de quince días hábiles. El diferimiento de la audiencia sólo podrá otorgarse por causas de caso fortuito o de fuerza mayor debidamente justificadas; en aquellos casos en que justificadamente se solicite o a juicio de la autoridad;
 
 IV. Previo a la celebración de la audiencia inicial, la Autoridad substanciadora deberá citar a las demás partes que deban concurrir al procedimiento, cuando menos con setenta y dos horas de anticipación;
 
-V. El día y hora señalado para la audiencia inicial el probable responsable rendirá su declaración por escrito o verbalmente, y deberá ofrecer las pruebas que estime necesarias para su defensa. En caso de tratarse de pruebas documentales, deberá exhibir todas las que tenga en su poder, o las que no estándolo, conste que las solicitó mediante el acuse de recibo correspondiente. Tratándose de documentos que obren en poder de terceros y que no pudo conseguirlos por obrar en archivos privados, deberá señalar el archivo donde se encuentren o la persona que los tenga a su cuidado para que, en su caso, le sean requeridos en los términos previstos en esta Ley;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+V. El día y hora señalado para la audiencia inicial el presunto responsable rendirá su declaración por escrito o verbalmente, y deberá ofrecer las pruebas que estime necesarias para su defensa. En caso de tratarse de pruebas documentales, deberá exhibir todas las que tenga en su poder, o las que no estándolo, conste que las solicitó mediante el acuse de recibo correspondiente. Tratándose de documentos que obren en poder de terceros y que no pudo conseguirlos por obrar en archivos privados, deberá señalar el archivo donde se encuentren o la persona que los tenga a su cuidado para que, en su caso, le sean requeridos en los términos previstos en esta Ley;
 
 VI. Los terceros llamados al procedimiento de responsabilidad administrativa, a más tardar durante la audiencia inicial, podrán manifestar por escrito o verbalmente lo que a su derecho convenga y ofrecer las pruebas que estimen conducentes, debiendo exhibir las documentales que obren en su poder, o las que no estándolo, conste que las solicitaron mediante el acuse de recibo correspondiente.
 
@@ -7177,9 +7499,9 @@ IX. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no exist
 
 X. Una vez trascurrido el período de alegatos, la autoridad resolutora del asunto, de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello;
 
-XI. La resolución, deberá notificarse personalmente al probable responsable.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
+XI. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
 
 ###### Artículo 267.
 
@@ -7275,7 +7597,9 @@ V. La valoración de las pruebas admitidas y desahogadas;
 
 VI. Las consideraciones lógico jurídicas que sirven de sustento para la emisión de la resolución. En el caso de que se hayan ocasionado daños y perjuicios a la Hacienda Pública, o al patrimonio del Poder Judicial del Estado, se deberá señalar la existencia de la relación de causalidad entre la conducta calificada como falta administrativa o falta de particulares y la lesión producida; la valoración del daño o perjuicio causado; así como la determinación del monto de la indemnización, explicitando los criterios utilizados para su cuantificación;
 
-VII. El relativo a la existencia o inexistencia de los hechos que la ley señale como falta administrativa grave o falta de particulares y, en su caso, la responsabilidad plena del servidor público o particular vinculado con dichas faltas. Cuando derivado del conocimiento del asunto, la autoridad resolutora advierta la probable comisión de faltas administrativas, imputables a otra u otras personas, podrá ordenar en su fallo que las autoridades investigadoras inicien la investigación correspondiente;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VII. El relativo a la existencia o inexistencia de los hechos que la ley señale como falta administrativa grave o falta de particulares y, en su caso, la responsabilidad plena del servidor público o particular vinculado con dichas faltas. Cuando derivado del conocimiento del asunto, la autoridad resolutora advierta la presunta comisión de faltas administrativas, imputables a otra u otras personas, podrá ordenar en su fallo que las autoridades investigadoras inicien la investigación correspondiente;
 
 VIII. La determinación de la sanción para el servidor público que haya sido declarado plenamente responsable o particular vinculado en la comisión de la falta administrativa grave;
 
@@ -7311,11 +7635,11 @@ Para el trámite de los procedimientos de responsabilidad es aplicable, de maner
 
 #### SECCIÓN PRIMERA. DE LA REVOCACIÓN
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 277 Bis.
 
-Los Servidores Públicos que resulten responsables por la comisión de faltas administrativas no graves en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto en la presente Ley, podrán interponer el recurso de revocación ante la autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
+Los Servidores Públicos que resulten responsables por la comisión de faltas administrativas en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto en la presente Ley, podrán interponer el recurso de revocación ante la autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -7393,7 +7717,9 @@ Procederá el recurso de apelación contra las resoluciones siguientes:
 
 I. La que determine imponer sanciones por la comisión de faltas administrativas graves o faltas de particulares, y
 
-II. La que determine que no existe responsabilidad administrativa por parte de los probables infractores, ya sean servidores públicos o particulares.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+II. La que determine que no existe responsabilidad administrativa por parte de los presuntos responsables, ya sean servidores públicos o particulares.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -7401,7 +7727,9 @@ II. La que determine que no existe responsabilidad administrativa por parte de l
 
 La instancia que conozca de la apelación deberá resolver en el plazo de tres días hábiles si admite el recurso, o lo desecha por encontrar motivo manifiesto e indudable de improcedencia.
 
-Si hubiera irregularidades en el escrito del recurso por no haber satisfecho los requisitos establecidos en el artículo 277 Sexies de esta Ley, se señalará al promovente en un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Si hubiera irregularidades en el escrito del recurso por no haber satisfecho los requisitos establecidos en el artículo 277 Septies de esta Ley, se señalará al promovente en un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.
 
 La autoridad resolutora dará vista a las partes para que, en el término de tres días hábiles, manifiesten lo que a su derecho convenga; transcurrido este término se turnará al Pleno del Tribunal de Disciplina Judicial para que resuelva con los elementos que obren en autos.
 
@@ -7565,13 +7893,17 @@ Las ausencias de los Servidores del Poder Judicial se suplirán:
 
 I. Las de la Magistrada o el Magistrado que preside el Tribunal Superior de Justicia, por el Magistrado o Magistrada que elija el Pleno, a propuesta del Presidente o Presidenta, si excede de treinta días; en las de menor tiempo, por la o el Magistrado de mayor antigüedad, en su orden;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-II. Las temporales de las y los Magistrados del Tribunal Superior de Justicia, a partir de treinta días hasta por un año, por la persona que designe el Pleno del Tribunal Superior de Justicia, a propuesta de la Magistrada o el Magistrado que lo preside; En las absolutas se estará a lo dispuesto por la Constitución del Estado;
+II. Las temporales de las y los Magistrados del Tribunal Superior de Justicia, a partir de treinta días hasta por un año, por la persona que designe el Pleno del Tribunal Superior de Justicia, a propuesta de la Magistrada o el Magistrado que lo preside;
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
 Las temporales de los Magistrados del Tribunal Superior de Justicia de menos de treinta días, por el Magistrado o la Magistrada que designe su Pleno, a propuesta de la Magistrada o Magistrado que lo preside;
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Las definitivas por renuncia o defunción de las y los Magistrados del Tribunal Superior de Justicia por la persona que designe el Pleno del Tribunal Superior de Justicia, a propuesta de la Magistrada o el Magistrado que lo preside, hasta que dicha vacante sea votada en la siguiente elección judicial.
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -7681,19 +8013,25 @@ A los servidores públicos del Poder Judicial que teniendo la obligación de exc
 
 Las excusas de los Magistrados y del Secretario General de Acuerdos serán calificadas por sus respectivos Plenos.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Las excusas de los jueces las calificará la Sala respectiva según la materia, y por el turno que corresponda, quien dará cuenta al Pleno del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 Las excusas de la autoridad investigadora y substanciadora del Tribunal de Disciplina Judicial serán calificadas por el Pleno de este Tribunal.
 
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 Las de los Secretarios, Proyectistas y Auxiliares de Sala, por el Pleno de la Sala de su adscripción, quien dará cuenta al Pleno del Tribunal.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 La de los Secretarios, Proyectistas y Conciliadores de los órganos jurisdiccionales de Primera Instancia, por los titulares de éstos, quienes darán cuenta al Pleno del Órgano de Administración Judicial.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-Las excusas de los integrantes del Órgano de Administración Judicial, del Secretario General de Acuerdos, de la autoridad investigadora y substanciadora de la Contraloría serán calificadas por el Pleno del Órgano.
+Las excusas de los integrantes del Órgano de Administración Judicial, del Secretario General de Acuerdos, de la autoridad investigadora y substanciadora de la Contraloría serán calificadas por el Pleno del Órgano de Administración Judicial.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
@@ -7859,13 +8197,17 @@ Las erogaciones que genere el otorgamiento de estímulos y recompensas serán a 
 
 El Fondo Auxiliar para la Administración de Justicia se integrará con las percepciones que obtenga el Tribunal Superior de Justicia en el manejo de depósitos y fianzas por conducto de su Tesorería y cualquier otro valor que perciba conforme a otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 322.
 
-El Patrimonio del Fondo se destinará a sufragar los gastos que se originen con motivo de:
+El patrimonio del Fondo Auxiliar para la Administración de Justicia, se destinará a sufragar los gastos que se originen con motivo de:
 
 I. El otorgamiento de estímulos y recompensas al personal del Poder Judicial;
 
-II. La adquisición de mobiliarios, equipos y libros, así como la construcción y mejoramientos de edificios destinados a oficinas del Poder Judicial, cuando las partidas presupuestales sean insuficientes y las necesidades así lo exijan;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+II. La adquisición de materiales y suministros, servicios generales, bienes muebles, inmuebles e intangibles, así como la contratación de inversión pública, cuando las necesidades así lo exijan para el desempeño de las actividades vinculadas con la administración de justicia y la función jurisdiccional;
 
 III. La impartición de cursos de capacitación y mejoramiento profesional, seminarios y conferencias a los servidores del Poder Judicial;
 
@@ -8152,3 +8494,29 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 284 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, INCISO E) DE LA FRACCIÓN I; 4, PÁRRAFOS TERCERO Y CUARTO; 6; 20; 21, FRACCIÓN XXIX; 23 QUÁTER, PÁRRAFO PRIMERO; 23 QUINQUIES; 23 SEXIES, FRACCIONES I, II, III, IV, V, VI, VII Y VIII ; 23 SEPTIES, FRACCIONES I Y V; 29; 53, LAS FRACCIONES IV Y V; 73 BIS, INCISOS O) Y P); 77, FRACCIONES II, IV Y X DEL PÁRRAFO SEGUNDO; 78, FRACCIÓN I DEL PÁRRAFO SEGUNDO; 94, PÁRRAFOS SÉPTIMO Y DÉCIMO; 97, FRACCIONES I, PÁRRAFO PRIMERO, VI, XXI, XXXII, XXXV, LXV, LXXII Y LXXIII; 99, PÁRRAFO PRIMERO; 106 SEXVICIES, PÁRRAFO PRIMERO; 106 OCTOVICIES, FRACCIONES I, IV Y VIII; 106 NOVOVICIES; 126, FRACCIONES VIII Y XII; 129, FRACCIÓN XII; 130; 132; 151, FRACCIÓN XIX; 157; LA DENOMINACIÓN DEL CAPÍTULO IX DEL TÍTULO SEXTO; 158; 159; 160, PRIMER PÁRRAFO; 160 BIS, INCISOS A), B) Y C) DEL PÁRRAFO PRIMERO, PÁRRAFO SEGUNDO Y SUS FRACCIONES I Y II; 160 TER; 160 QUÁTER; 161; 162, PÁRRAFOS PRIMERO Y SEGUNDO; 164, FRACCIONES XVIII, XXX Y XXXVI; 165 QUÁTER; 169, FRACCIONES VI Y VII; 173, FRACCIONES I, III, IV, V, VI, VII, VIII, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX; 179, FRACCIONES II, XI, XVIII Y XIX; 230, PÁRRAFO TERCERO; 246, PÁRRAFO PRIMERO; 254, PÁRRAFO SEXTO; 259 BIS; 259 SEXIES; 259 OCTIES; 260, PÁRRAFO CUARTO; 260 BIS, FRACCIONES IV, VI Y VII; 260 SEPTIES, FRACCIÓN III; 260 NONIES, FRACCIONES II Y III; 261, FRACCIONES II Y III DEL PÁRRAFO TERCERO; 266, FRACCIONES II, V Y XI; 274 QUÁTER, FRACCIÓN VII; 277 BIS; 277 OCTIES, FRACCIÓN II; 277 NONIES, PÁRRAFO SEGUNDO; 297, PÁRRAFO PRIMERO DE LA FRACCIÓN II DEL PÁRRAFO PRIMERO; 299, PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO; 322, PRIMER PÁRRAFO Y SU FRACCIÓN II; SE ADICIONAN UN PÁRRAFO QUINTO AL ARTÍCULO 4; UN PÁRRAFO SEGUNDO A LA FRACCIÓN XIX DEL ARTÍCULO 16; LAS FRACCIONES IX, X, XI Y XII AL ARTÍCULO 23 SEXIES; EL ARTÍCULO 23 OCTIES; LOS INCISOS Q), R) Y S) AL PÁRRAFO PRIMERO DEL ARTÍCULO 73 BIS; LOS PÁRRAFOS DÉCIMO PRIMERO, DÉCIMO SEGUNDO, DÉCIMO TERCERO, DÉCIMO CUARTO, DÉCIMO QUINTO Y DÉCIMO SEXTO AL ARTÍCULO 94; UN PÁRRAFO SEGUNDO A LA FRACCIÓN VI, UN PÁRRAFO SEGUNDO A LA FRACCIÓN LXV Y LA FRACCIÓN LXXIV AL ARTÍCULO 97; UN PÁRRAFO QUINTO AL ARTÍCULO 99; UN PÁRRAFO QUINTO AL ARTÍCULO 106 BIS; UN PÁRRAFO SEGUNDO A LA FRACCIÓN XII DEL ARTÍCULO 129; 159 BIS; 159 TER; 160 QUINQUIES; 160 SEXIES; UN TERCER PÁRRAFO AL ARTÍCULO 161; UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXX DEL ARTÍCULO 164; LAS FRACCIONES VIII Y IX AL ARTÍCULO 169; LAS FRACCIONES XX, XXI Y XXII AL ARTÍCULO 173; UN SEGUNDO PÁRRAFO A LA FRACCIÓN II, LAS FRACCIONES XX, XXI, XXII, XXIII, XXIV Y XXV AL ARTÍCULO 179; UN PÁRRAFO TERCERO A LA FRACCIÓN II DEL PÁRRAFO PRIMERO DEL ARTÍCULO 297 Y UN PÁRRAFO SÉPTIMO AL ARTÍCULO 299; Y SE DEROGAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 23 QUÁTER, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, el Centro de Especialización Judicial del Poder Judicial del Estado de Tabasco se transforma en la Universidad Judicial del Poder Judicial del Estado de Tabasco, conservando su naturaleza de órgano auxiliar del Órgano de Administración Judicial con autonomía técnica y de gestión.
+
+TERCERO. Todos los recursos humanos, materiales, financieros, tecnológicos, documentales y presupuestales asignados al Centro de Especialización Judicial pasarán a formar parte de la Universidad Judicial, sin necesidad de trámite adicional alguno.
+
+CUARTO. Las referencias realizadas en leyes, reglamentos, acuerdos, lineamientos, manuales, disposiciones administrativas y demás normativa vigente al Centro de Especialización Judicial se entenderán realizadas a la Universidad Judicial del Poder Judicial del Estado de Tabasco.
+
+QUINTO. Los derechos laborales de las personas servidoras públicas adscritas al Centro de Especialización Judicial serán respetados en términos de las disposiciones legales aplicables.
+
+SEXTO. Los estudios, cursos, diplomados, especialidades, maestrías, doctorados, certificaciones, constancias y demás actividades académicas iniciadas con anterioridad a la entrada en vigor del presente Decreto conservarán plenamente su validez y continuidad académica y administrativa.
+
+SÉPTIMO. El Pleno del Órgano de Administración Judicial realizará las adecuaciones presupuestales, administrativas y orgánicas necesarias para el debido funcionamiento de la Universidad Judicial.
+
+OCTAVO. En un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, el Pleno del Órgano de Administración Judicial deberá expedir el Reglamento Interior de la Universidad Judicial.
+
+NOVENO. En tanto se expiden las disposiciones reglamentarias correspondientes, continuarán aplicándose las normas vigentes en lo que no se opongan al presente Decreto.
+
+DÉCIMO. La persona titular del Centro de Especialización Judicial continuará en funciones y asumirá provisionalmente la titularidad de la Rectoría de la Universidad Judicial, hasta en tanto el Pleno del Órgano de Administración Judicial realice la designación correspondiente conforme a las disposiciones aplicables.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
