@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-revocacion-de-mandato-del-estado-de-tabasco-179577"
 country: "mx"
 rank: "ley"
 publication_date: "2025-04-16"
-last_updated: "2025-04-16"
+last_updated: "2026-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE REVOCACIÓN DE MANDATO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento Ñ del Número 1638 del Periódico Oficial del Estado de Tabasco, el miércoles 16 de abril de 2025.
 
@@ -397,7 +397,9 @@ El Instituto podrá designar, de manera adicional, a uno o más ciudadanos para 
 
 La jornada de revocación de mandato se regirá por el procedimiento establecido para la celebración de la jornada electoral, conforme a lo dispuesto en el Título Tercero del Libro Sexto de la Ley Electoral, con las particularidades que la presente sección dispone.
 
-La jornada de votación se llevará a cabo el domingo siguiente a los noventa días posteriores a la emisión de la Convocatoria y en una fecha que no coincida con las jornadas electorales federales o locales, de conformidad con la Convocatoria que para tal efecto emita el Consejo Estatal.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+La jornada de votación se llevará a cabo el primer domingo de junio del cuarto año del periodo constitucional de forma coincidente con las jornadas electorales, federal o locales, de conformidad con la Convocatoria que para tal efecto emita el Consejo Estatal.
 
 ###### Artículo 41.
 
@@ -568,3 +570,15 @@ SECRETARIO DE GOBIERNO
 JESÚS MANUEL ARGÁEZ DE LOS SANTOS
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 285 POR EL QUE “SE REFORMA EL ARTÍCULO 40, PÁRRAFO SEGUNDO, DE LA LEY DE REVOCACIÓN DE MANDATO DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. El Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco podrá emitir los acuerdos que estime necesarios para la organización, integración de la estructura, desarrollo, cómputo, vigilancia y fiscalización del proceso electoral del año 2028, garantizando el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales estatales observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. Las y los representantes de los partidos políticos ante el Consejo Estatal no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
