@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-prevenir-investigar-y-sancionar-el-delito-de-185852"
 country: "mx"
 rank: "ley"
 publication_date: "2026-02-25"
-last_updated: "2026-02-25"
+last_updated: "2026-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=185852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR EL DELITO DE EXTORSIÓN EN EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento O del Número 8710 del Periódico Oficial del Estado de Tabasco, el miércoles 25 de febrero de 2026.
 
@@ -123,13 +123,9 @@ Todas las autoridades del Estado, en el ámbito de sus competencias, están obli
 
 Los delitos vinculados al Delito de extorsión serán aquellos previstos en los artículos 19, 20, 21, 22, 23 y 24 de la Ley General.
 
-(NOTA: EL 20 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 44/2026, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE FEBRERO DE 2026 FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 234, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
 ###### Artículo 6.
 
-Persecución de oficio
-
-El Delito de extorsión y los delitos vinculados previstos en los artículos 19, 20, 21, 22, 23 y 24 de la Ley General se investigarán y perseguirán de oficio.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2026)
 
 ###### Artículo 7.
 
@@ -197,43 +193,17 @@ Investigación
 
 Una vez que se tenga conocimiento de la probable comisión del Delito de extorsión, las autoridades competentes, conforme a lo dispuesto en el Código Nacional, deberán llevar a cabo las acciones previstas en la Ley General.
 
-(NOTA: EL 20 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 44/2026, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE FEBRERO DE 2026 FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 234, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
 ###### Artículo 13.
 
-Medidas cautelares
-
-Además de las medidas cautelares contempladas en el Código Nacional, la persona juzgadora podrá imponer a la persona imputada la prohibición de contactar o comunicarse con la víctima, ofendido, testigos, empleando cualquier medio de comunicación, sistemas, equipos informáticos o medios digitales.
-
-Estas medidas cautelares tendrán una revisión oficiosa trimestral por parte de la persona juzgadora, en los términos previstos en los artículos 161 a 164 del Código Nacional.
-
-(NOTA: EL 20 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 44/2026, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE FEBRERO DE 2026 FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 234, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2026)
 
 ###### Artículo 14.
 
-Prisión preventiva oficiosa
-
-Las personas imputadas por la comisión del Delito de extorsión estarán sujetas a prisión preventiva oficiosa durante el proceso penal, siempre y cuando se le impute también la comisión de cualquiera de las conductas agravantes que se encuentran previstas en los artículos 17 y 18 de la Ley General.
-
-(NOTA: EL 20 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 44/2026, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE FEBRERO DE 2026 FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 234, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2026)
 
 ###### Artículo 15.
 
-Individualización de la pena
-
-Para la individualización de la pena por el Delito de extorsión y los delitos vinculados previstos en los artículos 19, 20, 21, 22, 23 y 24 de la Ley General, además de lo contemplado en el Código Penal para el Estado, deberá tomarse en consideración los elementos siguientes:
-
-I. La duración de la conducta;
-
-II. La afectación a su salud física, psicológica y mental, provocada por la comisión del delito y las secuelas en la víctima;
-
-III. Los medios comisivos empleados;
-
-IV. La edad de la víctima;
-
-V. Juzgar con perspectiva de género, de infancia y adolescencia, de persona mayor y la que corresponda, atendiendo a las condiciones de vulnerabilidad de la víctima, y
-
-VI. Las circunstancias y el contexto de la comisión de la conducta.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2026)
 
 ###### Artículo 16.
 
@@ -344,3 +314,13 @@ SECRETARIO DE GOBIERNO
 JESÚS MANUEL ARGÁEZ DE LOS SANTOS
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 286 POR EL QUE “SE DEROGAN LOS ARTÍCULOS 6, 13, 14 Y 15 DE LA LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR EL DELITO DE EXTORSIÓN EN EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
