@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2026-04-28"
+last_updated: "2026-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE SEPTIEMBRE DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2301,77 +2301,73 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 3.
 
-61.- Son reconocimientos públicos que otorga el Estado a favor de los mexiquenses:
+61.- Son reconocimientos públicos que otorga el Estado a favor de las personas mexiquenses:
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2012)</small>
 
 I. Presea "Estado de México", en las modalidades y denominaciones siguientes:
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2026)</small>
 
-a) De ciencia, tecnología e innovación "José Antonio Alzate";
+a). Presea al Mérito Científico, Tecnológico y Educativo;
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2026)</small>
 
-b) De arte y cultura "Sor Juana Inés de la Cruz";
+b). Presea a la Cultura y los Pueblos Indígenas;
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2026)</small>
 
-c) De pedagogía y docencia "Laura Méndez de Cuenca";
+c). Presea al Fomento Económico, Ambiental y Social;
 
-d) (DEROGADO, G.G. 28 DE DICIEMBRE DE 2021)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+d). Presea a la Salud, el Trabajo y la Vocación de Servicio;
 
-e) De periodismo e información "Leona Vicario";
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+e). Presea al Desarrollo Productivo y Agrario;
 
-f) Al mérito cívico y servicios a la comunidad "Isidro Fabela Alfaro";
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2026)</small>
 
-g) (DEROGADO, G.G. 28 DE DICIEMBRE DE 2021)
+f). Presea al Liderazgo Joven y la Innovación Social;
 
-h) Al trabajo "Fidel Velázquez Sánchez";
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE SEPTIEMBRE DE 2026)</small>
 
-i) A la juventud "Felipe Sánchez Solís";
+g). Presea a la Defensa de los Derechos Humanos y Bienestar Animal, y
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2026)</small>
 
-j) A la contribución en el servicio público "Alfredo del Mazo Vélez";
+h). Presea a la Libertad de Expresión y al Mérito Cívico.
 
-k) (DEROGADO, G.G. 28 DE DICIEMBRE DE 2021)
+i). (DEROGADO, G.G. 2 DE SEPTIEMBRE DE 2026)
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+j). (DEROGADO, G.G. 2 DE SEPTIEMBRE DE 2026)
 
-l) Al impulso económico "Adolfo López Mateos";
+k). (DEROGADO, G.G. 2 DE SEPTIEMBRE DE 2026)
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+l). (DEROGADO, G.G. 2 DE SEPTIEMBRE DE 2026)
 
-m) De la preservación del ambiente y la sostenibilidad de los recursos naturales "José Mariano Mociño Suárez Lazada";
+m). (DEROGADO, G.G. 2 DE SEPTIEMBRE DE 2026)
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+n). (DEROGADO, G.G. 2 DE SEPTIEMBRE DE 2026)
 
-n) A quienes sin ser mexiquenses tengan méritos eminentes o relevantes "José María Luis Mora";
+ñ). (DEROGADO, G.G. 2 DE SEPTIEMBRE DE 2026)
 
-ñ) (DEROGADO, G.G. 28 DE DICIEMBRE DE 2021)
+o). (DEROGADO, G.G. 2 DE SEPTIEMBRE DE 2026)
 
-o) A la defensa de los derechos humanos "José María Morelos y Pavón";
+p). (DEROGADO, G.G. 2 DE SEPTIEMBRE DE 2026)
 
-p) (DEROGADO, G.G. 28 DE DICIEMBRE DE 2021)
+q). (DEROGADO, G.G. 2 DE SEPTIEMBRE DE 2026)
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+r). (DEROGADO, G.G. 2 DE SEPTIEMBRE DE 2026)
 
-q) De la seguridad, protección ciudadana o procuración de justicia "León Guzmán";
+s). (DEROGADO, G.G. 2 DE SEPTIEMBRE DE 2026)
 
-> <small>(ADICIONADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
-
-r) Al mérito agrario "Andrés Molina Enríquez".
-
-> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
-
-s) De medicina y fomento a la salud "Gustavo Baz Prada".
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2012)</small>
 
 II. Inhumación en la Rotonda de las Personas Ilustres del Estado de México.
 
@@ -2379,15 +2375,21 @@ II. Inhumación en la Rotonda de las Personas Ilustres del Estado de México.
 
 62.- Los reconocimientos públicos se otorgarán cuando se acredite una conducta o trayectoria singularmente ejemplares, así como también la realización de determinados actos u obras relevantes, en beneficio de la humanidad, del país, del Estado o de la comunidad.
 
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 3.
+
+62 Bis.- Las dependencias y organismos auxiliares del Poder Ejecutivo del Estado de México únicamente podrán entregar las preseas o premios establecidos en ley, o en Decreto o Reglamento expedido por la persona titular del Poder Ejecutivo del Estado.
+
+### CAPITULO SEGUNDO. De la Presea "Estado de México"
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 3.
 
 63.- La Presea "Estado de México" también podrá concederse post mortem.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE DICIEMBRE DE 2021)</small>
-
-### CAPITULO SEGUNDO. De la Presea "Estado de México"
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 3.
 
@@ -2405,19 +2407,21 @@ El derecho al uso de la presea a que se refiere este Capítulo, se extingue por 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
 
-###### Artículo 3.
-
-67.- El Gobernador del Estado tiene la facultad para decretar la inhumación de los restos de mexiquenses ilustres en la Rotonda de las Personas Ilustres del Estado de México, creada para tal efecto dentro del cementerio municipal de la ciudad de Toluca de Lerdo.
-
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
-
 ### CAPITULO TERCERO. De la Inhumación en la Rotonda de las Personas Ilustres del Estado de México
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 3.
 
+67.- El Gobernador del Estado tiene la facultad para decretar la inhumación de los restos de mexiquenses ilustres en la Rotonda de las Personas Ilustres del Estado de México, creada para tal efecto dentro del cementerio municipal de la ciudad de Toluca de Lerdo.
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 3.
+
 68.- Los ayuntamientos, las organizaciones culturales, científicas, cívicas y políticas de la entidad podrán solicitar al Gobernador del Estado, la inhumación de los restos de mexiquenses en la Rotonda de las Personas Ilustres del Estado de México.
+
+## TITULO DECIMO. De las infracciones y sanciones
 
 ###### Artículo 3.
 
@@ -2438,8 +2442,6 @@ V. Condicionar la realización de un trámite escolar a conceptos o aportaciones
 VI. Realizar o favorecer de cualquier forma actividades políticas de tipo partidista dentro del plantel o en la prestación del servicio educativo;
 
 VII. Incumplir cualesquiera de los preceptos de este Libro, así como, las demás disposiciones expedidas con fundamento en él.
-
-## TITULO DECIMO. De las infracciones y sanciones
 
 ###### Artículo 3.
 
@@ -18250,3 +18252,17 @@ CUARTO. El Ejecutivo Estatal expedirá y actualizará las disposiciones reglamen
 QUINTO. Las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al Libro Segundo del Código Administrativo del Estado de México se entenderán hechas a la Ley de Salud del Estado de México.
 
 SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 2 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 354.- POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y LOS INCISOS A), B), C), D), E), F), G), Y H) DE LA FRACCIÓN I DEL ARTÍCULO 3.61, SE ADICIONA EL ARTÍCULO 3.62 BIS, Y SE DEROGAN LOS INCISOS I), J), K), L), M), N), Ñ), O), P), Q), R), Y S) DE LA FRACCIÓN I DEL ARTÍCULO 3.61 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Poder Ejecutivo del Estado realizará las modificaciones necesarias a las disposiciones reglamentarias dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Las disposiciones previstas en el presente Decreto serán aplicables al procedimiento relativo al otorgamiento de la Presea "Estado de México" 2026, cuya entrega se realizará en marzo de 2027.
+
+QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
