@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2026-06-29"
+last_updated: "2026-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -2605,9 +2605,45 @@ ARTÍCULO 122 BIS. En San Luis Potosí todas las personas tienen derecho a la ju
 
 El Ministerio Público se organizará en una Fiscalía General del Estado, como órgano público dotado de personalidad jurídica y patrimonio propio; así como de autonomía presupuestal, técnica y de gestión.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
-La Fiscalía General del Estado estará a cargo del o de la Fiscal General del Estado, que durará en su encargo siete años, sin posibilidad de reelección y deberá cumplir los requisitos establecidos en el artículo 92 de esta Constitución, con excepción del voto ciudadano.
+La Fiscalía General del Estado estará a cargo de la o el Fiscal General del Estado, quien durará en su encargo siete años, sin posibilidad de reelección. Para ocupar el cargo se requiere:
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+I. Ser persona ciudadana mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+II. Tener cuando menos treinta y cinco años de edad cumplidos el día de la designación.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+III. Contar con título profesional de licenciatura en Derecho, expedido legalmente, y cédula profesional con una antigüedad mínima de cinco años.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+IV. No encontrarse en alguno de los siguientes supuestos:
+
+A. Haber sido sujeta o sujeto a sentencia condenatoria firme por delitos de violencia familiar o delitos contra las mujeres por razón de género.
+
+B. Haber sido sujeta o sujeto a sentencia condenatoria firme por delitos contra la libertad sexual, la seguridad sexual o el normal desarrollo psicosexual.
+
+C. Estar registrada o registrado en el padrón de personas deudoras alimentarias morosas.
+
+D. Haber sido sancionada o sancionado mediante resolución firme por la comisión de faltas administrativas graves, emitida por el Tribunal Estatal de Justicia Administrativa o por la autoridad competente en materia de responsabilidades administrativas, ni encontrarse en el registro de personas servidoras públicas inhabilitadas del Instituto de Fiscalización Superior del Estado o de su homólogo federal.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+V. Haber residido en el Estado durante los dos años anteriores al día de la designación.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VI. Acreditar una trayectoria profesional mínima de cinco años en el ejercicio de la profesión jurídica, en actividades relacionadas con procuración de justicia, litigio, docencia, investigación jurídica, servicio público o asesoría legal.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+VII. No haber ocupado el cargo de Gobernadora o Gobernador, Diputada o Diputado local, o titular de Presidencia Municipal en el año inmediato anterior al día de la designación, ni haber sido dirigenta o dirigente de partido político en los tres años previos.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
@@ -4438,3 +4474,13 @@ P.O. 29 DE JUNIO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. El Tribunal Electoral del Estado y el Consejo Estatal Electoral y de Participación Ciudadana, revisarán y adecuarán sus disposiciones normativas y administrativas para garantizar el cumplimiento de lo previsto en el presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0589.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 122 BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La titular de la Fiscalía General del Estado de San Luis Potosí María Manuela García Cázares que se encuentra en funciones a la entrada en vigor del presente Decreto, continuará en el ejercicio de su encargo, en los términos previstos en el acto de su toma de protesta e inicio de funciones, sin que las reformas a las condiciones de elegibilidad contempladas en este Decreto le sean aplicables de manera retroactiva o afecten sus derechos adquiridos, garantizando la continuidad institucional del órgano autónomo.
