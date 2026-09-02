@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2026-06-13"
+last_updated: "2026-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -2636,6 +2636,10 @@ VI.- Cuando el alimentista incurra en una conducta dolosa o alevosa, y con ello 
 Irrenunciabilidad del derecho
 
 El derecho de recibir alimentos no es renunciable ni puede ser objeto de transacción.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Las personas acreedoras alimentarias por sí o por sus representantes, podrán ejercer las acciones que conforme a derecho correspondan para la protección de su derecho alimentario frente a actos jurídicos simulados o procedimientos jurisdiccionales promovidos de manera colusoria, realizados con el propósito de eludir el cumplimiento de las obligaciones alimentarias, en los términos previstos por la legislación aplicable.
 
 ###### ARTICULO 319.
 
@@ -18951,6 +18955,14 @@ II.- Que el acto se realice entre parientes, consortes, concubinarios, adoptante
 
 III.- Que el acto se haya realizado dentro del plazo de treinta días anteriores a la declaración judicial o del concurso del deudor.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+###### ARTICULO 2434 Bis.
+
+Actos jurídicos simulados o procedimientos jurisdiccionales colusorios en perjuicio de acreedores alimentarios
+
+Los actos jurídicos simulados, así como los procedimientos jurisdiccionales promovidos de manera colusoria, celebrados con el propósito de ocultar, disminuir o comprometer el patrimonio del deudor alimentario para eludir el cumplimiento de obligaciones alimentarias, serán inoponibles frente a las personas acreedoras alimentarias, previa declaración de la autoridad jurisdiccional competente, conforme a las disposiciones legales aplicables.
+
 ### CAPITULO III. DE LA ACCION OBLICUA
 
 ###### ARTICULO 2435.
@@ -25976,3 +25988,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
 
 TERCERO. En un plazo no mayor a ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones normativas necesarias para dar cumplimiento a lo dispuesto en el mismo.
+
+P.O. 2 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 287 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 318 Y EL ARTÍCULO 2434 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
