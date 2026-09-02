@@ -4,7 +4,7 @@ identifier: "TAB-ley-electoral-y-de-partidos-politicos-del-estado-de-tabasco-101
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2025-05-14"
+last_updated: "2026-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAB"
 
 LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2025.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MAYO DE 2025 NO APLICA AL ARTICULADO PUBLICADO EN EL P.O. DE 18 DE ENERO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 2 de julio de 2014.
 
@@ -5991,7 +5989,9 @@ f) La entrega de constancias de mayoría y declaración de validez de la elecci�
 
 ###### ARTÍCULO 388.
 
-1. El Congreso del Estado, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, emitirá la convocatoria para integrar el listado de candidaturas para la elección de las personas juzgadoras y ordenará su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+1. El Congreso del Estado, a más tardar el treinta de abril del año anterior al de la elección judicial, emitirá la convocatoria para integrar el listado de candidaturas para la elección de las personas juzgadoras y ordenará su publicación en el Periódico Oficial del Estado.
 
 2. La convocatoria deberá observar lo establecido en la Constitución Local y esta Ley, y deberá contener lo siguiente:
 
@@ -6013,6 +6013,10 @@ g) Fecha de cierre de la convocatoria, que se verificará una vez que concluya e
 
 4. Para la emisión de la convocatoria, el Órgano de Administración Judicial comunicará oportunamente al Congreso los cargos sujetos a elección y el número de vacantes a cubrir, la especialización por materia, el distrito judicial respectivo y demás información que se le requiera. De generarse vacantes no previstas en la convocatoria con fecha posterior a su publicación y previo al cierre de esta, el Órgano de Administración Judicial lo comunicará de inmediato al Congreso para su incorporación en la convocatoria respectiva.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Las personas juzgadoras que aspiren a un cargo de elección distinto al que ostenten deberán separarse del cargo mediante renuncia expresa e irrevocable, la cual informarán al Órgano de Administración Judicial antes de su registro en el proceso correspondiente. El Órgano de Administración Judicial comunicará de inmediato la vacante a la autoridad competente para que el cargo sea sujeto a elección.
+
 5. En caso de que el Órgano de Administración Judicial no remita oportunamente la información que requiera el Congreso del Estado para la elaboración de la convocatoria, el órgano legislativo lo integrará con la información pública que disponga.
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2025)</small>
@@ -6021,7 +6025,9 @@ g) Fecha de cierre de la convocatoria, que se verificará una vez que concluya e
 
 1. Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial. Dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determine la Constitución Federal, la Constitución Local y esta Ley.
 
-2. Los Poderes instalarán un Comité de Evaluación a través de los mecanismos que determinen dentro de los quince días naturales posteriores a la publicación de la convocatoria en el Periódico Oficial del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+2. Cada Poder integrará un Comité de Evaluación a través de los mecanismos que determinen dentro de los quince días naturales posteriores a la publicación de la convocatoria en el Periódico Oficial del Estado.
 
 Los Comités emitirán las reglas para su funcionamiento. Podrán celebrar convenios con instituciones públicas que coadyuven en sus respectivos procesos y privilegiarán el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones.
 
@@ -6034,6 +6040,18 @@ b) No haber sido condenada por delito alguno, salvo que hubiese sido de carácte
 c) Contar con título de licenciatura en derecho expedido legalmente, con antigüedad mínima de cinco años, y práctica profesional de por lo menos cinco años en el ejercicio de la actividad jurídica; y
 
 d) No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos tres años anteriores a la designación.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Las personas que conformen cada Comité, elegirán de entre sus integrantes a la persona que coordine sus trabajos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Las personas elegidas como coordinadoras de cada Comité integrarán una comisión coordinadora.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+Dicha comisión coordinadora será la responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, así como establecer y definir criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos, y emitir acuerdos que regulen los trabajos de los tres comités.
 
 3. Los Comités publicarán dentro de los quince días naturales posteriores a su integración las convocatorias para participar en el proceso de evaluación y selección de postulaciones, que contendrán lo siguiente:
 
@@ -6049,17 +6067,23 @@ d) La metodología de evaluación de idoneidad de las personas aspirantes para e
 
 5. Los Comités publicarán la lista de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad. Las candidaturas que hayan sido rechazadas podrán impugnar esa decisión ante el Tribunal Electoral, dentro del plazo y conforme al procedimiento que determine la Ley y los acuerdos generales en la materia. Las impugnaciones serán resueltas dentro de un plazo que permita a las y los aspirantes participar en la evaluación de idoneidad en caso de que su impugnación resulte fundada.
 
-6. Acreditados los requisitos de las personas aspirantes, los Comités procederán a calificar su idoneidad para desempeñar el cargo. Para ello, podrán tomar en cuenta su perfil curricular, así como sus antecedentes profesionales y académicos, entre otros que determine cada Comité para valorar su honestidad y buena fama pública. Por último, los Comités realizarán entrevistas públicas a las personas aspirantes que califiquen más idóneas a efecto de evaluar sus conocimientos técnicos para el desempeño del cargo en cuestión y su competencia en el ejercicio de la actividad jurídica.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+6. Acreditados los requisitos de las personas aspirantes, los Comités procederán a calificar su idoneidad para desempeñar el cargo. Para ello, deberán tomar en cuenta los criterios establecidos por la comisión coordinadora, así como su perfil curricular, sus antecedentes profesionales y académicos, para valorar su honestidad y buena fama pública. Por último, los Comités realizarán entrevistas públicas a las personas aspirantes que califiquen más idóneas a efecto de evaluar sus conocimientos técnicos para el desempeño del cargo en cuestión y su competencia en el ejercicio de la actividad jurídica.
 
 7. La participación simultánea de una persona aspirante en dos o más convocatorias emitidas por otros poderes por el mismo cargo y distrito judicial, no afectará el resultado de la evaluación.
 
-8. Los Comités de Evaluación integrarán un listado de las cinco personas mejor evaluadas para cada cargo. Posteriormente, por insaculación depurarán dicho listado, para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y de conformidad con lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+8. Los Comités de Evaluación integrarán un listado de las cuatro personas mejor evaluadas para cada cargo. Posteriormente, depurarán dicho listado mediante insaculación pública, para ajustarlo a dos personas para cada cargo. Garantizando la paridad de género en el listado de personas a insacular por especialidad y circuito judicial, misma que deberá observarse en el listado de propuesta posterior a la insaculación. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y de conformidad con lo siguiente:
 
 a) El Poder Ejecutivo, por conducto de la persona titular del Gobierno del Estado;
 
 b) El Poder Legislativo, por conducto del pleno del Congreso, según corresponda, mediante votación calificada de dos tercios de sus integrantes presentes; y
 
-e) El Poder Judicial, por conducto del pleno, por votación favorable de sus dos terceras partes.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+c) El Poder Judicial del Estado, por conducto del Pleno del Tribunal Superior de Justicia, mediante votación calificada de dos tercios de sus integrantes presentes.
 
 9. Los listados aprobados en términos del párrafo anterior por el Comité de Evaluación serán remitidos al Congreso a más tardar el 1 de febrero del año de la elección que corresponda, en los términos establecidos en la convocatoria, acompañados de los expedientes que acrediten la elegibilidad e idoneidad de las personas postuladas. Las autoridades que no remitan postulaciones al término del plazo previsto en la convocatoria respectiva estarán impedidas para hacerlo posteriormente.
 
@@ -6071,7 +6095,9 @@ e) El Poder Judicial, por conducto del pleno, por votación favorable de sus dos
 
 2. Las personas juzgadoras en funciones en los cargos a elegir que pretendan contender para un cargo o distrito judicial diverso deberán informarlo al Congreso dentro de los treinta días posteriores a la publicación de la convocatoria, a efectos de no ser incorporadas en los listados de candidaturas. El Congreso cancelará las candidaturas de las personas servidoras públicas que omitan informar lo anterior.
 
-3. El Congreso estará impedido de pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que les sean remitidas y se limitará a integrar y remitir los listados y sus expedientes al Instituto Estatal a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+3. El Congreso estará impedido de pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que les sean remitidas y se limitará a integrar y remitir los listados y sus expedientes al Instituto Estatal en los plazos que señale la convocatoria, a efecto de que organice el proceso electivo.
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2025)</small>
 
@@ -6219,7 +6245,9 @@ XII. Dictar los acuerdos necesarios para hacer efectivas las atribuciones establ
 
 ###### ARTÍCULO 403.
 
-1. Por cada tipo de elección se empleará una sola boleta que contendrá la siguiente información general:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+1. Por cada tipo de elección se empleará una sola boleta que, además de los requisitos establecidos en la Constitución Local y las disposiciones aplicables, contendrá la siguiente información general:
 
 a) Cargo para el que se postula la persona candidata;
 
@@ -6335,11 +6363,11 @@ La fiscalización de las personas candidatas juzgadoras se realizará de acuerdo
 
 ### CAPÍTULO CUARTO. DE LA JORNADA ELECTORAL
 
-> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTÍCULO 412.
 
-1. La jornada electoral inicia a las 8:00 horas del primer domingo de junio y se desarrollará en los términos establecidos dentro de esta Ley, debiéndose llenar al efecto la documentación que apruebe el Consejo Estatal por parte de las personas funcionarias de las mesas directivas de casilla, conforme a la estrategia de integración determinada por el Instituto Estatal.
+1. La jornada electoral inicia a las 8:00 horas del primer domingo de junio y se desarrollará en los términos establecidos en la Constitución Local, esta Ley y las demás disposiciones aplicables, debiéndose llenar al efecto la documentación que apruebe el Consejo Estatal por parte de las personas funcionarias de las mesas directivas de casilla, conforme a la estrategia de integración determinada por el Instituto Estatal.
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2025)</small>
 
@@ -6357,7 +6385,9 @@ c) Se contará como nulo cualquier voto depositado en la urna sin haber marcado 
 
 ###### ARTÍCULO 414.
 
-1. El escrutinio y cómputo de las votaciones en casilla para los cargos de elección del Poder Judicial se realizará de forma simultánea a los cómputos a que se refiere el artículo 239 de esta Ley, en el orden siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2026)</small>
+
+1. El escrutinio y cómputo de las votaciones para los cargos de elección del Poder Judicial se realizará en la casilla donde fueron sufragados de forma simultánea a los cómputos a que se refiere el artículo 239 de esta Ley, en el orden siguiente:
 
 a) Personas magistradas integrantes del Tribunal de Disciplina Judicial;
 
@@ -6568,3 +6598,13 @@ CUARTO. Las disposiciones aplicables del presente Decreto para el Órgano de Adm
 QUINTO. En caso de que, en la elección extraordinaria a celebrarse en el año 2025, alguno de los cargos sujetos a la elección no obtuviera votos, se declare la nulidad de esta o la persona se declare inelegible, continuará en el cargo, la persona que actualmente ocupe el mismo, y en la próxima elección deberá incluirse dentro de los que deberán elegirse.
 
 SEXTO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 285 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 388, NUMERAL 1; 389, NUMERALES 2, PÁRRAFO PRIMERO, 6, 8, PÁRRAFO PRIMERO E INCISO C); 390, NUMERAL 3, 403, NUMERAL 1, 412 Y 414, NUMERAL 1; Y SE ADICIONAN UN PÁRRAFO SEGUNDO AL NUMERAL 4 DEL ARTÍCULO 388; Y LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL NUMERAL 2 DEL ARTÍCULO 389. TODOS DE LA LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. El Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco podrá emitir los acuerdos que estime necesarios para la organización, integración de la estructura, desarrollo, cómputo, vigilancia y fiscalización del proceso electoral del año 2028, garantizando el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales estatales observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. Las y los representantes de los partidos políticos ante el Consejo Estatal no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
