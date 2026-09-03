@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2026-08-21"
+last_updated: "2026-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -879,13 +879,11 @@ VII. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Moroso
 
 VIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Art. 29.
 
-No pueden ser diputados quienes ocupen los cargos de: Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Órgano de Administración Judicial del Estado o la Federación, Magistrada o Magistrado del Tribunal de Disciplina Judicial del Estado o de la Federación; Magistrado o Magistrado Administrativo; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos 90 días antes del día de la elección. En el caso de los consejeros y magistrados electorales del estado, el término de su separación se computará un año antes de la elección.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+No pueden ser diputados quienes ocupen los cargos de: Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Órgano de Administración Judicial del Estado o la Federación, Magistrada o Magistrado del Tribunal de Disciplina Judicial del Estado o de la Federación; Magistrada o Magistrado Administrativo; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos 90 días antes del día de la elección. En el caso de los consejeros y magistrados electorales del estado, el término de su separación se computará un año antes de la elección.
 
 ###### Art. 30.
 
@@ -988,6 +986,14 @@ D. El Congreso podrá autorizar y modificar programas y proyectos de inversión 
 > <small>N. DE E. EN LA REFORMA PUBLICADA EN EL P.O. DEL 30 DE JULIO DE 2011, SE OMITE PRECISAR LA EXISTENCIA DE ESTE PÁRRAFO.</small>
 
 Las disposiciones específicas para dar cumplimiento a lo establecido en este artículo, se llevarán a cabo de conformidad a lo dispuesto en la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+E. El presupuesto anual del Congreso del Estado no podrá exceder del cero punto setenta por ciento del Presupuesto de Egresos del Estado correspondiente al ejercicio fiscal respectivo.
+
+> <small>[N. DE E. PERTENECE AL APARTADO E, P.O. 3 DE SEPTIEMBRE DE 2026]</small>
+
+La Ley establecerá los mecanismos de disciplina presupuestaria, control y responsabilidad para garantizar su cumplimiento.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -1235,11 +1241,9 @@ XXXV. (DEROGADA, P.O. 10 DE JUNIO DE 2016)
 
 XXXVI. Conceder licencia al Gobernador, a los Diputados, a las personas servidoras públicas del Poder Judicial del Estado conforme al artículo 88 de esta Constitución y en los términos que establezcan las leyes, y demás servidores públicos en los casos que por mandato de Ley deba intervenir el Congreso, así como para reincorporarse a sus funciones. Asimismo, podrá conocer y resolver en su caso, sobre las licencias solicitadas por los integrantes de los ayuntamientos cuando así corresponda.
 
-(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXXVII, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2025)</small>
-
-XXXVII. Elegir a la persona integrante del Órgano de Administración Judicial que le compete, ASÍ COMO DESIGNAR A LA PERSONA QUE INTEGRARÁ EL COMITÉ ESTATAL DE EVALUACIÓN A QUE HACE REFERENCIA EL ARTÍCULO 84 DE ESTA CONSTITUCIÓN.
+XXXVII.- Elegir a la persona integrante del Órgano de Administración Judicial que le compete, así como designar a las personas integrantes del Comité de Evaluación, conforme a lo señalado por el artículo 84 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
 
@@ -1583,11 +1587,9 @@ XII.- Nombrar y remover libremente a los titulares de las dependencias señalada
 
 Someter a la aprobación del Congreso, la designación del Fiscal General, del titular del Centro de Conciliación Laboral del Estado de Nayarit y la ratificación de la persona titular de la Secretaría de Seguridad y Protección Ciudadana, del titular de la Secretaría del Poder Ejecutivo Estatal responsable del control interno, del titular de la Junta Directiva y Consejeros Independientes del Fondo de Ahorro para el Retiro Digno de las Trabajadoras y Trabajadores del Estado Libre y Soberano de Nayarit, así como de quien presida la Junta de (sic) Directiva del Fondo Soberano Nuevo Nayarit.
 
-(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL ÚLTIMO PÁRRAFO DE LA FRACCIÓN XII, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2025)</small>
-
-Elegir a la persona integrante del Órgano de Administración Judicial que le compete, ASÍ COMO DESIGNAR A LA PERSONA QUE INTEGRARÁ EL COMITÉ ESTATAL DE EVALUACIÓN A QUE HACE REFERENCIA EL ARTÍCULO 84 DE ESTA CONSTITUCIÓN.
+Elegir a la persona integrante del Órgano de Administración Judicial que le compete, así como designar a las personas integrantes del Comité de Evaluación, conforme a lo señalado por el artículo 84 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)</small>
 
@@ -1889,9 +1891,9 @@ Las Magistradas y los Magistrados del Tribunal de Disciplina Judicial, durarán 
 
 Las Magistradas y Magistrados, Juezas y Jueces, así como los miembros del Tribunal de Disciplina Judicial, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones ordinarias del año que corresponda, conforme al siguiente procedimiento:
 
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El órgano de administración judicial hará del conocimiento del Congreso los cargos sujetos a elección, la especialización por materia en su caso, y demás información que requiera;
+I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas a más tardar el treinta de abril del año anterior al de la elección judicial que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El órgano de administración judicial hará del conocimiento del Congreso los cargos sujetos a elección, la especialización por materia en su caso, y demás información que requiera;
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 27 DE ENERO DE 2025)</small>
 
@@ -1899,57 +1901,81 @@ II. Los Poderes del Estado postularán el número de candidaturas que correspond
 
 a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo.
 
-(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO b) DE LA FRACCIÓN II DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-b) SE CONFORMARÁ UN COMITÉ ESTATAL DE EVALUACIÓN COMPUESTO POR CUATRO PERSONAS RECONOCIDAS EN LA ACTIVIDAD JURÍDICA, QUE RECIBIRÁ LOS EXPEDIENTES DE LAS PERSONAS ASPIRANTES, EVALUARÁ EL CUMPLIMIENTO DE LOS REQUISITOS CONSTITUCIONALES Y LEGALES E IDENTIFICARÁ A LAS PERSONAS QUE CUENTEN CON LOS CONOCIMIENTOS TÉCNICOS NECESARIOS PARA EL DESEMPEÑO DEL CARGO Y SE HAYAN DISTINGUIDO POR SU HONESTIDAD, BUENA FAMA PÚBLICA, COMPETENCIA ASÍ COMO ANTECEDENTES ACADÉMICOS Y PROFESIONALES EN EL EJERCICIO DE LA ACTIVIDAD JURÍDICA.
+b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, quienes elegirán de entre sus integrantes a la persona que coordine sus trabajos.
 
-QUIENES INTEGREN EL COMITÉ ESTATAL DE EVALUACIÓN DEBERÁN CUMPLIR CON AL MENOS LOS SIGUIENTES REQUISITOS, OBSERVANDO LA PARIDAD DE GÉNERO:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+Quienes integren el Comité de Evaluación deberán cumplir con al menos los siguientes requisitos, observando la paridad de género:
 
 1. CONTAR CON CIUDADANÍA MEXICANA, EN PLENO GOCE DE SUS DERECHOS CIVILES Y POLÍTICOS;
 
-2. NO HABER SIDO CONDENADAS POR DELITO ALGUNO, SALVO QUE HUBIESE SIDO DE CARÁCTER NO INTENCIONAL O IMPRUDENCIAL;
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+2. No encontrarse, al momento de la designación, inhabilitado o inhabilitada, suspendido o suspendida administrativamente o, en su caso, penalmente, para desempeñar un empleo, cargo o comisión en el servicio público;
 
 3. CONTAR CON TÍTULO DE LICENCIATURA EN DERECHO EXPEDIDO LEGALMENTE, CON ANTIGÜEDAD MÍNIMA DE CINCO AÑOS, Y EJERCICIO PROFESIONAL DE LA ACTIVIDAD JURÍDICA DE POR LO MENOS CINCO AÑOS, Y
 
 4. NO DESEMPEÑAR NI HABER DESEMPEÑADO CARGO DE DIRECCIÓN NACIONAL O ESTATAL EN ALGÚN PARTIDO POLÍTICO EN LOS ÚLTIMOS TRES AÑOS ANTERIORES A LA DESIGNACIÓN.
 
-(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO c) DE LA FRACCIÓN II DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-c) EL COMITÉ ESTATAL DE EVALUACIÓN SE INTEGRARÁ POR UNA PERSONA DESIGNADA POR EL CONGRESO DEL ESTADO A TRAVÉS DE SU COMISIÓN DE GOBIERNO; UNA PERSONA DESIGNADA POR EL TITULAR DEL PODER EJECUTIVO Y, DOS PERSONAS DESIGNADAS POR EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+Las personas coordinadoras de los tres Comités integrarán una Comisión Coordinadora, responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos, y emitir acuerdos que regulen los trabajos de los tres Comités.
 
-(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO d) DE LA FRACCIÓN II DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-d) EL COMITÉ ESTATAL DE EVALUACIÓN INTEGRARÁ POR CADA UNO DE LOS PODERES, UN LISTADO DE LAS PERSONAS ASPIRANTES EN LOS SIGUIENTES TÉRMINOS:
+Cada Comité seleccionará, conforme a los criterios definidos por la Comisión Coordinadora, a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
 
-3 (sic). DOS PERSONAS TRATÁNDOSE DE ASPIRANTES A LAS MAGISTRATURAS DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DE HASTA TRES PERSONAS EN EL CASO DE JUEZAS Y JUECES DEL PODER JUDICIAL DEL ESTADO, Y
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-4. DOS PERSONAS EN EL CASO DE ASPIRANTES A LAS MAGISTRATURAS DEL TRIBUNAL DE DISCIPLINA JUDICIAL DEL PODER JUDICIAL DEL ESTADO.
+c) Los Comités de Evaluación integrarán un listado de las cuatro personas mejor evaluadas para cada cargo. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo a dos personas para cada cargo. Los Comités garantizarán la paridad de género en el listado de personas a insacular por especialidad, de ser aplicable. Asimismo, observarán la paridad de género en el listado de propuestas posterior a la insaculación. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso.
 
-(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO e) DE LA FRACCIÓN II DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Para los efectos del párrafo anterior, cada uno de los Poderes del Estado postulará dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de la Gobernadora o el Gobernador del Estado; el Poder Legislativo mediante votación calificada de dos tercios de sus integrantes presentes; y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, por mayoría de siete votos.
 
-e) EL COMITÉ ESTATAL DE EVALUACIÓN ESTABLECERÁ CRITERIOS Y METODOLOGÍAS DE EVALUACIÓN Y SELECCIÓN ADECUADAS PARA IDENTIFICAR A LAS PERSONAS QUE CUENTEN CON LOS CONOCIMIENTOS TÉCNICOS NECESARIOS PARA EL DESEMPEÑO DEL CARGO, ASÍ COMO DE POSTULACIÓN COMÚN DE CANDIDATURAS.
+d) (DEROGADO, P.O. 3 DE SEPTIEMBRE DE 2026)
 
-(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO f) DE LA FRACCIÓN II DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+e) (DEROGADO, P.O. 3 DE SEPTIEMBRE DE 2026)
 
-f) EL COMITÉ ESTATAL DE EVALUACIÓN ENVIARÁ LOS LISTADOS DEFINITIVOS AL CONGRESO DEL ESTADO.
+f) (DEROGADO, P.O. 3 DE SEPTIEMBRE DE 2026)
 
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-III. El Congreso del Estado recibirá las postulaciones y remitirá los listados a la autoridad electoral competente a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+III. El Congreso del Estado recibirá las postulaciones y remitirá los listados a la autoridad electoral competente en los plazos que refiera la convocatoria, a efecto de que organice el proceso electivo. Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente, y
 
-Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente, y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2025)</small>
+IV. La autoridad electoral competente efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al órgano jurisdiccional electoral competente, quien resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas electas tomarán protesta de su encargo ante dicho órgano legislativo. Las autoridades electorales no podrán modificar los resultados de la elección ni la asignación de cargos después de esa fecha.
 
-IV. La autoridad electoral competente efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al órgano jurisdiccional electoral competente, quien resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Para el caso de Magistradas y Magistrados del Tribunal Superior de Justicia y Magistradas y Magistrados del Tribunal de Disciplina Judicial, la elección se realizará a nivel estatal conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes. Cada Poder postulará dos candidaturas por cargo a renovar en la elección de que se trate. La asignación de los cargos electos se realizará entre las candidaturas que obtengan mayor número de votos, observando la integración paritaria del órgano correspondiente.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS QUE LO INTEGRAN], P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-Para el caso de Magistradas y Magistrados, Magistradas y Magistrados del Tribunal de Disciplina Judicial, así como Juezas y Jueces, la elección se realizará a nivel estatal conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes. Por cada Poder del Estado se postularán hasta dos personas para cada cargo, y tres para el caso de Juezas y Jueces, MEDIANTE EL PROCESO DE EVALUACIÓN DEL COMITÉ ESTATAL DE EVALUACIÓN.
+Para el caso de las Juezas y Jueces, la elección se realizará por distrito judicial conforme a las siguientes bases y a lo que disponga la ley:
 
-El Congreso incorporará a los listados que remita a la autoridad electoral competente a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+a) La autoridad electoral competente dividirá el territorio estatal en los distritos judiciales necesarios para que, en ese ámbito territorial, la ciudadanía pueda elegir una candidatura por cada especialidad que corresponda a su distrito judicial de entre las propuestas que formule cada Poder y, en su caso, de las personas juzgadoras en funciones en el cargo a elegir.
+
+Los distritos judiciales tendrán una función exclusivamente electoral, sin que estos influyan en la organización y administración del Poder Judicial;
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+b) La autoridad electoral competente generará una lista de candidaturas por especialidad en cada distrito judicial donde distinguirá el Poder postulante y el género. Posteriormente, en acto público, asignará aleatoriamente las candidaturas que correspondan cada distrito judicial, garantizando que los Poderes postulen en cada distrito a dos personas del mismo género por especialidad;
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+c) Cuando el número de cargos por especialidad sea inferior al número de distritos judiciales en los que se divida el territorio del Estado, la autoridad electoral competente asignará los cargos restantes con sus respectivas candidaturas en dos o más distritos de manera aleatoria, a efecto de garantizar que las personas electoras de cada distrito voten por todas las especialidades, y
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+d) La autoridad electoral competente realizará en cada elección judicial las modificaciones necesarias al marco geográfico electoral para adecuar los distritos judiciales al número de cargos y especialidades a elegir.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+El Congreso podrá, en su caso, incorporar a los listados que remita a la autoridad electoral competente a las personas que, al cierre de la convocatoria respectiva, se encuentren en funciones en los cargos sujetos a elección judicial correspondiente, siempre que no manifiesten la declinación de su candidatura dentro de los treinta días naturales posteriores a la publicación de la convocatoria ni sean postuladas para un cargo diverso.
 
 La etapa de preparación de la elección correspondiente iniciará con la primera sesión que la autoridad electoral competente celebre en los primeros siete días del mes de septiembre del año anterior a la elección.
 
@@ -1961,9 +1987,17 @@ Para todos los cargos de elección dentro del Poder Judicial del Estado estará 
 
 La duración de las campañas para los cargos señalados en el presente artículo será de sesenta días y en ningún caso habrá etapa de precampaña. La Ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-DEROGADO TERCER PÁRRAFO, P.O. 27 DE ENERO DE 2025)
+Las boletas electorales de la elección judicial distinguirán al Poder postulante y, cuando corresponda, a las personas juzgadoras en funciones en los cargos a elegir. Asimismo, distinguirán las especialidades que correspondan a cada ámbito territorial y contendrán los nombres completos de las personas candidatas. Las candidaturas se ubicarán en recuadros para que la ciudadanía señale su preferencia, debiendo elegir una sola candidatura por especialidad.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+La jornada electoral judicial se celebrará en la misma ubicación donde se realicen las elecciones ordinarias federales o locales de ese año. Las autoridades electorales adoptarán las medidas necesarias para garantizar que la jornada electoral judicial se desarrolle sin la intervención de personas representantes de partidos políticos.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+El escrutinio y cómputo de los votos se realizará en la casilla donde fueron sufragados.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
@@ -1973,9 +2007,9 @@ En el Poder Judicial, la administración estará a cargo de un órgano de admini
 
 Apartado A. Del Órgano de Administración Judicial.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-El órgano de administración judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo la determinación del número, división, competencia territorial y especialización por materias de los Juzgados; el ingreso, permanencia y separación del personal administrativo y de carrera judicial de conformidad con lo que establezca el Tribunal de Disciplina, así como su formación y promoción y la evaluación del desempeño, únicamente en lo que concierne al personal administrativo la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
+El órgano de administración judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo la determinación del número, división, competencia territorial y especialización por materias de los Juzgados; el ingreso, asignación, formación, permanencia, especialización y separación del personal administrativo y de carrera judicial de conformidad con lo que establezca el Tribunal de Disciplina, así como su formación y promoción y la evaluación del desempeño, únicamente en lo que concierne al personal administrativo la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
 
 > <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE JULIO DE 2025)</small>
 
@@ -2047,11 +2081,13 @@ El Tribunal de Disciplina Judicial deberá dar vista al Ministerio Público comp
 
 Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación en los términos de la Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-El Tribunal de Disciplina Judicial evaluará el desempeño de las Magistradas y Magistrados del Tribunal Superior de Justicia, y Juezas y Jueces que resulten electas (sic) en la elección estatal que corresponda durante su primer año de ejercicio, así mismo, evaluará al personal jurisdiccional del Poder Judicial del Estado. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+El Tribunal de Disciplina Judicial evaluará el desempeño de las Magistradas y Magistrados del Tribunal Superior de Justicia, y Juezas y Jueces que resulten electas (sic) en la elección estatal que corresponda durante su primer año de ejercicio y aplicará programas de capacitación y actualización permanente, para lo cual podrá coordinarse con la Escuela Estatal de Formación Judicial, así mismo, evaluará al personal jurisdiccional del Poder Judicial del Estado. La ley establecerá los métodos, criterios e indicadores aplicables a los procesos de evaluación que correspondan.
 
-La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+La ley señalará los criterios, metodologías, etapas, áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la transparencia, imparcialidad y objetividad de los procesos de evaluación y de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación correspondiente resulte insatisfactoria:
 
 c) (sic) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
 
@@ -2095,11 +2131,13 @@ El Presidente:
 
 La o el Secretario General de Acuerdos y demás servidores que señale la Ley Orgánica del Poder Judicial, protestarán ante el Pleno correspondiente.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2026)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Art. 87.
 
-Cuando la falta de una Magistrada o Magistrado y Jueza o Juez excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso o la Diputación Permanente en su caso, tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
+Cuando la falta de una Magistrada o Magistrado del Tribunal de Disciplina Judicial excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso o la Diputación Permanente en su caso, tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo. En caso de defunción, renuncia, destitución o ausencia definitiva de Magistradas y Magistrados del Tribunal Superior de Justicia, Juezas o Jueces, el órgano de administración judicial declarará vacante el cargo y deberá renovarse para un nuevo periodo en la elección inmediata posterior que corresponda.
+
+En tanto se elija y tome posesión la persona que deba ocupar el cargo, el órgano de administración judicial realizará la designación interina correspondiente, en los términos que establezca la Ley Orgánica.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
 
@@ -2107,9 +2145,9 @@ Cuando la falta de una Magistrada o Magistrado y Jueza o Juez excediere de un me
 
 Las renuncias de las Magistradas o Magistrados y Juezas o Jueces, o miembro del Tribunal de Disciplina Judicial, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso del Estado o, en sus recesos por la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-Las licencias, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Tribunal Superior de Justicia para el caso de Magistradas y Magistrados, por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes y por el órgano de administración judicial para el caso de Juezas y Jueces. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Diputación Permanente.
+Las licencias, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Tribunal Superior de Justicia para el caso de Magistradas y Magistrados, por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes y por el órgano de administración judicial para el caso de Juezas y Jueces. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Diputación Permanente, salvo en el caso de Juezas y Jueces, que podrán concederse sin goce de sueldo por el órgano de administración judicial.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -2118,6 +2156,10 @@ Ninguna licencia podrá exceder del término de un año.
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 Las competencias, modo de suplir las faltas y obligaciones de las Magistradas y los Magistrados y las Juezas o Jueces y demás Servidores Públicos del Poder Judicial, serán determinadas por su ley orgánica, atendiendo las bases previstas por esta Constitución.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+Las personas juzgadoras que aspiren a un cargo de elección distinto al que ostenten deberán separarse del cargo mediante renuncia expresa e irrevocable, la cual informarán al órgano de administración judicial antes de su registro en el proceso correspondiente. El órgano de administración judicial comunicará de inmediato la vacante a la autoridad competente para que el cargo sea sujeto a elección.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
@@ -2515,9 +2557,11 @@ Si la Legislatura rechaza alguna o la totalidad de las ternas propuestas, el Gob
 
 ### CAPITULO UNICO. De los Municipios
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-Art 106.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una o un Presidente Municipal, una o un Síndico y el número de Regidurías que la ley determine, de conformidad con el principio de paridad de género. En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
+###### Art. 106.
+
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidenta o Presidente Municipal, una sindicatura y hasta quince regidurías que la Ley determine, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y la sindicatura, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2022)</small>
 
@@ -2525,19 +2569,13 @@ En la designación de las personas titulares de las dependencias que integran la
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-###### Art. 106.
-
-Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal, un Síndico y el número de Regidores que la ley determine. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
-
 ###### Art. 107.
 
 Los Ayuntamientos se renovarán en su totalidad cada tres años, sus integrantes serán electos popularmente por elección directa y no podrán ser reelectos para el mismo cargo para el periodo inmediato posterior al ejercicio de su encargo.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-Los presidentes y presidentas municipales, regidores y regidoras, y personas síndicas de los ayuntamientos, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
+Las personas titulares de la Presidencia Municipal, Sindicatura y Regidurías de los ayuntamientos, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -2562,8 +2600,6 @@ En todos los casos y bajo el procedimiento que establezca la Ley Electoral del E
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 Por cada integrante del Ayuntamiento se elegirá un suplente.
-
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -3408,6 +3444,14 @@ Las leyes correspondientes tipificarán los delitos en materia electoral y deter
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
 
 Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, incluidos los relativos a los procesos de revocación de mandato, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, de revocación de mandato, y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+###### Art. 135 Bis.
+
+Las remuneraciones de las personas integrantes del Consejo Local Electoral del Instituto Estatal Electoral de Nayarit, así como de las magistraturas del Tribunal Estatal Electoral, no podrán exceder el límite previsto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Queda prohibida la contratación o financiamiento con recursos públicos de seguros médicos privados, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro, pensiones complementarias o prestaciones análogas no previstas expresamente en la ley.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -4955,7 +4999,9 @@ SEGUNDO. El proceso electoral extraordinario 2025, dará inicio a la entrada en 
 
 Para efectos del presente Decreto, se consideran vacantes, aquellos cargos cuyo periodo concluyan en el año de la elección extraordinaria.
 
-Las personas magistradas y juzgadoras que se encuentren en funciones a la entrada en vigor de este Decreto que no decidan participar en el proceso extraordinario 2025, serán incorporadas a la lista para participar en la elección ordinaria del año 2027.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+Las personas juzgadoras que se encuentren en funciones a la entrada en vigor de este Decreto que no decidan participar en el proceso extraordinario 2025, podrán ser incorporadas a la lista para participar en la elección del año 2028.
 
 Las y los magistrados, las y los jueces que decidan participar en el proceso electoral extraordinario 2025, deberán manifestar su intención por escrito dentro de los diez días posteriores a la entrada en vigor del presente Decreto ante la presidencia del Consejo de la Judicatura de Nayarit, quien deberá remitir al día siguiente del plazo previsto al Congreso del Estado el listado de personas magistradas y juzgadores sujetos a elección.
 
@@ -5148,3 +5194,59 @@ P.O. 21 DE AGOSTO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
+
+P.O. 3 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE RESPONSABILIDAD FINANCIERA DEL PODER LEGISLATIVO E INTEGRACIÓN MUNICIPAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. El límite presupuestario previsto en el artículo 38, apartado E, de esta Constitución será aplicable a partir de la instalación de la Legislatura que inicie funciones el 18 de agosto de 2027. Para el ejercicio fiscal 2027, el Presupuesto de Egresos del Congreso del Estado deberá elaborarse de manera proporcional, atendiendo al periodo de vigencia de dicho límite constitucional.
+
+Tercero. La integración de los Ayuntamientos prevista en el presente Decreto surtirá efectos a partir del periodo constitucional municipal subsecuente.
+
+Cuarto. El Instituto Estatal Electoral de Nayarit y el Tribunal Estatal Electoral deberán realizar las adecuaciones normativas, administrativas y presupuestarias necesarias para dar cumplimiento a las disposiciones contenidas en el presente Decreto.
+
+Quinto. El Congreso del Estado deberá armonizar la legislación secundaria correspondiente dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Sexto. Los recursos públicos que resulten como economías o ahorros derivados de la aplicación del límite presupuestal previsto en el presente Decreto, así como de las adecuaciones que, en su caso, se realicen en la integración de los Ayuntamientos del Estado, permanecerán en la Hacienda Pública Estatal o Municipal, según corresponda.
+
+Dichos recursos deberán destinarse prioritariamente al financiamiento de obras de infraestructura pública, equipamiento urbano y acciones de inversión pública productiva en beneficio directo de la población, conforme a lo previsto en el Presupuesto de Egresos correspondiente y demás disposiciones aplicables.
+
+La administración y ejercicio de estos recursos deberá observar en todo momento los principios de legalidad, eficiencia, eficacia, economía, transparencia, honradez, austeridad y máxima publicidad en el uso de recursos públicos.
+
+Séptimo. Para el ejercicio fiscal 2027, la integración, aprobación y actualización del Presupuesto de Egresos del Congreso del Estado se sujetarán al régimen transitorio previsto en el presente Decreto. A partir del ejercicio fiscal 2028 y en los subsecuentes, el presupuesto anual del Congreso del Estado únicamente podrá actualizarse conforme a la inflación anual, siempre que ello no implique rebasar el límite previsto en el artículo 38, apartado E, de esta Constitución.
+
+No podrán aprobarse ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo cuyo objeto o efecto sea incrementar directa o indirectamente el presupuesto del Congreso del Estado por encima del límite previsto en esta Constitución.
+
+La legislación estatal deberá establecer los mecanismos de control, disciplina presupuestaria, fiscalización y responsabilidad administrativa necesarios para garantizar el cumplimiento de lo dispuesto en el presente Decreto.
+
+Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente transitorio será nulo de pleno derecho.
+
+Octavo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Noveno. Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la Entidad.
+
+P.O. 3 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE REFORMA DEL PODER JUDICIAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, sin perjuicio de lo señalado en los transitorios subsecuentes.
+
+Segundo. Los cargos de personas juzgadoras del Poder Judicial del Estado de Nayarit, que no hayan sido objeto de renovación en la elección judicial del año 2025, así como las vacantes correspondientes, se elegirán, sin excepción, en las elecciones judiciales del año 2028, conforme a lo previsto en este Decreto.
+
+Las Juezas y Jueces, Magistradas y Magistrados del Tribunal Superior de Justicia del Estado de Nayarit que se encuentren en funciones a la entrada en vigor del presente Decreto y cuyo encargo concluiría en el año 2027, se ajustarán a los términos del artículo Vigésimo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Nayarit.
+
+Tercero. La jornada electoral de la elección judicial se celebrará de forma coincidente el primer domingo de junio del año 2028. Podrán participar como observadoras electorales las personas o agrupaciones acreditadas por la autoridad electoral competente, con excepción de representantes de los partidos políticos.
+
+La autoridad electoral competente efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal Electoral del Estado de Nayarit, que resolverá todas las impugnaciones en los términos y plazos previstos en el presente Decreto.
+
+Las personas que resulten electas tomarán protesta de su encargo ante el Congreso del Estado el 18 de agosto de 2028. El órgano de administración judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar el 15 de septiembre de dicha anualidad.
+
+Cuarto. El Congreso del Estado realizará las adecuaciones necesarias al marco jurídico local conforme al presente Decreto dentro de los treinta días hábiles siguientes a su entrada en vigor.
+
+Quinto. El periodo de las Magistradas y Magistrados y las Juezas y Jueces que resulten electos en la elección que se celebre en el año 2028, conforme al presente Decreto durará ocho años, por lo que vencerá en el año 2036.
+
+Sexto. Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+Séptimo. Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
