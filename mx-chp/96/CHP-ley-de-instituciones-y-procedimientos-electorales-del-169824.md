@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-instituciones-y-procedimientos-electorales-del-169824"
 country: "mx"
 rank: "ley"
 publication_date: "2023-09-22"
-last_updated: "2026-07-28"
+last_updated: "2026-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Número 305 del Periódico Oficial del Estado de Chiapas, el viernes 22 de septiembre de 2023.
 
@@ -365,9 +365,13 @@ I. Estar inscrito en el Registro Federal de Electores y contar con credencial pa
 
 II. No desempeñarse como Magistrada o Magistrado Electoral, Consejero Electoral u ocupar un cargo de dirección o en el Servicio Profesional de carrera en los órganos electorales, en el ámbito federal o estatal, salvo que se separe de su cargo tres años antes de la fecha del inicio del proceso electoral de que se trate.
 
-III. No tener empleo, cargo o comisión en el gobierno federal, estatal o municipal o en órganos autónomos federales o locales, o renunciar o estar separado de cualquiera de ellos antes de la fecha del inicio del proceso electoral de que se trate.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
 
-En los casos de los cargos de elección popular, obtener la licencia respectiva en el plazo antes señalado, con excepción de aquellos que pretendan contender a una diputación local, para los cuales deberá ser de noventa días antes de la jornada electoral, de conformidad con lo establecido en la Constitución Local.
+III. No tener empleo, cargo o comisión en el gobierno federal, estatal o municipal o en órganos autónomos federales o locales, o renunciar o estar separado de cualquiera de ellos noventa días antes de la jornada electoral.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+En los casos de los cargos de elección popular, obtener la licencia respectiva noventa días antes de la jornada electoral.
 
 Las y los servidores públicos que pretendan ser reelectos en su mismo cargo, estarán sujetos a las determinaciones contempladas en esta Ley.
 
@@ -519,7 +523,9 @@ b) Tratándose de las y los presidentes municipales, Sindicatura y Regidurías q
 
 c) Las y los presidentes municipales, síndicos y regidores, que pretendan ser reelectos deberán ser registrados para el mismo municipio en que fueron electos previamente.
 
-d) Las y los presidentes municipales, síndicos y regidores deberán obtener la licencia respectiva de separación de su encargo a más tardar antes del inicio del proceso electoral, la cual deberán de conservar hasta la conclusión del proceso electoral en el que participa.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+d) Las y los presidentes municipales, síndicos y regidores deberán obtener la licencia respectiva de separación de su encargo a más tardar noventa días antes de la jornada electoral.
 
 e) Las y los Suplentes Generales que no hubieren desempeñado el cargo como propietarios, podrán ser postulados con el carácter de propietarios para el periodo inmediato; en caso de haber ejercido el cargo, se sujetarán a las limitaciones establecidas en este precepto para los propietarios.
 
@@ -3103,7 +3109,7 @@ VI. Contar al momento de su designación con una experiencia mínima de cinco a�
 
 VII. Gozar de buena reputación.
 
-VIII. No tener parentesco de consanguinidad o afinidad hasta el tercer grado, ni ser cónyuge, con los titulares de los poderes, los secretarios de despacho ni con los funcionarios del Instituto de Elecciones.
+VIII. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2026)
 
 4. La actuación de la Contraloría General, los dictámenes, proyectos de acuerdo o de resolución y demás actos que al efecto emita en el ámbito de sus atribuciones, serán definitivos y no estarán sujetos a ningún tipo de aprobación o rechazo por parte de algún otro órgano del Instituto de Elecciones.
 
@@ -7272,3 +7278,11 @@ Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- El Consejo General del Instituto de Elecciones y Participación Ciudadana contará con un plazo de 90 días naturales siguientes a la entrada en vigor del presente Decreto para realizar las adecuaciones reglamentarias que resulten necesarias para su debido cumplimiento.
+
+P.O. 3 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 301 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se contrapongan al contenido del presente Decreto.
