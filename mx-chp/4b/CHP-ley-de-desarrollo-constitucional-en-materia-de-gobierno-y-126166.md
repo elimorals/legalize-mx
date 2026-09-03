@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2026-06-24"
+last_updated: "2026-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de enero de 2018.
 
@@ -1683,6 +1683,12 @@ Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en s
 
 Todos los recursos que integran la Hacienda Municipal serán ejercidos en forma responsable, transparente y directa por los Ayuntamientos, o bien, por quien ellos autoricen, conforme se permita en la Ley respectiva.
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 111 Bis.
+
+Los ayuntamientos del Estado, deberán establecer formas y procedimientos, para que los pueblos y comunidades indígenas y afromexicanos, soliciten, reciban directamente, administren y ejerzan conforme a las leyes de la materia, la parte compensatoria, equitativa, justa y proporcional de los ingresos propios que formen parte de la hacienda pública municipal que administren en ejercicio de sus facultades constitucionales. Lo anterior de conformidad con las reglas de operación y lineamientos emitidos por las autoridades competentes, sin imponer requisitos u obstáculos que impidan el ejercicio efectivo del autogobierno, así como de acuerdo a las leyes correspondientes en materia fiscal, hacendaria, de transparencia y de rendición de cuentas.
+
 ###### Artículo 112.
 
 Son Autoridades Hacendarias y Fiscales las siguientes:
@@ -2894,3 +2900,17 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Todos los Ayuntamientos contaran con un plazo de 90 días a partir de la aprobación del presente Decreto, para realizar las adecuaciones tecnológicas y administrativas que permitan su cumplimiento.
 
 Artículo Tercero.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 302 POR EL QUE SE ADICIONA EL ARTÍCULO 111 BIS, A LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS.".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Para efectos de dar cumplimiento a lo establecido en el presente decreto, así como a la resolución del Amparo en Revisión 344/2025, emitida por la Suprema Corte de Justicia de la Nación, el Ayuntamiento de San Cristobal de las Casas, en un plazo de treinta días naturales contados a partir de la entrada en vigor del presente decreto, entregue de manera oportuna los recursos públicos que proporcionalmente le corresponden a la Comunidad La Candelaria respecto de los ingresos propios del Municipio de San Cristóbal de las Casas, recursos que forman parte de la Hacienda Pública Municipal que administra en ejercicio de sus facultades constitucionales, debiendo este ayuntamiento emitir reglas de operación o, en su caso, lineamientos, así como las formas y procedimientos, para que la Comunidad La Candelaria perteneciente al citado municipio administre y ejerza conforme a las leyes de la materia y de Fiscalización.
+
+Artículo Tercero. El Ayuntamiento de San Cristóbal de Las Casas, Chiapas, en un plazo de treinta días hábiles contados a partir de la entrada en vigor del presente Decreto deberá emitir medidas de capacitación e infraestructura por parte de las autoridades vinculadas a la entrega de recursos, con la finalidad de asegurar que la comunidad La Candelaria perteneciente al citado municipio, cuente con capacidad operativa para cumplir con las funciones de rendición de cuentas y transparencia derivada del ejercicio directo de los recursos, de conformidad con lo establecido en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Artículo Cuarto. La comunidad La Candelaria del Municipio de San Cristóbal de las Casas, a través de sus representantes, deberán cumplir con los requisitos que establezcan las reglas de operación o, en su caso, lineamientos que emita el Ayuntamiento de San Cristóbal de Las Casas, para que administren y ejerzan sus recursos públicos que proporcionalmente le correspondan.
+
+Artículo Quinto. Se derogan todas las disposiciones que se contrapongan al contenido del presente Decreto.
