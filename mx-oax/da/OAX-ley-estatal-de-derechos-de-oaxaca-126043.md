@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2026-01-31"
+last_updated: "2026-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -918,6 +918,8 @@ d) Dentro de los quince días hábiles siguientes a la fecha de haberse efectuad
 Se causarán y pagarán derechos por los servicios públicos que a continuación se enlistan de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 6.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA DE CUOTAS EN EL P.O. DE 3 DE SEPTIEMBRE DE 2026, PÁGINA 2.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -2554,3 +2556,11 @@ Una vez que se dé el inicio de funciones del nuevo sistema del padrón de prove
 Las constancias que se encuentren vigentes, con motivo del registro en el Padrón de Proveedores de la Secretaría de Administración, mantendrán la vigencia previamente establecida en las mismas.
 
 SÉPTIMO. Hasta en tanto se realicen las modificaciones a las diversas normativas, deberá entenderse en lo relativo a la antes Secretaría de la Contraloría y Transparencia Gubernamental y/o Contraloría, a la ahora Secretaría de Honestidad, Transparencia y Función Pública.
+
+P.O. 3 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1687.- MEDIANTE EL CUAL SE ADICIONA EL INCISO c) A LA FRACCIÓN IV DEL ARTÍCULO 30 BIS DE LA LEY ESTATAL DE DERECHOS DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de (sic) publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
