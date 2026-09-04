@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2026-05-13"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2991,11 +2991,19 @@ Si el juzgador lo creyere conveniente, además de las penas previstas para cada 
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTICULO 240.
 
-Al que sin causa justificada no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de tres meses a dos años y de noventa a ciento ochenta días multa y suspensión o privación de los derechos de familia, en relación con el ofendido.
+Al que sin causa justificada no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de dos a cinco años y de ciento ochenta a trescientos sesenta días multa y suspensión o privación de los derechos de familia, en relación con el ofendido y, como reparación del daño, el pago de las cantidades no suministradas oportunamente.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+Cuando no sean comprobables el salario o los ingresos del deudor alimentario, éstos se determinarán con base en la capacidad económica y nivel de vida que el deudor y el acreedor alimentario hayan tenido en los dos últimos años.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+La penalidad antes referida podrá aumentarse hasta en una mitad más, cuando el deudor alimentario abandone o incumpla sus obligaciones de asistencia alimentaria para con una mujer o persona gestante en estado de gravidez con quien se presuma la paternidad en razón de la relación de matrimonio, concubinato o relación de hecho.
 
 Este delito se perseguirá por querella de parte, excepto cuando el ofendido sea incapaz y no tenga representante legal, caso en el cual el Ministerio Público procederá de oficio a reserva de que se promueva la designación de un tutor especial.
 
@@ -3009,11 +3017,13 @@ En el caso de que los acreedores sean ancianos o enfermos, o si del incumplimien
 
 Para los efectos de este artículo, se tendrá por consumado el delito aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTICULO 241.
 
-Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá prisión de seis meses a tres años y de ciento ochenta a trescientos sesenta días multa y suspensión o privación de derechos de familia respecto al ofendido. La autoridad judicial resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste, con base en las disposiciones aplicables del Código Civil del Estado.
+Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá prisión de tres a seis años y de trescientos sesenta a seiscientos días multa y suspensión o privación de derechos de familia respecto al ofendido. La autoridad judicial resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste, con base en las disposiciones aplicables del Código Familiar del Estado.
+
+(REFORMADO, P.O. 17 DE JUNIO DE 2009
 
 Se impondrá hasta la mitad de la pena anterior, al que dolosamente incumpla con la orden judicial de informar acerca de los ingresos de quienes deban cumplir con las obligaciones señaladas en los artículos anteriores, o haciéndolo no lo haga dentro del plazo señalado en el oficio respectivo y verazmente u omita realizar de inmediato el descuento ordenado.
 
@@ -5648,3 +5658,31 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 447 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; CÓDIGO FAMILIAR; LEY DE GOBIERNO MUNICIPAL; LEY DEL NOTARIADO; CÓDIGO PENAL; LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y LEY ORGÁNICA DEL PODER JUDICIAL, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Sinaloa, deberá realizar las modificaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos de los Municipios del Estado, deberán realizar las adecuaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Judicial del Estado de Sinaloa deberá determinar en un plazo no mayor a 60 días contados a partir del inicio de vigencia, el área administrativa responsable de gestionar la información del Registro Nacional de Obligaciones Alimentarias, para el debido cumplimiento del Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría General de Gobierno del Poder Ejecutivo del Estado a través del Registro Civil deberá realizar las acciones conducentes a efecto de transferir todos los sistemas y bases de datos con las que cuente a efecto de que el Supremo Tribunal de Justicia pueda suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que se genere sobre el incumplimiento de las obligaciones alimentarias.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
