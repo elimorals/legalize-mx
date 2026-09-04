@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2026-08-14"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -351,13 +351,15 @@ Los partidos políticos y las personas servidoras públicas no podrán realizar 
 
 La ley establecerá la forma de las campañas, de celebración de la jornada electoral, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales. Durante el proceso electoral local, todos los días y horas son hábiles.
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 APARTADO F. Justicia Electoral y sistema de nulidades.
 
 Para garantizar el principio de legalidad de los actos y resoluciones electorales se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación; este sistema deberá observar la garantía de audiencia y los principios de publicidad, gratuidad, economía, prontitud y concentración procesal.
 
 En materia electoral, la interposición de los medios de impugnación constitucionales y legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 La ley establecerá el sistema de nulidades de las elecciones por violaciones graves, dolosas y determinantes en los siguientes casos:
 
@@ -366,6 +368,10 @@ a).- Se exceda el gasto de campaña en un cinco por ciento del monto total autor
 b).- Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley.
 
 c).- Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+d).- Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.
 
 Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
@@ -6188,3 +6194,13 @@ SÉPTIMO.- Los recursos públicos que resulten como economías o ahorros derivad
 OCTAVO.- El Instituto Estatal Electoral de Baja California y el Tribunal de Justicia Electoral del Estado revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente Decreto, dentro de los noventa días naturales siguientes a su entrada en vigor.
 
 NOVENO.- El presente Decreto no contraviene, modifica, ni afecta las disposiciones transitorias previstas en el Decreto número 207, publicado en el Periódico Oficial del Estado de Baja California número 78, Sección VII, de fecha 30 de diciembre de 2025, en materia de no reelección y nepotismo electoral, las cuales subsistirán y continuarán aplicándose en los términos y plazos originalmente establecidos hasta el año 2030.
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 315 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Aprobada la presente reforma por el Pleno del Congreso del Estado, remítase a los Ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Cumplido el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, procédase a realizar la declaración de incorporación constitucional correspondiente, y remítase el presente Decreto para su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
