@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-trabajadores-al-servicio-del-estado-de-sinaloa-6671"
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-04"
-last_updated: "2026-02-13"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 4 de abril de 1986.
 
@@ -523,11 +523,15 @@ VIII.- Proporcionar capacitación o adiestramiento en los términos de esta Ley;
 
 IX.- Otorgar a las mujeres embarazadas la protección que establecen los reglamentos;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-X.- Otorgar a las mujeres y personas trabajadoras menstruantes diagnosticadas con dismenorrea primaria o secundaria en grado incapacitante, permiso para ausentarse de su centro de trabajo de uno a tres días cada mes, con goce de salario íntegro, en los términos establecidos en el artículo 86 BIS de esta Ley; y
+X.- Otorgar a las mujeres y personas trabajadoras menstruantes diagnosticadas con dismenorrea primaria o secundaria en grado incapacitante, permiso para ausentarse de su centro de trabajo de uno a tres días cada mes, con goce de salario íntegro, en los términos establecidos en el artículo 86 Bis de esta Ley;
 
-XI.- Las demás que les fijen las leyes, reglamentos y manuales.
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+XI.- Otorgar permiso de paternidad a que se refiere el artículo 86 Bis B de esta Ley; y,
+
+XII.- Las demás que les fijen las leyes, reglamentos y manuales.
 
 ### CAPITULO II. OBLIGACIONES CON EL SINDICATO
 
@@ -769,9 +773,17 @@ En caso de muerte del trabajador, la entidad pública pagará a los beneficiario
 
 Las mujeres disfrutarán de un descanso de un mes anterior a la fecha que aproximadamente se fije para el parto, y de otros dos meses después del mismo, con goce de salario íntegro, computándose en su antigüedad ambos períodos, sin que lo anterior afecte su derecho al disfrute de vacaciones.
 
+> <small>(ADICIONAD0, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+En caso de adopción de un infante disfrutarán de un descanso de seis semanas con goce de sueldo, posteriores al día en que lo reciban.
+
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
 En el período de lactancia hasta por el término máximo de seis meses, tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, en lugar adecuado e higiénico que se designe para tal efecto, o bien, cuando esto no sea posible, previo acuerdo se reducirá en una hora su jornada de trabajo durante el período señalado.
+
+> <small>(ADICIONAD0, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+Tendrán derecho a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzando el segundo año de vida.
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2024)</small>
 
@@ -784,6 +796,10 @@ Para tal efecto, deberán presentar un certificado médico que cumpla con los re
 ARTICULO 86 BIS A.- Todas las personas trabajadoras gozarán del permiso de un día al año, con goce de salario íntegro, para someterse a la realización de estudios médicos de detección oportuna del cáncer, particularmente de mama, cervicouterino, próstata, así como otras enfermedades crónicas. Para justificar este permiso, deberá presentarse la constancia médica correspondiente expedida por una institución pública o privada de salud.
 
 Los permisos señalados en este artículo no podrán ser sujetos de compensación económica en caso de no ser ejercidos.
+
+> <small>(ADICIONAD0, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+ARTICULO 86 BIS B.- Los hombres trabajadores tendrán derecho a que se les otorgue permiso de paternidad de diez días laborales con goce de sueldo, posteriores al día de nacimiento de sus hijos y de igual manera en el caso de la adopción de un infante.
 
 ###### ARTICULO 87.
 
@@ -2128,3 +2144,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 523 DEL H. CONGRESO DEL ESTADO.- POR EL QUE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA Y DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
