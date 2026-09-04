@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110192"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2026-07-22"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2015.
 
@@ -1377,7 +1377,19 @@ Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custod
 
 I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la Ley General, la presente Ley y demás disposiciones aplicables.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de sustento y supervivencia y, en la especie:
+
+a) La alimentación y nutrición, vestido, habitación, recreación, atención médica y psicológica preventiva integrada a la salud, asistencia médico-hospitalaria y, en su caso, los gastos de embarazo y parto;
+
+b) Los gastos derivados de la educación y la formación para proporcionar a las niñas, niños y adolescentes un oficio, arte o profesión, adecuados a sus circunstancias personales; y
+
+c) Con relación a las niñas, niños y adolescentes con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posbile, su habilitación o rehabilitación y su desarrollo.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+El Supremo Tribunal de Justicia del Estado, en el ámbito de su competencia, conforme a lo que establece la Ley General de los Derechos de Niñas, Niños y Adolescentes y las disposiciones administrativas que de ella se desprenden, será el encargado de suministrar, intercambiar, sistematizar, consultar, analizar, y actualizar la información que se genere sobre el incumplimiento de las obligaciones alimentarias.
 
 II. Registrarlos dentro de los primeros sesenta días de vida;
 
@@ -1743,7 +1755,13 @@ XIX. Atender y prevenir la violencia familiar en coordinación con las instituci
 
 XX. Orientar a las autoridades correspondientes del Estado para que den debido cumplimiento al derecho a la identidad;
 
-XXI. Remitir al Sistema Nacional DIF la información vinculada a niñas, niños y adolescentes migrantes; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+XXI. Remitir al Sistema Nacional DIF la información vinculada a niñas, niños y adolescentes migrantes;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+XXI Bis. Tener acceso a las bases de datos del Registro Nacional de Obligaciones Alimentarias, en los términos establecidos en la Ley General; y
 
 XXII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
@@ -2326,5 +2344,33 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes a las disposiciones reglamentarias correspondientes, en un plazo que no exceda de los 90 días naturales posteriores al inicio de vigencia del presente Decreto.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 447 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; CÓDIGO FAMILIAR; LEY DE GOBIERNO MUNICIPAL; LEY DEL NOTARIADO; CÓDIGO PENAL; LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y LEY ORGÁNICA DEL PODER JUDICIAL, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Sinaloa, deberá realizar las modificaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos de los Municipios del Estado, deberán realizar las adecuaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Judicial del Estado de Sinaloa deberá determinar en un plazo no mayor a 60 días contados a partir del inicio de vigencia, el área administrativa responsable de gestionar la información del Registro Nacional de Obligaciones Alimentarias, para el debido cumplimiento del Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría General de Gobierno del Poder Ejecutivo del Estado a través del Registro Civil deberá realizar las acciones conducentes a efecto de transferir todos los sistemas y bases de datos con las que cuente a efecto de que el Supremo Tribunal de Justicia pueda suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que se genere sobre el incumplimiento de las obligaciones alimentarias.
+
+###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
