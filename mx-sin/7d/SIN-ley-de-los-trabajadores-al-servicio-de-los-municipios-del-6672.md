@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-trabajadores-al-servicio-de-los-municipios-del-6672"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-21"
-last_updated: "2024-11-22"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 21 de marzo de 1984.
 
@@ -173,7 +173,9 @@ II.- Atender las indicaciones de las personas que impartan la capacitación o ad
 
 III.- Presentar, cuando proceda, los exámenes y pruebas de evaluación de conocimientos y de aptitud que sean requeridos.
 
-### CAPITULO III. DE LA JORNADA DE TRABAJO Y DE LOS DESCANSOS LEGALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+### CAPITULO III. DE LA JORNADA DE TRABAJO, DE LOS DESCANSOS LEGALES Y DE LOS PERMISOS
 
 ###### ARTICULO 18.
 
@@ -232,6 +234,10 @@ VII.- El primero de diciembre de cada seis años, cuando corresponda la transmis
 VIII.- El veinticinco de diciembre; y,
 
 IX.- El día que el Presidente Municipal rinda el informe anual de labores.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+ARTICULO 25 BIS.- Los hombres trabajadores tendrán derecho a que se les otorgue permiso de paternidad de diez días laborales con goce de sueldo, posteriores al día de nacimiento de sus hijos y de igual manera en el caso de la adopción de un infante.
 
 ### CAPITULO IV. DE LAS VACACIONES
 
@@ -375,11 +381,15 @@ IV.- Proporcionar a los trabajadores los útiles, instrumentos y materiales nece
 
 V.- Guardar a los trabajadores de base la debida consideración y respeto;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-VI.- Otorgar a las mujeres y personas trabajadoras menstruantes diagnosticadas con dismenorrea primaria o secundaria en grado incapacitante, permiso para ausentarse de su centro de trabajo de uno a tres días cada mes, con goce de salario íntegro, en los términos establecidos en el artículo 32 BIS de esta Ley; y
+VI.- Otorgar a las mujeres y personas trabajadoras menstruantes diagnosticadas con dismenorrea primaria o secundaria en grado incapacitante, permiso para ausentarse de su centro de trabajo de uno a tres días cada mes, con goce de salario íntegro, en los términos establecidos en el artículo 32 Bis de esta Ley;
 
-VII.- Las demás que les fijen las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+VII.- Otorgar permiso de paternidad a que se refiere el artículo 25 Bis de esta Ley; y,
+
+VIII.- Las demás que les fijen las leyes y reglamentos.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
@@ -1402,3 +1412,11 @@ P.O. 22 DE NOVIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 5 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE ADICIONA EL ARTÍCULO 86 BIS A, A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA Y SE ADICIONA EL ARTÍCULO 38 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA.”]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 523 DEL H. CONGRESO DEL ESTADO.- POR EL QUE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA Y DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
