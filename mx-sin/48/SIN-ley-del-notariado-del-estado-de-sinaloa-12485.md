@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-notariado-del-estado-de-sinaloa-12485"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-14"
-last_updated: "2022-09-23"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL NOTARIADO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 1998.
 
@@ -288,6 +288,12 @@ El Notario deberá desempeñar la función pública en la Notaría a su cargo y 
 ###### ARTICULO 21.
 
 El Ejecutivo del Estado, por causas que estime justificadas, podrá autorizar el cambio de jurisdicción para el ejercicio notarial, previa solicitud del interesado, expidiendo al efecto una nueva autorización.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+###### ARTICULO 21 Bis.
+
+La persona notaria ante quien se comparezca para que desempeñe la función pública, respecto de la compraventa de un bien inmueble y la constitución o transmisión de derechos reales, deberá solicitar a las partes el Certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2154,3 +2160,31 @@ A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los M
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 447 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; CÓDIGO FAMILIAR; LEY DE GOBIERNO MUNICIPAL; LEY DEL NOTARIADO; CÓDIGO PENAL; LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y LEY ORGÁNICA DEL PODER JUDICIAL, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Sinaloa, deberá realizar las modificaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos de los Municipios del Estado, deberán realizar las adecuaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTICULO CUARTO.
+
+El Poder Judicial del Estado de Sinaloa deberá determinar en un plazo no mayor a 60 días contados a partir del inicio de vigencia, el área administrativa responsable de gestionar la información del Registro Nacional de Obligaciones Alimentarias, para el debido cumplimiento del Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría General de Gobierno del Poder Ejecutivo del Estado a través del Registro Civil deberá realizar las acciones conducentes a efecto de transferir todos los sistemas y bases de datos con las que cuente a efecto de que el Supremo Tribunal de Justicia pueda suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que se genere sobre el incumplimiento de las obligaciones alimentarias.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
