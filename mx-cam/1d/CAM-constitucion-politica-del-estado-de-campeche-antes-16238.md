@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2026-07-03"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -709,7 +709,11 @@ Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se
 
 El H. Congreso del Estado se compondrá de representantes electos directamente en su totalidad el primer domingo de junio de cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible, en los términos que determine la ley.
 
-> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+El presupuesto anual del H. Congreso del Estado no podrá exceder del cero punto setenta por ciento del Presupuesto de Egresos de la Entidad. En el ejercicio de sus funciones y en la integración de sus órganos de gobierno, técnicos y administrativos, el Congreso deberá garantizar los principios de paridad de género, igualdad sustantiva y perspectiva de género, en los términos que establezcan la Constitución y las leyes aplicables.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 El Órgano encargado de las funciones de contraloría del Poder Legislativo tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales, en el ámbito de su competencia; también conocerá de los recursos, en los términos que establezca la Ley en la materia.
 
@@ -753,13 +757,15 @@ e).- En ningún caso, un partido político podrá contar con un número de Diput
 
 f).- En los términos de lo establecido en los incisos c), d) y e) anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de los incisos d) o e), se adjudicarán a los demás partidos políticos con derecho a ello, en proporción directa con las respectivas votaciones estatales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTICULO 32.
 
-Los Diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las personas diputadas del H. Congreso del Estado no podrán ser electas para el período inmediato posterior al ejercicio de su mandato.
 
-La disposición anterior comprende también a los Diputados suplentes y a los que aparezcan en la lista de representación proporcional, siempre que hubiesen ejercido el cargo
+Las personas diputadas suplentes podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; en ningún caso, las personas diputadas propietarias podrán ser electas para el período inmediato con el carácter de suplentes.
+
+En ningún caso podrá participar en la elección de una diputación la persona que tenga o haya tenido, en los últimos tres años anteriores al día de la elección, vínculo de matrimonio, concubinato o unión de hecho, o parentesco por consanguinidad o civil en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado, o por afinidad hasta el segundo grado, con la persona que se encuentre ejerciendo la titularidad de la diputación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
@@ -2251,29 +2257,31 @@ b) Los Ayuntamientos serán asambleas deliberantes y tendrán autoridad y compet
 
 c) En ningún caso los Ayuntamientos, como cuerpos colegiados, podrán desempeñar las funciones del Presidente Municipal, ni éste por si solo las de los Ayuntamientos, ni el Ayuntamiento o el Presidente Municipal, funciones judiciales;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-II. Los Municipios del Estado, su denominación y la de sus cabeceras, serán los que señale la Ley de la materia.
+II.- Los Municipios del Estado, su denominación y la de sus cabeceras, serán los que señale la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+Los Ayuntamientos se integrarán con una presidencia municipal, sindicaturas y regidurías, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. Los Ayuntamientos de los Municipios de Campeche y de Carmen se tendrán integrados con una Presidenta o Presidente, siete Regidurías y dos Sindicaturas electos por el principio de mayoría relativa, y cuatro Regidurías y una Sindicatura asignados por el principio de representación proporcional, los demás Ayuntamientos se integrarán con una Presidenta o Presidente, cinco Regidurías y una Sindicatura de mayoría relativa y tres Regidurías y una Sindicatura de representación proporcional. Para la asignación de Regidurías y Sindicaturas de representación proporcional se observarán las disposiciones de la Ley Electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento de la votación total emitida en el Municipio correspondiente.
 
-Los Ayuntamientos se integrarán con una presidenta o presidente municipal y con varios miembros más llamados síndicos y regidores. Salvo los Ayuntamientos de los Municipios de Campeche y de Carmen que se integrarán con una Presidenta o Presidente, siete Regidurías y dos Sindicaturas electos por el principio de mayoría relativa, y cuatro Regidurías y una Sindicatura asignados por el principio de representación proporcional, los demás Ayuntamientos se integrarán con una Presidenta o Presidente, cinco Regidurías y una Sindicatura de mayoría relativa y tres Regidurías y una Sindicatura de representación proporcional, observándose el principio de paridad de género. Para la asignación de Regidurías y Sindicaturas de representación proporcional se observarán las disposiciones de la Ley Electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento de la votación total emitida en el Municipio correspondiente:
+En ningún caso podrá participar en la elección para la Presidencia Municipal, las Regidurías o las Sindicaturas, la persona que tenga o haya tenido en los tres años anteriores al día de la elección vínculo de matrimonio, concubinato o unión de hecho, o parentesco por consanguinidad o civil en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado o por afinidad hasta el segundo grado, con la persona que se encuentre ejerciendo la titularidad del cargo para el que se postula.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 III.- Los Municipios podrán subdividirse territorialmente en Secciones y Comisarías Municipales. La facultad para crear Secciones y Comisarías corresponderá a la Legislatura del Estado y a los Ayuntamientos, respectivamente;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-IV.- Cada Sección Municipal será administrada por un cuerpo colegiado, auxiliar del Ayuntamiento denominada Junta Municipal, cuya elección se efectuará el primer domingo de junio de cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible en los términos que disponga la legislación de la materia, integrado por una Presidenta o Presidente, tres Regidurías y una Sindicatura electos por el principio de mayoría relativa y una Regiduría asignada por el sistema de representación proporcional, observándose el principio de paridad de género y conforme a las disposiciones de la legislación local de la materia, siempre que el respectivo partido haya obtenido por lo menos el cuatro por ciento de la votación emitida en la Sección Municipal correspondiente; y
+IV.- Cada Sección Municipal será administrada por un cuerpo colegiado, auxiliar del Ayuntamiento denominada Junta Municipal, cuya elección se efectuará el primer domingo de junio de cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible en los términos que disponga la legislación de la materia, integrado por una Presidenta o Presidente, tres Regidurías y una Sindicatura electos por el principio de mayoría relativa y una Regiduría asignada por el sistema de representación proporcional, observándose los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal, conforme a las disposiciones de la legislación local de la materia, siempre que el respectivo partido haya obtenido por lo menos el cuatro por ciento de la votación emitida en la Sección Municipal correspondiente.
+
+En ningún caso podrá participar en la elección para la Presidencia, las Regidurías o la Sindicatura de una Junta Municipal, la persona que tenga o haya tenido en los tres años anteriores al día de la elección vínculo de matrimonio, concubinato o unión de hecho, o parentesco por consanguinidad o civil en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado o por afinidad hasta el segundo grado, con la persona que se encuentre ejerciendo la titularidad del cargo para el que se postula; y
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 V.- Cada Comisaría Municipal será administrada por una sóla persona, auxiliar del Ayuntamiento, que recibirá el nombre de Comisario Municipal, cuya elección se hará conforme a los procedimientos de elección directa que prevenga la citada ley orgánica, procedimientos que los Ayuntamientos aplicarán dentro de los treinta días siguientes a su instalación y toma de posesión.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos y los integrantes de las Juntas Municipales durarán en sus cargos tres años, y podrán ser reelectos hasta por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las Presidentas y Presidentes Municipales, Regidoras, Regidores, Síndicas y Síndicos de los Ayuntamientos, así como las Presidentas y Presidentes, Regidoras, Regidores, Síndicas y Síndicos de las Juntas Municipales, durarán en su encargo tres años y no podrán ser reelectas para el periodo inmediato posterior a su ejercicio. Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes si podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -2320,6 +2328,10 @@ II. El tesorero municipal o administrador de fondos públicos municipales si no 
 III. Los que tuvieren mando de fuerza pública en el Municipio en que se realice la elección, salvo que dejare el mando cuarenta y cinco días antes de la elección;
 
 IV. El padre en concurrencia con el hijo, el hermano en concurrencia con el hermano, el socio con su consocio y el patrón con su dependiente.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+V. La persona que tenga o haya tenido, en los últimos tres años anteriores al día de la elección, vínculo de matrimonio, concubinato o unión de hecho, o parentesco por consanguinidad civil o línea recta sin limitación de grado, en línea colateral hasta el cuarto grado o por afinidad hasta el segundo grado, con la persona que se encuentre ejerciendo la titularidad del cargo para el cual se postula.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -2573,7 +2585,9 @@ Los funcionarios o empleados públicos que aceptaren su encargo faltándoles alg
 
 Los sueldos o remuneraciones de los servidores públicos y todos los demás gastos estatales y municipales se fijarán anualmente en la Ley de Presupuesto de Egresos del Estado y en el Presupuesto de Egresos del correspondiente municipio.
 
-Los servidores públicos del Estado, de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, la cual no podrá ser disminuida durante el tiempo de su encargo, que deberá ser proporcional a sus responsabilidades y tendrán derecho a disfrutar de los beneficios de seguridad y servicios sociales que señale la ley de la materia.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+Los servidores públicos del Estado, de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, la cual no podrá ser disminuida durante el tiempo de su encargo, que deberá ser proporcional a sus responsabilidades y tendrán derecho a disfrutar de los beneficios de seguridad y servicios sociales que señale la ley de la materia; tratándose de las personas consejeras electorales, magistradas y magistrados electorales, así como de las personas titulares de las secretarías de órganos administrativos y de las áreas ejecutivas y técnicas u homólogas del Organismo Público Local Electoral y del Tribunal Electoral del Estado, sus remuneraciones deberán ajustarse a los límites previstos en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y, en ningún caso, podrán autorizarse ni cubrirse con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones análogas que no se encuentren expresamente previstas en la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 Dicha remuneración será determinada sobre las siguientes bases:
 
@@ -3796,3 +3810,23 @@ SEGUNDO.- Para el cumplimiento de lo dispuesto en el presente Decreto, el Estado
 Lo anterior se realizará atendiendo a los principios de universalidad, interdependencia, indivisibilidad y progresividad de los derechos humanos.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarios (sic) del marco normativo local en lo que se opongan al presente decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 285 POR EL QUE "SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 30; EL ARTÍCULO 32; LAS FRACCIONES II, IV DEL PÁRRAFO PRIMERO Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 102; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 121 Y, SE ADICIONAN EL PÁRRAFO TERCERO AL ARTÍCULO 30 Y LA FRACCIÓN V AL ARTÍCULO 104, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado de Campeche deberá realizar las adecuaciones correspondientes a la Ley de Instituciones y Procedimientos Electorales del Estado de Campeche, a la Ley Orgánica de los Municipios del Estado de Campeche y demás disposiciones jurídicas que resulten necesarias para la plena observancia de este Decreto, dentro de un plazo de sesenta días naturales siguientes a su entrada en vigor.
+
+TERCERO.- Las disposiciones contenidas en el presente Decreto en materia de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva serán aplicables a los procesos electorales locales que se celebren con posterioridad a su entrada en vigor, observando en todo momento lo dispuesto por el artículo 105, fracción II, penúltimo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+CUARTO.- El Instituto Electoral del Estado de Campeche, en el ámbito de sus atribuciones, realizará las adecuaciones a la reglamentación, lineamientos, criterios y demás instrumentos normativos que resulten necesarios para garantizar la observancia y aplicación de las disposiciones previstas en el presente Decreto.
+
+QUINTO.- El H. Congreso del Estado de Campeche, deberá prever los ajustes necesarios al presupuesto con el objeto de que las reducciones que, en su caso, se realicen en cumplimiento a lo previsto en el artículo 116 Constitucional, surtiendo efectos a partir del inicio de la legislatura subsecuente instalada en el año 2027.
+
+SEXTO.- Las reformas respecto a la prohibición de reelección y nepotismo electoral serán aplicables conforme a la reforma constitucional federal a partir de los procesos electorales a celebrarse en 2030, conforme al Decreto publicado el 1° de abril del año 2025 en el Diario Oficial de la Federación.
+
+SÉPTIMO.- Los recursos públicos que resulten como economías o ahorros en el presupuesto anual del Estado derivados de las reducciones en la integración de los Ayuntamientos deberán quedar en el patrimonio de la hacienda pública de cada municipio.
+
+OCTAVO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al contenido del presente Decreto.
