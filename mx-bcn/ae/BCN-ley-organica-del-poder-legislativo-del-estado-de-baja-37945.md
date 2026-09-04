@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2026-06-05"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -633,27 +633,27 @@ III. Dirección de Procesos Parlamentarios;
 
 IV. Dirección de Consultoría Legislativa;
 
-V. Las Unidades Auxiliares siguientes:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-a). Unidad de Asuntos Jurídicos;
+V. Contraloría Interna;
 
-b). Unidad de Contraloría Interna;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+VI. Las Unidades Auxiliares siguientes:
 
-c). Unidad de Transparencia;
+a) Unidad de Asuntos Jurídicos;
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+b) Unidad de Transparencia;
 
-d). Unidad de Comunicación Social; y,
+c) Unidad de Comunicación Social; y,
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+d) Unidad de Igualdad de Género.
 
-e). Unidad de Igualdad de Género.
+> <small>(REFORMADO [N. DE EN REPUBLICADO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 El Poder Legislativo del Estado por mayoría calificada del Pleno y a solicitud de la Junta de Coordinación Política, podrá modificar su estructura orgánica cuando ello sea necesario para apoyar el cumplimiento de las atribuciones del Congreso del Estado, y bajo los términos y condiciones previstas en la Constitución Local.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO [N. DE EN REPUBLICADO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 El Poder Legislativo observará el principio de paridad de género, en la integración de estas áreas.
 
@@ -1083,9 +1083,9 @@ XIV.- Turnar a la Junta de Coordinación Política el dictamen correspondiente a
 
 XV.- Presentar a la Junta de Coordinación Política, las propuestas de nombramiento o remoción del Titular de la Dirección de Consultoría Legislativa así como del titular de la Unidad de Asuntos Jurídicos;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-XVI.- Elaborar los proyectos de Reglamentos que se deriven de esta Ley y sus reformas, con base en las propuestas que las Comisiones, la Unidad de Contraloría o cualquiera de los Diputados le hagan llegar; debiendo remitirlos a la Junta de Coordinación Política;
+XVI.- Elaborar los proyectos de Reglamentos que se deriven de esta Ley y sus reformas, con base en las propuestas que las Comisiones, la Dirección de Administración, la Contraloría Interna o cualquiera de las Diputaciones le hagan llegar; debiendo remitirlos a la Junta de Coordinación Política;
 
 XVII.- (DEROGADA, G.P. 14 DE OCTUBRE DE 2010)
 
@@ -1501,45 +1501,95 @@ VII.- Las demás que establezca la Ley y Reglamento.
 
 El desempeño de las atribuciones y obligaciones de la Dirección de Consultoría Legislativa, estará bajo la vigilancia y control de la Comisión de Gobernación, Legislación y Puntos Constitucionales.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-#### SECCIÓN VI. DE LA UNIDAD DE CONTRALORÍA INTERNA
+#### SECCIÓN VI. DE LA CONTRALORÍA INTERNA
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTICULO 81.
 
-La Unidad de Contraloría Interna es un órgano dependiente del Pleno del Congreso del Estado, que tiene a su cargo las funciones de control y evaluación del desempeño de las Direcciones, Unidades Auxiliares y de la Auditoría Superior del Estado, así como la atención de quejas y denuncias, investigación, substanciación, calificación de las faltas administrativas de las y los servidores públicos adscritos a los mismos, y en su caso, la resolución de los procedimientos de responsabilidad administrativa que le corresponda en los términos previstos en las leyes de la materia. Asimismo, la Unidad de Contraloría Interna tendrá a su encargo la substanciación de los procedimientos de reclamación de indemnización por responsabilidad patrimonial señalados en la Ley de la materia.
+La Contraloría Interna es un órgano dependiente del Pleno del Congreso del Estado, cuyas atribuciones son las siguientes:
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+I. Practicar auditorías, revisiones y verificaciones;
 
-ARTICULO 81 BIS.- En el desempeño de sus funciones, la Unidad de Contraloría Interna contará con el apoyo y la colaboración de las personas Titulares de las Direcciones y Unidades Auxiliares del Congreso y de la Auditoría Superior del Estado.
+II. Control y evaluación del desempeño de las Direcciones, Unidades Auxiliares del Congreso, al igual que de las áreas homólogas de la Auditoría Superior del Estado;
 
-La persona Titular de la Unidad podrá designar dentro de su estructura orgánica a las y los servidores públicos que fungirán como autoridades investigadora, substanciadora y en su caso resolutora respectivamente, en donde la función de la Autoridad Substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora, conforme a lo dispuesto en la ley de la materia.
+III. Recibir y atender quejas y denuncias;
 
-La persona Titular de la Unidad de Contraloría Interna deberá rendir informe de actividades a la Mesa Directiva por lo menos dos veces al año.
+IV. Investigar, substanciar y calificar las faltas administrativas;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+V. Conocer de los recursos de revocación y reclamación, en los términos que establezcan las leyes aplicables;
 
-ARTICULO 81 TER.- Corresponde a la Unidad de Contraloría Interna, el despacho de los siguientes asuntos:
+VI. Resolver los procedimientos de responsabilidad administrativa que le competan, con apego a los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, verdad material y respeto a los derechos humanos; y
 
-I. A través de los medios electrónicos correspondientes, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar las y los Diputados y demás personas servidoras públicas del Congreso del Estado y de la Auditoría Superior, en términos de la Ley respectiva; así como verificar la evolución patrimonial de las y los servidores públicos de acuerdo con las Leyes y demás ordenamientos legales aplicables;
+VII. Substanciación de los procedimientos de reclamación de indemnización por responsabilidad patrimonial en términos de la Ley de la materia.
 
-II. Conocer e investigar los actos, omisiones o conductas de las y los servidores públicos de las Direcciones y Unidades Auxiliares del Congreso del Estado y de las áreas homologas de la Auditoría Superior del Estado, así como de los particulares señalados en la Ley respectiva, para constituir responsabilidades administrativas, así como aplicar las sanciones que correspondan en los términos que señale las leyes de la materia, y en su caso, hacer las denuncias correspondientes ante la fiscalía Especializada en Combate a la Corrupción o ante otras autoridades competentes, prestándole para tal efecto la colaboración que le fuere requerida;
+La Contraloría Interna es la Autoridad Garante del Poder Legislativo en materia de Transparencia, acceso a la información y protección de datos personales, con las competencias establecidas en las leyes de la materia, así como conocer y resolver los recursos de revisión, verificar el cumplimiento de sus resoluciones e imponer medidas de apremio y sanciones cuando proceda.
 
-III. Atender las quejas o denuncias que se presenten con motivo del incumplimiento de las obligaciones de los servidores públicos del Congreso del Estado;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-IV. Establecer y operar los sistemas de información y bases de datos, mediante medios físicos y electrónicos que garanticen una recepción y seguimiento efectivo de las quejas o denuncias que procedan en el ámbito de su competencia;
+ARTICULO 81 BIS.- En el desempeño de sus funciones, la Contraloría Interna contará con el apoyo y la colaboración de las personas Titulares de las Direcciones y Unidades Auxiliares del Congreso y de las áreas homologas de la Auditoría Superior del Estado.
 
-V. Desarrollar las tareas de revisión, inspección y auditoría interna del ejercicio del presupuesto de egresos del Congreso del Estado;
+La persona Titular de la Contraloría Interna podrá designar dentro de su estructura orgánica a las personas servidoras públicas que funjan como autoridades investigadoras, substanciadora y, en su caso, resolutora, en donde la función de la Autoridad Substanciadora, no podrá ser ejercida por quien tenga funciones de Autoridad investigadora, conforme a lo dispuesto en la ley de la materia.
 
-VI. Proponer a la Comisión de Administración y Finanzas, las políticas, manuales de organización y funciones de las Direcciones y Unidades Auxiliares, que permitan optimizar y eficientar los recursos humanos y materiales, así como la calidad de los servicios que se prestan;
+La persona Titular de la Contraloría Interna deberá rendir informe de actividades a la Mesa Directiva por lo menos dos veces al año.
 
-VII. Intervenir en los procedimientos de entrega y recepción del Congreso del Estado y Auditoría Superior del Estado, conforme al Reglamento y a la Ley de la materia;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-VIII. Las demás, que le señale el Reglamento y la Ley en la materia.
+ARTICULO 81 TER.- Corresponde a la Contraloría Interna, el despacho de los siguientes asuntos:
 
-El desempeño de las atribuciones de la Unidad de Contraloría Interna estará bajo la vigilancia y control de la Mesa Directiva. Corresponde a la Junta de Coordinación Política realizar ante el pleno del Congreso la propuesta de nombramiento correspondiente.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+I.- Recibir y registrar por medios electrónicos, las declaraciones patrimoniales y de intereses, y la constancia de presentación de declaración fiscal de diputaciones y del personal del Congreso y de la Auditoría Superior; verificar su evolución patrimonial y emitir certificado de no anomalías conforme a la Ley de la materia y demás ordenamientos legales aplicables;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+II.- Conocer e investigar actos, omisiones o conductas de las y los servidores públicos de las Direcciones y Unidades Auxiliares del Congreso del Estado y de las áreas homologas de la Auditoría Superior del Estado, así como de los particulares señalados en la Ley respectiva, para efectos de responsabilidades administrativas, así como imponer sanciones y en su caso, formular denuncias ante la Fiscalía Especializada en Combate a la Corrupción o ante otras autoridades competentes, prestándole para tal efecto la colaboración que le fuere requerida;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+III.- Recibir y tramitar quejas y denuncias que se formulen con motivo del incumplimiento de las obligaciones de las personas servidoras públicas del Congreso del Estado y de la Auditoría Superior del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+IV.- Establecer y operar los sistemas de información y bases de datos, mediante medios físicos y electrónicos que garanticen la recepción y seguimiento efectivo de las quejas o denuncias que procedan en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+V.- Realizar revisión, inspección y auditoría interna del ejercicio del presupuesto de egresos del Poder Legislativo del Estado;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VI.- Proponer a la Comisión de Administración y Finanzas, las políticas, manuales de organización y funciones de las Direcciones y Unidades Auxiliares, que permitan optimizar y eficientar los recursos humanos y materiales, así como la calidad de los servicios que se prestan;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+VII.- Intervenir en los procedimientos de entrega y recepción del Congreso y de la Auditoría Superior del Estado, conforme al Reglamento y a la Ley de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+VIII.- Practicar evaluaciones del desempeño a las Direcciones, Unidades Auxiliares del Congreso y sus áreas homólogas de la Auditoría Superior del Estado, así como emitir opiniones sobre proyectos de actualización de normatividad interna;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+IX.- Realizar la defensa jurídica de las resoluciones que emita, cuando sean impugnadas ante los tribunales competentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+X.- Certificar con la intervención de la persona titular, los documentos que obren en los archivos de la Contraloría Interna, siempre que hayan sido generados o recibidos en ejercicio de sus atribuciones y se relacionen con asuntos de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+XI.- Ejercer las funciones, competencias y atribuciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales que establezcan las leyes de la materia; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+XII.- Las demás, que le señale el Reglamento y las Leyes en la materia.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+El desempeño de las atribuciones de la Contraloría Interna estará bajo la vigilancia y control de la Mesa Directiva. Corresponde a la Junta de Coordinación Política realizar ante el pleno del Congreso la propuesta de nombramiento correspondiente.
 
 ARTICULO 81 QUARTER (SIC).- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
@@ -1631,25 +1681,47 @@ ARTICULO 83 SEXIES.- (DEROGADO, P.O. 25 DE NOVIEMBRE DE 2016)
 
 El Comité de Transparencia es el responsable de instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información, y tendrá las demás atribuciones que establezcan las leyes de la materia.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-El Comité de Transparencia se conformará por un número impar, y se integrará por un Presidente que será el Diputado que presida la Comisión de Administración y Finanzas; un Vicepresidente que será el Diputado que designe la Junta de Coordinación Política; así también integran dicho Comité los titulares de cada una de las Direcciones y de las Unidades Auxiliares a que se refiere el artículo 40 de esta Ley. Este órgano deberá adoptar sus resoluciones por mayoría de voto, y en caso de empate, el Presidente tendrá voto de calidad. A sus sesiones podrán asistir como invitados aquellos que sus integrantes consideren necesarios, quienes tendrán voz, pero no voto.
+I. El Comité de Transparencia se conformará por un número impar, y se integrará por:
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+a) Una Presidencia a cargo de la Diputación que presida la Comisión de Administración y Finanzas, con derecho a voz y voto;
 
-Dada la naturaleza jurídica de las funciones que realiza este Comité, las ausencias de sus integrantes con excepción del Secretario, podrán ser sustituidas por un suplente que ellos mismos designen, los cuales contarán con los mismos derechos y obligaciones de sus titulares. Las ausencias del Secretario Ejecutivo deberán ser sustituidas por el Coordinador de la Unidad de Transparencia, lo anterior en los términos de la presente Ley y el Reglamento que al efecto expida el Congreso.
+b) Una Vicepresidencia, que será la Diputación que designe la Junta de Coordinación Política, con derecho a voz y voto;
 
-El Comité de Transparencia contará con un Secretario Ejecutivo, función que recaerá en el Titular de la Unidad de Transparencia, el cual tendrá voz pero no voto dentro de las sesiones.
+c) Las personas titulares de cada una de las Direcciones y de las Unidades Auxiliares a que se refiere el artículo 40 de esta Ley, quienes tendrán derecho a voz y voto, con excepción de la Contraloría Interna quien tendrá derecho solamente a voz, en calidad de invitado permanente.
 
-Los integrantes del Comité de Transparencia tendrán acceso a la información para determinar su clasificación, conforme a la normatividad previamente establecida por los sujetos obligados para el resguardo o salvaguarda de la información.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+El Comité adoptará sus resoluciones por mayoría de votos, y en caso de empate, la Presidencia tendrá voto de calidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+A las sesiones podrán asistir personas invitadas que acuerden las y los integrantes; tendrán voz, mas no voto.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+Dada la naturaleza jurídica de las funciones que realiza este Comité, las ausencias de sus personas integrantes con excepción de la Secretaría, podrán ser sustituidas por una persona suplente que ellas mismas designen, los cuales contarán con los mismos derechos y obligaciones de sus respectivas personas titulares. Las ausencias de la persona que ocupe la Secretaría Ejecutiva, deberán ser sustituidas por la persona Coordinadora de la Unidad de Transparencia, lo anterior en los términos de la presente Ley y el Reglamento que al efecto expida el Congreso.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+El Comité de Transparencia contará con una Secretaría Ejecutiva, función que recaerá en la persona Titular de la Unidad de Transparencia, quien tendrá voz, más no voto, y será responsable de la convocatoria, integración de expedientes, seguimiento de acuerdos y elaboración de actas.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+Las personas integrantes del Comité de Transparencia tendrán acceso a la información necesaria para determinar su clasificación, conforme a la normatividad previamente establecida por los sujetos obligados para el resguardo o salvaguarda de la información.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 El desempeño de las atribuciones del Comité de Transparencia estará bajo la vigilancia y control de la Mesa Directiva.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTICULO 85.
 
-La Unidad de Transparencia es el área operativa encargada de verificar que los órganos del Congreso den cumplimiento de las obligaciones a cargo del Poder Legislativo en materia de transparencia y acceso a la información, y tendrá las atribuciones que les establezcan las leyes de la materia.
+La Unidad de Transparencia es el área operativa encargada de verificar que los órganos del Congreso den cumplimiento a las obligaciones a cargo del Poder Legislativo en materia de transparencia y acceso a la información, y tendrá las atribuciones que les establezcan las leyes de la materia.
+
+La persona Titular de la Unidad de Transparencia deberá rendir informe de actividades a la presidencia del Comité de Transparencia por lo menos dos veces al año.
 
 El desempeño de las atribuciones de la Unidad de Transparencia estará bajo la vigilancia y control del Comité de Transparencia.
 
@@ -2519,11 +2591,11 @@ Para la designación de los Servidores Públicos que por disposición Constituci
 
 Tienen la obligación de presentar su declaración de situación patrimonial y de intereses, bajo protesta de decir verdad, las y los Diputados, las y los Titulares de las Direcciones y Unidades Auxiliares, la persona Titular de la Auditoría Superior del Estado, y demás personas servidoras públicas del Poder Legislativo conforme a las modalidades y plazos que señala la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTICULO 169.
 
-La declaración patrimonial será presentada ante la Unidad de Contraloría Interna del Congreso del Estado.
+La declaración patrimonial y de intereses, y en su caso, la constancia de presentación de declaración fiscal, será presentada ante la Contraloría Interna del Poder Legislativo, en los términos que establece el artículo 81 TER, fracción I de la presente Ley.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2023)</small>
 
@@ -3336,3 +3408,33 @@ PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por
 SEGUNDO.- El Congreso del Estado adoptará las medidas administrativas necesarias para notificar formalmente los exhortos que emita, en términos de lo previsto por esta reforma.
 
 TERCERO.- Publíquese la presente reforma en el Periódico Oficial del Estado de Baja California, para los efectos legales conducentes.
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 310 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado y deberá publicarse en la Gaceta Parlamentaria, así como en el Periódico Oficial del Estado de Baja California para los efectos legales conducentes.
+
+SEGUNDO. En un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, el Comité de Transparencia, en su ámbito competencial, expedirá los instrumentos normativos aplicables para el correcto cumplimiento de la presente reforma.
+
+TERCERO. La Dirección de Administración a través del Departamento de Informática, en colaboración con la Unidad de Transparencia, el Comité de Transparencia y Contraloría Interna, realizará en un término de 60 días hábiles, deberá realizar las adecuaciones técnicas y operativas necesarias para garantizar:
+
+I. El correcto funcionamiento del apartado de transparencia del portal institucional del Congreso del Estado;
+
+II. La operación de la Plataforma Nacional de Transparencia; y
+
+III. La actualización de los sistemas internos, incluyendo perfiles de acceso y medidas de seguridad de la información.
+
+CUARTO. La Contraloría Interna, en su carácter de Autoridad Garante, deberá emitir, en un plazo no mayor de 180 días naturales, los criterios generales para dar cumplimiento al presente Decreto en materia de transparencia y rendición de cuentas.
+
+QUINTO. La Dirección de Administración, en coordinación con la Unidad de Transparencia y la Contraloría Interna como Autoridad Garante, implementará un programa de capacitación obligatorio, con enfoque de accesibilidad y protección de datos personales, dirigido a:
+
+I. Integrantes del Comité de Transparencia;
+
+II. Personal de la Unidad de Transparencia;
+
+III. Personas enlaces de las áreas responsables de obligaciones de transparencia;
+
+y IV. Personal directivo de las Direcciones y Unidades Auxiliares.
+
+El programa deberá iniciar dentro de los 60 días hábiles siguientes a la entrada en vigor del presente Decreto, y deberá abarcar, al menos, solicitudes por la Plataforma Nacional de Transparencia, clasificación y versiones públicas, prueba de daño, accesibilidad, derechos de Acceso, Rectificación, Cancelación y Oposición relacionados con el tratamiento de datos personales (ARCO), seguridad de la información y cumplimiento de resoluciones.
