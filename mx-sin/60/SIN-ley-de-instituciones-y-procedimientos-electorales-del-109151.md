@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2024-08-30"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -261,11 +261,11 @@ IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separ
 
 X. No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo, ni tener acreditada la comisión de violencia política contra las mujeres en razón de género; y
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-XI. No aparecer inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa durante el tiempo en que una persona aparezca en el registro para acceder a una precandidatura o candidatura para ocupar un cargo de elección popular, salvo que exhiba la documentación con la que haya acreditado judicialmente el cumplimiento de las obligaciones en mora. En caso de reincidencia en el incumplimiento de las obligaciones alimentarias, se estará a lo que estipula el artículo 1202 fracción IV del Código Familiar del Estado de Sinaloa.
+XI. Presentar su Certificado de no Inscripción en el Registro Nacional de Obligaciones Alimentarias al momento en que solicite el registro de su candidatura.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XI]</small>
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
 
 No podrán ser electas para estos cargos de elección popular, como propietarias o suplentes, las personas que habiendo obtenido su registro como precandidatas o candidatas tengan acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes, ni aquellas personas que habiendo ejercido algún cargo de elección popular o dentro del servicio público tengan acreditada la comisión de violencia política contra las mujeres en razón de género.
 
@@ -341,11 +341,11 @@ XI. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separ
 
 XII. No estar condenada o condenado, por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo, ni tener acreditada la comisión de violencia política contra las mujeres en razón de género; y
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-XIII. No aparecer inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al momento en que se solicite el registro de su candidatura, salvo que exhiba a la autoridad electoral competente, la documentación con la que hayan acreditado judicialmente el cumplimiento de las obligaciones en mora. En caso de reincidencia en el incumplimiento de las obligaciones alimentarias, se estará a lo que estipula el artículo 1202 fracción IV del Código Familiar del Estado de Sinaloa.
+XIII. Presentar su Certificado de no Inscripción en el Registro Nacional de Obligaciones Alimentarias al momento en que solicite el registro de su candidatura.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XIII]</small>
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
 
 No podrán ser electas para este cargo las personas quienes habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan tenido acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes, o que habiendo ejercido algún cargo de elección popular o dentro del servicio público se acredite que hayan cometido violencia política contra las mujeres en razón de género.
 
@@ -417,11 +417,11 @@ IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separ
 
 X. No estar condenada o condenado por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo, ni tener acreditada la comisión de violencia política contra las mujeres en razón de género; y
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-XI. No aparecer en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al tiempo en que se solicite el registro de su candidatura, salvo que exhiba la documentación con la que haya acreditado judicialmente el cumplimiento de las obligaciones en mora. En caso de reincidencia en el incumplimiento de las obligaciones alimentarias, se estará a lo que estipula el artículo 1202 fracción IV del Código Familiar del Estado de Sinaloa.
+XI. Presentar su Certificado de no Inscripción en el Registro Nacional de Obligaciones Alimentarias al momento en que solicite el registro de su candidatura.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XI]</small>
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
 
 No podrán ser electas para este cargo las personas quienes habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan tenido acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes, o que habiendo ejercido algún cargo de elección popular o dentro del servicio público se acredite que hayan cometido violencia política contra las mujeres en razón de género.
 
@@ -5052,3 +5052,31 @@ El Instituto Electoral del Estado de Sinaloa deberá incluir en los proyectos de
 ###### ARTÍCULO CUARTO.
 
 El Instituto Electoral del Estado de Sinaloa contará con un plazo de ciento ochenta días hábiles, contados a partir de la fecha en que designe a la Comisión a que se refiere la fracción XXVI Bis del artículo 146 reformado con el presente decreto, para adecuar y aprobar la normatividad interna, así como la estructura orgánica y funcional, que se requieran para hacer efectivo el derecho al sufragio que corresponde a las y los sinaloenses radicados en el extranjero, sujetándose a los principios de racionalidad, austeridad y eficacia previstos para el ejercicio del gasto público.
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 447 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; CÓDIGO FAMILIAR; LEY DE GOBIERNO MUNICIPAL; LEY DEL NOTARIADO; CÓDIGÓ PENAL; LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y LEY ORGÁNICA DEL PODER JUDICIAL, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Sinaloa, deberá realizar las modificaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos de los Municipios del Estado, deberán realizar las adecuaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTICULO CUARTO.
+
+El Poder Judicial del Estado de Sinaloa deberá determinar en un plazo no mayor a 60 días contados a partir del inicio de vigencia, el área administrativa responsable de gestionar la información del Registro Nacional de Obligaciones Alimentarias, para el debido cumplimiento del Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría General de Gobierno del Poder Ejecutivo del Estado a través del Registro Civil deberá realizar las acciones conducentes a efecto de transferir todos los sistemas y bases de datos con las que cuente a efecto de que el Supremo Tribunal de Justicia pueda suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que se genere sobre el incumplimiento de las obligaciones alimentarias.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
