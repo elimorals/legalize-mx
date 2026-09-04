@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2023-06-07"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -163,8 +163,6 @@ Son atribuciones del Pleno del Supremo Tribunal de Justicia del Estado:
 
 I.- Promover ante el Congreso del Estado las iniciativas de ley que estime conveniente para la buena administración de justicia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
 
 II.- Expedir los reglamentos y manuales de organización y procedimientos del Supremo Tribunal, de las Salas de Circuito y de los juzgados;
@@ -183,8 +181,6 @@ VIII.- Llamar a los Magistrados Suplentes que deban cubrir las faltas de los Tit
 
 IX.- Nombrar, resolver sobre renuncias, remover, suspender y cambiar de adscripción a los Magistrados de Circuito, Jueces, Secretarios, Actuarios, Visitadores de Juzgados y demás servidores públicos integrantes del Poder Judicial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
 
 X.- Determinar el número de Salas de Circuito que deberá haber en el Estado, el lugar de su residencia, las materias que conozcan y el límite de su competencia territorial, así como determinar el número de Juzgados de Primera Instancia, las materias que estos conozcan de conformidad con esta Ley, y, en la materia penal, los casos en los que deberán integrarse de manera colegiada, de acuerdo a la naturaleza o complejidad del asunto.
@@ -198,8 +194,6 @@ XIII.- Designar a los Magistrados que deban integrar las Salas, en la forma que 
 XIV.- Adscribir a los Magistrados de una Sala a otra cuando las necesidades del servicio judicial así lo requieran;
 
 XV.- Calificar las recusaciones con causa y excusas de los Magistrados del Supremo Tribunal de Justicia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
 
@@ -225,15 +219,17 @@ XXV.- Acordar el establecimiento o supresión de órganos o dependencias en el P
 
 XXVI.- Dictar las disposiciones que estime pertinentes para turnar los expedientes y promociones de la competencia de los Juzgados, cuando en un mismo lugar haya varios de ellos;
 
-XXVII.- Acordar la instalación de Juzgados de Primera Instancia Supernumerarios Especializados, asignándoles la materia de la que deban conocer y el tiempo que deban funcionar, cuando necesidades del servicio lo requieran; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXVII.- Acordar la instalación de Juzgados de Primera Instancia Supernumerarios Especializados, asignándoles la materia de la que deban conocer y el tiempo que deban funcionar, cuando las necesidades del servicio lo requieran;
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+XXVII Bis.- Gestionar el suministro, intercambio, sistematización, consulta, análisis y actualización de la información que se genere sobre el incumplimiento de las obligaciones alimentarias en el Estado. Inscribiendo en el Registro Nacional de Obligaciones Alimentarias a la persona que de forma total o parcial incumpla con el fallo que le condena al pago de alimentos, ya sea que comprenda el pago de una pensión alimenticia ordinaria o retroactiva; y
 
 > <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
 
 XXVIII.- Resolver las quejas presentadas en contra de los juzgadores de primera instancia del ramo penal que no realicen un acto procesal dentro del plazo señalado por el Código Nacional de Procedimientos Penales; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
 
@@ -485,9 +481,17 @@ II.- No tener más de cincuenta y cinco años de edad, ni menos de treinta al d�
 
 III.- Poseer, con una antigüedad mínima de cinco años, título profesional de Licenciado en Derecho expedido por la autoridad o institución legalmente facultada para ello y cuatro años cuando menos, de práctica profesional;
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de libertad por más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-V.- Haber residido en el Estado de Sinaloa durante los últimos cinco años, salvo en caso de ausencia en servicio de la República o del Gobierno del Estado, por un tiempo menor de seis meses.
+IV.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de libertad por más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+V.- Haber residido en el Estado de Sinaloa durante los últimos cinco años, salvo en caso de ausencia en servicio de la República o del Gobierno del Estado, por un tiempo menor de seis meses; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+VI.- No aparecer inscrito en el Registro Nacional de Obligaciones Alimentarias, y no tener acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes o haya sido condenado o condenada mediante resolución firme por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo.
 
 ###### ARTICULO 39.
 
@@ -599,15 +603,17 @@ II. Juez de Enjuiciamiento, que ejercerá sus atribuciones después del auto de 
 
 Ningún Juez puede conocer de un asunto como Juez de Enjuiciamiento, si en la misma causa intervino como Juez de Control.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTICULO 49.
 
-Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de veinticinco años, contar con título profesional de Licenciado en Derecho, de notoria buena conducta y ser seleccionado en el concurso de oposición correspondiente.
+Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de veinticinco años, contar con título profesional de Licenciado en Derecho, de notoria buena conducta y ser seleccionado en el concurso de oposición correspondiente. Además, será requisito no aparecer inscrito en el Registro Nacional de Obligaciones Alimentarias y no tener acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes o haya sido condenado o condenada mediante resolución firme por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo; al momento de ser considerado por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 En tanto se realiza el concurso de selección correspondiente, el Pleno del Supremo Tribunal de Justicia podrá nombrar a quien cubra provisionalmente la vacante de Juez de Primera Instancia de entre quienes laboran en el Poder Judicial y que reúnan los requisitos previstos en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 En el nombramiento y promoción de los Jueces, se tendrá en consideración preferentemente a quienes estén prestando sus servicios con eficiencia y probidad en el Poder Judicial. Igual prevención se observará, estando los aspirantes en igualdad de circunstancias, en el caso de los Secretarios y Actuarios.
 
@@ -889,9 +895,11 @@ Los Jueces Menores actuarán con Secretario, y a falta de éste, con dos testigo
 
 Por cada Juez Menor propietario habrá un suplente. Durarán tres años en el ejercicio de su encargo al término de los cuales, si fueren reelectos, sólo podrán ser privados de sus puestos en los términos de Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
 ###### ARTICULO 68.
 
-Para ser Juez Menor se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de edad, de reconocida buena conducta y preferentemente haber cursado la Licenciatura en Derecho.
+Para ser Juez Menor se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de edad, de reconocida buena conducta y preferentemente haber cursado la Licenciatura en Derecho. Además, será requisito no aparecer inscrito en el Registro Nacional de Obligaciones Alimentarias y no tener acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes o haya sido condenado o condenada mediante resolución firme por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo; al momento de ser considerado por la autoridad competente.
 
 Para ser Secretario de un Juzgado Menor se necesitan los mismos requisitos que para Juez Menor.
 
@@ -1666,3 +1674,31 @@ PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publi
 SEGUNDO. Las Regiones creadas mediante el Decreto 177 QUE DECLARA ADOPTADO EN EL ESTADO DE SINALOA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL Y EL INICIO DE VIGENCIA GRADUAL DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, subsistirán en sus términos en el entendido de que por Región se entenderá Circuito Judicial, y los mismos podrán ser modificados por el Pleno conforme a las necesidades del servicio, de conformidad con el segundo párrafo del artículo 17 de la Ley Orgánica del Poder Judicial del Estado de Sinaloa.
 
 TERCERO. Se abroga el Decreto Número 177, que declara adoptado en el Estado de Sinaloa el Sistema Penal Acusatorio y Oral y el inicio de vigencia gradual del Código Nacional de Procedimientos Penales, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 92, de fecha 31 de julio de 2014.
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 447 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; CÓDIGO FAMILIAR; LEY DE GOBIERNO MUNICIPAL; LEY DEL NOTARIADO; CÓDIGO PENAL; LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y LEY ORGÁNICA DEL PODER JUDICIAL, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Sinaloa, deberá realizar las modificaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos de los Municipios del Estado, deberán realizar las adecuaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Judicial del Estado de Sinaloa deberá determinar en un plazo no mayor a 60 días contados a partir del inicio de vigencia, el área administrativa responsable de gestionar la información del Registro Nacional de Obligaciones Alimentarias, para el debido cumplimiento del Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría General de Gobierno del Poder Ejecutivo del Estado a través del Registro Civil deberá realizar las acciones conducentes a efecto de transferir todos los sistemas y bases de datos con las que cuente a efecto de que el Supremo Tribunal de Justicia pueda suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que se genere sobre el incumplimiento de las obligaciones alimentarias.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
