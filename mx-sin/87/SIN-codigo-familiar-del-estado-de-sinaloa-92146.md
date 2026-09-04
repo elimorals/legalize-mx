@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2026-06-19"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -441,9 +441,9 @@ VII. La manifestación, por escrito y bajo protesta de decir verdad, en el caso 
 
 VIII. Autorización de dispensa de impedimento si lo hay; y,
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-IX. Constancia expedida por el Registro Civil de cada uno de los contrayentes en la que se informe si se encuentran o no inscritos en el Registro de Deudores Alimentarios del Estado de Sinaloa.
+IX. Certificado de no Inscripción en el Registro Nacional de Obligaciones Alimentarias de cada uno de los contrayentes.
 
 ### Capítulo III. De las Formalidades para Contraer Matrimonio
 
@@ -1623,17 +1623,17 @@ Determinado por convenio o sentencia, la pensión alimenticia tendrá un increme
 
 El obligado a proporcionar alimentos cumple su obligación, asignando una pensión adecuada a la posibilidad de quien debe de darlos y suficiente a la necesidad de quien debe de recibirlos, o incorporándolo a la familia. Cuando el deudor pida la incorporación, deberá hacerlo en demanda principal o reconvencional.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-Quien incumpla con la obligación alimentaria ordenada por resolución o convenio judicial, por un periodo de noventa días, total o parcialmente de forma sucesiva, se constituirá en deudor alimentario moroso.
+Quien incumpla de forma total o parcial de forma sucesiva con la obligación alimentaria ordenada por resolución o convenio judicial, por un periodo de sesenta días naturales, se constituirá en deudor alimentario moroso.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-El Juez de lo Familiar ordenará al Registro Civil su inmediata inscripción en el Registro de Deudores Alimentarios Morosos, proporcionando al Registro los datos de identificación del deudor alimentario, los cuales le serán proporcionados al Juez por el acreedor alimentario.
+El Juez de lo Familiar ordenará al área responsable del Supremo Tribunal de Justicia del Estado su inmediata remisión al Registro Nacional de Obligaciones Alimentarias, proporcionando los datos de identificación de la persona deudora alimentaria, los cuales le serán proporcionados al Juez por el acreedor alimentario, para efectos de su inscripción.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-El deudor alimentario moroso que acredite ante el Juez de lo Familiar que han sido pagados en su totalidad los adeudos del pago de alimentos a que se refiere el segundo párrafo, podrá solicitar al mismo la cancelación de la inscripción con dicho carácter. El Registro Civil, cancelará las inscripciones a que se refiere el tercer párrafo de este artículo, previa orden judicial.
+El deudor alimentario moroso que acredite ante el Juez de lo Familiar que han sido pagados en su totalidad los adeudos del pago de alimentos a que se refiere el segundo párrafo, podrá solicitar al mismo la remisión del expediente para efectos de la cancelación de la inscripción con dicho carácter. El área responsable del Supremo Tribunal de Justicia deberá remitir el expediente para la cancelación de las inscripciones a que se refiere el tercer párrafo de este artículo, previa orden judicial.
 
 ###### Artículo 224.
 
@@ -6703,9 +6703,7 @@ Las Oficialías del Registro Civil estarán a cargo de servidores públicos deno
 
 Los oficiales del registro civil autorizarán los actos del estado familiar y extenderán las actas relativas a nacimiento, reconocimiento de hijos, matrimonio, concubinato, divorcio y defunción de los mexicanos y extranjeros en la entidad, al realizarse el hecho o acto de que se trate, asimismo, inscribirán las ejecutorias que declaren el registro de hijos acogidos, la ausencia, la presunción de muerte, la tutela, que se ha perdido o limitado la capacidad legal para administrar bienes y las resoluciones administrativas o judiciales que ordenen el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables; las cuales se asentarán en documentos especiales que se denominarán, “Formas del Registro Civil”.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
-
-Asimismo podrán hacer la anotación en el Registro de Deudores Alimentarios Morosos a que se refiere el tercer párrafo del artículo 223 y extender la constancia que informe si quien la solicita se encuentra inscrito o no en el Registro como deudor alimentario moroso o deudor alimentario sin adeudo de pagos, según corresponda.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2025)</small>
 
@@ -7463,73 +7461,93 @@ Artículo 1197 Bis V. Los efectos de la nueva acta de nacimiento para el reconoc
 
 Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta de nacimiento, no se modifican ni extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-## TÍTULO CUARTO. Del Registro de Deudores Alimentarios Morosos
+## TÍTULO CUARTO. De la Inscripción de Deudores Alimentarios Morosos en el Registro Nacional de Obligaciones Alimentarias
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ### Capítulo Único. Disposiciones Generales
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 1198.
 
-El Registro de Deudores Alimentarios Morosos estará a cargo de una unidad administrativa del Registro Civil.
+El Supremo Tribunal de Justicia del Estado, es la autoridad encargada de concentrar la información de deudores y acreedores de obligaciones alimentarias; por lo que le corresponde suministrar, intercambiar, sistematizar, consultar, analizar, y actualizar durante los primeros cinco días hábiles de cada mes, la información que se genere sobre el incumplimiento de las obligaciones alimentarias, utilizando los formatos, los sistemas e instrumentos tecnológicos que para tal efecto proporcione el Sistema Nacional DIF, para la integración del Registro Nacional de Obligaciones Alimentarias.
 
-El Registro Civil efectuará convenios con las sociedades de información crediticia a que se refiere la Ley de la materia, a fin de proporcionar la información contenida en el Registro de Deudores Alimentarios Morosos.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 1199.
 
-En el Registro de Deudores Alimentarios Morosos se inscriben a las personas que el Juez de lo Familiar determina en términos del artículo 223 del presente Código; a quienes hayan sido sentenciados por el delito de incumplimiento de las obligaciones de asistencia familiar previsto en el artículo 240 del Código Penal para el Estado; a quien dolosamente incumpla con la orden judicial de informar acerca de los ingresos de quienes deban cumplir con dicha obligación en términos del artículo 241 de dicho Código Penal; y a quien incumpla una orden de descuento para alimentos ordenada por el órgano jurisdiccional.
+En el Registro Nacional de Obligaciones Alimentarias se inscriben las personas que el Juez de lo Familiar determina, en términos del artículo 223 del presente Código. Asimismo, a quienes hayan sido sentenciados por el delito de incumplimiento de las obligaciones de asistencia familiar previsto en el artículo 240 del Código Penal para el Estado.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 1200.
 
-El Registro de Deudores Alimentarios Morosos deberá contener:
+La inscripción al Registro Nacional de Obligaciones Alimentarias deberá especificar cuando menos:
 
-I. Nombre, apellidos, Registro Federal de Contribuyentes y Clave Única del Registro de Población del deudor alimentario;
+I. Nombre o nombres, apellidos del deudor;
 
-II. Nombre del acreedor o acreedores alimentarios;
+II. CURP y RFC con homoclave del deudor;
 
-III. Datos del acta que acredite el vínculo entre deudor y acreedor alimentario, en su caso;
+III. Órgano jurisdiccional que ordenó la inscripción;
 
-IV. Monto de la pensión alimenticia decretada o convenida, en su caso, número de pagos incumplidos y monto del adeudo alimentario;
+IV. Cuantía del cumplimiento de la obligación alimentaria;
 
-V. Órgano jurisdiccional que ordena el registro; y,
+V. Plazo de pago de los alimentos definitivos;
 
-VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+VI. Datos del expediente o causa jurisdiccional de la cual deriva la inscripción;
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+VII. Edad;
+
+VIII. Sexo;
+
+IX. Nacionalidad;
+
+X. Ocupación o profesión;
+
+XI. Nombre completo de los acreedores alimentarios, y
+
+XII. Parentesco.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 1201.
 
-La Constancia expedida por la Unidad del Registro de Deudores Alimentarios Morosos deberá contener lo siguiente:
+El certificado de no inscripción que emita el Registro Nacional de Obligaciones Alimentarias, a petición de la parte interesada, estará disponible en el sitio web que para tal efecto se disponga, en el cual se genere automáticamente el certificado de forma gratuita en un documento descargable, mismo que contendrá como mínimo la siguiente información:
 
-l. Nombre, apellidos, Registro Federal de Contribuyentes y Clave Única del Registro de Población del solicitante; y,
+I. Nombre o nombres, apellidos del deudor;
 
-II. La información sobre su inscripción o no en el registro de deudores alimentarios morosos.
+II. CURP;
 
-De ser el caso que el solicitante se encuentre inscrito en el registro, la constancia incluirá además lo siguiente:
+III. Declaración de no inscripción;
 
-l. Número de acreedores alimentarios;
+IV. Firma del responsable de la emisión; y
 
-II. Monto de la pensión alimenticia decretada o convenida y monto de la obligación adeudada;
+V. Candados de validación.
 
-III. Órgano jurisdiccional que ordenó el registro; y,
+De ser el caso que el solicitante se encuentre inscrito en el registro, la plataforma desplegará la información siguiente:
 
-IV. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+I. Nombre completo;
 
-La constancia a que hace referencia este artículo deberá ser expedida en un plazo máximo de tres días hábiles contados a partir de la fecha de solicitud respectiva.
+II. CURP;
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+III. RFC con homoclave;
+
+IV. Órgano Jurisdiccional que ordenó la inscripción;
+
+V. Plazo de pago de los alimentos definitivos, y
+
+VI. Entidad Federativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 1202.
 
-La inscripción de los deudores alimentarios morosos en el Registro tendrá los siguientes efectos:
+La inscripción de los deudores alimentarios morosos en el Registro Nacional de Obligaciones Alimentarias tendrá en el Estado, entre otros, los siguientes efectos:
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 I. Constituir prueba en el delito de incumplimiento de obligaciones de asistencia familiar;
 
@@ -7541,15 +7559,15 @@ II. Inscribir en el Registro Público de la Propiedad y del Comercio, la constan
 
 III. Garantizar la preferencia en el pago de deudas alimentarias en términos del artículo 216 del presente Código; y
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-IV. Impedir que durante el tiempo que una persona aparezca en el registro como deudor alimentario moroso, pueda ser aspirante a acceder a una precandidatura o candidatura para ocupar un cargo de elección popular del orden local, salvo que exhiba documentación con la que se acredite judicialmente el cumplimiento de las obligaciones en mora.
+IV. Impedir que durante el tiempo que una persona aparezca en el registro como deudor alimentario moroso, pueda ser aspirante a acceder a una precandidatura o candidatura para ocupar cargos concejiles o cargos de elección popular del orden local, salvo que exhiba documentación con la que se acredite judicialmente el cumplimiento de las obligaciones en mora.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 1203.
 
-Una vez acreditado ante el Juez de conocimiento, que han sido cubiertos en su totalidad los adeudos de la pensión alimenticia, a petición de parte interesada, se podrá solicitar la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos como deudor alimentario moroso.
+Una vez acreditado ante el Juez de conocimiento, que han sido cubiertos en su totalidad los adeudos de la pensión alimenticia, a petición de parte interesada, se podrá solicitar al área responsable del Supremo Tribunal de Justicia del Estado la remisión del expediente al Registro Nacional de Obligaciones Alimentarias, para efectos de la cancelación de la inscripción.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -7856,3 +7874,31 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Salud del Poder Ejecutivo del Estado de Sinaloa dentro de los sesenta días hábiles siguientes al inicio de vigencia del presente Decreto, deberá publicar en el Periódico Oficial "El Estado de Sinaloa" el listado de instituciones públicas donde se realicen de forma gratuita a las mujeres el trámite para las tomas de las pruebas de los grupos sanguíneos y otros marcadores genéticos, así como el estudio del ácido desoxirribonucleico o análisis biológico molecular entre el hijo y el presunto padre.
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 447 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; CÓDIGO FAMILIAR; LEY DE GOBIERNO MUNICIPAL; LEY DEL NOTARIADO; CÓDIGO PENAL; LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y LEY ORGÁNICA DEL PODER JUDICIAL, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Sinaloa, deberá realizar las modificaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos de los Municipios del Estado, deberán realizar las adecuaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Judicial del Estado de Sinaloa deberá determinar en un plazo no mayor a 60 días contados a partir del inicio de vigencia, el área administrativa responsable de gestionar la información del Registro Nacional de Obligaciones Alimentarias, para el debido cumplimiento del Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría General de Gobierno del Poder Ejecutivo del Estado a través del Registro Civil deberá realizar las acciones conducentes a efecto de transferir todos los sistemas y bases de datos con las que cuente a efecto de que el Supremo Tribunal de Justicia pueda suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que se genere sobre el incumplimiento de las obligaciones alimentarias.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
