@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-sobre-metrologia-y-12964"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-01-14"
-last_updated: "2012-11-28"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12964&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1999-01-13"
 ---
 # REGLAMENTO DE LA LEY FEDERAL SOBRE METROLOGIA Y NORMALIZACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE INFRAESTRUCTURA DE LA CALIDAD, PUBLICADO EN EL D.O.F. DE 4 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY FEDERAL SOBRE METROLOGÍA Y NORMALIZACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2026 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el jueves 14 de enero de 1999.
 
@@ -1218,3 +1220,31 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 28 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE INFRAESTRUCTURA DE LA CALIDAD”.]
+
+Primero. El presente Reglamento entra en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Con la entrada en vigor del presente Reglamento, se abroga al Reglamento de la Ley Federal sobre Metrología y Normalización, publicado en el Diario Oficial de la Federación el 14 de enero de 1999, y sus reformas, así como todas las disposiciones que se opongan a lo dispuesto en este Reglamento.
+
+Tercero. A falta de disposición expresa, el Reglamento Interior de la Comisión, lineamientos, reglas y demás disposiciones administrativas que tengan por objeto establecer o regular obligaciones a que se refieren la Ley y el presente Reglamento, deben ser emitidos en un plazo no mayor a doce meses posteriores a la entrada en vigor del presente Reglamento.
+
+Cuarto. Con la entrada en vigor del presente Reglamento, se cancelan los anteproyectos y proyectos de Normas Mexicanas que se encuentren en trámite.
+
+Quinto. Las Normas Mexicanas expedidas con anterioridad a la entrada en vigor del presente Reglamento deben continuar vigentes hasta que la Secretaría publique la declaratoria de cancelación en el Diario Oficial de la Federación, o, en su caso, exista un Estándar vigente que regule al bien, producto, proceso, o servicio en la materia, sector o área.
+
+Sexto. Instaurados los Comités Técnicos de Estandarización correspondientes, los Sujetos Facultados para Estandarizar, los Organismos Nacionales de Estandarización o las Autoridades Normalizadoras cuentan con un plazo de treinta y seis meses improrrogables posteriores a la entrada en vigor del presente Reglamento, para emitir los Estándares en cada uno de los bienes, productos, procesos, o servicios en las materias, sectores o áreas correspondientes a su autorización o registro, en las que existan Normas Mexicanas vigentes, en caso contrario la Secretaría publicará en el Diario Oficial de Federación la declaratoria de cancelación de estas Normas Mexicanas.
+
+Una vez que un Estándar inicie su aplicación respecto de la misma materia, sector o área regulada por alguna Norma Mexicana, los Organismos Nacionales de Normalización deben solicitar a la Secretaría, al día siguiente del inicio de su aplicación, la publicación de la cancelación de la Norma Mexicana en el Diario Oficial de la Federación y en la PLATIICA. En cuanto a los Comités Técnicos de Normalización Nacional de la Secretaría, esta última debe realizar la cancelación correspondiente, con excepción de las Normas Mexicanas que se encuentren referenciadas en Normas Oficiales Mexicanas, las cuales deben continuar vigentes hasta que se modifique la Norma Oficial Mexicana respectiva.
+
+Séptimo. Los documentos de Evaluación de la Conformidad emitidos con anterioridad a la entrada en vigor de este Reglamento por los Organismos de Evaluación de la Conformidad y las Autoridades Normalizadoras, continuarán vigentes en sus términos en todo lo que no se oponga a la Ley y al presente Reglamento, hasta en tanto se expidan los que los sustituyan.
+
+Octavo. Las autorizaciones, acreditaciones y aprobaciones emitidas con anterioridad a la entrada en vigor de este Reglamento cuentan con un periodo de tres años para renovarse, conforme a las disposiciones contenidas en la Ley y el presente Reglamento. En caso de no atender lo dispuesto en este transitorio, se entienden como cancelados.
+
+Noveno. Todos los trámites o solicitudes de acreditación y aprobación, que hayan sido presentados por escrito a las Entidades de Acreditación y Autoridades Normalizadoras, con anterioridad a la entrada en vigor del presente Reglamento, deben resolverse conforme a lo dispuesto en la Ley, el Reglamento de la Ley Federal sobre Metrología y Normalización y demás disposiciones secundarias vigentes al momento de su presentación.
+
+Décimo. En tanto se realizan las adecuaciones en la PLATIICA que refiere el presente Reglamento, la Secretaría puede establecer los procedimientos y formatos por los cuales se atiendan los requerimientos previstos en este ordenamiento.
+
+Décimo primero. Las erogaciones que se generen con motivo de la aplicación del presente decreto se deben realizar con cargo a los presupuestos aprobados de los ejecutores de gasto que intervienen en la implementación de este, por lo que no se autorizarán ampliaciones líquidas a sus presupuestos en el presente ejercicio fiscal ni se debe incrementar el presupuesto regularizable de servicios personales ni el de gasto de operación de dichos ejecutores de gasto para tales efectos.
