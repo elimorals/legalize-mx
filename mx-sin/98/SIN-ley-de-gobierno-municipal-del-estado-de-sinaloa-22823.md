@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2026-08-17"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -159,9 +159,9 @@ El Presidente Municipal, en su calidad de alcalde de la comuna, será el órgano
 
 El Presidente Municipal, Síndico Procurador y Regidores de los Ayuntamientos, de elección popular directa, durarán en su cargo tres años y podrán ser electos consecutivamente para los mismos cargos para un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Quienes por elección indirecta, por nombramiento o designación de parte de alguna autoridad, desempeñen las funciones propias de dichos cargos, independientemente de la denominación que se les dé, podrán ser electos para el período inmediato.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-No podrán postularse para los cargos de presidente municipal, sindicaturas de procuración y regidurías de los Ayuntamientos, quienes aparezcan inscritos en el Registro de Deudores Morosos Alimentarios en los términos señalados en el Código Familiar del Estado de Sinaloa, y quienes tengan acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes o hayan sido condenados o condenadas mediante resolución firme por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo.
+No podrán postularse para los cargos de presidente municipal, sindicaturas de procuración y regidurías de los Ayuntamientos, quienes aparezcan inscritos en el Registro Nacional de Obligaciones Alimentarias, y quienes tengan acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes o hayan sido condenados o condenadas mediante resolución firme por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
@@ -1457,9 +1457,17 @@ G). Posteriormente, se propondrá a la Asamblea se pronuncie en relación a las 
 
 H). De la Asamblea General se levantará acta circunstanciada, que contendrá los resultados del pronunciamiento, misma que se entregará al Ayuntamiento para la designación del Síndico o Comisarios Municipales.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 69.
 
-En cada Cabecera de Sindicatura y de Comisaría habrá, respectivamente, un Síndico Municipal y un Comisario Municipal, quienes deberán satisfacer los requisitos exigidos para ser Secretario del Ayuntamiento.
+En cada Cabecera de Sindicatura y de Comisaría habrá, respectivamente, un Síndico Municipal y un Comisario Municipal, quienes deberán satisfacer los siguientes requisitos:
+
+I. Los exigidos para ser Secretario del Ayuntamiento;
+
+II. Presentar el Certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias; y
+
+III. No tener acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes o hayan sido condenados o condenadas mediante resolución firme por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo.
 
 ###### Artículo 70.
 
@@ -2236,5 +2244,33 @@ P.O. 17 DE AGOSTO DE 2026.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 447 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; CÓDIGO FAMILIAR; LEY DE GOBIERNO MUNICIPAL; LEY DEL NOTARIADO; CÓDIGO PENAL; LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y LEY ORGÁNICA DEL PODER JUDICIAL, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Sinaloa, deberá realizar las modificaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos de los Municipios del Estado, deberán realizar las adecuaciones reglamentarias pertinentes en un plazo no mayor a 90 días posteriores al inicio de vigencia, para dar cumplimiento al presente Decreto.
+
+###### ARTICULO CUARTO.
+
+El Poder Judicial del Estado de Sinaloa deberá determinar en un plazo no mayor a 60 días contados a partir del inicio de vigencia, el área administrativa responsable de gestionar la información del Registro Nacional de Obligaciones Alimentarias, para el debido cumplimiento del Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría General de Gobierno del Poder Ejecutivo del Estado a través del Registro Civil deberá realizar las acciones conducentes a efecto de transferir todos los sistemas y bases de datos con las que cuente a efecto de que el Supremo Tribunal de Justicia pueda suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que se genere sobre el incumplimiento de las obligaciones alimentarias.
+
+###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
