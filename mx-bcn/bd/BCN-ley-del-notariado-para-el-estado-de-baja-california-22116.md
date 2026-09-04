@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-notariado-para-el-estado-de-baja-california-22116"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-14"
-last_updated: "2018-11-30"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 14 de septiembre de 2001.
 
@@ -1979,6 +1979,10 @@ Los Notarios deberán cobrar por sus servicios las cantidades que precisamente r
 
 ARTICULO 200 BIS.- El Arancel de Notarios expedido por el Ejecutivo del Estado, deberá estipular los honorarios respectivos con base en una perspectiva de beneficio social, cuando se trate de la enajenación de bienes inmuebles cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por veinticinco veces el valor diario de la Unidad de Medida y Actualización vigente elevado al año, de la constitución o transmisión de derechos reales o que garanticen un crédito no mayor a dicha suma, así como de la intervención de los notarios en los testamentos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+El Ejecutivo del Estado garantizará que los testamentos otorgados durante el mes de septiembre de cada año gocen de un descuento que será determinado en el Arancel de Notarios.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2015)</small>
 
 ## TÍTULO NOVENO. DE LA TRAMITACIÓN EXTRAJUDICIAL DE LA TRAMITACIÓN SUCESORIA ANTE NOTARIO
@@ -2336,3 +2340,11 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 311 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 200 BIS DE LA LEY DEL NOTARIADO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Dentro de un plazo de 90 días naturales siguientes a la publicación del presente Decreto, el Ejecutivo del Estado realizará las adecuaciones reglamentarias que se requieran.
