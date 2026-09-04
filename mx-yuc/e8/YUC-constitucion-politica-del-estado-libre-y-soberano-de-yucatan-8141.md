@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2026-07-28"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -2057,7 +2057,9 @@ La ley establecerá las bases para el desarrollo de la carrera judicial, la cual
 
 Los Magistrados, Magistradas y Juezas y Jueces del Poder Judicial del Estado de Yucatán serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones locales ordinarias del año que corresponda conforme al siguiente procedimiento:
 
-I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+I. El Congreso del Estado, publicará la convocatoria para la integración del listado de candidaturas a más tardar el treinta de abril del año anterior al de la elección judicial que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir.
 
 El órgano de administración judicial hará del conocimiento del Congreso Estatal los cargos sujetos a elección, la especialización por materia, el departamento, distrito o circuito judicial respectivo y demás información que requiera.
 
@@ -2065,31 +2067,55 @@ II. Los Poderes Públicos locales postularán el número de candidaturas que cor
 
 a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo.
 
-b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, que recibirán los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia; así como antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-Para definir criterios uniformes y homologados los Comités de Evaluación de los tres poderes deberán integrarse en un Comité Estatal de Evaluación, en el cual podrán generar los acuerdos sobre mecanismos, requisitos y otros criterios, que deberán observar los Comités de Evaluación de cada poder, para elegir a los perfiles mejor evaluados.
+b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, quienes elegirán de entre sus integrantes a la persona que coordine sus trabajos.
 
-c) Cada Comité de Evaluación, integrará un listado de las diez personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del Tribunal Superior de Justicia, el Tribunal de los Trabajadores al Servicio del Estado y sus Municipios, los Tribunales laborales y de los integrantes del Tribunal de Disciplina Judicial. Para el caso de las Juezas y Jueces locales, los comités integrarán a las seis personas mejor evaluadas para cada cargo, según corresponda.
+Las personas coordinadoras de los tres Comités integrarán una Comisión Coordinadora, responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos, y emitir acuerdos que regulen los trabajos de los tres Comités.
 
-Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, siendo tres personas tratándose de aspirantes a las Magistraturas del Tribunal Superior de Justicia; tres personas en el caso de aspirantes a las Magistraturas del Tribunal de Disciplina Judicial y de hasta cinco personas en el caso de Juezas y Jueces, observando la paridad de género para cada caso. Ajustados los listados, el Comité Estatal de Evaluación lo remitirá al Poder Legislativo para su aprobación y envío al Instituto Electoral y de Participación Ciudadana de Yucatán.
+Cada Comité seleccionará, conforme a los criterios definidos por la Comisión Coordinadora, a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
 
-III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Electoral y de Participación Ciudadana de Yucatán a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+c) Los Comités de Evaluación integrarán un listado de las cuatro personas mejor evaluadas para cada cargo. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo a dos personas para cada cargo. Los Comités garantizarán la paridad de género en el listado de personas a insacular por especialidad y departamento y/o distrito judicial, de ser aplicable. Asimismo, observarán la paridad de género en el listado de propuestas posterior a la insaculación. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder Público local para su aprobación y envío al Congreso del Estado.
+
+Para los efectos del párrafo anterior, cada uno de los Poderes postulará dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de la persona titular de la Gubernatura del Estado; el Poder Legislativo por votación calificada de dos tercios de sus integrantes presentes; y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia del Estado, por mayoría de diez votos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Electoral y de Participación Ciudadana de Yucatán en los plazos que refiera la convocatoria, a efecto de que organice el proceso electivo.
 
 Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes Públicos locales, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente.
 
-IV. El Instituto Electoral y de Participación Ciudadana de Yucatán efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado. El Tribunal Electoral del Estado resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
-El Poder Ejecutivo postulará por conducto de la persona titular, hasta tres personas aspirantes; el Poder Legislativo postulará hasta tres personas, por mayoría de votos de los diputados presentes en la sesión que se trate, y el Poder Judicial, por conducto de su Pleno, postulará hasta tres personas por mayoría de votos. Esto para el caso de los cargos de Magistradas o Magistrados previstos en el inciso c) de la fracción II de este artículo; igual número por cada poder público para el caso de los cargos de juezas y jueces a los que haya lugar dependiendo de los tribunales existentes.
+IV. El Instituto Electoral y de Participación Ciudadana de Yucatán efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado. El Tribunal Electoral del Estado resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo. Las autoridades electorales no podrán modificar los resultados de la elección ni la asignación de cargos después de esa fecha.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 4 DE SEPTIEMBRE DE 2026)</small>
 
 El Congreso del Estado incorporará a los listados que remita al Instituto Electoral y de Participación Ciudadana de Yucatán a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo o distrito judicial diverso.
 
-La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos. La etapa de preparación de la elección local correspondiente iniciará con la primera sesión que el Consejo General del organismo público local electoral celebre en los primeros días del mes de noviembre del año anterior a la elección.
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+La asignación de los cargos electos se realizará entre las candidaturas que obtengan mayor número de votos, observando la integración paritaria del órgano correspondiente.
 
 Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine el Instituto Electoral y de Participación Ciudadana de Yucatán y, en su caso, el Instituto Nacional Electoral. Podrán, además, participar en foros de debate organizados por el propio instituto local, o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
 
 Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
 
 La duración de las campañas para los cargos señalados en este artículo será de hasta sesenta días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>(ADICIONADO, D.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+Las boletas electorales de la elección judicial distinguirán al Poder postulante y, cuando corresponda, a las personas juzgadoras en funciones en los cargos a elegir. Asimismo, distinguirán las especialidades que correspondan a cada ámbito territorial y contendrán los nombres completos de las personas candidatas. Las candidaturas se ubicarán en recuadros para que la ciudadanía señale su preferencia, debiendo elegir una sola candidatura por especialidad.
+
+> <small>(ADICIONADO, D.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+La jornada electoral judicial se celebrará en la misma ubicación donde se realicen las elecciones ordinarias federales o locales de ese año. Las autoridades electorales adoptarán las medidas necesarias para garantizar que la jornada electoral judicial se desarrolle sin la intervención de personas representantes de partidos políticos.
+
+> <small>(ADICIONADO, D.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+El escrutinio y cómputo de los votos se realizará en la casilla donde fueron sufragados.
 
 > <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
@@ -2202,6 +2228,10 @@ Ante cualquier vulneración a la administración de justicia y que esta no sea e
 Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial del Estado, incluyendo magistrados y jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada.
 
 El Tribunal de Disciplina Judicial conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley.
+
+> <small>(ADICIONADO, D.O. 4 DE SEPTIEMBRE DE 2026)</small>
+
+El Tribunal evaluará el desempeño de las personas juzgadoras que resulten electas durante su primer año de ejercicio y aplicará programas de capacitación y actualización permanente, para lo cual podrá coordinarse con la Escuela Judicial. La ley establecerá los métodos, criterios e indicadores aplicables a los procesos de evaluación que correspondan.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -6500,3 +6530,23 @@ Artículo segundo. La Comisión Permanente de Presupuesto, Patrimonio Estatal y 
 Cláusula derogatoria
 
 Artículo tercero. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 4 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 228/2026 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE ARMONIZACIÓN CON LA REFORMA CONSTITUCIONAL FEDERAL AL PODER JUDICIAL”.]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Elección judicial del año 2028
+
+Artículo segundo. Para efectos de la debida armonización de la presente Constitución con la Constitución Política de los Estados Unidos Mexicanos, la elección judicial prevista para el año 2027 se realizará en sus mismos términos y alcances, en el año 2028.
+
+Duración en el cargo de las personas electas en el proceso electoral judicial del año 2028
+
+Artículo tercero. El periodo de las personas magistradas del Tribunal de los Trabajadores al Servicio del Estado y los Municipios y las personas juzgadoras de primera instancia que resulten electas en la elección que se celebre en el año 2028 conforme al presente Decreto durará ocho años, por lo que vencerá en el año 2036.
+
+Derogación tácita
+
+Artículo cuarto. Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
