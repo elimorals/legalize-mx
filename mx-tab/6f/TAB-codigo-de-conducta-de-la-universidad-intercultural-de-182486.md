@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-la-universidad-intercultural-de-182486"
 country: "mx"
 rank: "codigo"
 publication_date: "2025-11-26"
-last_updated: "2025-11-26"
+last_updated: "2026-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LA UNIVERSIDAD INTERCULTURAL DE ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD INTERCULTURAL DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD INTERCULTURAL DE ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2026 (ABROGADO).
 
 Código publicado en la Edición 8684 del Suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 26 de noviembre de 2025.
 
@@ -484,3 +486,13 @@ Cargo: _______________________________________________________________
 Unidad Administrativa: ________________________________________________
 
 Fecha y firma: ________________________________________________________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD INTERCULTURAL DEL ESTADO DE TABASCO".]
+
+Artículo Primero. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+Artículo Segundo. Se abroga el Código de Conducta de la Universidad Intercultural del Estado de Tabasco publicado el 26 de noviembre de 2025, en el suplemento al Periódico Oficial del Estado de Tabasco, edición número 8684.
