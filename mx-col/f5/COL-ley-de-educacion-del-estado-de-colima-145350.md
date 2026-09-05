@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-145350"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-25"
-last_updated: "2024-02-17"
+last_updated: "2026-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 25 de noviembre de 2020.
 
@@ -111,15 +111,21 @@ VIII. Particulares, a las instituciones educativas que cuentan con autorización
 
 IX. Personal docente, al profesional que asume ante el Estado y la sociedad la corresponsabilidad del aprendizaje de los educandos en la escuela, considerando sus capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje y, en consecuencia, contribuye al proceso de enseñanza aprendizaje como promotor, coordinador, guía, facilitador, investigador y agente directo del proceso educativo;
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
 
-X. Secretaría, a la Secretaría de Educación y Cultura como dependencia de la Administración Pública Centralizada del Poder Ejecutivo del Estado de Colima; y
+X. POSIT, al cuestionario de tamizaje, que es un instrumento que consta de 81 reactivos que evalúan 7 áreas de funcionamiento de la vida de los adolescentes que pueden verse afectadas por factores de riesgo psicosociales: uso y abuso de sustancias, salud mental, relaciones familiares, relaciones con amigos, nivel educativo, interés vocacional, conducta agresiva-delictiva;
 
-XI. Trabajador de la educación, al personal con funciones docente, técnico docente, de asesoría técnico pedagógica, de dirección y supervisión; así como administrativa o de apoyo y asistencia en el proceso educativo, cuya nómina es con cargo al presupuesto de egresos de la Federación y del Gobierno del Estado de Colima.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+XI. Secretaría, a la Secretaría de Educación y Cultura como dependencia de la Administración Pública Centralizada del Poder Ejecutivo del Estado de Colima;
 
-XII. POSIT, al cuestionario de tamizaje, que es un instrumento que consta de 81 reactivos que evalúan 7 áreas de funcionamiento de la vida de los adolescentes que pueden verse afectadas por factores de riesgo psicosociales: uso y abuso de sustancias, salud mental, relaciones familiares, relaciones con amigos, nivel educativo, interés vocacional, conducta agresiva-delictiva.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+XII. Trabajador de la educación, al personal con funciones docente, técnico docente, de asesoría técnico pedagógica, de dirección y supervisión; así como administrativa o de apoyo y asistencia en el proceso educativo, cuya nómina es con cargo al presupuesto de egresos de la Federación y del Gobierno del Estado de Colima; y
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+XIII. TICCAD, a las Tecnologías de la Información, Comunicación, Conocimiento y Aprendizaje Digital.
 
 ###### Artículo 5.
 
@@ -907,19 +913,33 @@ XXV. Los demás necesarios para el cumplimiento de los fines y criterios de la e
 
 ### Capítulo III. De las Tecnologías de la Información, Comunicación, Conocimiento y Aprendizaje Digital en el Proceso Educativo
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 59.
 
-Utilización de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el proceso educativo.
+Utilización de las TICCAD en el proceso educativo.
 
-1. En la educación que se imparta en el Estado de Colima se utilizará el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de fortalecer los modelos pedagógicos de enseñanza aprendizaje, la innovación educativa, el desarrollo de habilidades y saberes digitales de los educandos, además del establecimiento de programas de educación a distancia y semipresencial para cerrar la brecha digital y las desigualdades en la población.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
 
-2. Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos.
+1. En la educación que se imparta en el Estado de Colima se utilizará el avance de las TICCAD, con la finalidad de fortalecer los modelos pedagógicos de enseñanza-aprendizaje, la innovación educativa, el desarrollo de habilidades y saberes digitales de los educandos, además del establecimiento de programas de educación a distancia y semipresencial para cerrar la brecha digital y las desigualdades en la población.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+2. Las TICCAD serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos. Su uso, por parte del alumnado de educación básica y media superior durante la jornada escolar se limitará a fines educativos previamente planificados por el personal docente, en situaciones de emergencia debidamente justificadas o por necesidades específicas de accesibilidad.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+3. El uso de dichas tecnologías, en el ámbito escolar, estará sujeto a supervisión del personal docente y a la normativa que para tal efecto emitan las autoridades educativas competentes, promoviendo su integración responsable y adecuada en los procesos de enseñanza-aprendizaje, sin comprometer la atención, el bienestar, ni el desarrollo integral de las y los estudiantes.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 60.
 
-Capacitación del personal docente para desarrollar habilidades en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital
+Capacitación del personal docente para desarrollar habilidades en el uso de las TICCAD.
 
-1. La autoridad educativa estatal, en el ámbito de su competencia, promoverá la formación y capacitación del personal docente para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para favorecer el proceso educativo.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+1. La autoridad educativa estatal, en el ámbito de su competencia, promoverá la formación y capacitación del personal docente para desarrollar las habilidades necesarias en el uso de las TICCAD para favorecer el proceso educativo.
 
 ### Capítulo IV. De la Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación Básica y Media Superior
 
@@ -975,7 +995,17 @@ Corresponsabilidad de madres y padres de familia o tutores en el proceso educati
 
 Orientación para las familias de los educandos
 
-1. La autoridad educativa estatal desarrollará actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia, tutores o quienes ejerzan la patria potestad, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+1. La autoridad educativa estatal desarrollará actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, entre otros.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+2. Asimismo, la autoridad educativa promoverá, en el ámbito de su competencia, el uso responsable de las TICCAD a través de acciones de sensibilización y alfabetización digital que garanticen los fines educativos, la convivencia escolar, la protección de la privacidad, la integridad de las personas, así como el desarrollo integral de los educandos y otros temas que permitan a madres y padres de familia, tutores o quienes ejerzan la patria potestad, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+3. Para efectos del presente artículo, se entenderá por alfabetización digital el desarrollo de conocimientos, habilidades y capacidades para acceder, gestionar, comprender, integrar, comunicar, evaluar y crear información mediante el uso seguro, crítico y responsable de las tecnologías digitales, así como para reconocer los riesgos y oportunidades asociados a su utilización.
 
 ### Capítulo VII. De Otros Complementos del Proceso Educativo
 
@@ -2396,3 +2426,11 @@ P.O. 17 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 402.- POR EL QUE SE ADICIONA UN NUMERAL 3 AL ARTÍCULO 26; SE REFORMA EL NUMERAL 5 DEL ARTÍCULO 79, ASÍ COMO, LA FRACCIÓN VIII DEL NUMERAL 1 DEL ARTÍCULO 109, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 5 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 354.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Dentro de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, las autoridades educativas competentes emitirán la normativa a que se refiere el numeral 3 del artículo 59 de la Ley de Educación del Estado de Colima.
