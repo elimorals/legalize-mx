@@ -4,7 +4,7 @@ identifier: "COL-ley-que-previene-combate-y-elimina-la-discriminacion-en-el-6171
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-14"
-last_updated: "2023-09-02"
+last_updated: "2026-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial en el Estado de Colima, el sábado 14 de junio de 2008.
 
@@ -59,7 +59,9 @@ Artículo 1º BIS.- Para los efectos de esta Ley se entenderá por:
 
 I. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios, que al realizarlas no impongan una carga desproporcionada o afecten derechos de terceros, que se aplican cuando se requieran en un caso particular, para garantizar que las personas gocen o ejerzan sus derechos en igualdad de condiciones con las demás;
 
-II. Comisión: A la Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+II. Comisión: A la Comisión de Derechos Humanos del Estado de Colima.
 
 III. Discriminación: Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
 
@@ -133,21 +135,27 @@ Corresponde la aplicación de esta Ley:
 
 l. Al Titular del Ejecutivo del Estado;
 
-II. Al Supremo Tribunal de Justicia, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos del Poder Judicial:
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+II. Al Tribunal de Disciplina Judicial, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos del Poder Judicial;
 
 III. A la Legislatura del Estado, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos del Poder Legislativo;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
 
-IV. A la Secretaría de Planeación y Finanzas, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos del Poder Ejecutivo;
+IV. A la Secretaría de Planeación, Finanzas y Administración, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos del Poder Ejecutivo;
 
 V. A los Ayuntamientos del Estado, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos municipales;
 
 VI. A las dependencias, entidades y órganos que conforman la administración pública estatal y municipal; y
 
-VII. A la Comisión Estatal de Derechos Humanos.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
 
-Compete a la Comisión Estatal de Derechos Humanos integrar y resolver los expedientes de quejas sobre la materia, con base en sus atribuciones, principios y procedimientos, proporcionando además la asesoría necesaria suficiente y los medios idóneos para hacer prevalecer el respeto a los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos.
+VII. A la Comisión de Derechos Humanos del Estado de Colima.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+Compete a la Comisión integrar y resolver los expedientes de quejas sobre la materia, con base en sus atribuciones, principios y procedimientos, proporcionando además la asesoría necesaria suficiente y los medios idóneos para hacer prevalecer el respeto a los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 7°.
 
@@ -793,9 +801,9 @@ l. Un Consejero Presidente, que será el Gobernador;
 
 II. Un Consejero Vicepresidente, que será el Titular de la Secretaría General de Gobierno, quien suplirá al Presidente en caso de ausencia;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
 
-III. Un Consejero Secretario Ejecutivo, que será el Titular de la Secretaría de Desarrollo Social;
+III. Una Persona Consejera Secretaria Ejecutiva, que será la persona Titular de la Secretaría de Bienestar, Inclusión Social y Mujeres;
 
 IV. Un Consejero representante de la Legislatura Estatal, que será un Diputado Local seleccionado de entre los miembros de la comisión relacionada con los derechos humanos;
 
@@ -803,11 +811,13 @@ V. Un Consejero representante de cada uno de los Ayuntamientos, que será el Pre
 
 VI. Un Consejero representante de la Universidad de Colima, que será un investigador de reconocido prestigio; y
 
-VII. Siete consejeros ciudadanos representantes de la sociedad civil.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
+VII. Cuatro personas consejeras ciudadanas representantes de la sociedad civil.
 
-Para los supuestos previstos en las fracciones IV a la VII de este artículo, por cada consejero titular se nombrará un suplente, quien podrá participar en las sesiones del Consejo Estatal en caso de ausencia del primero.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+Para los supuestos previstos en la fracción IV a la VI de este artículo, por cada consejero titular se nombrará un suplente, quien podrá participar en las sesiones del Consejo Estatal en caso de ausencia del primero.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
 
@@ -835,11 +845,11 @@ V. (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 2023)
 
 La designación de los miembros del Consejo Estatal a que se refieren las fracciones IV, V y VI del artículo 34 de esta Ley corresponderá a los propios órganos públicos a los que pertenezcan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 37.
 
-La designación de los consejeros ciudadanos a que se refiere la fracción VII del artículo 34 de esta Ley se hará por el Congreso del Estado con base en las propuestas que le hagan organizaciones civiles de conformidad con las siguientes reglas:
+La designación de las personas consejeras ciudadanas a que se refiere la fracción VII del artículo 34 de esta Ley se hará por el Congreso del Estado con base en las propuestas que le hagan la ciudadanía y las organizaciones civiles de conformidad con las siguientes reglas:
 
 l. El Congreso del Estado formulará una convocatoria pública a efecto de recibir, durante un periodo de quince días hábiles contados a partir de la fecha de su publicación en dos periódicos de circulación estatal, las solicitudes para ocupar el cargo de consejero:
 
@@ -847,7 +857,9 @@ II. Concluido el plazo anterior, dentro de los cinco días hábiles siguientes e
 
 III. La comisión elaborará un dictamen y pondrá el asunto en estado de resolución; y
 
-IV. El Congreso del Estado elegirá a los siete consejeros que correspondan a cada sector social, les expedirá nombramiento y les tomará protesta.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+IV. El Congreso del Estado elegirá a las cuatro personas consejeras que correspondan a cada sector social, les expedirá nombramiento y les tomará protesta.
 
 ###### Artículo 38.
 
@@ -1079,11 +1091,15 @@ Las organizaciones de la sociedad civil podrán presentar reclamaciones o quejas
 
 Las quejas y denuncias que se presenten no requerirán más formalidad que presentarse por escrito con firma o huella digital y datos de identificación del interesado, también podrán ser verbales, por vía telefónica o por cualquier otro medio electrónico, en casos urgentes, sin más señalamiento que el asunto que las motivó y los datos generales de quien las presente.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 52.
 
-Corresponde a la Comisión Estatal de Derechos Humanos y a las autoridades señaladas en el artículo 6 de esta Ley realizar acciones para prevenir y erradicar toda forma de discriminación e intolerancia.
+Corresponde a la Comisión y a las autoridades señaladas en el artículo 6 de esta Ley realizar acciones para prevenir y erradicar toda forma de discriminación e intolerancia.
 
-#### SECCIÓN SEGUNDA. DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+#### SECCIÓN SEGUNDA. DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
 ###### Artículo 53.
 
@@ -1097,9 +1113,11 @@ Los procedimientos para el cumplimiento de la presente Ley se ceñirán a los es
 
 Los servidores públicos y las autoridades estatales están obligados a auxiliar al personal de la Comisión en el desempeño de sus funciones y rendir los informes que se les soliciten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 55.
 
-La Comisión Estatal de Derechos Humanos proporcionará a las personas que presuntamente hayan sido discriminadas, asesoría respecto de los derechos que les asisten y los medios para hacerlos valer, ya sea ante la propia Comisión o ante las autoridades estatales o municipales.
+La Comisión proporcionará a las personas que presuntamente hayan sido discriminadas, asesoría respecto de los derechos que les asisten y los medios para hacerlos valer, ya sea ante la propia Comisión o ante las autoridades estatales o municipales.
 
 Siempre que las partes en conflicto manifiesten su conformidad, se procurará la conciliación de intereses.
 
@@ -1113,15 +1131,19 @@ Cuando la queja no sea competencia de la Comisión, por pretenderse exclusivamen
 
 Cuando a juicio de la Comisión se haya demostrado la existencia de la conducta discriminatoria, se emitirá la recomendación correspondiente, de conformidad con la Ley de la materia, dando vista a las autoridades competentes para el efecto de que en caso de aceptar la misma, imponer de proceder y en uso de sus respectivas atribuciones las sanciones administrativas que correspondan contra los servidores públicos o particulares que hubiesen infringido esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 58.
 
-La Comisión Estatal de Derechos Humanos, independientemente de sus funciones, ejercerá las acciones necesarias en torno a la prevención y erradicación de toda forma de discriminación o intolerancia, debiendo integrar en forma sistemática la información sobre las quejas, casos, prácticas y actos discriminatorios que le sean presentados por la ciudadanía, por el Consejo Estatal contra la Discriminación o por los Consejos Municipales.
+La Comisión, independientemente de sus funciones, ejercerá las acciones necesarias en torno a la prevención y erradicación de toda forma de discriminación o intolerancia, debiendo integrar en forma sistemática la información sobre las quejas, casos, prácticas y actos discriminatorios que le sean presentados por la ciudadanía, por el Consejo Estatal contra la Discriminación o por los Consejos Municipales.
 
 #### SECCIÓN TERCERA. DEL CONTROL POR PARTE DE LAS AUTORIDADES
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 59.
 
-En términos de las fracciones II, III, IV y V del artículo 6º de esta Ley, el Supremo Tribunal de Justicia, el Congreso del Estado, la Secretaría de Administración del Gobierno del Estado y los Ayuntamientos, en el ámbito de su competencia, conocerán de las quejas que presenten los particulares en contra de los servidores públicos que incurran en conductas o prácticas discriminatorias, a efecto de imponer las sanciones administrativas que correspondan de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos.
+En términos de las fracciones II, III, IV y V del artículo 6° de esta Ley, el Tribunal de Disciplina Judicial, el Congreso del Estado, la Secretaría de Planeación, Finanzas y Administración del Gobierno del Estado y los Ayuntamientos, en el ámbito de su competencia, conocerán de las quejas que presenten los particulares en contra de los servidores públicos que incurran en conductas o prácticas discriminatorias, a efecto de imponer las sanciones administrativas que correspondan de conformidad con la Ley General de Responsabilidades.
 
 ###### Artículo 60.
 
@@ -1171,9 +1193,11 @@ VI. La capacidad económica del infractor.
 
 El procedimiento para la imposición de sanciones se ajustará a las reglas previstas por la Ley del Procedimiento Administrativo del Estado y sus Municipios.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 65.
 
-El cobro de las multas corresponderá a la Secretaría de Finanzas del Gobierno del Estado y a las Tesorerías Municipales, según la autoridad que hubiese impuesto la sanción, mediante el procedimiento económico-coactivo previsto en leyes fiscales de la materia.
+El cobro de las multas corresponderá a la Secretaría de Planeación, Finanzas y Administración del Gobierno del Estado y a las Tesorerías Municipales, según la autoridad que hubiese impuesto la sanción, mediante el procedimiento económico-coactivo previsto en leyes fiscales de la materia.
 
 #### SECCIÓN TERCERA. DE LOS RECURSOS
 
@@ -1185,15 +1209,19 @@ Será optativo para el particular sancionado, agotar los recursos impugnativos s
 
 ### CAPÍTULO VII. DE LAS MEDIDAS ADMINISTRATIVAS ADICIONALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 67.
 
-La Comisión Estatal de Derechos Humanos, el Consejo Estatal contra la Discriminación y los Consejos Municipales, dispondrán la adopción de las siguientes medidas administrativas para prevenir y erradicar la discriminación:
+La Comisión, el Consejo Estatal contra la Discriminación y los Consejos Municipales, dispondrán la adopción de las siguientes medidas administrativas para prevenir y erradicar la discriminación:
 
 I. Todas las autoridades o particulares que sean objeto de una recomendación o sanción, podrán tomar cursos o seminarios que promuevan la igualdad de oportunidades;
 
 II. La fijación de carteles en cualquier establecimiento de quienes incumplan alguna disposición de esta Ley en los que se promueva la modificación de las conductas discriminatorias;
 
-III. La supervisión y presencia del personal propuesto por la Comisión Estatal de Derechos Humanos, el Consejo Estatal contra la Discriminación y los Consejos Municipales para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento, por el tiempo que disponga la determinación correspondiente:
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2026)</small>
+
+III. La supervisión y presencia del personal propuesto por la Comisión, el Consejo Estatal contra la Discriminación y los Consejos Municipales para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento, por el tiempo que disponga la determinación correspondiente;
 
 IV. La publicación íntegra de la recomendación emitida en el órgano de difusión de la Comisión; y
 
@@ -1288,3 +1316,9 @@ P.O. 2 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 341.- POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV, Y SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 35 DE LA LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 5 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 355.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
