@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2026-07-20"
+last_updated: "2026-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -353,11 +353,11 @@ En los Poderes Legislativo, Judicial, así como en los Organismos Constitucional
 
 Del Territorio del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 9o.
 
-El territorio del Estado es el que de hecho y por derecho le pertenece, dentro de los límites establecidos por el Pacto Federal. Se divide en los Municipios de Aguascalientes, Rincón de Romos, Calvillo, Jesús María, Asientos, Tepezalá, Cosío, San José de Gracia, Pabellón de Arteaga, San Francisco de los Romo y El Llano.
+El territorio del Estado es el que de hecho y por derecho le pertenece, dentro de los límites establecidos por el Pacto Federal. Se divide en los Municipios de Aguascalientes, Rincón de Romos, Calvillo, Jesús María, Asientos, Tepezalá, Cosío, San José de Gracia, Pabellón de Arteaga, San Francisco de los Romo, El Llano y Villa Juárez.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -4956,3 +4956,119 @@ P.O. 20 DE JULIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 566.- SE CREA EL MUNICIPIO DE VILLA JUÁREZ, CON SU EXTENSIÓN TERRITORIAL, LÍMITES, COLINDANCIAS Y COORDENADAS GEODÉSICAS; SE ESTABLECE LA EXTENSIÓN TERRITORIAL, LÍMITES, COLINDANCIAS Y COORDENADAS GEODÉSICAS DEL MUNICIPIO DE ASIENTOS; Y, SE REFORMA EL ARTÍCULO 9° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez agotado el procedimiento previsto en la fracción VIII del artículo 13 de la Ley Municipal para el Estado de Aguascalientes y el artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El primer Ayuntamiento del Municipio de Villa Juárez será electo en el proceso electoral local ordinario del dos mil veintisiete, e iniciará el ejercicio de sus funciones el quince de octubre del dos mil veintisiete.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se celebra el proceso electoral ordinario correspondiente al año dos mil veintisiete y se instala el Ayuntamiento electo del Municipio de Villa Juárez, el Congreso del Estado designará un Concejo Municipal Provisional, que fungirá como órgano de gobierno transitorio del nuevo Municipio y tendrá a su cargo las funciones necesarias para llevar a cabo las acciones preparatorias para su integración administrativa, financiera, jurídica y operativa.
+
+El Concejo Municipal Provisional estará integrado por siete concejales, de entre los cuales se designará a una persona que ejercerá la Presidencia del Concejo y tendrá la representación legal del Municipio para los efectos correspondientes al ejercicio de sus atribuciones.
+
+Dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado emitirá una Convocatoria Pública dirigida a las personas vecinas del territorio que comprenderá el Municipio de Villa Juárez, a efecto de que quienes cumplan con los requisitos correspondientes puedan participar en el procedimiento de selección. La Comisión de Fortalecimiento Municipal, Desarrollo Metropolitano y Zonas Conurbadas verificará el cumplimiento de los requisitos y realizará la valoración de los perfiles y antecedentes de las personas aspirantes.
+
+La persona que ejerza la Presidencia y las demás personas integrantes del Concejo Municipal Provisional serán designadas por el Congreso del Estado mediante votación de la mayoría de sus integrantes presentes.
+
+Las personas que integren el Concejo Municipal Provisional deberán cumplir con los requisitos de elegibilidad previstos en la Constitución Política del Estado de Aguascalientes y en la legislación aplicable para ser integrantes de un Ayuntamiento, así como tener vecindad en el territorio que integrará el Municipio de Villa Juárez, en los términos de las disposiciones jurídicas aplicables.
+
+El Congreso del Estado realizará la designación de las personas integrantes del Concejo Municipal Provisional conforme al procedimiento previsto en el presente artículo. Las personas designadas rendirán la protesta de ley en la misma sesión en que sean designadas.
+
+El Concejo Municipal Provisional iniciará formalmente el ejercicio de las funciones que le correspondan como órgano de gobierno transitorio del Municipio de Villa Juárez a partir del primero de enero de dos mil veintisiete y permanecerá en funciones hasta la instalación del Ayuntamiento electo, prevista para el quince de octubre de dos mil veintisiete.
+
+El Concejo Municipal Provisional cesará automáticamente en sus funciones en el momento en que se declare formalmente instalada la primera sesión del Ayuntamiento electo del Municipio de Villa Juárez, sin necesidad de declaración o acto posterior.
+
+Durante el periodo comprendido del primero de enero al catorce de octubre de dos mil veintisiete, el Concejo Municipal Provisional ejercerá las atribuciones que le confieran el presente Decreto y las demás disposiciones jurídicas aplicables, exclusivamente para garantizar la continuidad institucional, administrativa y financiera del nuevo Municipio, así como para preparar la transición hacia el Ayuntamiento electo.
+
+###### ARTÍCULO CUARTO.
+
+El Concejo Municipal Provisional tendrá las siguientes atribuciones:
+
+I. Realizar las acciones necesarias para la integración administrativa y organizacional del nuevo Municipio;
+
+II. Coordinarse con las autoridades del Municipio de origen y del Gobierno del Estado para la transferencia de bienes, derechos y obligaciones;
+
+III. Preparar el proceso de entrega–recepción a las autoridades municipales electas;
+
+IV. Elaboración de los proyectos de su Ley de Ingresos para el periodo comprendido del quince de octubre al treinta y uno de diciembre del ejercicio fiscal 2027 y la Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal 2028; y
+
+V. Las demás que le confieran las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO QUINTO.
+
+El Ayuntamiento de Asientos deberá seguir ejerciendo y prestando las funciones y servicios públicos municipales a que hacer referencia el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y 69 de la Constitución Política del Estado de Aguascalientes, hasta el momento de la instalación del Ayuntamiento electo de Villa Juárez para el periodo constitucional 2027–2030.
+
+###### ARTÍCULO SEXTO.
+
+Para los efectos de administración y gobierno del nuevo municipio, a partir de su designación, los integrantes del Concejo Municipal Provisional recibirán del Ayuntamiento de Asientos la información y documentación que corresponda.
+
+Además, el Ayuntamiento de Asientos, procederá a darle la posesión y transferirle las oficinas, archivos, documentos y bienes municipales destinados al servicio de la comunidad del nuevo Municipio, a través de los procedimientos legales y administrativos correspondientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Concejo Municipal Provisional deberá rendir informe sobre su gestión, el día que inicie formalmente sus funciones el Ayuntamiento de Villa Juárez.
+
+###### ARTÍCULO OCTAVO.
+
+Entrando en funciones el Concejo Municipal Provisional, los Delegados Municipales que comprenden la demarcación del nuevo municipio cesarán en sus funciones hasta en tanto se procede a la división territorial del nuevo municipio y se eligen en su caso los delegados municipales correspondientes.
+
+###### ARTÍCULO NOVENO.
+
+A partir de la entrada en vigencia del presente Decreto, las personas que, de manera definitiva, temporal o transitoria, tengan residencia dentro del territorio correspondiente al nuevo Municipio, se considerarán vecinos y habitantes del mismo, quedando sujetas a la jurisdicción de las autoridades de éste.
+
+###### ARTÍCULO DÉCIMO.
+
+Una vez designados los integrantes del Concejo Municipal Provisional, se integrará una Comisión de Transición Interinstitucional conformada por:
+
+I. La persona titular de la Secretaría General de Gobierno del Estado de Aguascalientes.
+
+II. La persona titular de la Secretaría de Finanzas del Estado de Aguascalientes.
+
+III. La persona titular de la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes.
+
+IV. La persona que presida la Comisión de Fortalecimiento Municipal del Congreso del Estado de Aguascalientes.
+
+V. La persona titular del área de Finanzas Municipal de Asientos.
+
+VI. Una persona representante del Cabildo de Asientos.
+
+VII. Los integrantes del Concejo Municipal Provisional.
+
+La Comisión de Transición Interinstitucional realizará los trabajos necesarios para la entrega-recepción.
+
+Además, auxiliará al Concejo Municipal Provisional para la preparación y elaboración de los proyectos de su Ley de Ingresos para el periodo comprendido del quince de octubre al treinta y uno de diciembre del ejercicio fiscal 2027 y la Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal 2028.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Ayuntamiento del Municipio de Asientos deberá realizar las acciones necesarias, dentro del ámbito de sus atribuciones y conforme a las disposiciones jurídicas aplicables, a efecto de que, en la medida de lo posible, al término de su periodo constitucional y previo a la instalación de los nuevos Ayuntamientos de los Municipios de Asientos y Villa Juárez, se encuentren liquidadas las obligaciones financieras y los adeudos exigibles a su cargo.
+
+Lo anterior, con la finalidad de que ambos Municipios inicien el ejercicio de sus respectivos periodos constitucionales, a partir del quince de octubre de dos mil veintisiete, sin obligaciones financieras vencidas o exigibles que correspondan al periodo constitucional que concluye y que pudieran afectar los recursos destinados a la prestación de los servicios públicos y al funcionamiento de sus respectivas administraciones municipales.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Congreso del Estado en coordinación con el Poder Ejecutivo a través de la Secretaría de Finanzas del Estado, garantizarán la asignación y suficiencia presupuestal necesaria para la instalación, operación y debido funcionamiento del Concejo Municipal Provisional, durante el periodo comprendido del 1 de enero al 14 de octubre del 2027.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El Congreso del Estado expedirá, a más tardar el último día del mes de septiembre de 2027, la Ley de Ingresos del nuevo Municipio de Villa Juárez para el periodo comprendido del quince de octubre al treinta y uno de diciembre del ejercicio fiscal 2027, tomando como referencia el proyecto que para tal efecto le remita el Consejo Municipal Provisional, con al menos un mes de anticipación.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Congreso del Estado deberá comunicar, tanto a la Secretaría de Hacienda y Crédito Público del Gobierno Federal como a la Secretaría de Finanzas del Estado de Aguascalientes, el inicio de funciones del Municipio de Villa Juárez, precisando la fecha a partir de la cual entrará en operación, a fin de que dichas autoridades lleven a cabo, en el ámbito de sus respectivas competencias, las adecuaciones correspondientes en la distribución de las participaciones y, en su caso, aportaciones federales que le correspondan a partir de esa fecha.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+En virtud de las modificaciones territoriales que sufrirá el territorio del Municipio de Asientos, perteneciente al Estado de Aguascalientes, con motivo de la creación del Municipio de Villa Juárez, hágase de inmediato conocimiento del contenido del presente Decreto, al Instituto Nacional Electoral, al Instituto Estatal Electoral del (sic) Aguascalientes, al Registro Agrario Nacional, al Poder Judicial del Estado de Aguascalientes, a los Órganos Constitucionales Autónomos del Estado de Aguascalientes, así como a la Secretaría de Gobernación del Gobierno de la República, a fin de que en el ámbito de sus respectivas competencias hagan las adecuaciones normativas correspondientes.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Congreso del Estado tendrá facultad para dictar normas interpretativas y aclaratorias del presente Decreto, para resolver cualquier controversia que su aplicación motive y para dictar los acuerdos y disposiciones no previstas en el mismo.
