@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-4638
 country: "mx"
 rank: "ley"
 publication_date: "2005-09-14"
-last_updated: "2022-04-20"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 14 de septiembre de 2005.
 
@@ -45,7 +45,9 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA S
 
 La presente Ley es de orden público e interés social y tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, contratación, gasto, control de adquisiciones y arrendamientos de bienes muebles y, la prestación de servicios de cualquier naturaleza, incluida la prestación de servicios de Largo Plazo, que realicen:
 
-I. Las Dependencias autorizadas por la Ley Orgánica del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+l. Las Dependencias autorizadas por la Ley Orgánica de la Administración Pública del Estado de Baja California Sur;
 
 II. Los Organismos Descentralizados del Estado;
 
@@ -93,6 +95,18 @@ X. Reglamento: El Reglamento de la Ley de Adquisiciones, Arrendamientos y Servic
 
 XI. Contrato: El acuerdo de voluntades entre el Estado y los particulares, con la finalidad de otorgar un bien o prestar un servicio a cambio de una retribución.
 
+> <small>(ADICIONADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+XII.- Caso fortuito: el acontecimiento proveniente de la naturaleza caracterizado por ser imprevisible, inevitable, irresistible, insuperable y ajeno a la voluntad de las partes; se refiere a eventos naturales imprevisibles tales como huracanes, temblores, inundaciones; y
+
+> <small>(ADICIONADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+XIII.- Fuerza mayor.- puede incluir eventos humanos inevitables, tales como pandemias, conflictos armados, guerra, y demás supuestos en que peligre la seguridad e integridad de los habitantes. Dichos supuestos deberán ser debidamente justificados en términos de la presente ley.
+
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+Para efectos de la presente Ley, la invocación de caso fortuito o fuerza mayor deberá acreditarse con la documentación y pruebas que se especifiquen reglamentariamente.
+
 ###### Artículo 3o.
 
 Para los efectos de esta Ley entre las adquisiciones, arrendamientos y servicios quedan comprendidos:
@@ -131,9 +145,11 @@ La aplicación de esta Ley será, sin perjuicio de lo dispuesto en los tratados 
 
 Estarán sujetas a las disposiciones de esta Ley, las adquisiciones, arrendamientos y servicios con cargo total o parcial a fondos estatales y recursos crediticios, conforme a los convenios entre el Ejecutivo estatal y los Municipios.
 
+> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 7o.
 
-El gasto de las adquisiciones, arrendamientos y servicios, se sujetará, en su caso, a las disposiciones específicas del presupuesto de egresos, así como a lo previsto en la Ley de Presupuesto y Control del Gasto Público Estatal y demás disposiciones aplicables.
+El gasto de las adquisiciones, arrendamientos y servicios, se sujetará, en su caso, a las disposiciones específicas del presupuesto de egresos, así como a lo previsto en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California Sur y demás disposiciones aplicables.
 
 ###### Artículo 8o.
 
@@ -247,7 +263,9 @@ VI. La existencia en cantidad suficiente de los bienes, los plazos estimados de 
 
 VII. En su caso los planos, proyectos y especificaciones, y programas de ejecución;
 
-VIII. Las normas aplicables conforme a la Ley Federal sobre Metrología y Normalización aplicada supletoriamente, o a falta de éstas, las normas internacionales;
+> <small>(REFORMADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+VIII. Las normas aplicables conforme a la Ley de Infraestructura de la Calidad aplicada supletoriamente. o a falta de éstas, las normas internacionales;
 
 IX. Los requerimientos de conservación y mantenimiento preventivo y correctivo de los bienes muebles a su cargo y;
 
@@ -389,9 +407,11 @@ d) Cuando así se estipule para las contrataciones financiadas con créditos ext
 
 Podrá negarse la participación a extranjeros en Licitaciones Internacionales, cuando con el país, de procedencia, no conceda un trato recíproco a los licitantes, proveedores, bienes o servicios mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 38.
 
-Las convocatorias para participar en las Licitaciones Estatales, Nacionales e Internacionales se deberán publicar en el diario de mayor circulación en el Estado, y en el sistema electrónico de contrataciones gubernamentales (Compranet Estatal), y contendrán como mínimo:
+Las convocatorias para participar en las Licitaciones Estatales, Nacionales e Internacionales se deberán publicar en la página de internet de la convocante y en el sistema electrónico de contrataciones gubernamentales (Compranet Estatal), y contendrán como mínimo:
 
 I. El nombre, denominación o razón social de la Dependencia, Entidad u Organismos Autónomos;
 
@@ -455,7 +475,11 @@ VII. La indicación de que ninguna de las condiciones contenidas en las bases de
 
 VIII. Criterios claros y detallados para la evaluación de las propuestas y adjudicación de los contratos;
 
-IX. Descripción completa de los bienes o servicios, o indicación de los sistemas empleados para identificación de los mismos; información específica que requieran respecto a mantenimiento, asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; aplicación de normas conforme a lo establecido en la Ley Federal sobre Metrología y Normalización: dibujos; cantidades; muestras, y pruebas que se realizarán, así como método para ejecutarlas;
+> <small>(REFORMADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+IX. Descripción completa de los bienes o servicios, o indicación de los sistemas empleados para identificación de los mismos; información específica que requieran
+
+respecto a mantenimiento, asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; aplicación de normas conforme a lo establecido en la Ley de Infraestructura de la Calidad: dibujos; cantidades; muestras, y pruebas que se realizarán, así como método para ejecutarlas.
 
 X. Plazo y condiciones de entrega; así como la indicación del lugar, dentro del territorio nacional, donde deberán efectuarse las entregas. Cuando se trate de diferentes lugares de entrega, podrá establecerse que se propongan precios para cada uno de éstos o uno solo para todos ellos;
 
@@ -487,7 +511,9 @@ XXIII. Las previsiones relativas a los términos y condiciones a las que se suje
 
 XXIV. El señalamiento de las licencias, autorizaciones y permisos que conforme a otras disposiciones sea necesario contar para la adquisición o arrendamiento de bienes y prestación de servicios correspondientes;
 
-XXV. La indicación de que no podrán participar las personas físicas o morales inhabilitadas por resolución de la Secretaría de la Función Pública y de la Contraloría según su ámbito de competencia. En los términos de este ordenamiento o de la Ley de Obras Públicas del Estado.
+> <small>(REFORMADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+XXV. La indicación de que no podrán participar las personas físicas o morales inhabilitadas por resolución de la Secretaría de la Función Pública y de la Contraloría según su ámbito de competencia. En los términos de este ordenamiento o de la Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado y Municipios de Baja California Sur.
 
 Asimismo, la indicación de que los participantes deberán presentar manifestación bajo protesta de decir verdad de que por su conducto, no participan en los procedimientos de contratación establecidos por esta Ley, personas físicas o morales que se encuentren inhabilitadas en los términos del párrafo anterior, con el propósito de evadir los efectos de la inhabilitación, tomando en consideración, entre otros, los supuestos siguientes:
 
@@ -689,7 +715,15 @@ II. Por tratarse de obras de arte, o bienes y servicios para los cuales no exist
 
 III. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales, por casos fortuitos o de fuerza mayor, o existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, en estos casos las Dependencias y Entidades se coordinarán, según proceda, con la dependencia competente;
 
-IV. Cuando existan condiciones o circunstancias extraordinarias o impredecibles;
+> <small>(REFORMADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+IV. Cuando existan condiciones o circunstancias extraordinarias, impredecibles o irresistibles; siempre que estas no sean recurrentes. En los siguientes términos:
+
+a) En cuanto la extraordinariedad se consideran los sucesos fuera de lo común y que se apartan de la normalidad esperada.
+
+b) En el caso de la lmprevisibilidad, esta se presenta cuando los entes contratantes no podían razonablemente anticipar o prever su ocurrencia al momento de contraer la obligación.
+
+c) Se entiende por lrresistibilidad, la imposibilidad de evitar los efectos del evento, independientemente de la voluntad ya que la causa del evento no depende de las partes involucradas y se presenta de forma independiente a su control.
 
 V. Derivado de caso fortuito o fuerza mayor y no sea posible obtener bienes o servicios mediante el procedimiento de licitación pública en el tiempo requerido para atender la eventualidad de que se trate, en este supuesto las cantidades o conceptos deberán limitarse a lo estrictamente necesario para afrontarla;
 
@@ -699,7 +733,9 @@ VII. Se realicen dos Licitaciones Públicas que hayan sido declaradas desiertas,
 
 VIII. Existan razones justificadas para la adquisición o arrendamiento de bienes de marca determinada;
 
-IX. Se trate de servicios de consultorías, asesorías, estudios e investigaciones o capacitación, debiendo aplicar el procedimiento de invitación a cuando menos tres personas, entre las que se incluirán instituciones de educación superior y centros de investigación. Si la materia de los servicios se refiriese a información reservada, en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California Sur, podrá autorizarse la contratación mediante adjudicación directa;
+> <small>(REFORMADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+IX. Se trate de servicios de consultorías, asesorías, estudios e investigaciones o capacitación, debiendo aplicar el procedimiento de invitación a cuando menos tres personas, entre las que se incluirán instituciones de educación superior y centros de investigación. Si la materia de los servicios se refiriese a información reservada, en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, podrá autorizarse la contratación mediante adjudicación directa;
 
 X. Se trate de adquisiciones, arrendamientos o servicios cuya contratación se realice con cooperativas pesqueras o rurales, ejidatarios, microempresas, campesinos o grupos urbanos marginados y que la convocante contrate directamente con los mismos, como personas físicas o morales;
 
@@ -718,6 +754,16 @@ XVI. Se trate de equipos especializados, sustancias y materiales de origen quím
 XVII. Se acepte la adquisición de bienes o la prestación de servicios a título de dación en pago, en los términos de la Ley en la materia;
 
 XVIII. Cuando no existan por lo menos tres proveedores idóneos, previa investigación de mercado que al respecto se hubiere realizado.
+
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+Para el caso de los supuestos de las fracciones III, IV y V se deberá de publicar en la página de internet o el sistema electrónico de adquisiciones la justificación y el contrato dentro de las 72 horas siguientes a la invitación; Así mismo deberá de remitirse de inmediato el expediente al Comité y a la Auditoría Superior del Estado; el Comité emitirá dictamen posterior en plazo máximo de 5 días hábiles.
+
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+En el caso de causas de fuerza mayor y/o de caso fortuito que motiven la invitación cuando menos tres personas o de adjudicación directa. en ausencia de declaratoria
+
+oficial, se deberá adjuntar a la justificación un paquete mínimo de pruebas como lo son actas, informes técnicos, cotizaciones y demás documentos viables de comprobación para proceder de manera legal.
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -827,7 +873,9 @@ V. En la solicitud y entrega de los bienes o servicios se hará referencia al co
 
 VI. Los plazos para el pago de los bienes o servicios no podrán exceder de treinta días naturales;
 
-VII. Su vigencia no excederá el ejercicio fiscal correspondiente a aquel en que se suscriban, salvo que se obtenga previamente autorización para afectar recursos presupuestales de años posteriores, en términos de la Ley de Presupuesto y Control del Gasto Público Estatal.
+> <small>(REFORMADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+V (SIC). Su vigencia no excederá el ejercicio fiscal correspondiente a aquel en que se suscriban, salvo que se obtenga previamente autorización para afectar recursos presupuestales de años posteriores, en términos de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California Sur.
 
 ###### Artículo 59.
 
@@ -855,7 +903,9 @@ Las Dependencias y Entidades se abstendrán de recibir propuestas o celebrar con
 
 I. Aquéllas en que el servidor público que intervenga en cualquier etapa del procedimiento de contratación tenga interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate;
 
-II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur; Así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+> <small>(REFORMADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur; Así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
 III. Aquellos proveedores que, por causas imputables a ellos mismos, la convocante les hubiere rescindido administrativamente uno o más contratos dentro de un lapso de dos años calendario contado a partir de la notificación de la primera rescisión. Dicho impedimento prevalecerá ante la propia convocante por el plazo que se establezca en las políticas, bases y lineamientos a que se refiere el Artículo 1 de esta Ley, el cual no podrá ser superior a dos años calendario contados a partir de la notificación de la rescisión del segundo contrato;
 
@@ -1045,9 +1095,11 @@ La Contraloría y las Dependencias coordinadoras, en el ejercicio de sus faculta
 
 La Contraloría en coordinación con el titular de la dependencia ejecutora, en el ejercicio de sus respectivas facultades podrán realizar las visitas e inspecciones que estimen pertinentes a las Dependencias y Entidades que realicen adquisiciones, arrendamientos y servicios, e igualmente podrá solicitar a los servidores públicos y a los proveedores que participen en ellas todos los datos e informes relacionados con los actos de que se trate.
 
+> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 75.
 
-La Contraloría podrá verificar la calidad de las especificaciones de los bienes muebles a través de la propia convocante de que se trate, o mediante las personas acreditadas en los términos que establece la Ley Federal de Metrología y Normalización.
+La Contraloría podrá verificar la calidad de las especificaciones de los bienes muebles a través de la propia convocante de que se trate, o mediante las personas acreditadas en los términos que establece la Ley de Infraestructura de la Calidad.
 
 ## Título Sexto. De las Infracciones y Sanciones
 
@@ -1111,9 +1163,11 @@ III. La resolución será debidamente fundada y motivada, y se comunicará por e
 
 En lo conducente a este artículo, será aplicable en las rescisiones administrativas que lleven a cabo las Dependencias y Entidades por causas imputables a los proveedores.
 
+> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 80.
 
-Sin perjuicio de las sanciones que contempla esta Ley, los servidores públicos que infrinjan las disposiciones de esta Ley, la Contraloría aplicará, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur, las sanciones que procedan.
+Sin perjuicio de las sanciones que contempla esta Ley, los servidores públicos que infrinjan las disposiciones de esta Ley, la Contraloría aplicará, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, las sanciones que procedan.
 
 ###### Artículo 81.
 
@@ -1288,3 +1342,11 @@ B.O. 20 DE ABRIL DE 2022.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente decreto.
+
+B.O. 8 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3306 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
