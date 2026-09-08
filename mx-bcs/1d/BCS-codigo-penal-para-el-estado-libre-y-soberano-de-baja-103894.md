@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2026-06-30"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -3871,6 +3871,14 @@ Están protegidos por un impedimento legítimo, los abogados, ministros de culto
 
 Gozan de una excusa absolutoria los que incurran en encubrimiento del cónyuge, concubina o concubino, parientes por consanguinidad o por afinidad en la línea recta ascendente o descendente hasta el cuarto grado y en la colateral por consanguinidad o afinidad, hasta el segundo grado; quedan exceptuadas de dicha excusa absolutoria las personas que incurran en encubrimiento en la comisión de los delitos de homicidio y feminicidio.
 
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+No aplicarán las excusas absolutorias precisadas en el párrafo anterior, a las personas que incurran en encubrimiento en la comisión de los delitos de violación, violación equiparada, abuso sexual, abuso sexual de menores de edad, hostigamiento sexual, acoso sexual, corrupción de menores de edad o de quienes no tiene capacidad para comprender el significado del hecho en cualquiera de sus modalidades previstas en los artículos 169 a 174, pornografía de menores de edad, lenocinio, ciberacoso sexual y los delitos previstos en los artículos 183 Bis y 183 ter, estupro, incesto, violación a la intimidad sexual prevista en el artículo 183 Quater y la conducta prevista en el artículo 183 Quinquies, cuando la víctima sea menor de dieciocho años de edad; para evitar la revictimización si aplicara la excusa absolutoria establecida en el párrafo anterior, a la persona que encubra alguno de los delitos de este párrafo, siempre y cuando sea víctima de delito por el mismo imputado.
+
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+Cuando el encubrimiento a que se refiere el artículo anterior recaiga sobre alguno de los delitos establecidos en los dos párrafos precedentes y la persona encubridora proporcione recursos económicos, materiales o logísticos con la finalidad de sustraer al responsable de la acción de la justicia, o altere, destruya, oculte o haga desaparecer indicios, evidencias o datos de prueba, o bien, coaccione, intimide o amenace a la víctima o a los testigos con el propósito de evitar, obstaculizar o hacer desistir la denuncia o el ejercicio de la acción penal, la pena prevista en el artículo 335 se aumentara en una mitad.
+
 ### CAPÍTULO VIII. QUEBRANTAMIENTO DE SANCIONES
 
 ###### Artículo 337.
@@ -5330,3 +5338,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las autoridades competentes, en el ámbito de sus respectivas atribuciones y conforme a la disponibilidad presupuestaria aprobada, realizarán las adecuaciones administrativas, normativas y operativas necesarias para la correcta implementación del presente Decreto.
 
 TERCERO. Las acciones derivadas de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos humanos, materiales y financieros ya aprobados para las dependencias y entidades competentes, por lo que no se autorizarán recursos adicionales para su cumplimiento.
+
+B.O. 8 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3303 SE ADICIONA UN PÁRRAFO CUARTO Y QUINTO AL ARTÍCULO 336 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de resolución, por las disposiciones previstas en el artículo 335 y 336 del Código Penal para el Estado Libre y Soberano de Baja California Sur que se reforma, se seguirán substanciando hasta su conclusión con la disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
