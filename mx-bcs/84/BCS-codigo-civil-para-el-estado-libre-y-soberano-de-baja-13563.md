@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2026-05-31"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -377,11 +377,11 @@ La Coordinación Estatal del Registro Civil, o sus delegados, cuidará la legali
 
 Las declaraciones de nacimiento se harán presentando a la persona ante el Oficial del Registro Civil en su oficina, pudiendo acudir éste al lugar en que se encuentre, cuando sea necesario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 59.
 
-Tienen obligación de declarar el nacimiento, el padre o la madre y, a falta de éstos, los abuelos por cualquier línea, dentro de los siete días naturales posteriores al nacimiento.
+Tienen la obligación de declarar el nacimiento la madre, el padre, las madres o los padres, y a falta de dichas personas, las abuelas o los abuelos por cualquier línea, dentro de los seis meses de ocurrido.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
 
@@ -421,27 +421,37 @@ Las instituciones de salud públicas o privadas, los médicos, enfermeras, ó ma
 
 En las poblaciones en que no haya Oficial del Registro Civil, el niño será presentado a la persona que ejerza la autoridad municipal, quien expedirá la constancia respectiva para que los interesados la exhiban al Oficial del Registro Civil que corresponda, para que asiente el acta.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 66.
 
-El acta de nacimiento deberá contener lugar y fecha del registro, hora, día, mes, año y lugar de nacimiento; el sexo, el nombre que se le imponga y los apellidos de los progenitores en el orden de prelación que ellos convengan, o los apellidos de la madre, cuando lo presente individualmente como hijo extramatrimonial; la mención de si se presenta vivo o muerto, la impresión dactilar y la Clave Única del Registro de Población que se asigne al registrado.
+El acta de nacimiento deberá contener lugar y fecha del registro, hora, día, mes, año y lugar de nacimiento; el sexo, el nombre que se le imponga y los apellidos de la madre, padre, madres o padres, en el orden que libre y mutuamente acuerden quienes comparezcan y reconozcan, o respecto de quienes legalmente proceda establecer la filiación; la mención de si se presenta viva o viva sin signos vitales, según corresponda; la impresión dactilar y la Clave Única de Registro de Población que se asigne a la persona registrada.
 
-El Juez del Registro Civil deberá especificar, de forma expresa, el orden de apellidos que acuerden los progenitores. El orden de apellidos convenido será considerado para los demás hijos e hijas del mismo vínculo.
+> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+Contendrá además, nombre, edad, domicilio y nacionalidad de la madre, padre, madres o padres y testigos; así como el nombre, domicilio y nacionalidad de las abuelas y abuelos por la línea que corresponda. Si la presentación la realiza persona distinta, se anotará su nombre, edad, domicilio y parentesco con la persona registrada.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
 
 Si se desconoce el nombre de los padres, el Juez del Registro Civil le pondrá el nombre y apellidos, haciendo constar esta circunstancia en el acta. Cuando no haya acuerdo entre los progenitores, el juez dispondrá el orden de los apellidos, atendiendo al que por orden alfabético corresponda. No se reputará de oficio el apellido paterno.
 
+> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 67.
 
-Cuando al presentar al menor uno de los padres exhiba copia certificada del acta de matrimonio, se asentará el nombre del otro cónyuge como progenitor, aunque no comparezca, salvo sentencia judicial en contrario.
+Cuando al presentar a la persona menor de edad una de las personas cónyuges exhiba copia certificada del acta de matrimonio, se asentará el nombre de la otra persona cónyuge como madre o padre, según corresponda y cuando proceda legalmente, salvo sentencia judicial en contrario.
+
+> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 68.
 
-Cuando no se presente copia certificada del acta de matrimonio, sólo se asentará el nombre y apellidos del padre o de la madre, cuando éstos lo reconozcan por si o por mandatario; siempre que se asiente el nombre de un progenitor, se incluirán los datos de los abuelos por la línea que corresponda.
+Cuando no se presente copia certificada del acta de matrimonio, sólo se asentará el nombre y apellidos de la madre, padre, madres o padres cuando éstos reconozcan por sí o por mandatario con poder suficiente; siempre que se asiente el nombre de una persona reconocedora, se incluirán los datos de las abuelas y abuelos por la línea que corresponda.
+
+> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 69.
 
-Cuando el menor sea presentado por persona distinta de los padres, se efectuará el registro sin otorgarle filiación, pero sí nombre y apellidos ficticios.
+Cuando la persona menor de edad sea presentada por persona distinta de la madre, padre, madres o padres, se efectuará el registro sin establecer filiación, asignándose nombre y apellidos conforme a las disposiciones aplicables, sin perjuicio del posterior reconocimiento voluntario o determinación judicial de la filiación.
 
 ###### Artículo 70.
 
@@ -463,9 +473,11 @@ Las personas progenitoras tienen la obligación de reconocer a sus hijos. En el 
 
 Los actos de reconocimiento podrán ser objeto de impugnación por la vía judicial correspondiente, con las garantías del debido proceso y respetando en todo momento el interés superior de la niñez.
 
+> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 73.
 
-Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del Oficial del Registro Civil, éste se trasladará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre, todo lo cual se asentará en el acta.
+Si la madre, padre, madres o padres no pudieren concurrir, ni tuvieren apoderado, pero solicitaren la presencia del Oficial del Registro Civil, éste se trasladará al lugar en que se halle la persona interesada, y allí recibirá la petición de que se mencione su nombre, todo lo cual se asentará en el acta.
 
 ###### Artículo 74.
 
@@ -519,9 +531,11 @@ Cuando se trate de un parto múltiple, se levantará una acta por cada uno de lo
 
 ### CAPÍTULO III. De las actas de reconocimiento
 
+> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 85.
 
-El acta de nacimiento surte efectos de reconocimiento del hijo, en relación a los progenitores que comparezcan y admitan este vínculo.
+El acta de nacimiento surte efectos de reconocimiento de la hija o hijo, en relación con la madre, padre, madres, padres o personas reconocedoras que comparezcan y admitan este vínculo.
 
 ###### Artículo 86.
 
@@ -531,9 +545,11 @@ Si el reconocimiento del hijo se hiciere después de haber sido registrado el na
 
 Para el asentamiento de una acta de reconocimiento, es requisito indispensable que los interesados exhiban al Oficial del Registro Civil, copia certificada del acta de nacimiento de la persona reconocida.
 
+> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 88.
 
-El acta de reconocimiento debe contener: lugar y fecha del reconocimiento; el nombre, apellidos, edad, fecha y lugar de nacimiento; domicilio, Clave Única del Registro de Población asignada y la huella dactilar del reconocido; nombre, apellidos, edad, domicilio y nacionalidad del reconocedor; nombre, apellidos, nacionalidad y domicilio de los padres del reconocedor; nombres, apellidos, edad, estado civil, domicilio, nacionalidad y parentesco con el reconocido de la persona o personas que otorgan el consentimiento, en su caso; y nombres, apellidos, edad, domicilio y nacionalidad de los testigos.
+El acta de reconocimiento debe contener: lugar y fecha del reconocimiento; el nombre, apellidos, edad, fecha y lugar de nacimiento; domicilio, Clave Única de Registro de Población asignada y la huella dactilar de la persona reconocida; nombre, apellidos, edad, domicilio y nacionalidad de la persona reconocedora; nombre, apellidos, nacionalidad y domicilio de la madre, padre, madres o padres; nombres, apellidos, edad, estado civil, domicilio, nacionalidad y parentesco con la persona reconocida de la persona o personas que otorgan el consentimiento, en su caso; y nombres, apellidos, edad, domicilio y nacionalidad de los testigos.
 
 ###### Artículo 89.
 
@@ -2405,9 +2421,11 @@ La Ley no reconoce más parentesco que el consanguíneo, el de afinidad y el civ
 
 El parentesco por consanguinidad es el que existe entre personas que descienden genéticamente de un mismo progenitor.
 
+> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 343.
 
-El parentesco por afinidad es el que se produce por el matrimonio, entre el varón y los parientes de la mujer y entre la mujer y los parientes del varón.
+El parentesco por afinidad es el que se produce por el matrimonio, entre una persona cónyuge y las personas parientes consanguíneas de la otra persona cónyuge.
 
 ###### Artículo 344.
 
@@ -16472,3 +16490,27 @@ B.O. 31 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 3283 SE REFORMA EL ARTÍCULO 72 Y SE DEROGAN LOS ARTÍCULO (SIC) 75 Y 386 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 8 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3304 SE REFORMAN LOS ARTÍCULOS 59, PRIMER PÁRRAFO; 66, PRIMER Y SEGUNDO PÁRRAFOS; 67; 68; 69; 73; 85; 88; Y 343 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Dirección Estatal del Registro Civil contará con un plazo de sesenta días hábiles, contado a partir de la entrada en vigor del presente Decreto, para adecuar formatos impresos, formularios, sistemas informáticos, manuales administrativos y criterios internos de operación, a fin de garantizar el registro y reconocimiento de filiación de niñas, niños y adolescentes en términos del presente Decreto, sin discriminación por orientación sexual, identidad de género, estado civil o tipo de integración familiar de quienes realicen el reconocimiento.
+
+###### ARTÍCULO CUARTO.
+
+La Dirección Estatal del Registro Civil deberá capacitar al personal de las oficialías del Registro Civil del Estado y de los municipios, a efecto de garantizar la aplicación uniforme del presente Decreto bajo los principios de interés superior de la niñez, igualdad, no discriminación, derecho a la identidad y protección de las familias en sus diversas conformaciones.
+
+###### ARTÍCULO QUINTO.
+
+Las autoridades registrales no podrán exigir requisitos adicionales a los previstos en la legislación aplicable ni aplicar criterios administrativos que tengan por objeto o resultado impedir, restringir o diferenciar injustificadamente el registro o reconocimiento de filiación en familias diversas.
