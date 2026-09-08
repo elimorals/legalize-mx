@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2026-08-27"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2479,9 +2479,13 @@ XXII. A quien apruebe u otorgue definitivita (sic) en el puesto, empleo, cargo o
 
 XXIII. A quien apruebe u otorgue un nombramiento a un servidor público, cuando contravenga lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios; o
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2026)</small>
 
-XXIV. A quien apruebe en los presupuestos de egresos, remuneraciones para los servidores públicos que contravengan lo dispuesto en el artículo 111 de la Constitución Política del Estado de Jalisco.
+XXIV. A quien apruebe en los presupuestos de egresos, remuneraciones para los servidores públicos que contravengan lo dispuesto en el artículo 111 de la Constitución Política del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+XXV. Retener o detener de manera ilegal de una persona, con el ánimo de intimidarla, provocarle un daño o perjuicio de carácter patrimonial, o bien para obligarla a dar, hacer, dejar de hacer o tolerar algo obteniendo un beneficio para sí o para otro.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2498,6 +2502,14 @@ b) Si excede del monto a que se refiere el inciso anterior, se impondrán de tre
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 c) Si la comisión del hecho no reporta beneficio económico, se impondrán al responsable, de uno a cinco años de prisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+d) Al infractor de la fracción XXV una pena de tres a ocho años de prisión, destitución e inhabilitación del cargo y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización. Si la intimidación constituye otro delito, se aplicarán las reglas del concurso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+Si se aplica la violencia en la detención, la pena se aumentará de uno a tres años de prisión.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
 
@@ -3869,31 +3881,13 @@ A quien, una vez consumado un secuestro, sin ser partícipe del mismo, de modo p
 
 ### CAPITULO II. Extorsión
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
-
 ###### Art. 189.
 
-Comete el delito de extorsión, aquél que mediante coacción exija de otro la entrega, envio o depósito para si o para un tercero, de cosas, dinero o documentos que produzcan efectos jurídicos. El mismo delito cometerá quien, bajo coacción, exija de otro la suscripción o destrucción de documentos que contengan obligaciones o créditos.
-
-Si el extorsionador consigue su propósito, se le impondrán de uno a nueve años de prisión.
-
-Si el extorsionador no logra el fin propuesto se le impondrán de seis meses a seis años de prisión.
-
-Las penas contenidas en los párrafos anteriores serán incrementadas en una cuarta parte, cuando su realización sea ejecutada sobre menores o personas de la tercera edad, o el pasivo padezca de algún trastorno mental o incapacidad física; el activo se ostente como miembro de una organización criminal; o la obligue a reclutar a una u otras víctimas; o cuando incite a su víctima a realizar actos sexuales, o de pornografía o lo obligue a consumir substancias prohibidas, o psicotrópicas, videograbe, fotografié o distribuya dicho contenido; o cuando el activo sea un servidor público.
-
-Cuando el medio de coacción sea la retención temporal de una persona, para exigirle a ésta, la entrega de cosas, dinero, o documentos o la realización de cualquier transacción que afecte los derechos o el patrimonio del pasivo, se impondrá la pena de diez a treinta años de prisión y multa por el importe de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización, aun cuando el extorsionador no logre el fin propuesto.
-
-De igual forma, se impondrán de cinco a diez años de prisión cuando para la consumación del ilícito, el activo se valga de medios electrónicos, celulares, o aparatos de telefonía, aísle a su víctima, y le exija mediante amenazas, coacción psicológica, física o mental, depósitos, transferencias o entregas de dinero, bienes, documentos, o la realización de cualquier acto o transacción que afecte los derechos o el patrimonio del pasivo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+(DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2026)
 
 ###### Art. 189 Bis.
 
-Al agente del Ministerio Público, de la Policía Investigadora o de las policías preventivas, que practique la detención de una persona, con el ánimo de intimidarla, provocarle un daño o perjuicio de carácter patrimonial, o bien para obligarla a dar, hacer, dejar de hacer o tolerar algo obteniendo un beneficio para sí o para otro, se le sancionará con una pena de tres a ocho años de prisión, destitución e inhabilitación del cargo y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización. Si la intimidación constituye otro delito, se aplicarán las reglas del concurso.
-
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1998)</small>
-
-Si se aplica la violencia en la detención, la pena se aumentará de uno a tres años de prisión.
+(DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2026)
 
 ### CAPITULO III. Chantaje
 
@@ -7538,3 +7532,11 @@ P.O. 27 DE AGOSTO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30145/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 54 Y 144 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, ASÍ COMO EL ARTÍCULO 117 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
+
+P.O. 8 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 30123/LXIV/25 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSAS DISPOSICIONES DEL ESTADO DE JALISCO DE CONFORMIDAD CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los procedimientos penales en materia de extorsión previstos en los artículos derogados 189 y 189 Bis del Código Penal para el Estado Libre y Soberano de Jalisco, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia de este decreto.
