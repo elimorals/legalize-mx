@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2026-06-02"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -523,15 +523,19 @@ XI. Determinar las bases a las que deben sujetarse los prestadores de servicios 
 
 XII. Regular y supervisar el Centro;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2026)</small>
 
 XIII. La emisión de lineamientos en materia de medidas de seguridad con que deberán contar las oficinas bancarias, los giros comerciales y de prestación de servicios, de conformidad a la legislación aplicable.
 
-La verificación del cumplimiento de dichos lineamientos será competencia de la Secretaría quien, en caso de detectar incumplimiento, dará vista a los municipios para la imposición de las sanciones; y
+La verificación del cumplimiento de dichos lineamientos será competencia de la Secretaría quien, en caso de detectar incumplimiento, dará vista a los municipios para la imposición de las sanciones;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2026)</small>
 
-XIV. Las (sic) demás que sean necesarios dentro del marco legal, para cumplir los objetivos de esta ley.
+XIV. Adoptar, difundir e implementar los criterios que establezca el Sistema Nacional de Seguridad Pública para la coordinación y cooperación con las autoridades federales, estatales y municipales, prevención, capacitación y formación de conformidad con la Ley General para Prevenir, Investigar y Sancionar los Delitos en materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos (sic); y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XIV], P.O. 8 DE SEPTIEMBRE DE 2026)
+
+XV. Las (sic) demás que sean necesarios dentro del marco legal, para cumplir los objetivos de esta ley.
 
 ###### Artículo 20.
 
@@ -4162,3 +4166,11 @@ P.O. 2 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30165/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMAN LOS ARTÍCULOS 120, 133 Y 135 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 8 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 30123/LXIV/25 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSAS DISPOSICIONES DEL ESTADO DE JALISCO DE CONFORMIDAD CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los procedimientos penales en materia de extorsión previstos en los artículos derogados 189 y 189 Bis del Código Penal para el Estado Libre y Soberano de Jalisco, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia de este decreto.
