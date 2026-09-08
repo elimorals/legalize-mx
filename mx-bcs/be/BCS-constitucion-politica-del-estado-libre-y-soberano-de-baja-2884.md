@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2026-06-04"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -125,6 +125,10 @@ La Ley establecerá la creación de un catálogo estatal que incluya todos los t
 
 El Estado promoverá, fomentará e impulsará la ciencia, la tecnología y la innovación para el desarrollo integral, sustentable y competitivo de Baja California Sur.
 
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+El Estado promoverá y difundirá la cultura regional que caracteriza sus raíces históricas, artísticas, culinarias, su identidad y tradiciones, atendiendo la diversidad cultural existente.
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE NOVIEMBRE DE 2012)</small>
 
 ## TITULO SEGUNDO. DE LOS DERECHOS HUMANOS Y SUS GARANTIAS
@@ -145,21 +149,69 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 
 Está Constitución y las leyes que de ella emanen, garantizarán el ejercicio de la igualdad sustantiva y la perspectiva de género en todas las políticas públicas de los niveles de gobierno.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
 
-7o BIS.- El Estado de Baja California Sur tiene una composición pluricultural, pluriétnica y plurilingüe, derivada originalmente de los pueblos indígenas que habitaron en su territorio al momento de iniciarse la colonización, a la que se sumaron personas que llegaron de otras partes del mundo, y particularmente, de pueblos indígenas procedentes de otras partes de México.
+7o BIS.- El Estado de Baja California Sur tiene una composición pluricultural, pluriétnica y plurilingüe, derivada originalmente de los pueblos indígenas que habitaron en su territorio al momento de iniciarse la colonización y de Pueblos y Comunidades Originarias Históricas quienes posteriormente heredaron y se posesionaron de las tierras exmisionales y sus descendientes, a la que se sumaron personas que llegaron de ultramar y de otras partes del mundo y con posterioridad, de pueblos indígenas procedentes de otras partes de México.
+
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+Se entiende por Comunidades Originarias Históricas a aquellos núcleos de población, rancherías y localidades rurales o urbanas que, con independencia de su composición étnica, posean una continuidad histórica asentada a partir del sistema misional o la colonización histórica de la península; que hayan desarrollado una identidad cultural propia, costumbres particulares, formas colectivas de organización social y económica ligadas al territorio, así como expresiones lingüísticas regionales únicas.
+
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+Esta Constitución reconoce como pueblos y comunidades originarias históricas del Estado a los descendientes de quienes posteriormente heredaron y se posesionaron de las tierras exmisionales, representados por la cultura ranchera, pescadores, agrícola, minera, china sudcaliforniana y, asume a plenitud el reconocimiento, garantía y protección de sus derechos y prerrogativas colectivos e individuales, reconociéndolos como sujetos de derecho público.
+
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+La Constitución Política de los Estados Unidos Mexicanos y todos los instrumentos jurídicos internacionales de los que México es parte y que obren en su favor, serán de observancia obligatoria en el Estado de Baja California Sur. Por lo tanto, tendrán derecho a:
+
+I. Conservar, enriquecer y difundir su patrimonio cultural material e inmaterial, sus saberes tradicionales y su léxico regional.
+
+II. Ser consultadas en aquellos planes de desarrollo urbano, ejidal o de explotación de recursos que afecten directamente su entorno geográfico histórico o sus formas de vida comunitaria.
+
+III. Participar activamente en la gestión y preservación de los recursos naturales y las fuentes de agua de los cuales han sido custodios históricos, así como derecho preferente a la posesión, uso y aprovechamiento tradicional de las tierras, aguas y recursos naturales del territorio del Estado.
+
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+La ley reglamentaria determinará los requisitos y el procedimiento para la creación de un Registro Estatal de Comunidades Originarias Históricas de Baja California Sur, así como los mecanismos institucionales para garantizar la salvaguarda de sus derechos colectivos.
+
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+El Estado promoverá la organización y participación de los pueblos y comunidades originarias históricas del Estado en la vida democrática y permitirá el acceso de esta a la integración de los órganos de representación popular, además, promoverá las políticas públicas para abatir las desigualdades entre las ciudades y el campo y las costas, sin desnaturalizar sus elementos que los hacen reconocibles como tal. La ley proveerá las disposiciones que sean necesarias para elevar su bienestar social y preservar, promover y enriquecer la identidad, tradiciones, costumbres, conocimientos y modo de vida de sus comunidades originarias.
+
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+La cultura de las y los sudcalifornianos forjada por quienes heredaron y se posesionaron de las tierras exmisionales y sus descendientes, representada por los rancheros, pescadores, agricultores, mineros, artesanos regionales y los chinos sudcalifornianos constituye su identidad, un bien irrenunciable y un derecho fundamental; las autoridades locales en concertación con la sociedad, promoverán el rescate, la preservación, el fortalecimiento, la protección, la restauración y la difusión del patrimonio cultural que define la identidad sudcaliforniana, misma que es inalienable e imprescriptible.
+
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+Los pueblos y comunidades originarias históricas deberán ser consultados por las autoridades del Poder Ejecutivo, del Congreso del Estado y de los municipios antes de adoptar medidas administrativas o legislativas susceptibles de afectarles, para salvaguardar sus derechos. Las consultas deberán ser de buena fe de acuerdo a los estándares internacionales aplicables con la finalidad de obtener su consentimiento libre, previo e informado. Cualquier medida administrativa o legislativa adoptada en contravención a esta disposición será nula.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Esta Constitución asume a plenitud todos los derechos, prerrogativas de los pueblos y comunidades indígenas; así como las obligaciones de las instituciones públicas establecidas en el artículo 2° de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
 Las comunidades indígenas pertenecientes a pueblos indígenas, procedentes de otros estados de la República y que residan temporal o permanentemente dentro del territorio del Estado de Baja California Sur, quedan protegidos por los derechos señalados en esta Constitución y la ley respectiva.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
 
 La conciencia de la identidad indígena será criterio fundamental para determinar a quienes aplican las disposiciones que sobre pueblos indígenas se establezcan en esta constitución y Leyes de la materia.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
 El Poder Ejecutivo, el Poder Judicial, el Poder Legislativo y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, tienen a su cargo la salvaguarda de los derechos colectivos aquí señalados, a fin de asegurar su respeto y aplicación de la ley a favor de los pueblos y comunidades indígenas que se encuentren en el Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación, en los términos del artículo segundo constitucional.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
 Para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, el Estado y los municipios establecerán las instituciones y las políticas públicas requeridas para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales tendrán que ser diseñadas y operadas conjuntamente con ellos, en los términos del artículo segundo constitucional y la ley de la materia.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Para el cumplimiento de las obligaciones antes citadas, el Gobierno del Estado establecerá una Unidad Administrativa competente que atienda los Asuntos Indígenas y los Ayuntamientos del Estado crearán Comisiones o Direcciones Municipales de Asuntos Indígenas, como entidades rectoras y ejecutoras de acciones a favor de las comunidades y grupos indígenas. Por tanto en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
 
@@ -737,9 +789,17 @@ j) Durante el tiempo que comprende el proceso de revocación de mandato, desde l
 
 k) Los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
 
+> <small>(ADICIONADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+VIII.- La protección de los elementos que constituyan su identidad, tradiciones y costumbres, dentro del marco que respeté el pacto federal y la soberanía del Estado; y
+
+> <small>(ADICIONADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+IX.- La Preservación de la cultura ranchera, de costas, agrícola, minera, china sudcaliforniana que proviene de sus comunidades originarias.
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 30 DE NOVIEMBRE DE 2023)</small>
 
-VIII.- Las demás que le confieran esta Constitución y las Leyes que de ella emanan.
+X.- Las demás que le confieran esta Constitución y las Leyes que de ella emanan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2013)</small>
 
@@ -758,6 +818,10 @@ IV.- Votar en las elecciones, consultas ciudadanas plebiscitarias, de referéndu
 V.- Ejercer los cargos de elección popular para los que fuere electo; y
 
 VI.- Desempeñar las funciones electorales, censales, las de jurado y las de concejo del municipio en que resida.
+
+> <small>(ADICIONADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+VII.- Participar en acciones de impulso y preservación de su identidad regional, constituido por sus tradiciones, gastronomía, artesanías y de su patrimonio ecológico, cultural y artístico.
 
 30.- Los sudcalifornianos serán preferidos para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno en que no sea indispensable la calidad de ciudadano.
 
@@ -2917,7 +2981,9 @@ XI.- Formular, aprobar, y publicar anualmente conforme a la Ley su Presupuesto d
 
 XII.- Rendir al Congreso del Estado, a más tardar el 30 de abril, la cuenta del gasto público del año anterior.
 
-XIII.- Promover el desenvolvimiento social, cultural, artístico, deportivo, científico y tecnológico de la comunidad;
+> <small>(REFORMADA, B.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+XIII.- Promover el desenvolvimiento social, cultural, artístico, deportivo, científico y tecnológico de los pueblos y comunidades originarias, así como los elementos que constituyen su identidad, tradiciones y costumbres.
 
 XIV.- Acordar lo conveniente para la formación del censo y estadística del municipio, con sujeción a la ley;
 
@@ -5102,3 +5168,15 @@ Los ajustes o reducciones referidos en el párrafo anterior, dejarán a salvo y 
 TERCERO. Los recursos públicos que provengan de los ajustes o reducciones presupuestales señalados en el artículo transitorio anterior se destinarán a obras de infraestructura pública conforme a la propuesta que para tal efecto incluya el Gobernador del Estado en el proyecto de Presupuesto de Egresos del Estado correspondiente al ejercicio fiscal del año 2027, garantizando en todo momento los principios de legalidad, honradez, transparencia y austeridad.
 
 CUARTO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente decreto.
+
+B.O. 8 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3299 SE REFORMA Y ADICIONA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de octubre del 2027 previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Gobierno del Estado y los Ayuntamientos dictaran las medidas a que haya lugar para hacer efectivas las disposiciones contenidas en el presente decreto.
+
+TERCERO.- A partir de la entrada en vigor del presente Decreto, el Congreso del Estado de Baja California Sur habrá de expedir la Ley Reglamentaria correspondiente en un plazo no mayor de 90 días.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
