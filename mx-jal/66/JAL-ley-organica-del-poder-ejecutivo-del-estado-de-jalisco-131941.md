@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2024-10-31"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -1791,13 +1791,21 @@ XXVI. Colaborar con la Secretaría de Inteligencia y Búsqueda de Personas en la
 
 XXVII. Establecer las bases, lineamientos, normas y criterios pertinentes para el diseño, aplicación y evaluación de la vigilancia y patrullaje de las vías terrestres de comunicación que se encuentran al interior del estado, para la prevención de delitos y auxilio a los usuarios, en coordinación con las demás dependencias y entidades públicas, que tengan a su cargo atribuciones afines a la misma;
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2026)</small>
 
-XXVIII. Colaborar con las diversas autoridades y dependencias del Estado, de la federación, entidades federativas y municipales, en estricto apego a sus respectivos ámbitos de competencia con la finalidad de coadyuvar en la preservación de la integridad, estabilidad y permanencia del Estado Mexicano; y
+XXVIII. Colaborar con las diversas autoridades y dependencias del Estado, de la federación, entidades federativas y municipales, en estricto apego a sus respectivos ámbitos de competencia con la finalidad de coadyuvar en la preservación de la integridad, estabilidad y permanencia del Estado Mexicano;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2026)</small>
 
-XXIX. Las demás que le otorguen otras disposiciones legales.
+XXIX. Adoptar, en el ámbito de sus respectivas competencias, las acciones necesarias para priorizar la prevención del delito de extorsión y supervisar que su personal se encuentre debidamente capacitado en su prevención;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+XXX. Diseñar e implementar una estrategia para prevenir y combatir el delito de extorsión, misma que deberá estar alineada a los contenidos mínimos de la Estrategia Nacional a cargo de la Federación y cuyo diagnóstico deberá estar ajustado al contexto social y territorial del Estado; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+XXXI. Las demás que le otorguen otras disposiciones legales.
 
 ###### Artículo 32.
 
@@ -2063,11 +2071,17 @@ XII. Participar en los sistemas nacional y estatal de seguridad;
 
 XIII. Garantizar los derechos de las víctimas, de los testigos y de otros grupos vulnerables, estableciendo y reforzando en su caso, los mecanismos jurídicos y administrativos que permitan obtener la reparación del daño, de conformidad con la normatividad aplicable;
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2026)</small>
 
-XIV. Colaborar con la Secretaría de Inteligencia y Búsqueda de Personas para intercambiar y proporcionar la información que genere; y
+XIV. Colaborar con la Secretaría de Inteligencia y Búsqueda de Personas para intercambiar y proporcionar la información que genere;
 
-XV. Las demás que le otorguen otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+XV. Coordinarse y colaborar con autoridades federales, estatales y municipales para la investigación del delito de extorsión de conformidad con la Ley General para Prevenir, Investigar y Sancionar los Delitos en materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2026)</small>
+
+XVI. Las demás que le otorguen otras disposiciones legales.
 
 ### Capítulo VI. Procuraduría Social del Estado
 
@@ -3624,3 +3638,11 @@ DÉCIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tan
 DÉCIMO PRIMERO. El Titular del Poder Ejecutivo, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de las dependencias que conforman la Administración Pública Centralizada en los términos del presente Decreto.
 
 En el caso de la Secretaría de Seguridad y de la Fiscalía del Estado, sus reglamentos deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
+
+P.O. 8 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30123/LXIV /25 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSAS DISPOSICIONES DEL ESTADO DE JALISCO DE CONFORMIDAD CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los procedimientos penales en materia de extorsión previstos en los artículos derogados 189 y 189 Bis del Código Penal para el Estado Libre y Soberano de Jalisco, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia de este decreto.
