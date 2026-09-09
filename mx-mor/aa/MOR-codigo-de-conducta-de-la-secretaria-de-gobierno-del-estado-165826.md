@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-gobierno-del-estado-1658
 country: "mx"
 rank: "codigo"
 publication_date: "2023-04-26"
-last_updated: "2023-04-26"
+last_updated: "2026-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE GOBIERNO DEL PODER EJECUTIVO ESTATAL, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBIERNO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2026 (ABROGADO).
 
 Código publicado en el Número 6189 del Periódico Oficial del Estado de Morelos, el miércoles 26 de abril de 2023.
 
@@ -280,3 +282,15 @@ EL SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE GOBIERNO DEL PODER EJECUTIVO ESTATAL”.]
+
+PRIMERA. El Código de Conducta para las Personas Servidoras Públicas de la Secretaría de Gobierno del Poder Ejecutivo Estatal entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta de la Secretaría de Gobierno, publicado el veintiséis de abril de dos mil veintitrés en el Periódico Oficial “Tierra y Libertad” número 6189.
+
+TERCERA. Se instruye a la Dirección General de Vinculación Operativa y de Gestión de la Secretaría de Gobierno para dar a conocer al personal de las Unidades Administrativas que conforman esta Secretaría, así como al de nuevo ingreso, la existencia y contenido del Código de Conducta para las Personas Servidoras Públicas de la Secretaría de Gobierno del Poder Ejecutivo Estatal, para su observancia y cumplimiento.
