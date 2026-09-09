@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-del-servicio-profesional-de-carrera-de-la-entidad-1687
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-12-06"
-last_updated: "2023-12-06"
+last_updated: "2026-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA ENTIDAD SUPERIOR DE AUDITORIA Y FISCALIZACION DEL CONGRESO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DEL ESTATUTO DEL SERVICIO PROFESIONAL DE AUDITORÍA DE LA ENTIDAD SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN DEL CONGRESO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA ENTIDAD SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN DEL CONGRESO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2026 (ABROGADO).
 
 Estatuto publicado en el Número 6258 del Periódico Oficial del Estado de Morelos, el miércoles 6 de diciembre de 2023.
 
@@ -262,3 +264,15 @@ Rúbrica.
 MTRA. ALEJANDRA JIMÉNEZ GONZÁLEZ.- Directora general de capacitación de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO DEL SERVICIO PROFESIONAL DE AUDITORÍA DE LA ENTIDAD SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN DEL CONGRESO DEL ESTADO DE MORELOS”.]
+
+Primero. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+Segundo. Las reglas de operación a que se refiere el artículo 9 se emitirán en un plazo no mayor a treinta días hábiles.
+
+Tercero. A partir de la entrada en vigor del presente Estatuto, se abroga el Estatuto del Servicio Profesional de Carrera de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad” el seis de diciembre de dos mil veintitrés.
