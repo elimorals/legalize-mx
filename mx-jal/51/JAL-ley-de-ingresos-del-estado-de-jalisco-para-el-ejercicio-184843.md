@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-184843"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-23"
-last_updated: "2026-01-17"
+last_updated: "2026-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2026
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE ENERO DE 2026.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección XLIII en el Número 28 del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 2025.
 
@@ -1859,6 +1857,8 @@ Autoriza el uso de bicicletas eléctricas y patines eléctricos sujeto a un carg
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2025, PÁGINA 82.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 9 DE SEPTIEMBRE DE 2026, PÁGINA 3.]</small>
+
 En días domingo y durante la realización de eventos especiales organizados y/o autorizados por la Agencia Metropolitana de Servicios de Infraestructura para la Movilidad del Área Metropolitana de Guadalajara el primer periodo de tiempo en bicicletas mecánicas será de 45 minutos.
 
 Se exenta del cobro de la suscripción anual la población inscrita en los programas de atención prioritaria de la Secretaría de Desarrollo Social y/o la Agencia Metropolitana de Servicios de Infraestructura para la Movilidad del Área Metropolitana de Guadalajara.
@@ -1880,6 +1880,8 @@ Autoriza el uso de bicicletas mecánicas sin costo adicional durante el primer p
 Autoriza el uso de bicicletas eléctricas y patines eléctricos sujeto a un cargo adicional por tiempo de utilización.
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2025, PÁGINA 83.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 9 DE SEPTIEMBRE DE 2026, PÁGINA 4.]</small>
 
 Para hacer uso de la modalidad de suscripción temporal se debe realizar una retención a tarjeta de débito o crédito como garantía de pago con un costo de: $2,500.00
 
@@ -2152,3 +2154,9 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO
 SALVADOR ZAMORA ZAMORA
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2026.
+
+ÚNICO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Jalisco".
