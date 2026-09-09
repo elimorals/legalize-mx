@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2026-07-08"
+last_updated: "2026-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1155,9 +1155,9 @@ IV. Haber residido en el Estado, al menos, durante los cinco años previos a la 
 
 V. No ejercer o haber ejercido el cargo de Gobernador del Estado, aun cuando se separe definitivamente de su puesto.
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2026)</small>
 
-VI. No ejercer los cargos de Secretario de Despacho, Subsecretario de Gobierno, Presidente Municipal, Jueza, Juez, Magistrada o Magistrado del Tribunal Superior de Justicia, Magistrada o Magistrado del Tribunal de Disciplina Judicial, Integrante del Pleno del Órgano de Administración Judicial, Presidente de la Junta Local de Conciliación y Arbitraje, salvo que se hubieren separado de su encargo, de manera definitiva noventa días antes de la elección.
+VI. No ejercer los cargos de Secretario de Despacho, Subsecretario de Gobierno, Presidente Municipal, Jueza, Juez, Magistrada o Magistrado del Tribunal Superior de Justicia, Magistrada o Magistrado del Tribunal de Disciplina Judicial, Integrante del Pleno del Órgano de Administración Judicial, Presidente de la Junta Local de Conciliación y Arbitraje, salvo que se hubieren separado de su encargo noventa días antes de la Jornada Electoral.
 
 VII. No ser Consejero Presidente, Consejero Electoral ni Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, o personal profesional directivo del propio Instituto, o sus equivalentes de los organismos locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
 
@@ -5452,3 +5452,11 @@ Artículo Cuarto. Se derogan todas las disposiciones que se contrapongan al cont
 Artículo Quinto. El Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas y el Tribunal Electoral del Estado de Chiapas, revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente Decreto.
 
 El Congreso del Estado de Chiapas, garantizará que los presupuestos del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas y el Tribunal Electoral del Estado de Chiapas, se ajusten a lo previsto en los artículos 100 y 101 de la Constitución Política del Estado Libre y Soberano de Chiapas, por lo que realizarán en cada ejercicio fiscal los ajustes necesarios a los presupuestos que integren, previo a su aprobación.
+
+P.O. 9 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 303 POR EL QUE SE REFORMA LA FRACCIÓN VI AL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se contrapongan al contenido del presente Decreto.
