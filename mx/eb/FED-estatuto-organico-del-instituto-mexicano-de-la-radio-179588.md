@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-la-radio-179588"
 country: "mx"
 rank: "estatuto"
 publication_date: "2025-04-17"
-last_updated: "2025-04-17"
+last_updated: "2026-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2025-04-10"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DE LA RADIO
 
-> <small>[N. DE E. ESTATUTO OBTENIDO DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2025/IMER/estatuto-organico-IMER-2025.pdf]</small>
+[NOTA 1. INFORMACIÓN OBTENIDA DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2026/IMER/Estatuto-Organico-IMER.pdf]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE LA RADIO, PUBLICADO EN EL D.O.F. DE 9 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE LA RADIO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2026 (ABROGADO).
 
 Estatuto publicado en el Número 106/2025 del Diario Oficial de la Federación, el jueves 17 de abril de 2025.
 
@@ -1204,3 +1206,25 @@ Cualquier documento, acto o procedimiento que haga referencia a lo contenido en 
 El Director General del Instituto Mexicano de la Radio, Fernando Chamizo Guerrero.- Rúbrica.
 
 Fernando Chamizo Guerrero
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE LA RADIO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico fue aprobado por la H. Junta Directiva conforme a las facultades que le confieren los artículos 75, segundo párrafo y 58, fracción VIII de la Ley Federal de las Entidades Paraestatales y 7o. del Decreto de Creación, en la Sesión celebrada el día 08 de abril de 2026; y entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Estatuto Orgánico aprobado mediante acuerdo de la H. Junta Directiva en la Sesión celebrada el 18 de marzo de 2025; así como aquellas disposiciones internas que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Las áreas o unidades administrativas con denominaciones nuevas o distintas que aparecen en el presente Estatuto Orgánico y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos, continuarán su substanciación o dictarán las resoluciones respectivas.
+
+###### ARTICULO CUARTO.
+
+Cualquier documento, acto o procedimiento que haga referencia a lo contenido en el Estatuto Orgánico abrogado y que se encuentre en trámite a la fecha de entrada en vigor del presente Estatuto, continuará tramitándose hasta su conclusión conforme al Estatuto Orgánico vigente en su momento.
