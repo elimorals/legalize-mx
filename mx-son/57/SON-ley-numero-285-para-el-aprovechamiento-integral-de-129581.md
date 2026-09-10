@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-285-para-el-aprovechamiento-integral-de-129581"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-28"
-last_updated: "2018-06-28"
+last_updated: "2026-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 285 PARA EL APROVECHAMIENTO INTEGRAL DE ALIMENTOS Y SU DONACION ALTRUISTA DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA ALIMENTACIÓN ADECUADA Y SOSTENIBLE DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 10 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA EL APROVECHAMIENTO INTEGRAL DE ALIMENTOS Y SU DONACIÓN ALTRUISTA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2026 (ABROGADA).
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 28 de junio de 2018.
 
@@ -294,3 +296,35 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veintiocho días del mes de mayo del año dos mil dieciocho.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 10 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE LA ALIMENTACIÓN ADECUADA Y SOSTENIBLE DEL ESTADO DE SONORA”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO.- Se abroga la Ley para el Aprovechamiento Integral de Alimentos y su Donación Altruista del Estado de Sonora, publicada el 28 de junio de 2018 en el Boletín Oficial del Gobierno del Estado.
+
+TERCERO.- Dentro de los 365 días naturales posteriores a la entrada en vigor de la presente Ley, la persona titular del Poder Ejecutivo Estatal deberá emitir el Reglamento de la Ley que se expide.
+
+El Reglamento deberá contemplar, al menos, las disposiciones necesarias para:
+
+I.- La integración, instalación y funcionamiento del SIESAMAC;
+
+II.- El adecuado ejercicio de las competencias que esta Ley confiere al SIESAMAC;
+
+III.- Las disposiciones necesarias para determinar el contenido de las canastas normativas;
+
+IV.- La integración de los órganos y mecanismos de fiscalización, de transparencia y rendición de cuentas con los que contará el SIESAMAC;
+
+V.- Constituir las reservas estratégicas y el establecimiento de los programas para su operación, y
+
+VI.- La adecuada instrumentación de los mecanismos de compras públicas y del programa de desarrollo de proveedores, a los que se refiere el artículo 37 de esta Ley.
+
+CUARTO.- Dentro de los 160 días naturales posteriores a la entrada en vigor del Reglamento al que se refiere el artículo anterior, deberá instalarse el Consejo Intersectorial Estatal.
+
+QUINTO.- Dentro de los 365 días naturales posteriores a la entrada en vigor de la presente Ley, los ayuntamientos del Estado deberán adecuar sus disposiciones reglamentarias a lo dispuesto en esta Ley.
+
+SEXTO.- Las obligaciones y erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a los recursos aprobados expresamente para esos fines en los respectivos presupuestos de egresos de las autoridades responsables estatales y municipales, por lo que no se autorizarán ampliaciones a su presupuesto para el ejercicio fiscal en curso y subsecuentes.
