@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2026-07-06"
+last_updated: "2026-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1026,6 +1026,10 @@ XVIII.- Dar cuenta al Gobierno del Estado de todo acontecimiento que afecte la b
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
 XIX.- Rendir anualmente al Ayuntamiento, en el período comprendido entre los días 3 y 13 de septiembre de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal y las labores realizadas. Toda información posterior a la fecha del informe anual será referida en el acta de Entrega-Recepción correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2026)</small>
+
+El informe a que se refiere el párrafo anterior deberá entregarse al Congreso del Estado y hacerse del conocimiento público dentro de los diez días hábiles siguientes a su presentación, mediante su publicación en la Gaceta Municipal y en el sitio oficial de internet del Ayuntamiento, en formatos que permitan su consulta y descarga.
 
 XX.- Solicitar autorización del Ayuntamiento para ausentarse de la cabecera del Municipio por períodos mayores de cinco días.
 
@@ -7476,3 +7480,15 @@ P.O. 6 DE JULIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1390 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XIX DEL ARTÍCULO 55, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Presidentes o Presidentas Municipales, Sindico y Regidores, que ya hayan presentado su informe anual, deberán entregar el informe correspondiente a este año a este Congreso del Estado, dentro de los 10 días siguientes a la entrada en vigor del presente Decreto y el mismo tiempo para que se hagan públicos.
