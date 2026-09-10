@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2026-08-25"
+last_updated: "2026-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -641,9 +641,15 @@ d) Disponer la elaboración del anteproyecto del presupuesto anual del Congreso;
 
 e) Presentar a la Junta las propuestas para el nombramiento de la persona titular de la Secretaría General y demás colaboradores del Congreso;
 
-f) Garantizar que los acuerdos como entendimientos de la Junta de Gobierno se lleven a cabo con criterios de perspectiva de género; y
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2026)</small>
 
-g) Las demás que deriven de esta ley y de los ordenamientos de la actividad parlamentaria o que le sean conferidas por la propia Junta.
+f) Garantizar que los acuerdos como entendimientos de la Junta de Gobierno se lleven a cabo con criterios de perspectiva de género;
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2026)</small>
+
+g) Rendir un informe anual de labores en sesión pública y solemne, que tendrá verificativo durante el mes de octubre del siguiente año legislativo; y entregar un ejemplar a la Mesa Directiva, así como a la Secretaría General del Congreso, para su archivo y publicación en la Plataforma Nacional de Transparencia. En el caso del último año del ejercicio constitucional de la Legislatura, el informe se realizara durante el mes de septiembre; y
+
+h) Las demás que deriven de esta ley y de los ordenamientos de la actividad parlamentaria o que le sean conferidas por la propia Junta.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
@@ -1747,9 +1753,9 @@ e) Guardar reserva de los asuntos que el Pleno haya acordado mantener con ese ca
 
 f) Cumplir oportuna y eficazmente con las tareas que se le encomienden;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2026)</small>
 
-g) Rendir un informe anual a la sociedad respecto de sus actividades legislativas, de gestión y de representación; y entregar un ejemplar a la Secretaría General del Congreso para su archivo y publicación en la Plataforma Nacional de Transparencia;
+g) Rendir un informe anual a la sociedad respecto de sus actividades legislativas, de gestión y de representación, dentro del mes de octubre del siguiente año legislativo; y entregar un ejemplar a la Secretaría General del Congreso para su archivo y publicación en la Plataforma Nacional de Transparencia. En el caso del último año del ejercicio constitucional de la Legislatura, el informe deberá realizarse entre el 15 de agosto al 15 de septiembre de dicho año;
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
@@ -4540,3 +4546,11 @@ P.O. 25 DE AGOSTO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial de Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1389 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 28 SEPTIES, NUMERAL 2, INCISO F); Y 68, NUMERAL 1, INCISO G); Y SE ADICIONA UN INCISO G), RECORRIÉNDOSE EL SUBSECUENTE EN SU ORDEN NATURAL AL NUMERAL 2 DEL ARTÍCULO 28 SEPTIES, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial del Estado.
