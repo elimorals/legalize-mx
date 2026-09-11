@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110192"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2026-09-04"
+last_updated: "2026-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2015.
 
@@ -273,13 +273,19 @@ XVII. Derecho a la intimidad;
 
 XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
-XIX. Derechos de niñas, niños y adolescentes migrantes; y,
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+XIX. Derechos de niñas, niños y adolescentes migrantes;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
 
 XX. Derecho de acceso a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, con las medidas de advertencia sobre contenidos que puedan causar impacto a la salud mental y perjudicar al libre desarrollo de la personalidad en niñas, niños y adolescentes, de conformidad con lo establecido en la Ley en Materia de Telecomunicaciones y Radiodifusión.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición; y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
+
+XXI. Derecho a un entorno digital seguro, frente a toda forma de violencia, explotación, acoso, manipulación, extorsión, exposición a contenidos inapropiados o vulneración de su privacidad. Las autoridades competentes, en el ámbito de sus respectivas atribuciones, promoverán medidas de prevención, protección y orientación digital, sobre los riesgos asociados al uso inadecuado de celulares y demás dispositivos electrónicos, para garantizar entornos escolares libres de distracciones digitales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2023)</small>
 
@@ -1068,6 +1074,10 @@ Sin perjuicio de lo dispuesto en otras disposiciones aplicables, las autoridades
 Para efectos del párrafo anterior, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, y las instituciones académicas se coordinarán para:
 
 I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
+
+Entre otras acciones, se promoverá el uso responsable de teléfonos celulares y demás dispositivos electrónicos en los centros educativos de nivel básico y medio superior, a fin de prevenir y erradicar conductas que contribuyan a la violencia escolar o digital.
 
 II. Desarrollar e implementar cursos de sensibilización y formación sobre igualdad de género, prevenir y atender los diferentes tipos de violencia y cultura de la paz, dirigidos a servidores públicos, personal administrativo y docente, para que a través de ellos se evite la reproducción de roles estereotipados de género y se impulse la igualdad sustantiva;
 
@@ -2374,3 +2384,15 @@ La Secretaría General de Gobierno del Poder Ejecutivo del Estado a través del 
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 529 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN Y LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, AMBAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación Pública y Cultura, deberá emitir los protocolos que regulen el uso responsable y seguro de teléfonos celulares y demás dispositivos electrónicos en instituciones de educación básica y media superior, en un plazo de ciento veinte días naturales, posteriores al inicio de vigencia del presente Decreto.
