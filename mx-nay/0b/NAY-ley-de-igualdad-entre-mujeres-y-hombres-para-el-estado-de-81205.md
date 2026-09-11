@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-81205
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-23"
-last_updated: "2024-04-29"
+last_updated: "2026-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección Tercera al Periódico Oficial del Estado de Nayarit, el sábado 23 de abril de 2011.
 
@@ -443,9 +443,9 @@ I. Impulsar el acceso de las mujeres al empleo, garantizar que entre mujeres y h
 
 Para tal efecto, se establecerán los mecanismos que promuevan y vigilen que se cumpla la presente disposición, además de los principios de igualdad de trato y de no discriminación;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
 
-II. Establecer medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva de igualdad de trato y no discriminación en las condiciones de trabajo;
+II. Establecer medidas para promover el acceso de las mujeres al empleo y al emprendimiento a fin de fortalecer su independencia financiera; así como para fortalecer la aplicación efectiva de igualdad de trato y no discriminación en las condiciones de trabajo;
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
@@ -493,13 +493,17 @@ V. Promover la certificación en materia de igualdad y el desarrollo de buenas p
 
 VI. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
 
-VII. Implementar, en coordinación con las autoridades competentes, la elaboración y difusión de códigos de buenas prácticas, campañas informativas, acciones de formación, entre otras medidas destinadas a prevenir y erradicar cualquier tipo de discriminación, violencia o acoso en el ámbito laboral que sean originadas por razones de género, y
+VII. Implementar, en coordinación con las autoridades competentes, la elaboración y difusión de códigos de buenas prácticas, campañas informativas, acciones de formación, entre otras medidas destinadas a prevenir y erradicar cualquier tipo de discriminación, violencia o acoso en el ámbito laboral que sean originadas por razones de género;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
 
-VIII. Promover la corresponsabilidad social en las labores de cuidado.
+VIII. Promover la corresponsabilidad social en las labores de cuidado, y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
+
+IX. Promover el acceso de las mujeres a programas y apoyos para el emprendimiento.
 
 #### SECCIÓN CUARTA. IGUALDAD POLÍTICA ENTRE MUJERES Y HOMBRES
 
@@ -860,3 +864,9 @@ P.O. 29 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS FRACCIONES DEL ARTÍCULO 16 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE NAYARIT, EN MATERIA DE FOMENTO A LA CORRESPONSABILIDAD EN LABORES DE CUIDADO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 11 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 15 Y 16 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE NAYARIT, EN MATERIA DE EMPRENDIMIENTO FEMENINO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
