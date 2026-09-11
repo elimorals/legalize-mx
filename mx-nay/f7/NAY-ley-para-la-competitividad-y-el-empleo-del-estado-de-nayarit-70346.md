@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-competitividad-y-el-empleo-del-estado-de-nayarit-70
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-16"
-last_updated: "2025-09-15"
+last_updated: "2026-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 16 de septiembre de 2009.
 
@@ -225,13 +225,17 @@ III. Evaluar el desarrollo del fomento económico cuantitativa y cualitativament
 
 IV. Apoyar las acciones y proyectos de fomento para el desarrollo económico mediante la asignación de recursos públicos, bajo una perspectiva de género;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
 
-V. Promover el empoderamiento financiero de las mujeres a fin de incentivar su independencia financiera, y
+V. Promover el empoderamiento financiero de las mujeres a fin de incentivar su independencia financiera, priorizando el emprendimiento y la comercialización de productos de origen local;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE SEPTIEMBRE DE 2026)</small>
 
-VI. Las demás previstas en la presente ley y otras disposiciones aplicables.
+VI. Fomentar capacitaciones para las mujeres, a efecto que puedan obtener empleo o generar autoempleo. Asimismo, promover acciones para que accedan a entornos laborales en igualdad de condiciones salariales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE SEPTIEMBRE DE 2026)</small>
+
+VII. Las demás previstas en la presente ley y otras disposiciones aplicables.
 
 ###### Artículo 10.
 
@@ -1004,3 +1008,9 @@ P.O. 15 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 30 DE LA LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 11 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LAS FRACCIONES V Y VI Y ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 9 DE LA LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT, EN MATERIA DE EMPRENDIMIENTO FEMENINO".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
