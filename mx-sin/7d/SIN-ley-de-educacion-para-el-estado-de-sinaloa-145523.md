@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-145523"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-04"
-last_updated: "2026-07-22"
+last_updated: "2026-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección Segunda al Número 146 del Periódico Oficial del Estado de Sinaloa, el viernes 4 de diciembre de 2020.
 
@@ -1029,7 +1029,21 @@ XXV. Los demás necesarios para el cumplimiento de los fines y criterios de la e
 
 En la educación que se imparta en el Estado, se utilizará el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de fortalecer los modelos pedagógicos de enseñanza aprendizaje, la innovación educativa, el desarrollo de habilidades y saberes digitales de los educandos, además del establecimiento de programas de educación a distancia y semipresencial para cerrar la brecha digital y las desigualdades en la población.
 
-Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
+
+Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos. Asimismo, se procurará el uso responsable, consciente y seguro, así como el máximo provecho de dichas tecnologías, para prevenir y mitigar los riesgos asociados en el entorno educativo, como herramientas en el proceso de enseñanza-aprendizaje.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 98 Bis.
+
+En las instituciones educativas de tipo básico y medio superior, el uso de teléfonos celulares y demás dispositivos electrónicos por parte del educando, estará limitado durante el horario de clases, solo podrán utilizarse para fines pedagógicos o en situaciones de emergencia personales, previa autorización expresa del personal docente o directivo.
+
+En ningún caso podrá permitirse que interfieran con el desarrollo de las actividades escolares, la convivencia armónica de la comunidad educativa o el ejercicio de los derechos de niñas, niños y adolescentes.
+
+La autoridad educativa estatal deberá emitir protocolos con enfoque de protección integral de derechos humanos, priorizando el interés superior de la niñez, la inclusión y la igualdad sustantiva, que regulen el uso responsable y seguro de teléfonos celulares y demás dispositivos electrónicos en instituciones de educación básica y media superior, con el objeto de garantizar un ambiente propicio para su desarrollo integral, bienestar emocional y adecuado aprovechamiento del proceso del aprendizaje y salvaguardar el derecho a la educación.
+
+Además, deberá promover campañas de sensibilización y capacitación dirigidos a estudiantes, madres y padres de familia, tutoras y tutores, así como al personal docente, sobre el uso responsable de la tecnología y los riesgos asociados a su uso excesivo.
 
 ###### Artículo 99.
 
@@ -2422,3 +2436,15 @@ El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes a las disp
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 529 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN Y LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, AMBAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa”.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación Pública y Cultura, deberá emitir los protocolos que regulen el uso responsable y seguro de teléfonos celulares y demás dispositivos electrónicos en instituciones de educación básica y media superior, en un plazo de ciento veinte días naturales, posteriores al inicio de vigencia del presente Decreto.
