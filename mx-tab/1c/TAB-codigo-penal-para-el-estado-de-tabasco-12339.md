@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2026-08-08"
+last_updated: "2026-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -4963,6 +4963,16 @@ COMUNICACIÓN DE CONTENIDO SEXUAL CON PERSONAS MENORES DE DIECIOCHO AÑOS DE EDA
 
 Se impondrá de tres a siete años de prisión y de cuatrocientos a mil días multa a quien haciendo uso de medios de radiodifusión, telecomunicaciones, informáticos o cualquier otro medio de transmisión de datos, contacte a una persona menor de dieciocho años de edad, a quien no tenga capacidad de comprender el significado del hecho o a persona que no tenga capacidad para resistirlo y le requiera imágenes, audio o video de actividades sexuales explícitas, actos de connotación sexual, o le solicite un encuentro sexual.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 334 Quáter.
+
+Las penas previstas en el artículo anterior se aumentarán:
+
+I. Hasta en una mitad, cuando la víctima sea menor de catorce años de edad; y
+
+II. En dos terceras partes, cuando a la conducta prevista en el artículo anterior le hubiese seguido un encuentro efectivo con la víctima, con independencia de las penas que correspondan a los delitos que, en su caso, se hubiesen cometido con motivo de dicho encuentro, conforme a lo dispuesto por los artículos 13 y 68 del Libro Primero de este Código.
+
 TITULO DECIMOQUINTO
 
 DELITOS CONTRA EL RESPETO A LOS MUERTOS
@@ -6074,3 +6084,13 @@ P.O. 8 DE AGOSTO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Los delitos cometidos con anterioridad a la entrada en vigor de este Decreto se sancionarán conforme a las disposiciones vigentes al momento de su comisión.
+
+P.O. 12 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 288 POR EL QUE "SE ADICIONA EL ARTÍCULO 334 QUÁTER, AL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. La Fiscalía General del Estado, en el ámbito de sus atribuciones, incorporará a sus programas de capacitación ya existentes para el Ministerio Público y las policías de investigación los criterios necesarios para la debida acreditación de las agravantes previstas en el artículo 334, Quáter, del Código Penal para el Estado de Tabasco, sin que ello implique la asignación de recursos presupuestales adicionales.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
