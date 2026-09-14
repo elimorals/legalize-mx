@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2026-08-17"
+last_updated: "2026-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -189,9 +189,9 @@ Así mismo es un derecho y una obligación de la ciudadanía votar en las consul
 
 En el ejercicio de los derechos políticos de la ciudadanía hidalguense, serán respetados los derechos humanos y deberá evitarse cualquier forma de discriminación, por lo que toda autoridad deberá asegurar la inclusión plena de todas las personas.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-En los casos previstos por este Código, la postulación de personas con discapacidad será acorde con los lineamientos establecidos por la Clasificación Internacional del Funcionamiento de la Discapacidad y la Salud, así como lo previsto en la legislación de la materia, por lo que el Consejo General propondrá la instalación de un Comité integrado por la Comisión Estatal de Derechos Humanos y por miembros de la sociedad civil organizada, quienes en conjunto emitirán su opinión por cada postulación, a fin de contar con elementos acordes al modelo social de discapacidad.
+En los casos previstos por este Código, los partidos políticos, coaliciones, candidaturas comunes y candidaturas independientes que postulen personas con discapacidad deberán acreditar dicha condición mediante certificado o constancia médica expedida por institución pública de salud o por médico privado con especialidad en la discapacidad de que se trate, Certificado Digital de Discapacidad o Credencial Nacional de Personas con Discapacidad Permanente. Dicha documentación deberá presentarse junto con la solicitud de registro de candidatura ante el órgano electoral correspondiente.
 
 (NOTA: EL 7 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 192/2023 Y SUS ACUMULADAS 193/2023, 194/2023, 195/2023 Y 196/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 573 POR EL QUE SE ADICIONA EL QUINTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -365,23 +365,33 @@ LOS PARTIDOS POLÍTICOS AL INTEGRAR SUS PLANILLAS, DEBERÁN REGISTRAR UNA FORMUL
 
 El Congreso del Estado se integra con 18 Diputados de mayoría y 12 de representación proporcional. La determinación y asignación de estas diputaciones la hará el Consejo General del Instituto Estatal Electoral, con arreglo al procedimiento establecido en el presente Código.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 15.
 
-La determinación y asignación de los regidores de representación proporcional y de los síndicos de primera minoría se efectuará por el Consejo General del Instituto Estatal Electoral, de acuerdo al procedimiento establecido en el presente Código.
+La determinación y asignación de los regidores de representación proporcional se efectuará por el Consejo General del Instituto Estatal Electoral, de acuerdo con el procedimiento establecido en el presente Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 16.
 
-El número de regidores y síndicos de los Ayuntamientos, se determinará en función del total de la población de cada Municipio oficialmente reconocida.
+El número de regidurías y sindicaturas de los Ayuntamientos se determinará en función del total de la población de cada municipio oficialmente reconocida.
 
 Para tal efecto, se observarán las siguientes reglas:
 
-I. Los municipios cuya población sea inferior a 30,000 habitantes, contarán con un síndico de mayoría relativa, cinco regidores de mayoría relativa y cuatro de representación proporcional;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-II. Los municipios que tengan una población de 30,000 y hasta 50,000 habitantes, contarán con un Síndico de mayoría relativa, siete regidores de mayoría relativa y cinco de representación proporcional;
+I. Los municipios cuya población sea inferior a 20,000 habitantes, contarán con una sindicatura de mayoría relativa, cuatro regidurías de mayoría relativa y tres de representación proporcional;
 
-III. Los municipios que tengan una población de más 50,000 y hasta 100, 000 habitantes, contarán con un síndico de mayoría relativa, que será responsable de los asuntos de la hacienda municipal y uno que será asignado a la primera minoría y será responsable de los asuntos jurídicos, así como nueve regidores de mayoría relativa y seis de representación proporcional; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-IV. Los municipios que tengan una población de más de 100,000 habitantes, contarán con dos síndicos, uno de mayoría relativa que será responsable de los asuntos de la hacienda municipal y otro de primera minoría, que será responsable de los asuntos jurídicos, once regidores de mayoría relativa y ocho de representación proporcional.
+II. Los municipios que tengan una población de 20,000 y hasta 50,000 habitantes, contarán con una sindicatura de mayoría relativa, cinco regidurías de mayoría relativa y cuatro de representación proporcional;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
+III. Los municipios que tengan una población de más de 50,000 habitantes, contarán con una sindicatura de mayoría relativa, así como ocho regidurías de mayoría relativa y siete de representación proporcional; y
+
+IV. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2026)
 
 ### CAPÍTULO III. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
@@ -875,15 +885,13 @@ Los partidos políticos tendrán el derecho de acceso a la radio y a la televisi
 
 Las obligaciones en comunicación a las que está sujeta la autoridad electoral serán:
 
-I. Comisión de Radio, Televisión y Prensa:
-
-El Instituto Estatal Electoral contará con una Comisión de Radio, Televisión y Prensa encargada de todos los asuntos relacionados con los medios electrónicos en materia electoral.
-
-Esta comisión estará integrada por los Representantes de los partidos políticos y por un Consejero Electoral que fungirá como Coordinador, que será nombrado por el Consejo General, a propuesta de su Presidente;
+I. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2026)
 
 II. Monitoreos:
 
-La Comisión de Radio, Televisión y Prensa realizará, durante las campañas electorales, monitoreos con cortes quincenales a los programas noticiosos que tengan mayor audiencia en la localidad. Los monitoreos evaluarán tanto el tiempo que se asigna a cada uno de los candidatos o partidos políticos, como la descripción de la información que difundan los medios.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
+El Instituto Estatal Electoral realizará, durante las campañas electorales, monitoreos, con cortes quincenales, de los programas noticiosos que tengan mayor audiencia en la localidad. Los monitoreos evaluarán tanto el tiempo que se asigna a cada uno de los candidatos o partidos políticos como la descripción de la información que difundan los medios.
 
 La autoridad electoral hará públicos los resultados de los monitoreos, de tal suerte que los electores puedan conocer la calidad de la información que están recibiendo durante las campañas electorales; y
 
@@ -1023,9 +1031,11 @@ VI. La disolución por acuerdo de sus miembros; y
 
 VII. No participar en un proceso electoral local ordinario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 40.
 
-La pérdida del registro como partido político local, deberá pronunciarse mediante resolución motivada y fundada por el Instituto Estatal Electoral, la que se publicará en el Periódico Oficial del Estado. La declaratoria de pérdida de registro de un partido político no tendrá efectos en relación con los triunfos que sus candidatos hubieren obtenido en las elecciones según el principio de mayoría relativa, ni en la asignación de síndicos o regidores en las elecciones de Ayuntamientos por el principio de representación proporcional y será recurrible en los términos de este Código.
+La pérdida del registro como partido político local deberá pronunciarse mediante resolución motivada y fundada por el Instituto Estatal Electoral, que se publicará en el Periódico Oficial del Estado. La declaratoria de pérdida de registro de un partido político no tendrá efectos en relación con los triunfos que las personas candidatas hubieren obtenido en las elecciones según el principio de mayoría relativa, ni en la asignación de regidurías en las elecciones de Ayuntamientos por el principio de representación proporcional, y será recurrible en los términos de este Código.
 
 Para la declaratoria de pérdida de registro del partido político local, debido a la causa que se señala en las fracciones I y VII del artículo anterior, el Secretario Ejecutivo del Instituto elaborará, para someter a la consideración del Consejo General, un proyecto de dictamen fundado en los cómputos y declaraciones de validez respectivas de los consejos del Instituto, así como de las resoluciones del Tribunal Electoral.
 
@@ -1353,9 +1363,7 @@ I. Vigilar el cumplimiento de las disposiciones constitucionales y las de este C
 
 II. APROBAR Y EXPEDIR LOS REGLAMENTOS, PROGRAMAS, LINEAMIENTOS Y DEMÁS DISPOSICIONES PARA LA CONSECUCIÓN DE LOS FINES A LOS QUE SE REFIERE EL ARTÍCULO 48 DEL PRESENTE CÓDIGO;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
-
-II Bis. Aprobar y expedir lineamientos generales que garanticen el derecho de las mujeres al acceso a cargos de elección popular en condiciones de igualdad, para hacer efectivo y concretar el principio de paridad de género;
+II Bis. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2026)
 
 III. Atender lo relativo a la preparación, desarrollo, vigilancia, cómputo y declaración de validez de los procesos electorales locales;
 
@@ -1415,9 +1423,9 @@ XXIII. Realizar el cómputo y declaración de validez de la elección de Goberna
 
 XXIV. Aprobar los formatos de las constancias de mayoría de Gobernador, de Diputados por ambos principios y de integrantes de los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-XXV. Realizar la asignación de los Diputados y regidores de representación proporcional, y en los casos que corresponda de Síndicos de primera minoría, extendiendo las constancias respectivas e informando al Congreso del Estado. Si en las diputaciones no hubiera sido electa bajo el principio de mayoría relativa alguna fórmula integrada por personas con discapacidad, en las asignaciones deberá garantizarse el acceso al cargo de personas con discapacidad;
+XXV. Realizar la asignación de los Diputados y regidores de representación proporcional, extendiendo las constancias respectivas e informando al Congreso del Estado.
 
 XXVI. Aprobar el número y ubicación de las casillas especiales y el número de boletas electorales a utilizarse en las mismas, así como el número y ubicación de los centros de acopio necesarios para la mejor recepción de los paquetes y sobres electorales en los casos de elecciones concurrentes con la federación, esta atribución se desarrollará conforme lo disponga o se convenga con el Instituto Nacional Electoral;
 
@@ -2051,7 +2059,7 @@ g. Inscribir en el libro respectivo el registro de partidos y agrupaciones polí
 
 h. Llevar el libro de registro de los integrantes de los órganos directivos de los partidos políticos y de sus Representantes acreditados ante los órganos del Instituto, así como el de los dirigentes de las agrupaciones políticas;
 
-i. Elaborar y presentar a la Comisión de Radio y Televisión la propuesta de las pautas para la asignación del tiempo que corresponde a los partidos políticos y los Candidatos Independientes en dichos medios para su tramitación ante el Instituto Nacional Electoral;
+i. (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2026)
 
 j. Llevar los libros de registro de los candidatos a los puestos de elección popular;
 
@@ -2615,9 +2623,9 @@ La propaganda electoral colocada en la vía pública, deberá ser retirada por l
 
 Los plazos y órganos competentes para el registro de las candidaturas en el año de la elección son los siguientes:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-I. En el año de la elección en que se renueven el Poder Ejecutivo y/o el Poder Legislativo del Estado, los candidatos serán registrados entre el octagésimo segundo al septuagésimo octavo día anterior al de la celebración de la jornada electoral, por los siguientes órganos:
+I. En el año de la elección en que se renueven el Poder Ejecutivo, el Poder Legislativo o ambos, los candidatos serán registrados del octogésimo noveno al octogésimo quinto día anterior al de la celebración de la jornada electoral, por los siguientes órganos:
 
 a. Los candidatos a Diputados de mayoría relativa, por los consejos distritales o supletoriamente ante el Consejo General;
 
@@ -2625,9 +2633,9 @@ b. Los candidatos a Diputados electos por el principio de representación propor
 
 c. Los candidatos a Gobernador, por el Consejo General.
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-II. En el año de la elección en que se renueven los Ayuntamientos, las planillas de candidaturas serán registradas entre el septuagésimo tercero al septuagésimo octavo día anterior al de la celebración de la jornada electoral, por los Consejos Distritales o supletoriamente ante el Consejo General.
+II. En el año de la elección en que se renueven los Ayuntamientos, las planillas de candidaturas serán registradas del octogésimo quinto al octogésimo día anterior al de la celebración de la jornada electoral, por los Consejos Distritales o, supletoriamente, ante el Consejo General.
 
 El Instituto Estatal Electoral dará amplia difusión a la apertura del registro de las candidaturas y a los plazos a que se refiere el presente artículo.
 
@@ -2773,13 +2781,15 @@ La negativa de registro de una candidatura será recurrible en los términos de 
 
 Para la sustitución de candidatos, fórmulas o planillas, los partidos políticos en lo individual o a través de candidaturas comunes y las coaliciones las solicitarán por escrito a los órganos del Instituto Estatal Electoral, observando las siguientes disposiciones:
 
-I. Dentro del plazo establecido para el registro de candidatos, fórmulas o planillas, podrán sustituirlos libremente; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
+I. Dentro del plazo establecido para el registro de candidatos, fórmulas o planillas, podrán sustituirlos libremente, debiendo observar en todo caso el principio de paridad de género, en los términos del presente Código; y
 
 II. Vencido el plazo a que se refiere la fracción anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-En este último caso, solo podrán sustituirlos cuando la renuncia se presente a más tardar al día siguiente de que concluyan las campañas electorales. Si un partido obtuvo el registro de sus candidatos postulándolos por sí mismo o en coalición, en ningún caso la sustitución podrá provocar un cambio en la modalidad de participación.
+En este último caso, no procederá la sustitución cuando la renuncia se presente dentro de los quince días anteriores al de la celebración de la jornada electoral.
 
 En los casos en que la renuncia del candidato fuera notificada por éste a los órganos del Instituto Estatal Electoral, se hará del conocimiento del partido político que lo registró para que proceda, en su caso, a su sustitución.
 
@@ -3941,51 +3951,51 @@ c. Si aún quedaren diputaciones por asignar se utilizará el resto mayor.
 
 III. Para otorgar a los partidos políticos los Diputados por el principio de representación proporcional que les correspondan, se hará en el orden de prelación determinado en las listas, comenzando por la lista A y en segundo lugar la lista B y así sucesivamente en orden descendente, respetando la paridad de género.
 
-### CAPÍTULO II. DE LA ASIGNACIÓN DE REGIDORES Y SÍNDICOS DE PRIMERA MINORÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+### CAPÍTULO II. DE LA ASIGNACIÓN DE REGIDURÍAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 210.
 
-UNA VEZ QUE EL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO RESUELVA LOS MEDIOS DE IMPUGNACIÓN CORRESPONDIENTES DE LOS CÓMPUTOS MUNICIPALES, Y DECLARACIÓN DE VALIDEZ DE LAS ELECCIONES Y LA ENTREGA DE LAS CONSTANCIAS DE MAYORÍA, EL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL PROCEDERÁ A HACER LA ASIGNACIÓN DE LOS REGIDORES DE REPRESENTACIÓN PROPORCIONAL Y SÍNDICOS DE PRIMERA MINORÍA QUE CORRESPONDA AL AYUNTAMIENTO DE CADA MUNICIPIO DE ACUERDO CON ESTE CÓDIGO.
+Una vez que el Tribunal Electoral del Estado de Hidalgo resuelva los medios de impugnación correspondientes a los cómputos municipales, la declaración de validez de las elecciones y la entrega de las constancias de mayoría, el Consejo General del Instituto Estatal Electoral procederá a hacer la asignación de las regidurías de representación proporcional que correspondan al Ayuntamiento de cada municipio, de acuerdo con este Código.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
-
-Los Síndicos de Primera Minoría que correspondan, serán asignados al partido político en lo individual o a través de candidatura común o coalición que hubiese obtenido la segunda fuerza electoral.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 211.
 
 Para dar cumplimiento a lo establecido en este Código, en la asignación de regidores de representación proporcional, el Consejo General procederá de la siguiente forma:
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+I. Con base en el resultado del cómputo de la votación municipal, determinará y listará de mayor a menor a los partidos políticos, en lo individual o a través de candidaturas comunes o coaliciones y, en su caso, candidaturas independientes que obtuvieron como mínimo el 3% de la votación total, procediéndose de acuerdo con lo siguiente:
 
-I. CON BASE EN EL RESULTADO DEL CÓMPUTO DE LA VOTACIÓN MUNICIPAL, DETERMINARÁ Y LISTARÁ DE MAYOR A MENOR A LOS PARTIDOS POLÍTICOS, EN LO INDIVIDUAL O A TRAVÉS DE CANDIDATURAS COMUNES O COALICIONES QUE OBTUVIERON COMO MÍNIMO EL 3% DE LA VOTACIÓN TOTAL, PROCEDIÉNDOSE DE ACUERDO A LO SIGUIENTE:
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL INCISO A DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-a.- SE SUMARÁN LOS VOTOS DE TODOS LOS PARTIDOS EN LO INDIVIDUAL O A TRAVÉS DE CANDIDATURAS COMUNES O COALICIONES QUE OBTUVIERON COMO MÍNIMO EL 3% DE VOTACIÓN, EXCLUYENDO LOS VOTOS DEL PARTIDO POLÍTICO EN LO INDIVIDUAL, O A TRAVÉS DE CANDIDATURAS COMUNES O COALICIÓN QUE OBTUVO LA MAYORÍA;
+a. Se sumarán los votos de todos los partidos en lo individual o a través de candidaturas comunes o coaliciones y, en su caso, candidaturas independientes que obtuvieron como mínimo el 3% de votación, excluyendo los votos del partido político en lo individual, candidatura común o coalición o, en su caso, candidatura independiente que obtuvo la mayoría;
 
 b.- El resultado de la suma a que se refiere el punto anterior, se dividirá entre el número de regidurías de representación proporcional, que corresponden al Ayuntamiento en los términos de este Código, para obtener el cociente electoral; y
 
-c.- Se asignarán a cada partido político regidores de representación proporcional, cuantas veces contenga su votación el cociente electoral. La asignación se hará siguiendo un orden de mayor a menor porcentaje de votos;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+c.- Se asignarán a cada partido político o, en su caso, candidatura independiente, regidurías de representación proporcional cuantas veces contenga su votación el cociente electoral. La asignación se hará siguiendo un orden de mayor a menor porcentaje de votos;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-II. LAS REGIDURÍAS DE REPRESENTACIÓN PROPORCIONAL, SERÁN ASIGNADAS A LOS CANDIDATOS CONFORME AL ORDEN EN QUE APAREZCAN EN LA PLANILLA REGISTRADA POR LOS PARTIDOS POLÍTICOS Y PLANILLAS DE CANDIDATOS INDEPENDIENTES, COMENZANDO CON EL CANDIDATO A PRESIDENTE MUNICIPAL Y SÍNDICOS.
+II. Las regidurías de representación proporcional serán asignadas a las candidaturas a regidurías conforme al orden en que aparezcan en las planillas registradas por los partidos políticos y, en su caso, por candidaturas independientes, respetando la paridad de género.
 
-EN LOS MUNICIPIOS DONDE HAY SINDICO DE PRIMERA MINORÍA, ESTOS ASUMIRÁN SU CARGO, DEJANDO LIBRE EL LUGAR A LOS CANDIDATOS A REGIDORES REGISTRADOS EN EL ORDEN CORRESPONDIENTE, RESPETANDO LA PARIDAD DE GÉNERO. EN LOS MUNICIPIOS QUE NO TIENEN LA FIGURA DE SÍNDICO DE PRIMERA MINORÍA, LOS CANDIDATOS A SÍNDICOS, PODRÁN PARTICIPAR EN LA ASIGNACIÓN DE REGIDORES.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-SI FALTARE ALGÚN PROPIETARIO SERÁ LLAMADO SU RESPECTIVO SUPLENTE; Y EN AUSENCIA DE AMBOS, SERÁ LLAMADO EL SIGUIENTE EN EL ORDEN DE LA PLANILLA REGISTRADA, RESPETANDO LA PARIDAD DE GÉNERO.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
+Si faltare alguna persona propietaria, será llamada la persona suplente respectiva; y, en ausencia de ambas, será llamada la siguiente en el orden de la planilla registrada, respetando la paridad de género.
 
 III. El Consejo General expedirá las constancias de asignación correspondientes.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
+IV. El Consejo General deberá emitir los lineamientos, criterios o reglas para la asignación de diputaciones locales y regidurías de representación proporcional según corresponda, atendiendo la paridad de género y conforme a las disposiciones de este Código, a más tardar el 28 de febrero del año en que se celebre la elección ordinaria correspondiente.
 
 ###### Artículo 212.
 
@@ -6607,13 +6617,17 @@ VII. El Tribunal Electoral del Estado de Hidalgo podrá declarar la nulidad de u
 
 Declarada nula alguna de las elecciones, el Tribunal Electoral del Estado de Hidalgo comunicará al Instituto Estatal Electoral la resolución respectiva, para los efectos de ley;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-VIII. Se acredite la utilización de símbolos religiosos o la intervención de ministros de culto a favor de las candidaturas o partidos ganadores y sea determinante para el resultado de la misma; y
+VIII. Se acredite la utilización de símbolos religiosos o la intervención de ministros de culto a favor de las candidaturas o partidos ganadores y sea determinante para el resultado de la misma;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
-IX. Se acrediten actos que constituyan violencia política en razón de género y sean determinantes para el resultado de la misma.
+IX. Se acrediten actos que constituyan violencia política en razón de género y sean determinantes para el resultado de la misma, y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
+X. Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.
 
 ###### Artículo 386.
 
@@ -7342,3 +7356,27 @@ P.O. 17 DE AGOSTO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 705 - LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 207 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 722 – LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 385 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, EN MATERIA DE CAUSALES DE NULIDAD DE LA ELECCIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Instituto Estatal Electoral de Hidalgo y el Tribunal Electoral del Estado de Hidalgo revisarán y adecuarán sus disposiciones normativas y administrativas para garantizar el cumplimiento de lo previsto en el presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 723 - LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, EN MATERIAS DE ARMONIZACIÓN LEGISLATIVA Y RACIONALIDAD INSTITUCIONAL EN LA INTEGRACIÓN DE AYUNTAMIENTOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+TERCERO. Las disposiciones del presente Decreto relativas a la integración de los Ayuntamientos, al número de regidurías, a la existencia de una sola sindicatura y a la supresión de la sindicatura de primera minoría serán aplicables al proceso electoral local 2026-2027, respecto de los Ayuntamientos que iniciarán funciones el 5 de septiembre de 2027. Dichas disposiciones no modificarán la integración, duración ni ejercicio de los cargos de los Ayuntamientos correspondientes al periodo constitucional 2024-2027.
+
+CUARTO. Las economías o ahorros que, en su caso, resulten de la nueva integración de los Ayuntamientos permanecerán en el patrimonio de la hacienda pública del municipio correspondiente y se destinarán a obras de infraestructura pública en beneficio de la población, en términos de lo previsto en el artículo Séptimo Transitorio del Decreto por el que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134 un párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 23 de abril de 2026, y demás legislación aplicable.
+
+QUINTO. Los asuntos, expedientes, archivos y demás documentación relacionados con las funciones de la Comisión de Radio, Televisión y Prensa que se encuentren en trámite a la entrada en vigor del presente Decreto quedarán a cargo del área o instancia que determine el Consejo General del Instituto Estatal Electoral, sin afectar la continuidad de las funciones de monitoreo previstas en este Código.
+
+SEXTO. El Instituto Estatal Electoral deberá ajustar su normatividad interna dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
