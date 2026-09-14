@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2026-04-27"
+last_updated: "2026-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE ABRIL DE 2026.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -437,11 +435,13 @@ XXXIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2023)
 
 XXXIV. Consejo Consultivo de Desarrollo Social; y
 
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XXXIII.]</small>
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
+XXXV. Comité de Coordinación de Planeación.
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
 
-XXXV. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
+XXXVI. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
 
 ### CAPÍTULO II. De las Funciones de las Autoridades Municipales
 
@@ -587,6 +587,10 @@ En ausencia del Primer Regidor, la sesión será presidida por el siguiente Regi
 
 Las sesiones de Cabildo constarán en un libro de actas que se levantará llevando el método estenográfico, las cuales conformarán el Diario de Debates, por el periodo de enero a diciembre de cada año.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
+El método estenográfico comprenderá la reproducción íntegra y fiel de las intervenciones realizadas por los integrantes del Ayuntamiento cuando tengan el uso de la voz, durante el desarrollo formal de la sesión y con motivo del desahogo de los asuntos del Orden del Día, así como de los acuerdos y resoluciones sometidos a consideración del Cabildo.
+
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 23
@@ -643,19 +647,29 @@ IX. Declaratoria de clausura.
 
 Las sesiones del Cabildo serán: ordinarias, ordinarias abiertas, extraordinarias y solemnes conforme a la Ley que en materia municipal expida el Poder Legislativo del Estado; todas tendrán el carácter de públicas y serán transmitidas en vivo vía internet por parte de la Secretaría de Comunicación Social y deberán permanecer publicadas en la página oficial o a través de los medios electrónicos con los que cuenta el Municipio de Aguascalientes
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTÍCULO 26.
 
-Las Sesiones Ordinarias se celebrarán dentro de los primeros diez días hábiles de cada mes, los Regidores y Síndicos deberán ser citados al menos con tres días naturales de anticipación, a excepción de las extraordinarias que podrán citarse en cualquier tiempo en razón de la anticipación que el asunto o asuntos a tratar requieran por su importancia o urgencia.
+Las Sesiones Ordinarias se celebrarán dentro de los primeros diez días hábiles de cada mes, los Regidores y Síndicos deberán ser citados al menos con dos días naturales de anticipación, a excepción de las extraordinarias que podrán citarse en cualquier tiempo en razón de la anticipación que el asunto o asuntos a tratar requieran por su importancia o urgencia.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2022)</small>
 
 Las citaciones a los Regidores y Síndicos a fin de que concurran a cualquier tipo de Sesión, serán realizadas por el Presidente Municipal, a través del Secretario del Honorable Ayuntamiento y Director General de Gobierno.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2022)</small>
+
 Las Sesiones se llevarán a cabo de manera presencial o de manera virtual, a petición del Presidente Municipal.
 
-En todos los casos, a fin de estar en la posibilidad de que en la sesión se traten los asuntos correspondientes, deberán ser enviados por correo electrónico el citatorio, el proyecto de orden del día, los dictámenes, acuerdos o proposiciones que se pretendan desahogar, así como sus respectivos documentos base o soporte.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
+En todos los casos, a fin de estar en la posibilidad de que en la sesión se traten los asuntos correspondientes, deberán ser enviados por correo electrónico y a través de la plataforma digital institucional denominada AgendaC, el citatorio, el proyecto de orden del día, los dictámenes, acuerdos o proposiciones que se pretendan desahogar, así como sus respectivos documentos base o soporte.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2022)</small>
 
 Dicha documentación, se remitirá a las direcciones de correo electrónico que debe autorizar cada miembro del Cabildo, mediante escrito dirigido al Secretario del Honorable Ayuntamiento y Director General de Gobierno, misma disposición será aplicable para remitir las cuentas públicas municipales digitalmente a los integrantes del H. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2022)</small>
 
 La notificación de la celebración de la sesión, así como de la documentación respectiva, se tendrá por realizada el día y hora que obre en la cuenta de correo electrónico remitente, que para el efecto haya autorizado el Secretario del Honorable Ayuntamiento y Director General de Gobierno.
 
@@ -663,15 +677,35 @@ La notificación de la celebración de la sesión, así como de la documentació
 
 A los miembros del Cabildo que incumplan su obligación de señalar dirección de correo electrónico en términos del párrafo segundo de este artículo, la documentación correspondiente les será enviada al correo electrónico institucional creado por la Coordinación General de Infraestructura y Desarrollo Tecnológico, al personal que labora en el Municipio, así mismo les será entregada en la oficina que ocupen en el Palacio Municipal, a más tardar el día hábil siguiente al envió del correo y antes de que inicie la sesión respectiva, situación que no invalidará la notificación la cual se tendrá por realizada en términos del párrafo anterior. En estos casos, la documentación podrá ser recibida por el personal adscrito a la oficina del Regidor o Síndico de que se trate.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2022)</small>
+
 El Secretario del Honorable Ayuntamiento y Director General de Gobierno, atendiendo a la cantidad de la documentación, podrá determinar otros mecanismos para realizar la notificación respectiva, por medios digitales o impresos.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2022)</small>
 
 En todo caso, la documentación a tratar en la sesión quedará a disposición para consulta de los miembros del Cabildo, en días y horas hábiles, en la Secretaría del Honorable Ayuntamiento y Dirección General de Gobierno.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2022)</small>
+
 Para que exista quórum legal se requiere la presencia de la mayoría de los miembros del Ayuntamiento, salvo en las Sesiones Solemnes que se llevarán a cabo con los Regidores y Síndicos que asistan.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2022)</small>
 
 Si a la hora señalada para el inicio de la sesión no existe quórum legal, se esperará a los ausentes hasta por treinta minutos, transcurrido dicho tiempo sin que se logre el quórum, se podrá esperar el tiempo que acuerde la mayoría de los presentes, y transcurrido este, la sesión podrá diferirse pudiéndose señalar en ese momento el día y hora para su desahogo, en cuyo caso los presentes se tendrán por notificados y a los ausentes se les comunicará mediante correo electrónico ajustándose al procedimiento de citación previsto en este artículo.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2022)</small>
+
 Los casos suscitados durante las sesiones y que no estén previstos en el presente Código, serán resueltos por quien presida, y con la aprobación de la mayoría simple del Cabildo.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
+ARTÍCULO 26 BIS.- Para efectos del presente artículo, se entenderá por AgendaC la plataforma digital institucional mediante la cual la Secretaria del H. Ayuntamiento realizará las notificaciones, citaciones, comunicaciones oficiales y remisión de documentación a los integrantes del Ayuntamiento, relacionadas con las sesiones de Cabildo y sus Comisiones.
+
+Los integrantes del Honorable Ayuntamiento deberán registrar y mantener actualizados ante la Secretaría del H. Ayuntamiento los medios de contacto autorizados para la recepción de notificaciones y documentación relacionada con las sesiones de Cabildo.
+
+Las notificaciones, citaciones, comunicados oficiales y documentación remitida a través de AgendaC tendrán plena validez jurídica y surtirán sus efectos en la fecha y hora que consten en los registros electrónicos generados por dicha plataforma.
+
+Los integrantes del H. Ayuntamiento deberán consultar periódicamente la plataforma digital AgendaC. La falta de consulta de la información remitida no invalidará las notificaciones, citaciones o comunicaciones realizadas conforme al presente artículo.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2021)</small>
 
@@ -26886,3 +26920,9 @@ QUINTO. Durante el periodo de transición señalado, las autoridades municipales
 SEXTO. Los trámites de expedición o renovación de licencias o permisos iniciados con anterioridad a la entrada en vigor de la presente reforma se substanciarán conforme a las disposiciones vigentes al momento de su inicio.
 
 SÉPTIMO. Concluidos los plazos de implementación previstos en los artículos transitorios tercero y cuarto, el cumplimiento de lo dispuesto en los artículos 1298 Decies, fracción XXIII, y 1306, fracción XIV, será exigible en su totalidad.
+
+P.O. 14 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO.- La presente adición iniciarán (sic) su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
