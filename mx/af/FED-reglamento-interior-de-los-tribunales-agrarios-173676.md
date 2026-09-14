@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-173676"
 country: "mx"
 rank: "reglamento"
 publication_date: "2024-06-28"
-last_updated: "2024-06-28"
+last_updated: "2026-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173676&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2024-06-18"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE SEPTIEMBRE DE 2026.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 28 de junio de 2024.
 
@@ -92,6 +92,10 @@ XII. Tribunales agrarios: Tribunal Superior Agrario y Tribunales Unitarios Agrar
 XIII. Tribunal Superior: Tribunal Superior Agrario.
 
 XIV. Tribunales Unitarios: Tribunales Unitarios Agrarios.
+
+> <small>(ADICIONADA, D.O.F. 14 DE SEPTIEMBRE DE 2026)</small>
+
+XV. Vacancia definitiva de Magistratura de Tribunal Unitario: Situación jurídica que se actualiza cuando una Magistratura Numeraria queda sin persona Titular por una causa definitiva y que subsiste hasta que se efectúe el nombramiento correspondiente conforme al procedimiento previsto en la Ley Orgánica.
 
 ### CAPÍTULO II. Del Tribunal Superior Agrario
 
@@ -165,11 +169,37 @@ V. Las demás que les confieran las disposiciones aplicables.
 
 #### SECCIÓN IV. De las Magistraturas Supernumerarias
 
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 10.
 
-En el tribunal superior existirá solamente una Magistratura Supernumeraria, la que suplirá las ausencias o vacantes temporales de las personas titulares de Magistraturas Numerarias acorde a lo que determine el Pleno. Se integrará por su titular y el personal que disponga el Pleno.
+En el Tribunal Superior existirá solamente una Magistratura Supernumeraria, la que suplirá las ausencias o vacantes temporales de las personas Titulares de Magistraturas Numerarias acorde a lo que determine el Pleno. Se integrará por su Titular y el personal que disponga el Pleno.
 
-Para suplir las ausencias de las personas titulares de los tribunales unitarios, existirán cuatro Magistraturas Supernumerarias, sin perjuicio de que este número incremente o se reduzca según las disponibilidades presupuestales.
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 2026)</small>
+
+Para suplir las ausencias de las personas Titulares de los Tribunales Unitarios, existirán cuatro Magistraturas Supernumerarias, sin perjuicio de que este número incremente o se reduzca según las disponibilidades presupuestales.
+
+> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2026)</small>
+
+En los casos de vacancia definitiva de la persona Titular de Magistratura de un Tribunal Unitario Agrario, la Magistratura Supernumeraria que determine el Tribunal Superior cubrirá provisionalmente la vacancia hasta que se efectúe el nuevo nombramiento, de conformidad con lo dispuesto en el Capítulo Cuarto de la Ley Orgánica de los Tribunales Agrarios.
+
+> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2026)</small>
+
+Excepcionalmente, cuando no se cuente con Magistraturas Supernumerarias disponibles, el Pleno del Tribunal Superior podrá habilitar temporalmente a una persona servidora pública de los Tribunales Agrarios que ocupe una plaza de Titular de Secretaría de Acuerdos y, cumpla con los requisitos establecidos en el artículo 12 de la Ley Orgánica, cuente con Carrera Jurisdiccional y acredite experiencia efectiva en el ejercicio de funciones jurisdiccionales, para que se encargue provisionalmente del despacho del Tribunal Unitario Agrario correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2026)</small>
+
+La habilitación concluirá cuando se actualice cualquiera de los siguientes supuestos:
+
+I. Se efectúe el nuevo nombramiento de la persona Titular de la Magistratura Numeraria;
+
+II. Exista una Magistratura Supernumeraria disponible para cubrir la vacancia; o
+
+III. El Pleno del Tribunal Superior Agrario determine su conclusión.
+
+> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2026)</small>
+
+Dicha habilitación tendrá carácter excepcional y provisional, no implicará nombramiento ni designación como Titular de Magistratura Numeraria y deberá atender a la continuidad de la función jurisdiccional y a la garantía del derecho de acceso efectivo a la justicia.
 
 ###### Artículo 11.
 
@@ -1681,6 +1711,24 @@ III. Dictar las medidas necesarias y correspondientes para el desahogo de los as
 
 La facultad de emitir sentencias está reservada a la persona titular de la magistratura, una vez que se reincorpore al servicio. Dicha facultad también corresponde a la magistratura supernumeraria de tribunal unitario que lo sustituya.
 
+> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2026)</small>
+
+Artículo 157 bis. Facultades en vacancia definitiva. La persona servidora pública habilitada en términos del artículo 10 de este Reglamento ejercerá, exclusivamente durante el periodo que subsista la habilitación acordada por el Pleno, las atribuciones, funciones, obligaciones y responsabilidades que corresponden a la persona Titular de una Magistratura Numeraria de Tribunales Unitarios Agrarios, entre ellas, las siguientes:
+
+I. Sustanciar los procedimientos;
+
+II. Presidir las audiencias;
+
+III. Emitir sentencias;
+
+IV. Dictar las demás resoluciones que correspondan en los asuntos competencia del Tribunal Unitario Agrario; y
+
+V. Ejercer las demás atribuciones que correspondan a la persona Titular de una Magistratura Numeraria de Tribunal Unitario Agrario, de conformidad con la Ley Orgánica, el presente Reglamento y demás disposiciones aplicables.
+
+El ejercicio de dichas atribuciones tendrá carácter excepcional y provisional y no implicará nombramiento o designación como Titular de Magistratura Numeraria.
+
+La habilitación concluirá en los supuestos previstos en el artículo 10 de este Reglamento.
+
 ###### Artículo 158.
 
 Ausencias de las secretarías de acuerdos. Las ausencias de la o el secretario general serán suplidas por la persona titular de la dirección de acuerdos y engrose o por la de ejecuciones.
@@ -2009,6 +2057,12 @@ IV. Desempeñarse con conciencia ciudadana, honestidad y sentido de la misión s
 
 V. Observar los principios y normas éticas, como parámetros fundamentales de orientación para el desempeño de sus funciones.
 
+> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 197.
+
+Publicación en el Diario Oficial de la Federación. Las adiciones y reformas al presente Reglamento deberán publicarse en el Diario Oficial de la Federación para surtir efectos.
+
 ## TRANSITORIOS
 
 Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2028,3 +2082,13 @@ LIC. MARCO ANTONIO OLALLO LIMA
 SECRETARIO GENERAL DE ACUERDOS
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE SEPTIEMBRE DE 2026
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 18/2026 QUE EMITE EL PLENO DEL H. TRIBUNAL SUPERIOR AGRARIO, POR EL QUE SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 2, LOS PÁRRAFOS TERCERO A SEXTO AL ARTÍCULO 10, EL ARTÍCULO 157 BIS Y EL ARTÍCULO 197 DEL REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS".]
+
+Primero. El presente Acuerdo deberá ser publicado en el Diario Oficial de la Federación, en los estrados de los Tribunales Unitarios Agrarios, en el Boletín Judicial, en la página web de los Tribunales Agrarios, así como en las cuentas oficiales en redes sociales del Tribunal Superior Agrario.
+
+Segundo. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
