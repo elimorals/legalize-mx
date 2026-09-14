@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-instituciones-y-procedimientos-electorales-del-169824"
 country: "mx"
 rank: "ley"
 publication_date: "2023-09-22"
-last_updated: "2026-09-03"
+last_updated: "2026-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Número 305 del Periódico Oficial del Estado de Chiapas, el viernes 22 de septiembre de 2023.
 
@@ -701,15 +701,27 @@ Cuando la asignación recaiga al género femenino y el Partido Político al que 
 
 ###### Artículo 25.
 
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
 1. Para el registro de candidaturas de la elección de los Ayuntamientos de los municipios del Estado, se estará a las reglas siguientes:
 
-I. Las candidaturas propuestas por los partidos políticos, coaliciones, candidaturas comunes o candidaturas independientes se registrarán en planillas que deberán garantizar la paridad de sus dimensiones horizontal, vertical y transversal, según corresponda.
+I. Las candidaturas propuestas por los partidos políticos, coaliciones, candidaturas comunes o candidaturas independientes se registrarán en planillas que deberán garantizar la paridad de sus dimensiones horizontal y vertical, según corresponda.
 
-II. Se garantizará la alternancia de género en el registro de las planillas para hacer efectivo el principio constitucional de paridad de género. La alternancia deberá verse reflejada en la composición de la planilla. Si el primer lugar de la planilla es mujer, el siguiente deberá ser hombre y así en forma sucesiva hasta agotar las candidaturas de la lista, dándose el mismo número de integrantes mujeres que de hombres. Si la lista es encabezada por un hombre, se seguirá el mismo principio.
+II. Se garantizará la alternancia de género en el registro de las planillas para hacer efectivo el principio constitucional de paridad de género en su dimensión vertical. Esta alternancia deberá reflejarse en la composición de la planilla; de modo que, si el primer lugar de la planilla es ocupado por una mujer, el siguiente deberá serlo por un hombre y así sucesivamente hasta agotar las candidaturas de la lista, asegurando el mismo número de integrantes entre mujeres y hombres. Si la lista es encabezada por un hombre, se aplicará el mismo criterio. En todo momento, las planillas deberán garantizar la paridad cuantitativa, cuando se trate de un número impar de candidaturas, se deberá asegurar que la mayoría sea del género femenino.
 
 III. No serán procedentes las planillas que sean presentadas por un partido político, coalición, candidatura común o candidatura independiente de forma incompleta.
 
-2. Cada partido político, coalición o candidatura común deberá registrar el mismo número de planillas encabezadas por mujeres y por hombres. En caso de que el número de municipios por los que registren planillas sea impar, habrá una más encabezada por el género femenino.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 14 DE SEPTIEMBRE DE 2026)</small>
+
+2. Para garantizar el principio de paridad de género en su dimensión horizontal, así como la alternancia en la postulación y registro de las planillas de Ayuntamientos, se observará lo siguiente:
+
+I. Los partidos políticos, coaliciones y candidaturas comunes deberán registrar sus planillas observando estrictamente que la persona que encabece cada una de ellas sea del género que corresponda a cada municipio. Si el número total de personas que encabezan dichas planillas es par, deberán distribuir el cincuenta por ciento para cada género; si el número total de personas que encabezan dichas planillas es impar, deberán asegurar que la mayoría sea del género femenino.
+
+II. En caso de que los partidos políticos, coaliciones y candidaturas comunes incumplan con el principio de paridad en cualquiera de sus dimensiones, el Instituto de Elecciones les requerirá los ajustes necesarios dentro del plazo que estime pertinente y en caso de que persista el incumplimiento se negará el registro o registros solicitados.
+
+III. El género correspondiente a cada municipio deberá ser el opuesto al electo en la elección municipal inmediata anterior.
+
+IV. Se exceptúan de la aplicación de este numeral a los municipios que se rigen por Sistemas Normativos Internos.
 
 3. Los Partidos Políticos, coaliciones, candidaturas comunes y candidaturas independientes garantizarán la participación de juventudes en la elección de miembros de Ayuntamiento, debiendo registrar por lo menos el diez por ciento de sus candidaturas propietarias a personas de hasta veintinueve años, con corte a un día previo al de la elección; si al realizar la operación aritmética correspondiente no resulta un número entero, el número mínimo de candidaturas jóvenes propietarias a postular, será en el número entero posterior inmediato.
 
@@ -7286,3 +7298,19 @@ P.O. 3 DE SEPTIEMBRE DE 2026.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo. Se derogan todas las disposiciones que se contrapongan al contenido del presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 307 POR EL QUE SE REFORMAN LOS NUMERALES 1 Y 2 DEL ARTÍCULO 25 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Para el proceso electoral local ordinario inmediato a la entrada en vigor del presente Decreto, el Congreso del Estado, a través de la Junta de Coordinación Política, para garantizar la paridad horizontal, hará bloques de municipios necesarios conforme a la lista nominal de electores con corte previo a la publicación del presente Decreto, debiendo para ello observar la normativa aplicable, así como los criterios, jurisprudencias, acuerdos y reglamentos que correspondan.
+
+Una vez integrados los bloques a que hace referencia el párrafo anterior, mediante insaculación el Congreso del Estado, a través de la Junta de Coordinación Política, establecerá el género que corresponda a cada municipio.
+
+El resultado de este procedimiento deberá comunicarse al Consejo General del Instituto de Elecciones y Participación Ciudadana del Estado, para los efectos correspondientes a más tardar el día 30 de septiembre del presente año.
+
+Por única ocasión, en aquellos municipios donde no corresponda el género femenino, los partidos políticos, coaliciones y candidaturas comunes podrán postular libremente el género que deberá encabezar la planilla correspondiente.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
