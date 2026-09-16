@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-igualdad-sustantiva-entre-mujeres-y-hombres-del-145
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-19"
-last_updated: "2025-10-04"
+last_updated: "2026-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 19 de diciembre de 2020.
 
@@ -113,7 +113,9 @@ XIII. Igualdad sustantiva: igualdad de hecho entre mujeres y hombres, que consti
 
 XIV. Institucionalización de la perspectiva de género: incorporación del principio de igualdad sustantiva en los planes, programas, políticas públicas, presupuestos, actuación y organización de los Entes públicos;
 
-XV. Modelo para la Igualdad: Modelo para la Igualdad entre Mujeres y Hombres del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XV. Modelo para la Igualdad: Modelo para la Igualdad Sustantiva entre Mujeres y Hombres del Estado de Zacatecas;
 
 XVI. Nuevas masculinidades: proceso de reflexión y sensibilización de hombres y mujeres, con el fin de desmontar roles y estereotipos de género, orientado a la construcción de formas de convivencia igualitarias;
 
@@ -123,17 +125,27 @@ XVIII. Persona titular del Poder Ejecutivo: Gobernador o Gobernadora del Estado 
 
 XIX. Perspectiva de género: metodología que permite identificar, cuestionar y valorar las prácticas, acciones y cualquier forma que constituya discriminación y desigualdad por razones de sexo y género, para lograr la igualdad sustantiva entre mujeres y hombres;
 
-XX. Política de Igualdad: Política de Igualdad entre Mujeres y Hombres del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XXI. Política Municipal de Igualdad: Política Municipal de Igualdad entre Mujeres y Hombres;
+XX. Política de Igualdad: Política de Igualdad Sustantiva entre Mujeres y Hombres del Estado de Zacatecas;
 
-XXII. Política Nacional de Igualdad: Política Nacional en materia de igualdad entre mujeres y hombres a la que se refiere el artículo 17 de la Ley General para la Igualdad entre Mujeres y Hombres;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XXIII. Proigualdadez: Programa para la Igualdad entre Mujeres y Hombres del Estado de Zacatecas;
+XXI. Política Municipal de Igualdad: Política Municipal de Igualdad Sustantiva entre Mujeres y Hombres;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXII. Política Nacional de Igualdad: Política Nacional en materia de Igualdad Sustantiva entre Mujeres y Hombres a la que se refiere el artículo 17 de la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXIII. Proigualdadez: Programa para la Igualdad Sustantiva entre Mujeres y Hombres del Estado de Zacatecas;
 
 XXIV. Secretaría: Secretaría de las Mujeres del Gobierno del Estado;
 
-XXV. Sistema para la Igualdad: Sistema para la Igualdad entre Mujeres y Hombres del Estado de Zacatecas, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXV. Sistema para la Igualdad: Sistema para la Igualdad Sustantiva entre Mujeres y Hombres del Estado de Zacatecas, y
 
 XXVI. Transversalidad de la perspectiva de género: proceso que permite garantizar la incorporación de la perspectiva de género en el diseño, elaboración, implementación y evaluación de las políticas públicas en todos los ámbitos en los Entes públicos.
 
@@ -267,7 +279,9 @@ V. Implementar planes, programas y acciones municipales encaminadas a lograr el 
 
 VI. Crear y fortalecer institutos municipales de las mujeres, encargados de formular, conducir y dar seguimiento a la Política Municipal de Igualdad;
 
-VII. Diseñar, formular y aplicar campañas de concientización que promuevan la igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VII. Diseñar, formular y aplicar campañas de concientización que promuevan la igualdad sustantiva entre mujeres y hombres;
 
 VIII. Elaborar los presupuestos de egresos municipales con perspectiva de género, incorporando la asignación de recursos para el cumplimiento, en el ámbito de su competencia, de la Política de Igualdad y la Política Municipal de Igualdad, y de los objetivos del Instituto Municipal de las Mujeres, de manera transversal en todas las dependencias del gobierno municipal;
 
@@ -285,9 +299,13 @@ I. Implementar la Política de Igualdad, en el ámbito de su competencia;
 
 II. Diseñar, implementar y vigilar planes, programas, políticas públicas y acciones afirmativas, con el fin de eliminar las brechas de género, en concordancia con la Política de Igualdad y la Política Nacional de Igualdad, así como con los principios y criterios establecidos en esta Ley;
 
-III. Promover, en el ámbito de su competencia, la participación social, política, cultural y económica, dirigida a lograr la igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-IV. Diseñar, formular y aplicar campañas de concientización que promuevan la igualdad entre mujeres y hombres;
+III. Promover, en el ámbito de su competencia, la participación social, política, cultural y económica, dirigida a lograr la igualdad sustantiva entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+IV. Diseñar, formular y aplicar campañas de concientización que promuevan la igualdad sustantiva entre mujeres y hombres;
 
 V. Elaborar su presupuesto de egresos con perspectiva de género, incorporando la asignación de recursos para el cumplimiento de planes, programas, políticas públicas y acciones afirmativas para la eliminación de brechas de género;
 
@@ -295,7 +313,9 @@ VI. Dar a conocer dentro de los informes anuales de labores, las acciones en mat
 
 VII. Las demás que se requieran para el cumplimiento de los objetivos de esta Ley.
 
-## Título Tercero. Política de Igualdad entre Mujeres y Hombres del Estado de Zacatecas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+## Título Tercero. Política de Igualdad Sustantiva entre Mujeres y Hombres del Estado de Zacatecas
 
 ### Capítulo I. Consideraciones generales
 
@@ -313,21 +333,29 @@ IV. Garantizar la participación y representación política paritaria entre muj
 
 V. Garantizar la participación paritaria de las mujeres en los puestos de toma de decisiones en el ámbito privado;
 
-VI. Establecer medidas para erradicar la discriminación y la violencia contra las mujeres en los ámbitos público y privado;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VI. Establecer medidas para erradicar la discriminación y las violencias contra las mujeres en los ámbitos público y privado;
 
 VII. Promover acciones para lograr la igualdad sustantiva entre mujeres y hombres, así como la no discriminación en el ámbito laboral;
 
 VIII. Establecer en el ámbito educativo medidas de promoción de los derechos humanos de las mujeres, la no discriminación, la no violencia y el respeto a la igualdad entre mujeres y hombres;
 
-IX. Fomentar la igualdad entre mujeres y hombres en el ámbito civil;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-X. Impulsar estrategias, programas y políticas públicas de salud integral diferenciadas acorde a las necesidades de mujeres y hombres;
+IX. Fomentar la igualdad sustantiva entre mujeres y hombres en el ámbito civil;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+X. Impulsar estrategias, programas y políticas públicas de salud integral, incorporando las perspectivas de género, derechos humanos e interseccionalidad, orientados a atender las necesidades de mujeres y hombres, con especial énfasis en la garantía de los derechos sexuales y reproductivos de las mujeres;
 
 XI. Promover acciones para la conciliación de vida personal, familiar y laboral, así como la corresponsabilidad familiar;
 
 XII. Establecer políticas públicas orientadas a garantizar la autonomía económica de las mujeres;
 
-XIII. Impulsar que las políticas públicas de medio de ambiente y urbanismo incorporen la perspectiva de género;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XIII. Impulsar que las políticas públicas de medio de (sic) ambiente y urbanismo incorporen la perspectiva de género, con especial atención en el acceso al agua y saneamiento;
 
 XIV. Promover, en los medios de comunicación, la eliminación de estereotipos de género y la utilización de un lenguaje no sexista;
 
@@ -335,27 +363,49 @@ XV. Garantizar que la publicidad de los Entes públicos, esté libre de estereot
 
 XVI. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas;
 
-XVII. Impulsar el desarrollo, participación y reconocimiento de las mujeres en la ciencia y la tecnología, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XVIII. Cualquier otra orientada a garantizar la igualdad sustantiva entre mujeres y hombres.
+XVII. Impulsar el desarrollo, participación y reconocimiento de las mujeres en la ciencia y la tecnología;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XIX. Fomentar el desarrollo, participación y reconocimiento de las mujeres zacatecanas migrantes en todos los ámbitos de la vida pública y privada.
+XVIII. Promover acciones conjuntas entre los sectores público, privado y social para reconocer, redistribuir y reducir el trabajo de cuidados;
 
-### Capítulo II. Instrumentos de la Política de Igualdad entre Mujeres y Hombres del estado de Zacatecas
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XIX. Fomentar el desarrollo, participación y reconocimiento de las mujeres zacatecanas migrantes en todos los ámbitos de la vida pública y privada;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XX. Fortalecer la participación de las mujeres en el desarrollo sostenible de las comunidades rurales, potenciando el ejercicio pleno de sus derechos en materia agraria y de acceso a los recursos naturales, reconociéndolas como actoras estratégicas en los procesos de planeación, organización y toma de decisiones comunitarias, y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXI. Cualquier otra orientada a garantizar la igualdad sustantiva entre mujeres y hombres.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+### Capítulo II. Instrumentos de la Política de Igualdad Sustantiva entre Mujeres y Hombres del estado de Zacatecas
 
 ###### Artículo 20.
 
 Son instrumentos de la Política de Igualdad los siguientes:
 
-I. El Sistema para la Igualdad entre Mujeres y Hombres del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-II. El Programa para la Igualdad entre Mujeres y Hombres del Estado Zacatecas;
+I. El Sistema para la Igualdad Sustantiva entre Mujeres y Hombres del Estado de Zacatecas;
 
-III. El Modelo para la Igualdad entre Mujeres y Hombres del Estado de Zacatecas, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-IV. La vigilancia en materia de igualdad entre mujeres y hombres del Estado de Zacatecas.
+II. El Programa para la Igualdad Sustantiva entre Mujeres y Hombres del Estado Zacatecas;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+III. El Modelo para la Igualdad Sustantiva entre Mujeres y Hombres del Estado de Zacatecas, y
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+IV. La vigilancia en materia de igualdad Sustantiva entre mujeres y hombres del Estado de Zacatecas.
 
 ###### Artículo 21.
 
@@ -365,7 +415,9 @@ En el diseño, elaboración, aplicación, evaluación y seguimiento de los instr
 
 La Secretaría, en su carácter de Secretaría Técnica del Sistema para la Igualdad, tendrá a su cargo el diseño y coordinación de los instrumentos de la Política de igualdad, los cuales deberán ser aprobados por el propio Sistema.
 
-### Capítulo III. Sistema para la Igualdad entre Mujeres y Hombres del Estado de Zacatecas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+### Capítulo III. Sistema para la Igualdad Sustantiva entre Mujeres y Hombres del Estado de Zacatecas
 
 ###### Artículo 23.
 
@@ -419,7 +471,9 @@ XXI. La Fiscalía General de Justicia del Estado de Zacatecas;
 
 XXII. La Comisión de Derechos Humanos del Estado de Zacatecas;
 
-XXIII. La Comisión de Igualdad de Género de la Legislatura del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXIII. La Comisión de Igualdad Sustantiva entre Mujeres y Hombres de la Legislatura del Estado de Zacatecas;
 
 XXIV. El Tribunal Superior de Justicia del Estado de Zacatecas;
 
@@ -477,7 +531,9 @@ VIII. Proponer la periodicidad y características de la información que deberá
 
 IX. Proponer asignaciones presupuestales destinadas a la implementación del Proigualdadez, el Modelo para la Igualdad y la vigilancia de la Política de Igualdad, así como para la ejecución de los planes y programas estratégicos de los Entes públicos en materia de igualdad sustantiva y vigilancia de la Política de Igualdad;
 
-X. Promover el desarrollo de programas y servicios que incluyan y fomenten entre la sociedad civil la igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+X. Promover el desarrollo de programas y servicios que incluyan y fomenten entre la sociedad civil la igualdad sustantiva entre mujeres y hombres;
 
 XI. Elaborar y recomendar criterios de publicidad que garanticen la transmisión en los medios de comunicación social, de relaciones igualitarias entre mujeres y hombres, libre de estereotipos y prejuicios contra las mujeres;
 
@@ -485,13 +541,19 @@ XII. Presentar un informe anual sobre cumplimiento del Proigualdadez;
 
 XIII. Solicitar se inicie el procedimiento por incumplimiento por parte de los Entes públicos, para las sanciones correspondientes,
 
-XIV. Las demás que se requieran para el cumplimiento de los objetivos del Sistema para la Igualdad y de esta Ley.
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XIV. Promover la institucionalización de la perspectiva de género, y
+
+XV. Las demás que se requieran para el cumplimiento de los objetivos del Sistema para la Igualdad y de esta Ley.
 
 ###### Artículo 31.
 
 El Sistema para la Igualdad deberá presentar un informe anual sobre los avances en la implementación de la Política de Igualdad y sus instrumentos.
 
-### Capítulo IV. Programa para la Igualdad entre Mujeres y Hombres del Estado de Zacatecas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+### Capítulo IV. Programa para la Igualdad Sustantiva entre Mujeres y Hombres del Estado de Zacatecas
 
 ###### Artículo 32.
 
@@ -509,7 +571,9 @@ El Proigualdadez deberá tener una visión de corto, mediano y largo alcance, co
 
 Asimismo, deberá integrarse a los instrumentos de planeación, programación y presupuestación contemplados en la Ley de Planeación del Estado de Zacatecas y sus Municipios.
 
-### Capítulo V. Modelo para la Igualdad entre Mujeres y Hombres del estado de Zacatecas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+### Capítulo V. Modelo para la Igualdad Sustantiva entre Mujeres y Hombres del estado de Zacatecas
 
 ###### Artículo 35.
 
@@ -535,7 +599,9 @@ IV. Realizar mejoras al Modelo para la Igualdad, al menos, cada tres años, resp
 
 El Modelo para la Igualdad podrá implementarse, previo convenio de colaboración con la Secretaría, en los municipios y en cualquier otro Ente público.
 
-### Capítulo VI. Vigilancia en materia de igualdad entre mujeres y hombres del Estado de Zacatecas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+### Capítulo VI. Vigilancia en materia de igualdad sustantiva entre mujeres y hombres del Estado de Zacatecas
 
 ###### Artículo 39.
 
@@ -549,7 +615,9 @@ La vigilancia se realizará a través de un sistema de información coordinado y
 
 La vigilancia de la Política de Igualdad consistirá en:
 
-I. Dar seguimiento a la información que los Entes públicos entreguen a la Secretaría, sobre el cumplimiento de los planes, programas, políticas públicas y acciones afirmativas implementadas en materia de igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+I. Dar seguimiento a la información que los Entes públicos entreguen a la Secretaría, sobre el cumplimiento de los planes, programas, políticas públicas y acciones afirmativas implementadas en materia de igualdad sustantiva entre mujeres y hombres;
 
 II. Evaluar el impacto de la Política de Igualdad y sus instrumentos;
 
@@ -619,7 +687,9 @@ III. Coordinar los sistemas administrativos para la obtención de datos sobre ig
 
 IV. Establecer los mecanismos necesarios para identificar en los programas presupuestarios, las actividades destinadas al desarrollo de las mujeres, así como a su autonomía económica;
 
-V. Implementar acciones que coadyuven al empoderamiento económico de las mujeres, así como facilitar el acceso a créditos y programas de estímulos económicos;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+V. Implementar acciones que coadyuven al empoderamiento económico de las mujeres, facilitar el acceso a créditos y programas de estímulos económicos, así como incorporar a la micro y pequeña empresa de mujeres en las políticas de formalización del empleo;
 
 VI. Implementar acciones afirmativas que fomenten la contratación de mujeres y promuevan la igualdad en el mercado laboral, así como el ascenso y acceso a puestos de toma de decisiones en los ámbitos público y privado;
 
@@ -627,7 +697,9 @@ VII. Promover y supervisar la adopción de programas de igualdad en el sector pr
 
 VIII. Difundir las buenas prácticas que en materia de igualdad entre mujeres y hombres apliquen las empresas e instituciones;
 
-IX. Promover estímulos y certificados de igualdad a las empresas que apliquen políticas y prácticas en la materia;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+IX. Promover incentivos, estímulos y certificados de igualdad a las empresas que apliquen políticas y prácticas en la materia, así como a las que faciliten al personal hacer compatible la jornada de trabajo, con su vida familiar y responsabilidades de cuidado;
 
 X. Asegurar el acceso a una remuneración en condiciones de igualdad a mujeres y hombres, eliminando las brechas salariales y la segregación laboral;
 
@@ -635,7 +707,9 @@ XI. Garantizar el reconocimiento del trabajo de las mujeres y potenciar su creci
 
 XII. Promover acciones para el reconocimiento y remuneración del trabajo doméstico y de cuidados;
 
-XIII. Implementar acciones que coadyuven en la conciliación de la vida personal, familiar y laboral;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XIII. Implementar estrategias, políticas y acciones para fomentar la responsabilidad compartida entre hombres y mujeres, así como la conciliación de la vida personal, familiar y laboral;
 
 XIV. Implementar mecanismos para prevenir, atender y sancionar el acoso y hostigamiento sexual en los centros de trabajo;
 
@@ -651,15 +725,33 @@ XVI. Impulsar el diseño de políticas y programas en materia de desarrollo empr
 
 XVII. Promover el empoderamiento de las mujeres rurales a través del impulso de programas de financiamiento, de comercialización de productos, proyectos productivos y programas para el acceso a la propiedad, y
 
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XVIII. Promover la participación conjunta entre el Estado, los sectores privado y social para lograr un equilibrio en los entornos laboral y familiar;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XIX. Implementar políticas encaminadas a fortalecer los derechos laborales que permitan que todas las personas puedan ejercer su derecho a cuidar y ser cuidadas;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XX. Diseñar y ejecutar campañas formativas e informativas dirigidas a la población, a fin de equilibrar las responsabilidades laborales y familiares entre hombres y mujeres;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXI. Vigilar que se respeten los derechos laborales de las mujeres a través de los mecanismos internos de inspección de manera eficaz, oportuna e imparcial, y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MARZO DE 2023)</small>
 
-XVIII. Las demás que se requieran para el cumplimiento de los objetivos de esta Ley.
+XXII. Las demás que se requieran para el cumplimiento de los objetivos de esta Ley.
 
 ### Capítulo III. Participación política
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 47.
 
-Los Entes públicos competentes en la materia, generarán los mecanismos necesarios para garantizar a las mujeres la participación paritaria y libre de violencia, en puestos y cargos de toma de decisiones públicas y políticas de elección, designación y concurso.
+Los Entes públicos competentes en la materia, generarán los mecanismos necesarios para garantizar a las mujeres la participación paritaria y libre de violencias, en puestos y cargos de toma de decisiones públicas y políticas de elección, designación y concurso.
 
 ###### Artículo 48.
 
@@ -685,9 +777,11 @@ VIII. Las demás que se requieran para el cumplimiento de los objetivos de esta 
 
 ### Capítulo IV. Ámbito social y civil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 49.
 
-Los Entes públicos, en el ámbito de su competencia, para garantizar la igualdad entre mujeres y hombres en el acceso y ejercicio de los derechos sociales deberán:
+Los Entes públicos, en el ámbito de su competencia, para garantizar la igualdad sustantiva entre mujeres y hombres en el acceso y ejercicio de los derechos sociales deberán:
 
 I. Promover la difusión y el conocimiento de la legislación y la jurisprudencia en la materia;
 
@@ -741,9 +835,11 @@ VIII. Las demás que se requieran para el cumplimiento de los objetivos de esta 
 
 ### Capítulo VI. Medio ambiente y urbanismo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 51.
 
-Los Entes públicos y privados, en el ámbito de su competencia, para garantizar la igualdad entre mujeres y hombres en materia de medio ambiente y urbanismo, deberán:
+Los Entes públicos y privados, en el ámbito de su competencia, para garantizar la igualdad sustantiva entre mujeres y hombres en materia de medio ambiente y urbanismo, deberán:
 
 I. Elaborar diagnósticos sobre las brechas de género y su relación con el acceso, uso y control de los recursos naturales y los beneficios que se deriven;
 
@@ -781,9 +877,11 @@ VIII. Las demás que se requieran para el cumplimiento de los objetivos de esta 
 
 ### Capítulo VIII. Seguridad Pública y Prevención Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 53.
 
-Los Entes públicos competentes en la materia, para garantizar la igualdad entre mujeres y hombres, deberán:
+Los Entes públicos competentes en la materia, para garantizar la igualdad sustantiva entre mujeres y hombres, deberán:
 
 I. Implementar el diseño y aplicación de políticas y programas de seguridad pública, seguridad vial y de prevención social que incorporen el principio de igualdad y no discriminación;
 
@@ -801,11 +899,43 @@ Los Entes públicos competentes en la materia, deberán garantizar el derecho a 
 
 I. Difundir la información de carácter público, desagregada por sexo;
 
-II. Garantizar la protección de datos personales de mujeres víctimas de violencia;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+II. Garantizar la protección de datos personales de mujeres víctimas de violencias;
 
 III. Propiciar la implementación de mecanismos para informar sobre la privacidad de información confidencial, reservada y datos personales, y
 
 IV. Hacer uso de la información y datos personales, para los fines para los que fueron proporcionados.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+### Capítulo X. Desarrollo rural
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Artículo 54 bis. Los Entes públicos competentes en la materia, para garantizar la igualdad sustantiva entre mujeres y hombres en el ámbito del desarrollo rural, deberán:
+
+I. Procurar el acceso igualitario de hombres y mujeres a las políticas públicas en materia de desarrollo rural sustentable;
+
+II. Garantizar el acceso equitativo a recursos productivos, servicios, programas, capacitación, financiamiento y participación en la toma de decisiones comunitarias;
+
+III. Diseñar e implementar políticas públicas con perspectiva de género que fomenten el empoderamiento económico, social y político de las mujeres rurales, reconociendo su papel fundamental en la producción agrícola, la seguridad alimentaria y el desarrollo comunitario;
+
+IV. Garantizar la participación equitativa de las mujeres en los consejos estatales, distritales y municipales de desarrollo rural, asegurando, al menos, una representación paritaria;
+
+V. Impulsar escuelas de liderazgo rural para mujeres, que promuevan la capacitación y formación técnica, mediante programas estatales de extensionismo y emprendimiento con enfoque de género;
+
+VI. Promover que los proyectos productivos financiados con recursos públicos incluyan un porcentaje mínimo destinado a mujeres rurales, priorizando aquellas en situación de vulnerabilidad;
+
+VII. Fomentar la creación de redes de cooperación, asociaciones y cooperativas integradas por mujeres rurales, para fortalecer su capacidad de negociación y comercialización;
+
+VIII. Incorporar en las políticas de infraestructura rural servicios que faciliten la participación económica de las mujeres, como guarderías rurales, transporte comunitario y acceso a tecnologías limpias;
+
+IX. Asignar presupuesto específico para la implementación de políticas, programas y acciones a favor de las mujeres rurales;
+
+X. Promover la recopilación de datos desagregados por sexo en el ámbito rural, con el fin de diseñar políticas basadas en evidencia que atiendan las necesidades específicas de mujeres y hombres en el medio rural, y
+
+XI. Las demás que se requieran para el cumplimiento de los objetivos de esta Ley.
 
 ## Título Quinto. Responsabilidades y Sanciones
 
@@ -876,3 +1006,11 @@ Se derogan las disposiciones que contravengan el presente instrumento.
 ###### ARTÍCULO TERCERO.
 
 Los entes públicos responsables de implementar la Política de Igualdad entre Mujeres y Hombres del Estado de Zacatecas deberán prever las asignaciones presupuestarias en cada ejercicio fiscal para dar cumplimiento a la misma.
+
+P.O. 16 DE SEPTIEMBRE DE 2026
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 364.- REFORMAS Y ADICIONES DE LA LEY PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
