@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-83382"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-05"
-last_updated: "2020-09-05"
+last_updated: "2026-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 5 de octubre del 2011.
 
@@ -81,9 +81,17 @@ II. La restricción para fumar en los lugares que señala esta Ley y el desarrol
 
 III. La información a la población sobre las patologías vinculadas con el consumo de tabaco, la exposición a su humo, consecuencias, los beneficios de dejar de fumar y la promoción de su abandono y a la realización de campañas de educación y orientación, especialmente dirigidas a las nuevas generaciones y a las mujeres en periodo de embarazo y lactancia, sobre las consecuencias del consumo de tabaco en estas etapas de la vida;
 
-IV. La prevención, el diagnóstico, tratamiento y rehabilitación integral de los fumadores, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-V. La elaboración periódica de un programa de seguimiento y evaluación de metas y logros del programa estatal contra el tabaquismo.
+IV. La prevención, el diagnóstico, tratamiento y rehabilitación integral de los fumadores;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+V. La elaboración periódica de un programa de seguimiento y evaluación de metas y logros del programa estatal contra el tabaquismo, y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VI. Proteger los derechos de los no fumadores a vivir y convivir en espacios 100% libres de humo de tabaco y emisiones.
 
 ###### Artículo 3.
 
@@ -129,9 +137,9 @@ VIII. Denuncia Ciudadana: a la notificación hecha a la autoridad competente de 
 
 IX. Humo de Tabaco: a las emisiones de los productos de tabaco, originadas por encender o consumir cualquier producto de tabaco;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-X. Espacio 100% libre de humo de tabaco: a aquella área física cerrada con acceso al público o todo lugar de trabajo o de transpone público o sitio de concurrencia colectiva, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
+X. Espacio 100% libre de humo de tabaco y emisiones: a aquella área física cerrada con acceso al público o todo lugar de trabajo o de transporte público o sitio de concurrencia colectiva, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco o de nicotina;
 
 XI. Personal laboralmente expuesto: a aquel que en el ejercicio y con motivo de su ocupación está expuesto al humo de tabaco;
 
@@ -157,9 +165,9 @@ XVI. Lugar interior de trabajo: a todo aquel espacio utilizado por las personas 
 
 XVII. Sitio de concurrencia colectiva: al que independientemente si es abierto o cerrado, interior o exterior, concentre o reúna a personas para llevar a cabo acciones de esparcimiento, de libre asociación, prácticas o espectáculos, deportivos y similares, tales como patios escolares, balnearios, parques de diversiones y acuáticos, lagunas y reservas ecológicas, centros de espectáculos, canchas, estadios, plazas y demás, y
 
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XVIII. Vehículos de transporte público: a aquel individual o colectivo utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, sea remunerado o no, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo.
+XVIII. Vehículos de transporte público: a aquel vehículo individual o colectivo que circule por tierra, aire o agua utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, sea remunerado o no, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo.
 
 ### CAPÍTULO SEGUNDO. De las Atribuciones
 
@@ -193,7 +201,9 @@ VIII. Promover y suscribir los acuerdos para la creación de los centros regiona
 
 IX. Promover la Creación de Consejos Municipales contra las Adicciones;
 
-X. Promover espacios 100% libres de humo de tabaco y programas de educación a la población para un medio ambiente libre de humo de tabaco;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+X. Promover espacios 100% libres de humo de tabaco y emisiones, y programas de educación a la población para un medio ambiente libre de humo de tabaco;
 
 XI. Promover la participación de la sociedad civil en la ejecución del Programa Estatal contra el tabaquismo;
 
@@ -209,9 +219,15 @@ XVI. Ordenar, de oficio o por denuncia ciudadana, la realización de visitas de 
 
 XVII. Sancionar a los particulares que, al momento de la visita, hayan sido encontrados consumiendo tabaco en los lugares en que se encuentre prohibido hacerlo;
 
-XVIII. Informar a los órganos de control interno de las dependencias y entidades de la Administración Pública Estatal y Municipal, de la violación de los servidores públicos a las disposiciones de esta Ley, a efecto de que se inicien los procedimientos administrativos correspondientes, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XIX. Las demás que le otorgue la Ley y demás disposiciones jurídicas aplicables.
+XVIII. Informar a los órganos de control interno de las dependencias y entidades de la Administración Pública Estatal y Municipal, de la violación de los servidores públicos a las disposiciones de esta Ley, a efecto de que se inicien los procedimientos administrativos correspondientes;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XIX. En coordinación con la Secretaría de Salud del Gobierno Federal, formular las disposiciones relativas a los espacios 100% libres de humo de tabaco y emisiones, y
+
+XX. Las demás que le otorgue la Ley y demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO TERCERO. Del Programa Estatal contra el Tabaquismo
 
@@ -283,7 +299,9 @@ El propietario, administrador o responsable de un espacio 100% libre de humo de 
 
 Cualquier persona podrá presentar ante la autoridad correspondiente una denuncia en caso de que observe el incumplimiento de cualquiera de las obligaciones establecidas en esta Ley, sus reglamentos y demás disposiciones aplicables. La autoridad responsable salvaguardará la identidad e integridad del ciudadano denunciante.
 
-Los Servicios de Salud pondrán en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100% libres de humo de tabaco así como el incumplimiento de esta Ley, su Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Los Servicios de Salud pondrán en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100% libres de humo de tabaco y emisiones así como el incumplimiento de esta Ley, su Reglamento y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -329,9 +347,11 @@ Queda prohibido a las autoridades de las escuelas e instituciones públicas perm
 
 ### CAPÍTULO SEXTO. De la Venta del Tabaco y Similares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 13.
 
-Se prohíbe:
+Queda prohibido, en los términos de la Ley General para el Control del Tabaco, realizar toda forma de publicidad, promoción y patrocinio de los productos elaborados con tabaco, en forma directa o indirecta, a través de cualquier medio de difusión o comunicación que pretenda posicionar los elementos de la marca de éstos, que fomente la compra, el consumo o preferencia por parte de la población; asimismo, se prohíbe:
 
 I. Comerciar, vender, distribuir o suministrar cigarrillos por unidad o en empaques, que contengan menos de catorce o más de veinticinco unidades, tabaco picado en bolsas de menos de diez gramos;
 
@@ -512,3 +532,11 @@ P.O. 5 DE SEPTIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 340.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
