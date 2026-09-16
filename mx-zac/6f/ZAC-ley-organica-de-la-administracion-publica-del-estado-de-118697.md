@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-118697"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-30"
-last_updated: "2025-10-15"
+last_updated: "2026-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento 3 al Número 96 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2016.
 
@@ -1665,7 +1665,9 @@ XXIX. Escuela de Conservación y Restauración de Zacatecas "Refugio Reyes".
 
 XXX. Colegio de Bachilleres del Estado de Zacatecas;
 
-XXXI. Colegio de Educación Profesional y Técnica de Zacatecas;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXXI. Colegio de Educación Profesional Técnica del Estado de Zacatecas.
 
 XXXII. Colegio de Estudios Científicos y Tecnológicos del Estado de Zacatecas;
 
@@ -1942,3 +1944,15 @@ Dicho plazo podrá acotarse mediante declaratoria pública que emitan las Autori
 Octavo. Cumplido el plazo de extinción del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, establecido en el artículo segundo transitorio del Decreto número 124, del 7 de junio de 2025, por el cual se emitieron reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia de simplificación orgánica, la persona servidora pública que, previo a la extinción, ocupaba la presidencia de dicho Organismo, asumirá las facultades y obligaciones de liquidadora en los términos de la normatividad aplicable.
 
 Noveno. La Legislatura del Estado tendrá un plazo improrrogable de 90 días naturales, posteriores a la entrada en vigor del presente Decreto para actualizar y reformar las leyes que determinan atribuciones u obligaciones en materia de transparencia y protección de datos personales.
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 320.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
