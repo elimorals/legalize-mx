@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2025-10-08"
+last_updated: "2026-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -223,13 +223,17 @@ VIII. Implementar un sistema racional de administración y desarrollo de los rec
 
 IX. Definir los mecanismos de coordinación y colaboración entre autoridades estatales y municipales, y con los sectores social y privado en materia de salud;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-X. Garantizar la participación de la comunidad en el Sistema Estatal de Salud, y
+X. Garantizar la participación de la comunidad en el Sistema Estatal de Salud;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XI. Proponer los mecanismos y estrategias que aseguren los materiales y recursos necesarios a las y los auxiliares de la salud comunitarios.
+XI. Proponer los mecanismos y estrategias que aseguren los materiales y recursos necesarios a las y los auxiliares de la salud comunitarios, y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XII. Promover, impulsar e implementar acciones de prevención, sensibilización, información y control sobre la automedicación y la autoprescripción de medicamentos.
 
 ###### ARTÍCULO 9.
 
@@ -426,6 +430,10 @@ II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcio
 III. De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad, y
 
 IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+A fin de garantizar la calidad de las actividades de atención médica referidas en este artículo, los prestadores de servicios de salud, podrán apoyarse en las Guías de Práctica Clínica y los medios electrónicos, de acuerdo con las normas oficiales mexicanas vigentes, que emita la Secretaría de Salud del Gobierno Federal.
 
 ### CAPÍTULO II. Prestadores de Servicios de Salud
 
@@ -771,9 +779,9 @@ IV. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
 Para el ejercicio de actividades en el área de la salud, los profesionales, técnicos y auxiliares requieren que los títulos académicos de licenciatura, maestría y doctorado, certificados de especialización y los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-En el caso del ejercicio especializado de la cirugía, como es la cirugía plástica, estética y reconstructiva, quienes la ejerzan deberán contar con cédula profesional de especialista en cirugía plástica, estética y reconstructiva; con certificado de la especialidad correspondiente y la certificación que para tales efectos emite el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva.
+En el caso del ejercicio especializado de la cirugía, como es la cirugía plástica, estética y reconstructiva, quienes la ejerzan deberán contar con cédula profesional de especialista en cirugía plástica, estética y reconstructiva; con certificado de la especialidad correspondiente y la certificación que para tales efectos emite el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva. De la misma forma, los profesionistas que ejerzan actividades y técnicas auxiliares como la ozonoterapia, se sujetarán a lo dispuesto en el primer párrafo del presente artículo.
 
 Los colegios de profesionales, las instituciones, establecimientos de prestación de servicios de atención médica y la población en general, podrán denunciar ante la Secretaría de Salud, a quienes sin cumplir con los requisitos a que se refiere el párrafo anterior ejerzan indebidamente actividades relacionadas con la prestación de servicios médicos.
 
@@ -2788,3 +2796,27 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente de su
 Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
 
 Artículo tercero. La Secretaría de Salud de Gobierno del Estado deberá adecuar su normatividad interna conforme al contenido del presente Decreto, en un plazo que no deberá exceder de ciento veinte días posteriores al inicio de su vigencia.
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 337.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 46 DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 347.- REFORMAS Y ADICIONES DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 346.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 21 DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
