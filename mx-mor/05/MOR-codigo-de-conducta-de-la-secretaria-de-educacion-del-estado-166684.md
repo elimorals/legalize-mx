@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-educacion-del-estado-166
 country: "mx"
 rank: "codigo"
 publication_date: "2023-06-14"
-last_updated: "2023-06-14"
+last_updated: "2026-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE EDUCACION DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE EDUCACIÓN DEL PODER EJECUTIVO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 16 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE EDUCACIÓN DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026 (ABROGADO).
 
 Código publicado en el número 6202 del Periódico Oficial del Estado de Morelos, el miércoles 14 de junio de 2023.
 
@@ -242,3 +244,19 @@ EL SECRETARIO DE EDUCACIÓN DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MOREL
 LUIS ARTURO CORNEJO ALATORRE
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE EDUCACIÓN DEL PODER EJECUTIVO DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta de la Secretaría de Educación del Poder Ejecutivo del Estado de Morelos publicado el catorce de junio del año dos mil veintitrés en el Periódico Oficial “Tierra y Libertad” número 6202.
+
+TERCERA. Se derogan las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Código.
+
+CUARTA. El presente instrumento deberá difundirse también en el portal oficial de la Secretaría de Educación.
+
+QUINTA. Se instruye a la Unidad de Enlace Financiero Administrativo de la Secretaría de Educación para dar a conocer al personal de las unidades administrativas que conforman esta dependencia, así como al de nuevo ingreso, la existencia y contenido del presente Código de Conducta para su observancia y cumplimiento.
