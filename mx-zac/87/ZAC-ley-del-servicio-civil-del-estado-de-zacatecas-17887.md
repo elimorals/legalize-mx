@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2026-06-10"
+last_updated: "2026-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -928,6 +928,16 @@ Para tal efecto, deberán presentar en el área correspondiente de su centro lab
 El certificado médico podrá ser renovado periódicamente cuando así lo solicite la entidad pública.
 
 El goce de este tipo de licencia no afectará los derechos laborales.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 54 Quater.
+
+Todas las personas que padezcan enfermedades autoinmunes crónicas, progresivas o que generen limitaciones funcionales permanentes o intermitentes diagnosticadas por institución de salud pública o por especialistas acreditados, tendrán derecho a licencias de discapacidad parcial, las cuales podrán otorgarse por periodos de hasta treinta días y podrán renovarse conforme a lo establecido en el Artículo 56 de la presente Ley.
+
+Durante el periodo de licencia, el trabajador conservará íntegros sus derechos laborales, antigüedad, prestaciones y seguridad social, sin que pueda ser despedido, sancionado o afectado por su estado de salud.
+
+Se prohíbe todo acto de discriminación, despido, hostigamiento o represalia laboral en contra de las personas trabajadoras que padezcan enfermedades autoinmunes o que se encuentren bajo incapacidad o licencia médica derivada de las mismas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2024)</small>
 
@@ -4284,3 +4294,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 363.- SE ADICIONA UN ARTÍCULO 54 QUATER AL CAPÍTULO IV, DENOMINADO VACACIONES Y LICENCIAS, DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
