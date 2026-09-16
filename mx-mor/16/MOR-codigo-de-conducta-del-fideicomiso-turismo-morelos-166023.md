@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-fideicomiso-turismo-morelos-166023"
 country: "mx"
 rank: "codigo"
 publication_date: "2023-05-10"
-last_updated: "2023-05-10"
+last_updated: "2026-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL FIDEICOMISO TURISMO MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DEL FIDEICOMISO TURISMO MORELOS, PUBLICADO EN EL P.O. DE 16 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL FIDEICOMISO TURISMO MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026 (ABROGADO).
 
 Código publicado en el Número 6194 del Periódico Oficial del Estado de Morelos, el miércoles 10 de mayo de 2023.
 
@@ -296,3 +298,13 @@ C. ESTHER ELENA PEÑA NÚÑEZ.
 DIRECTORA GENERAL DEL FIDEICOMISO TURISMO MORELOS.
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "CÓDIGO DE CONDUCTA DEL FIDEICOMISO TURISMO MORELOS".]</small>
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDA. Se abroga el Código de Conducta del Fideicomiso Turismo Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 6194, de fecha 10 de mayo de 2023.
