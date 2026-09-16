@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2026-04-08"
+last_updated: "2026-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -199,13 +199,17 @@ El Estado de Zacatecas está constituido conforme a los principios del pacto fed
 
 El Estado de Zacatecas es Libre y Soberano en todo lo concerniente a su régimen interior y, por ser parte integrante de la Federación, tiene como ley suprema la Constitución Política de los Estados Unidos Mexicanos. Las facultades que esta Carta Magna no otorga expresamente a los Poderes de la Unión se entienden reservadas para el Estado.
 
-Son potestades del Estado de Zacatecas expedir su propia Constitución, sin otra limitación que la de no contravenir los principios inscritos en la Constitución Política de los Estados Unidos Mexicanos; formular y promulgar todas las leyes necesarias para regir las funciones públicas y la convivencia social dentro de su territorio, con excepción de los ordenamientos relativos a materias que son de la competencia exclusiva del Poder Legislativo Federal; y elegir o designar libremente a los titulares de los Poderes Legislativo, Ejecutivo y Judicial del Estado, los que ejercerán sus funciones con plena autonomía unos respecto de los otros y sin injerencia alguna de los demás Estados ni de la Federación.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Son potestades del Estado de Zacatecas expedir su propia Constitución, sin otra limitación que la de no contravenir los principios inscritos en la Constitución Política de los Estados Unidos Mexicanos; formular y promulgar todas las leyes necesarias para regir las funciones públicas y la convivencia social dentro de su territorio, con excepción de los ordenamientos relativos a materias que son de la competencia exclusiva del Poder Legislativo Federal; y elegir o designar libremente a las personas titulares de los Poderes Legislativo, Ejecutivo y Judicial del Estado, quienes ejercerán sus funciones con plena autonomía unos respecto de los otros y sin injerencia alguna de los demás Estados ni de la Federación.
 
 Posee, además, el atributo de intervenir, a través de la Legislatura del Estado, en todo proceso de reformas a la Constitución Política de los Estados Unidos Mexicanos, así como de participar en la formación de las leyes federales, mediante el ejercicio de la facultad de iniciativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 3°.
 
-La Constitución Política de los Estados Unidos Mexicanos, esta Constitución, y las leyes que de ellas emanen, integran el orden jurídico a que están sujetos gobernantes y gobernados.
+La Constitución Política de los Estados Unidos Mexicanos, esta Constitución, y las leyes que de ellas emanen, integran el orden jurídico a que están sujetas las personas gobernantes y las personas gobernadas.
 
 Todas las personas que ejercen funciones de autoridad sólo deben hacer lo que el orden jurídico les autoriza. Los particulares pueden hacer lo que está permitido por la ley y no está prohibido por ella. Unos y otros están obligados a cumplir lo que las leyes ordenan.
 
@@ -253,57 +257,71 @@ La ciudad de Zacatecas es la capital del Estado y sede de sus tres Poderes, ning
 
 Todas las personas que se encuentren eventual o permanentemente en el territorio del Estado quedan sujetas a sus leyes y bajo el amparo de las mismas en la forma y términos que establezcan.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 11.
 
-Son habitantes del Estado todos los individuos que tienen su residencia en el mismo, aun cuando por razón de sus negocios o en el desempeño de un cargo de elección popular se ausenten temporalmente.
+Son habitantes del Estado las personas que tienen su residencia en el mismo, aun cuando por razón de sus negocios o en el desempeño de un cargo de elección popular se ausenten temporalmente.
 
-### CAPÍTULO QUINTO. DE LOS ZACATECANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+### CAPÍTULO QUINTO. DE LAS ZACATECANAS Y ZACATECANOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 12.
 
-Son zacatecanos:
+Son zacatecanas y zacatecanos:
 
-I. Los nacidos dentro del territorio del Estado; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-II. Los mexicanos nacidos fuera del territorio del Estado, siempre que sean hijos de padres zacatecanos, o de padre o madre zacatecano.
+I. Las personas nacidas dentro del territorio del Estado; y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+II. Las personas mexicanas nacidas fuera del territorio del Estado, siempre que sean hijas o hijos de padres zacatecanos, o de padre zacatecano o madre zacatecana.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
 Las personas que reúnan cualquiera de los requisitos previstos en las dos fracciones anteriores, para gozar de todos los derechos y prerrogativas establecidos a favor de los zacatecanos por la presente Constitución, deberán residir en el territorio del Estado.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Para el ejercicio de los derechos y prerrogativas en materia electoral, se entenderá que los zacatecanos tienen residencia binacional y simultánea en el extranjero y en territorio del Estado, cuando sin perjuicio de que tengan residencia en otro país, acrediten que por lo menos seis meses antes del día de la elección, poseen:
+Para el ejercicio de los derechos y prerrogativas en materia electoral, se entenderá que las personas zacatecanas tienen residencia binacional y simultánea en el extranjero y en territorio del Estado, cuando sin perjuicio de que tengan residencia en otro país, acrediten que por lo menos seis meses antes del día de la elección, poseen:
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
 a). Domicilio propio, no convencional, en territorio del Estado;
 
 b). (DEROGADO, P.O. 19 DE ABRIL DE 2008)
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+
 c). Clave Única de Registro de Población; y
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
 d). Credencial para Votar con Fotografía.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Los zacatecanos serán preferidos frente a quienes no lo sean, para toda clase de concesiones que deban otorgar los gobiernos del Estado o de sus Municipios, y en la asignación de empleos, cargos o comisiones, remunerados u honoríficos, que corresponda discernir a dichos gobiernos.
+Las personas zacatecanas serán preferidas frente a quienes no lo sean, para toda clase de concesiones que deban otorgar los gobiernos del Estado o de sus Municipios, y en la asignación de empleos, cargos o comisiones, remunerados u honoríficos, que corresponda discernir a dichos gobiernos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-### CAPÍTULO SEXTO. DE LAS Y LOS CIUDADANOS ZACATECANOS
+### CAPÍTULO SEXTO. DE LA CIUDADANÍA ZACATECANA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 13.
 
-Son ciudadanas y ciudadanos del Estado:
+Son personas ciudadanas del Estado:
 
-I. Los zacatecanos que han cumplido dieciocho años y tienen un modo honesto de vivir;
+I. Las personas zacatecanas que han cumplido dieciocho años y tienen un modo honesto de vivir;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+II. Las personas mexicanas vecinas del Estado, con residencia de por lo menos seis meses, incluyendo la residencia binacional y simultánea, en los términos y con los requisitos que establezca la ley.
 
-II. Los mexicanos vecinos del Estado, con residencia de por lo menos seis meses, incluyendo la residencia binacional y simultánea, en los términos y con los requisitos que establezca la ley.
-
-III. Los mexicanos a quienes la Legislatura del Estado, con pleno conocimiento de causa, declare zacatecanos en virtud de haber prestado servicios de alta significación para el desarrollo material y cultural de la Entidad.
+III. Las personas mexicanas a quienes la Legislatura del Estado, con pleno conocimiento de causa, otorgue la ciudadanía zacatecana en virtud de haber prestado servicios de alta significación para el desarrollo material y cultural de la Entidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
 
@@ -311,9 +329,9 @@ III. Los mexicanos a quienes la Legislatura del Estado, con pleno conocimiento d
 
 Son derechos de la ciudadanía:
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-I. Votar en las elecciones y consultas populares, en los términos que señale la ley. Las ciudadanas y los ciudadanos con residencia en el extranjero, podrán votar para la elección de Gobernador;
+I. Votar en las elecciones y consultas populares, en los términos que señale la ley. Las ciudadanas y los ciudadanos con residencia en el extranjero, podrán votar para la elección de Gobernadora o Gobernador;
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
 
@@ -379,7 +397,9 @@ V. Por sentencia ejecutoria que imponga como pena la suspensión.
 
 La ciudadanía zacatecana se pierde:
 
-I. Por dejar de ser ciudadano mexicano; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+I. Por dejar de ser ciudadana o ciudadano mexicano; y
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -403,7 +423,9 @@ III. Por extinción de la pena, concluir el término o cesar las causas de la su
 
 Las leyes determinarán la autoridad a la que corresponda resolver la suspensión, pérdida o restitución de los derechos ciudadanos, y los términos y requisitos con que ha de dictarse el fallo respectivo.
 
-### CAPÍTULO SÉPTIMO. DE LOS EXTRANJEROS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+### CAPÍTULO SÉPTIMO. DE LAS PERSONAS EXTRANJERAS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
@@ -445,29 +467,29 @@ La mujer y el hombre son iguales ante la ley y deben gozar de las mismas oportun
 
 El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres y reconoce la equidad entre los géneros como principio necesario para el desarrollo del pueblo zacatecano; las autoridades deberán promover este postulado para lograr una sociedad más justa y equitativa y la ley determinará las acciones que deban aplicarse para el cumplimiento de este fin.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 23.
 
-En el Estado de Zacatecas funcionará una Comisión de Derechos Humanos del Estado de Zacatecas, como organismo descentralizado de la Administración Pública, de carácter autónomo, con personalidad jurídica, autonomía presupuestaria y de gestión, cuyos servicios serán gratuitos, encargado de la defensa y promoción de los derechos humanos, además, contará con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos de la Comisión, mismo que será designado por la votación (sic) las dos terceras partes de los miembros presentes de la Legislatura del Estado. La Legislatura del Estado propondrá y designará a su Presidente y Consejeros, ajustándose a un procedimiento de consulta pública, el cual deberá ser transparente e informado, en los términos y condiciones que determine la ley; y expedirá el ordenamiento que regule sus funciones, en concordancia con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
+En el Estado de Zacatecas funcionará una Comisión de Derechos Humanos del Estado de Zacatecas, como organismo descentralizado de la Administración Pública, de carácter autónomo, con personalidad jurídica, autonomía presupuestaria y de gestión, cuyos servicios serán gratuitos, encargado de la defensa y promoción de los derechos humanos, además, contará con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos de la Comisión, mismo que será designado por la votación de las dos terceras partes de las personas legisladoras presentes de la Legislatura del Estado. La Legislatura del Estado propondrá y designará a las personas titulares de la Presidencia y Consejerías, ajustándose a un procedimiento de consulta pública, el cual deberá ser transparente e informado, en los términos y condiciones que determine la ley; y expedirá el ordenamiento que regule sus funciones, en concordancia con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-La Comisión de Derechos Humanos del Estado de Zacatecas, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, la Legislatura del Estado o en sus recesos la Comisión Permanente, según corresponda, podrán llamar, a solicitud de la Comisión de Derechos Humanos del Estado de Zacatecas, a las autoridades o servidores públicos responsables para que comparezcan y expliquen el motivo de su negativa, lo anterior sin perjuicio de la instauración del juicio establecido en la fracción VI del artículo 101 de esta Constitución.
+La Comisión de Derechos Humanos del Estado de Zacatecas, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Toda persona servidora pública está obligada a responder las recomendaciones que les presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o personas servidoras públicas, éstas deberán fundar, motivar y hacer pública su negativa; además, la Legislatura del Estado o en sus recesos la Comisión Permanente, según corresponda, podrán llamar, a solicitud de la Comisión de Derechos Humanos del Estado de Zacatecas, a las autoridades o personas servidoras públicas responsables para que comparezcan y expliquen el motivo de su negativa, lo anterior sin perjuicio de la instauración del juicio establecido en la fracción VI del artículo 101 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
 La Comisión de Derechos Humanos del Estado de Zacatecas, no será competente tratándose de asuntos electorales y jurisdiccionales.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-El Gobernador o la Legislatura del Estado, podrán solicitar a Comisión de Derechos Humanos del Estado de Zacatecas, investigar hechos que por sus características constituyan violaciones graves de derechos humanos. El desarrollo de este procedimiento ejercerá facultades de autoridad investigadora en los términos de ley, sin que autoridad alguna pueda negarle la información que requiera. La Comisión mantendrá la reserva de la información que se le proporcione con ese carácter. Cuando así proceda, presentará las denuncias ante la autoridad competente.
+El Gobernador o Gobernadora o la Legislatura del Estado podrán solicitar a la Comisión de Derechos Humanos del Estado de Zacatecas, investigar hechos que por sus características constituyan violaciones graves de derechos humanos. El desarrollo de este procedimiento ejercerá facultades de autoridad investigadora en los términos de ley, sin que autoridad alguna pueda negarle la información que requiera. La Comisión mantendrá la reserva de la información que se le proporcione con ese carácter. Cuando así proceda, presentará las denuncias ante la autoridad competente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 24.
 
-El Gobierno del Estado brindará protección y defensa a los derechos humanos de los zacatecanos que residan en otra entidad federativa, y coadyuvará con la Federación cuando residan en otro país.
+El Gobierno del Estado brindará protección y defensa a los derechos humanos de las personas zacatecanas que residan en otra entidad federativa, y coadyuvará con la Federación cuando residan en otro país.
 
 El Estado combatirá en sus causas la migración que lesiona la dignidad humana
 
@@ -587,13 +609,13 @@ Las estudiantes y los estudiantes de nivel básico del sistema de educación pú
 
 En el caso de las estudiantes y los estudiantes que se encuentren en condiciones de pobreza o vulnerabilidad, la ley fijará los términos de prioridad a efecto de garantizar la equidad en el derecho a la educación.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-La educación que se imparta en el Estado, en todos sus grados y niveles, tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará el amor a la Patria y el respeto a los derechos humanos y la conciencia de solidaridad nacional e internacional, en la independencia y la justicia. Asimismo, formará en el educando hábitos, costumbres, comportamientos, actitudes y valores que propicien la convivencia pacífica y exalten la libertad como herramienta de lucha contra los privilegios injustos, consoliden la democracia como sistema de vida y fuente legítima de la voluntad soberana del Pueblo, promuevan la justa distribución de los bienes y los servicios entre todos los habitantes, desarrollen los conocimientos y destrezas de la población y contribuyan al surgimiento de una sociedad mejor en todos los órdenes.
+La educación que se imparta en el Estado, en todos sus grados y niveles, tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará el amor a la Patria y el respeto a los derechos humanos y la conciencia de solidaridad nacional e internacional, en la independencia y la justicia. Asimismo, formará en el educando hábitos, costumbres, comportamientos, actitudes y valores que propicien la convivencia pacífica y exalten la libertad como herramienta de lucha contra los privilegios injustos, consoliden la democracia como sistema de vida y fuente legítima de la voluntad soberana del Pueblo, promuevan la justa distribución de los bienes y los servicios entre sus habitantes, desarrollen los conocimientos y destrezas de la población y contribuyan al surgimiento de una sociedad mejor en todos los órdenes.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-El sistema educativo estatal formará a los alumnos para que sus vidas se orienten por los conceptos de: justicia, democracia, respeto al Estado de Derecho y respeto a los derechos humanos. Fomentará en ellos, la cultura de la legalidad y la cultura de la paz. Facilitará el conocimiento de los valores de la paz para lograr el entendimiento y la concordia entre los seres humanos, el respeto, la tolerancia y el diálogo; difundirá como métodos de solución de conflictos: la negociación, la conciliación y la mediación, a fin de que los educandos erradiquen toda clase de violencia y aprendan a vivir en paz.
+El sistema educativo estatal formará al alumnado para que sus vidas se orienten por los conceptos de: justicia, democracia, respeto al Estado de Derecho y respeto a los derechos humanos. Fomentará en ellos, la cultura de la legalidad y la cultura de la paz. Facilitará el conocimiento de los valores de la paz para lograr el entendimiento y la concordia entre los seres humanos, el respeto, la tolerancia y el diálogo; difundirá como métodos de solución de conflictos: la negociación, la conciliación y la mediación, a fin de que los educandos erradiquen toda clase de violencia y aprendan a vivir en paz.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
 
@@ -617,23 +639,25 @@ En el Estado de Zacatecas, a trabajo igual corresponde salario igual, sin tener 
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza, en los términos de la ley de la materia.
 
-Para el cumplimiento de los fines que menciona este artículo, el Estado creará los organismos que sean necesarios para la capacitación de aquellos individuos que queden sujetos a leyes restrictivas de su libertad y deban someterse a procesos de rehabilitación y adaptación a la vida humana en la comunidad de que forman parte.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Se establecerán en la ley prerrogativas para las empresas que privilegien la creación de empleos, realicen acciones concretas para proteger el salario de los trabajadores y el ingreso de la población en general; y produzcan, distribuyan o comercialicen bienes y servicios socialmente necesarios, en condiciones de precio y calidad mejores que los prevalecientes en el mercado.
+Para el cumplimiento de los fines que menciona este artículo, el Estado creará los organismos que sean necesarios para la capacitación de aquellas personas que queden sujetas a leyes restrictivas de su libertad y deban someterse a procesos de rehabilitación y adaptación a la vida humana en la comunidad de que forman parte.
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Para la atención de los conflictos laborales, los trabajadores y los patrones, antes de acudir a los juzgados laborales, deberán asistir ante la instancia conciliatoria que la Ley determine.
+Se establecerán en la ley prerrogativas para las empresas que privilegien la creación de empleos, realicen acciones concretas para proteger el salario de las personas trabajadoras y el ingreso de la población en general; y produzcan, distribuyan o comercialicen bienes y servicios socialmente necesarios, en condiciones de precio y calidad mejores que los prevalecientes en el mercado.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Para la atención de los conflictos laborales, las personas trabajadoras y los patrones, antes de acudir a los juzgados laborales, deberán asistir ante la instancia conciliatoria que la Ley determine.
 
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
 
 La función conciliatoria estará a cargo de un organismo descentralizado de la administración pública, el cual contará con personalidad jurídica y patrimonio propios, dotado con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, que se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento estará determinada en la Ley.
 
-(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 193/2025, DECLARÓ LA INVALIDEZ DEL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2025)</small>
-
-EL ORGANISMO DESCENTRALIZADO TAMBIÉN TENDRÁ COMPETENCIA PARA CONOCER DE LOS ASUNTOS RELACIONADOS CON EL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS SINDICATOS DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y LOS MUNICIPIOS, Y CONOCERÁ DE LOS RECURSOS DE REVISIÓN QUE INTERPONGAN LOS PARTICULARES RESPECTO DE LAS RESOLUCIONES DE LOS MISMOS.
+El organismo descentralizado también tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública de los sindicatos de las personas trabajadoras al servicio de los Poderes del Estado y los municipios, y conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los mismos.
 
 ###### Artículo 29.
 
@@ -713,7 +737,9 @@ Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas jud
 
 Las personas titulares de los órganos jurisdiccionales locales deberán resolver los asuntos que se sometan a su jurisdicción, conforme a los plazos y términos de la materia de que se trate. En caso de que no se cumpla con los plazos y términos que correspondan, a instancia de parte, se deberá dar aviso de inmediato al Tribunal de Disciplina Judicial del Estado y justificar las razones de dicha demora o, en su caso, dar vista al Órgano Interno de Control que corresponda.
 
-El Estado proveerá a la defensa y representación gratuita de todo individuo cuya condición social le impida hacer valer plenamente sus derechos.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+El Estado proveerá a la defensa y representación gratuita de toda persona cuya condición social le impida hacer valer plenamente sus derechos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
@@ -721,25 +747,37 @@ El Estado proveerá a la defensa y representación gratuita de todo individuo cu
 
 Toda persona tiene derecho para entrar y salir libremente en el Estado de Zacatecas, viajar por su territorio y mudar de residencia, sin necesidad de carta de seguridad, pasaporte, salvoconducto u otros requisitos semejantes. Queda estrictamente prohibido detener a las personas para fines de investigación, salvo los casos de excepción previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-En caso de persecución, por motivos de orden político, los implicados se ajustarán a la Constitución Política de los Estados Unidos Mexicanos.
+En caso de persecución, por motivos de orden político, las personas implicadas se ajustarán a la Constitución Política de los Estados Unidos Mexicanos.
 
-Todo detenido tiene derecho a que las autoridades le permitan se comunique con personas de su confianza, para proveer a su defensa.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-En toda averiguación previa, el indiciado que estuviere detenido tendrá derecho a nombrar defensor y aportar las pruebas que estime pertinentes, las que se desahogarán si su naturaleza y las circunstancias del caso lo permiten.
+Toda persona detenida tiene derecho a que las autoridades le permitan se comunique con personas de su confianza, para proveer a su defensa.
 
-Las autoridades que tengan bajo su custodia a un detenido por delitos o faltas del orden común, tienen la obligación de proporcionarle alimentación y asistencia médica, con cargo a su presupuesto.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Compete a la autoridad administrativa la aplicación de sanciones por infracciones a los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará la pena pecuniaria por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+En toda averiguación previa, la persona indiciada que estuviere detenida tendrá derecho a nombrar persona defensora y aportar las pruebas que estime pertinentes, las que se desahogarán si su naturaleza y las circunstancias del caso lo permiten.
 
-El arresto comenzará a computarse desde el momento mismo de la detención. Quien efectúe la detención está obligado a poner al infractor a disposición de la autoridad competente dentro del término de tres horas y ésta a su vez a fijar la sanción alternativa en un plazo no mayor de dos horas.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Si el infractor es menor de dieciocho años y dependiente económico de otra persona, la multa será acorde a las condiciones económicas de la persona de quien el menor dependa.
+Las autoridades que tengan bajo su custodia a una persona detenida por delitos o faltas del orden común, tienen la obligación de proporcionarle alimentación y asistencia médica, con cargo a su presupuesto.
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud, el deporte, como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres purgarán sus penas en lugares separados a los destinados a los hombres para tal efecto.
+Compete a la autoridad administrativa la aplicación de sanciones por infracciones a los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si la persona infractora no pagare la multa que se le hubiere impuesto, se permutará la pena pecuniaria por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+El arresto comenzará a computarse desde el momento mismo de la detención. Quien efectúe la detención está obligado a poner a la persona infractora a disposición de la autoridad competente dentro del término de tres horas y ésta a su vez a fijar la sanción alternativa en un plazo no mayor de dos horas.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Si la persona infractora es menor de dieciocho años y dependiente económico de otra persona, la multa será acorde a las condiciones económicas de la persona de quien el menor dependa.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud, el deporte, como medios para lograr la reinserción de la persona sentenciada a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres purgarán sus penas en lugares separados a los destinados a los hombres para tal efecto.
 
 La violación de este precepto será causa de responsabilidad de acuerdo a lo previsto por la ley de la materia.
 
@@ -771,15 +809,15 @@ Se deberá establecer un sistema de índices de calidad de los servicios públic
 
 ### CAPÍTULO PRIMERO. DE LOS PROCESOS ELECTORALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 35.
 
-Corresponde al Estado garantizar la integración de los poderes públicos en los términos que disponen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen. En consecuencia, la organización, preparación y realización de las elecciones de sus titulares, cuando su renovación deba hacerse por la vía comicial, es competencia del Instituto Nacional Electoral y del Instituto Electoral del Estado de Zacatecas y a la vez derecho de los ciudadanos, quienes podrán participar como candidatos y candidatas de manera independiente y, de los partidos políticos, quienes intervendrán de manera concurrente, en los términos que las leyes de la materia determinen.
+Corresponde al Estado garantizar la integración de los poderes públicos en los términos que disponen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen. En consecuencia, la organización, preparación y realización de las elecciones de sus titulares, cuando su renovación deba hacerse por la vía comicial, es competencia del Instituto Nacional Electoral y del Instituto Electoral del Estado de Zacatecas y a la vez derecho de la ciudadanía, quienes podrán participar como candidatos y candidatas de manera independiente y, de los partidos políticos, quienes intervendrán de manera concurrente, en los términos que las leyes de la materia determinen.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-La elección local ordinaria para elegir Gobernador o Gobernadora, diputadas y diputados y Ayuntamientos, así como de Magistradas y Magistrados, Juezas y Jueces, del Poder Judicial del Estado, se celebrará el primer domingo de junio del año que corresponda.
+La elección local ordinaria para elegir Gobernadora o Gobernador, diputadas y diputados y Ayuntamientos, así como Magistradas y Magistrados, Juezas y Jueces del Poder Judicial del Estado, se celebrará el primer domingo de junio del año que corresponda.
 
 > <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
 
@@ -789,9 +827,9 @@ La renovación del Poder Judicial se realizará mediante elecciones auténticas 
 
 La ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Estatal y sus equivalentes en los Municipios. En la integración de los organismos autónomos se observará el mismo principio.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-La elección local ordinaria para elegir Gobernador, Diputadas y Diputados y Ayuntamientos, se celebrará el primer domingo de junio del año que corresponda.
+La elección local ordinaria para elegir Gobernadora o Gobernador, Diputadas y Diputados y Ayuntamientos, se celebrará el primer domingo de junio del año que corresponda.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
@@ -805,19 +843,19 @@ A efecto de garantizar la aplicación del principio de paridad de género, y la 
 
 Además de lo dispuesto en la ley general, la ley local regulará el régimen aplicable a la postulación, registro, derechos y obligaciones de las candidaturas independientes.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 36.
 
-Los servidores públicos del Estado y de los Municipios, en el ámbito de sus competencias y con sujeción a la ley, garantizarán la libertad del sufragio y sancionarán la violación a las garantías individuales, el ataque a las instituciones democráticas y los actos que impidan la participación de los ciudadanos en la vida política, económica, cultural y social del Estado. El incumplimiento en que incurra cualquier servidor público dará lugar a la aplicación de las sanciones previstas por la ley penal.
+Las personas servidoras públicas del Estado y de los Municipios, en el ámbito de sus competencias y con sujeción a la ley, garantizarán la libertad del sufragio y sancionarán la violación a las garantías individuales, el ataque a las instituciones democráticas y los actos que impidan la participación de la ciudadanía en la vida política, económica, cultural y social del Estado. El incumplimiento en que incurra cualquier persona servidora pública dará lugar a la aplicación de las sanciones previstas por la ley penal.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
+Las personas servidoras públicas tendrán en todo momento la obligación de aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad y deberán abstenerse de participar para influir en la equidad de la competencia entre los partidos políticos y las candidaturas independientes.
 
-Los servidores públicos tendrán en todo momento la obligación de aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad y deberán abstenerse de participar para influir en la equidad de la competencia entre los partidos políticos y los candidatos independientes.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 37.
 
-Las ciudadanas y los ciudadanos zacatecanos tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales, así como de consulta popular previstas por las leyes para el mejor desempeño de las atribuciones de los poderes públicos.
+Las personas zacatecanas tienen el derecho de estar representadas en todos los organismos que tengan a su cargo funciones electorales, así como de consulta popular previstas por las leyes para el mejor desempeño de las atribuciones de los poderes públicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -825,63 +863,57 @@ Las ciudadanas y los ciudadanos zacatecanos tienen el derecho de estar represent
 
 El Estado garantizará la certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad de la función electoral y de consulta popular ciudadana. La organización, preparación y realización de los procesos electorales y de consulta popular, se sujetará a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-I. Se ejercerá a través del Instituto Nacional Electoral y de un organismo público local electoral de carácter permanente, denominado Instituto Electoral del Estado de Zacatecas, que gozará de autonomía en su funcionamiento e independencia en sus decisiones, dotado de personalidad jurídica y patrimonio propio, en cuya integración participan los partidos políticos con registro y los ciudadanos, en los términos ordenados por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia;
+I. Se ejercerá a través del Instituto Nacional Electoral y de un organismo público local electoral de carácter permanente, denominado Instituto Electoral del Estado de Zacatecas, que gozará de autonomía en su funcionamiento e independencia en sus decisiones, dotado de personalidad jurídica y patrimonio propio, en cuya integración participan los partidos políticos con registro y la ciudadanía, en los términos ordenados por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMAD0 [N. DE E. ESTE PÁRRAFO], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-II. El Instituto Electoral del Estado de Zacatecas, es autoridad en la materia, profesional en el desempeño de sus actividades e independiente en sus decisiones. Contará con los órganos directivos, ejecutivos, técnicos y de vigilancia que le sean indispensables para el desempeño de su función, así como con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del Instituto, mismo que será designado por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado. El Servicio Profesional Electoral Nacional determinará las bases para la incorporación del personal del Instituto al mismo. Podrá de acuerdo con la ley, introducir las modalidades y los avances tecnológicos para el ejercicio del sufragio popular, preservando su calidad de universal, libre, secreto y directo;
+II. El Instituto Electoral del Estado de Zacatecas, es autoridad en la materia, profesional en el desempeño de sus actividades e independiente en sus decisiones. Contará con los órganos directivos, ejecutivos, técnicos y de vigilancia que le sean indispensables para el desempeño de su función, así como con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del Instituto, cuya persona titular será designada por la votación de las dos terceras partes de las personas legisladoras presentes de la Legislatura del Estado. El Servicio Profesional Electoral Nacional determinará las bases para la incorporación del personal del Instituto al mismo. Podrá de acuerdo con la ley, introducir las modalidades y los avances tecnológicos para el ejercicio del sufragio popular, preservando su calidad de universal, libre, secreto y directo.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
 Las sesiones de estos órganos serán públicas, salvo los casos de excepción que la ley determine.
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-El Instituto Electoral del Estado de Zacatecas, contará con una Oficialía Electoral, integrada por servidores públicos investidos de fe pública para actos o hechos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley;
+El Instituto Electoral del Estado de Zacatecas, contará con una Oficialía Electoral, integrada por personas servidoras públicas investidas de fe pública para actos o hechos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-III. El Consejo General es el órgano superior de dirección y se integra con un Consejero Presidente y seis consejeros electorales. El Consejero Presidente y los consejeros electorales durarán en su cargo siete años y no podrán ser reelectos para otro período;
+III. El Consejo General es el órgano superior de dirección y se integra con una Consejera Presidenta o un Consejero Presidente y seis personas consejeras electorales. Las personas Consejeras Electorales durarán en su cargo siete años y no podrán ser reelectas para otro período;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-IV. El Consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia.
+IV. Las personas Consejeras Electorales serán designadas por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia.
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+Para ser elegibles deberán ser originarias del Estado de Zacatecas o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, salvo en los casos de ausencia por servicio público, educativo o de investigación por un tiempo menor a seis meses, así como cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley.
 
-El Consejero Presidente y los consejeros electorales deberán ser originarios del Estado de Zacatecas o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, salvo en los casos de ausencia por servicio público, educativo o de investigación por un tiempo menor a seis meses, así como cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley.
+En caso de que ocurra una vacante de persona consejera electoral, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá una persona sustituta para concluir el periodo. Si la falta ocurriese dentro de los últimos tres años, se elegirá a una persona consejera para un nuevo periodo.
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+Las personas Consejeras Electorales percibirán una remuneración acorde con sus funciones y no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postuladas para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-En caso de que ocurra una vacante del Consejero Presidente o de consejero electoral, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el periodo. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
+Las personas Consejeras Electorales podrán ser removidas por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley;
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-El Consejero Presidente y los consejeros electorales percibirán una remuneración acorde con sus funciones y no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al termino de su encargo.
+V. Al Consejo General concurrirán con voz pero sin voto, las personas consejeras representantes del Poder Legislativo, las representantes de los partidos políticos con registro nacional y estatal y la persona titular de la Secretaría Ejecutiva;
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-El Consejero Presidente y los consejeros electorales, podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley;
+VI. Las personas consejeras representantes del Poder Legislativo serán propuestas por los grupos parlamentarios con afiliación de partido en la Legislatura. Sólo habrá una por cada grupo parlamentario. Salvo la Presidenta o el Presidente del Consejo General del Instituto, las demás personas representantes deberán tener sus respectivas suplentes, quienes serán electas en la misma forma que las propietarias;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-V. Al Consejo General concurrirán con voz pero sin voto, los consejeros representantes del Poder Legislativo, los representantes de los partidos políticos con registro nacional y estatal y el Secretario Ejecutivo;
+VII. La Consejera Presidenta o el Consejero Presidente propondrá al Consejo General una terna para la designación de la persona titular de la Secretaría Ejecutiva, que será elegida mediante el voto de las dos terceras partes de sus integrantes;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-VI. Los consejeros representantes del Poder Legislativo serán propuestos por los grupos parlamentarios con afiliación de partido en la Legislatura. Sólo habrá un consejero por cada grupo parlamentario. Salvo el Presidente del Consejo General del Instituto, los demás miembros deberán tener sus respectivos suplentes, quienes serán electos en la misma forma que los propietarios;
+VIII. Fungirán en el ámbito de su competencia, los Consejos Electorales Distritales y Municipales, los cuales se integran con una Consejera Presidenta o un Consejero Presidente, una Secretaria o Secretario Ejecutivo, cuatro personas consejeras electorales con sus respectivos suplentes, nombrados todos los cargos por las dos terceras partes del Consejo General. Los partidos políticos estatales y nacionales, podrán acreditar a sus personas representantes propietaria y suplente en cada uno de los Consejos Electorales. La persona titular de la Secretaría Ejecutiva y las personas representantes de los partidos políticos, tendrán derecho a voz pero no de voto;
 
-VII. El Consejero Presidente propondrá al Consejo General una terna para la designación del Secretario Ejecutivo, que será elegido mediante el voto de las dos terceras partes de sus integrantes;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
-
-VIII. Fungirán en el ámbito de su competencia, los Consejos Electorales Distritales y Municipales, los cuales se integran con un Consejero Presidente, un Secretario Ejecutivo, cuatro consejeros electorales con sus respectivos suplentes, nombrados todos ellos por las dos terceras partes del Consejo General. Los partidos políticos estatales y nacionales, podrán acreditar a sus representantes propietario y suplente en cada uno de los Consejos Electorales. El Secretario Ejecutivo y los representantes de los partidos políticos, tendrán derecho a voz pero no de voto;
-
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
-
-IX. Los candidatos independientes podrán acreditar a sus representantes, propietario y suplente, ante los Consejos Electorales, según la elección en que participen y ante las mesas directivas de casilla correspondientes; tendrán derecho a voz pero no de voto;
+IX. Las candidaturas independientes podrán acreditar a sus personas representantes, propietaria y suplente, ante los Consejos Electorales, según la elección en que participen y ante las mesas directivas de casilla correspondientes; tendrán derecho a voz pero no de voto;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
 
@@ -943,17 +975,23 @@ XIV. El Instituto Electoral del Estado de Zacatecas, rendirá un informe de acti
 
 XV. EL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS TENDRÁ COMPETENCIA PARA CONOCER DE LOS ASUNTOS RELACIONADOS CON EL ACCESO A LA INFORMACIÓN PÚBLICA Y LA PROTECCIÓN DE DATOS PERSONALES A CARGO DE LOS PARTIDOS POLÍTICOS LOCALES, TAMBIÉN CONOCERÁ DE LOS RECURSOS DE REVISIÓN QUE INTERPONGAN LOS PARTICULARES RESPECTO DE LAS RESOLUCIONES DE LOS PARTIDOS POLÍTICOS DE LA ENTIDAD, EN LOS TÉRMINOS QUE ESTABLEZCA LA LEY.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 39.
 
-Tanto en el ámbito estatal como en el distrital y municipal se podrá solicitar a un representante del Colegio de Notarios Públicos del Estado para que funja como fedatario en los casos que sea necesario.
+Tanto en el ámbito estatal como en el distrital y municipal se podrá solicitar a una persona representante del Colegio de Notarios Públicos del Estado para que funja como fedatario en los casos que sea necesario.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 40.
 
-Las mesas directivas de las casillas encargadas de recibir la votación estarán integradas por ciudadanos. La ley electoral determinará el procedimiento para nombrarlos.
+Las mesas directivas de las casillas encargadas de recibir la votación estarán integradas por ciudadanas y ciudadanos. La ley electoral determinará el procedimiento para nombrarlos.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 41.
 
-La declaratoria de validez de las elecciones de Diputados por los principios de mayoría relativa y de representación proporcional, de Ayuntamientos y de Regidores de representación proporcional, es facultad de los organismos públicos previstos en el artículo 38 de esta Constitución, mediante los requisitos y procedimientos que establezca la ley electoral. Con base en la declaratoria de validez, los propios organismos otorgarán las constancias de acreditación a quienes favorezcan los resultados.
+La declaratoria de validez de las elecciones de Diputadas y Diputados por los principios de mayoría relativa y de representación proporcional, de Ayuntamientos y de Regidurías de representación proporcional, es facultad de los organismos públicos previstos en el artículo 38 de esta Constitución, mediante los requisitos y procedimientos que establezca la ley electoral. Con base en la declaratoria de validez, los propios organismos otorgarán las constancias de acreditación a quienes favorezcan los resultados.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -969,19 +1007,29 @@ Se establecerá un sistema de medios de impugnación contra actos o resoluciones
 
 A. El Tribunal de Justicia Electoral del Estado de Zacatecas, es la autoridad jurisdiccional especializada en materia electoral, dotado de personalidad jurídica y patrimonio propio; de carácter permanente y con plena autonomía en su funcionamiento e independencia en sus decisiones. Deberá cumplir sus funciones bajo los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y probidad.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-El Tribunal de Justicia Electoral del Estado de Zacatecas, se integrará por tres magistraturas, que actuarán en forma colegiada y permanecerán en su encargo durante siete años; serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, mediante convocatoria pública y conforme a lo dispuesto en el reglamento respectivo, y deberán reunir los requisitos establecidos en la Ley General de Instituciones y Procedimientos Electorales. El magistrado presidente será designado por votación mayoritaria de los magistrados integrantes del Pleno y la Presidencia deberá ser rotatoria, de conformidad con lo dispuesto en la ley.
+El Tribunal de Justicia Electoral del Estado de Zacatecas, se integrará por tres magistraturas, que actuarán en forma colegiada y permanecerán en su encargo durante siete años; serán electas en forma escalonada por las dos terceras partes de las y los integrantes presentes de la Cámara de Senadores, mediante convocatoria pública y conforme a lo dispuesto en el reglamento respectivo, y deberán reunir los requisitos establecidos en la Ley General de Instituciones y Procedimientos Electorales. La magistrada presidenta o magistrado presidente será designada o designado por votación mayoritaria de las magistraturas integrantes del Pleno y la Presidencia deberá ser rotatoria, de conformidad con lo dispuesto en la ley.
 
-Durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Tribunal, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Las leyes establecerán los impedimentos, excusas y causas de remoción de los magistrados.
+Durante el periodo de su encargo, las magistradas y los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Tribunal, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
 
-Los magistrados desempeñarán su cargo en igualdad de condiciones a los integrantes de los demás órganos de justicia del Estado. Gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Concluido su encargo los magistrados, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+Las leyes establecerán los impedimentos, excusas y causas de remoción de las magistradas y los magistrados.
 
-En caso de presentarse alguna vacante temporal de alguno de los magistrados, ésta se cubrirá de conformidad con el procedimiento que disponga su Ley Orgánica. Tratándose de una vacante definitiva, se observará el procedimiento contenido en la Ley General de Instituciones y Procedimientos Electorales. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Las magistradas y los magistrados desempeñarán su cargo en igualdad de condiciones a los integrantes de los demás órganos de justicia del Estado. Gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Concluido su encargo las magistradas y los magistrados, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postuladas o postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+En caso de presentarse alguna vacante temporal de alguna magistrada o magistrado, ésta se cubrirá de conformidad con el procedimiento que disponga su Ley Orgánica. Tratándose de una vacante definitiva, se observará el procedimiento contenido en la Ley General de Instituciones y Procedimientos Electorales. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -991,25 +1039,31 @@ B. El Tribunal de Justicia Electoral del Estado de Zacatecas, en el ámbito de s
 
 I. Las impugnaciones en las elecciones para Diputadas y Diputados locales y de Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-II. Las impugnaciones que se presenten sobre la elección de Gobernador o Gobernadora del Estado y sobre los procesos de revocación de mandato;
+II. Las impugnaciones que se presenten sobre la elección de Gobernadora o Gobernador del Estado y sobre los procesos de revocación de mandato;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-III. La realización del cómputo final de la elección de Gobernador del Estado; una vez resueltas las impugnaciones que se hubiesen interpuesto, en su caso, procederá a formular la declaración de validez de la elección y la de Gobernador electo, respecto de la candidata o candidato que hubiese obtenido el mayor número de votos;
+III. La realización del cómputo final de la elección de Gobernadora o Gobernador del Estado; una vez resueltas las impugnaciones que se hubiesen interpuesto, en su caso, procederá a formular la declaración de validez de la elección y la de Gobernadora o Gobernador electo, respecto de la candidata o candidato que hubiese obtenido el mayor número de votos.
 
 Las impugnaciones de actos y resoluciones de la autoridad electoral, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales;
 
-IV. Los conflictos o diferencias laborales entre el Instituto Electoral del Estado y sus servidores públicos, de conformidad con lo establecido en la ley general de la materia, que no pertenezcan al Servicio Profesional Electoral Nacional;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-V. Los conflictos o diferencias laborales entre el Tribunal y sus respectivos servidores;
+IV. Los conflictos o diferencias laborales entre el Instituto Electoral del Estado y las personas servidoras públicas, de conformidad con lo establecido en la ley general de la materia, que no pertenezcan al Servicio Profesional Electoral Nacional;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-VI. Las controversias que se susciten, con motivo de las determinaciones del Instituto Electoral del Estado de Zacatecas, respecto de las solicitudes de ciudadanos para constituirse en un partido político local y para iniciar procesos de revocación de mandato, en los términos que señale la Ley General de Partidos Políticos, esta Constitución y las demás leyes aplicables;
+V. Los conflictos o diferencias laborales entre el Tribunal y sus respectivas personas servidoras públicas;
 
-VII. Las impugnaciones de actos y resoluciones que violen los derechos de los ciudadanos de votar, ser votado y de afiliación libre y pacífica, en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus leyes secundarias. Para que un ciudadano pueda acudir a la jurisdicción del Tribunal por violación a sus derechos por el partido político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VI. Las controversias que se susciten, con motivo de las determinaciones del Instituto Electoral del Estado de Zacatecas, respecto de las solicitudes ciudadanas para constituirse en un partido político local y para iniciar procesos de revocación de mandato, en los términos que señale la Ley General de Partidos Políticos, esta Constitución y las demás leyes aplicables;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VII. Las impugnaciones de actos y resoluciones que violen los derechos de las y los ciudadanos de votar, ser votado y de afiliación libre y pacífica, en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus leyes secundarias. Para que una ciudadana o ciudadano pueda acudir a la jurisdicción del Tribunal por violación a sus derechos por el partido político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas; y
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
 
@@ -1017,9 +1071,9 @@ VIII. Las impugnaciones respecto de los resultados de la votación y declaració
 
 IX. Las demás que señalen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus leyes reglamentarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-C. El Tribunal de Justicia Electoral del Estado de Zacatecas contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento, así como con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del Tribunal, mismo que será designado por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado. Elaborará su anteproyecto de presupuesto de egresos y lo remitirá al Ejecutivo, a fin de que lo envíe a la Legislatura del Estado, para su estudio, discusión y, en su caso, aprobación; la Legislatura, será quien realice la revisión y fiscalización de los recursos asignados en términos de la Ley aplicable.
+C. El Tribunal de Justicia Electoral del Estado de Zacatecas contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento, así como con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del Tribunal, mismo que será designado por la votación de las dos terceras partes de las personas legisladoras presentes de la Legislatura del Estado. Elaborará su anteproyecto de presupuesto de egresos y lo remitirá al Ejecutivo, a fin de que lo envíe a la Legislatura del Estado, para su estudio, discusión y, en su caso, aprobación; la Legislatura, será quien realice la revisión y fiscalización de los recursos asignados en términos de la Ley aplicable.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -1049,17 +1103,17 @@ En caso de nulidad de la elección, se convocará a una elección extraordinaria
 
 Los partidos políticos son entidades de interés público, con registro legal ante el Instituto Nacional Electoral o ante el Instituto Electoral del Estado de Zacatecas; tienen derecho de participar en las elecciones constitucionales de los Poderes Legislativo y Ejecutivo así como de los Ayuntamientos, y tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política y como organizaciones ciudadanas, hacer posible el acceso de éstos al ejercicio del poder público. La ley determinará los derechos, obligaciones y prerrogativas que les correspondan.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-En la propaganda política o electoral que difundan los partidos, coaliciones o candidatos independientes, deberán de abstenerse de expresiones que calumnien a las personas. La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los órdenes del gobierno federal, estatal o municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+En la propaganda política o electoral que difundan los partidos, coaliciones o personas candidatas independientes, deberán de abstenerse de expresiones que calumnien a las personas. La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los órdenes del gobierno federal, estatal o municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier persona servidora pública.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
 Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes, como de los municipios y cualquier otro ente público de los tres órdenes de gobierno. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud o las necesarias para la protección civil en casos de emergencia. La ley dispondrá las sanciones que deberán imponerse por el incumplimiento de estas disposiciones, con independencia de las responsabilidades administrativas o penales que se deriven.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Los partidos políticos sólo se constituirán por ciudadanos mexicanos sin intervención de organizaciones civiles, sociales o gremiales, nacionales o extranjeras, o con objeto social diferente a la creación de partidos y sin que haya afiliación corporativa.
+Los partidos políticos sólo se constituirán por ciudadanas y ciudadanos mexicanos sin intervención de organizaciones civiles, sociales o gremiales, nacionales o extranjeras, o con objeto social diferente a la creación de partidos y sin que haya afiliación corporativa.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
 
@@ -1073,9 +1127,9 @@ La ley establecerá los plazos para la realización de los procesos partidistas 
 
 La ley determinará las normas y requisitos para su registro legal y las formas específicas de su intervención en el proceso electoral local. Del mismo modo, establecerá el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-La ley establecerá las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. La duración de las campañas será de 60 a 90 días para la elección de Gobernador y de 30 a 60 días cuando sólo se elijan diputadas y diputados locales o Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+La ley establecerá las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. La duración de las campañas será de 60 a 90 días para la elección de la Gubernatura del Estado y de 30 a 60 días cuando sólo se elijan diputadas y diputados locales o Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -1083,9 +1137,13 @@ Le será cancelado el registro al partido político local que se encuentre en lo
 
 I. No participar en un proceso electoral ordinario;
 
-II. No obtener en la elección ordinaria inmediata anterior, por lo menos el tres por ciento de la votación válida emitida en alguna de las elecciones para gobernador, diputados y ayuntamientos;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-III. No obtener por lo menos el tres por ciento de la votación válida emitida en alguna de las elecciones de gobernador, diputados y ayuntamientos, si participa coaligado;
+II. No obtener en la elección ordinaria inmediata anterior, por lo menos el tres por ciento de la votación válida emitida en alguna de las elecciones para gobernadora o gobernador, diputadas o diputados y ayuntamientos;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+III. No obtener por lo menos el tres por ciento de la votación válida emitida en alguna de las elecciones de gobernadora o gobernador, diputadas o diputados y ayuntamientos, si participa coaligado;
 
 IV. Haber dejado de cumplir con los requisitos necesarios para obtener el registro;
 
@@ -1099,11 +1157,11 @@ VII. Haberse fusionado con otro partido político.
 
 Las leyes de la materia tipificarán los delitos y determinarán las faltas en materia electoral y las sanciones que por ello deban imponerse. Asimismo, la ley que corresponda establecerá los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de los recuentos totales o parciales de votación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 44.
 
-La ley garantizará que los partidos políticos y los candidatos independientes cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y candidaturas independientes, así como sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre otros tipos de financiamiento.
+La ley garantizará que los partidos políticos y las candidaturas independientes cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y candidaturas independientes, así como sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre otros tipos de financiamiento.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -1115,29 +1173,29 @@ Los partidos políticos rendirán informe público, una vez al año, de sus movi
 
 > <small>(DEROGADO, P.O. 15 DE ABRIL DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Los ciudadanos que participen como candidatos independientes se sujetarán al régimen de fiscalización que la ley establezca.
+Las ciudadanas y ciudadanos que participen como candidatas o candidatos independientes se sujetarán al régimen de fiscalización que la ley establezca.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos, así como de las candidaturas independientes. También sobre el monto máximo que tendrán las aportaciones de sus militantes y simpatizantes.
+La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatas o candidatos y las campañas electorales de los partidos políticos, así como de las candidaturas independientes. También sobre el monto máximo que tendrán las aportaciones de sus militantes y simpatizantes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
 El financiamiento público que reciban los partidos políticos que conserven su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y para actividades especificas, se otorgará conforme a las bases siguientes y a lo que disponga la ley:
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-I. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes lo fijará anualmente la Legislatura en el Presupuesto de Egresos del Estado, de conformidad con el anteproyecto que le envíe el Instituto Electoral del Estado a más tardar el quince de noviembre de cada año. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral local, con corte al treinta y uno de julio de cada año, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización que emita el Instituto Nacional de Estadística y Geografía. El treinta por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente se asignará a los partidos en forma igualitaria, y el restante setenta por ciento se distribuirá entre los mismos, de acuerdo con el porcentaje de votos que hubiesen obtenido en la elección de Diputados inmediata anterior, siempre y cuando hubiesen obtenido como mínimo el 3% de la votación válida emitida;
+I. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes lo fijará anualmente la Legislatura en el Presupuesto de Egresos del Estado, de conformidad con el anteproyecto que le envíe el Instituto Electoral del Estado a más tardar el quince de noviembre de cada año. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanas y ciudadanos inscritos en el padrón electoral local, con corte al treinta y uno de julio de cada año, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización que emita el Instituto Nacional de Estadística y Geografía. El treinta por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente se asignará a los partidos en forma igualitaria, y el restante setenta por ciento se distribuirá entre los mismos, de acuerdo con el porcentaje de votos que hubiesen obtenido en la elección de Diputados inmediata anterior, siempre y cuando hubiesen obtenido como mínimo el 3% de la votación válida emitida;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-II. El financiamiento público de los partidos políticos para las actividades tendientes a la obtención del voto durante el año en que se elija Gobernador del Estado, Diputados Locales y Ayuntamientos, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan Diputadas y Diputados Locales y Ayuntamientos, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias;
+II. El financiamiento público de los partidos políticos para las actividades tendientes a la obtención del voto durante el año en que se elija Gobernadora o Gobernador del Estado, Diputadas y Diputados Locales y Ayuntamientos, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan Diputadas y Diputados Locales y Ayuntamientos, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-III. El financiamiento público para actividades específicas, relativas a la educación, capacitación política, equidad entre los géneros, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en el mismo año para las actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
+III. El financiamiento público para actividades específicas, relativas a la educación, capacitación política, equidad entre los géneros, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en el mismo año para las actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputadas y diputados inmediata anterior;
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
 
@@ -1185,11 +1243,11 @@ La revocación de mandato será aplicable a la persona titular del Poder Ejecuti
 
 13º. De acuerdo con la Constitución Política de los Estados Unidos Mexicanos, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 45.
 
-El referéndum es un instrumento democrático de consulta popular, por el cual, mediante el voto mayoritario de los electores, en los términos que establezca la ley, aprueba o rechaza disposiciones legislativas de notoria trascendencia para la vida común en el ámbito estatal o municipal.
+El referéndum es un instrumento democrático de consulta popular, por el cual, mediante el voto mayoritario del electorado, en los términos que establezca la ley, aprueba o rechaza disposiciones legislativas de notoria trascendencia para la vida común en el ámbito estatal o municipal.
 
 El referéndum puede ser total o parcial, según se refiera a toda una ley o solamente a algunos de sus preceptos.
 
@@ -1203,27 +1261,33 @@ En ningún caso y por ningún motivo podrá convocarse a referéndum en materia 
 
 La Legislatura del Estado convocará a referéndum a petición de:
 
-I. El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-II. El equivalente al treinta y tres por ciento de los Diputados de la Legislatura;
+I. La Gobernadora o Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+II. El equivalente al treinta y tres por ciento de las y los Diputados de la Legislatura;
 
 III. El equivalente al treinta y tres por ciento de los Ayuntamientos, que integran el Estado; o
 
-IV. Los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores en el Estado, en los términos que determine la Ley.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+IV. Las ciudadanas y ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de personas electoras en el Estado, en los términos que determine la Ley.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 El referéndum se realizará el mismo día de la jornada electoral.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Cuando la participación total en el referéndum sea superior al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores en el Estado en el mismo sentido, el resultado será vinculatorio para los poderes Legislativo y Ejecutivo locales y para las autoridades competentes.
+Cuando la participación total en el referéndum sea superior al cuarenta por ciento de las ciudadanas y los ciudadanos inscritos en la lista nominal de electores en el Estado en el mismo sentido, el resultado será vinculatorio para los poderes Legislativo y Ejecutivo locales y para las autoridades competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 46.
 
-El Plebiscito es un instrumento de consulta popular a través del cual se podrán someter a la consideración de los ciudadanos los actos de gobierno que pretendan llevar a cabo, en el ámbito estatal o municipal, para su aprobación o en su caso, desaprobación.
+El Plebiscito es un instrumento de consulta popular a través del cual se podrán someter a la consideración de las ciudadanas y los ciudadanos los actos de gobierno que pretendan llevar a cabo, en el ámbito estatal o municipal, para su aprobación o en su caso, desaprobación.
 
 El plebiscito será aplicable a los actos que corresponde efectuar a la Legislatura del Estado en lo relativo a la supresión, fusión o formación de Municipios.
 
@@ -1233,9 +1297,9 @@ Los acuerdos referentes a las tarifas de los servicios públicos no son suscepti
 
 El plebiscito se realizará el mismo día de la jornada electoral.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Cuando la participación total en el plebiscito sea superior al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores en el Estado en el mismo sentido, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo locales y para las autoridades competentes.
+Cuando la participación total en el plebiscito sea superior al cuarenta por ciento de las ciudadanas y ciudadanos inscritos en la lista nominal de electores en el Estado en el mismo sentido, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo locales y para las autoridades competentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
@@ -1243,7 +1307,9 @@ Cuando la participación total en el plebiscito sea superior al cuarenta por cie
 
 La Legislatura del Estado convocará a plebiscito en los términos que establezca la ley, a petición de:
 
-I. El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+I. La Gobernadora o Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
 
@@ -1261,9 +1327,11 @@ Cuando la materia del plebiscito afecte intereses de uno o varios municipios, po
 
 La ley reglamentaria establecerá las bases para la realización del plebiscito, aplicándose en lo conducente las normas contenidas en el artículo 45 respecto del referéndum.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 48.
 
-Se instituye el derecho de los ciudadanos para iniciar leyes, ordenanzas municipales y la adopción de las medidas conducentes a mejorar el funcionamiento de la Administración Pública, estatal y municipal. El ejercicio de este derecho estará sujeto a los requisitos, alcances, términos y procedimientos que establezcan las leyes reglamentarias.
+Se instituye el derecho de las ciudadanas y los ciudadanos para iniciar leyes, ordenanzas municipales y la adopción de las medidas conducentes a mejorar el funcionamiento de la Administración Pública, estatal y municipal. El ejercicio de este derecho estará sujeto a los requisitos, alcances, términos y procedimientos que establezcan las leyes reglamentarias.
 
 ## TÍTULO IV. DE LOS PODERES DEL ESTADO
 
@@ -1277,23 +1345,25 @@ Es obligación de los distintos órganos del poder público instituir relaciones
 
 ### CAPÍTULO PRIMERO. DEL PODER LEGISLATIVO
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 50.
 
-El Poder Legislativo se deposita en una asamblea que se nombrará “Legislatura del Estado”, integrada por representantes del Pueblo denominados Diputados, los que serán electos en su totalidad cada tres años. Contará con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de sus ingresos y egresos, mismo que será designado por las dos terceras partes de los miembros presentes de la Legislatura del Estado.
+El Poder Legislativo se deposita en una asamblea que se nombrará “Legislatura del Estado”, integrada por representantes del Pueblo denominados Diputadas y Diputados, quienes serán electas y electos en su totalidad cada tres años. Contará con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de sus ingresos y egresos, mismo que será designado por las dos terceras partes de las personas legisladoras presentes de la Legislatura del Estado.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 51.
 
-La Legislatura del Estado se integra con dieciocho diputadas y diputados electos por el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por doce diputados electos según el principio de representación proporcional, conforme al sistema de lista plurinominal votada en una sola circunscripción electoral, conformada de acuerdo con el principio de paridad, y encabezada alternadamente entre mujeres y hombres cada periodo electivo. De estos últimos, dos deberán tener al momento de la elección, la calidad de migrantes o binacionales, en los términos que establezca la ley.
+La Legislatura del Estado se integra con dieciocho diputadas y diputados electos por el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por doce diputadas y diputados electos según el principio de representación proporcional, conforme al sistema de lista plurinominal votada en una sola circunscripción electoral, conformada de acuerdo con el principio de paridad, y encabezada alternadamente entre mujeres y hombres cada periodo electivo. De estos últimos, dos deberán tener al momento de la elección, la calidad de migrantes o binacionales, en los términos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
 
 Las elecciones de Diputadas y Diputados por ambos sistemas se sujetarán a las bases establecidas en esta Constitución y a las disposiciones de la ley electoral. Las Diputadas y los Diputados de mayoría relativa y los de representación proporcional tendrán los mismos derechos y obligaciones.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Por cada Diputada o Diputado propietario se elegirá un suplente.
+Por cada Diputada o Diputado propietario se elegirá una o un suplente.
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
 
@@ -1351,31 +1421,33 @@ II. Tener veintiún años cumplidos al día de la elección;
 
 III. No estar en servicio activo en el Ejército Nacional ni tener en el Estado mando de fuerza regular o de policía, cuando menos noventa días antes de la elección;
 
-IV. No ser miembro de los órganos electorales, federales o estatales, ni prestar servicios de carácter profesional en alguno de ellos, a menos que su desempeño hubiese concluido ciento ochenta días antes de la jornada electoral. Se exceptúan de tal prohibición los representantes de los partidos políticos;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+IV. No ser integrante de los órganos electorales, federales o estatales, ni prestar servicios de carácter profesional en alguno de ellos, a menos que su desempeño hubiese concluido ciento ochenta días antes de la jornada electoral. Se exceptúan de tal prohibición los representantes de los partidos políticos;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
 V. No haber sido persona Consejera del Órgano de Administración Judicial, Magistradas o Magistrados, Juezas o Jueces del Tribunal Superior de Justicia, Magistrada o Magistrado del Tribunal de Disciplina Judicial, a menos que haya concluido su encargo o se haya separado del mismo, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función;
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-V-B. No haber sido durante el año previo a la elección titular de las dependencias que menciona la Ley Orgánica de la Administración Pública del Estado, así como subsecretario, a cargo de unidades administrativas de dichas dependencias que ejerzan presupuesto o programas gubernamentales;
+V-B. No ser titular de las dependencias que menciona la Ley Orgánica de la Administración Pública del Estado, así como de subsecretarías, a cargo de unidades administrativas de dichas dependencias, que ejerzan presupuesto o programas gubernamentales, cuando menos noventa días antes de la elección;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-VI. No ser titular de unidad administrativa ni oficina recaudadora de la Secretaría de Finanzas; Presidente Municipal, Secretario de Gobierno Municipal, ni Tesorero Municipal, cuando menos noventa días antes de la elección;
+VI. No ser titular de unidad administrativa ni oficina recaudadora de la Secretaría de Finanzas; de la Presidencia Municipal, Secretaría de Gobierno Municipal, ni Tesorería Municipal, cuando menos noventa días antes de la elección;
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
 VII. No pertenecer al estado eclesiástico ni ser persona ministra de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-VIII. No ser Consejero Presidente o consejero electoral del Consejo General del Instituto Electoral del Estado de Zacatecas, a menos que haya concluido su encargo o se hubiere separado del mismo, dos años antes de la fecha de inicio del proceso electoral local correspondiente; y
+VIII. No ser Titular de la Presidencia del Consejo, o persona consejera electoral del Consejo General del Instituto Electoral del Estado de Zacatecas, a menos que haya concluido su encargo o se hubiere separado del mismo, dos años antes de la fecha de inicio del proceso electoral local correspondiente;
 
-> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-IX. No ser Magistrado Presidente o Magistrado del Tribunal de Justicia Electoral del Estado de Zacatecas, a menos que haya concluido su encargo o se haya separado del mismo, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+IX. No ser Magistrada o Magistrado Presidente, Magistrada o Magistrado del Tribunal de Justicia Electoral del Estado de Zacatecas, a menos que haya concluido su encargo o se haya separado del mismo, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1393,31 +1465,43 @@ XII. No estar inscrito o tener registro vigente como persona deudora alimentaria
 
 XIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o relación de pareja, parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 54.
 
-El diputado en ejercicio no puede desempeñar otro cargo de elección popular, y para cumplir alguna comisión de la Federación, de éste u otro Estado o Municipio, o de gobierno extranjero, necesita permiso previo de la Legislatura o de la Comisión Permanente; si infringe esta disposición, perderá su condición de diputado previo el trámite correspondiente.
+La diputada o diputado en ejercicio no puede desempeñar otro cargo de elección popular, y para cumplir alguna comisión de la Federación, de éste u otro Estado o Municipio, o de gobierno extranjero, necesita permiso previo de la Legislatura o de la Comisión Permanente; si infringe esta disposición, perderá su condición de diputado previo el trámite correspondiente.
 
-Ningún ciudadano podrá, sin motivo justificado, excusarse de desempeñar el cargo de Diputado. Sólo la Legislatura tiene la facultad de resolver si es de admitirse la excusa y, en caso de renuncia, si es de aceptarse.
+Ninguna ciudadana o ciudadano podrá, sin motivo justificado, excusarse de desempeñar el cargo de Diputado. Sólo la Legislatura tiene la facultad de resolver si es de admitirse la excusa y, en caso de renuncia, si es de aceptarse.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 55.
 
-Los Diputados son inviolables por las opiniones que emitan en el desempeño de su cargo, no deberán ser reconvenidos por ellas, y tendrán las obligaciones y las responsabilidades que fijan el artículo 108 y relativos de la Constitución Política de los Estados Unidos Mexicanos.
+Las diputadas y los diputados son inviolables por las opiniones que emitan en el desempeño de su cargo, no deberán ser reconvenidos por ellas, y tendrán las obligaciones y las responsabilidades que fijan el artículo 108 y relativos de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 56.
 
-Los Diputados suplentes entrarán en funciones:
+Las Diputadas y los Diputados suplentes entrarán en funciones:
 
-I. Cuando los Diputados propietarios no se presenten para la instalación de la Legislatura dentro del término que se les señale para el efecto, salvo por causa justificada que calificará la Legislatura;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-II. Cuando los Diputados propietarios hubiesen dejado de concurrir, sin causa justificada, a cinco sesiones consecutivas en el mismo periodo;
+I. Cuando las Diputadas o Diputados propietarios no se presenten para la instalación de la Legislatura dentro del término que se les señale para el efecto, salvo por causa justificada que calificará la Legislatura;
 
-III. En las faltas absolutas de los propietarios; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+II. Cuando las Diputadas o Diputados propietarios hubiesen dejado de concurrir, sin causa justificada, a cinco sesiones consecutivas en el mismo periodo;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+III. En las faltas absolutas de las diputaciones propietarias; y
 
 IV. En los demás casos que determine la ley.
 
-La Legislatura sólo podrá convocar a elecciones para Diputados propietarios, cuando falten los suplentes.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+La Legislatura sólo podrá convocar a elecciones para Diputadas o Diputados propietarios, cuando falten sus suplentes.
 
 #### SECCIÓN PRIMERA. DE LA INSTALACIÓN DE LA LEGISLATURA Y PERIODOS ORDINARIOS DE SESIONES
 
@@ -1427,15 +1511,19 @@ La Legislatura sólo podrá convocar a elecciones para Diputados propietarios, c
 
 La Legislatura del Estado se instalará el siete de septiembre del año de su elección y tendrá durante cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero iniciará el ocho de septiembre y concluirá el quince de diciembre, pudiéndose prorrogar hasta el día treinta de diciembre del mismo año; el segundo comenzará el primero de marzo y terminará el treinta de junio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 58.
 
-La Legislatura no puede abrir sus sesiones ni funcionar legalmente sin la concurrencia de más de la mitad de sus miembros; pero los que se presenten el día señalado por la ley llamarán a los ausentes, con la advertencia de que de no presentarse, sin causa justificada, los suplentes asumirán las funciones de propietarios para los fines de integración de la Legislatura e inicio de sus trabajos.
+La Legislatura no puede abrir sus sesiones ni funcionar legalmente sin la concurrencia de más de la mitad de sus integrantes; pero los que se presenten el día señalado por la ley llamarán a las personas legisladoras ausentes, con la advertencia de que de no presentarse, sin causa justificada, sus suplentes asumirán las funciones en la diputación propietaria para los fines de integración de la Legislatura e inicio de sus trabajos.
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-En los casos que se presenten contingencias relativas a la salubridad, protección civil o seguridad pública, que pongan en riesgo la vida o integridad física de quienes integran la Legislatura del Estado, las y los Diputados podrán continuar con los trabajos legislativos en sesiones virtuales. Los medios tecnológicos, procedimientos y lineamientos serán determinados en la Ley Orgánica del Poder Legislativo y su Reglamento General.
+En los casos que se presenten contingencias relativas a la salubridad, protección civil o seguridad pública, que pongan en riesgo la vida o integridad física de quienes integran la Legislatura del Estado, las Diputadas y los Diputados podrán continuar con los trabajos legislativos en sesiones virtuales. Los medios tecnológicos, procedimientos y lineamientos serán determinados en la Ley Orgánica del Poder Legislativo y su Reglamento General.
 
-Los Diputados que no concurran a una sesión, sin causa justificada o sin permiso de la Legislatura, perderán el derecho a la dieta correspondiente.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Las Diputadas y Diputados que no concurran a una sesión, sin causa justificada o sin permiso de la Legislatura, perderán el derecho a la dieta correspondiente.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
 
@@ -1447,13 +1535,13 @@ Todas las sesiones que celebre el Poder Legislativo, sin excepción, serán púb
 
 El día ocho de septiembre de cada año, el Gobernador o Gobernadora del Estado acudirá ante la Legislatura del Estado a presentar por escrito el informe de las actividades realizadas y el estado que guardan la Administración Pública Estatal, con base en el Plan Estatal de Desarrollo.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-En las sesiones ordinarias de la Legislatura, correspondientes a la primera quincena del mes de octubre de cada año, comenzará la glosa del informe, a la que acudirán los titulares de las dependencias y entidades de la Administración Pública Estatal, para contestar los cuestionamientos que los diputados les formulen respecto del contenido del informe.
+En las sesiones ordinarias de la Legislatura, correspondientes a la primera quincena del mes de octubre de cada año, comenzará la glosa del informe, a la que acudirán las personas titulares de las dependencias y entidades de la Administración Pública Estatal, para contestar los cuestionamientos que las diputadas y los diputados les formulen respecto del contenido del informe.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-El informe correspondiente al último año de ejercicio gubernamental será presentado, a más tardar, el último día del mes de julio del año que corresponda. La Comisión Permanente lo recibirá y convocará al Pleno de la Legislatura a periodo extraordinario de sesiones, el que se realizará dentro de los treinta días naturales siguiente a su recepción, para el sólo efecto de recibir a los titulares de las dependencias y entidades de la Administración Pública Estatal, quienes comparecerán a dar contestación a los cuestionamientos que los Diputados les formulen.
+El informe correspondiente al último año de ejercicio gubernamental será presentado, a más tardar, el último día del mes de julio del año que corresponda. La Comisión Permanente lo recibirá y convocará al Pleno de la Legislatura a periodo extraordinario de sesiones, el que se realizará dentro de los treinta días naturales siguiente (sic) a su recepción, para el sólo efecto de recibir a las personas titulares de las dependencias y entidades de la Administración Pública Estatal, quienes comparecerán a dar contestación a los cuestionamientos que las Diputadas y los Diputados les formulen.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
 
@@ -1465,19 +1553,25 @@ La Ley Orgánica del Poder Legislativo y su Reglamento General regularán el eje
 
 Compete el derecho de iniciar leyes y decretos:
 
-I. A los Diputados a la Legislatura del Estado;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-II. Al Gobernador del Estado;
+I. A las Diputadas y Diputados a la Legislatura del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+II. A la Gobernadora o Gobernador del Estado;
 
 III. Al Tribunal Superior de Justicia del Estado;
 
 IV. A los Ayuntamientos Municipales;
 
-V. A los representantes del Estado ante el Congreso de la Unión; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+V. A las personas representantes del Estado ante el Congreso de la Unión;
 
-VI. A los ciudadanos zacatecanos radicados en el Estado, en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que establezca la ley; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VI. A las ciudadanas zacatecanas y los ciudadanos zacatecanos radicados en el Estado, en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que establezca la ley; y
 
 VII. (DEROGADA, P.O. 29 DE FEBRERO DE 2020)
 
@@ -1495,11 +1589,15 @@ Para la promulgación y publicación de leyes o decretos, se observarán las pre
 
 I. Aprobado un proyecto de ley o decreto, se remitirá al Ejecutivo, quien si no tuviere observaciones que hacer, lo promulgará y publicará inmediatamente;
 
-II. Si dentro del término de diez días hábiles el Ejecutivo hiciere observaciones, para que se estudien lo devolverá a la Legislatura, pudiendo asistir a las discusiones el Gobernador por medio de representantes, quienes sólo tendrán derecho a voz. Si al disponerse la devolución, la Legislatura hubiere clausurado o suspendido sus sesiones, dicha devolución se efectuará el primer día hábil en que estuviere nuevamente reunida.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+II. Si dentro del término de diez días hábiles el Ejecutivo hiciere observaciones, para que se estudien lo devolverá a la Legislatura, pudiendo asistir a las discusiones la Gobernadora o Gobernador por medio de representantes, quienes sólo tendrán derecho a voz. Si al disponerse la devolución, la Legislatura hubiere clausurado o suspendido sus sesiones, dicha devolución se efectuará el primer día hábil en que estuviere nuevamente reunida.
 
 En la discusión de estas observaciones se seguirán los mismos trámites establecidos por el Reglamento Interior para los debates de los proyectos de ley;
 
-III. El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, deberá ser discutido de nuevo por la Legislatura; y si fuere confirmado por el voto de las dos terceras partes de los miembros de la Cámara, se enviará nuevamente al Ejecutivo para su promulgación y publicación inmediata;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+III. El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, deberá ser discutido de nuevo por la Legislatura; y si fuere confirmado por el voto de las dos terceras partes de las personas legisladoras integrantes de la Legislatura, se enviará nuevamente al Ejecutivo para su promulgación y publicación inmediata;
 
 IV. En la interpretación, reforma, derogación o abrogación de leyes o decretos se seguirán los mismos trámites establecidos para su formación;
 
@@ -1513,17 +1611,25 @@ VII. Las disposiciones constitucionales y las leyes reglamentarias en materia el
 
 VIII. Las votaciones de leyes o decretos serán nominales.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 63.
 
-Las leyes y decretos serán promulgados por el Gobernador del Estado. Sus disposiciones serán obligatorias y surtirán efectos a partir de su publicación en el Periódico Oficial, órgano del Gobierno del Estado, salvo que en los propios ordenamientos se establezcan expresamente otros plazos para su aplicación.
+Las leyes y decretos serán promulgados por la Gobernadora o el Gobernador del Estado. Sus disposiciones serán obligatorias y surtirán efectos a partir de su publicación en el Periódico Oficial, órgano del Gobierno del Estado, salvo que en los propios ordenamientos se establezcan expresamente otros plazos para su aplicación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 64.
 
-Toda resolución de la Legislatura tendrá el carácter de ley, decreto o acuerdo; las leyes y los decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios y se dictarán en esta forma:
+Toda resolución de la Legislatura tendrá el carácter de ley, decreto o acuerdo; las leyes y los decretos se comunicarán al Ejecutivo firmados por la Presidenta o el Presidente y las Secretarias o los Secretarios y se dictarán en esta forma:
 
-"La Legislatura del Estado Libre y Soberano de Zacatecas, en nombre del Pueblo, decreta: (aquí el texto de la ley o decreto). Comuníquese al Ejecutivo del Estado para su promulgación y publicación".
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Los acuerdos deberán firmarse únicamente por los Secretarios.
+“La Legislatura del Estado Libre y Soberano de Zacatecas, en nombre del Pueblo, decreta: (aquí el texto de la ley o decreto). Comuníquese a la persona Titular del Poder Ejecutivo del Estado para su promulgación y publicación”.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Los acuerdos deberán firmarse únicamente por las Secretarias o los Secretarios.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
@@ -1573,9 +1679,9 @@ X. (DEROGADA, P.O. 12 DE JULIO DE 2014)
 
 XI. Facultar al Ejecutivo del Estado para que realice transferencias presupuestales cuando exista causa grave a criterio de la Legislatura, y en los términos que disponga la ley reglamentaria;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XII. Aprobar, antes de que concluya el primer periodo ordinario de sesiones del año correspondiente, la Ley de Ingresos y el Presupuesto de Egresos del Estado que el Ejecutivo presentará a la Legislatura a más tardar el día treinta de noviembre de cada año, requiriéndose previamente la comparecencia del Secretario del ramo. En dicho Presupuesto, deberán incluirse los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de los Poderes Legislativo, Ejecutivo y Judicial, así como los organismos públicos autónomos y cualquier otro ente público estatal o municipal. Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
+XII. Aprobar, antes de que concluya el primer periodo ordinario de sesiones del año correspondiente, la Ley de Ingresos y el Presupuesto de Egresos del Estado que el Ejecutivo presentará a la Legislatura a más tardar el día treinta de noviembre de cada año, requiriéndose previamente la comparecencia de la persona titular de la Secretaría del ramo. En dicho Presupuesto, deberán incluirse los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas de los Poderes Legislativo, Ejecutivo y Judicial, así como los organismos públicos autónomos y cualquier otro ente público estatal o municipal. Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
 
 Cuando por cualquier circunstancia no llegaren a aprobarse tales ordenamientos, se aplicarán la Ley de Ingresos o el Presupuesto de Egresos que rigieron en el año fiscal anterior;
 
@@ -1609,7 +1715,9 @@ Se requerirá autorización de la Legislatura para constituir organismos públic
 
 XVIII. Erigir, suprimir o fusionar Municipios y Congregaciones municipales; resolver sobre incorporaciones o límites de un Municipio con otro, con arreglo a la presente Constitución;
 
-XIX. Expedir las leyes que normen las relaciones de trabajo de los poderes estatales y de los Municipios con sus trabajadores, así como las que organicen en el Estado el servicio civil de carrera, su capacitación y el sistema de seguridad social para los servidores públicos, con base en lo establecido en el Apartado "B" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XIX. Expedir las leyes que normen las relaciones de trabajo de los poderes estatales y de los Municipios con sus personas trabajadoras, así como las que organicen en el Estado el servicio civil de carrera, su capacitación y el sistema de seguridad social para las personas servidoras públicas, con base en lo establecido en el Apartado “B” del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Los organismos descentralizados, empresas públicas y fideicomisos de las administraciones públicas estatal y municipales, tendrán el mismo régimen jurídico laboral señalado en el párrafo anterior;
 
@@ -1617,7 +1725,9 @@ Los organismos descentralizados, empresas públicas y fideicomisos de las admini
 
 XX. Expedir la Ley en materia de contabilidad gubernamental que regirá la contabilidad pública y la presentación homogénea de la información financiera, patrimonial y de los ingresos y egresos del Estado y los municipios, para garantizar su armonización con la Federación; facilitar su fiscalización y contribuir a medir la eficiencia, eficacia y economía del ingreso y gasto públicos.
 
-Establecer los sistemas de control para lograr el correcto ejercicio de atribuciones y funciones de la Administración Pública en el Estado, determinando las responsabilidades de sus servidores públicos y señalar las sanciones;
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Establecer los sistemas de control para lograr el correcto ejercicio de atribuciones y funciones de la Administración Pública en el Estado, determinando las responsabilidades de las personas servidoras públicas y señalar las sanciones;
 
 XXI. Expedir las bases sobre las cuales se reglamenten las adquisiciones, arrendamientos y enajenaciones del patrimonio de la Administración Pública, y para el otorgamiento de contratos de obra pública y la adquisición de bienes y servicios;
 
@@ -1631,13 +1741,17 @@ XXV. Expedir las bases sobre las cuales se ejercerá el derecho de expropiación
 
 XXVI. Declarar la suspensión o desaparición de Ayuntamientos; suspender o revocar el mandato de alguno o algunos de sus miembros; designar un Concejo Municipal para que concluya el periodo respectivo; o convocar a elecciones extraordinarias para integrar Ayuntamiento sustituto.
 
-Las faltas y licencias del Presidente Municipal, si exceden de quince días serán cubiertas por el Presidente Municipal Suplente; a falta de éste, el sustituto será nombrado por la Legislatura del Estado, de una terna que para el efecto le envíe el Ayuntamiento; si la licencia o falta del Presidente Municipal son de menor tiempo, serán cubiertas por el Secretario del Ayuntamiento;
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Las faltas y licencias de la Presidenta o Presidente Municipal, si exceden de quince días serán cubiertas por la Presidenta o Presidente Municipal Suplente; a falta de ésta o éste, la persona sustituta será nombrada por la Legislatura del Estado, de una terna que para el efecto le envíe el Ayuntamiento; si la licencia o falta de la Presidenta o Presidente Municipal son de menor tiempo, serán cubiertas por la persona titular de la Secretaría del Ayuntamiento;
 
 XXVII. Erigirse en Jurado de Instrucción, en los casos de juicio político o declaración de procedencia;
 
 XXVIII. Resolver las cuestiones de límites que se susciten entre los Municipios del Estado, cuando los respectivos Ayuntamientos no hayan logrado llegar a un acuerdo y las diferencias entre ellos no tengan carácter contencioso;
 
-XXIX. Conceder amnistías en circunstancias extraordinarias, por el voto de dos terceras partes de sus miembros y siempre que se trate de delitos de la competencia de los tribunales del Estado;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXIX. Conceder amnistías en circunstancias extraordinarias, por el voto de dos terceras partes de sus integrantes y siempre que se trate de delitos de la competencia de los tribunales del Estado;
 
 XXX. Dirimir, en la vía concliatoria (sic), los conflictos políticos entre los Poderes Ejecutivo y Judicial; de los Municipios entre sí y con otros poderes estatales.
 
@@ -1649,39 +1763,51 @@ XXXI. Revisar y resolver dentro de los siete meses siguientes a la recepción de
 
 Para la revisión de las Cuentas Públicas la Legislatura se apoyará en la Auditoría Superior del Estado. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiera exactitud o justificación en los ingresos obtenidos, o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. Respecto de la revisión sobre el cumplimiento de los objetivos de los programas, dicha entidad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley;
 
-XXXII. Recibir la Protesta de ley a los Diputados, al Gobernador, a los Magistrados del Poder Judicial y a los demás servidores públicos que deban rendirla ante ella;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXXII. Recibir la protesta de ley a las Diputadas y Diputados, a la Gobernadora o Gobernador, a las Magistradas y Magistrados del Poder Judicial y a las demás personas servidoras públicas que deban rendirla ante ella;
 
 XXXIII. Convocar a elecciones extraordinarias en los casos en que, de conformidad con la legislación electoral, los órganos competentes hubieren declarado la nulidad de los comicios ordinarios;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XXXIV. Nombrar o ratificar Magistrados y Consejeros en los términos de las leyes respectivas; aprobar, con la mayoría de los miembros presentes de la Legislatura, la designación que sobre el titular del órgano interno de control del Poder Ejecutivo realice el Gobernador del Estado y, designar por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en la presente Constitución;
+XXXIV. Nombrar o ratificar Magistraturas y Consejerías en los términos de las leyes respectivas; aprobar, con la mayoría de los integrantes presentes de la Legislatura, la designación que sobre la persona titular del órgano interno de control del Poder Ejecutivo realice la Gobernadora o el Gobernador del Estado y, designar por el voto de las dos terceras partes de sus integrantes presentes, a las personas titulares de los órganos internos de control de los organismos con autonomía reconocida en la presente Constitución;
 
-XXXV. Nombrar a la persona que deba sustituir al Gobernador del Estado en sus faltas temporales y absolutas, en los términos que expresa la Constitución;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXXV. Nombrar a la persona que deba sustituir a la Gobernadora o Gobernador del Estado en sus faltas temporales y absolutas, en los términos que expresa la Constitución;
 
 XXXVI. Otorgar premios y recompensas a las personas que hayan prestado servicios sobresalientes al Estado, a la Nación o a la humanidad; y asimismo declarar hijos predilectos, ciudadanos ilustres o beneméritos a quienes se hayan distinguido por los servicios prestados al Estado o a la Nación;
 
-XXXVII. Conceder licencia al Gobernador del Estado, cuando con causa justificada lo solicite, para ausentarse del territorio estatal o separarse del cargo por más de quince días;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XXXVIII. Conceder licencia a los Diputados para separarse de su cargo, en los casos y condiciones que determine la Ley Orgánica del Poder Legislativo;
+XXXVII. Conceder licencia a la Gobernadora o Gobernador del Estado, cuando con causa justificada lo solicite, para ausentarse del territorio estatal o separarse del cargo por más de quince días;
 
-XXXIX. Calificar las excusas que para desempeñar sus cargos aduzcan los Diputados, el Gobernador y los Magistrados del Poder Judicial;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XL. Aceptar las renuncias de los Diputados, el Gobernador y los Magistrados;
+XXXVIII. Conceder licencia a las Diputadas y los Diputados para separarse de su cargo, en los casos y condiciones que determine la Ley Orgánica del Poder Legislativo;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXXIX. Calificar las excusas que para desempeñar sus cargos aduzcan las Diputadas, los Diputados, la Gobernadora, el Gobernador, las Magistradas y los Magistrados del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XL. Aceptar las renuncias de las Diputadas y Diputados, la Gobernadora o Gobernador, y de las Magistradas o Magistrados del Poder Judicial;
 
 XLI. Analizar y, en su caso, ratificar los convenios celebrados entre los Ayuntamientos con motivo de la fijación de límites de sus respectivos territorios municipales;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XLII. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador electo que hubiere hecho el Tribunal de Justicia Electoral;
+XLII. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernadora electa o Gobernador electo que hubiere hecho el Tribunal de Justicia Electoral;
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
 XLIII. Autorizar o negar las solicitudes de licencia o renuncia de las Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como de los demás Tribunales del Estado, conforme a esta Constitución y en los términos que establezcan las leyes;
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XLIII-A. Elegir, por mayoría simple de los Diputados, a la persona Consejera del Pleno del Órgano de Administración Judicial que le corresponda;
+XLIII-A. Elegir, por mayoría simple de las Diputadas y Diputados, a la persona Consejera del Pleno del Órgano de Administración Judicial que le corresponda;
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
 
@@ -1701,21 +1827,17 @@ XLIV. Aprobar los convenios que el Ejecutivo celebre respecto de los límites de
 
 XLV. Convocar y aprobar las peticiones de las consultas populares en los términos de la ley.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Convocar a foros de consulta a los ciudadanos, y llevarlos a cabo con el fin de obtener información y opiniones que contribuyan al ejercicio pleno de las atribuciones que esta Constitución le otorga;
+Convocar a foros de consulta ciudadana, y llevarlos a cabo con el fin de obtener información y opiniones que contribuyan al ejercicio pleno de las atribuciones que esta Constitución le otorga;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XLVI. Solicitar al titular del Ejecutivo la comparecencia de los Secretarios de Despacho, del Fiscal General de Justicia del Estado, de los directores de corporaciones de seguridad pública, así como de los directores de la administración pública estatal.
+XLVI. Solicitar al titular del Ejecutivo la comparecencia de las personas titulares de las Secretarías de Despacho, de la persona titular de la Fiscalía General de Justicia del Estado, de las personas titulares de las direcciones de corporaciones de seguridad pública, así como las personas titulares de las direcciones de la administración pública estatal.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2000)</small>
+Podrá, asimismo, citar a las personas integrantes de los Ayuntamientos, así como a las personas titulares de las direcciones de las administraciones públicas paraestatal y paramunicipal.
 
-Podrá asimismo citar a los integrantes de los Ayuntamientos, así como a los directores de las administraciones públicas paraestatal y paramunicipal.
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2000)</small>
-
-Todo lo anterior, a fin de que tales servidores públicos informen sobre el desempeño de su cargo;
+Todo lo anterior, a fin de que tales personas servidoras públicas informen sobre el desempeño de su cargo;
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2000)</small>
 
@@ -1735,11 +1857,15 @@ L. Expedir la ley que establezca la organización y funcionamiento del organismo
 
 LI. Las demás que expresamente le confieran la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
-#### SECCIÓN CUARTA. DE LOS DEBERES DE LOS DIPUTADOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+#### SECCIÓN CUARTA. DE LOS DEBERES DE LAS DIPUTADAS Y DE LOS DIPUTADOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 66.
 
-Son deberes de los Diputados:
+Son deberes de las Diputadas y los Diputados:
 
 I. Concurrir puntualmente a las sesiones de la Legislatura;
 
@@ -1747,15 +1873,19 @@ II. Velar por el buen funcionamiento de las instituciones públicas del Estado y
 
 III. Visitar su distrito y presentar informe por escrito a la Legislatura sobre los problemas que hubieren detectado y las respectivas propuestas de solución;
 
-IV. Rendir ante sus electores, al menos una vez al año, informe del desempeño de sus responsabilidades. Los Diputados de representación proporcional harán lo propio; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+IV. Rendir ante sus electores, al menos una vez al año, informe del desempeño de sus responsabilidades. Las Diputadas y los Diputados de representación proporcional harán lo propio; y
 
 V. Los demás que dispongan la Ley Orgánica del Poder Legislativo y el Reglamento Interior de la Legislatura.
 
 #### SECCIÓN QUINTA. DE LA COMISIÓN PERMANENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 67.
 
-A la conclusión de los periodos ordinarios y antes de clausurar sus sesiones, la Legislatura nombrará de su seno a una Comisión Permanente integrada por once Diputados en calidad de propietarios y otros tantos como suplentes. El primero nombrado será el Presidente de la Comisión, los dos siguientes Secretarios y el resto vocales.
+A la conclusión de los periodos ordinarios y antes de clausurar sus sesiones, la Legislatura nombrará de su seno a una Comisión Permanente integrada por once Diputadas y Diputados en calidad de propietarios y otros tantos como suplentes. La primera Diputada o Diputado nombrado asumirá la Presidencia de la Comisión, los dos siguientes asumirán las Secretarías y el resto serán vocales.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
@@ -1765,25 +1895,37 @@ La Comisión Permanente podrá sesionar de manera virtual, cuando existan elemen
 
 Son facultades de la Comisión Permanente:
 
-I. Velar por la observancia de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, dando cuenta a la Legislatura en su primera reunión ordinaria de las infracciones que haya notado; para tal efecto podrá pedir a todos los servidores públicos los informes que estime convenientes;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+I. Velar por la observancia de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, dando cuenta a la Legislatura en su primera reunión ordinaria de las infracciones que haya notado; para tal efecto podrá pedir a todas las personas servidoras públicas los informes que estime convenientes;
 
 II. Dar trámite a los asuntos pendientes al clausurarse el periodo de sesiones y a los que ocurran durante el receso, con el fin de presentarlos a la Legislatura, con los informes debidos, al inicio del periodo siguiente;
 
-III. Recibir, en su caso, la Protesta de ley al Gobernador del Estado y a los Magistrados del Poder Judicial;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-IV. Conceder licencia a los servidores públicos en los mismos casos en que los pueda conceder la Legislatura conforme a esta Constitución;
+III. Recibir, en su caso, la protesta de ley a la Gobernadora o Gobernador del Estado y a las Magistradas y Magistrados del Poder Judicial;
 
-V. Nombrar al ciudadano que, con el carácter de Gobernador provisional o interino, deba sustituir al Gobernador propietario en sus faltas temporales o absolutas, en los casos que prevea esta Constitución;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+IV. Conceder licencia a las personas servidoras públicas en los mismos casos en que los pueda conceder la Legislatura conforme a esta Constitución;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+V. Nombrar a la ciudadana o al ciudadano que, con el carácter de Gobernadora o Gobernador provisional o interino, deba sustituir a la Gobernadora o Gobernador propietario en sus faltas temporales o absolutas, en los casos que prevea esta Constitución;
 
 VI. Convocar a la Legislatura a periodo extraordinario de sesiones, en los casos previstos por esta Constitución;
 
-VII. Convocar al Pleno a periodo extraordinario para conocer cuando hubiere desaparecido el Ayuntamiento de algún Municipio y, llegado el caso, nombrar Presidente Municipal y Ayuntamiento sustituto; asimismo, para conocer de solicitudes de licencia de uno o más o todos los miembros de un Ayuntamiento que ostenten el carácter de propietarios en funciones y resolver lo procedente en tales casos;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VII. Convocar al Pleno a periodo extraordinario para conocer cuando hubiere desaparecido el Ayuntamiento de algún Municipio y, llegado el caso, nombrar Presidenta o Presidente Municipal y Ayuntamiento sustituto; asimismo, para conocer de solicitudes de licencia de una o más o todas las personas integrantes de un Ayuntamiento que ostenten el carácter de propietarias en funciones y resolver lo procedente en tales casos;
 
 VIII. (DEROGADA, P.O. 12 DE JULIO DE 2014)
 
 IX. Todas las demás que esta Constitución y las leyes le otorguen.
 
-La Comisión Permanente sesionará con la concurrencia de la mayoría de sus miembros. En caso de falta de sus titulares asistirán los suplentes.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+La Comisión Permanente sesionará con la concurrencia de la mayoría de sus integrantes. En caso de falta de sus titulares asistirán sus suplentes.
 
 #### SECCIÓN SEXTA. DE LOS PERIODOS EXTRAORDINARIOS DE SESIONES
 
@@ -1791,9 +1933,11 @@ La Comisión Permanente sesionará con la concurrencia de la mayoría de sus mie
 
 Si algún motivo urgente exigiere la reunión de la Legislatura o lo pidiere el Ejecutivo, será convocada a sesiones extraordinarias por la Comisión Permanente, para ocuparse exclusivamente de los asuntos para los cuales fue convocada.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 70.
 
-En la apertura de los periodos extraordinarios de sesiones el Gobernador del Estado rendirá también informe, cuando a petición suya se hubiese expedido la convocatoria; en este caso el informe se limitará a los asuntos que tengan relación directa con los que motivaron la convocatoria.
+En la apertura de los periodos extraordinarios de sesiones la Gobernadora o el Gobernador del Estado rendirá también informe, cuando a petición suya se hubiese expedido la convocatoria; en este caso el informe se limitará a los asuntos que tengan relación directa con los que motivaron la convocatoria.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2000)</small>
 
@@ -1807,13 +1951,17 @@ DE LA FISCALIZACIÓN SUPERIOR DEL ESTADO Y MUNICIPIOS.
 
 Para dar cumplimiento a las facultades de la Legislatura en materia de revisión de cuentas públicas se apoyará en la Auditoría Superior del Estado, la cual tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
 
-La Legislatura del Estado designará al titular de la Auditoría Superior del Estado por el voto de las dos terceras partes de sus miembros presentes. La Ley determinará el procedimiento para su designación. Dicho titular durará en su encargo siete años. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+La Legislatura del Estado designará a la persona titular de la Auditoría Superior del Estado por el voto de las dos terceras partes de sus integrantes presentes. La Ley determinará el procedimiento para su designación. Dicha persona titular durará en su encargo siete años. Podrá ser removida, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
 Para ser titular de la Auditoría Superior del Estado se requiere contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades, además de cumplir los requisitos que señale la Ley. Durante su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
-Los Poderes del Estado, los Municipios, los entes señalados en la fracción V de este artículo y los demás sujetos de fiscalización facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley. Asimismo, los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en la ley y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que señale la ley.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Los Poderes del Estado, los Municipios, los entes señalados en la fracción V de este artículo y los demás sujetos de fiscalización facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley. Asimismo, las personas servidoras públicas, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en la ley y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que señale la ley.
 
 El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere esta fracción.
 
@@ -1849,9 +1997,13 @@ Los estados financieros y demás información presupuestaria, programática y co
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos;
 
-IV. Derivado de sus investigaciones y una vez que cuente con las correspondientes conclusiones, la Auditoría Superior del Estado promoverá las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos estatales y municipales, y a los particulares vinculados con faltas administrativas graves;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-V. También fiscalizará los recursos que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en la ley y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+IV. Derivado de sus investigaciones y una vez que cuente con las correspondientes conclusiones, la Auditoría Superior del Estado promoverá las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a las personas servidoras públicas estatales y municipales, y a los particulares vinculados con faltas administrativas graves;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+V. También fiscalizará los recursos que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en la ley y sin perjuicio de la competencia de otras autoridades y de los derechos de las personas usuarias del sistema financiero.
 
 Las entidades fiscalizadas a que se refiere el párrafo anterior, deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados, de acuerdo con los criterios que establezca la ley.
 
@@ -1871,37 +2023,43 @@ IX. Informar a la Legislatura del Estado el Proyecto Anual de Fiscalización.
 
 ### CAPÍTULO SEGUNDO. DEL PODER EJECUTIVO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 72.
 
-El ejercicio del Poder Ejecutivo se deposita en un ciudadano o ciudadana que se denominará "Gobernador o Gobernadora del Estado de Zacatecas", quien durará en su cargo seis años, tomará posesión el doce de septiembre del año de la elección y nunca podrá ser reelecto.
+El ejercicio del Poder Ejecutivo se deposita en un ciudadano o ciudadana que se denominará “Gobernadora o Gobernador del Estado de Zacatecas”, quien durará en su cargo seis años, tomará posesión el doce de septiembre del año de la elección y nunca podrá reelegirse.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+El cargo de Gobernadora o Gobernador del Estado de Zacatecas puede ser revocado en los términos establecidos en esta Constitución.
 
-El cargo de Gobernador o Gobernadora del Estado de Zacatecas puede ser revocado en los términos establecidos en esta Constitución.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 73.
 
-El Gobernador representa al Estado ante la Federación y sus partes integrantes; es el jefe del Ejecutivo y de la Administración Pública. Sus facultades son delegables solamente en los casos previstos por esta Constitución y sus leyes reglamentarias.
+La Gobernadora o el Gobernador representa al Estado ante la Federación y sus partes integrantes; es la persona titular del Ejecutivo y de la Administración Pública. Sus facultades son delegables solamente en los casos previstos por esta Constitución y sus leyes reglamentarias.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 74.
 
-El Gobernador del Estado es el administrador de los recursos públicos del Poder Ejecutivo, tanto los provenientes de la Federación como los que se originen en el Estado, y tiene la responsabilidad de aplicarlos con apego al presupuesto que anualmente apruebe la Legislatura y conforme a los programas autorizados.
+La persona titular del Poder Ejecutivo del Estado es la administradora de los recursos públicos del Poder Ejecutivo, tanto los provenientes de la Federación como los que se originen en el Estado, y tiene la responsabilidad de aplicarlos con apego al presupuesto que anualmente apruebe la Legislatura y conforme a los programas autorizados.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
-
-Los servidores públicos que tengan bajo su responsabilidad la recepción, aplicación, administración y ejecución de recursos a que se refiere el párrafo anterior, responderán en los términos de las leyes en materia penal, de disciplina financiera, de responsabilidad hacendaria y de responsabilidades administrativas.
+Las personas servidoras públicas que tengan bajo su responsabilidad la recepción, aplicación, administración y ejecución de recursos a que se refiere el párrafo anterior, responderán en los términos de las leyes en materia penal, de disciplina financiera, de responsabilidad hacendaria y de responsabilidades administrativas.
 
 #### SECCIÓN PRIMERA. DE LOS REQUISITOS Y ELECCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 75.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernadora o Gobernador del Estado se requiere:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-II. Ser nativo del Estado o tener ciudadanía zacatecana por declaración expresa de la Legislatura;
+I. Ser ciudadana mexicana o ciudadano mexicano en pleno ejercicio de sus derechos;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+II. Ser persona nativa del Estado o tener ciudadanía zacatecana por declaración expresa de la Legislatura;
 
 III. Tener residencia efectiva en el Estado por lo menos de cinco años inmediatamente anteriores al día de la elección.
 
@@ -1909,15 +2067,19 @@ La residencia no se interrumpirá en el caso del desempeño de un cargo de elecc
 
 IV. Tener treinta años cumplidos el día de la elección;
 
-V. No ser servidor público cuando menos noventa días antes de la elección;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+V. No ser persona servidora pública cuando menos noventa días antes de la elección;
 
 VI. No estar en servicio activo en el Ejército Nacional, a menos que se separe del mismo seis meses antes de la elección;
 
-VII. No haber sido condenado en juicio por delito infamante; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+VII. No haber sido condenada o condenado en juicio por delito infamante;
 
-VIII. No pertenecer al estado eclesiástico ni ser persona ministra de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VIII. No pertenecer al estado eclesiástico ni ser ministra o ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1935,63 +2097,91 @@ XI. No estar inscrito o tener registro vigente como persona deudora alimentaria 
 
 XII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato no relación de pareja, o parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del Poder Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 76.
 
-La elección de Gobernador del Estado será directa en los términos que disponga la ley electoral.
+La elección de Gobernadora o Gobernador del Estado será directa en los términos que disponga la ley electoral.
 
 ###### Artículo 77.
 
 Al término del periodo constitucional cesará la persona que estuviere encargada del Gobierno, cualquiera que sea el carácter con el que lo desempeñe, independientemente de que la elección no se hubiese verificado o sus resultados fueran anulados por el órgano competente, no se hubiese hecho la declaratoria formal respectiva o el electo no se presentase a tomar posesión del cargo.
 
-En el último de los casos previstos por el párrafo anterior, la Legislatura conminará al electo para que comparezca en un plazo máximo de treinta días para asumir la gubernatura y lo apercibirá de que, si no lo hace sin mediar causa justificada, se le tendrá por renunciado el cargo.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+En el último de los casos previstos por el párrafo anterior, la Legislatura conminará a la persona electa para que comparezca en un plazo máximo de treinta días para asumir la gubernatura y le apercibirá de que, si no lo hace sin mediar causa justificada, se le tendrá por renunciado el cargo.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 78.
 
-En los supuestos del artículo anterior, así como en las faltas absolutas que ocurran en circunstancias en que no sea posible la aplicación inmediata de las normas previstas en el artículo siguiente de esta Constitución, el Presidente del Tribunal Superior de Justicia asumirá el ejercicio de las funciones del Poder Ejecutivo en calidad de Gobernador provisional, desde el día en que ocurra la falta y hasta que la Legislatura haga la designación correspondiente.
+En los supuestos del artículo anterior, así como en las faltas absolutas que ocurran en circunstancias en que no sea posible la aplicación inmediata de las normas previstas en el artículo siguiente de esta Constitución, la persona que presida el Tribunal Superior de Justicia asumirá el ejercicio de las funciones del Poder Ejecutivo en calidad de Gobernadora o Gobernador provisional, desde el día en que ocurra la falta y hasta que la Legislatura haga la designación correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 79.
 
-El Gobernador será sustituido en sus faltas temporales por más de quince días o absolutas por la persona que designe la Legislatura, conforme a las siguientes disposiciones:
+La Gobernadora o Gobernador será sustituido en sus faltas temporales por más de quince días o absolutas por la persona que designe la Legislatura, conforme a las siguientes disposiciones:
 
-I. Si la falta fuere temporal, será sustituido por quien designe la Legislatura o la Comisión Permanente, con el carácter de Gobernador interino;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-II. Si la falta fuere absoluta y ocurriere durante los tres primeros años del periodo constitucional, la Legislatura, constituida en Colegio Electoral, nombrará Gobernador provisional y expedirá inmediatamente la convocatoria a elecciones extraordinarias del Gobernador que deberá terminar dicho periodo. Si la Legislatura estuviere en receso, la Comisión Permanente nombrará un Gobernador provisional, y convocará a la vez a periodo extraordinario de sesiones para los efectos que se expresan en la primera parte de esta fracción;
+I. Si la falta fuere temporal, será sustituida por quien designe la Legislatura o la Comisión Permanente, con el carácter de Gobernador interino;
 
-III. Si la falta fuere absoluta y ocurriere durante los tres últimos años del periodo constitucional, no se convocará a elecciones extraordinarias de Gobernador, sino que la Legislatura, constituida en Colegio Electoral, designará al ciudadano que con el carácter de Gobernador sustituto deberá terminar dicho periodo. Si la Legislatura estuviere en receso, la Comisión Permanente nombrará Gobernador provisional y convocará a periodo extraordinario de sesiones para la designación del Gobernador sustituto, pudiendo recaer dicha designación en el Gobernador provisional mencionado;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-IV. Son exigibles a los Gobernadores provisionales, interinos o sustitutos, los requisitos establecidos por las fracciones I, II, III, IV, VI, VII y VIII del artículo 75 de esta Constitución;
+II. Si la falta fuere absoluta y ocurriere durante los tres primeros años del periodo constitucional, la Legislatura, constituida en Colegio Electoral, nombrará Gobernadora o Gobernador provisional y expedirá inmediatamente la convocatoria a elecciones extraordinarias de Gobernadora o Gobernador que deberá terminar dicho periodo. Si la Legislatura estuviere en receso, la Comisión Permanente nombrará una Gobernadora o un Gobernador provisional, y convocará a la vez a periodo extraordinario de sesiones para los efectos que se expresan en la primera parte de esta fracción;
 
-V. El Gobernador sustituto no podrá ser electo para el periodo constitucional inmediato, así como tampoco los interinos que hubiesen desempeñado el cargo seis meses durante el año en que se deban verificar las nuevas elecciones;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-VI. Las faltas temporales o absolutas de los Gobernadores sustitutos o interinos se cubrirán en la misma forma establecida en este artículo según los casos; y
+III. Si la falta fuere absoluta y ocurriere durante los tres últimos años del periodo constitucional, no se convocará a elecciones extraordinarias de Gobernadora o Gobernador, sino que la Legislatura, constituida en Colegio Electoral, designará a la persona ciudadana que con el carácter de Gobernadora sustituta o Gobernador sustituto deberá terminar dicho periodo. Si la Legislatura estuviere en receso, la Comisión Permanente nombrará Gobernadora o Gobernador provisional y convocará a periodo extraordinario de sesiones para la designación de Gobernadora sustituta o del Gobernador sustituto, pudiendo recaer dicha designación en la Gobernadora o el Gobernador provisional mencionado;
 
-VII. Si a la expiración de una licencia concedida al Gobernador no se presentare a ejercer sus funciones, la Legislatura o la Comisión Permanente lo conminará para que lo haga en el término de treinta días, advirtiéndole que de no comparecer, sin causa justificada, se tendrá por renunciado el cargo y, llegado el caso, se procederá a la renovación del Ejecutivo en los términos prescritos por esta Constitución.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+IV. Son exigibles a las Gobernadoras o Gobernadores con carácter provisional, interino o sustituto, los requisitos establecidos por las fracciones I, II, III, IV, VI, VII y VIII del artículo 75 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+V. La persona titular del Poder Ejecutivo del Estado sustituta no podrá ser electa para el periodo constitucional inmediato, así como tampoco las interinas que hubiesen desempeñado el cargo seis meses durante el año en que se deban verificar las nuevas elecciones;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VI. Las faltas temporales o absolutas de las personas titulares del Poder Ejecutivo del Estado sustitutas o interinas se cubrirán en la misma forma establecida en este artículo según los casos;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VII. Si a la expiración de una licencia concedida a la Gobernadora o Gobernador no se presentare a ejercer sus funciones, la Legislatura o la Comisión Permanente le conminará para que lo haga en el término de treinta días, advirtiéndole que de no comparecer, sin causa justificada, se tendrá por renunciado el cargo y, llegado el caso, se procederá a la renovación del Ejecutivo en los términos prescritos por esta Constitución; y
 
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
 
 VIII. En caso de haberse revocado el mandato del Gobernador o Gobernadora del Estado, asumirá provisionalmente la titularidad del Poder Ejecutivo quien ocupe la presidencia de la Legislatura del Estado y dentro de los treinta días siguientes, la Legislatura nombrará a quien concluirá el período constitucional, en términos de las fracciones III, IV, V y VI de este artículo.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN VIII, P.O. 29 DE ABRIL DE 2023]</small>
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN VIII], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Quien ocupe provisionalmente la Gubernatura no podrá remover o designar a los Secretarios de Estado sin autorización previa de la Legislatura. Asimismo, entregará a la Legislatura un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo.
+Quien ocupe provisionalmente la Gubernatura no podrá remover o designar a las personas titulares de las Secretarías de Estado sin autorización previa de la Legislatura. Asimismo, entregará a la Legislatura un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 80.
 
-El Gobernador no podrá dejar el territorio del Estado ni el ejercicio de sus funciones sino con permiso de la Legislatura o de la Comisión Permanente, salvo que su ausencia del territorio sea por menos de quince días, pues entonces no se necesitará dicho permiso ni se le considerará separado de sus funciones.
+La Gobernadora o el Gobernador no podrá dejar el territorio del Estado ni el ejercicio de sus funciones sino con permiso de la Legislatura o de la Comisión Permanente, salvo que su ausencia del territorio sea por menos de quince días, pues entonces no se necesitará dicho permiso ni se le considerará separado de sus funciones.
 
-Cuando el Gobernador saliere a visitar los Municipios del Estado no se le considerará separado del despacho.
+Cuando la Gobernadora o el Gobernador saliere a visitar los Municipios del Estado no se le considerará separado del despacho.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 81.
 
-El cargo de Gobernador debe preferirse a cualquier otro de elección popular o de la Administración Pública, y sólo es renunciable por causa grave, calificada por la Legislatura.
+El cargo de Gobernadora o Gobernador debe preferirse a cualquier otro de elección popular o de la Administración Pública, y sólo es renunciable por causa grave, calificada por la Legislatura.
 
-#### SECCIÓN SEGUNDA. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+#### SECCIÓN SEGUNDA. DE LAS FACULTADES Y OBLIGACIONES DE LA GOBERNADORA O DEL GOBERNADOR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 82.
 
-Son facultades y obligaciones del Gobernador del Estado:
+Son facultades y obligaciones de la Gobernadora o del Gobernador del Estado.
 
 I. Cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, y las leyes que de ellas emanen;
 
@@ -1999,15 +2189,15 @@ II. Promulgar, publicar, cumplir y hacer cumplir las leyes y demás resoluciones
 
 III. Publicar, difundir y hacer cumplir las leyes federales;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-IV. Proponer a la Legislatura, a más tardar el treinta de noviembre de cada año, las iniciativas de la Ley de Ingresos y el Presupuesto de Egresos e incluir en ellas la provisión de los recursos correspondientes al propio Legislativo y al Poder Judicial, de conformidad con los principios de equilibrio y separación de Poderes y mediante mecanismos que garanticen que, una vez aprobados, sean ejercidos con plena autonomía. En la iniciativa de Presupuesto de Egresos del Estado, deberán incluirse los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos, de conformidad con el artículo 160 de esta Constitución y demás disposiciones aplicables.
+IV. Proponer a la Legislatura, a más tardar el treinta de noviembre de cada año, las iniciativas de la Ley de Ingresos y el Presupuesto de Egresos e incluir en ellas la provisión de los recursos correspondientes al propio Legislativo y al Poder Judicial, de conformidad con los principios de equilibrio y separación de Poderes y mediante mecanismos que garanticen que, una vez aprobados, sean ejercidos con plena autonomía. En la iniciativa de Presupuesto de Egresos del Estado, deberán incluirse los tabuladores desglosados de las remuneraciones que se propone perciban las personas servidoras públicas, de conformidad con el artículo 160 de esta Constitución y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso la persona titular de la Secretaría del ramo correspondiente, a informar de las razones que lo motiven;
 
-Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso el Secretario del ramo correspondiente, a informar de las razones que lo motiven;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-V. Conceder dispensa de leyes relativas al estado civil de las personas, facultad que puede delegar en los Presidentes Municipales;
+V. Conceder dispensa de leyes relativas al estado civil de las personas, facultad que puede delegar en las Presidentas y Presidentes Municipales;
 
 VI. Elaborar y promulgar los reglamentos a las leyes y decretos expedidos por la Legislatura, cuando los propios ordenamientos lo determinen, o cuando sean necesarios para su debida ejecución y cumplimiento;
 
@@ -2021,9 +2211,9 @@ IX. Intervenir, en los términos que esta Constitución establece, en los proces
 
 X. Decretar expropiaciones por causa de utilidad pública en la forma que determine la ley, y aplicar las disposiciones de la Ley Reglamentaria de la Fracción XVII del Artículo 27 Constitucional;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XI. Nombrar y remover libremente a los servidores de la Administración Pública estatal, en los términos de las leyes reglamentarias, con excepción del nombramiento del titular del órgano interno de control del Poder Ejecutivo del Estado, cuya designación será aprobada por la Legislatura.
+XI. Nombrar y remover libremente a las personas servidoras públicas de la Administración Pública estatal, en los términos de las leyes reglamentarias, con excepción del nombramiento de la persona titular del órgano interno de control del Poder Ejecutivo del Estado, cuya designación será aprobada por la Legislatura;
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
 
@@ -2039,7 +2229,9 @@ XII-A. Designar a los integrantes del Comité de Evaluación al que se refiere e
 
 XIII. Designar a los fedatarios públicos en los términos de la ley de la materia;
 
-XIV. Recibir la Protesta de ley que deban rendir los servidores públicos que designe en ejercicio de sus facultades;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XIV. Recibir la protesta de ley que deban rendir las personas servidoras públicas que designe en ejercicio de sus facultades;
 
 XV. Promover el desarrollo económico y social del Estado; iniciar e impulsar todas las obras que sean de beneficio colectivo;
 
@@ -2077,7 +2269,9 @@ XXIX. Indultar, conmutar o reducir la pena a los reos sentenciados por los tribu
 
 XXX. Hacer cumplir las resoluciones de los tribunales del Estado;
 
-XXXI. Tener el mando de la fuerza pública dependiente del Ejecutivo del Estado, y la del Municipio en que el propio Gobernador resida habitual o transitoriamente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXXI. Tener el mando de la fuerza pública dependiente del Ejecutivo del Estado, y la del Municipio en que la Gobernadora o Gobernador resida habitual o transitoriamente.
 
 Asumir temporalmente la dirección y el mando superior de las policías municipales en todo o en parte del territorio de la Entidad, cuando las circunstancias lo ameriten y los ordenamientos legales lo dispongan;
 
@@ -2103,9 +2297,11 @@ XXXIV-B. (DEROGADA, P.O. 7 DE JUNIO DE 2025)
 
 XXXV. Las demás que expresamente le señale la presente Constitución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 83.
 
-El Gobernador del Estado está impedido para:
+La Gobernadora o Gobernador del Estado está impedido para:
 
 I. Dictar providencia alguna que retarde o entorpezca la Administración de Justicia en el Estado;
 
@@ -2117,29 +2313,33 @@ IV. Entorpecer, dificultar y obstaculizar los procesos electorales y de consulta
 
 V. Aplicar o disponer de los bienes o fondos públicos para fines distintos de los previstos en esta Constitución o hacer erogaciones que no estuvieran autorizadas conforme a las leyes de la materia.
 
-Ningún Gobernador provisional podrá celebrar actos jurídicos unilaterales, contratos o convenios, que graven o comprometan el patrimonio del Estado o sus Municipios o transfieran el control de los servicios públicos o los derechos inherentes a su prestación. En caso de transgredirse esta disposición, dichos actos serán nulos, reversibles y no producirán efectos legales, sin perjuicio de las responsabilidades oficiales en que incurra el transgresor.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Ninguna Gobernadora o Gobernador provisional podrá celebrar actos jurídicos unilaterales, contratos o convenios, que graven o comprometan el patrimonio del Estado o sus Municipios o transfieran el control de los servicios públicos o los derechos inherentes a su prestación. En caso de transgredirse esta disposición, dichos actos serán nulos, reversibles y no producirán efectos legales, sin perjuicio de las responsabilidades oficiales en que incurra la persona transgresora.
 
 #### SECCIÓN TERCERA. DEL DESPACHO DEL EJECUTIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 84.
 
-El Gobernador del Estado se auxiliará de las dependencias y entidades que prevea la Ley Orgánica de la Administración Pública, para el despacho de los asuntos de su competencia.
+La Gobernadora o el Gobernador del Estado se auxiliará de las dependencias y entidades que prevea la Ley Orgánica de la Administración Pública, para el despacho de los asuntos de su competencia.
 
 La ley distribuirá los asuntos del Ejecutivo del Estado, que estarán a cargo de la administración centralizada, al (sic) través de las Secretarías y unidades correspondientes, y de las entidades paraestatales, conforme a las bases de su creación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 85.
 
-Las leyes, decretos y demás disposiciones de carácter general que el Gobernador promulgue, para su validez y observancia deberán ser refrendados por el Secretario General de Gobierno.
+Las leyes, decretos y demás disposiciones de carácter general que la Gobernadora o el Gobernador promulgue, para su validez y observancia deberán ser refrendados por la persona titular de la Secretaría General de Gobierno.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+Los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que la Gobernadora o el Gobernador del Estado expida o autorice, para su validez y observancia deberán ser firmados por la persona titular de la Secretaría General de Gobierno y cuando sean de la competencia de una o más Secretarías, deberán ser refrendados por las personas titulares de las mismas.
 
-Los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que el Gobernador del Estado expida o autorice, para su validez y observancia deberán ser firmados por el Secretario General de Gobierno y cuando sean de la competencia de una o más Secretarías, deberán ser refrendados por los titulares de las mismas.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 86.
 
-Los titulares de las dependencias del Ejecutivo serán responsables de las órdenes y providencias que autoricen con su firma, así como de toda falta, omisión o violación en que incurran con motivo del ejercicio de sus funciones.
+Las personas titulares de las dependencias del Ejecutivo serán responsables de las órdenes y providencias que autoricen con su firma, así como de toda falta, omisión o violación en que incurran con motivo del ejercicio de sus funciones.
 
 > <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 128 PUBLICADO EN EL P.O. DE 22 DE MARZO DE 2017, SE ADVIERTE QUE CON LA ADICIÓN DEL PRESENTE CAPÍTULO SE OCUPA EL LUGAR DE LA ANTIGUA SECCIÓN CUARTA DENOMINADA "DEL MINISTERIO PÚBLICO".]</small>
 
@@ -2147,71 +2347,53 @@ Los titulares de las dependencias del Ejecutivo serán responsables de las órde
 
 ### CAPÍTULO SEGUNDO BIS. DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS Y EL MINISTERIO PÚBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2026)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 87.
 
-El Ministerio Público se organizará en una Fiscalía General de Justicia del Estado, que tendrá el carácter de organismo público autónomo dotado de personalidad jurídica y patrimonio propio y contará en su estructura con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos de la Fiscalía y cuya persona titular será designada por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado.
+El Ministerio Público se organizará en una Fiscalía General de Justicia del Estado, que tendrá el carácter de organismo público autónomo dotado de personalidad jurídica y patrimonio propio y contará en su estructura con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos de la Fiscalía y será designado por la votación de las dos terceras partes de las personas legisladoras presentes de la Legislatura del Estado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2026)</small>
+La ley organizará a la Fiscalía General de Justicia del Estado, cuyas personas servidoras públicas serán nombradas y removidas de acuerdo con la presente Constitución y la ley respectiva. Estará encabezada por una o un Fiscal General de Justicia, quien durará en su encargo siete años y deberá cumplir con los requisitos exigidos para ser Magistrada o Magistrado del Tribunal Superior de Justicia.
 
-La ley organizará a la Fiscalía General de Justicia del Estado, cuyos servidores públicos serán nombrados y removidos de acuerdo con la presente Constitución y la ley respectiva. Estará encabezada por un Fiscal General de Justicia, quien durará en su encargo siete años. Será designado conforme al procedimiento siguiente:
+La persona titular de la Fiscalía General de Justicia será designada y removida conforme al procedimiento siguiente:
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+I. A los 30 días antes de concluir el período para el cual fue designada la persona titular de la Fiscalía General, o en su caso, a partir de su ausencia definitiva, la Legislatura del Estado contará con veinte días para integrar una lista de, al menos, cinco personas candidatas al cargo, aprobada por el voto de las dos terceras partes de las personas legisladoras presentes, la cual enviará a la Gobernadora o Gobernador.
 
-I. A los 30 días antes de concluir el período para el cual fue designado el Fiscal General, o en su caso, a partir de su ausencia definitiva, la Legislatura del Estado contará con veinte días para integrar una lista de, al menos, cinco candidatos al cargo, aprobada por el voto de las dos terceras partes de los miembros presentes, la cual enviará al Gobernador.
+Si la Gobernadora o el Gobernador no recibe la lista en el plazo antes señalado, enviará libremente a la Legislatura una terna y designará provisionalmente a la persona titular de la Fiscalía General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, la persona titular de la Fiscalía General designada podrá formar parte de la terna.
 
-Si el Gobernador no recibe la lista en el plazo antes señalado, enviará libremente a la Legislatura una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
+II. Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes la Gobernadora o el Gobernador formulará una terna y la enviará a la consideración de la Legislatura.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+III. La Legislatura, con base en la terna y previa comparecencia de las personas propuestas, designará a la persona titular de la Fiscalía General con el voto de las dos terceras partes de las personas legisladoras presentes dentro del plazo de diez días.
 
-II. Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Gobernador formulará una terna y la enviará a la consideración de la Legislatura.
+En caso de que la Gobernadora o el Gobernador no envíe la terna a que se refiere la fracción anterior, la Legislatura tendrá diez días para designar a la persona titular de la Fiscalía General de entre las personas candidatas de la lista que señala la fracción I.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará a la persona titular de la Fiscalía General de entre las personas candidatas que integren la lista o, en su caso, la terna respectiva.
 
-III. La Legislatura, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+IV. La persona titular de la Fiscalía General podrá ser removida por el Ejecutivo por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de las personas legisladoras presentes de la Legislatura dentro de un plazo de diez días hábiles, en cuyo caso la persona titular de la Fiscalía General de Justicia será restituida en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
 
-En caso de que el Gobernador no envíe la terna a que se refiere la fracción anterior, la Legislatura tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala la fracción I.
+V. En los recesos de la Legislatura, la Comisión Permanente lo convocará de inmediato a periodo extraordinario para la designación o formulación de objeción a la remoción de la persona titular de la Fiscalía General.
 
-Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+VI. Las ausencias de la persona titular de la Fiscalía General serán suplidas en los términos que determine la ley.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+La persona titular de la Fiscalía General presentará anualmente a los Poderes Legislativo y Ejecutivo un informe de actividades. Comparecerá ante la Legislatura del Estado, cuando se le cite a rendir cuentas o a informar sobre su gestión.
 
-IV. El Fiscal General podrá ser removido por el Ejecutivo por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General de Justicia será restituido en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
+La persona titular de la Fiscalía General de Justicia, las o los Fiscales especializados y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+La Fiscalía General de Justicia del Estado de Zacatecas, contará, al menos, con las Fiscalías Especializadas, en Atención de Delitos Electorales, de Combate a la Corrupción y de Derechos Humanos, el Estado garantizará que cuenten con los recursos humanos, financieros y materiales que requieran, para su efectiva operación, cuyas personas titulares serán nombradas por la persona titular de la Fiscalía General de Justicia. El nombramiento y remoción de las y los fiscales antes referidos podrán ser objetados por la Legislatura del Estado, por el voto de las dos terceras partes de sus integrantes presentes, en el plazo que fije la ley; si la Legislatura no se pronunciare en este plazo, se entenderá que no tiene objeción.
 
-V. En los recesos de la Legislatura, la Comisión Permanente lo convocará de inmediato a periodo extraordinario para la designación o formulación de objeción a la remoción del Fiscal General.
-
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
-
-VI. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
-
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 22 DE MARZO DE 2017]</small>
-
-El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo un informe de actividades. Comparecerá ante la Legislatura del Estado, cuando se le cite a rendir cuentas o a informar sobre su gestión.
-
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 22 DE MARZO DE 2017]</small>
-
-El Fiscal General de Justicia, los Fiscales especializados y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
-
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
-
-La Fiscalía General de Justicia del Estado de Zacatecas contará, al menos, con las Fiscalías Especializadas en Atención de Delitos Electorales, de Combate a la Corrupción y de Derechos Humanos y de investigación de delitos relacionados con las violencias de género contra las mujeres, el Estado garantizará que cuenten con los recursos humanos, financieros y materiales que requieran, para su efectiva operación, sus titulares serán nombrados por el Fiscal General de Justicia. El nombramiento y remoción de los fiscales antes referidos podrán ser objetados por la Legislatura del Estado, por el voto de las dos terceras partes de sus miembros presentes, en el plazo que fije la ley; si la Legislatura no se pronunciare en este plazo, se entenderá que no tiene objeción.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 88.
 
-Son funciones del Ministerio Público: la persecución de los delitos del orden común ante los tribunales y juzgados; solicitar las medidas cautelares contra los imputados y órdenes de aprehensión contra los inculpados; allegarse, requerir y presentar las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurar que los procesos se sigan con toda regularidad para que la justicia sea eficaz, imparcial, pronta, expedita, con perspectiva de género y respeto a los derechos humanos; pedir la aplicación de las penas y la reparación de los daños causados a las víctimas del delito e intervenir en todos los demás asuntos que las leyes determinen.
+Son funciones del Ministerio Público: la persecución de los delitos del orden común ante los tribunales y juzgados; solicitar las medidas cautelares contra las personas imputadas y órdenes de aprehensión contra las personas inculpadas; allegarse, requerir y presentar las pruebas que acrediten la participación de éstas en hechos que las leyes señalen como delito; procurar que los procesos se sigan con toda regularidad para que la justicia sea eficaz, imparcial, pronta, expedita, con perspectiva de género y respeto a los derechos humanos; pedir la aplicación de las penas y la reparación de los daños causados a las víctimas del delito e intervenir en todos los demás asuntos que las leyes determinen.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General de Justicia, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+La ley establecerá las bases para la formación y actualización de las personas servidoras públicas de la Fiscalía General de Justicia, así como para el desarrollo de la carrera profesional de las mismas, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Para la investigación de los delitos y persecución de los delincuentes, el Ministerio Público se auxiliará de la Policía Ministerial, la cual estará bajo el mando y la autoridad del Fiscal General de Justicia.
+Para la investigación de los delitos y persecución de las personas probables responsables, el Ministerio Público se auxiliará de la Policía Ministerial, la cual estará bajo el mando y la autoridad de la persona titular de la Fiscalía General de Justicia.
 
 En ejercicio de las funciones que le competan, tal Policía deberá ser auxiliada por los demás cuerpos de seguridad pública del Estado y sus Municipios.
 
@@ -2531,7 +2713,9 @@ VI. De los demás asuntos que las leyes sometan a su jurisdicción.
 
 (DEROGADO, P.O. 12 DE JULIO DE 2014)
 
-#### SECCIÓN CUARTA. DE LOS JUECES DE PRIMERA INSTANCIA Y MUNICIPALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+#### SECCIÓN CUARTA. DE LAS JUEZAS Y JUECES DE PRIMERA INSTANCIA Y MUNICIPALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2025)</small>
 
@@ -2553,11 +2737,11 @@ Las juezas y los jueces de primera instancia, de control y los tribunales de enj
 
 Las juezas y los jueces de primera instancia durarán en su cargo nueve años, podrán ser reelectos y si lo fueren sólo podrán ser privados de sus puestos en los términos del Título VII de esta Constitución y de la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 106.
 
-Habrá en el Estado el número de jueces de primera instancia, de control y tribunales de enjuiciamiento, de tribunales laborales, que determine el Órgano de Administración Judicial del Estado y la Ley, con la jurisdicción, atribuciones y deberes que la misma señale.
+Habrá en el Estado el número de juezas y jueces de primera instancia, de control y tribunales de enjuiciamiento, de tribunales laborales, que determine el Órgano de Administración Judicial del Estado y la Ley, con la jurisdicción, atribuciones y deberes que la misma señale.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
@@ -2607,51 +2791,37 @@ El Órgano de Administración Judicial, en el ámbito de su competencia, tomará
 
 ### CAPÍTULO CUARTO. DE LA JUSTICIA ADMINISTRATIVA
 
-#### SECCIÓN PRIMERA. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+#### SECCIÓN PRIMERA. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 112.
 
-El Tribunal de Justicia Administrativa del Estado de Zacatecas, es un organismo jurisdiccional con personalidad jurídica y patrimonio propio, dotado de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones. Conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública estatal o municipal e intermunicipal y los particulares; asimismo impondrá, de acuerdo a la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Responsabilidades Administrativas, la presente Constitución, la ley de responsabilidades del Estado y demás leyes aplicables, las sanciones a los servidores públicos por responsabilidad administrativa grave; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal o municipal o al patrimonio de los entes públicos locales o municipales e impondrán a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otras responsabilidades, las sanciones económicas, la inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas, así como el resarcimiento de los daños y perjuicios ocasionados a los entes o la hacienda pública.
+El Tribunal de Justicia Administrativa del Estado de Zacatecas, es un organismo jurisdiccional con personalidad jurídica y patrimonio propio, dotado de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones. Conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública estatal o municipal e intermunicipal y los particulares; asimismo impondrá, de acuerdo a la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Responsabilidades Administrativas, la presente Constitución, la ley de responsabilidades del Estado y demás leyes aplicables, las sanciones a las personas servidoras públicas por responsabilidad administrativa grave; así como fincar a las personas responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal o municipal o al patrimonio de los entes públicos locales o municipales e impondrán a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otras responsabilidades, las sanciones económicas, la inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas, así como el resarcimiento de los daños y perjuicios ocasionados a los entes o la hacienda pública.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+Contará con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del Tribunal y será designado por la votación de las dos terceras partes de las personas legisladoras presentes de la Legislatura del Estado.
 
-Contará con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del Tribunal y será designado por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 113.
 
-El Tribunal se integra por tres Magistrados, los cuales serán designados por la Legislatura del Estado, durarán en su encargo siete años y deberán satisfacer los mismos requisitos que se exigen para los Magistrados del Tribunal Superior de Justicia del Estado.
+El Tribunal se integra por tres Magistradas o Magistrados, quienes se designarán por la Legislatura del Estado, durarán en su encargo siete años y deberán satisfacer los mismos requisitos que se exigen para los Magistrados del Tribunal Superior de Justicia del Estado.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+El procedimiento de designación de las Magistradas y los Magistrados, deberá comenzar treinta días previos a la conclusión del periodo por el que fueron nombrados.
 
-El procedimiento de designación de los Magistrados, deberá comenzar treinta días previos a la conclusión del periodo por el que fueron nombrados.
+La Legislatura del Estado, contará con veinte días para integrar una lista de ocho personas candidatas, la cual deberá ser aprobada por las dos terceras partes de las personas legisladoras presentes y será enviada a la Gobernadora o Gobernador. Si la Gobernadora o el Gobernador no recibe la lista en el plazo señalado, enviará libremente a la Legislatura una lista de cinco personas y designará provisionalmente la Magistratura vacante, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, la persona designada de manera provisional podrá formar parte de la lista.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+De ser enviada por la Legislatura la lista en el plazo señalado en el párrafo anterior, dentro de los diez días siguientes la Gobernadora o el Gobernador formulará una lista de cinco personas y la enviará a la consideración de la Legislatura.
 
-La Legislatura del Estado, contará con veinte días para integrar una lista de ocho candidatos, la cual deberá ser aprobada por las dos terceras partes de los miembros presentes y será enviada al Gobernador. Si el Gobernador no recibe la lista en el plazo señalado, enviará libremente a la Legislatura una lista de cinco personas y designará provisionalmente a los tres Magistrados, quienes ejercerán sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, los Magistrados designados podrán formar parte de la lista.
+Con base en la lista, la Legislatura previa comparecencia de las personas propuestas, designará a la Magistrada o al Magistrado que integrará el Tribunal por el voto de las dos terceras partes de las personas legisladoras presentes dentro del plazo de diez días.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+En caso de que la Gobernadora o el Gobernador no envíe la lista a que se refiere el párrafo anterior, la Legislatura tendrá diez días para designar a la Magistrada y al Magistrado de entre las personas candidatas de la lista que en un principio envió a la persona Titular del Poder Ejecutivo del Estado.
 
-De ser enviada por la Legislatura la lista en el plazo señalado en el párrafo anterior, dentro de los diez días siguientes el Gobernador formulará una lista de cinco personas y la enviará a la consideración de la Legislatura.
+Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará a la Magistrada o al Magistrado de entre las candidatas y los candidatos que integren la lista a que se refiere el párrafo anterior o, en su caso, de la lista de cinco personas que puso a consideración de la Legislatura.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
-
-Con base en la lista, la Legislatura previa comparecencia de las personas propuestas, designará a los tres Magistrados que integrarán el Tribunal por el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
-
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
-
-En caso de que el Gobernador no envíe la lista a que se refiere el párrafo anterior, la Legislatura tendrá diez días para designar a los Magistrados de entre los candidatos de la lista que en un principio envío al Gobernador.
-
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
-
-Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará a los Magistrados de entre los candidatos que integren la lista a que se refiere el párrafo anterior o, en su caso, de la lista de cinco personas que puso a consideración de la Legislatura.
-
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
-
-Los Magistrados solo podrán ser removidos de sus cargos por las causas graves que señale la ley.
+Las Magistradas y los Magistrados solo podrán ser removidos de sus cargos por las causas graves que señale la ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2020)</small>
 
@@ -2663,33 +2833,55 @@ Los Magistrados solo podrán ser removidos de sus cargos por las causas graves q
 
 El Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas es un órgano jurisdiccional con personalidad jurídica y patrimonio propio, dotado de plena autonomía e independiente en sus decisiones, de conformidad con la ley.
 
-Tendrá a su cargo el conocimiento y resolución de los conflictos de trabajo que se susciten entre los trabajadores al servicio del Estado, de los Municipios, de los órganos a los que esta Constitución les reconoce autonomía, con excepción de los electorales, de los organismos descentralizados, estatales, municipales e intermunicipales con los órganos y dependencias de ambos niveles de Gobierno, derivados de las relaciones de trabajo; de trabajadores entre sí; de éstos con los sindicatos en que se agrupen; y de conflictos entre sindicatos; de conformidad con lo que señalen las leyes.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Para la atención de los conflictos laborales burocráticos, los trabajadores y los entes públicos referidos en el párrafo precedente, antes de acudir al Tribunal, deberán asistir ante la instancia conciliatoria prevista en el artículo 28 de esta Constitución.
+Tendrá a su cargo el conocimiento y resolución de los conflictos de trabajo que se susciten entre las personas trabajadoras al servicio del Estado, de los Municipios, de los órganos a los que esta Constitución les reconoce autonomía, con excepción de los electorales, de los organismos descentralizados, estatales, municipales e intermunicipales con los órganos y dependencias de ambos niveles de Gobierno, derivados de las relaciones de trabajo; de las personas trabajadoras entre sí; de éstas con los sindicatos en que se agrupen; y de conflictos entre sindicatos; de conformidad con lo que señalen las leyes.
 
-El Tribunal de Justicia Laboral Burocrática contará, además, con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del Tribunal y será designado por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
+Para la atención de los conflictos laborales burocráticos, las personas trabajadoras y los entes públicos referidos en el párrafo precedente, antes de acudir al Tribunal, deberán asistir ante la instancia conciliatoria prevista en el artículo 28 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+El Tribunal de Justicia Laboral Burocrática contará, además, con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del Tribunal y será designado por la votación de las dos terceras partes de las personas legisladoras presentes de la Legislatura del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 115.
 
-El Tribunal de Justicia Laboral Burocrática estará integrado por tres Magistrados, cuyos titulares deberán satisfacer los mismos requisitos que se exigen para los Magistrados del Tribunal Superior de Justicia del Estado.
+El Tribunal de Justicia Laboral Burocrática estará integrado por tres Magistraturas, cuyas personas titulares deberán satisfacer los mismos requisitos que se exigen para las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
 
 El Tribunal funcionará en Pleno y contará con una Presidencia que recaerá en uno de sus integrantes, será rotatoria y tendrá una duración de dos años.
 
-Los Magistrados del Tribunal de Justicia Laboral Burocrática durarán en su encargo siete años, sin posibilidad de ser reelectos. El procedimiento de designación de los Magistrados deberá comenzar treinta días previos a la conclusión del periodo por el que fueron nombrados.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Para su designación, la Legislatura del Estado contará con veinte días para integrar una lista de cinco candidatos por cada magistratura a designar, la cual deberá ser aprobada por las dos terceras partes de los miembros presentes y será enviada al Gobernador. Dicha lista deberá integrarse mediante la realización de una convocatoria pública abierta en la que se reciban registros y propuestas.
+Las Magistradas y los Magistrados del Tribunal de Justicia Laboral Burocrática durarán en su encargo siete años, sin posibilidad de ser reelectos. El procedimiento de designación de las Magistradas y los Magistrados deberá comenzar treinta días previos a la conclusión del periodo por el que fueron nombrados.
 
-Si el Gobernador no recibe la lista en el plazo señalado, enviará libremente a la Legislatura una lista de tres personas por cada magistratura a designar. De ser enviada por la Legislatura la lista en el plazo señalado en el párrafo anterior, dentro de los diez días siguientes el Gobernador seleccionará de cada lista a tres de los perfiles propuestos y los remitirá a la consideración de la Legislatura.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Dentro del plazo de diez días, con base en la lista enviada por el Gobernador y previa comparecencia de las personas propuestas, la Legislatura designará al titular de la Magistratura, para lo cual se requerirá que sea aprobado al menos por el voto de las dos terceras partes de los miembros presentes.
+Para su designación, la Legislatura del Estado contará con veinte días para integrar una lista de cinco personas candidatas por cada magistratura a designar, la cual deberá ser aprobada por las dos terceras partes de las personas legisladoras presentes y será enviada a la Gobernadora o Gobernador. Dicha lista deberá integrarse mediante la realización de una convocatoria pública abierta en la que se reciban registros y propuestas.
 
-En caso de que el Gobernador no envíe la lista a que se refiere el párrafo anterior, la Legislatura tendrá diez días para designar al titular de la magistratura de entre los candidatos de la lista que en un principio envío al Gobernador.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al titular de la magistratura de entre los candidatos que integren la lista de tres personas que puso a consideración de la Legislatura.
+Si la Gobernadora o el Gobernador no recibe la lista en el plazo señalado, enviará libremente a la Legislatura una lista de tres personas por cada magistratura a designar. De ser enviada por la Legislatura la lista en el plazo señalado en el párrafo anterior, dentro de los diez días siguientes la Gobernadora o el Gobernador seleccionará tres de los perfiles propuestos y los remitirá a la consideración de la Legislatura.
 
-Los Magistrados solo podrán ser removidos de sus cargos por las causas graves que señale la ley.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Dentro del plazo de diez días, con base en la lista enviada por la Gobernadora o el Gobernador y previa comparecencia de las personas propuestas, la Legislatura designará a la persona titular de la Magistratura, para lo cual se requerirá que sea aprobado al menos por el voto de las dos terceras partes de las personas legisladoras presentes.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+En caso de que la Gobernadora o el Gobernador no envíe la lista a que se refiere el párrafo anterior, la Legislatura tendrá diez días para designar al titular de la magistratura de entre las personas candidatas de la lista que en un principio envió a la persona Titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará a la persona titular de la magistratura de entre las candidaturas que integren la lista de tres personas que puso a consideración de la Legislatura.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Las Magistradas y los Magistrados solo podrán ser removidos de sus cargos por las causas graves que señale la ley.
 
 ## TÍTULO V. DEL MUNICIPIO LIBRE
 
@@ -2863,37 +3055,45 @@ Los Ayuntamientos crearán las dependencias y entidades de la administración p�
 
 La competencia que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución otorgan al gobierno municipal, será ejercida exclusivamente por el Ayuntamiento y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2026)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-III. Son requisitos para ser Presidenta o Presidente Municipal, Síndica o Síndico y Regidora o Regidor de los Ayuntamientos:
+III. Son requisitos para ser Presidenta o Presidente Municipal, Síndica, Síndico, Regidora o Regidor de los Ayuntamientos:
 
-a) Ser ciudadano zacatecano, en los términos previstos por la presente Constitución, y estar en pleno goce de sus derechos políticos;
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-(REFORMADO, P.O. 1 DE OCTUBRE DE 2003) (F. DE E., P.O. 4 DE OCTUBRE DE 2003)
+a) Ser ciudadana zacatecana o ciudadano zacatecano, en los términos previstos por la presente Constitución, y estar en pleno goce de sus derechos políticos;
 
-b) Ser vecino del Municipio respectivo, con residencia efectiva e ininterrumpida durante los seis meses inmediatos anteriores a la fecha de la elección, o bien, en el caso de los migrantes y binacionales, tener por el mismo lapso la residencia binacional y simultánea.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+b) Ser vecina o vecino del Municipio respectivo, con residencia efectiva e ininterrumpida durante los seis meses inmediatos anteriores a la fecha de la elección, o bien, en el caso de los migrantes y binacionales, tener por el mismo lapso la residencia binacional y simultánea.
 
 c) Ser de reconocida probidad, tener modo honesto de vivir, estar inscrito en el Registro Federal de Electores y tener la correspondiente credencial para votar;
 
-d) No ser servidor público de la Federación, del Estado o del respectivo Municipio, a no ser que se separe del cargo por lo menos noventa días antes de la elección. Si el servicio público del que se hubiese separado fue el de Tesorero Municipal, se requerirá que su rendición de cuentas haya sido legalmente aprobada;
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-e) No ser miembro de alguna corporación de seguridad pública de la Federación, del Estado o de algún Municipio, salvo que se hubiese separado del desempeño de sus funciones por lo menos noventa días anteriores a la fecha de la elección;
+d) No ser persona servidora pública de la Federación, del Estado o del respectivo Municipio, a no ser que se separe del cargo por lo menos noventa días antes de la elección. Si el servicio público del que se hubiese separado fue el de titular de la Tesorería Municipal, se requerirá que su rendición de cuentas haya sido legalmente aprobada;
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+e) No ser integrante de alguna corporación de seguridad pública de la Federación, del Estado o de algún Municipio, salvo que se hubiese separado del desempeño de sus funciones por lo menos noventa días anteriores a la fecha de la elección;
 
 f) No estar en servicio activo en el Ejército, la Armada o la Fuerza Aérea, excepto si hubiese obtenido licencia de acuerdo con las ordenanzas militares, con noventa días de anticipación al día de la elección;
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-g) No pertenecer al Estado eclesiástico ni ser persona ministra de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
+g) No pertenecer al estado eclesiástico ni ser ministra o ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-h) No ser Magistrado del Tribunal Superior de Justicia, Juez de primera instancia con jurisdicción en el respectivo Municipio, a menos que se hubiese separado de sus funciones noventa días antes de la elección; e
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+h) No ser Magistrada o Magistrado del Tribunal Superior de Justicia, Juez de primera instancia con jurisdicción en el respectivo Municipio, a menos que se hubiese separado de sus funciones noventa días antes de la elección;
 
-i). No ser Consejero Presidente o consejero electoral del Consejo General del Instituto Electoral del Estado de Zacatecas, a menos que haya concluido su encargo o se hubiese separado del mismo, dos años antes de la fecha de inicio del proceso electoral local correspondiente, y
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+i) No ser titular de la Presidencia del Consejo o persona consejera electoral del Consejo General del Instituto Electoral del Estado de Zacatecas, a menos que haya concluido su encargo o se hubiese separado del mismo, dos años antes de la fecha de inicio del proceso electoral local correspondiente;
 
-j) No ser Magistrado Presidente o magistrado del Tribunal de Justicia Electoral del Estado de Zacatecas, a menos que haya concluido su encargo o se hubiere separado del mismo, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+j) No ser persona Magistrada del Tribunal de Justicia Electoral del Estado de Zacatecas, a menos que haya concluido su encargo o se hubiere separado del mismo, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función;
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2911,17 +3111,17 @@ m) No estar inscrito o tener registro vigente como persona deudora alimentaria m
 
 n) No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o relación de pareja, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-IV. Los partidos políticos tendrán derecho a Regidores por el principio de representación proporcional, siempre y cuando reúnan los requisitos que establecen la Ley Orgánica del Municipio y la legislación electoral del Estado, y hayan obtenido por lo menos el tres por ciento de la votación válida emitida en el proceso electoral municipal correspondiente.
+IV. Los partidos políticos tendrán derecho a Regidurías por el principio de representación proporcional, siempre y cuando reúnan los requisitos que establecen la Ley Orgánica del Municipio y la legislación electoral del Estado, y hayan obtenido por lo menos el tres por ciento de la votación válida emitida en el proceso electoral municipal correspondiente.
 
-(REFORMADO, P.O. 1 DE OCTUBRE DE 2003) (F. DE E., P.O. 4 DE OCTUBRE DE 2003)
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-La ley establecerá las fórmulas y los procedimientos para la asignación de los Regidores por el principio de representación proporcional de los Ayuntamientos.
+La ley establecerá las fórmulas y los procedimientos para la asignación de las Regidurías por el principio de representación proporcional de los Ayuntamientos.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Si los Ayuntamientos se constituyen de cuatro Regidores de mayoría relativa, aumentará su número hasta con tres Regidores de representación proporcional. Si el Ayuntamiento se compone de seis Regidores de mayoría relativa, aumentará su número hasta con cuatro Regidores de representación proporcional. Si el Ayuntamiento se integra con siete Regidores de mayoría relativa aumentará su número hasta con cinco Regidores de representación proporcional. Si el Ayuntamiento se integra con ocho Regidores de mayoría relativa aumentará su número hasta con seis Regidores de representación proporcional
+Si los Ayuntamientos se constituyen de cuatro Regidurías de mayoría relativa, aumentará su número hasta con tres Regidurías de representación proporcional. Si el Ayuntamiento se compone de seis Regidurías de mayoría relativa, aumentará su número hasta con cuatro Regidurías de representación proporcional. Si el Ayuntamiento se integra con siete Regidurías de mayoría relativa aumentará su número hasta con cinco Regidurías de representación proporcional. Si el Ayuntamiento se integra con ocho Regidurías de mayoría relativa aumentará su número hasta con seis Regidurías de representación proporcional.
 
 (REFORMADO, P.O. 1 DE OCTUBRE DE 2003) (F. DE E., P.O. 4 DE OCTUBRE DE 2003)
 
@@ -2933,15 +3133,23 @@ V. (DEROGADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)
 
 Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de los cargos que integran el ayuntamiento, cualquiera que sea la denominación que se les dé, podrán ser electas para el período inmediato.
 
-VI. Los cargos de los integrantes de los Ayuntamientos sólo son renunciables por causas graves que serán calificadas por la Legislatura del Estado;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-VII. El quince de septiembre del año de la elección, el Presidente Municipal saliente o el representante designado por el Ejecutivo estatal tomará la protesta consignada en la presente Constitución al Presidente Municipal electo, quien a su vez la tomará a los demás miembros del Ayuntamiento que tengan el carácter de propietarios;
+VI. Los cargos de las personas integrantes de los Ayuntamientos sólo son renunciables por causas graves que serán calificadas por la Legislatura del Estado;
 
-VIII. La ley reglamentaria fijará el procedimiento a seguir en el caso de los integrantes que no se presenten a rendir la protesta; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VII. El quince de septiembre del año de la elección, la Presidenta o el Presidente Municipal saliente o la persona representante designada por el Ejecutivo estatal tomará la protesta consignada en la presente Constitución a la Presidenta o Presidente Municipal electo, quien a su vez la tomará a las demás personas integrantes del Ayuntamiento que tengan el carácter de propietarias o propietarios;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VIII. La ley reglamentaria fijará el procedimiento a seguir en el caso de las y los integrantes que no se presenten a rendir la protesta; y
 
 IX. De acuerdo con lo que determine la ley reglamentaria, en los centros de población del Municipio, excepto en la cabecera del mismo, se elegirá en reunión vecinal mediante voto universal, directo y secreto, a los órganos auxiliares del Ayuntamiento.
 
-Los integrantes de los órganos auxiliares en los términos que señale la ley reglamentaria, tendrán el carácter de Delegados Municipales, no se considerarán parte del Ayuntamiento pero podrán asistir a las sesiones públicas y abiertas que éste celebre, para exponer los asuntos que atañen a la comunidad que representan, teniendo voz pero no voto.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Los integrantes de los órganos auxiliares en los términos que señale la ley reglamentaria, tendrán el carácter de Delegadas o Delegados Municipales, no se considerarán parte del Ayuntamiento pero podrán asistir a las sesiones públicas y abiertas que éste celebre, para exponer los asuntos que atañen a la comunidad que representan, teniendo voz pero no voto.
 
 ### CAPÍTULO SEGUNDO. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
 
@@ -2973,9 +3181,9 @@ Por ningún medio se podrán establecer exenciones o subsidios en favor de perso
 
 Los Ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura las tasas, cuotas y tarifas aplicables a impuestos, derechos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Presentadas antes del día primero de noviembre de cada año, la Legislatura aprobará las leyes de ingresos de los Municipios y revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles y en los mismos, deberán incluirse los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 160 de esta Constitución y demás disposiciones aplicables. Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos, cuando medie el Ayuntamiento solicitud suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso el Presidente Municipal a informar de las razones que lo motiven.
+Presentadas antes del día primero de noviembre de cada año, la Legislatura aprobará las leyes de ingresos de los Municipios y revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles y en los mismos, deberán incluirse los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas municipales, sujetándose a lo dispuesto en el artículo 160 de esta Constitución y demás disposiciones aplicables. Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos, cuando medie el Ayuntamiento solicitud suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso la Presidenta o el Presidente Municipal a informar de las razones que lo motiven.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos o por quien éstos autoricen conforme a la ley.
 
@@ -3037,13 +3245,13 @@ La enajenación de inmuebles que formen parte del patrimonio inmobiliario del mu
 
 Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios observarán lo dispuesto por las leyes federales y las que de esta Constitución se deriven.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-VII. La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+VII. La policía preventiva municipal estará al mando de la Presidenta o del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que la Gobernadora o el Gobernador del Estado le transmita en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
-El Presidente de los Estados Unidos Mexicanos tendrá el mando de la fuerza pública en los Municipios donde resida habitual o transitoriamente.
+La Presidenta o el Presidente de los Estados Unidos Mexicanos tendrá el mando de la fuerza pública en los Municipios donde resida habitual o transitoriamente.
 
-Los Presidentes Municipales quedan obligados a prestar, previa solicitud de las autoridades electorales, el auxilio de la fuerza pública y los apoyos que requieran para la preservación del orden público en los procesos electorales.
+Las Presidentas y Presidentes Municipales quedan obligados a prestar, previa solicitud de las autoridades electorales, el auxilio de la fuerza pública y los apoyos que requieran para la preservación del orden público en los procesos electorales;
 
 VIII. Fortalecer el gobierno democrático en las comunidades y centros de población; promover la realización de foros para el análisis de los problemas municipales y constituir organismos populares de consulta para la planeación y elaboración de los programas operativos anuales, la participación comunitaria en las tareas del desarrollo municipal y la supervisión de la obra de gobierno, en los términos que señalen las leyes respectivas;
 
@@ -3055,11 +3263,17 @@ Todos los reglamentos municipales deberán ser publicados antes del inicio de su
 
 El incumplimiento de estas obligaciones dará motivo a las sanciones que establezcan las leyes respectivas;
 
-X. Convocar a los ciudadanos para que presenten iniciativas de reglamentos municipales y propuestas para mejorar la administración y los servicios públicos;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-XI. Resolver los asuntos de su incumbencia en forma colegiada, en sesiones ordinarias o extraordinarias, públicas o privadas, según las características y trascendencia de los temas a tratar, que deberán ser presididas por el Presidente Municipal de acuerdo al reglamento interior;
+X. Convocar a las ciudadanas y los ciudadanos para que presenten iniciativas de reglamentos municipales y propuestas para mejorar la administración y los servicios públicos;
 
-XII. Las sesiones ordinarias se celebrarán por lo menos una vez al mes y tendrán lugar, alternadamente, en el recinto oficial del Cabildo o en forma itinerante, a efecto de que los ciudadanos en general y los grupos constituidos conforme a la ley se enteren de los asuntos sobre los que se delibera, aporten puntos de vista coincidentes con el interés colectivo y tomen nota de los acuerdos que en cada caso sean adoptados por el Ayuntamiento;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XI. Resolver los asuntos de su incumbencia en forma colegiada, en sesiones ordinarias o extraordinarias, públicas o privadas, según las características y trascendencia de los temas a tratar, que deberán ser presididas por la Presidenta o el Presidente Municipal de acuerdo al reglamento interior;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XII. Las sesiones ordinarias se celebrarán por lo menos una vez al mes y tendrán lugar, alternadamente, en el recinto oficial del Cabildo o en forma itinerante, a efecto de que la ciudadanía en general y los grupos constituidos conforme a la ley se enteren de los asuntos sobre los que se delibera, aporten puntos de vista coincidentes con el interés colectivo y tomen nota de los acuerdos que en cada caso sean adoptados por el Ayuntamiento;
 
 XIII. Someter a plebiscito los actos que por su trascendencia requieran la aprobación de los habitantes del Municipio, de conformidad con el procedimiento y los términos precisados en la ley;
 
@@ -3077,7 +3291,9 @@ XIX. Vigilar el cumplimiento del Plan Estatal de Desarrollo y los programas sect
 
 XX. Mantener actualizada la estadística del Municipio;
 
-XXI. Facultar al Presidente Municipal para celebrar contratos con particulares e instituciones oficiales sobre asuntos de interés público; se requiere la aprobación de la Legislatura para la enajenación y gravamen de bienes muebles e inmuebles propiedad del Municipio; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XXI. Facultar a la Presidenta Municipal o al Presidente Municipal para celebrar contratos con particulares e instituciones oficiales sobre asuntos de interés público; se requiere la aprobación de la Legislatura para la enajenación y gravamen de bienes muebles e inmuebles propiedad del Municipio, y
 
 XXII. Admitir o desechar las licencias que solicitaren sus integrantes.
 
@@ -3127,19 +3343,21 @@ V. El Estado y los Municipios, en los términos de las leyes aplicables, podrán
 
 Los Municipios podrán convenir con el gobierno del Estado, asumir la prestación de los servicios o el ejercicio de las funciones a las que se refiere el segundo párrafo de la fracción VII del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 121.
 
-Los Ayuntamientos someterán a la consideración de la Legislatura la aprobación de sus leyes de ingresos y tendrán facultades para aprobar los respectivos presupuestos de egresos con base en la disponibilidad de sus ingresos, tomando en cuenta las prioridades que fijen los planes de desarrollo y los programas operativos anuales del año que corresponda, debiendo observar las normas que expida el Poder Legislativo en cuanto a manejo presupuestal y cuenta pública, como las relativas a las remuneraciones que por el desempeño de su función, empleo, cargo, comisión o responsabilidad, contengan los tabuladores de remuneraciones previstos en sus respectivos presupuestos de egresos para sus servidores públicos.
+Los Ayuntamientos someterán a la consideración de la Legislatura la aprobación de sus leyes de ingresos y tendrán facultades para aprobar los respectivos presupuestos de egresos con base en la disponibilidad de sus ingresos, tomando en cuenta las prioridades que fijen los planes de desarrollo y los programas operativos anuales del año que corresponda, debiendo observar las normas que expida el Poder Legislativo en cuanto a manejo presupuestal y cuenta pública, como las relativas a las remuneraciones que por el desempeño de su función, empleo, cargo, comisión o responsabilidad, contengan los tabuladores de remuneraciones previstos en sus respectivos presupuestos de egresos para sus personas servidoras públicas.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
 A más tardar el 30 de abril del año siguiente a la conclusión del año fiscal, el Ayuntamiento enviará a la Legislatura la cuenta pública, junto con los informes y documentos que justifiquen la aplicación de los ingresos y egresos, el cumplimiento de las metas propuestas en el Plan Municipal y en los programas operativos anuales, así como el manejo del crédito y la situación de la deuda pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 122.
 
-Los miembros del Ayuntamiento, el Presidente Municipal y los servidores públicos de la administración municipal, son personalmente responsables de los actos que en el ejercicio de sus funciones ejecuten en contravención de las leyes.
+Las personas integrantes del Ayuntamiento, la Presidenta o el Presidente Municipal y las personas servidoras públicas de la administración municipal, son personalmente responsables de los actos que en el ejercicio de sus funciones ejecuten en contravención de las leyes.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -3159,9 +3377,9 @@ Las actas, registros, constancias y demás documentos que expidan los Ayuntamien
 
 La facultad de crear, suprimir, restituir y fusionar Municipios compete a la Legislatura del Estado, la cual se sujetará a las siguientes prescripciones:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-I. Que la decisión de crear, suprimir, restituir o fusionar sea resultado de plebiscito en el que así lo decidan, por lo menos, el setenta por ciento de los ciudadanos que habiten la región;
+I. Que la decisión de crear, suprimir, restituir o fusionar sea resultado de plebiscito en el que así lo decidan, por lo menos, el setenta por ciento de las ciudadanas y los ciudadanos que habiten la región;
 
 II. Que la superficie territorial en que se pretenda constituir, no sea menor de ciento cincuenta kilómetros cuadrados;
 
@@ -3211,31 +3429,39 @@ La legislación ordinaria desarrollará las causas y bases del procedimiento.
 
 En caso de falta absoluta del Ayuntamiento en el primer año de su instalación, si la Legislatura está reunida designará un Concejo Municipal interino y convocará a elecciones extraordinarias del Ayuntamiento que deberá terminar el periodo. Si la Legislatura no está reunida, la Comisión Permanente nombrará un Concejo Municipal provisional y convocará a periodo extraordinario de sesiones para dichos efectos.
 
-Hay falta absoluta de Ayuntamiento cuando no se hubiesen efectuado las elecciones; se hubieran declarado nulas; no se presente el Ayuntamiento a rendir la protesta; por renuncia mayoritaria de sus miembros; por haber sido declarado desaparecido, o por muerte o incapacidad absoluta de la mayoría de sus integrantes.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE AGOSTO DE 2001)</small>
+Hay falta absoluta de Ayuntamiento cuando no se hubiesen efectuado las elecciones; se hubieran declarado nulas; no se presente el Ayuntamiento a rendir la protesta; por renuncia mayoritaria de sus integrantes; por haber sido declarado desaparecido, o por muerte o incapacidad absoluta de la mayoría de sus integrantes.
 
-Si la falta absoluta del Ayuntamiento acontece en los dos últimos años de su ejercicio, la Legislatura nombrará un Concejo Municipal sustituto que termine el periodo y si no se encuentra reunida, la Comisión Permanente nombrará un Concejo Municipal provisional y citará a la Legislatura a periodo extraordinario de sesiones para los efectos indicados. Dichos Concejos se integrarán por un presidente, los síndicos y concejales como Regidores haya tenido el ayuntamiento declarado desaparecido. Debiendo cumplir los requisitos de elegibilidad establecidos por la ley.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente o se procederá según lo disponga la ley.
+Si la falta absoluta del Ayuntamiento acontece en los dos últimos años de su ejercicio, la Legislatura nombrará un Concejo Municipal sustituto que termine el periodo y si no se encuentra reunida, la Comisión Permanente nombrará un Concejo Municipal provisional y citará a la Legislatura a periodo extraordinario de sesiones para los efectos indicados. Dichos Concejos se integrarán por una persona titular de la Presidencia, una persona titular de la sindicatura y tantos concejales como Regidurías haya tenido el ayuntamiento declarado desaparecido. Debiendo cumplir los requisitos de elegibilidad establecidos por la ley.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Si alguna persona integrante del Ayuntamiento dejare de desempeñar su cargo, será sustituida por su suplente o se procederá según lo disponga la ley.
 
 ### CAPÍTULO QUINTO. DEL GOBIERNO MUNICIPAL
 
 #### SECCIÓN PRIMERA. DEL GOBIERNO Y DE LAS DEPENDENCIAS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 127.
 
-El gobierno municipal se deposita en una asamblea que se denominará "Ayuntamiento", integrada por el Presidente, el Síndico y los Regidores.
+El gobierno municipal se deposita en una asamblea que se denominará “Ayuntamiento”, integrada por una Presidencia, una Sindicatura y las Regidurías.
 
-La Ley Orgánica del Municipio Libre determinará las facultades y obligaciones que competen a cada uno de los integrantes del Ayuntamiento, así como la organización y funcionamiento de las dependencias administrativas.
+La Ley Orgánica del Municipio determinará las facultades y obligaciones que competen a cada una de las personas integrantes del Ayuntamiento, así como la organización y funcionamiento de las dependencias administrativas.
 
 #### SECCIÓN SEGUNDA. DE LA REPRESENTACIÓN Y PERSONERÍA DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 128.
 
-El Presidente Municipal tendrá a su cargo la representación del Gobierno del Municipio y la ejecución de las resoluciones del Ayuntamiento.
+La Presidenta o el Presidente Municipal tendrá a su cargo la representación del Gobierno del Municipio y la ejecución de las resoluciones del Ayuntamiento.
 
-El Síndico municipal asumirá la representación jurídica en los juicios en que el Ayuntamiento sea parte. A falta o negativa del Síndico, tal personería recaerá en el Presidente Municipal.
+La Síndica o el Síndico municipal asumirá la representación jurídica en los juicios en que el Ayuntamiento sea parte. A falta o negativa de la Síndica o del Síndico, tal personería recaerá en la Presidenta o el Presidente Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -3325,11 +3551,13 @@ El ejercicio de los recursos que administren los entes públicos estatales y mun
 
 Se crea el Sistema Estatal Anticorrupción que será la instancia de coordinación entre las autoridades, órganos, organismos y tribunales competentes para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como la fiscalización y control de recursos públicos. La ley establecerá las bases para el cumplimiento de su objeto, la cual se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado, de la Fiscalía Especializada en Combate a la Corrupción, el titular del órgano interno de control del Poder Ejecutivo del Estado, por el Presidente del Tribunal de Justicia Administrativa del Estado de Zacatecas y un representante del Tribunal Superior de Justicia y otro del Comité de Participación Ciudadana;
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado, de la Fiscalía Especializada en Combate a la Corrupción, la persona titular del órgano interno de control del Poder Ejecutivo del Estado, por quien presida el Tribunal de Justicia Administrativa del Estado de Zacatecas y una persona representante del Tribunal Superior de Justicia y otra del Comité de Participación Ciudadana;
 
-II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco personas ciudadanas que hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley;
 
 III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la ley:
 
@@ -3347,13 +3575,17 @@ e) La elaboración de un informe anual que contenga los avances y resultados del
 
 Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas. Para este efecto deberán observar las metodologías que emita el Sistema Nacional Anticorrupción.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 139.
 
-La secretaría del ramo sólo hará los pagos autorizados por el Gobernador y que estén contemplados dentro del Presupuesto de Egresos.
+La secretaría del ramo sólo hará los pagos autorizados por la Gobernadora o el Gobernador y que estén contemplados dentro del Presupuesto de Egresos.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 140.
 
-Todo servidor público que maneje fondos del erario, es personal y pecuniariamente responsable de los pagos que hiciere; deberá otorgar garantía a satisfacción de la Secretaría correspondiente
+Toda persona servidora pública que maneje fondos del erario, es personal y pecuniariamente responsable de los pagos que hiciere; deberá otorgar garantía a satisfacción de la Secretaría correspondiente.
 
 ###### Artículo 141.
 
@@ -3387,9 +3619,9 @@ Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, la pre
 
 Cuando las licitaciones a que se hace referencia en el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán los procedimientos, requisitos, bases, reglas y demás elementos para garantizar la economía, eficiencia, imparcialidad y honradez.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Los servidores públicos y los particulares serán responsables del cumplimiento de estas bases en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Responsabilidades Administrativas, esta Constitución y demás disposiciones aplicables.
+Las personas servidoras públicas y los particulares serán responsables del cumplimiento de estas bases en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Responsabilidades Administrativas, esta Constitución y demás disposiciones aplicables.
 
 ### CAPÍTULO CUARTO. DEL PATRIMONIO Y LA HACIENDA DEL MUNICIPIO
 
@@ -3427,29 +3659,31 @@ Asimismo, se integrará con los ingresos provenientes del impuesto sobre diversi
 
 ### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 147.
 
-Para los efectos de las responsabilidades a que se refiere esta Constitución, se reputará como servidores públicos a los representantes de elección popular estatales y municipales; a los miembros del Poder Judicial del Estado; a los funcionarios y empleados de los Poderes Legislativo y Ejecutivo; a los integrantes, del Instituto Electoral del Estado, de la Comisión de Derechos Humanos del Estado, de la Fiscalía General de Justicia del Estado, del Tribunal de Justicia Administrativa del Estado de Zacatecas, a los Magistrados de otros tribunales y, en general, a toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza al servicio de la Administración Pública centralizada y paraestatal, municipal, paramunicipal e intermunicipal, quienes serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones.
+Para los efectos de las responsabilidades a que se refiere esta Constitución, se reputará como personas servidoras públicas a las representantes de elección popular estatales y municipales; a las personas integrantes del Poder Judicial del Estado; a las personas funcionarias y empleadas de los Poderes Legislativo y Ejecutivo; a las personas integrantes del Instituto Electoral del Estado, de la Comisión de Derechos Humanos del Estado, de la Fiscalía General de Justicia del Estado, del Tribunal de Justicia Administrativa del Estado de Zacatecas, a las Magistradas y Magistrados de otros tribunales y, en general, a toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza al servicio de la Administración Pública centralizada y paraestatal, municipal, paramunicipal e intermunicipal, quienes serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Los servidores públicos a los que se refiere este artículo, estarán obligados a presentar anualmente, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes, de conformidad con lo que determinen las leyes aplicables.
+Las personas servidoras públicas a las que se refiere este artículo, estarán obligadas a presentar anualmente, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes, de conformidad con lo que determinen las leyes aplicables.
 
 Son inatacables las declaraciones y resoluciones que de conformidad con lo dispuesto en este Título, expidan la Legislatura o el Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 148.
 
-El Gobernador del Estado, los Diputados a la Legislatura local y los Magistrados del Tribunal Superior de Justicia, así como los miembros de los organismos a los que esta Constitución les otorgue autonomía, serán responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos.
+La Gobernadora o el Gobernador del Estado, las Diputadas y los Diputados a la Legislatura local, y las Magistradas y Magistrados del Tribunal Superior de Justicia, así como las personas integrantes de los organismos a los que esta Constitución les otorgue autonomía, serán responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos.
 
-El Gobernador del Estado durante el tiempo de su encargo y mediante juicio político o en su caso declaración de procedencia, sólo podrá ser acusado por violaciones graves y sistemáticas a la Constitución Política local, por actos u omisiones que obstruyan o impidan el libre ejercicio de la función de los derechos electorales y por delitos graves del orden común.
+La Gobernadora o el Gobernador del Estado durante el tiempo de su encargo y mediante juicio político o en su caso declaración de procedencia, sólo podrá ser acusada o acusado por violaciones graves y sistemáticas a la Constitución Política local, por actos u omisiones que obstruyan o impidan el libre ejercicio de la función de los derechos electorales y por delitos graves del orden común.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 149.
 
-En los casos en que los servidores públicos del Estado a quienes sea aplicable lo dispuesto por el segundo párrafo del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, hayan sido objeto de juicio político ante el Congreso de la Unión y éste comunique a la Legislatura del Estado la resolución declaratoria de condena, el órgano Legislativo local procederá a decretar la destitución del servidor público y su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+En los casos en que las personas servidoras públicas del Estado a quienes sea aplicable lo dispuesto por el segundo párrafo del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, hayan sido objeto de juicio político ante el Congreso de la Unión y éste comunique a la Legislatura del Estado la resolución declaratoria de condena, el órgano Legislativo local procederá a decretar la destitución de la persona servidora pública y su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
 
@@ -3457,27 +3691,31 @@ En los casos en que los servidores públicos del Estado a quienes sea aplicable 
 
 Las responsabilidades administrativas se regulan en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Responsabilidades Administrativas, sin perjuicio de las siguientes prevenciones:
 
-I. Se impondrán, mediante juicio político, las sanciones de destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones a los servidores públicos señalados en el artículo siguiente, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+I. Se impondrán, mediante juicio político, las sanciones de destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones a las personas servidoras públicas señaladas en el artículo siguiente, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
 No procede el juicio político por la mera expresión de ideas;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-II. La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal;
+II. La comisión de delitos por parte de cualquier persona servidora pública o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
+III. Se aplicarán sanciones administrativas a las personas servidoras públicas por los actos u omisiones que afecten los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Los procedimientos para la aplicación de las sanciones derivadas de las responsabilidades de los servidores públicos, se desarrollarán autónomamente. No podrán imponerse dos veces sanciones de la misma naturaleza por una sola conducta.
+Los procedimientos para la aplicación de las sanciones derivadas de las responsabilidades de las servidoras o los servidores públicos, se desarrollarán autónomamente. No podrán imponerse dos veces sanciones de la misma naturaleza por una sola conducta.
 
-Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o con motivo del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y la privación de la propiedad de dichos bienes, además de las penas distintas que correspondan.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a las personas servidoras públicas que durante el tiempo de su encargo, o con motivo del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y la privación de la propiedad de dichos bienes, además de las penas distintas que correspondan.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Legislatura, en los términos que disponga la Ley, respecto de las conductas que puedan constituir hechos de corrupción.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Cualquier ciudadana o ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Legislatura, en los términos que disponga la Ley, respecto de las conductas que puedan constituir hechos de corrupción.
 
 > <small>(DEROGADO QUINTO PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
 
@@ -3497,53 +3735,73 @@ La Auditoría Superior del Estado, la dependencia encargada del control interno 
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE JUICIO POLÍTICO
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 151.
 
-Podrán ser sujetos de juicio político, los Diputados a la Legislatura del Estado; los Magistrados, Magistradas, Juezas y Jueces, del Tribunal Superior de Justicia; Magistradas y Magistrados del Tribunal de Disciplina Judicial, del Tribunal de Justicia Electoral del Estado, del Tribunal de Justicia Administrativa, del Tribunal de Justicia Laboral Burocrática; las personas Consejeras del Órgano de Administración Judicial, el Fiscal General de Justicia del Estado; el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral del Estado de Zacatecas; los Jueces del fuero común; los miembros de los Ayuntamientos; los Secretarios de despacho del Ejecutivo; los miembros de los organismos a los que esta Constitución les otorgue autonomía y los directores generales, o sus equivalentes, de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones similares a éstas y fideicomisos públicos.
+Podrán ser sujetos de juicio político, las Diputadas y Diputados a la Legislatura del Estado; los Magistrados, Magistradas, Juezas y Jueces, del Tribunal Superior de Justicia; Magistradas y Magistrados del Tribunal de Disciplina Judicial, del Tribunal de Justicia Electoral del Estado, del Tribunal de Justicia Administrativa, del Tribunal de Justicia Laboral Burocrática; las personas Consejeras del Órgano de Administración Judicial, la persona titular de la Fiscalía General de Justicia del Estado; la persona que preside el Consejo General, las personas Consejeras Electorales y la persona titular de la Secretaría Ejecutiva del Instituto Electoral del Estado de Zacatecas; las Juezas y Jueces del fuero común; las personas integrantes de los Ayuntamientos; las personas titulares de las Secretarías de despacho del Ejecutivo; las personas integrantes de los organismos a los que esta Constitución les otorgue autonomía y las personas titulares de las direcciones generales, o sus equivalentes, de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones similares a éstas y fideicomisos públicos.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 152.
 
-Todo juicio político deberá iniciarse ante la Legislatura del Estado, la que asumirá el carácter de Jurado de Instrucción. Si resolviese por mayoría de votos que la denuncia es improcedente o el indiciado no es culpable, éste continuará en el desempeño de su cargo y no podrá ser acusado por los mismos hechos durante el periodo de su ejercicio.
+Todo juicio político deberá iniciarse ante la Legislatura del Estado, la que asumirá el carácter de Jurado de Instrucción. Si resolviese por mayoría de votos que la denuncia es improcedente o la persona indiciada no es culpable, ésta continuará en el desempeño de su cargo y no podrá ser acusada por los mismos hechos durante el periodo de su ejercicio.
 
-Si la resolución fuese condenatoria, el propio Jurado de Instrucción ordenará su separación inmediata del cargo y dará vista con el expediente al Tribunal Superior de Justicia para que como Jurado de Sentencia, determine el tiempo durante el cual permanecerá inhabilitado
+Si la resolución fuese condenatoria, el propio Jurado de Instrucción ordenará su separación inmediata del cargo y dará vista con el expediente al Tribunal Superior de Justicia para que como Jurado de Sentencia, determine el tiempo durante el cual permanecerá inhabilitada.
 
 ### CAPÍTULO TERCERO. DE LA DECLARACIÓN DE PROCEDENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 153.
 
-Para proceder penalmente contra los servidores públicos señalados en el artículo 151 de esta Constitución por la comisión de delitos durante el tiempo de su encargo, la Legislatura declarará por mayoría de dos terceras partes de sus miembros presentes en sesión, si ha lugar o no a proceder contra el inculpado.
+Para proceder penalmente contra las personas servidoras públicas señaladas en el artículo 151 de esta Constitución por la comisión de delitos durante el tiempo de su encargo, la Legislatura declarará por mayoría de dos terceras partes de sus integrantes presentes en sesión, si ha lugar o no a proceder contra la persona inculpada.
 
-Si la resolución de la Legislatura fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la resolución no prejuzga sobre los fundamentos de la imputación.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Si la Legislatura declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley.
+Si la resolución de la Legislatura fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando la persona inculpada haya concluido el ejercicio de su encargo, pues la resolución no prejuzga sobre los fundamentos de la imputación.
 
-No se requerirá declaración de procedencia de la Legislatura del Estado cuando el servidor público inculpado por delitos del orden común haya incurrido en ellos durante un lapso en que estuvo separado de su encargo. Pero si la acusación o el ejercicio de la acción penal se intentan cuando el inculpado ha vuelto a desempeñar sus funciones o ha sido electo para un cargo distinto comprendido en los que se enumeran en el artículo 151, se procederá de acuerdo con lo dispuesto en este capítulo.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+Si la Legislatura declara que ha lugar a proceder, la persona inculpada quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley.
 
-Las sanciones penales se aplicarán conforme a lo dispuesto en la legislación de la materia y deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados, cuando se trate de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+No se requerirá declaración de procedencia de la Legislatura del Estado cuando la persona servidora pública inculpada por delitos del orden común haya incurrido en ellos durante un lapso en que estuvo separado de su encargo. Pero si la acusación o el ejercicio de la acción penal se intentan cuando la persona inculpada ha vuelto a desempeñar sus funciones o ha sido electa para un cargo distinto comprendido en los que se enumeran en el artículo 151, se procederá de acuerdo con lo dispuesto en este capítulo.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+El efecto de la declaración de que ha lugar a proceder contra la persona inculpada será separarla de su encargo en tanto esté sujeta a proceso penal. Si éste culmina en sentencia absolutoria, la persona inculpada podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá la gracia del indulto.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Las sanciones penales se aplicarán conforme a lo dispuesto en la legislación de la materia y deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados, cuando se trate de delitos por cuya comisión la autora o autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales
 
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
 
-En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá de declaración de procedencia.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+En demandas del orden civil que se entablen contra cualquier persona servidora pública no se requerirá de declaración de procedencia.
 
 ### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 154.
 
-Tratándose de responsabilidades administrativas de los servidores públicos y de particulares vinculados con faltas administrativas, la ley de la materia determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, eficiencia y eficacia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, podrán consistir en suspensión, destitución o inhabilitación, así como en sanciones económicas que deberán establecerse de acuerdo con los beneficios obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones.
+Tratándose de responsabilidades administrativas de las personas servidoras públicas y de particulares vinculados con faltas administrativas, la ley de la materia determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, eficiencia y eficacia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, podrán consistir en suspensión, destitución o inhabilitación, así como en sanciones económicas que deberán establecerse de acuerdo con los beneficios obtenidos por la persona responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones.
 
 ### CAPÍTULO QUINTO. DE LA PRESCRIPCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 155.
 
-El procedimiento de juicio político sólo podrá iniciarse durante el periodo en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en el término no mayor de un año a partir de iniciado el procedimiento.
+El procedimiento de juicio político sólo podrá iniciarse durante el periodo en el que la persona servidora pública desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en el término no mayor de un año a partir de iniciado el procedimiento.
 
-La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que hace referencia el artículo 151.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier persona servidora pública será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto la persona servidora pública desempeñe alguno de los encargos a que hace referencia el artículo 151.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -3553,57 +3811,81 @@ La ley señalará los casos de prescripción de la responsabilidad administrativ
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 156.
 
-Ningún ciudadano podrá desempeñar a la vez dos cargos de elección popular, cualesquiera que ellos sean; pero el nombrado puede optar por el que prefiera desempeñar.
+Ninguna ciudadana o ciudadano podrá desempeñar a la vez dos cargos de elección popular, cualesquiera que ellos sean; pero la o el nombrado puede optar por el que prefiera desempeñar.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 157.
 
-A los servidores o empleados públicos que aceptaren su cargo sin cumplir uno o varios de los requisitos exigidos por esta Constitución, además de la pena que las leyes señalen, se les impondrá la de suspensión en el ejercicio de sus derechos ciudadanos durante un año.
+A las personas servidoras o empleadas públicas que aceptaren su cargo sin cumplir uno o varios de los requisitos exigidos por esta Constitución, además de la pena que las leyes señalen, se les impondrá la de suspensión en el ejercicio de sus derechos ciudadanos durante un año.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 158.
 
-Todo servidor o empleado público, para iniciar el desempeño de su cargo deberá rendir la Protesta de ley, ante quien corresponda, de la siguiente forma:
+Toda persona servidora o empleada pública, para iniciar el desempeño de su cargo deberá rendir la protesta de ley, ante quien corresponda, de la siguiente forma:
 
 Se le requerirá: "¿Protestáis desempeñar leal y patrióticamente el cargo (aquí el que corresponda) que se os ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ellas emanen, mirando en todo por el bien y la prosperidad de la Unión y por el bien y la prosperidad del Estado?" Deberá contestar: "Sí protesto". Se le responderá: "Si así no lo hiciéreis, la Nación y el Estado os lo demanden".
 
-El Gobernador y el Presidente de la Legislatura protestarán por sí ante la propia Legislatura.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+La Gobernadora o el Gobernador y la Presidenta o el Presidente de la Legislatura protestarán por sí ante la propia Legislatura.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 159.
 
-Ningún empleado al servicio de los Poderes del Estado podrá ser destituido sin causa justificada.
+Ninguna persona empleada al servicio de los Poderes del Estado podrá ser destituida sin causa justificada.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 160.
 
-Todos los servidores y empleados al servicio de los Poderes del Estado y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos públicos autónomos y cualquier otro ente público, así como los de elección popular, recibirán por sus servicios una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades, y la cual se determinará anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+Todas las personas servidoras y empleadas al servicio de los Poderes del Estado y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos públicos autónomos y cualquier otro ente público, así como los de elección popular, recibirán por sus servicios una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades, y la cual se determinará anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción precedente, por el desempeño de su función, empleo, cargo, comisión o responsabilidad, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
+II. Ninguna persona servidora pública podrá recibir remuneración, en términos de la fracción precedente, por el desempeño de su función, empleo, cargo, comisión o responsabilidad, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
 
-En las administraciones municipales, ningún regidor, síndico, funcionario, director o coordinador de instituto descentralizado u organismo paramunicipal, consultor o asesor, podrá recibir remuneración mayor a la establecida en el presupuesto correspondiente para quien sea Titular de la Presidencia Municipal;
+En las administraciones municipales, ninguna regidora, regidor, síndica, síndico, funcionaria, funcionario, directora, director, coordinadora o coordinador de instituto descentralizado u organismo paramunicipal, consultora o consultor, asesora o asesor, podrá recibir remuneración mayor a la establecida en el presupuesto correspondiente para quien sea Titular de la Presidencia Municipal;
 
-III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos; que su remuneración sea producto de las condiciones generales de trabajo; derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida en el presupuesto correspondiente para quien sea Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-IV. No se concederán ni cubrirán jubilaciones; pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstos (sic) se encuentren asignadas por la ley, decreto, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado, y
+III. Ninguna persona servidora pública podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos; que su remuneración sea producto de las condiciones generales de trabajo; derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida en el presupuesto correspondiente para quien sea Titular del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+IV. No se concederán ni cubrirán jubilaciones; pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstos (sic) se encuentren asignadas por la ley, decreto, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran las personas servidoras públicas por razón del cargo desempeñado, y
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 V. Las remuneraciones y sus tabuladores serán públicos y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
-La Legislatura deberá establecer las sanciones penales y administrativas que hagan posible el procedimiento sancionatorio para aquellos servidores públicos que incurran en incumplimiento, elusión o simulación de las normas establecidas en el presente artículo.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+La Legislatura deberá establecer las sanciones penales y administrativas que hagan posible el procedimiento sancionatorio para aquellas personas servidoras públicas que incurran en incumplimiento, elusión o simulación de las normas establecidas en el presente artículo.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 161.
 
-Ninguna licencia con goce de sueldo a servidores o empleados al servicio de los Poderes del Estado podrá exceder de dos meses, ni de seis en cualquier otro caso, y se concederán de conformidad con lo que determinen las leyes.
+Ninguna licencia con goce de sueldo a personas servidoras o empleadas al servicio de los Poderes del Estado podrá exceder de dos meses, ni de seis en cualquier otro caso, y se concederán de conformidad con lo que determinen las leyes.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 162.
 
-Cuando desaparezcan los Poderes Legislativo y Ejecutivo del Estado, el Tribunal Superior de Justicia, por voto de mayoría de sus miembros, nombrará un Gobernador provisional; pero si desaparecieren todos los Poderes del Estado, se hará cargo del Gobierno, con el carácter de Gobernador provisional por ministerio de ley, el último Presidente del Tribunal Superior de Justicia y, a falta de éste, los demás, por orden regresivo de sus nombramientos; y, a falta de todos ellos, el último Presidente de la Legislatura desaparecida.
+Cuando desaparezcan los Poderes Legislativo y Ejecutivo del Estado, el Tribunal Superior de Justicia, por voto de mayoría de sus integrantes, nombrará una Gobernadora o Gobernador provisional; pero si desaparecieren todos los Poderes del Estado, se hará cargo del Gobierno, con el carácter de Gobernadora o Gobernador provisional por ministerio de ley, la última persona que presida el Tribunal Superior de Justicia y, a falta de ésta, las demás, por orden regresivo de sus nombramientos; y, a falta de todas ellas, la última persona que presida la Legislatura desaparecida.
 
-El Gobernador provisional, tan luego como las circunstancias lo permitan, convocará a elecciones de Gobernador y Diputados, no pudiendo ser electo para el periodo al que convoque.
+La Gobernadora o el Gobernador provisional, tan luego como las circunstancias lo permitan, convocará a elecciones de Gobernadora o Gobernador y Diputadas y Diputados, no pudiendo ser electo para el periodo al que convoque.
 
 ###### Artículo 163.
 
@@ -3621,7 +3903,9 @@ La presente Constitución puede ser adicionada o reformada. Para que las adicion
 
 I. (DEROGADA, P.O. 8 DE ABRIL DE 2026)
 
-II. Que las adiciones o reformas sean aprobadas, cuando menos, por el voto de las dos terceras partes del número total de Diputados que constituyan la Legislatura; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+II. Que las adiciones o reformas sean aprobadas, cuando menos, por el voto de las dos terceras partes del número total de Diputadas y Diputados que constituyan la Legislatura; y
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2026)</small>
 
@@ -3649,9 +3933,11 @@ Satisfechos los requisitos señalados por el artículo anterior, la Legislatura 
 
 El Estado reconoce como Ley Fundamental para su régimen interior la presente Constitución, la cual no perderá su fuerza y vigor aun cuando un trastorno público interrumpa su observancia. En caso de que se estableciere en el Estado un gobierno contrario a sus principios, tan luego como las condiciones lo hagan posible se restablecerá el orden constitucional, y con sujeción a esta Constitución y a las leyes serán juzgados los que la hubieren infringido.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 167.
 
-Esta Constitución es de observancia general, y ningún servidor público ni autoridad podrán dispensar el cumplimiento de sus disposiciones
+Esta Constitución es de observancia general, y ninguna persona servidora pública ni autoridad podrán dispensar el cumplimiento de sus disposiciones.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -4646,6 +4932,18 @@ En el caso de la prohibición establecida en el artículo 94 del presente Decret
 P.O. 8 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 324.- REFORMAS Y ADICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 370.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS”.]
 
 ###### ARTÍCULO PRIMERO.
 
