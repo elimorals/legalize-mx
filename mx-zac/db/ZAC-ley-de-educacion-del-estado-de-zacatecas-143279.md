@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-143279"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-17"
-last_updated: "2026-08-22"
+last_updated: "2026-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento al Número 49 del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de junio de 2020.
 
@@ -453,7 +453,9 @@ VII. Educación media superior a distancia, y
 
 VIII. Tecnólogo.
 
-Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en la presente Ley, como la educación dual con formación en escuela y empresa. La modalidad no escolarizada estará integrada, entre otros servicios, por la educación a distancia y aquellos que operen con base en la certificación por evaluaciones parciales.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en la presente Ley y a fin de fortalecer las aptitudes del estudiante e incrementar sus posibilidades de inserción laboral se podrá impartir la educación dual con formación en escuela y empresa. La modalidad no escolarizada estará integrada, entre otros servicios, por la educación a distancia y aquellos que operen con base en la certificación por evaluaciones parciales.
 
 Políticas para la inclusión, permanencia y continuidad en media superior
 
@@ -833,11 +835,13 @@ XIV. La promoción del emprendimiento, el fomento de la cultura del ahorro y la 
 
 XV. La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
 Acompañamiento de los educandos en su trayectoria formativa
 
 ###### Artículo 54.
 
-Las maestras y los maestros acompañarán a los educandos en sus trayectorias formativas en los distintos tipos, niveles, modalidades y opciones educativas, propiciando la construcción de aprendizajes interculturales, tecnológicos, científicos, humanísticos, sociales, biológicos, comunitarios y plurilingües, para acercarlos a la realidad, a efecto de interpretarla y participar en su transformación positiva.
+Las maestras y los maestros acompañarán a los educandos en sus trayectorias formativas en los distintos tipos, niveles, modalidades y opciones educativas, utilizando el apoyo psicopedagógico, así como propiciando la construcción de aprendizajes interculturales, tecnológicos, científicos, humanísticos, sociales, biológicos, comunitarios y plurilingües, para acercarlos a la realidad, a efecto de interpretarla y participar en su transformación positiva.
 
 Evaluación integral del educando
 
@@ -899,7 +903,9 @@ IV. El fomento de la investigación, la ciencia, la tecnología y la innovación
 
 V. El conocimiento y, en su caso, el aprendizaje de lenguas indígenas de nuestro país, la importancia de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas;
 
-VI. El aprendizaje de las lenguas extranjeras;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VI. El aprendizaje de las lenguas extranjeras para ampliar los conocimientos, capacidades y aptitudes de los alumnos;
 
 VII. El fomento de la activación física, la práctica del deporte y la educación física;
 
@@ -1599,7 +1605,9 @@ Las autoridades educativas promoverán acciones similares para el caso de la edu
 
 XIV. Adoptar las medidas para que, con independencia de su nacionalidad o condición migratoria, las niñas, niños, adolescentes o jóvenes que utilicen los servicios educativos públicos, ejerzan los derechos y gocen de los beneficios con los que cuentan los educandos nacionales, instrumentando estrategias para facilitar su incorporación y permanencia en el Sistema Educativo Estatal;
 
-XV. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XV. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna, de acuerdo con el nivel educativo, por grados escolares, créditos académicos, por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación federal respectiva;
 
 > <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
@@ -2256,6 +2264,18 @@ P.O. 22 DE AGOSTO DE 2026.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente instrumento.
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 330.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
 ###### ARTÍCULO SEGUNDO.
 
