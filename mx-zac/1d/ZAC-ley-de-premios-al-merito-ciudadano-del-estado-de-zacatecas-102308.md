@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-premios-al-merito-ciudadano-del-estado-de-zacatecas-1023
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-03"
-last_updated: "2014-09-03"
+last_updated: "2026-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102308&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PREMIOS AL MÉRITO CIUDADANO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de septiembre de 2014.
 
@@ -130,6 +130,10 @@ XV. Premio Estatal de Música “Manuel M. Ponce”;
 XVI. Premio Estatal al Mérito de Servicios de Salud “Francisco Esparza Sánchez, Guillermo López de Lara Leyva y Jairo R. Dyer”; y
 
 XVII. Premio Estatal de Protección del Patrimonio Cultural Tangible e Intangible “Genaro Borrego Suárez del Real, Eugenio del Hoyo y Federico Sescosse Lejeune”.
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+XVIII. Premio Estatal a la Creatividad e Innovación.
 
 ###### ARTÍCULO 9.
 
@@ -789,6 +793,38 @@ La instancia ante la cual se podrá promover la entrega de dicha condecoración 
 
 El Premio consistirá en la entrega de un Diploma, una Placa y una Medalla, siendo el grabado de la parte frontal de la Medalla los rostros de Genaro Borrego Suárez del Real, Eugenio del Hoyo y Federico Sescosse Lejeune conjuntamente con el lema “El Trabajo Todo lo Vence”. Dichos honores serán entregados en ceremonia solemne, preferentemente el once de diciembre, en el marco del Día de la Declaratoria de Zacatecas como Patrimonio Cultural de la UNESCO.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+#### Sección Décima Octava. Del Premio Estatal a la Creatividad e Innovación
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+ARTÍCULO 105 BIS.- Se crea el Premio Estatal a la Creatividad e Innovación, que se entregará a las personas físicas o morales de Zacatecas, que realicen aportaciones, ideas, inventos o productos con gran potencial científico, tecnológico, educativo y comercial, que propicien el desarrollo económico del Estado; así como a las y los ciudadanos zacatecanos que realicen investigaciones o estudios en materia económica o tecnológica, encaminados a fortalecer las cadenas productivas y propiciar la competitividad de nuestra entidad en la economía nacional y global.
+
+El Premio Estatal a la Creatividad e Innovación, se entregará en las siguientes categorías:
+
+I. Comercio.
+
+II. Ciencia y Tecnología.
+
+III. Educación.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+ARTÍCULO 105 TER.- El Consejo de Premiación para el Premio Estatal a la Creatividad e Innovación se integrará por:
+
+I. Un Presidente, cuyo cargo será ostentado por la o el Titular de la Secretaría de Economía del Gobierno del Estado;
+
+II. Un Vocal, designado por la Rectoría de la Universidad Autónoma de Zacatecas;
+
+III. Un Vocal, representante de las Cámaras Empresariales legalmente constituidas en la entidad; y
+
+IV. Un Secretario Técnico, designado por el Presidente del Consejo de Premiación.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+ARTÍCULO 105 QUATER.- El Premio consistirá en un Diploma, una Placa y una Medalla que llevará grabado el Escudo de Armas del Estado y el lema "El Trabajo Todo lo Vence". Dichos honores serán entregados en sesión solemne o acto público oficial, preferentemente el día 21 de abril de cada año.
+
 ### CAPÍTULO SEXTO. DEL LIBRO DE HONOR
 
 ###### ARTÍCULO 106.
@@ -844,3 +880,11 @@ LIC. MIGUEL ALEJANDRO ALONSO REYES.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. FRANCISCO ESCOBEDO VILLEGAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 350.- SE REFORMA LA LEY DE PREMIOS AL MÉRITO CIUDADANO DEL ESTADO DE ZACATECAS".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
