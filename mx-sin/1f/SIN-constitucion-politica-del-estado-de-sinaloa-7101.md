@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2026-08-26"
+last_updated: "2026-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -845,11 +845,17 @@ d) Las personas que habiendo ejercido algún cargo de elección popular o dentro
 
 e) Las personas obligadas y que derivado de su empleo o cargo de mando dentro del servicio público, incumplan con la aplicación del principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VI. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con persona alguna que está ejerciendo la titularidad de una diputación.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Art. 25 Bis.
 
-Las Diputadas y los Diputados en funciones podrán ser nuevamente electos hasta completar un máximo de cuatro periodos consecutivos de ejercicio. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiese postulado originalmente, salvo que el interesado haya renunciado o perdido su militancia antes de la mitad de su mandato. La ley establecerá los requisitos que deberán satisfacerse para una nueva postulación.
+Las Diputadas y los Diputados en funciones no podrán ser reelectos para el periodo inmediato posterior al ejercicio de su mandato.
+
+Las Diputadas y los Diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en el ejercicio, pero las diputadas y los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
@@ -953,7 +959,13 @@ En el primer período ordinario de sesiones, el Congreso se ocupará de analizar
 
 Al aprobar el Congreso la Ley de Ingresos y Presupuesto de Egresos del Estado, deberá verificar que se incluyan en la iniciativa de presupuesto de egresos la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paraestatal, derivadas de empréstitos y de contratos de colaboración público privada, celebrados con autorización del Congreso del Estado, durante la vigencia de los mismos. En caso de que, por cualquier circunstancia, se omita considerarlas, se tendrán por incluidas y autorizadas las partidas correspondientes que hubieren sido aprobadas con relación a los mismos en la Ley de Ingresos y Presupuesto de Egresos del ejercicio fiscal inmediato anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas. Si en la Ley de Ingresos y Presupuesto de Egresos del ejercicio fiscal inmediato anterior no se hubieren contemplado partidas para cubrir el pago de obligaciones derivadas de empréstitos o de contratos de colaboración público privada aprobados por el Congreso y en la nueva ley no se consideran, se tendrán por incluidas y autorizadas las partidas que fueren necesarias y suficientes para cubrir su pago en términos de lo previsto en los contratos respectivos.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+El Congreso del Estado deberá observar en todo momento en su integración y funcionamiento los principios de paridad, igualdad sustantiva y perspectiva de género. El monto total aprobado para su ejercicio anual no podrá exceder al cero punto setenta por ciento del presupuesto de egresos para el Estado de Sinaloa y únicamente podrá actualizarse conforme a la inflación anual.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+No podrán aprobarse ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar directamente el presupuesto del Congreso del Estado por encima del límite previsto en el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2022)</small>
 
@@ -1542,6 +1554,10 @@ X. No haber incurrido en el incumplimiento de la aplicación del principio de pa
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2022)</small>
 
 No podrán ser electas para este cargo las personas que habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género; o que habiendo ejercido algún cargo de elección popular o dentro del servicio público hayan sido sancionadas por dichas autoridades por cometer violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Tampoco podrán ser electas para este cargo las personas que tienen o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del Ejecutivo Estatal.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
@@ -2579,17 +2595,13 @@ VII. Los integrantes del Consejo de Participación Ciudadana deberán reunir com
 
 ## TITULO V. DEL MUNICIPIO LIBRE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Art. 110.
 
-Los Municipios tendrán personalidad jurídica y patrimonio propios y serán gobernados por un Ayuntamiento de elección popular directa, integrado por una Presidencia Municipal, una Sindicatura de Procuración y Regidurías que la ley determine. En su integración se observará el principio de paridad de género. Su residencia deberá estar en donde se ubique la cabecera municipal.
+Los Municipios tendrán personalidad jurídica y patrimonio propios y serán gobernados por un Ayuntamiento de elección popular directa, integrado por una Presidencia Municipal, una Sindicatura de Procuración y Regidurías que la ley determine. Se observarán los principios de paridad de género, vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración, y ejercicio del poder público municipal. Su residencia deberá estar en donde se ubique la cabecera municipal. No habrá ninguna autoridad intermedia entre el Ayuntamiento y los Poderes del Estado.
 
-> <small>(ADICIONADO [N. DE E. ANTES DE PARTE DEL PRIMER PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
-
-No habrá ninguna autoridad intermedia entre el Ayuntamiento y los poderes del Estado.
-
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+En ningún caso podrá participar en la elección para la presidencia municipal, regidurías y sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
 
 Los Municipios se dividirán en Sindicaturas y éstas en Comisarías, en cuyas jurisdicciones ejercerán las funciones ejecutivas y administrativas las Síndicas o Síndicos y Comisarias o Comisarios Municipales, respectivamente. Unos y otros serán nombrados cada tres años por el Ayuntamiento de la Municipalidad que corresponda y removidos libremente por el mismo.
 
@@ -2661,13 +2673,17 @@ Para éste efecto, la vecindad no se pierde por ausencia en el desempeño de cua
 
 III. No tener empleo, cargo o comisión del Gobierno Federal, Estatal o Municipal, ni ser titular, director o su equivalente de sus respectivos organismos públicos paraestatales. Los ciudadanos antes referidos, podrán ser electos siempre que se separen de sus cargos cuando menos noventa días antes de la elección;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-IV. No aparecer inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al tiempo en que se solicite el registro de sus candidaturas, salvo que exhiban la documentación con la que hayan acreditado judicialmente el cumplimiento de las obligaciones en mora; no haber sido condenado por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia y/o contra la libertad sexual y su normal desarrollo; y
+IV. No aparecer inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al tiempo en que se solicite el registro de sus candidaturas, salvo que exhiban la documentación con la que hayan acreditado judicialmente el cumplimiento de las obligaciones en mora; no haber sido condenado por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia y/o contra la libertad sexual y su normal desarrollo;
 
-> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-V. No haber incurrido en el incumplimiento de la aplicación del principio de paridad de género.
+V. No haber incurrido en el incumplimiento de la aplicación del principio de paridad de género; y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VI. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del cargo para el que se postula.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
@@ -2687,15 +2703,13 @@ II. Ser persona originaria de la municipalidad que lo elija o vecina de ella cua
 
 (DEROGADO, P.O. 27 DE ENERO DE 1984)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Art. 117.
 
-Las Presidentas y Presidentes Municipales, Síndicas o Síndicos Procuradores y Regidoras o Regidores de los Ayuntamientos de elección popular directa, podrán ser electos consecutivamente para los mismos cargos por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La ley establecerá los requisitos que deberán satisfacerse para la nueva postulación.
+Las Presidentas y Presidentes Municipales, Síndicas o Síndicos Procuradores y Regidoras o Regidores de los Ayuntamientos de elección popular directa, no podrán ser reelectos para los mismos cargos para el periodo inmediato posterior al ejercicio de su mandato.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
-
-Quienes por elección indirecta, por nombramiento o designación de parte de alguna autoridad, desempeñen las funciones propias de dichos cargos, independientemente de la denominación que se les dé, podrán ser electos para el período inmediato.
+Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato posterior con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3229,13 +3243,17 @@ III. Ningún servidor público de la administración pública estatal podrá ten
 
 En ningún caso, el excedente a que se refiere el párrafo anterior, podrá ser superior a la mitad de la remuneración establecida para la Gobernadora o el Gobernador Constitucional del Estado en el Presupuesto de Egresos correspondiente;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-IV. No se concederán, ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado; y,
+IV. No se concederán, ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie; y,
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+VI. Las remuneraciones de las personas consejeras electorales, las magistradas y magistrados electorales, titulares de las secretarías, áreas ejecutivas, técnicas u homólogos del Instituto Electoral del Estado de Sinaloa y del Tribunal Electoral del Estado de Sinaloa, no podrán exceder el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
@@ -5186,3 +5204,15 @@ P.O. 26 DE AGOSTO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 494 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Congreso del Estado deberá armonizar en un plazo máximo de 120 días naturales el marco jurídico correspondiente a la materia para adecuarlo al contenido del presente Decreto a partir de la entrada en vigor del mismo.
+
+TERCERO. Las reglas establecidas sobre la prohibición del nepotismo electoral contenidas en los artículos del presente Decreto, serán aplicables a partir del proceso electoral local, a celebrarse en el año de 2030.
+
+CUARTO. Respecto a la prohibición de reelección de las personas servidoras públicas señaladas en el presente Decreto, serán aplicables a partir del proceso electoral local, a celebrarse en el 2030. En consecuencia, las personas que en el 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
