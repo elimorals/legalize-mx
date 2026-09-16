@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2026-08-22"
+last_updated: "2026-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -595,7 +595,7 @@ II. Lesiones, a que se refiere el artículo 285;
 
 III. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2024)
 
-IV. Peligro de contagio, a que se refiere el artículo 173;
+IV. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2026)
 
 V. Daños, a que se refiere el artículo 349;
 
@@ -1073,9 +1073,9 @@ V.- Las que otras leyes o reglamentos señalen como tales.
 
 ### CAPITULO IV. ASOCIACION DELICTUOSA Y FACILITACION DELICTIVA
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-141.- Se impondrá prisión de dos a ocho años y multa de cien a trescientas cuotas, al que forme parte de una asociación o banda de tres o más personas, organizada para delinquir, independientemente de la sanción que le corresponda por el delito que cometa.
+141.- Se impondrá prisión de tres a doce años y multa de doscientas a trescientas cincuenta veces la Unidad de Medida y Actualización vigente, al que forme parte de una asociación o banda de tres o más personas, organizada para delinquir, independientemente de la sanción que le corresponda por el delito que cometa.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2006)</small>
 
@@ -1123,9 +1123,13 @@ Al responsable se le sancionará con prisión de dos a cinco años y multa de ci
 
 148 Bis.- Comete el delito de atentados contra la seguridad de la comunidad y se le aplicará una sanción de cuatro a ocho años de prisión y multa de doscientas a trescientas cincuenta y cinco veces el valor diario de la Unidad de Medida y Actualización, a quien sin causa justificada incurra en cualquiera de las siguientes fracciones:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-I. Utilice uno o más instrumentos en forma de abrojos, cuchillas, erizos, estrellas metálicas o de cualquier material, púas, picos, clavos, ponchallantas, chacos, cadenas, varillas, fabricados de cualquier material que por su resistencia, contundencia o naturaleza, dañe o impida el paso de vehículos particulares u oficiales.
+I. Fabrique, posea o porte uno o más instrumentos en forma de abrojos, cuchillas, erizos, estrellas, púas o picos ponchallantas, fabricados de cualquier material que por su resistencia o contundencia, dañe o impida el paso de vehículos particulares u oficiales.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Cuando los instrumentos descritos en el párrafo anterior sean usados para cometer algún delito, la pena de prisión prevista en este artículo se incrementará en una cuarta parte en su mínimo y en su máximo.
 
 Cuando la conducta se cometa en contra de elementos de las fuerzas armadas o de seguridad pública o de sus equipos motores, muebles o inmuebles, se aumentará la penalidad dos terceras partes en su mínimo y en su máximo;
 
@@ -1498,6 +1502,38 @@ II. Si el sujeto activo del delito tiene parentesco por consaguinidad (sic), afi
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 192 Bis.- Se impondrá de seis meses a dos años de prisión y multa de cincuenta a ciento cincuenta cuotas, al que ingrese o use por cualquier medio sin la autorización debida o, excediendo la que tenga, a una computadora personal o dispositivo electrónico, a un sistema de red de computadoras, un soporte lógico de programas de cómputo o base de datos.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Se aplicarán las mismas sanciones establecidas en el párrafo anterior a quien, sin la autorización debida y mediante las tecnologías de la información y la comunicación, redes, plataformas digitales o cualquier otro medio electrónico, acceda o sustraiga información no dispuesta para otros por el propietario de un dispositivo electrónico, bloqué o altere un equipo, cuenta, aplicación o una plataforma digital, con independencia de que la información se divulgue o no por el sujeto activo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Las penas previstas en este artículo se aumentarán hasta en una mitad cuando:
+
+a) Se haga uso de cualquier modelo de programa informático malicioso, mecanismos de intervención, dispositivos de vigilancia digital, o cualquier herramienta destinada a vulnerar la seguridad informática y cause daño al dispositivo o altere, dañe, sustraiga o elimine la información contenida en éste;
+
+b) La información obtenida, sustraída, reproducida, comercializada o transmitida corresponda a datos personales sensibles, información bancaria, financiera, fiscal, médica o biométrica;
+
+c) Se afecten funciones o servicios esenciales o la integridad de instituciones de salud, seguridad pública, procuración o administración de justicia o de autoridades locales responsables de procesos electorales;
+
+d) La conducta actualice cualquiera de las modalidades de violencia contra las mujeres conforme a la legislación en materia de acceso de las mujeres a una vida libre de violencia;
+
+e) La víctima sea persona menor de edad, adulta mayor, persona con discapacidad o quien no pueda comprender el significado del hecho o no tenga la capacidad para resistirlo, o
+
+f) El responsable sea servidor o servidora pública y utilice información obtenida con motivo de su empleo, cargo o comisión.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+No se sancionarán las conductas siguientes:
+
+I. A los padres o madres que intercepten o abran las comunicaciones digitales de quienes estén bajo su guarda y custodia, patria potestad o tutoría.
+
+Esta excluyente de responsabilidad operará, considerando en todo momento el principio del interés superior de la niñez y lo dispuesto, para cada caso, por la legislación en materia de derechos de niñas, niños y adolescentes;
+
+II. Por razones de mantenimiento técnico autorizado, o
+
+III. En ejercicio de una atribución legal o en cumplimiento de una orden judicial.
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
@@ -2073,11 +2109,33 @@ IV.- Al que por cualquier medio manifieste ante la autoridad una nacionalidad fa
 
 Se equiparan a la usurpación de identidad y se impondrán las mismas penas previstas en el párrafo anterior a quienes otorguen el consentimiento para llevar a cabo la usurpación de identidad o se valgan de la homonimia, parecido físico o similitud de la voz para cometer algún ilícito.
 
-Las sanciones previstas en este artículo se impondrán con independencia de las que correspondan por la comisión de otro u otros delitos.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+Las sanciones previstas en este capítulo se impondrán con independencia de las que correspondan por la comisión de otro u otros delitos.
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 227 Ter.- Las penas señaladas en el artículo anterior se incrementarán hasta en una mitad, cuando la usurpación sea cometida por un servidor público aprovechándose de sus funciones, o por quien sin serlo, se valga de su profesión o empleo para ello.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+227 Quáter.- Se sancionará con prisión de uno a cuatro años y multa de doscientas a trescientas veces la Unidad de Medida y Actualización vigente a quien, sin consentimiento de su titular o sin autorización legal y mediante el uso de medios electrónicos, consiga o disponga para sí o para otra persona de cualquier dato o elemento del patrimonio digital que facilite la identificación de otra persona, con el fin de hacerse pasar por ella y obtener para sí o para otras cualquier lucro o beneficio económico.
+
+Se entenderá por medios electrónicos a las tecnologías de la información y la comunicación, sistemas informáticos y plataformas digitales.
+
+Así mismo, se entenderá por patrimonio digital: la contraseña, firma electrónica, credencial de acceso a cuentas digitales, huellas, identificadores electrónicos, datos biométricos u otros elementos de acreditación personal en el espectro radioeléctrico.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+227 Quintus.- La pena de prisión prevista en el artículo anterior se aumentarán hasta en una mitad cuando:
+
+I. El responsable, para identificarse, utilice algún documento apócrifo, homonimia o parecido físico para suplantar la identidad de la víctima;
+
+II. La víctima sea persona menor de edad, persona adulta mayor o con discapacidad o persona que no pueda comprender el significado del hecho o quien por cualquier razón no pueda resistirlo;
+
+III. La persona responsable sea servidor o servidora pública o utilice información a la que tenga acceso con motivo de su empleo, cargo o comisión, o
+
+IV. La persona responsable se aproveche de la relación de parentesco, laboral, de confianza o el vínculo afectivo de pareja o noviazgo con la víctima.
 
 ### CAPITULO VII. USURPACION DE FUNCIONES PUBLICAS O DE PROFESION
 
@@ -2607,6 +2665,10 @@ IV. Si quien hace el requerimiento por cualquier medio, no se identifica en ese 
 
 258 Bis.- Se sancionará con prisión de uno a tres años y de doscientas a trescientas cuotas al que amenace con cometer el delito de terrorismo a que se refiere el artículo 169 del presente Código.
 
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+258 Ter.- La pena de prisión a que se refiere el artículo anterior se aumentará en una mitad más, en su mínimo y en su máximo, para quien, por cualquier medio, amenace a integrantes de cualquiera de las corporaciones de seguridad pública, a personas juzgadoras o quienes formen parte del Ministerio Público, todas del ámbito local, con causarles un mal en su persona, en su honor, en su prestigio o en sus bienes, siempre que el delito se actualice como consecuencia del ejercicio de la función pública de la víctima.
+
 259.- Se exigirá solamente caución de no ofender:
 
 I.- Si los daños con que se amenaza son leves o evitables;
@@ -2646,6 +2708,40 @@ Se incrementará la pena en dos terceras partes si el allanamiento se cometiere 
 La conducta a que se refiere este artículo dará lugar a la sanción independientemente del propósito que llevó al asaltante a ejecutarla y se acumulará a la que corresponda por otros delitos que resulten.
 
 264.- A quienes asalten una población o ranchería, se les sancionará con prisión de veinte a treinta años, si fueren los cabecillas o jefes, y de quince a veinte años a los demás, sin perjuicio de aplicar las reglas del concurso por cualesquiera otros delitos que se cometan.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+### Capítulo III Bis. Rastreo Ilícito de Personas
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+264 Bis.- Comete el delito de rastreo ilícito de personas quien, sin el consentimiento expreso de la víctima y mediante cualquier acción realizada a través de medios electrónicos, de telecomunicación o digitales, coloque o active en el cuerpo, vehículo o en cualquier otro bien en posesión de una persona, dispositivos, mecanismos o cualquier sistema o herramienta tecnológica que permitan rastrear, monitorear, deducir, transmitir o publicar su desplazamiento o su ubicación.
+
+A la persona responsable de este delito se le impondrán de uno a dos años de prisión y multa de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+264 Ter.- Las penas previstas en el artículo anterior se aumentarán hasta en una mitad más, en su mínimo y máximo, cuando:
+
+I. La víctima sea un niño, niña o adolescente, una persona con discapacidad, persona adulta mayor o persona que por cualquier circunstancia no pudiera resistirse o no tenga la capacidad de comprender el significado del hecho;
+
+II. La persona responsable del delito sea o haya sido cónyuge, concubino, concubina o tenga o haya tenido relación afectiva de pareja o noviazgo con la víctima;
+
+III. El rastreo se lleve a cabo sobre mujer embarazada o con el fin de ejercer violencia de género;
+
+IV. El rastreo se realice para facilitar la comisión de otro delito, o
+
+V. La persona responsable sea servidora pública y que en el ejercicio de su empleo, cargo o comisión, haga uso indebido de sus atribuciones, recursos o información de que disponga para actualizar la conducta.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+264 Quater.- No se sancionará la colocación de localizadores o dispositivos de rastreo, cuando:
+
+I. Se ordene por una autoridad competente;
+
+II. Se realice sobre personas menores de edad y la haga o autorice quien ejerza la patria potestad, tutela o guarda sobre ellas, o
+
+III. Se lleve a cabo en persona con alguna discapacidad, siempre que ella exprese su conformidad de manera libre e informada o, en su caso, mediante el sistema de apoyos adecuado. Lo que se hará, de conformidad con la legislación en materia de derechos de personas con discapacidad.
 
 ### CAPITULO IV. PRIVACION ILEGAL DE LA LIBERTAD O DE OTROS DERECHOS
 
@@ -2727,63 +2823,43 @@ Las penas se aplicarán con independencia de la sanción establecida para los ti
 
 271 Quáter.- (DEROGADO, POR TRANSITORIO QUINTO DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE ZACATECAS, P.O. 28 DE FEBRERO DE 2015) (REPUBLICADA SU DEROGACIÓN, P.O. 31 DE AGOSTO DE 2019)
 
+## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
+
 ### CAPÍTULO I. DIFAMACION
 
 272.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
 273.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
-## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
-
 ### CAPITULO II. CALUMNIA
 
-274.- Se aplicará prisión de tres meses a cinco años y multa de cinco a quince cuotas al que impute a otro un delito, ya sea porque el hecho sea falso o porque la persona a quien se impute sea inocente.
+274.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 
-Igual sanción se aplicará al que para hacer que un inocente aparezca como culpable de un delito, ponga en las vestiduras del calumniado, en su casa, en su automóvil, o en cualquier lugar adecuado para ese fin, una cosa que pueda dar indicios de responsabilidad.
+275.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 
-Si se condena al calumniado se impondrá al calumniador la misma sanción.
-
-275.- No se admitirán pruebas de la imputación al inculpado de calumnia cuando exista sentencia ejecutoriada que haya absuelto al calumniador del mismo delito que aquél le imputó.
-
-276.- Cuando haya pendiente un proceso o averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que en dicho proceso se dicte sentencia ejecutoria. En este caso, la prescripción comenzará a correr cuando termine el proceso.
+276.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO III. DISPOSICIONES GENERALES AL DELITO DE CALUMNIA
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+277.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 
-277.- No se procederá contra los autores de calumnia, sino por querella de los ofendidos o de sus legítimos representantes.
+278.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 
-Si la calumnia es posterior al fallecimiento del ofendido, sólo se procederá en virtud de querella de sus familiares o representantes legítimos.
-
-Si el delito se cometió con anterioridad al fallecimiento del ofendido y éste hubiere perdonado la ofensa, o sabiendo que se le había inferido no hubiere presentado su querella, pudiendo hacerlo, ni manifestado que lo hicieran sus herederos, se extinguirá la acción penal del delito.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-278.- La calumnia hecha a la Legislatura, al Tribunal Superior de Justicia, o a un Cuerpo colegiado de la administración de justicia o a cualquier institución pública, se sancionará con sujeción a las reglas de este título, sin perjuicio de las sanciones que señala el artículo 168 de este Código.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-279.- Cualquier objeto que hubiere servido de medio para cometer el delito de calumnia, se inutilizará, a menos que se trate de algún documento público o privado que importe obligación, liberación o transmisión de derechos. En este caso se anotará en el documento un resumen de la sentencia pronunciada contra el acusado o en hoja anexa si no cupiere.
+279.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 
 280.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-281.- A las personas jurídicas responsables del delito de calumnia, se les suspenderá en sus actividades de uno a dos meses.
+281.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 
 282.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+283.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 
-283.- Se permitirán al inculpado pruebas de su imputación y si ésta quedare probada se librará a aquél de toda sanción, excepto en el caso del artículo 275.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-284.- No será excluyente de responsabilidad penal de la calumnia, que el hecho imputado sea notorio, o que el responsable no haya hecho más que reproducir lo ya publicado en la República o en otro país.
+284.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 
 TITULO DECIMOSEPTIMO
 
@@ -2929,13 +3005,21 @@ V.- Cuando se causen por inundación, incendio, minas, bombas o explosivos;
 
 VI.- Cuando se dé tormento al ofendido o se obre con saña o crueldad;
 
-VII.- Cuando dolosamente se ejecuten por envenenamiento, contagio, asfixia o estupefaciente; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-VIII.- Cuando se cometan en lugar concurrido por personas ajenas a los hechos y que pudieren resultar muertas o lesionadas.
+VII.- Cuando dolosamente se ejecuten por envenenamiento, contagio, asfixia o estupefaciente;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-IX.- Cuando se cometan con odio.
+VIII.- Cuando se cometan en lugar concurrido por personas ajenas a los hechos y que pudieren resultar muertas o lesionadas;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+IX.- Cuando se cometan con odio, y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+X.- Cuando sea cometan en perjuicio de integrantes de cualquiera de las corporaciones de seguridad pública, de personas juzgadoras o de quienes formen parte del Ministerio Público, todas del ámbito local, siempre que el delito se actualice como consecuencia del ejercicio de la función pública de la víctima.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
@@ -2961,9 +3045,9 @@ II.- Prohibirles ir a determinado lugar, municipio o distrito del Estado, o resi
 
 Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la sanción será la que corresponda al homicidio, parricidio o feminicidio, según las circunstancias y modos de ejecución.
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2026)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres meses a tres años. En todos los casos de este artículo se impondrá multa de quince a cuarenta y cinco veces la Unidad de Medida y Actualización.
+Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres meses a tres años de prisión. En todos los casos de este artículo se impondrá multa de quince a cuarenta y cinco veces la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2026)</small>
 
@@ -3093,35 +3177,21 @@ La misma pena se aplicará al que haga abortar a una mujer o persona con capacid
 
 En este caso, el delito de aborto se sancionará, únicamente, cuando se haya consumado.
 
-(NOTA: EL 30 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 189/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE DICIEMBRE DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 016, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+311 Bis. Comete el delito de aborto forzado el que, sin el consentimiento de la mujer o persona con capacidad de gestar, la haga interrumpir el embarazo en cualquier momento de éste.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
-###### Artículo 311 Bis.
-
-Comete el delito de aborto forzado el que, sin el consentimiento de la mujer o persona con capacidad de gestar, la haga interrumpir el embarazo en cualquier momento de éste, CON O SIN EL CONOCIMIENTO DE LA VÍCTIMA.
-
 Al que cometa el delito de aborto forzado se le aplicarán de tres a seis años de prisión, sea cual fuere el medio que empleare. Si además mediare violencia física o moral, la pena será de seis a diez años de prisión.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
 Si el aborto lo causare un médico, comadrona o partera, además de las sanciones que le correspondan, se le suspenderá de dos a cinco años en el ejercicio de su profesión.
 
 312. (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2024)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2024)</small>
-
-### CAPITULO IX. ABANDONO DE PERSONAS
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
-
-314.- Al que abandone a un niño o a un anciano incapaz de cuidarse a sí mismo, o a una persona enferma teniendo obligación de cuidarlos, se le aplicarán de tres meses a cuatro años de prisión, si no resultare daño alguno, privándolo además de la patria potestad, de la tutela o de la curatela, si el delincuente fuere ascendiente, descendiente, tutor o curador del ofendido, así como del derecho a la herencia del mismo.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-315.- Al que encuentre abandonado o abandone en cualquier sitio a un menor, a un anciano incapaz de cuidarse a sí mismo a una persona lesionada, inválida o amenazada de un peligro cualquiera, se le aplicarán de uno a dos años de prisión y multa de cincuenta a cien cuotas, si no diera aviso inmediato a la autoridad u omitiese prestarles el auxilio necesario cuando pudiere hacerlo sin riesgo personal.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-316.- El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que deje en estado de abandono sin prestarle o facilitarle asistencia a la persona a quien atropelló, o le causó un daño similar, será sancionado con la pena de uno a dos años de prisión y multa de cincuenta a cien cuotas, por esta sola circunstancia. Si del abandono resultare la muerte, la sanción será de dos a ocho años de prisión; si resultaren lesiones o algún otro delito, se aplicará la mitad de las sanciones que correspondan a aquéllos.
 
 ###### Artículo 313.
 
@@ -3138,6 +3208,22 @@ IV. Cuando a juicio de dos médicos especialistas exista razón suficiente para 
 V. Que sea resultado de una conducta involuntaria de la mujer embarazada o persona con capacidad de gestar.
 
 En los casos contemplados en las fracciones I, II, III y IV, los médicos tendrán la obligación de proporcionar a la mujer embarazada o persona con capacidad de gestar, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos, así como de los apoyos y alternativas existentes, para que la mujer embarazada o persona con capacidad de gestar pueda tomar la decisión de manera libre, informada y responsable.
+
+### CAPITULO IX. ABANDONO DE PERSONAS
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+314.- Al que abandone a un niño o a un anciano incapaz de cuidarse a sí mismo, o a una persona enferma teniendo obligación de cuidarlos, se le aplicarán de tres meses a cuatro años de prisión, si no resultare daño alguno, privándolo además de la patria potestad, de la tutela o de la curatela, si el delincuente fuere ascendiente, descendiente, tutor o curador del ofendido, así como del derecho a la herencia del mismo.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
+315.- Al que encuentre abandonado o abandone en cualquier sitio a un menor, a un anciano incapaz de cuidarse a sí mismo a una persona lesionada, inválida o amenazada de un peligro cualquiera, se le aplicarán de uno a dos años de prisión y multa de cincuenta a cien cuotas, si no diera aviso inmediato a la autoridad u omitiese prestarles el auxilio necesario cuando pudiere hacerlo sin riesgo personal.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
+316.- El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que deje en estado de abandono sin prestarle o facilitarle asistencia a la persona a quien atropelló, o le causó un daño similar, será sancionado con la pena de uno a dos años de prisión y multa de cincuenta a cien cuotas, por esta sola circunstancia. Si del abandono resultare la muerte, la sanción será de dos a ocho años de prisión; si resultaren lesiones o algún otro delito, se aplicará la mitad de las sanciones que correspondan a aquéllos.
+
+## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPITULO I. ROBO
 
@@ -3270,8 +3356,6 @@ Igual pena se aplicará a quien comercialice oro, plata, piedras preciosas o cua
 Si además de las personas a que se refiere el párrafo anterior tuviere intervención en el robo alguna otra, para sancionar a ésta se necesita querella del ofendido, pero en este caso se procederá contra todos los responsables, incluyendo a los que se mencionan en la primera parte de este artículo.
 
 329.- Si precediere, acompañare o siguiere al robo algún otro hecho que por sí solo constituya un delito, se aplicarán las reglas del concurso.
-
-## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPITULO II. ABIGEATO
 
@@ -3591,6 +3675,8 @@ Se exceptúa de la presente disposición, el daño causado a la salud pública, 
 
 Si las conductas antes previstas recaen en bienes de valor científico, histórico, cultural, edificios públicos, monumentos, equipamiento urbano o bienes de utilidad pública, la sanción antes mencionada se triplicará y deberá realizar de treinta a noventa jornadas de trabajo a favor de la comunidad.
 
+## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+
 ### CAPITULO I. DELITOS CONTRA EL COMERCIO Y LA INDUSTRIA
 
 350.- Se impondrán de tres meses a seis años de prisión y multa de diez a sesenta cuotas, en los siguientes casos:
@@ -3626,8 +3712,6 @@ II.- Al que ocasione la propagación de una enfermedad en las plantas o en los a
 III.- Al que publique noticias falsas, exageradas o tendenciosas, o por cualquier otro medio indebido produzcan trastornos en el mercado, ya sea tratándose de mercancías, títulos o efectos de comercio; y
 
 IV.- Al que con el fin de causar descrédito o daños en el patrimonio de una persona física o moral, haga público un hecho cierto o falso relacionado con sus operaciones comerciales y financieras.
-
-## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
 ### CAPITULO II. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
@@ -3685,6 +3769,10 @@ Se presumirá la simulación por la circunstancia de que el trabajador o trabaja
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
 
+## TITULO VIGESIMO. ENCUBRIMIENTO Y OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA
+
+> <small>(REFORMADO SU NUMERAL [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 4 DE AGOSTO DE 2012)</small>
+
 ### CAPITULO I. ENCUBRIMIENTO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
@@ -3709,9 +3797,9 @@ c) (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
 Las excluyentes de responsabilidad a que se refiere este artículo, no beneficiarán a los padres, tutores o cuidadores de menores de edad que fueren víctimas de algún delito.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)</small>
 
-360.- Se impondrá de uno a seis años de prisión y multa de cien a doscientas cuotas al que adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, salvo los casos específicos que señala este Código.
+360. Se impondrá de uno a seis años de prisión y multa de cien a doscientas cuotas a quien después de la ejecución de un delito y sin haber participado en éste, reciba en garantía o consignación, posea, use, adquiera, oculte, transmita en propiedad o trafique de cualquier manera los instrumentos, objetos o productos del delito, a sabiendas de su origen ilícito, o si de acuerdo con las circunstancias debía presuponer su ilegítima procedencia. La misma sanción se aplicará al que ayude a otra persona para alcanzar los mismos fines.
 
 361.- En los casos del artículo 358, quedan exceptuados de sanción aquéllos que no puedan cumplir con el deber a que el mismo artículo se refiere, por correr peligro en su persona o en sus bienes, o en la persona o bienes de los que señala el artículo 359.
 
@@ -3728,10 +3816,6 @@ Las excepciones a que se refiere el párrafo anterior, no se aplicarán en benef
 362.- Para los efectos de los artículos de este Código en que se mencionen a la concubina y al concubinario, se entenderá por tales a la mujer y al hombre que estén haciendo vida en común en los términos del artículo 241 del Código Familiar del Estado del Estado de Zacatecas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
-
-## TITULO VIGESIMO. ENCUBRIMIENTO Y OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA
-
-> <small>(REFORMADO SU NUMERAL [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 4 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA
 
@@ -3785,6 +3869,10 @@ En los casos que así se establezca, se podrá decretar el aseguramiento de bien
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
+## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
 ### CAPITULO I. NEGACION DE LA FUNCION PERSECUTORIA
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
@@ -3803,19 +3891,15 @@ III.- Mediante cualquier acción u omisión que no constituya delito diverso, ej
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2019)</small>
 
-## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
+## TITULO VIGESIMO SEGUNDO. HECHOS DE CORRUPCION Y DELITOS EN CONTRA DEL ADECUADO DESARROLLO DE LA ADMINISTRACION DE LA JUSTICIA COMETIDOS POR SERVIDORES PUBLICOS
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO I. ORDEN DE APREHENSION ILEGAL
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 365.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas al servidor público que libre una orden de aprehensión cuando no preceda denuncia o querella legalmente formulada sobre un hecho determinado que la ley tipifique como delito, sancionado cuando menos con pena privativa de libertad y ésta no esté señalada en forma alternativa con otra diversa.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-## TITULO VIGESIMO SEGUNDO. HECHOS DE CORRUPCION Y DELITOS EN CONTRA DEL ADECUADO DESARROLLO DE LA ADMINISTRACION DE LA JUSTICIA COMETIDOS POR SERVIDORES PUBLICOS
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
@@ -3903,15 +3987,15 @@ III. Impida la declaración del imputado o la reciba, sin observar las formalida
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2015)</small>
 
+## TITULO VIGESIMO TERCERO
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JUNIO DE 2015)</small>
+
 ### CAPITULO PRIMERO. DELITOS EN MATERIA ELECTORAL
 
 374.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2015)</small>
-
-## TITULO VIGESIMO TERCERO
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JUNIO DE 2015)</small>
 
 ### CAPITULO SEGUNDO. DE LOS DELITOS EN GENERAL
 
@@ -3961,7 +4045,11 @@ III. Impida la declaración del imputado o la reciba, sin observar las formalida
 
 385.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
-> <small>(ADICIONADO CON CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO EN SU NUMERACIÓN], P.O. 16 DE SEPTIEMBRE DE 2026)</small>
+
+## TÍTULO VIGÉSIMO CUARTO
+
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 23 DE JUNIO DE 2018)</small>
 
 ### CAPITULO PRIMERO. DELITOS CONTRA EL MEDIO AMBIENTE Y LA GESTION AMBIENTAL
 
@@ -4003,32 +4091,6 @@ V. Después de haber sido sancionado administrativamente en dos ocasiones por la
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
 
-## TITULO VIGESIMO SEGUNDO
-
-> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 23 DE JUNIO DE 2018)</small>
-
-### CAPITULO SEGUNDO. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES NO HUMANOS
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
-
-393. Al que cometa actos de maltrato o crueldad injustificados en contra de cualquier especie animal que no constituyan plaga, provocando o no lesiones evidentes, se le impondrá de seis meses a dos años de prisión y de cien a doscientas veces la unidad de medida y actualización, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo.
-
-En caso de que las lesiones pongan en peligro la vida del animal, se aumentará en una mitad la pena señalada.
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
-
-394. A todo aquel que cometa actos de maltrato o crueldad injustificada en contra de cualquier especie animal que no constituyan plaga, provocándole la muerte, se le impondrá de uno a tres años de prisión y de doscientas a cuatrocientas veces la unidad de medida y actualización, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo.
-
-En el caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad.
-
-Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que ocasionen una muerte no inmediata y por el contrario prolonguen la agonía del animal, ya sea por las lesiones en el detrimento de la salud del animal.
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
-
-395. Por actos de maltrato y crueldad, se estará a lo dispuesto en la Ley para el Bienestar y Protección de los Animales en el Estado de Zacatecas.
-
-Quedan exceptuadas de las disposiciones establecidas en el presente capítulo las corridas de toros, novillos y becerros, así como las peleas de gallos, jaripeos, charreadas, carreras de caballos, las que habrán de sujetarse a lo dispuesto en los ordenamientos jurídicos aplicables.
-
 ###### Artículo 391 Bis.
 
 Se impondrá pena de dos a ocho años de prisión y multa de doscientas a trescientas veces la Unidad de Medida y Actualización a quien, dolosamente, provoque un incendio de áreas forestales, parques, montes, bosques, pastizales, mieses, cultivos de cualquier otro género o en áreas verdes de espacios urbanos, que cause daños a la salud pública o a los elementos naturales de un ecosistema.
@@ -4056,6 +4118,28 @@ I. La suspensión, modificación o demolición de las construcciones, obras o ac
 II. La inhabilitación para desempeñar cualquier empleo, cargo o comisión con el carácter de autoridad pública, cuando el autor o partícipe del delito tenga la calidad de servidor público, hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, la cual deberá correr al momento en que el sentenciado haya cumplido con la prisión o ésta se hubiera tenido por cumplida.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2018)</small>
+
+### CAPITULO SEGUNDO. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES NO HUMANOS
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+393. Al que cometa actos de maltrato o crueldad injustificados en contra de cualquier especie animal que no constituyan plaga, provocando o no lesiones evidentes, se le impondrá de seis meses a dos años de prisión y de cien a doscientas veces la unidad de medida y actualización, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo.
+
+En caso de que las lesiones pongan en peligro la vida del animal, se aumentará en una mitad la pena señalada.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+394. A todo aquel que cometa actos de maltrato o crueldad injustificada en contra de cualquier especie animal que no constituyan plaga, provocándole la muerte, se le impondrá de uno a tres años de prisión y de doscientas a cuatrocientas veces la unidad de medida y actualización, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo.
+
+En el caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad.
+
+Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que ocasionen una muerte no inmediata y por el contrario prolonguen la agonía del animal, ya sea por las lesiones en el detrimento de la salud del animal.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+395. Por actos de maltrato y crueldad, se estará a lo dispuesto en la Ley para el Bienestar y Protección de los Animales en el Estado de Zacatecas.
+
+Quedan exceptuadas de las disposiciones establecidas en el presente capítulo las corridas de toros, novillos y becerros, así como las peleas de gallos, jaripeos, charreadas, carreras de caballos, las que habrán de sujetarse a lo dispuesto en los ordenamientos jurídicos aplicables.
 
 ## TRANSITORIOS
 
@@ -4542,3 +4626,13 @@ P.O. 22 DE AGOSTO DE 2026.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2026.
+
+> <small>[N. DE E. TRANSITRORIOS DEL “DECRETO NO. 368.- REFORMAS Y ADICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]</small>
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto, y
+
+Tercero. Infórmese el contenido de este decreto a las instancias jurisdiccionales federales que resolvieron y que substancian, respectivamente, las causas que se atienden en este mismo referidas a los delitos de Aborto e Instigación al Suicidio.
