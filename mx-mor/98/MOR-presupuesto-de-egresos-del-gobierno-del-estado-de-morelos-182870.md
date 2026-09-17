@@ -4,7 +4,7 @@ identifier: "MOR-presupuesto-de-egresos-del-gobierno-del-estado-de-morelos-18287
 country: "mx"
 rank: "presupuesto"
 publication_date: "2025-12-16"
-last_updated: "2025-12-16"
+last_updated: "2026-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS CORRESPONDIENTE AL PERIODO DEL 01 DE ENERO AL 31 DE DICIEMBRE DE 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2026.
 
 Presupuesto publicado en el Número 6502 Extraordinario del Periódico Oficial del Estado de Morelos, el martes 17 de diciembre de 2025.
 
@@ -68,6 +68,10 @@ Morelos.
 […]
 
 La cantidad asignada a la Fiscalía General del Estado asciende a $1,120,804,804.72 (Mil ciento veinte millones ochocientos cuatro mil ochocientos cuatro pesos 72/100 M.N.), la cual está conformada por $600,804,824.72 (Seiscientos millones ochocientos cuatro mil ochocientos veinticuatro pesos 72/100 M.N.) de Recursos Federales (No Etiquetado), $449,999,980.00 (Cuatrocientos cuarenta y nueve millones novecientos noventa y nueve mil novecientos ochenta pesos 00/100 M.N.) de Recursos Fiscales y $70,000,000.00 (Setenta millones de pesos 00/100 M.N.) de Recursos Federales (Etiquetado). Dentro de la asignación se incluye la cantidad de $10,000,000.00 (Diez millones de pesos 00/100 M.N.), correspondientes a la Fiscalía Especializada en la investigación y persecución de delitos de tortura, esto para el ejercicio fiscal 2026; asimismo incluye el cinco por ciento que corresponde a la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2026)</small>
+
+Adicionalmente, se asigna una partida a la Fiscalía General del Estado de Morelos por la cantidad de $5,348,123.77 (Cinco millones trescientos cuarenta y ocho mil ciento veintitrés pesos 77/100 M.N.), para cumplir con sus obligaciones de pago en las Controversias Constitucionales 290/2024, 296/2024, 316/2024, 182/2025, 199/2024, 441/2023 y 283/2024.
 
 La Clasificación por Objeto del Gasto se detalla en el Anexo 12.
 
@@ -173,6 +177,10 @@ Los presupuestos asignados de las Dependencias contemplan el cumplimiento de las
 
 La asignación prevista en este Decreto para la Comisión de Derechos Humanos del Estado de Morelos, asciende a la cantidad de $39,861,552.08 (Treinta y nueve millones ochocientos sesenta y un mil quinientos cincuenta y dos pesos 08/100 M.N.), que comprende las erogaciones para su funcionamiento. Se presenta en el Anexo 21.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2026)</small>
+
+Adicionalmente, se asigna una partida a la Comisión de Derechos Humanos del Estado de Morelos por la cantidad de $1,440,216.52 (Un millón cuatrocientos cuarenta mil doscientos dieciséis pesos 52/100 M.N.) para dar cumplimiento a sus obligaciones de pago en el capítulo de gasto 4000.
+
 […]
 
 Anexo 21
@@ -182,6 +190,8 @@ Comisión de Derechos Humanos del Estado de Morelos
 Pesos
 
 Dependencia Total Recursos Recursos Recursos Federales Fiscales Federales (no etique- (Etiquetado) tado)
+
+(REPUBLICADO, P.O. 17 DE SEPTIEMBRE DE 2026)
 
 Comisión
 
@@ -198,5 +208,59 @@ Estado
 de
 
 Morelos 39,861,552.08 39,861,552.08 - -
+
+[…]
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2026)</small>
+
+Ampliación
+
+presupuestal
+
+para la
+
+Comisión
+
+de Derechos
+
+Humanos
+
+del Estado
+
+de Morelos
+
+de Recursos
+
+extraordinarios
+
+no 1,440,216.52 1,440,216.52 -
+
+regularizables
+
+(Recursos
+
+Federales
+
+“No
+
+etiquetado”
+
+2026,
+
+Recursos
+
+Fiscales
+
+2026,
+
+Ingresos
+
+excedentes
+
+2026 u otra
+
+fuente de
+
+ingresos)
 
 […]
