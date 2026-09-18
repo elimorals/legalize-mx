@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2026-08-28"
+last_updated: "2026-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -45,25 +45,27 @@ POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUI
 
 DECRETO
 
-QUE CONTIENE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+QUE CONTIENE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS PARA EL ESTADO DE HIDALGO
 
 ## TÍTULO PRIMERO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTÍCULO 1.
 
-El Estado tiene la obligación de prevenir, atender y sancionar cualquier acción u omisión constitutiva de violencia en contra de las mujeres que menoscabe sus derechos humanos, por lo que la presente Ley tiene por objeto regular y garantizar el acceso de las mujeres a una vida libre de violencia, así como, establecer la coordinación entre el Estado, los Municipios y la Federación, para prevenir, atender, sancionar y erradicar la violencia en contra de las mujeres; con los principios rectores, ejes de acción, y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar.
+El Estado tiene la obligación de prevenir, atender y sancionar cualquier acción u omisión constitutiva de violencia en contra de las mujeres que menoscabe sus derechos humanos, por lo que la presente Ley tiene por objeto regular y garantizar el acceso de las mujeres a una vida libre de violencias, así como, establecer la coordinación entre el Estado, los Municipios y la Federación, para prevenir, atender, sancionar y erradicar la violencia en contra de las mujeres; con los principios rectores, ejes de acción, y modalidades para garantizar su acceso a una vida libre de violencias, a través de acciones reforzadas de protección que favorezca su desarrollo y bienestar.
 
 Las disposiciones de esta Ley son de orden público, interés social y de observancia general en el Estado Libre y Soberano de Hidalgo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTÍCULO 2.
 
-Todas las medidas que se deriven de la presente Ley garantizarán la prevención, la atención, la sanción y la erradicación de todas las modalidades y tipos de violencia contra las mujeres en el ámbito público y privado, para promover e impulsar su desarrollo integral, en concordancia con la Legislación Nacional de la materia y con los instrumentos internacionales suscritos y ratificados por los Estados Unidos Mexicanos.
+Todas las medidas que se deriven de la presente Ley garantizarán la prevención, la atención, la sanción y la erradicación de todas las modalidades y tipos de violencias contra las mujeres en el ámbito público y privado, para promover e impulsar su desarrollo integral, en concordancia con la Legislación Nacional de la materia y con los instrumentos internacionales suscritos y ratificados por los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, P.O. 2 DE MAYO DE 2023)</small>
 
@@ -163,6 +165,10 @@ II.- Cédula de Registro Único: Instrumento operado mediante un sistema inform�
 
 II Bis.- Centro de Justicia para Mujeres del Estado de Hidalgo: Organismo público descentralizado de la administración pública estatal con personalidad jurídica y patrimonio propio que funge como espacio multidisciplinario e interinstitucional de naturaleza regional que brinda de manera gratuita atención integral a mujeres víctimas de violencia de género, así como a sus hijas e hijos menores de edad, desde las perspectivas de género, derechos humanos, intercultural, diferencial e interseccional, mediante la prestación de servicios en un mismo lugar;
 
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+II Bis 1.- Deberes reforzados de protección del Estado hacia mujeres, adolescentes, niñas y niños: Obligación constitucional prevista en el penúltimo párrafo del artículo 4 de la Constitución Política de los Estados Unidos Mexicanos, que establece el deber de todas las autoridades de adoptar acciones reforzadas para garantizar el derecho de las mujeres, adolescentes, niñas y niños a una vida libre de violencias. Esta obligación implica la aplicación más amplia de medidas orientadas a salvaguardar la vida, integridad, libertad y seguridad personales, bienestar físico y mental, así como el respeto a su dignidad y autonomía.
+
 > <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
 
 II Ter.- Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
@@ -195,9 +201,9 @@ VI BIS.- Espacio Público: Áreas, espacios abiertos o predios de los asentamien
 
 VII.- Estado: El Estado Libre y Soberano de Hidalgo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-VIII.- Generador de violencia: La persona que inflige cualquier tipo de violencia contra las mujeres;
+VIII.- Generador de violencias: La persona que inflige cualquier tipo violencia contra las mujeres;
 
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
@@ -207,17 +213,17 @@ VIII Bis.- Interculturalidad: El enfoque intercultural parte del reconocimiento 
 
 VIII Ter.- Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades, creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-IX.- Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo;
+IX.- Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Hidalgo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-X.- Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+X.- Modalidades de Violencias: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presentan las violencias contra las mujeres;
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-XI.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve el derecho a una vida libre de violencias, el adelanto y el bienestar de las mujeres, así como la igualdad sustantiva entre los géneros a través de la equidad contribuyendo a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+XI.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad sustantiva, el derecho a una vida libre de violencias, a través de la equidad contribuyendo a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder (sic) los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -243,13 +249,15 @@ XVI.- Transversalidad: Es el proceso que permite garantizar la incorporación de
 
 XVII.- Víctima: La mujer de cualquier edad a quien se le inflige algún tipo de violencia; y
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-XVIII.- Violencia contra las mujeres: Cualquier acción, omisión o conjunto de estas que, a través del uso o abuso del poder ejercido sobre una mujer y basada en su género, tiene por objeto, fin o resultado causar o pretenda causar la muerte, o un daño físico, psicológico, patrimonial, económico o sexual en el ámbito público o privado.
+XVIII. Violencia y/o violencias contra las mujeres: Cualquier acción u omisión, o el conjunto de estas que, a través del uso o abuso del poder ejercido sobre una mujer y basada en su género, tiene por objeto, fin o resultado causar la muerte o un daño físico, psicológico, patrimonial, económico o sexual en el ámbito público o privado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTÍCULO 5.
 
-Los tipos de violencia contra las mujeres son:
+Los tipos de violencias contra las mujeres son:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2018)</small>
 
@@ -369,7 +377,9 @@ XI Quinquies. Violencia estética: Es todo acto a través del cual se ejerce pre
 
 XII. Cualquier otra forma que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
 
-## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+## TÍTULO SEGUNDO. MODALIDADES DE LAS VIOLENCIAS
 
 ### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
@@ -399,15 +409,15 @@ V.- El propiciar un estado de riesgo de las mujeres.
 
 VI.- El daño ocasionado a las mujeres a través del que se provoque a sus seres queridos, y especialmente a sus hijas o hijos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTÍCULO 8.
 
-Los modelos de atención, prevención y sanción que establezcan el Estado y los Municipios, son el conjunto de medidas y acciones con perspectiva de género, diversidad y regionalización de la población, para proteger de manera integral a las víctimas de violencia familiar, que garanticen a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos, considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello deberán tomar en consideración:
+Los modelos de atención, prevención y sanción que establezcan el Estado y los Municipios, son el conjunto de medidas y acciones con perspectiva de género, diversidad y regionalización de la población, para proteger de manera integral a las víctimas de violencia familiar, como parte de los deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, considerando el interés superior de la niñez, la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello deberán tomar en consideración:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-I.- Proporcionar a las víctimas atención, asesoría jurídica y tratamiento psicológico especializado y gratuito que favorezcan su empoderamiento, la disminución de la conducta violenta y reparen el daño causado por dicha violencia;
+I.- Proporcionar a las víctimas atención, asesoría jurídica y tratamiento psicológico especializado y gratuito que favorezcan, en su caso, su autonomía, empoderamiento, la disminución de la conducta violenta y reparen el daño causado por dicha violencia;
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
@@ -417,9 +427,9 @@ II.- Brindar servicios de psicoterapia reeducativa, especializados y gratuitos a
 
 III.- Evitar que la atención que reciban la víctima y el generador de violencia sea proporcionada por la misma persona y en el mismo lugar, así como, las modalidades terapéuticas en pareja o familiar, inicialmente. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-IV.- Analizar y proponer, en su caso, la separación y alejamiento del generador de violencia con respecto a la víctima;
+IV.- Garantizar la separación y alejamiento del generador de violencia con respecto a la víctima o víctimas directas e indirectas, atendiendo lo dispuesto en las fracciones VIII, XV y XVI del artículo 32 Bis de la presente ley;
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
@@ -491,23 +501,35 @@ La discriminación en este caso resulta de todo trato diferenciado, realizado en
 
 El Estado y los Municipios en función de sus atribuciones tomarán en consideración:
 
-I.- Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales o de docencia;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+I.- Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencias en sus relaciones laborales o de docencia;
 
 II.- Fortalecer el marco penal y civil para asegurar la sanción a quienes hostigan y acosan sexualmente;
 
-III.- Difundir en la sociedad que el aprovechamiento y hostigamiento sexual son delitos;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+III.- Difundir en la sociedad que el hostigamiento sexual y el acoso laboral son expresiones de violencia y delitos, que pueden constituir causas de rescisión laboral y faltas administrativas;
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 IV.- Diseñar programas que brinden servicios de orientación y actividades integrales para víctimas y generadores de violencia;
 
-V.- Celebrar convenios con el sector privado, con el objeto de prevenir y sancionar prácticas discriminatorias; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-VI.- Incorporar a las actividades escolares, talleres temáticos, sobre discriminación y violencia de género.
+V.- Celebrar convenios con el sector privado, con el objeto de prevenir y sancionar prácticas discriminatorias;
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-VII.- Monitorear permanentemente las buenas prácticas y actividades educativas, en coordinación con las Autoridades Federales respectivas.
+VI.- Incorporar a las actividades escolares, talleres temáticos, sobre discriminación y violencia de género;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+VII.- Monitorear permanentemente las buenas prácticas y actividades educativas, en coordinación con las Autoridades Federales respectivas; y
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+VIII.- Promover acciones de cambio cultural en la sociedad para identificar, promover la denuncia y combatir el hostigamiento sexual y acoso sexual en todos los ámbitos y promover relaciones respetuosas, igualitarias y no sexistas entre mujeres y hombres.
 
 ###### ARTÍCULO 14.
 
@@ -583,11 +605,15 @@ La violencia institucional son las acciones u omisiones de las y los servidores 
 
 El Estado y los Municipios, organizarán sus Entidades y Dependencias de manera tal que sean capaces de procurar, que en el ejercicio de sus funciones, se respete el derecho de las mujeres a una vida libre de violencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
 ###### ARTÍCULO 19.
 
-Para cumplir con su obligación de garantizar el derecho de las mujeres a una vida libre de violencia, el Estado y los Municipios Implementaran acciones contra la tolerancia de la violencia, incluyendo:
+Para cumplir con su obligación de garantizar el derecho de las mujeres a una vida libre de violencias, el Estado y los Municipios deben reforzar las acciones de prevención, atención, investigación, sanción y reparación del daño respecto a mujeres, adolescentes, niñas y niños, incluyendo:
 
-I.- Políticas públicas para eliminar la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+I.- Políticas públicas para eliminar las violencias contra las mujeres;
 
 II.- Disposiciones procesales o normativas que permitan el acceso a la justicia, mediante el reconocimiento de los derechos de las mujeres en la Legislación que sea procedente;
 
@@ -767,11 +793,11 @@ VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las
 
 ARTÍCULO 27 BIS.- Tratándose de violencia mediática y digital, respecto a las órdenes de protección, se estará a lo dispuesto en la Ley General.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTÍCULO 28.
 
-Cuando una mujer o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden. La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud. La autoridad deberá de realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica. Las autoridades competentes de los tres órdenes de gobierno, que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes.
+Cuando una mujer, una adolescente o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar de inmediato toda la información disponible sobre el procedimiento relacionado con la propia orden. La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud. La autoridad deberá de realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica. Las autoridades competentes de los tres órdenes de gobierno, que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
@@ -865,7 +891,9 @@ XI. Protección por seguridad privada, en los casos que sea necesario;
 
 XII. Utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, o niñas, en situación de violencia; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
 
-XIII. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+XIII. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes y si fuera el caso la imposición del régimen de visitas supervisadas;
 
 XIV. Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad a la mujer en situación de violencia, o niña, y en su caso, a sus hijas e hijos;
 
@@ -873,7 +901,9 @@ XV. La prohibición a la persona agresora de comunicarse por cualquier medio o p
 
 XVI. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y en su caso sus hijas e hijos u otras víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o, de hecho;
 
-XVII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+XVII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia y, en su caso, solicitar a la autoridad competente que se realice el procedimiento de revocación de la licencia de armas de fuego, si existiere;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
@@ -993,7 +1023,9 @@ ARTÍCULO 32 QUATERDECIES.- En materia de violencia política contra las mujeres
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LAS VIOLENCIAS CONTRA LAS MUJERES
 
 ###### ARTÍCULO 33.
 
@@ -1005,11 +1037,13 @@ Todas las medidas que lleve a cabo el Sistema deberán ser realizadas sin discri
 
 El Sistema se conformará por las y los titulares de:
 
-I.- El Ejecutivo Estatal, quien tendrá el cargo de Presidente Honorario;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+I.- El Ejecutivo Estatal, quien lo presidirá;
 
-II.- La Secretaría de Gobierno, quien fungirá como Presidente Ejecutivo;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+II.- La Secretaría de Gobierno;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
@@ -1031,7 +1065,9 @@ VII BIS.- La Secretaría de Desarrollo Económico del Estado de Hidalgo;
 
 VIII.- La Procuraduría General de Justicia del Estado;
 
-IX.- El Instituto Hidalguense de las Mujeres, quien ocupará la Secretaría Técnica del Sistema;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+IX.- El Instituto Hidalguense de la (sic) Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
 
@@ -1063,6 +1099,14 @@ XVI.- Los organismos y Dependencias instituidos para la protección de los derec
 
 La participación del Poder Judicial, del Congreso del Estado Libre y Soberano de Hidalgo y Comisión de Derechos Humanos, se dará a invitación del propio Sistema.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+En caso de ausencia de la persona titular del Ejecutivo Estatal, la persona titular de la Secretaría de Gobierno presidirá la sesión.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+Las demás personas titulares integrantes del Sistema Nacional deberán ser suplidas en sus ausencias por la persona servidora pública que para tal efecto designen, la cual deberá tener un nivel jerárquico inmediato inferior a éstas.
+
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 ARTÍCULO 34 BIS.- El Sistema opera con tres subsistemas:
@@ -1091,11 +1135,15 @@ La finalidad y objetivo del Subsistema de Acción será, aportar los avances en 
 
 III.- Subsistema de Armonización: Conformado por dos unidades, la legislativa y la judicial, que examinarán semestralmente los avances legislativos en el País, a efecto de instrumentar acciones que permitan estar en concordancia a nivel Federal y con otras Entidades de la República. Estará encabezado por el Instituto Hidalguense de las Mujeres.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
 ###### ARTÍCULO 35.
 
-La Secretaría Técnica del Sistema elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
+La Secretaría Ejecutiva del Sistema elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LAS VIOLENCIAS CONTRA LAS MUJERES
 
 ###### ARTÍCULO 36.
 
@@ -1105,11 +1153,13 @@ El Programa, en concordancia con el Plan Estatal de Desarrollo, deberá contener
 
 I.- Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
 
-II.- Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+II.- Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran las violencias contra las mujeres;
 
-III.- Educar y capacitar en materia de derechos humanos de las mujeres a las y/o (sic) servidores públicos encargados de la seguridad pública, procuración y administración de justicia y demás encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres, con el fin de dotarles de instrumentos que les permitan actuar con perspectiva de género;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+III.- Educar y capacitar en materia de derechos humanos de las mujeres a las y/o (sic) servidores públicos encargados de la seguridad pública, procuración y administración de justicia y demás encargados de las políticas de prevención, atención, sanción y eliminación de las violencias contra las mujeres, con el fin de dotarles de instrumentos que les permitan actuar con perspectiva de género;
 
 IV.- Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las Autoridades y las instituciones públicas o privadas, en el caso de existir convenios;
 
@@ -1119,17 +1169,21 @@ V.- Fomentar y apoyar programas de educación, destinados a sensibilizar y conci
 
 VI.- Diseñar programas de orientación y asesorías a víctimas que les permitan participar plenamente en todos los ámbitos de la vida, incluyendo aquellas que permitan su inserción laboral y empoderamiento económico;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-VII.- Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos y modalidades de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
+VII.- Vigilar que los medios de comunicación no fomenten las violencias contra las mujeres en toda su diversidad y etapas de vida, para impulsar un cambio cultural en favor de la igualdad sustantiva, el derecho a una vida libre de violencias que favorezcan su erradicación, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
 VIII.- Garantizar mecanismos de evaluación y seguimiento que permitan la investigación y elaboración de diagnósticos cualitativos y cuantitativos con enfoque diferenciado, sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de generar indicadores de medición y evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE SEPTIEMBRE DE 2026)</small>
 
-IX.- Publicar semestralmente la información general y estadística desagregada y con enfoque diferenciado, sobre los casos de violencia contra las mujeres para suministrarla al Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+IX.- Integrar y difundir semestralmente la información general y estadística desagregada y con enfoque diferenciado, sobre los casos de violencia contra las mujeres para suministrarla al Banco Estatal de Datos Información sobre Casos de Violencia contra las Mujeres;
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2026)</small>
+
+Para cumplir con este propósito, se establecerán mecanismos eficaces de coordinación y captura, que permita el análisis de tendencias e identificación de áreas críticas y recomendaciones para mejorar la prevención, atención, sanción y erradicación de las violencias contra las mujeres;
 
 X.- Promover la inclusión en el Plan Estatal de Desarrollo, de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
 
@@ -2644,5 +2698,11 @@ P.O. 6 DE AGOSTO DE 2026.
 P.O. 28 DE AGOSTO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 712 - LXVI POR EL QUE SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE EMBARAZO INFANTIL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 713 - LXVI POR EL QUE SE ACTUALIZA LA DENOMINACIÓN DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, POR EL DE LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS PARA EL ESTADO DE HIDALGO Y SE REFORMAN DIVERSAS DISPOSICIONES DE DICHO ORDENAMIENTO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
