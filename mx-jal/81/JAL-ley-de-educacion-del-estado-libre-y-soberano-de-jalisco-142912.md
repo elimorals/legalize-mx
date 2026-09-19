@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2026-06-18"
+last_updated: "2026-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -265,9 +265,11 @@ V. Laica, al mantenerse por completo ajena a cualquier doctrina religiosa.
 
 La educación impartida por los particulares con autorización o con reconocimiento de validez oficial de estudios, se sujetará a lo previsto en la fracción VI del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, al Título Décimo Primero de la Ley General de Educación y a lo dispuesto en el Título Décimo Segundo de esta Ley.
 
+> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
 Fines de la educación
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 13.
 
@@ -289,9 +291,15 @@ VI. Propiciar actitudes solidarias en el ámbito internacional, en la independen
 
 VII. Promover la comprensión, el aprecio, el conocimiento y enseñanza de la pluralidad étnica, cultural y lingüística de la nación, el diálogo e intercambio intercultural sobre la base de equidad y respeto mutuo; así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país y del estado de Jalisco;
 
-VIII. Inculcar el respeto por el medio ambiente, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación y el aprovechamiento de los recursos naturales, el desarrollo sostenible y la resiliencia frente al cambio climático;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+VIII. Fomentar una cultura ambiental basada en la generación de capacidades y habilidades que aseguren el manejo integral, la conservación y el aprovechamiento de los recursos naturales y los residuos, el desarrollo sostenible, sustentable y resiliente frente al cambio climático.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
 IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y del estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
 X. Todos aquellos que contribuyan al bienestar y desarrollo del país y del estado de Jalisco.
 
@@ -2876,3 +2884,9 @@ P.O. 18 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 30182/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 61 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto se publicará en el Periódico oficial "El Estado de Jalisco" y entrará en vigencia al día siguiente de la entrada en vigor de la Ley para Garantizar los Derechos de Niñas, Niños y Adolescentes en Entornos Digitales del Estado de Jalisco y sus Municipios.
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30221/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
