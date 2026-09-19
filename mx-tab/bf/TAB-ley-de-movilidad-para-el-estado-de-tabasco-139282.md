@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-movilidad-para-el-estado-de-tabasco-139282"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-30"
-last_updated: "2026-05-16"
+last_updated: "2026-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2026.
 
 Ley publicada al Número 8059 del Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 30 de noviembre de 2019.
 
@@ -103,6 +103,18 @@ XII. Promover el acceso de mujeres y niñas a espacios públicos y transporte de
 
 XIII. Preservar el libre tránsito, el orden y la paz pública, auxiliando a las autoridades correspondientes para la prevención, investigación y persecución de los delitos, así como la aplicación de sanciones por infracciones administrativas, en términos de esta Ley y demás disposiciones normativas aplicables;
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XIII Bis. En materia de infraestructura vial estratégica de jurisdicción estatal:
+
+a) Establecer las directrices para planear, regular y coordinar la construcción, operación, explotación, conservación y mantenimiento de esta;
+
+b) Ejercer la rectoría del Estado en el desarrollo integral del sistema carretero;
+
+c) Regular el otorgamiento, modificación, prórroga, rescate, revocación y terminación de las concesiones de infraestructura vial estratégica de jurisdicción estatal, en alineación con los instrumentos de ordenamiento territorial; y
+
+d) Garantizar que dicha infraestructura cumpla con los estándares de seguridad, eficiencia, calidad y conectividad.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2024)</small>
 
 XIV. Promover la toma de decisiones con base en evidencia científica y territorial en materia de movilidad; y
@@ -139,7 +151,9 @@ X. Ciclista: persona que conduce una bicicleta, siempre y cuando ésta desarroll
 
 XI. Ciclovía: espacio destinado al tránsito de vehículos no motorizados, puede ser de tipo exclusiva o compartida, siempre con preferencia sobre vehículos motorizados;
 
-XII. Concesión: acto administrativo mediante el cual el Poder Ejecutivo del Estado, por conducto de la Secretaría, otorga a una persona física o jurídica colectiva, ambas con residencia en el estado de Tabasco, la operación y explotación del servicio de transporte público en cualquiera de sus modalidades, en los viajes y rutas del ámbito estatal y por un tiempo determinado;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XII. Concesión: acto administrativo por medio del cual el Ejecutivo del Estado otorga a una persona física o jurídica colectiva, de carácter público o privado, el derecho para explotar un bien del dominio público o prestar un servicio público por tiempo determinado;
 
 XIII. Concesionario: persona física o jurídica colectiva titular de una concesión otorgada en términos de esta Ley;
 
@@ -177,7 +191,15 @@ XXIX. Grupos en situación de vulnerabilidad: población que enfrenta barreras p
 
 XXX. Impacto de movilidad: resultado de la evaluación de las posibles influencias o alteraciones sobre los desplazamientos de personas, bienes y mercancías que pudieran afectarse por la realización de obras y actividades privadas y públicas;
 
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XXX Bis. Infraestructura vial estratégica: Vías de comunicación terrestres libres o de cuota de jurisdicción estatal, así como aquella que el Estado reciba mediante cesión o asignación de la Federación en el ámbito de su competencia;
+
 XXXI. Itinerario: relación completa de las calles o lugares por los que transita un vehículo del servicio de transporte público, al realizar el traslado de pasajeros de terminal a terminal y puntos intermedios;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XXXI Bis. JEC: Junta Estatal de Caminos;
 
 XXXII. Ley General: Ley General de Movilidad y Seguridad Vial;
 
@@ -238,6 +260,10 @@ LIX. Servicios auxiliares: accesorios materiales y de infraestructura complement
 LX. Sistema Nacional: Sistema Nacional de Movilidad y Seguridad Vial;
 
 LXI. Sitio: espacio físico ubicado en propiedad privada o en la vía pública, autorizado por la Secretaría y destinado al estacionamiento temporal de vehículos del servicio público de taxi y de carga para el ofrecimiento de sus servicios;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+LXI Bis. SOTOP: Secretaría de Ordenamiento Territorial y Obras Públicas;
 
 LXII. Taxímetro: dispositivo mecánico o electrónico instalado en los taxis, que mide el importe a cobrar con relación a la distancia recorrida y al tiempo transcurrido;
 
@@ -1183,13 +1209,35 @@ I. Los servicios auxiliares, obras, construcciones y demás accesorios o conexos
 
 II. Los terrenos que sean necesarios para el derecho de vía y para el establecimiento de los servicios y obras a que se refiere la fracción anterior.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 61 Bis.
+
+Los accesos que se construyan dentro del derecho de vía se considerarán auxiliares a las vías de comunicación terrestre.
+
+En los terrenos adyacentes a las vías de comunicación terrestre materia de esta Ley, hasta en una distancia de 100 metros del límite del derecho de vía, no podrán establecerse trabajos de explotación de canteras o cualquier tipo de obras que requieran el empleo de explosivos o de gases nocivos.
+
 ###### Artículo 62.
 
 Para la utilización en cualquier forma de los derechos de vía en materia de movilidad y transporte en el Estado, se requiere contar con la autorización de la autoridad competente conforme a la Ley y demás normatividad jurídica aplicable.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 62 Bis.
+
+El derecho de vía y las instalaciones asentadas en él, cuando se trate de infraestructura vial estratégica, no estarán sujetas a servidumbre.
+
 ###### Artículo 63.
 
 Los permisionarios de autotransporte federal cuando utilicen vías de jurisdicción estatal, deberán solicitar a la Secretaría los permisos para realizar ascenso y descenso de pasajeros, carga o descarga de materiales, servicio de arrastre o para establecer sitios, paradas o terminales, sin menoscabo de lo dispuesto por la normatividad federal. La Secretaría dispondrá la expedición de estos permisos, cuidando la no afectación de las concesiones o permisos estatales, en términos de lo dispuesto por el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 63 Bis.
+
+Los cruzamientos en la infraestructura vial estratégica sólo podrán efectuarse previo permiso de la SOTOP, con el auxilio de la JEC en el ámbito de su competencia.
+
+Las obras de construcción y conservación de los cruzamientos se harán por cuenta del operador de la vía u obra que cruce a la ya establecida, previo cumplimiento de los requisitos establecidos en el permiso y en los reglamentos respectivos.
 
 ###### Artículo 64.
 
@@ -1234,6 +1282,10 @@ b) Vías locales: aquellas destinadas a comunicar internamente a los fraccionami
 8. Exclusivo para ciclistas; y
 
 9. Área de transferencias, que conectan con estacionamientos y lugares de resguardo para bicicletas, terminales urbanas, suburbanas y foráneas y otras estaciones.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+La SOTOP emitirá las disposiciones técnicas relacionadas con la infraestructura vial estratégica de jurisdicción estatal y demás que le resulten aplicables en términos de la presente Ley.
 
 ###### Artículo 65.
 
@@ -2481,19 +2533,201 @@ Para la revocación de las concesiones o permisos de transporte público se reco
 
 La fijación de la indemnización considerará únicamente el valor de los vehículos autorizados para la prestación del servicio público, sin que proceda fijar o reconocer valor alguno a la concesión o permiso de transporte público.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+## TÍTULO OCTAVO BIS. CONCESIONES DE LA INFRAESTRUCTURA VIAL ESTRATÉGICA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 183 Bis.
+
+La construcción, operación, explotación, conservación y mantenimiento de la infraestructura vial estratégica requiere concesión del Poder Ejecutivo a través de la SOTOP y se sujetarán a lo dispuesto en este Título, sus reglamentos y las condiciones de la concesión respectiva.
+
+Las concesiones se otorgarán a personas físicas o jurídicas colectivas, públicas o privadas, que acrediten la nacionalidad mexicana, mediante el procedimiento de concurso señalado en este Título.
+
+Para el ejercicio de las atribuciones reguladas en el presente Título, la SOTOP se auxiliará de la JEC, en su carácter de organismo técnico especializado del sector.
+
+Para otorgar la concesión, la SOTOP incluirá en los requisitos del concurso público y en los títulos de concesión respectivos la obligación de cumplir con criterios de sustentabilidad ambiental, como el uso de materiales reciclados, el aprovechamiento de energías renovables y la adopción de medidas de mitigación e infraestructura verde que protejan el medio ambiente y el equilibrio ecológico.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 183 Ter.
+
+Para otorgar las concesiones la SOTOP se sujetará al concurso público en los términos siguientes:
+
+I. En un plazo máximo de 90 días hábiles, de oficio o a petición de parte, la SOTOP expedirá convocatoria pública, para la presentación de proposiciones en sobre cerrado, las cuales se abrirán en la fecha programada ante los interesados o notificará los motivos de la improcedencia;
+
+II. Publicar la convocatoria en el Periódico Oficial del Estado y, en su caso, en la plataforma que para tal efecto se determine;
+
+III. Las bases del concurso deben incluir, como mínimo, las características técnicas del proyecto o de la construcción de la vía, el plazo de la concesión y los requisitos de calidad de obra y operación. Los criterios de adjudicación considerarán principalmente los precios y tarifas para el usuario, el proyecto técnico y las contraprestaciones ofrecidas por el otorgamiento de la concesión;
+
+IV. Podrán participar los interesados que demuestren solvencia económica, capacidad técnica, administrativa y financiera, y cumplan con los requisitos de las bases correspondientes;
+
+V. Desde la apertura de propuestas y durante su estudio y homologación, se informará a los interesados sobre las que se desechen y las causas de tal determinación;
+
+VI. Emitir el fallo debidamente fundado y motivado con base en el análisis comparativo de las propuestas admitidas, y notificarlo a todos los participantes. La propuesta ganadora estará a disposición de los licitantes durante 10 días hábiles a partir de la notificación del fallo, para que manifiesten lo que a su derecho convenga; y
+
+VII. Se declarará desierto el concurso y se expedirá una nueva convocatoria cuando ninguna propuesta cumpla con las bases o por caso fortuito o fuerza mayor.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 183 Quáter.
+
+El título de concesión se otorgará por un plazo máximo inicial de hasta treinta años, prorrogable por un periodo equivalente al autorizado, a solicitud del concesionario, siempre que subsistan las causas de interés público que le dieron origen a la concesión y se cumplan los siguientes requisitos:
+
+I. Cumplir con las obligaciones derivadas del título de concesión;
+
+II. Requerir la amortización de inversiones adicionales justificadas y autorizadas por la SOTOP, no previstas en el modelo financiero original; y
+
+III. Acreditar retrasos sustanciales en la ejecución de la obra o el inicio de la operación por causas no imputables al concesionario, como el proceso de liberación de los derechos de vía.
+
+La SOTOP contestará en definitiva la solicitud de prórroga a que se refiere el párrafo anterior, dentro de un plazo de sesenta días naturales contados a partir de la fecha de presentación de la misma, y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento y las demás proyecciones financieras y operativas que consideren la rentabilidad de la concesión.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 183 Quinquies.
+
+No podrán ejecutarse trabajos de construcción o reconstrucción en los caminos y puentes concesionados, sin la previa aprobación de un director responsable de obra o perito independiente, de los planos, memoria descriptiva y demás documentos relacionados con las obras que pretendan ejecutarse.
+
+Se exceptúan de lo dispuesto en el párrafo precedente, los trabajos de urgencia y de mantenimiento que sean necesarios para la conservación y buen funcionamiento del camino concesionado.
+
+Para los trabajos de urgencia, la SOTOP indicará los lineamientos para su realización. Una vez pasada la urgencia, será obligación del concesionario la realización de los trabajos definitivos que se ajustarán a las condiciones del proyecto aprobado por la SOTOP.
+
+No podrá abrirse al uso público la infraestructura vial estratégica que se construya, sin que previamente la SOTOP constate que su construcción se ajustó al proyecto y especificaciones aprobadas y que cuenta con los señalamientos establecidos en la normatividad aplicable. Al efecto, el concesionario deberá dar aviso a la SOTOP de la terminación de la obra y ésta dispondrá de un plazo de 15 días naturales para resolver lo conducente; si transcurrido este plazo no se ha emitido la resolución respectiva, se entenderá como favorable.
+
+Los concesionarios a que se refiere esta Ley están obligados a proteger a los usuarios de la infraestructura vial estratégica por los daños que puedan sufrir con motivo de su uso durante el trayecto de la misma.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+### CAPÍTULO II. De las Concesiones de la Infraestructura vial estratégica a la JEC o Entidades Paraestatales
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 183 Sexies.
+
+El Ejecutivo del Estado, por conducto de la SOTOP, cuando concurran circunstancias de utilidad o interés público, beneficio social o seguridad podrá otorgar concesiones a la JEC o a Entidades Paraestatales del Gobierno del Estado para construir, operar, explotar, conservar y mantener la infraestructura vial estratégica, sin que deban sujetarse al concurso público previsto en el artículo 183 Ter de la presente Ley.
+
+La JEC o Entidades Paraestatales, previa aprobación de la SOTOP, podrán contratar con terceros la construcción, operación, explotación, conservación y mantenimiento de la infraestructura vial estratégica, quiénes deberán sujetarse al concurso público previsto en el numeral antes indicado.
+
+La JEC y las Entidades Paraestatales deberán cumplir con los criterios de sustentabilidad ambiental, como el uso de materiales reciclados, el aprovechamiento de energías renovables y la adopción de medidas de mitigación e infraestructura verde que protejan el medio ambiente y el equilibrio ecológico, observando las disposiciones normativas aplicables en materia de protección al medio ambiente y sustentabilidad. Asimismo, se sujetarán a las mismas obligaciones técnicas de construcción, operación, explotación, conservación y mantenimiento que esta Ley y el título de concesión respectivo imponen a los concesionarios.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+### CAPÍTULO III. De los requisitos, prórrogas y terminación de las Concesiones
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 183 Septies.
+
+Para otorgar los títulos de concesión o resolver sobre sus prórrogas, la SOTOP deberá considerar:
+
+I. La viabilidad económica y/o rentabilidad social; y
+
+II. La solvencia económica y capacidad técnica, financiera y administrativa del concesionario.
+
+Se entenderá por viabilidad económica el resultado de comparar los ingresos monetarios susceptibles de ser generados por el uso, aprovechamiento o explotación de los bienes concesionados, con respecto a los costos que se generarían por la realización del proyecto durante el horizonte temporal de evaluación.
+
+Para tal efecto, emitirá fallo debidamente fundado y motivado con base en el análisis comparativo de las propuestas admitidas para el otorgamiento de la concesión o para resolver las solicitudes de prórroga, en su caso, con el auxilio de la JEC en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 183 Octies.
+
+El título de concesión deberá contener, entre otros elementos:
+
+I. Nombre y domicilio de la persona concesionaria;
+
+II. El objeto, fundamentos legales y motivos de su otorgamiento;
+
+III. Las características de construcción y las condiciones de conservación y operación de la infraestructura vial estratégica;
+
+IV. Las bases de regulación tarifaria para el cobro de cuotas de peaje;
+
+V. El monto del fondo de reserva destinado a la conservación y mantenimiento de la infraestructura vial estratégica;
+
+VI. Los derechos y obligaciones de los concesionarios;
+
+VII. El período de vigencia;
+
+VIII. Las contraprestaciones por cubrir al Gobierno del Estado; y
+
+IX. Las causas específicas de renovación, revocación y terminación.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 183 Nonies.
+
+La SOTOP podrá autorizar dentro de un plazo de sesenta días naturales, contados a partir de la presentación de la solicitud, la cesión total de los derechos y obligaciones establecidos en las concesiones, siempre que éstos hubieren estado vigentes por un lapso no menor a tres años; que el cedente haya cumplido con todas sus obligaciones; y que el concesionario reúna los mismos requisitos que se tuvieron en cuenta para el otorgamiento de la concesión. Ante la falta de respuesta en el plazo será considerada en sentido negativo.
+
+La SOTOP podrá autorizar dentro de un plazo de sesenta días naturales contado a partir de la presentación de la solicitud, la cesión parcial de los derechos y obligaciones establecidos en las concesiones que resulten (sic) necesaria para el desarrollo de los proyectos, siempre que, el cedente haya cumplido con todas sus obligaciones.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 183 Decies.
+
+Las concesiones de la infraestructura vial estratégica terminan por:
+
+I. Vencimiento del plazo;
+
+II. Renuncia del titular;
+
+III. Revocación;
+
+IV. Desaparición de su objeto; y
+
+V. Liquidación o quiebra.
+
+Cumplido el plazo por el que fue otorgada la concesión y, en su caso, de la prórroga que se hubiere otorgado, la infraestructura vial estratégica con los derechos de vía y sus servicios auxiliares, pasarán al dominio del Estado, sin costo alguno y libre de todo gravamen.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+Artículo 183 Undecies.- La SOTOP podrá revocar las concesiones por las siguientes causas:
+
+I. Incumplir con el objeto, obligaciones o condiciones, o con las características de construcción u operación de las concesiones y permisos, o interrumpir la operación de la vía, total o parcialmente, sin causa justificada;
+
+II. Reincidir en la aplicación de tarifas superiores a las autorizadas;
+
+III. Incumplir con el pago de indemnizaciones por daños causados con motivo del servicio;
+
+IV. Ceder, hipotecar, gravar o transferir la concesión o los bienes afectos a la misma sin la autorización previa de la SOTOP;
+
+V. Modificar sustancialmente la naturaleza de la infraestructura sin autorización, o no mantener vigentes las garantías y seguros de daños contra terceros; y
+
+VI. Las previstas en el título de concesión.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+Artículo 183 Dúodecies.- Es de utilidad pública la construcción, mantenimiento, conservación y explotación de la infraestructura vial estratégica. La SOTOP, por sí o a petición de los interesados, efectuará la compraventa o promoverá la expropiación de los terrenos, construcciones y bancos de material necesarios para tal fin. La compraventa o expropiación se llevará a cabo conforme a la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+Artículo 183 Terdecies.-Se requiere permiso previo de la SOTOP para la instalación de líneas de transmisión eléctrica, postes, cercas, duetos de transmisión de productos derivados del petróleo, así como cualquier otra obra subterránea, superficial o aérea en la infraestructura vial estratégica que puedan entorpecer su buen funcionamiento. Para tal efecto se auxiliará de la JEC en el ámbito de su competencia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+### CAPÍTULO IV. De la interpretación y de la JEC
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+Artículo 183 Quáterdecies.- La interpretación para efectos administrativos de las materias relacionadas con la infraestructura vial estratégica previstas en esta Ley corresponde a la SOTOP.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+Artículo 183 Quindecies.- La SOTOP se auxiliará de la JEC para la instrumentación técnica, supervisión, evaluación y seguimiento a las concesiones reguladas en el presente Título, así como para integrar en la infraestructura vial estratégica los elementos de ingeniería de tránsito de dicha materia, de conformidad con las disposiciones aplicables.
+
+Tratándose de concesiones otorgadas a la JEC, la SOTOP designará al personal encargado de llevar a cabo la supervisión de dicha concesión.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+Articulo 183 Sedecies.- La JEC ejecutará las acciones técnicas de seguimiento, evaluación y control de la infraestructura vial estratégica con base en indicadores de factibilidad económica, social y de cumplimiento estricto de las disposiciones aplicables en materias de impacto ambiental y mitigación de riesgos para la población.
+
 ## TÍTULO NOVENO. SUPERVISIÓN Y VIGILANCIA
 
 ### CAPÍTULO I. Inspección, vigilancia y verificación del transporte público
-
-### CAPÍTULO II. Medidas de seguridad
-
-### CAPÍTULO I. Disposiciones generales
-
-### CAPÍTULO II. Facultades de la Secretaría respecto a las sanciones de los choferes u operadores del servicio de transporte público
-
-## TÍTULO DÉCIMO. Procedimiento sancionador
-
-### CAPÍTULO III. De los recursos
 
 ###### Artículo 184.
 
@@ -2623,7 +2857,7 @@ Con el objeto de garantizar el desarrollo de las supervisiones, la Secretaría, 
 
 Recibida el acta de inspección por la autoridad ordenadora, la Secretaría requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibido, para que adopte de inmediato las medidas correctivas de urgente aplicación, fundando y motivando el requerimiento y para que dentro del plazo de cinco días hábiles, a partir del día siguiente de que se realice dicha notificación, manifieste por escrito lo que a su derecho convenga, en relación con lo asentado en el acta de inspección y ofrezca las pruebas de su intención.
 
-### CAPÍTULO ÚNICO. Negociación, mediación y conciliación
+### CAPÍTULO II. Medidas de seguridad
 
 ###### Artículo 191.
 
@@ -2687,9 +2921,9 @@ XIII. Cuando se imponga al conductor, chofer u operador como sanción, el arrest
 
 XIV. Por no cumplir el concesionario, permisionario o chofer u operador lo establecido en esta Ley, el Reglamento y demás disposiciones jurídicas aplicables.
 
-## TÍTULO DÉCIMO PRIMERO. MÉTODOS DE SOLUCIÓN DE CONTROVERSIAS
+## TÍTULO DÉCIMO. Procedimiento sancionador
 
-### CAPÍTULO ÚNICO. Del Instituto
+### CAPÍTULO I. Disposiciones generales
 
 ###### Artículo 194.
 
@@ -2725,6 +2959,8 @@ Todo prestador del servicio de transporte público y privado que cometa infracci
 
 En caso de no estar conforme el infractor con la sanción que le fue impuesta, podrá interponer los recursos establecidos en esta Ley.
 
+### CAPÍTULO II. Facultades de la Secretaría respecto a las sanciones de los choferes u operadores del servicio de transporte público
+
 ###### Artículo 198.
 
 La Secretaría está facultada para cancelar de forma definitiva los tarjetones de chofer por las siguientes causas:
@@ -2756,6 +2992,8 @@ V. Así lo ordene la autoridad judicial o administrativa; y
 VI. No acredite los exámenes médicos que para tal efecto requiera la Secretaría, o su prueba de dopaje haya resultado positiva.
 
 A ninguna persona que porte una licencia para conducir expedida en el extranjero se le permitirá conducir los vehículos de transporte de personas o de carga regulados en esta Ley.
+
+### CAPÍTULO III. De los recursos
 
 ###### Artículo 200.
 
@@ -2791,7 +3029,9 @@ La resolución que se dicte en los recursos de revocación y revisión se notifi
 
 Contra la resolución que se dicte en el recurso de revisión no procederá otro recurso.
 
-## TÍTULO DÉCIMO SEGUNDO. INSTITUTO DE INVESTIGACIÓN Y CAPACITACIÓN EN MATERIA DE MOVILIDAD Y TRÁNSITO DEL ESTADO DE TABASCO
+## TÍTULO DÉCIMO PRIMERO. MÉTODOS DE SOLUCIÓN DE CONTROVERSIAS
+
+### CAPÍTULO ÚNICO. Negociación, mediación y conciliación
 
 ###### Artículo 207.
 
@@ -2991,6 +3231,10 @@ V. Por incumplimiento del acuerdo entre los intervinientes; y
 
 VI. En los demás casos en que proceda dar por concluido la mediación o la conciliación de conformidad con las Leyes aplicables en la materia.
 
+## TÍTULO DÉCIMO SEGUNDO. INSTITUTO DE INVESTIGACIÓN Y CAPACITACIÓN EN MATERIA DE MOVILIDAD Y TRÁNSITO DEL ESTADO DE TABASCO
+
+### CAPÍTULO ÚNICO. Del Instituto
+
 ###### Artículo 222.
 
 Con el fin de impulsar una movilidad sostenible y una efectiva cultura de la movilidad y considerando la meta 11.2 del objetivo 11 de la Agenda 2030 para el Desarrollo Sostenible de Naciones Unidas, se creará el Instituto de Investigación y Capacitación en Materia de Movilidad y Tránsito del Estado de Tabasco, como organismo público desconcentrado de la administración pública estatal del estado de Tabasco, con autonomía técnica y funcional, sectorizado a la Secretaría.
@@ -3116,3 +3360,37 @@ En el mismo plazo a que se refiere el párrafo anterior, deberán llevar a cabo 
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 290 POR EL QUE “SE REFORMA EL ARTÍCULO 3, FRACCIÓN XII Y SE ADICIONAN LAS FRACCIONES XIII BIS AL ARTÍCULO 2; XXX BIS, XXXI BIS Y LXI BIS AL ARTÍCULO 3; LOS ARTÍCULOS 61 BIS; 62 BIS; 63 BIS; UN SEGUNDO PÁRRAFO AL ARTÍCULO 64 Y UN TÍTULO OCTAVO BIS DENOMINADO "CONCESIONES DE LA INFRAESTRUCTURA VIAL ESTRATÉGICA" A LA LEY DE MOVILIDAD PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. El Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, en coordinación con la Secretaría de Ordenamiento Territorial y Obras Públicas y la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas competencias, llevará a cabo los actos jurídicos y administrativos necesarios para transferir los recursos financieros, materiales, técnicos y humanos que actualmente se encuentran asignados a la Junta Estatal de Caminos, a favor del Organismo Público Descentralizado que se crea.
+
+Para tal efecto, se transferirá de manera directa la titularidad, resguardo y posesión de los bienes muebles, inmuebles, maquinaria pesada, planta de emulsión asfáltica, archivos, equipamiento y derechos sobre infraestructura que correspondan, los cuales pasarán a integrar el patrimonio propio del nuevo ente paraestatal. Dicha transferencia y desincorporación deberá formalizarse mediante los convenios y las actas de entrega-recepción respectivas, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Se abroga el Acuerdo de Creación de la Junta Estatal de Caminos, publicado en el Periódico Oficial del Estado de Tabasco Número 4663, de fecha el 20 de mayo de 1987.
+
+CUARTO. La Secretaría de Administración y Finanzas deberá realizar las gestiones pertinentes para la asignación del presupuesto, inmueble y demás recursos materiales que se requieran para el funcionamiento del Organismo Público Descentralizado.
+
+QUINTO. En un plazo no mayor a 90 días naturales contados a partir de la instalación de la Junta de Gobierno, la Junta Estatal de Caminos deberá realizar las gestiones administrativas necesarias para establecer su estructura orgánica.
+
+SEXTO. En un plazo no mayor a 60 días naturales contados a partir de la aprobación de la estructura orgánica, deberá expedirse el Estatuto Orgánico de la Junta Estatal de Caminos.
+
+SÉPTIMO. Las referencias que en otras disposiciones jurídicas se hicieren a la Junta Estatal de Caminos se entenderán hechas al organismo público descentralizado que se crea por el presente Decreto, en lo que no se contraponga a su naturaleza jurídica.
+
+OCTAVO. Los asuntos en trámite ante la Junta Estatal de Caminos, en su carácter de órgano administrativo desconcentrado a la entrada en vigor del presente Decreto, serán atendidos por el organismo público descentralizado que con motivo del presente Decreto se crea, conforme a las disposiciones que le resulten aplicables.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, en lo concerniente a las reformas a la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y a la Ley de Movilidad para el Estado de Tabasco, se realizarán con cargo al presupuesto aprobado para tal fin a las Secretarías de Movilidad y de Ordenamiento Territorial y Obras Públicas, así como a la Junta Estatal de Caminos, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
+
+DÉCIMO. Los asuntos relativos a la infraestructura vial estratégica de jurisdicción estatal en términos del presente Decreto, en trámite ante la Secretaría de Movilidad, a la entrada en vigor del presente Decreto serán atendidos por la Secretaría de Ordenamiento Territorial y Obras Públicas y la Junta Estatal de Caminos conforme a las disposiciones que le resulten aplicables.
+
+DÉCIMO PRIMERO. Los derechos laborales, de antigüedad y de seguridad social del personal que, con motivo del presente Decreto, pase a formar parte de la estructura orgánica del nuevo Organismo Público Descentralizado, serán respetados y salvaguardados íntegramente, con estricto apego a lo dispuesto en la Ley de los Trabajadores al Servicio del Estado de Tabasco y demás ordenamientos jurídicos aplicables.
+
+DÉCIMO SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor, así como la operación subsecuente del Organismo Público Descentralizado que se crea con el presente Decreto, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes.
+
+DÉCIMO TERCERO. La creación del nuevo organismo no genera plazas adicionales; los requerimientos se realizarán mediante movimientos compensados.
+
+DÉCIMO CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
