@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-adquisiciones-arrendamientos-y-prestacion-de-44768"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-27"
-last_updated: "2026-02-14"
+last_updated: "2026-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 27 de abril de 2005.
 
@@ -67,97 +67,77 @@ Los entes públicos sujetos a esta Ley se abstendrán de crear fideicomisos, oto
 
 Las disposiciones de la presente Ley se aplicarán sin perjuicio de lo dispuesto por los tratados internacionales en que el Gobierno de los Estados Unidos Mexicanos sea parte.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 2.
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
+I. Adjudicación Directa: Procedimiento por el cual se fincan pedidos o celebran contratos de manera directa, sin llevar a cabo licitaciones públicas o simplificadas, bajo la responsabilidad de la Secretaría, dependencias, órganos o entidades, siempre que se cumplan las condiciones que para ello establece esta Ley;
 
-I. Secretaría: La Secretaría de Administración y Finanzas;
+II. Administrador de Contrato: La persona servidora pública responsable de dar seguimiento y verificar el cumplimiento de las obligaciones derivadas de los contratos y/o convenios inherentes a los procedimientos de adquisición, lo que documentará de acuerdo a la normatividad interna;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
+III. Adquisición: La compra de cualquier bien mueble que realice el Gobierno del Estado para el cumplimiento de sus funciones;
 
-II. Secretaría Anticorrupción: La Secretaría Anticorrupción y Buen Gobierno;
+IV. Arrendamiento: Contrato oneroso por el cual se obtiene el derecho de uso y goce temporal de bienes muebles a plazo forzoso y precio cierto;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
+V. Bien Mueble: Es aquel que por su naturaleza puede trasladarse de un lugar a otro, ya sea que se mueva por sí mismo o por efecto de una fuerza exterior;
 
-III. Dependencias: Las Dependencias a que hace mención el artículo 19 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco;
+VI. Comité de Compras: Comité de Compras del Poder Ejecutivo del Estado de Tabasco;
 
-IV. Entidades: Los organismos descentralizados del Poder Ejecutivo del Estado, las empresas de Participación Estatal Mayoritaria y los fideicomisos en los que el fideicomitente sea el Gobierno del Estado;
+VII. Contrato abierto: El acto jurídico bilateral formalizado entre la Secretaría, dependencias, órganos o entidades, y los proveedores, respecto de las adquisiciones, arrendamientos de bienes muebles o servicios que se requieran de manera reiterada, que se deriva de licitaciones o adjudicaciones directas, según corresponda, en los términos de esta Ley y su Reglamento, y que establece una cantidad mínima y máxima de bienes, arrendamientos o servicios a contratar; o bien, el presupuesto mínimo y máximo que podrá ejercerse, conforme a los precios unitarios que se determinen en el procedimiento correspondiente;
 
-V. Dependencias Coordinadoras de Sector: Las dependencias a que se refiere la fracción III de este artículo;
+VIII. Contrato o pedido: El acto jurídico bilateral formalizado entre la Secretaría, dependencias, órganos o entidades, y los proveedores, respecto de las adquisiciones, arrendamientos de bienes muebles o servicios, que se deriva de licitaciones o adjudicaciones directas, según corresponda, en los términos de esta Ley y su Reglamento;
 
-VI. Órganos: Los órganos desconcentrados de la Administración Pública, adscritos al Titular del Poder Ejecutivo o a una Secretaría, que cuentan con facultades para resolver sobre materias específicas o dentro del ámbito territorial que se determine en cada caso;
+IX. Convocante: La Secretaría de Administración y Finanzas, dependencias, órganos y entidades;
 
-VII. Bien Mueble: Es aquel que por su naturaleza puede trasladarse de un lugar a otro, ya sea que se mueva por sí mismo o por efecto de una fuerza exterior;
+X. Dependencias: Las Dependencias a que hace mención el artículo 19 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
+XI. Dependencias Coordinadoras de Sector: Las dependencias a que se refiere la fracción X de este artículo;
 
-VIII. Convocante: La Secretaría de Administración y Finanzas, dependencias, órganos y entidades;
+XII. Domicilio Fiscal: Tratándose de personas físicas que realizan actividades empresariales es el local en que se encuentre el principal asiento de sus negocios. En el caso de personas jurídicas colectivas, el local en donde se encuentra la administración principal del negocio;
 
-IX. Ley: Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco;
+XIII. Entes públicos: Los señalados en el artículo 1 de esta Ley;
 
-X. Reglamento: Reglamento de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco;
+XIV. Entidades: Los organismos descentralizados del Poder Ejecutivo del Estado, las empresas de Participación Estatal Mayoritaria y los fideicomisos en los que el fideicomitente sea el Gobierno del Estado;
 
-XI. Comité de Compras: Comité de Compras del Poder Ejecutivo del Estado de Tabasco;
+XV. Investigación de mercado: El proceso previo al inicio de los procedimientos de contratación, orientado a obtener información pertinente y acreditable para conocer las condiciones comerciales de los bienes, arrendamientos o servicios que se pretenden contratar, así como la verificación de la existencia de bienes, arrendamientos o servicios de proveedores a nivel estatal, nacional o internacional y del precio estimado e imperante, basado en la información que se obtenga en la propia Secretaría, dependencia, órgano o entidad, de organismos públicos o privados, de fabricantes de bienes o prestadores del servicio o una combinación de dichas fuentes, para así determinar la estrategia y modalidades del procedimiento, a través de la cual en cada caso se obtengan las mejores condiciones para los entes públicos contratantes;
 
-XII. Licitación Pública: Procedimiento por el cual se expide convocatoria pública, selecciona y adjudica a los licitantes los contratos relativos a las adquisiciones, arrendamientos o prestación de servicios;
+XVI. Ley: Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
+XVII. Licitación Pública: Procedimiento por el cual se expide convocatoria pública, selecciona y adjudica a los licitantes los contratos relativos a las adquisiciones, arrendamientos o prestación de servicios;
 
-XIII. Licitación Simplificada Mayor o Menor: Procedimiento mediante el cual se realizan adquisiciones o contratan arrendamientos y servicios, sin sujetarse al procedimiento de Licitación Pública, a través de la invitación a un número mínimo de licitantes con capacidad de respuesta inmediata y por los montos máximos establecidos en el Presupuesto General de Egresos del Estado o el que corresponda;
+XVIII. Licitación Simplificada Mayor o Menor: Procedimiento mediante el cual se realizan adquisiciones o contratan arrendamientos y servicios, sin sujetarse al procedimiento de Licitación Pública, a través de la invitación a un número mínimo de licitantes con capacidad de respuesta inmediata y por los montos máximos establecidos en el Presupuesto General de Egresos del Estado o el que corresponda;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
+XIX. Licitante: Persona física o jurídica colectiva que participa con una propuesta cierta y determinada en cualquier procedimiento de Licitación Pública o Simplificada, en el marco de la presente Ley;
 
-XIV. Adjudicación Directa: Procedimiento por el cual se fincan pedidos o celebran contratos de manera directa, sin llevar a cabo licitaciones públicas o simplificadas, bajo la responsabilidad de la Secretaría, dependencias, órganos o entidades, siempre que se cumplan las condiciones que para ello establece esta Ley;
+XX. Oficialía Mayor: A la Oficialía Mayor de la Secretaría de Administración y Finanzas;
 
-XV. Licitante: Persona física o jurídica colectiva que participa con una propuesta cierta y determinada en cualquier procedimiento de Licitación Pública o Simplificada, en el marco de la presente Ley;
+XXI. Órganos: Los órganos desconcentrados de la Administración Pública, adscritos al Titular del Poder Ejecutivo o a una Secretaría, que cuentan con facultades para resolver sobre materias específicas o dentro del ámbito territorial que se determine en cada caso;
 
-XVI. Proveedor: Persona física o jurídica colectiva que se encuentre inscrita en el Padrón y debidamente establecido, en su carácter de vendedor de bienes muebles, arrendador o prestador de servicios, que celebra contratos con la Secretaria, dependencias, órganos y entidades;
+XXII. Padrón: Registro de Proveedores de bienes muebles y servicios del Estado de Tabasco;
 
-XVII. Padrón: Registro de Proveedores de bienes muebles y servicios del Estado de Tabasco;
+XXIII. Precio no aceptable: Aquel que no es admisible para adjudicar un contrato, en cualquiera de los siguientes supuestos:
 
-XVIII. Adquisición: La compra de cualquier bien mueble que realice el Gobierno del Estado para el cumplimiento de sus funciones;
+a) Cuando el monto ofertado en el procedimiento de contratación, exceda el presupuesto autorizado para la contratación de la dependencia o entidad contratante, o
 
-XIX. Arrendamiento: Contrato oneroso por el cual se obtiene el derecho de uso y goce temporal de bienes muebles a plazo forzoso y precio cierto;
+b) Cuando el monto ofertado resulte superior en un diez por ciento respecto del que se obtenga como mediana en la investigación de mercado o, en su defecto, respecto del promedio de las ofertas presentadas;
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+XXIV. Precio no conveniente: Es aquel que se determina a partir de obtener el promedio de los precios preponderantes que resulten de las proposiciones aceptadas técnicamente en el procedimiento de contratación, y a éste se le resta el porcentaje que determine la Secretaría en el Reglamento de esta Ley;
 
-XX. Servicio: La actividad organizada que se realiza con el fin de satisfacer determinados requerimientos del gobierno, prestada por personas físicas o jurídicas colectivas, excepto la contratación de servicios profesionales subordinados o bajo el régimen de honorarios;
+XXV. Proveedor: Persona física o jurídica colectiva que se encuentre inscrita en el Padrón y debidamente establecido, en su carácter de vendedor de bienes muebles, arrendador o prestador de servicios, que celebra contratos con la Secretaría, dependencias, órganos y entidades;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
+XXVI. Reglamento: Reglamento de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco;
 
-XXI. Contrato o pedido: El acto jurídico bilateral formalizado entre la Secretaría, dependencias, órganos o entidades, y los proveedores, respecto de las adquisiciones, arrendamientos de bienes muebles o servicios, que se deriva de licitaciones o adjudicaciones directas, según corresponda, en los términos de esta Ley y su Reglamento;
+XXVII. Secretaría: La Secretaría de Administración y Finanzas;
 
-XXII. Tratados: Los convenios celebrados por escrito entre el Gobierno de los Estados Unidos Mexicanos y otro u otros sujetos de Derecho Internacional Público, ya sea que para su aplicación requieran o no de acuerdos en materias específicas, cualquiera que sea su denominación, mediante los cuales se asumen compromisos;
+XXVIII. Secretaría Anticorrupción: La Secretaría Anticorrupción y Buen Gobierno;
 
-XXIII. Entes públicos: Los señalados en el artículo 1 de esta Ley;
+XXIX. Servicio: La actividad organizada que se realiza con el fin de satisfacer determinados requerimientos del gobierno, prestada por personas físicas o jurídicas colectivas, excepto la contratación de servicios profesionales subordinados o bajo el régimen de honorarios; y
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+XXX. Tratados: Los convenios celebrados por escrito entre el Gobierno de los Estados Unidos Mexicanos y otro u otros sujetos de Derecho Internacional Público, ya sea que para su aplicación requieran o no de acuerdos en materias específicas, cualquiera que sea su denominación, mediante los cuales se asumen compromisos.
 
-XXIV. Domicilio Fiscal: Tratándose de personas físicas que realizan actividades empresariales es el local en que se encuentre el principal asiento de sus negocios. En el caso de personas jurídicas colectivas, el local en donde se encuentra la administración principal del negocio;
-
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
-
-XXV. Investigación de mercado: El proceso previo al inicio de los procedimientos de contratación, orientado a obtener información pertinente y acreditable para conocer las condiciones comerciales de los bienes, arrendamientos o servicios que se pretenden contratar, así como la verificación de la existencia de bienes, arrendamientos o servicios de proveedores a nivel estatal, nacional o internacional y del precio estimado e imperante, basado en la información que se obtenga en la propia Secretaría, dependencia, órgano o entidad, de organismos públicos o privados, de fabricantes de bienes o prestadores del servicio o una combinación de dichas fuentes, para así determinar la estrategia y modalidades del procedimiento, a través de la cual en cada caso se obtengan las mejores condiciones para los entes públicos contratantes;
-
-> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2026)</small>
-
-XXVI. Contrato abierto: El acto jurídico bilateral formalizado entre la Secretaría, dependencias, órganos o entidades, y los proveedores, respecto de las adquisiciones, arrendamientos de bienes muebles o servicios que se requieran de manera reiterada, que se deriva de licitaciones o adjudicaciones directas, según corresponda, en los términos de esta Ley y su Reglamento, y que establece una cantidad mínima y máxima de bienes, arrendamientos o servicios a contratar; o bien, el presupuesto mínimo y máximo que podrá ejercerse, conforme a los precios unitarios que se determinen en el procedimiento correspondiente;
-
-> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2026)</small>
-
-XXVII. Oficialía Mayor: A la Oficialía Mayor de la Secretaría de Administración y Finanzas; y
-
-> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2026)</small>
-
-XXVIII. Administrador de Contrato: La persona servidora pública responsable de dar seguimiento y verificar el cumplimiento de las obligaciones derivadas de los contratos y/o convenios inherentes a los procedimientos de adquisición, lo que documentará de acuerdo a la normatividad interna.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2026)</small>
-
-En todos los casos en que la presente Ley haga referencia a las adquisiciones, arrendamientos y servicios se entenderá que se trata, respectivamente, de adquisiciones y arrendamientos de bienes muebles, y de prestación de servicios relacionados con dichos bienes, salvo mención expresa en contrario.
+En todos los casos en que la presente Ley haga referencia a las adquisiciones, arrendamientos y servicios se entenderá que se trata, respectivamente, de adquisiciones y arrendamientos de bienes muebles, y de prestación de servicios relacionados con dichos bienes, salvo mención expresa en contrario; o bien, aquellas adquisiciones, arrendamientos o servicios cuya contratación sea autorizada por el Comité de Compras y estén relacionados con bienes muebles por determinación de la ley.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
@@ -339,13 +319,29 @@ Las dependencias, órganos y entidades estarán obligadas a mantener los bienes 
 
 Para los efectos del párrafo anterior, la Secretaría, dependencias, órganos y entidades, en los contratos respectivos, pactarán el suministro oportuno por parte del proveedor, de las piezas, repuestos, refacciones, mantenimiento y en general, de los elementos necesarios para la debida operación de los bienes adquiridos o arrendados.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 20.
 
-La Secretaría, mediante disposiciones de carácter general, podrá determinar los bienes y servicios de uso generalizado, cuya adquisición o contratación, en forma consolidada, llevará a cabo directamente, con objeto de ejercer el poder de compra del sector público, apoyar las áreas prioritarias del desarrollo y obtener las mejores condiciones en cuanto a precio, calidad, financiamiento y oportunidad.
+La Secretaría, mediante disposiciones de carácter general, podrá determinar a las Dependencias, Órganos y Entidades, los bienes y servicios de uso generalizado, cuya adquisición o contratación, en forma consolidada, llevará a cabo directamente, con objeto de ejercer el poder de compra del sector público, apoyar las áreas prioritarias del desarrollo y obtener las mejores condiciones en cuanto a precio, calidad, financiamiento y oportunidad.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 En todo caso, la Secretaría someterá a opinión del Comité de Compras, el catálogo de las partidas presupuestales en que se realizarán compras consolidadas, cuidando que dicho catálogo incorpore el mayor número de bienes para hacer posible el cumplimiento de los objetivos señalados en el párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+Al Comité de Compras, le corresponde, entre otras funciones, aprobar las bienes o servicios susceptibles de ser adquiridos, arrendados o contratados de forma consolidada.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+Para dicha aprobación, la Oficialía Mayor elaborará la lista de los bienes susceptibles de ser adquiridos o arrendados, o servicios a contratar, con base en el estudio de, al menos, las características y especificaciones generales de los mismos, análisis de la demanda y la posibilidad de generar ahorros con dicha estrategia.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+La Secretaría a través de la Oficialía Mayor, difundirá a más tardar el 1 de septiembre de cada año, la lista de bienes y servicios de manera anticipada a consolidar del siguiente ejercicio fiscal, misma que será publicada en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
 De igual modo la Secretaría, de conformidad con el Reglamento, podrá promover la suscripción de contratos marco con determinados proveedores, bajo condiciones preferenciales de precio, entrega y calidad, previo acuerdo de las características técnicas y de calidad acordadas con las dependencias y entidades, mediante los cuales éstas adquieran bienes, arrendamientos o servicios, a través de la suscripción de contratos específicos.
 
@@ -366,6 +362,28 @@ Cuando los bienes, arrendamientos o servicios que pretendan adquirir en término
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 La Secretaría, dependencias, órganos y entidades podrán, para el mejor desempeño de sus funciones, consultar a los órganos empresariales y de comercio en los asuntos de su ramo, cuando así lo consideren conveniente.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 21 Bis.
+
+La Oficialía Mayor de la Secretaría, podrá suscribir con las Entidades, el acuerdo de consolidación respectivo, para llevar a cabo el procedimiento de contratación consolidado de que se trate, debiendo dejar constancia por escrito de las decisiones y acuerdos que se adopten para tal fin.
+
+En el acuerdo de consolidación a que se refiere el párrafo anterior, se deberá manifestar que previo al inicio del procedimiento de contratación consolidado que se determine derivado de la investigación de mercado, las Entidades participantes se obligan, entre otros, a:
+
+I. Acreditar por escrito que cuentan con disponibilidad presupuestaria por el monto equivalente al volumen de la demanda solicitada para la adquisición o arrendamiento de bienes o contratación de servicios;
+
+II. Manifestar por escrito el consentimiento de adherirse a los requisitos y condiciones que se establezcan en el procedimiento de contratación respectivo;
+
+III. Celebrar en tiempo y forma los contratos y convenios que deriven de los procedimientos de contratación consolidado, así como integrar y conservar el expediente interno del procedimiento de contratación a partir de la comunicación de la adjudicación correspondiente;
+
+IV. Designar al Administrador de Contrato;
+
+V. En caso de determinarse una terminación anticipada del contrato derivado de un procedimiento de contratación consolidado, la dependencia o entidad será la responsable del cálculo y pago de los gastos no recuperables, cuando procedan en términos de lo establecido en la Ley;
+
+VI. Realizar el pago a los proveedores en tiempo y forma, de conformidad a lo estipulado en el artículo 50 de esta Ley, así como dar cumplimiento a todas las obligaciones que deriven de la celebración de los contratos; y
+
+VII. Aplicar las deducciones o penas convencionales que correspondan, así como solicitar la efectividad de las garantías de los contratos que suscriban.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -651,11 +669,17 @@ La Convocante con base en el análisis comparativo de las proposiciones admitida
 
 Si resultare que dos o más proposiciones satisfacen los requerimientos de la Convocante, el pedido o Contrato se adjudicará a quien presente la proposición solvente más baja.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+En caso de que se determine que el precio de una proposición no es aceptable o no es conveniente, se deberá anexar copia de la investigación de precios realizada o del cálculo correspondiente.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
 Contra la resolución que contenga el fallo no procederá recurso alguno, durante el acto administrativo del proceso licitatorio de que se trate. Podrán interponer recurso de inconformidad los licitantes o proveedores en los términos del artículo 71 de esta Ley.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-La Secretaría, dependencias, órganos y entidades podrán adjudicar las adquisiciones en favor de proveedores estatales, cuando el precio respecto de la propuesta solvente de un Proveedor que solo tenga sucursales en el Estado, se encuentren en un rango de diferencia no mayor a un diez por ciento respecto a la de un Proveedor inscrito en el Padrón y con domicilio fiscal en el Estado, con la finalidad de fortalecer los sectores prioritarios y estratégicos del Estado y en el municipio de que se trate, siempre y cuando se cumplan con los criterios señalados en el artículo 21 de esta Ley.
+La Secretaría, dependencias, órganos y entidades podrán adjudicar las adquisiciones en favor de proveedores estatales, cuando el precio respecto de la propuesta solvente de un Proveedor que solo tenga sucursales en el Estado, se encuentre en un rango de diferencia no mayor a un diez por ciento respecto a la de un Proveedor inscrito en el Padrón y con domicilio fiscal en el Estado, con la finalidad de fortalecer los sectores prioritarios y estratégicos del Estado y en el municipio de que se trate, siempre y cuando se cumplan con los criterios señalados en el artículo 21 de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
@@ -1532,3 +1556,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. En un plazo que (sic) no mayor a noventa días naturales a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones conducentes al Reglamento de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco y, en su caso, a las disposiciones que resulten necesarias para el cumplimiento del presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 289 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2; 20, PÁRRAFOS PRIMERO Y TERCERO; Y 34, PÁRRAFOS TERCERO Y CUARTO; Y SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL ARTÍCULO 20; EL ARTÍCULO 21 BIS; Y UN PÁRRAFO QUINTO AL ARTÍCULO 34. TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente Decreto.
+
+TERCERO.- En un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones conducentes al Reglamento de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco y, en su caso, a las disposiciones que resulten aplicables.
+
+CUARTO.- La Secretaría de Administración y Finanzas, en un plazo no mayor a 15 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar la difusión de la lista de bienes y servicios a consolidar para el siguiente ejercicio fiscal, en términos de lo dispuesto en el artículo 20, párrafo quinto del presente ordenamiento.
