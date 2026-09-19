@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-123513
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2022-05-31"
+last_updated: "2026-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -135,7 +135,9 @@ II. El Código Fiscal del Estado de Jalisco;
 
 III. Ley del Procedimiento Administrativo del Estado de Jalisco; y
 
-IV. El Código de Procedimientos Civiles del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+IV. El Código Nacional de Procedimientos Civiles y Familiares.
 
 2. En los casos en que no se establezca término en esta ley, se entenderá de hasta cinco días hábiles para su cumplimiento.
 
@@ -1532,3 +1534,9 @@ P.O. 31 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28780/LXIII/22 QUE MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 31, 32, 33, 35, 36, 38 Y 69 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30230/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 4° DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
