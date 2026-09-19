@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2026-09-08"
+last_updated: "2026-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -159,9 +159,17 @@ XVI. Las demás que establezcan otras disposiciones legales y reglamentarias apl
 
 2. Para ser titular de alguna dependencia o entidad, además de lo dispuesto por la Constitución Política del Estado de Jalisco, se requerirá por lo menos:
 
-I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-II. Contar con estudios de nivel de licenciatura, preferentemente en la materia sustantiva de la dependencia o entidad respectiva o experiencia en el ramo.
+I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+II. Contar con estudios de nivel de licenciatura, preferentemente en la materia sustantiva de la dependencia o entidad respectiva o experiencia en el ramo; y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+III. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y no haber sido declarada como persona deudora alimentaria morosa.
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
@@ -3646,3 +3654,11 @@ P.O. 8 DE SEPTIEMBRE DE 2026.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Los procedimientos penales en materia de extorsión previstos en los artículos derogados 189 y 189 Bis del Código Penal para el Estado Libre y Soberano de Jalisco, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia de este decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30225/LXIV/26 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 29, FRACCIONES VII Y VIII, Y SE ADICIONA UNA FRACCIÓN IX; SE REFORMA EL ARTÍCULO 42, FRACCIONES V, VI Y SE RECORRE SUBSECUENTEMENTE LA SIGUIENTE; SE REFORMA EL ARTÍCULO 106, FRACCIONES X Y XI, Y SE ADICIONA UNA FRACCIÓN XII; SE REFORMA EL ARTÍCULO 117, FRACCIONES V Y VI, Y SE ADICIONA UNA FRACCIÓN VII; SE REFORMA EL ARTÍCULO 160, FRACCIONES IV Y V, Y SE ADICIONA UNA FRACCIÓN VI; SE REFORMA EL ARTÍCULO 161 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO. SE REFORMA LAS FRACCIONES I Y II; Y SE ADICIONA UNA FRACCIÓN III AL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE
+
+JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
