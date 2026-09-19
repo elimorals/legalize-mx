@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-175015"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-09"
-last_updated: "2026-08-08"
+last_updated: "2026-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 9 de noviembre de 2024.
 
@@ -607,7 +607,9 @@ XXXIV. Fomentar medidas de prevención social para el combate a la delincuencia,
 
 XXXV. Organizar, promover, realizar y evaluar, con la participación de las autoridades y sectores involucrados, campañas preventivas de información o colaboración, respecto de los rubros de tránsito y vialidad en el Estado, considerando sus implicaciones en la contaminación del ambiente;
 
-XXXVI. Vigilar en coordinación con los municipios y, de acuerdo con los convenios en la materia, el tránsito en las carreteras, caminos y vialidades de jurisdicción estatal, en los términos que señalen las leyes y reglamentos respectivos;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XXXVI. Vigilar en coordinación con los municipios y, de acuerdo con los convenios en la materia, el tránsito en vías de comunicación terrestre de jurisdicción estatal y en la infraestructura vial estratégica, en los términos que señalen las leyes y reglamentos respectivos;
 
 XXXVII. Participar en el ámbito de su competencia, en forma concurrente con las Secretaría de Movilidad, la Secretaría de Ordenamiento Territorial y Obras Públicas y los municipios, en las acciones relativas a la ingeniería y al señalamiento de la vialidad carretera y caminos del Estado; y
 
@@ -1197,7 +1199,9 @@ XXXVI. Las demás que se prevean en otras disposiciones y las que le sean encome
 
 A la Secretaría de Movilidad le corresponde el despacho de las siguientes atribuciones:
 
-I. Planear y regular el uso adecuado de las comunicaciones terrestres, de movilidad y transportes en el Estado, con el fin de lograr una mejor utilización de la infraestructura vial y de transporte de personas y de carga que conduzca a la eficaz protección de la vida, y a la seguridad, comodidad y rapidez en la movilidad de las personas y del transporte de bienes;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+I. Planear y regular la movilidad y el uso adecuado del transporte en el Estado, con el fin de optimizar el transporte de personas y de carga, garantizando la protección de la vida, así como la seguridad, comodidad y rapidez en la movilidad de las personas y el transporte de bienes;
 
 II. Participar en colaboración con el Gobierno Federal, mediante los convenios o instrumentos, en materia de sistemas ferroviarios y puertos, de conformidad con las leyes aplicables para la prestación del servicio de movilidad, que se lleven a cabo dentro de la demarcación territorial estatal;
 
@@ -1205,9 +1209,13 @@ III. Actuar en materia de movilidad y transporte, según las atribuciones que le
 
 IV. Vigilar la observancia y aplicación de la Ley General de Movilidad y Seguridad Vial, de la Ley de Movilidad para el Estado de Tabasco, la Ley General de Tránsito y Vialidad del Estado de Tabasco en lo que le compete, así como formular y ejecutar los programas de movilidad, transporte y vialidad de la entidad;
 
-V. Proponer a la persona titular del Poder Ejecutivo las políticas y programas relativos a las comunicaciones y transportes en la Entidad;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-VI. Elaborar políticas públicas relativas a la ingeniería de tránsito y transporte en el Estado, coordinando las acciones con los municipios y demás autoridades competentes que deban llevarse a cabo para su debida atención;
+V. Proponer a la persona titular del Poder Ejecutivo las políticas y programas relativos al transporte en la Entidad;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+VI. Elaborar, con la participación de la Secretaría de Ordenamiento Territorial y Obras Públicas, en el ámbito de su competencia, políticas públicas relativas a la ingeniería de tránsito y transporte en el Estado, coordinando las acciones con los municipios y demás autoridades competentes que deban llevarse a cabo para su debida atención;
 
 VII. Planear, regular, orientar y supervisar la prestación del servicio público de transporte en todas sus modalidades, y las terminales de autobuses de jurisdicción estatal, precisando las rutas de penetración o de paso, así como los itinerarios para los vehículos de carga, otorgando las autorizaciones correspondientes;
 
@@ -1215,15 +1223,21 @@ VIII. Estudiar y establecer las normas para la determinación de sitios de trans
 
 IX. Establecer los requisitos que deban satisfacer los particulares y el personal técnico del servicio de transporte, así como otorgar, revisar, cancelar, revocar, modificar, prorrogar y revalidar los permisos y autorizaciones para la prestación de cualquier modalidad del servicio público y de transporte en sus distintas modalidades, en vías de jurisdicción local, y declarar en términos de ley su caducidad;
 
-X. Dirigir, coordinar y controlar la ejecución de los programas de comunicaciones y transportes en la entidad, que realice directamente o en forma concertada con el Gobierno Federal o los municipios;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+X. Dirigir, coordinar y controlar la ejecución de los programas de transportes en la entidad, que realice directamente o en forma concertada con el Gobierno Federal o los municipios;
 
 XI. Regular, inspeccionar y vigilar el servicio de transporte en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo;
 
 XII. Tomar las medidas necesarias para evitar la suspensión del servicio del transporte público, y en su caso, organizar los servicios emergentes de transporte público de la modalidad que corresponda cuando las circunstancias lo requieran;
 
-XIII. Aprobar, con el apoyo técnico de las Dependencias involucradas, las tarifas de cualquier modalidad de transporte público del Estado, con base en los estudios técnicos que se realicen, así como administrar las vías de cuota a cargo del Gobierno del Estado, de movilidad, comunicaciones y transportes en el Estado;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-XIV. Normar, organizar, integrar, operar y actualizar el registro estatal de los sistemas de comunicaciones y transportes en el Estado;
+XIII. Aprobar, con el apoyo técnico de las Dependencias involucradas, las tarifas de cualquier modalidad de transporte público del Estado, con base en los estudios técnicos que se realicen, así como administrar las vías de cuota de movilidad y transportes, a cargo del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XIV. Normar, organizar, integrar, operar y actualizar el registro estatal de los sistemas de transportes en el Estado;
 
 XV. Autorizar cambios en la tipología y equipamiento del parque vehicular para el transporte de pasajeros y de carga, en apego a las disposiciones normativas aplicables en la materia, así como fijar frecuencias y horarios de las unidades de transporte del servicio público; determinar las rutas de penetración de vehículos de servicio público de transporte de pasajeros suburbano, foráneo y de carga, otorgando, en coordinación con las autoridades competentes, las autorizaciones de tránsito que correspondan;
 
@@ -1233,33 +1247,49 @@ XVII. Realizar y ejecutar los estudios necesarios sobre transporte en todas sus 
 
 XVIII. Establecer, evaluar, promover e impulsar estrategias, programas y proyectos, así como instrumentos necesarios para fomentar la cultura y seguridad vial;
 
-XIX. Participar con la Secretaría de Ordenamiento Territorial y Obras Públicas y la Secretaría de Seguridad y Protección Ciudadana, y en su caso, con los ayuntamientos, en las acciones relativas a la ingeniería del transporte público y al señalamiento de la vialidad carretera y caminos del Estado;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XIX. Participar con la Secretaría de Ordenamiento Territorial y Obras Públicas y la Secretaría de Seguridad y Protección Ciudadana, y en su caso, con los ayuntamientos, en el ámbito de sus respectivas competencias, en las acciones relativas a la ingeniería del transporte público y al señalamiento de la infraestructura vial estratégica de jurisdicción estatal;
 
 XX. Elaborar los planes, estudios y proyectos, directamente o a través de terceros en materia de movilidad, y transportes en la modalidad que corresponda, dentro del ámbito de competencia que le señalen las leyes federales y estatales;
 
 XXI. Contribuir al desarrollo de una cultura de tránsito y vialidad con la participación de las autoridades y sectores involucrados, a través de campañas preventivas de información en el Estado. En materia de transporte y carga de materiales peligrosos solicitará opinión de las Dependencias cuya competencia y objeto se relacione con estas acciones;
 
-XXII. Promover y fomentar la participación de los diversos sectores de la sociedad con el objeto de conocer su problemática en materia de caminos, puentes, y transporte;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-XXIII. Coordinar con las autoridades competentes, los planes y proyectos relativos a las obras de construcción, ampliación, rehabilitación y mantenimiento de la red carretera del Estado y de infraestructura de comunicaciones de jurisdicción local terrestre, así como ejecutar las acciones técnicas de seguimiento, evaluación y control respectivas;
+XXII. Promover y fomentar la participación de los diversos sectores de la sociedad con el objeto de conocer su problemática en materia de transporte;
 
-XXIV. Normar y establecer las políticas y criterios para llevar a cabo directamente o a través de terceros, los estudios y proyectos de ingeniería de tránsito para realizar la instalación y mantenimiento de la señalización en las obras viales del Estado, atendiendo las que corresponden a personas con discapacidad;
+XXIII. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2026)
 
-XXV. Concesionar, previo acuerdo con la persona titular del Poder Ejecutivo y en los términos de la legislación y normatividad aplicable, la construcción y conservación de caminos, y vialidades conexas de accesos a puertos y terminales portuarias, así como ferroviarias, o accesorias a ellas, que estimen necesarias y que sean de competencia local;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XXIV. Normar y establecer las políticas y criterios para llevar a cabo directamente o a través de terceros, los estudios y proyectos de ingeniería de tránsito para realizar la instalación y mantenimiento de la señalización en las obras viales del Estado que no correspondan a la competencia de otra dependencia, entidad o municipio, atendiendo las que corresponden a personas con discapacidad;
+
+XXV. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2026)
 
 XXVI. Otorgar concesiones y permisos a los particulares para establecer corralones o encierros oficiales en el Estado, y vigilar técnicamente su funcionamiento y operación con visitas y auditorías que corroboren el buen funcionamiento de acuerdo a lo estipulado en las disposiciones normativas aplicables y en su caso emitir dictámenes o resoluciones sancionatorias;
 
-XXVII. Participar con las autoridades competentes de los tres órdenes, en la emisión de lineamientos y disposiciones relativas a la construcción o rehabilitación de la infraestructura que permita el acceso de vías de intercomunicación fluvial, marítimo, terrestre y ferroviaria que coadyuve a las tareas económicas y productivas de la población;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-XXVIII. Apoyar y asesorar a las autoridades municipales y a los diversos sectores de la sociedad, cuando éstos lo soliciten, en la elaboración de propuestas de obras y servicios;
+XXVII. Participar con las autoridades competentes de los tres órdenes, en la emisión de lineamientos y disposiciones relativas a la construcción o rehabilitación de la infraestructura que permita el acceso de vías de intercomunicación fluvial, marítimo y ferroviaria que coadyuve a las tareas económicas y productivas de la población;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XXVIII. Apoyar y asesorar a las autoridades municipales y a los diversos sectores de la sociedad, cuando éstos lo soliciten, en la elaboración de propuestas de servicios de transporte;
 
 XXIX. Otorgar, revisar, cancelar, revocar, modificar, prorrogar y revalidar las concesiones, autorizaciones y permisos para la prestación de cualquier modalidad del servicio de transporte público en vías de jurisdicción local, en términos de la normatividad aplicable;
 
-XXX. Intervenir como instancia normativa y emitir lineamientos para la construcción y mantenimiento de la red de carreteras, caminos vecinales, de comunicación terrestre, fluvial, sistema ferroviario y puertos de la entidad, así como coadyuvar con instancias diversas de la administración pública federal en asuntos de su exclusiva competencia cuando sea requerida;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-XXXI. Dirigir, coordinar y controlar la ejecución de programas relativos a la construcción y reparación de las obras de movilidad y vialidad, en coordinación con la Secretaría de Ordenamiento Territorial y Obras Públicas, y aquellas con competencia, así como evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social y aseguren el cumplimiento de las disposiciones en materia de impacto ambiental y de riesgo para la población;
+XXX. Intervenir como instancia normativa y emitir lineamientos para la construcción y mantenimiento de la red fluvial, así como coadyuvar con instancias diversas de la administración pública federal en los asuntos del sistema ferroviario y puertos de la entidad;
 
-XXXII. Coordinar los aspectos relativos a la planeación de la infraestructura para el transporte de jurisdicción local, y los derechos en las vías estatales de comunicación; y solicitar a la autoridad competente coadyuvar en lo relativo al cumplimiento de las disposiciones ambientales;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XXXI. Dirigir, coordinar y controlar la ejecución de programas relativos a la construcción y reparación de las obras de movilidad, en coordinación con la Secretaría de Ordenamiento Territorial y Obras Públicas, y evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social y aseguren el cumplimiento de las disposiciones en materia de impacto ambiental y de riesgo para la población;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XXXII. Coordinar los aspectos relativos a la planeación de la infraestructura para el transporte de jurisdicción local, y los derechos de vía para los servicios de transporte; así como solicitar a la autoridad competente coadyuvar en lo relativo al cumplimiento de las disposiciones ambientales;
 
 XXXIII. Promover y, en su caso, organizar la capacitación, investigación y el desarrollo tecnológico operativo en materia de movilidad. Así como, realizar convenios con instituciones y organizaciones públicas y privadas para el cumplimiento de estas disposiciones;
 
@@ -1553,17 +1583,45 @@ XXXIV. Las demás que se prevean en otras disposiciones y las que le sean encome
 
 A la Secretaría de Ordenamiento Territorial y Obras Públicas, le corresponde el despacho de las siguientes atribuciones:
 
-I. Diseñar, conducir, ejecutar, difundir y evaluar, en su caso, las políticas y programas sectoriales de ordenamiento territorial, asentamientos humanos, desarrollo urbano, obras públicas, vivienda, agua potable y alcantarillado, con base en la legislación y normatividad aplicable, así como conocer e intervenir en los programas crediticios oficiales para la construcción, mejoramiento y rehabilitación de la vivienda;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+I. Formular, conducir, regular y evaluar la política estatal y los programas sectoriales en materias de ordenamiento territorial, asentamientos humanos, desarrollo urbano, obra pública, vivienda, agua potable, alcantarillado, saneamiento y gestión integral del recurso hídrico, así como de infraestructura vial estratégica de jurisdicción estatal y sus respectivos derechos de vía;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+I Bis. Coordinar y ejecutar las acciones derivadas de la política habitacional de la entidad, así como intervenir en el diseño, instrumentación y seguimiento de los programas de crédito oficial destinados a la construcción, mejoramiento, ampliación y rehabilitación de vivienda;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+I Ter. Colaborar, en el ámbito de su competencia, en la elaboración las (sic) políticas públicas de ingeniería de tránsito en la infraestructura vial estratégica y coordinar con los municipios y demás autoridades competentes las acciones necesarias para su debida atención, así como normar y establecer los criterios para llevar a cabo, directamente o a través de terceros, los estudios y proyectos correspondientes para la instalación y mantenimiento de la señalización en dichas vías;
 
 II. Participar con las demás instancias y órdenes de gobierno, en la elaboración de identificación de zonas de riesgo en el Estado. Además, en el marco del Comité de Planeación para el Desarrollo del Estado de Tabasco, promover con las autoridades estatales y federales competentes, las acciones necesarias para que el Sistema de Información Geográfica del Estado de Tabasco incluya lo relativo al impacto ambiental;
 
-III. Elaborar, instrumentar y evaluar los programas estatales de ordenamiento territorial, asentamientos humanos y desarrollo urbano, con la participación de las Dependencias, Entidades y Órganos involucrados, atendiendo a criterios de desarrollo sostenible, equilibrio ecológico y potencialidad en el uso de recursos, con la finalidad de incrementar y mejorar los niveles de bienestar de la población;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+III. Diseñar, ejecutar y evaluar, previo acuerdo con la persona titular del Poder Ejecutivo del Estado, las políticas, programas y acciones en materias de ordenamiento territorial, asentamientos humanos, desarrollo urbano y en la infraestructura vial estratégica en el ámbito de su competencia y criterios de desarrollo sostenible y equilibrio ecológico; para lo cual coordinará la participación de las Dependencias, Entidades y Órganos competentes de la Administración Pública Estatal, de conformidad con las disposiciones aplicables;
 
 IV. Ordenar los asentamientos humanos, así como regular el desarrollo y el ordenamiento urbano conforme a la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la legislación estatal en la materia y los ordenamientos municipales;
 
-V. Regular obras públicas, vivienda, agua potable, alcantarillado y caminos en las diversas localidades y centros de población estratégicos, con base en el ordenamiento territorial de la entidad, en los términos de los convenios respectivos y vigilar su desenvolvimiento urbanístico, para asegurar que resulte congruente con las previsiones y planes correspondientes;
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-VI. Apoyar a los ayuntamientos, cuando así lo soliciten, a planear, construir, rehabilitar, operar, conservar y mejorar los sistemas de agua potable, agua desalada, alcantarillado, tratamiento y disposición de aguas residuales. Además, participar en coordinación con las Dependencias y órganos federales y municipales en la formulación de proyectos y ejecución de obras similares que se realicen en la entidad;
+IV Bis. Otorgar, previo acuerdo de la persona titular del Poder Ejecutivo del Estado, las concesiones para la construcción, operación, explotación, conservación y mantenimiento de la infraestructura vial estratégica de jurisdicción estatal, en el ámbito de su competencia, de conformidad con la legislación aplicable y bajo criterios de viabilidad económica y/o rentabilidad social;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+IV Ter. Autorizar las tarifas de infraestructura vial estratégica concesionada de jurisdicción estatal, así como sus modificaciones, de conformidad con los títulos de concesión respectivos y las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+IV Quáter. Recibir y coordinar, por conducto del organismo descentralizado competente en materia de caminos, la construcción, operación, explotación, conservación y mantenimiento de la infraestructura vial estratégica de jurisdicción federal concesionada al Estado, con sujeción a la normatividad aplicable y a los respectivos títulos de concesión;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+V. Planear, coordinar y regular, en el ámbito de la competencia estatal, la infraestructura en materia de obras públicas, desarrollo de vivienda, infraestructura vial estratégica e hidráulica, así como vigilar el desarrollo urbano de los centros de población;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+VI. Coadyuvar con los ayuntamientos en la planeación, construcción, rehabilitación, operación, conservación y mejoramiento de los sistemas de agua potable, desalinización, alcantarillado, saneamiento y disposición de aguas residuales, así como en el desarrollo de caminos rurales y comunitarios mediante esquemas de participación social; para lo cual, brindará asistencia técnica, jurídica y administrativa a los municipios que lo requieran, y coordinará con las autoridades de los tres órdenes de gobierno la planeación, el financiamiento y la ejecución de la infraestructura pública en la materia dentro del territorio de la entidad;
 
 VII. Vigilar el cumplimiento de las disposiciones en materia de fraccionamientos, construcción y desarrollo urbano, en el ámbito de su competencia;
 
@@ -1595,7 +1653,9 @@ XX. Establecer y expedir las bases y normas a las que deben sujetarse las adjudi
 
 XXI. Proyectar y ejecutar directamente o a través de terceros, y vigilar, la construcción, mantenimiento, conservación, o cualquier intervención en infraestructura de la Administración Pública, requerida por las Dependencias y Entidades, conforme a los programas, proyectos, convenios y presupuestos aprobados, por sí o en cooperación con el Gobierno Federal, municipios, otras entidades públicas o con particulares y que no se encomienden expresamente a otras Dependencias;
 
-XXII. Administrar y mantener el laboratorio de análisis, normas de calidad de materiales y procesos constructivos empleados en la edificación de la obra pública a efecto de asegurar los estándares de calidad, durabilidad y economía en la infraestructura pública;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XXII. Administrar y mantener el laboratorio técnico del Estado y establecer los sistemas de control de calidad, normalización y verificación de los materiales y procesos constructivos empleados en la edificación de la obra pública y de la infraestructura vial estratégica, en el ámbito de su competencia, con el objeto de asegurar los estándares de calidad, durabilidad y economía en la infraestructura pública;
 
 XXIII. Conservar y mantener actualizados los sistemas de ordenamiento territorial, así como el de tabuladores de precios unitarios de mano de obra y materiales a efecto de establecer parámetros de valores empleados en la obra pública;
 
@@ -1621,7 +1681,13 @@ XXXIII. Planear, programar, ejercer y llevar un control de las obras y acciones 
 
 XXXIV. Administrar, conservar y renovar la maquinaria, equipo e instalaciones del Gobierno destinadas para la ejecución de obras públicas, pudiendo ser aprovechadas por terceros mediante la contratación de servicios;
 
-XXXV. Planear, construir, y conservar las vías de comunicación de su competencia, en coordinación con los planes y proyectos elaborados por la Secretaría de Movilidad en el marco de sus facultades;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XXXV. Planear, construir, operar, explotar, conservar y mantener la infraestructura vial estratégica de su competencia, de conformidad con la Ley de la materia, en coordinación con las autoridades competentes en lo que resulte aplicable;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XXXV Bis. Coordinar con las autoridades de los tres órdenes de gobierno la formulación, homologación y aplicación de las normas técnicas y criterios de calidad para la construcción, operación, explotación, conservación y mantenimiento de la infraestructura vial estratégica, en el ámbito de su competencia;
 
 XXXVI. Realizar supervisiones e inspecciones en las materias de su competencia y determinar e imponer las sanciones previstas en las disposiciones legales; y
 
@@ -2052,3 +2118,37 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- El Ejecutivo del Estado, por conducto de las autoridades competentes, deberá expedir o adecuar las disposiciones reglamentarias necesarias para la debida aplicación del presente Decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
 
 CUARTO.- Las personas físicas y jurídicas que realicen actividades de producción, acopio, transporte, comercialización o movilización de productos plataneros contarán con un plazo de noventa días naturales, contados a partir de la entrada en vigor de las disposiciones reglamentarias a que se refiere el artículo transitorio tercero del presente Decreto, para adecuar sus procedimientos y cumplir con las obligaciones previstas en el mismo.
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 290 POR EL QUE " SE REFORMAN LOS ARTÍCULOS 23, FRACCIÓN XXXVI; 29, FRACCIONES I, V, VI, X, XIII, XIV, XIX, XXII, XXIV, XXVII, XXVIII, XXX, XXXI Y XXXII; 33, FRACCIONES I, III, V, VI, XXII Y XXXV; SE ADICIONAN LAS FRACCIONES I BIS, I TER, IV BIS, IV TER, IV QUÁTER Y XXXV BIS AL ARTÍCULO 33 Y SE DEROGAN LAS FRACCIONES XXIII Y XXV DEL ARTÍCULO 29 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. El Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, en coordinación con la Secretaría de Ordenamiento Territorial y Obras Públicas y la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas competencias, llevará a cabo los actos jurídicos y administrativos necesarios para transferir los recursos financieros, materiales, técnicos y humanos que actualmente se encuentran asignados a la Junta Estatal de Caminos, a favor del Organismo Público Descentralizado que se crea.
+
+Para tal efecto, se transferirá de manera directa la titularidad, resguardo y posesión de los bienes muebles, inmuebles, maquinaria pesada, planta de emulsión asfáltica, archivos, equipamiento y derechos sobre infraestructura que correspondan, los cuales pasarán a integrar el patrimonio propio del nuevo ente paraestatal. Dicha transferencia y desincorporación deberá formalizarse mediante los convenios y las actas de entrega-recepción respectivas, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Se abroga el Acuerdo de Creación de la Junta Estatal de Caminos, publicado en el Periódico Oficial del Estado de Tabasco Número 4663, de fecha el (sic) 20 de mayo de 1987.
+
+CUARTO. La Secretaría de Administración y Finanzas deberá realizar las gestiones pertinentes para la asignación del presupuesto, inmueble y demás recursos materiales que se requieran para el funcionamiento del Organismo Público Descentralizado.
+
+QUINTO. En un plazo no mayor a 90 días naturales contados a partir de la instalación de la Junta de Gobierno, la Junta Estatal de Caminos deberá realizar las gestiones administrativas necesarias para establecer su estructura orgánica.
+
+SEXTO. En un plazo no mayor a 60 días naturales contados a partir de la aprobación de la estructura orgánica, deberá expedirse el Estatuto Orgánico de la Junta Estatal de Caminos.
+
+SÉPTIMO. Las referencias que en otras disposiciones jurídicas se hicieren a la Junta Estatal de Caminos se entenderán hechas al organismo público descentralizado que se crea por el presente Decreto, en lo que no se contraponga a su naturaleza jurídica.
+
+OCTAVO. Los asuntos en trámite ante la Junta Estatal de Caminos, en su carácter de órgano administrativo desconcentrado a la entrada en vigor del presente Decreto, serán atendidos por el organismo público descentralizado que con motivo del presente Decreto se crea, conforme a las disposiciones que le resulten aplicables.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, en lo concerniente a las reformas a la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y a la Ley de Movilidad para el Estado de Tabasco, se realizarán con cargo al presupuesto aprobado para tal fin a las Secretarías de Movilidad y de Ordenamiento Territorial y Obras Públicas, así como a la Junta Estatal de Caminos, por lo que no requerirán recursos adicionales para tales afectos y no incrementarán su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
+
+DÉCIMO. Los asuntos relativos a la infraestructura vial estratégica de jurisdicción estatal en términos del presente Decreto, en trámite ante la Secretaría de Movilidad, a la entrada en vigor del presente Decreto serán atendidos por la Secretaría de Ordenamiento Territorial y Obras Públicas y la Junta Estatal de Caminos conforme a las disposiciones que le resulten aplicables.
+
+DÉCIMO PRIMERO. Los derechos laborales, de antigüedad y de seguridad social del personal que, con motivo del presente Decreto, pase a formar parte de la estructura orgánica del nuevo Organismo Público Descentralizado, serán respetados y salvaguardados íntegramente, con estricto apego a lo dispuesto en la Ley de los Trabajadores al Servicio del Estado de Tabasco y demás ordenamientos jurídicos aplicables.
+
+DÉCIMO SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor, así como la operación subsecuente del Organismo Público Descentralizado que se crea con el presente Decreto, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes.
+
+DÉCIMO TERCERO. La creación del nuevo organismo no genera plazas adicionales; los requerimientos se realizarán mediante movimientos compensados.
+
+DÉCIMO CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
