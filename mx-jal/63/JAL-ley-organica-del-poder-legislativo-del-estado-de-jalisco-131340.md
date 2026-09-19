@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2026-06-18"
+last_updated: "2026-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -1495,7 +1495,9 @@ XII. Igualdad Sustantiva y de Género;
 
 XIII. Medio Ambiente, Sostenibilidad, Protección Civil y Resiliencia;
 
-XIV. Movilidad y Transporte;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XIV. Movilidad, Seguridad Vial y Transporte;
 
 XV. Participación Ciudadana, Transparencia y Ética en el Servicio Público;
 
@@ -1763,11 +1765,17 @@ III. Los planes, programas, políticas y proyectos en las materias anteriores.
 
 ###### Artículo 93.
 
-1. Corresponde a la Comisión de Movilidad y Transporte, el conocimiento, estudio y en su caso dictamen de los asuntos relacionados con:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-I. La legislación en materia de movilidad, transporte y comunicaciones en el Estado;
+1. Corresponde a la Comisión de Movilidad, Seguridad Vial y Transporte, el conocimiento, estudio y en su caso dictamen de los asuntos relacionados con:
 
-II. Los planes, programas, políticas y proyectos en las materias anteriores y en materia de cultura y educación vial; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+I. La legislación en materia de movilidad, seguridad vial, transporte y comunicaciones en el Estado;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+II. Los planes, programas, políticas y proyectos en las materias anteriores y en materia de cultura, seguridad vial y educación vial;
 
 III. La prestación directa o concesionada del transporte de personas y cosas, en vías estatales de comunicación.
 
@@ -2463,9 +2471,11 @@ d) El sistema de votación electrónica se hará a través de una plataforma que
 
 Artículo 132 E.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
 1. La Junta de Coordinación Política, las comisiones legislativas y los comités pueden sesionar a distancia, en los términos de este capítulo, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología.
 
-2. Las comisiones legislativas y los comités deberán hacer del conocimiento a la Junta de Coordinación Política de la celebración de sus sesiones, a fin de que ésta se incluya en el calendario de reuniones de comisiones y comités, que para el efecto se elabore.
+2. (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2026)
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
 
@@ -4112,3 +4122,15 @@ Segundo. La integración de la Comisión de Ganadería, Agricultura y Desarrollo
 Tercero. Los asuntos turnados a la Comisión de Desarrollo Productivo Regional, serán atendidos por la Comisión de Ganadería, Agricultura y Desarrollo Rural.
 
 Cuarto. Hasta en tanto se realicen las modificaciones en la legislación local derivadas del presente decreto, cuando otra ley o disposición se refiera a la Comisión de Desarrollo Productivo Regional del Poder Legislativo a su Órgano Técnico, se entenderá que se refiere a los de Ganadería, Agricultura y Desarrollo Rural.
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30224/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 79 Y 93 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30228/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 132 E DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
