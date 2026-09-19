@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2022-04-21"
+last_updated: "2026-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -187,9 +187,9 @@ El primer día hábil en que entre en funciones el Presidente electo, en sesión
 
 La administración de justicia se realizará en la forma y términos que señalan las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-Serán inhábiles los sábados, domingos y demás días que establezca el Código de Procedimientos Civiles del Estado.
+Serán inhábiles los sábados, domingos y demás días que establezca el Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -717,9 +717,17 @@ V. Acreditar tres años de práctica profesional, contados a partir de la fecha 
 
 VI. Las que el Pleno o la Presidencia le confieran y las demás que señale el reglamento;
 
-VII. No tener impedimento físico o enfermedad que lo incapacite para el cargo; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-VIII. Ser de reconocida probidad y honradez.
+VII. No tener impedimento físico o enfermedad que lo incapacite para el cargo;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+VIII. Ser de reconocida probidad y honradez; y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y no haber sido declarada como persona deudora alimentaria morosa.
 
 ###### Artículo 30.
 
@@ -929,9 +937,15 @@ III. Tener título de abogado o licenciado en derecho registrado en la Direcció
 
 IV. Acreditar tres años de práctica profesional, contados desde la fecha del registro del título;
 
-V. No haber sido condenado por delito doloso que amerite pena corporal; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-VI. Las demás que señale la ley y el reglamento.
+V. No haber sido condenado por delito doloso que amerite pena corporal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+VI. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y no haber sido declarada como persona deudora alimentaria morosa;
+
+VII. Las demás que señale la ley y el reglamento.
 
 ###### Artículo 43.
 
@@ -1493,13 +1507,17 @@ VIII. No tener impedimento físico o enfermedad que lo imposibilite para el dese
 
 IX. Acreditar los conocimientos, habilidades y competencias que se requieran para el desempeño de su cargo, de conformidad con lo que establezcan las demás disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-X.- Satisfacer con eficiencia y probidad sus servicios en la administración de la justicia o gozar de conocida honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; y
+X. Satisfacer con eficiencia y probidad sus servicios en la administración de la justicia o gozar de conocida honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica;
 
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-XI. No ser ministro de culto religioso.
+XI. No ser ministro de culto religioso; y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y no haber sido declarada como persona deudora alimentaria morosa.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
 
@@ -1633,7 +1651,9 @@ Los secretarios conciliadores tienen las siguientes obligaciones y facultades:
 
 I. Presidir la audiencia de conciliación, procurando avenir a las partes de acuerdo a sus propuestas dentro del derecho, la equidad y la justicia;
 
-II. Elaborar y turnar al Juez, en su caso, el convenio firmado por las partes para que se proceda conforme a lo que dispone el Código de Procedimientos Civiles; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+II. Elaborar y turnar al Juez, en su caso, el convenio firmado por las partes para que se proceda conforme a lo que dispone el Código Nacional de Procedimientos Civiles y Familiares; y
 
 III. Las demás que señale la ley o le encomiende el Juez.
 
@@ -1709,9 +1729,17 @@ III. Haber cursado, cuando menos, la instrucción secundaria;
 
 IV. Tener residencia mínima de un año a la fecha del nombramiento en el lugar de su adscripción;
 
-V. Gozar de reconocida probidad y honradez; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-VI. No haber sido condenado por delito doloso que amerite pena corporal.
+V. Gozar de reconocida probidad y honradez;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+VI. No haber sido condenado por delito doloso que amerité pena corporal; y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+VII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y no haber sido declarada como persona deudora alimentaria morosa.
 
 ###### Artículo 118.
 
@@ -2297,15 +2325,23 @@ II. Contar con título legalmente expedido afín a las funciones que deba desemp
 
 III. Acreditar una experiencia profesional mínima de cinco años al día de la designación;
 
-IV. Gozar de reconocida probidad y honradez; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-V. No haber sido condenado por delito doloso.
+IV. Gozar de reconocida probidad y honradez;
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+V. No haber sido condenado por delito doloso; y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+VI. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y no haber sido declarada como persona deudora alimentaria morosa.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 161.
 
-El Secretario General del Consejo y los directores de Visitaduría, Disciplina y Responsabilidades, Formación y Actualización Judicial, y de Oficialía de Partes y Archivo, además de reunir los requisitos que contemplar (sic) las fracciones I, III, IV y V del artículo anterior, deberán tener título profesional de licenciado en derecho o abogado expedido legalmente con anterioridad mínima de cinco años.
+El Secretario General del Consejo y los directores de Visitaduría, Disciplina y Responsabilidades, Formación y Actualización Judicial, y de Oficialía de Partes y Archivo, además de reunir los requisitos que contemplan las fracciones I, III, IV, V y VI del artículo anterior, deberán tener título profesional de licenciado en derecho o abogado expedido legalmente con anterioridad mínima de cinco años.
 
 ### CAPÍTULO VI. DE LA CAPACITACIÓN DE LOS INTEGRANTES DEL PODER JUDICIAL
 
@@ -2735,9 +2771,9 @@ I. En el área de archivo, organizar, custodiar y conservar los expedientes así
 
 II. Capturar, almacenar, proporcional y distribuir sistemáticamente los datos de registro general, iniciación de juicios su conclusión por sentencia y otras causas, registradas en salas y juzgados;
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-III. Editar en formato electrónico el boletín Judicial, cuyo objeto es publicitar con efecto de notificación a las partes en juicio todos los actos que la ley en la materia establezca, conforme a lo dispuesto en el código de procedimientos civiles, en materia de notificaciones; y
+III. Editar en formato electrónico el boletín Judicial, cuyo objeto es publicitar con efecto de notificación a las partes en juicio todos los actos que la ley en la materia establezca, conforme a lo dispuesto en el Código Nacional de Procedimientos Civiles y Familiares, en materia de notificaciones; y
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE AGOSTO DE 2020)</small>
 
@@ -3269,9 +3305,11 @@ III. Sociedad o comunidad de intereses.
 
 El Juez deberá cerciorarse de que la persona en cuyo favor se pretenda hacer la designación, no se encuentre desempeñando otra sindicatura; excepto que en el primer negocio se hubiere llegado ya hasta la presentación y aprobación de los créditos del concurso.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 235.
 
-El Síndico que no hubiere aceptado alguna sindicatura perderá el turno en la lista respectiva, lo mismo sucederá si no otorga la fianza para caucionar su manejo, de conformidad al Código de Procedimientos Civiles.
+El Sindico que no hubiere aceptado alguna sindicatura perderá el turno en la lista respectiva, lo mismo sucederá si no otorga la fianza para caucionar su manejo, de conformidad al Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 236.
 
@@ -3431,7 +3469,9 @@ El Consejo de la Judicatura a través de la Dirección correspondiente tiene la 
 
 La edición y publicación del Boletín Judicial será electrónico y de carácter oficial y deberá contener por lo menos lo siguiente:
 
-I. Las resoluciones dictadas por los Juzgados de Primera Instancia, Especializados y Auxiliares y las Salas del Supremo Tribunal de Justicia con efecto de notificación o citación en los términos establecidos por el Código de Procedimientos Civiles del Estado o de las leyes respectivas;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+I. Las resoluciones dictadas por los Juzgados de Primera Instancia, Especializados y Auxiliares y las Salas del Supremo Tribunal de Justicia con efecto de notificación o citación en los términos establecidos por el Código Nacional de Procedimientos Civiles y Familiares o de las leyes respectivas;
 
 II. La lista que le remita la Oficialía de Partes Común conteniendo el folio, nombre del promovente y juzgado a que se turnó el asunto;
 
@@ -4156,3 +4196,15 @@ P.O. 21 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 28771/LXIII/22 SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DEL PODER JUDICIAL; Y LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS, TODAS LEYES DEL ESTADO DE JALISCO, EN MATERIA DE IGUALDAD SALARIAL, NO DISCRIMINACIÓN Y VIOLENCIA LABORAL CONTRA LAS MUJERES".]
 
 ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco"
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30225/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 29, FRACCIONES VII Y VIII, Y SE ADICIONA UNA FRACCIÓN IX; SE REFORMA EL ARTÍCULO 42, FRACCIONES V, VI Y SE RECORRE SUBSECUENTEMENTE LA SIGUIENTE; SE REFORMA EL ARTÍCULO 106, FRACCIONES X Y XI, Y SE ADICIONA UNA FRACCIÓN XII; SE REFORMA EL ARTÍCULO 117, FRACCIONES V Y VI, Y SE ADICIONA UNA FRACCIÓN VII; SE REFORMA EL ARTÍCULO 160, FRACCIONES IV Y V, Y SE ADICIONA UNA FRACCIÓN VI; Y SE REFORMA EL ARTÍCULO 161 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO. SE REFORMA LAS FRACCIONES I Y II; Y SE ADICIONA UNA FRACCIÓN III AL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30227/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 12, 113, 193, 235 Y 253 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
