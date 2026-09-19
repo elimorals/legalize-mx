@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2025-11-25"
+last_updated: "2026-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -87,9 +87,9 @@ X. Establecer mecanismos de evaluación y seguimiento para vigilar que los recur
 
 XI. Integrar el enfoque del derecho humano a la paz en el desarrollo social del Estado;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-XII. Fomentar el desarrollo y cohesión social, la vida comunitaria y a vivir en un entorno de paz; y
+XII. Fomentar el desarrollo y la cohesión social, la vida comunitaria y el derecho a vivir en un entorno de paz, impulsando la conformación de redes comunitarias de cuidado y salud mental; y
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2021)</small>
 
@@ -1410,3 +1410,9 @@ P.O. 25 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29867/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ATENCIÓN A VÍCTIMAS, DE LA LEY DE DESARROLLO SOCIAL, DEL CÓDIGO DE ASISTENCIA SOCIAL Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30231/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO, ASÍ COMO DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor a los ciento ochenta días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco.
