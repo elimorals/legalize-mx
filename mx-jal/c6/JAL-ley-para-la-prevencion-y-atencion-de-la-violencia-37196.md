@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-prevencion-y-atencion-de-la-violencia-37196"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-18"
-last_updated: "2024-03-09"
+last_updated: "2026-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección Septuagésima del Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 2003.
 
@@ -415,7 +415,9 @@ En caso de no verificarse quórum, el Presidente podrá convocar por escrito con
 
 El Consejo tendrá las siguientes atribuciones:
 
-I. Establecer los lineamientos administrativos y técnicos que permitan afrontar eficazmente la violencia intrafamiliar, así como aprobar los modelos de atención psicoterapéuticos y de salud más adecuados, elaborados previamente por el equipo técnico;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+I. Establecer los lineamientos administrativos y técnicos que permitan afrontar eficazmente la violencia intrafamiliar, así como aprobar los modelos de atención psicoterapéuticos integrales y de salud más adecuados, elaborados previamente por el equipo técnico, con énfasis en la restitución de derechos, reparación emocional y reintegración social de las víctimas;
 
 II. Aprobar el Programa Estatal para la Prevención y Atención de la Violencia Intrafamiliar, así como las adecuaciones propuestas por el equipo técnico;
 
@@ -601,9 +603,9 @@ I. Tenderá a la resolución de fondo del problema de la violencia intrafamiliar
 
 II. Será libre de prejuicios de género, raza, condición biopsicosocial, religión o credo, nacionalidad o de cualquier otro tipo; y
 
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
 
-III. Se basará en modelos psicoterapéuticos adecuados y específicos.
+III. Se basará en modelos psicoterapéuticos adecuados y específicos, con enfoque restitutivo y conforme a estándares nacionales e internacionales.
 
 ### CAPITULO II. UNIDADES DE ATENCION
 
@@ -612,8 +614,6 @@ III. Se basará en modelos psicoterapéuticos adecuados y específicos.
 Las unidades de atención se constituyen como órganos administrativos del Consejo, y tendrán las siguientes atribuciones:
 
 I. Ejecutar acciones y programas de prevención, protección y atención a las personas receptoras de violencia intrafamiliar;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
@@ -627,7 +627,9 @@ IV. Denunciar los hechos de violencia intrafamiliar de los que tenga conocimient
 
 V. Canalizar a las personas víctimas de violencia intrafamiliar a las defensorías de oficio para que reciban la asistencia necesaria;
 
-VI. Atender con modelos psicoterapéuticos a las personas receptoras y generadoras de violencia, para prevenir y erradicar esta conducta;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+VI. Atender con modelos psicoterapéuticos a las personas receptoras y generadoras de violencia, para prevenir y erradicar esta conducta, asegurando un proceso de acompañamiento psicológico continuo, personalizado y accesible;
 
 > <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
 
@@ -918,3 +920,9 @@ P.O. 9 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29533/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7, 10, 12 Y 13 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30231/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO, ASÍ COMO DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor a los ciento ochenta días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
