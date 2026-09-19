@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-personas-adultas-mayores-del-174841"
 country: "mx"
 rank: "ley"
 publication_date: "2024-10-12"
-last_updated: "2024-10-12"
+last_updated: "2026-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección XI del Número 41 del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2024.
 
@@ -191,7 +193,9 @@ Las personas adultas mayores tienen derechos en materia de salud, la alimentaci�
 
 I. Tener acceso a los satisfactores necesarios, considerando: alimentos, bienes, servicios, salud y condiciones humanas, o materiales para su atención integral, en especial en el seno familiar y, a falta de ésta, en las instituciones del sistema estatal de salud y asistencia social;
 
-II. Gozar del acceso preferente a los servicios de salud con el objeto de que ejerzan cabalmente del derecho a su bienestar físico, psicológico y sexual, para obtener un mejoramiento en su calidad de vida y la prolongación de ésta;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+II. Gozar del acceso preferente y continuo a los servicios de salud física, psicológica, emocional y sexual, con enfoque gerontológico, que permita obtener un mejoramiento en su calidad de vida y la prolongación de ésta;
 
 III. Disfrutar entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos en donde ejerzan libremente sus derechos, entre éstos, el de elegir su lugar de residencia, preferentemente cerca de sus familiares, así como mantener relaciones personales y contacto directo con su familia en caso de estar separados, salvo sí ello es contrario a su voluntad, intereses o bienestar;
 
@@ -285,7 +289,9 @@ Las personas adultas mayores tienen derechos en materia de acceso a la justicia 
 
 I. Recibir un trato digno y apropiado en cualquier procedimiento judicial o administrativo del que forme parte, ya sea en calidad de usuarios de servicios públicos, derechohabientes, víctimas, ofendidos, inculpados, procesados o sentenciados, por lo que, en todo caso recibirá la información necesaria, apoyo y asesoría de las autoridades competentes;
 
-II. Tener la consideración y atención necesaria por parte de las autoridades de procuración e impartición de justicia, así como dependencias gubernamentales que desahoguen trámites administrativos o prestación de servicio cuando exista alguna limitante de movilidad, comunicación, psicológica o de cualquier otra naturaleza, que pueda dificultar el acceso a los servicios ya señalados, y, en su caso, acompañamiento especializado cuando así se requiera;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+II. Recibir atención digna, empática e incluyente por parte de las autoridades de procuración e impartición de justicia y demás instituciones públicas, cuando enfrenten limitantes de movilidad, comunicación, salud mental o emocional que pueda dificultar el acceso a los servicios ya señalados, y, en su caso, acompañamiento especializado cuando así se requiera, a fin de asegurar su acceso pleno a los servicios públicos;
 
 III. Contar con asesoría jurídica gratuita de manera específica por parte de las instituciones del estado y de los municipios, así como con un representante legal en la protección de su seguridad y libertad, así como a su patrimonio personal y familiar;
 
@@ -601,7 +607,9 @@ XI. Establecer acuerdos con instituciones públicas y privadas para la elaboraci
 
 XII. Impulsar y facilitar las acciones de los programas de salud relacionados con las principales causas de morbilidad y mortalidad que aquejan a este grupo poblacional o, en su caso, implementar e instrumentar los que sean necesarios;
 
-XIII. Promover el auto cuidado de la salud física, mental y psicológica de las personas adultas mayores a través de la adopción de estilos de vida saludables;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2026)</small>
+
+XIII. Promover el autocuidado de la salud física, mental y emocional de las personas adultas mayores a través de la adopción de estilos de vida saludables, y establecer, en coordinación con los municipios, programas de atención psicológica preventiva, intervención en crisis y rehabilitación emocional continua, con especial atención a quienes se encuentren en situación de abandono, duelo, enfermedades crónicas o violencia;
 
 XIV. Fomentar la formación y capacitación de recursos humanos en salud para la atención del adulto mayor, con una orientación gerontogeriátrica,
 
@@ -774,3 +782,11 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30232/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 7, 11 Y 33 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor a los ciento ochenta días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
