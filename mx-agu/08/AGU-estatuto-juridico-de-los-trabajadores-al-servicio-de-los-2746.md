@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2026-07-20"
+last_updated: "2026-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2026.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -918,6 +918,10 @@ En ambos casos, deberán justificar este permiso, presentando el certificado mé
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2024)</small>
 
 XIII.- No discriminar a razón de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil, antecedentes penales o cualquier otra que atente contra la dignidad humana, para el ingreso, permanencia, relación laboral o ascenso de los trabajadores.
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2026)</small>
+
+XIV. Garantizar el derecho a la desconexión digital de las personas trabajadoras, absteniéndose de exigir, solicitar o requerir la atención o respuesta a comunicaciones, instrucciones o requerimientos, por cualquier medio tecnológico o digital, fuera de la jornada laboral establecida, con el objeto de respetar su tiempo de descanso, permisos, vacaciones, así como su intimidad personal y familiar. Se exceptúan de lo anterior las situaciones de fuerza mayor o emergencia, debidamente justificadas, que pongan en riesgo la continuidad de la operación sustantiva de la entidad pública o la seguridad de las personas.
 
 > <small>(ADICIONADO, P.O. 24 DE JULIO DE 2000)</small>
 
@@ -2500,3 +2504,9 @@ P.O. 20 DE JULIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 – El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 583.- SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 57 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de la entrada en vigor de las reformas, adiciones o modificaciones a la Ley Federal del Trabajo en materia de desconexión digital que resulten aplicables a la materia objeto del presente Decreto.
