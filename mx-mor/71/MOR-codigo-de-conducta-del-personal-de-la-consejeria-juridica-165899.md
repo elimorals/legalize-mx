@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-personal-de-la-consejeria-juridica-16589
 country: "mx"
 rank: "codigo"
 publication_date: "2023-04-26"
-last_updated: "2023-04-26"
+last_updated: "2026-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL PERSONAL DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO ESTATAL DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DEL PERSONAL DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO ESTATAL, PUBLICADO EN EL P.O. DE 21 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL PERSONAL DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO ESTATAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2026 (ABROGADO).
 
 Código publicado en el Número 6189 del Periódico Oficial del Estado de Morelos, el miércoles 26 de abril de 2023.
 
@@ -530,3 +532,17 @@ LA CONSEJERA JURÍDICA DEL PODER EJECUTIVO ESTATAL
 DULCE MARLENE REYNOSO SANTIBÁÑEZ
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2026.
+
+> <small>[N. DE E. DISOSICIONES TRANSITORIAS DEL “CÓDIGO DE CONDUCTA DEL PERSONAL DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO ESTATAL”.]</small>
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta del Personal de la Consejería Jurídica del Poder Ejecutivo Estatal, publicado en el Periódico Oficial “Tierra y Libertad”, de fecha 26 de abril de 2023, número 6189.
+
+TERCERA. El presente instrumento deberá difundirse también en el portal electrónico oficial de la Consejería Jurídica del Poder Ejecutivo Estatal.
+
+CUARTA. Se instruye a la persona titular de la Unidad de Enlace Financiero Administrativo de la Consejería Jurídica a dar a conocer al personal de dicha dependencia el presente Código de Conducta. Acción que realizará en lo sucesivo también respecto al personal que sea de nuevo ingreso.
