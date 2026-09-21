@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2026-08-28"
+last_updated: "2026-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -3771,7 +3771,9 @@ A las personas que tienen a la niña, niño o adolescente bajo su patria potesta
 
 Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan bajo su custodia a niñas, niños y adolescentes, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
 
-La facultad de corregir no implica infligir a niñas, niños y adolescentes actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el Artículo 347 Ter de este Código.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2026)</small>
+
+La facultad de corregir no implica infligir a niñas, niños y adolescentes actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el Artículo 347 Ter de este Código. Por lo que queda expresamente prohibido el uso del castigo corporal o físico, así como el castigo humillante, definidos en la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes, mediante cualquier medio y en cualquiera de sus manifestaciones. La presente prohibición se extiende a todos los ámbitos donde se desarrolla la vida de las niñas, niños y adolescentes.
 
 Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia.
 
@@ -18608,3 +18610,15 @@ P.O. 28 DE AGOSTO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 575.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 120 días naturales siguientes, a su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
