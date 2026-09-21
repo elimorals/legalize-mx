@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2026-07-13"
+last_updated: "2026-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1929,7 +1929,9 @@ III. Personas (sic) sea mayor de sesenta años de edad;
 
 IV. Persona con alguna discapacidad; o
 
-V. Personas embarazadas o durante los tres meses posteriores al parto o cesárea.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2026)</small>
+
+V. Mujeres, cuando la conducta se cometa por razones de género.
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 12 DE ENERO DE 2026)</small>
 
@@ -1993,7 +1995,9 @@ Al responsable de violencia a partir de una relación de pareja se le aplicarán
 
 Exposición de menores, incapaces o adultos mayores. La exposición de menores, incapaces o adultos mayores consiste en dejar en total vulnerabilidad o abandono, a una persona menor de edad, o que siendo mayor de edad le es imposible cuidar de sí mismo, colocándole en una situación de desamparo, de tal manera que se pongan en riesgo la integridad personal y libre desarrollo de la personalidad; por parte de quienes tienen su guarda y custodia, los hayan acogido materialmente, o tengan el deber de cuidarlo.
 
-Al responsable de Exposición de menores, incapaces o adultos mayores se le aplicaran de 1 a 4 años de prisión y de 50 a 100 días multa, además de perder la patria potestad o ser destituido de la tutela, según corresponda.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2026)</small>
+
+Al responsable de Exposición de menores, incapaces o adultos mayores se le aplicarán de 4 a 7 años de prisión y de 50 a 100 días multa, además de perder la patria potestad o ser destituido de la tutela, según corresponda.
 
 ### CAPÍTULO IV. Tipos Penales Protectores de la Libertad y Seguridad de las Personas
 
@@ -5294,3 +5298,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos penales iniciados con anterioridad a la entrada en vigor del presente Decreto, por las conductas tipificadas en las fracciones III y IV del artículo 114 que por virtud de este instrumento se derogan, seguirán tramitándose hasta su conclusión conforme a las disposiciones normativas vigentes al momento de la comisión de los hechos, salvaguardando en todo momento el principio de aplicación de la ley más favorable al inculpado.
+
+P.O. 21 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 574.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
