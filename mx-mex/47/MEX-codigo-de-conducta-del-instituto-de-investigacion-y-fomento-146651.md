@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-instituto-de-investigacion-y-fomento-146
 country: "mx"
 rank: "codigo"
 publication_date: "2021-01-26"
-last_updated: "2021-01-26"
+last_updated: "2026-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DE INVESTIGACION Y FOMENTO DE LAS ARTESANIAS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL INSTITUTO DE INVESTIGACIÓN Y FOMENTO DE LAS ARTESANÍAS DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 22 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE INVESTIGACIÓN Y FOMENTO DE LAS ARTESANÍAS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN GACETA DEL GOBIERNO: 22 DE SEPTIEMBRE DE 2026 (ABROGADO).
 
 Código publicado en la Sección Primera del Número 18 de la Gaceta del Gobierno del Estado de México, el martes 26 de enero de 2021.
 
@@ -621,3 +623,15 @@ _________________________________________
 (2).- Número de clave de (la) servidor (a) público (a)
 
 (3).- Lugar de elaboración de la carta compromiso
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 22 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL INSTITUTO DE INVESTIGACIÓN Y FOMENTO DE LAS ARTESANÍAS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Código de Conducta del Instituto de Investigación y Fomento de las Artesanías del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 26 de enero del 2021.
