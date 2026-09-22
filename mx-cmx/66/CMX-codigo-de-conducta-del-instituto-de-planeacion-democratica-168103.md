@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-del-instituto-de-planeacion-democratica-1681
 country: "mx"
 rank: "codigo"
 publication_date: "2023-10-06"
-last_updated: "2023-10-06"
+last_updated: "2026-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168103&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2023-10-02"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DE PLANEACION DEMOCRATICA Y PROSPECTIVA DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://ipdp.cdmx.gob.mx/storage/app/uploads/public/64f/112/bf4/64f112bf49cfa903748811.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL AVISO POR EL QUE SE DA A CONOCER EL CÓDIGO DE CONDUCTA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 22 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE SEPTIEMBRE DE 2026 (ABROGADO).
 
 Código publicado en el Número 1208 de la Gaceta Oficial de la Ciudad de México, el viernes 6 de octubre de 2023.
 
@@ -427,3 +427,15 @@ d) En la atención o resolución de las materias o asuntos de su competencia, la
 e) Se reconoce y respeta el derecho de las personas servidoras públicas de participar e involucrarse en actividades políticas y procesos de elección, siendo necesario preservar en favor del Interés Público, la independencia, objetividad e imparcialidad de su condición de funcionarios públicos y evitar cualquier interferencia o conflicto con sus funciones, por lo que para la participación como precandidato o candidato a un puesto de elección popular o puesto con intervención del Legislativo, deberá renunciar a su empleo, cargo o comisión en la Administración Pública, salvo los casos en que esté legalmente permitida la ausencia temporal o licencia, en cuyo caso no podrá instruir o promover el uso de recursos públicos en beneficio de su candidatura o partido político.
 
 f) Abstenerse o excusarse de intervenir en la atención, trámite, resolución de asuntos, así como en la celebración o autorización de pedidos o contratos en materia de adquisiciones, obra pública y enajenación de bienes cuando tenga conflicto de intereses.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 22 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER EL CÓDIGO DE CONDUCTA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO”.]
+
+Primero. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Las Unidades Administrativas adscritas al Instituto de Planeación Democrática de la Ciudad de México, harán de conocimiento de todas las personas servidoras públicas a su cargo, mediante oficio el contenido del presente Código.
+
+Tercero. Se abroga el Código de Conducta del Instituto de Planeación Democrática y Prospectiva de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México, número 1208 de fecha 06 de octubre de 2023, y se dejan sin efectos las demás disposiciones administrativas que contravengan el contenido del presente Código.
