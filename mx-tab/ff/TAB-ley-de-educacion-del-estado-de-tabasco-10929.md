@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2026-08-08"
+last_updated: "2026-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -84,6 +84,18 @@ Artículo 8 La educación que imparta el Estado será gratuita. Las donaciones y
 Queda prohibido el cobro de cualquier concepto que impida o condicione la prestación del servicio educativo a los educandos.
 
 En ningún caso se podrán condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos al pago de contraprestación alguna.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2026)</small>
+
+Artículo 8 Bis La educación que impartan el Estado, los municipios, los organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, será inclusiva, con perspectiva de género y de derechos humanos, eliminando toda forma de discriminación, exclusión y violencias, así como las demás condiciones estructurales que puedan implicar barreras para el aprendizaje y la participación, por lo que:
+
+a) Atenderá las capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de los educandos;
+
+b) Eliminará las distintas barreras al aprendizaje y a la participación que enfrentan cada uno de los educandos, para lo cual las autoridades educativas, en el ámbito de su competencia, adoptarán medidas en favor de la accesibilidad y los ajustes razonables;
+
+c) Proveerá de los recursos técnicos-pedagógicos y materiales necesarios para los servicios educativos, y
+
+d) Establecerá la educación especial disponible para todos los tipos, niveles, modalidades y opciones educativas, la cual se proporcionará en condiciones necesarias, a partir de la decisión y previa valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, por una condición de salud.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -167,13 +179,17 @@ I.- Será democrático, considerando a la democracia no solamente como una estru
 
 II.- Será nacional, en cuanto que, sin hostilidades ni exclusivismos atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2026)</small>
 
-III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando el aprecio por la dignidad de la persona, la integridad de la familia y la convicción del interés general de la sociedad, como por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos; y
+III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando el aprecio por la dignidad de la persona, la integridad de la familia y la convicción del interés general de la sociedad, como por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2026)</small>
 
-IV.- Será de calidad, entendiéndose por ello la congruencia entre los objetivos, procesos y resultados del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad.
+IV.- Será de calidad, entendiéndose por ello la congruencia entre los objetivos, procesos y resultados del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2026)</small>
+
+V.- Será inclusivo, en los términos establecidos en el artículo 8 Bis de esta Ley y demás disposiciones aplicables.
 
 Artículo 11 El Estado, además de impartir la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, normará, promoverá y atenderá directamente, mediante los organismos descentralizados, todos los niveles, tipos y modalidades de la educación, necesarios para el desarrollo de la entidad.
 
@@ -2582,3 +2598,11 @@ La adscripción de las Escuelas Normales e instituciones formadoras de docentes 
 CUARTO.- En un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones al Reglamento Interior de la Secretaría de Educación.
 
 QUINTO.- En tanto se realizan las adecuaciones normativas correspondientes, continuarán aplicándose las disposiciones vigentes en lo que no se opongan al presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 293 POR EL QUE "SE REFORMA EL ARTÍCULO 10; FRACCIONES III Y IV; Y SE ADICIONAN EL ARTÍCULO 8 BIS; Y LA FRACCIÓN V AL ARTÍCULO 10, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
