@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-116756"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-10-07"
-last_updated: "2024-12-13"
+last_updated: "2026-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116756&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2016-10-03"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE LAS MAGISTRATURAS DE CIRCUITO Y DE LAS PERSONAS TITULARES DE LOS JUZGADOS DE DISTRITO ANTE EL PROPIO CONSEJO -- ANTES ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO ANTE EL PROPIO CONSEJO] --
 
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE LAS MAGISTRATURAS DE CIRCUITO Y DE LAS PERSONAS TITULARES DE LOS JUZGADOS DE DISTRITO, PUBLICADO EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE LAS MAGISTRATURAS DE CIRCUITO Y DE LAS PERSONAS TITULARES DE LOS JUZGADOS DE DISTRITO ANTE EL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2026 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de octubre de 2016.
 
@@ -304,3 +308,17 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobaci�
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes; así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
 
 TERCERO. Para las nuevas coordinaciones, las personas juzgadoras designarán a la persona coordinadora y a su suplente durante el mes de diciembre de 2024 e iniciarán funciones a partir del primer día hábil de enero de 2025.
+
+D.O.F. 23 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE LAS MAGISTRATURAS DE CIRCUITO Y DE LAS PERSONAS TITULARES DE LOS JUZGADOS DE DISTRITO”.]
+
+Primero. El presente Acuerdo entrará en vigor el 1 de diciembre de 2026, con excepción de lo previsto en el Transitorio Cuarto de este instrumento, cuya vigencia iniciará al día siguiente de su aprobación.
+
+Segundo. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en los portales del Órgano de Administración Judicial en Intranet e Internet.
+
+Tercero. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones sobre el funcionamiento de las coordinaciones de las magistraturas de Circuito y de las personas titulares de los Juzgados de Distrito ante el propio Consejo, así como sus reformas.
+
+Cuarto. Las coordinaciones de magistraturas de Circuito y de las personas titulares de juzgados de distrito, designadas en términos del Acuerdo General que se abroga, continuarán en funciones hasta el 31 de diciembre de 2026. Las coordinaciones previstas en el presente Acuerdo deberán designarse durante la primera semana de diciembre de 2026 e iniciarán funciones el 1 de enero de 2027.
+
+Quinto. En caso de existir algún asunto pendiente en trámite o seguimiento por parte de las Coordinaciones de magistrados de Circuito y Jueces de Distrito que se extinguen con motivo de la entrada en vigor del presente acuerdo, deberá remitirse a las Coordinaciones que correspondan conforme a la nueva distribución contenida en el artículo 1 del presente Acuerdo.
