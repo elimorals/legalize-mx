@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-de-seguridad-publica-del-estado-de-tabasco-1088
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-27"
-last_updated: "2026-07-01"
+last_updated: "2026-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 27 de junio del 2015.
 
@@ -1279,103 +1279,145 @@ Las Direcciones de Seguridad de Seguridad (sic) Pública Municipal, serán integ
 
 ### CAPÍTULO I. GENERALIDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 46.
 
-Clasificación de las Instituciones Policiales que conforman la Guardia Estatal.
+Clasificación de las Instituciones Policiales.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2025)</small>
+Las Instituciones Policiales de Seguridad Pública del Estado se clasifican de la siguiente manera:
 
-De manera enunciativa y no limitativa, Instituciones Policiales de Seguridad Pública del Estado son:
+I. Guardia Estatal, se integra de manera enunciativa y no limitativa por los siguientes cuerpos de seguridad:
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+a) Guardia Estatal Preventiva;
 
-I. La Policía Estatal preventiva;
+b) Guardia de Investigación e Inteligencia;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+c) Guardia Estatal de Caminos;
 
-II. La Policía de Investigación e Inteligencia;
+d) Guardia Penitenciaria; y
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+e) Guardia Auxiliar, Bancaria, Industrial y Comercial.
 
-III. La Policía Estatal de Caminos;
+II. Los cuerpos de seguridad pública de los municipios, se rigen conforme a la Ley Orgánica de los Municipios del Estado de Tabasco, esta Ley y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+Los aspirantes o integrantes de las Instituciones Policiales, se sujetarán al Servicio de Carrera, en los términos previstos por la Ley General y la presente Ley.
 
-IV. La Policía Penitenciaria;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
-
-V. La Policía Auxiliar, Bancaria, Industrial y Comercial; y
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
-
-VI. Los cuerpos de Seguridad Pública municipales.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
-
-Los aspirantes o integrantes de las Instituciones Policiales, se sujetarán al Servicio (sic) Carrera, en los términos previstos por la Ley General, (sic) la presente Ley.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 47.
 
-Mando de las Instituciones Policiales
+Mando de la Guardia Estatal.
 
-Al frente de las Instituciones Policiales, habrá un Comisionado quien tendrá el más alto rango y ejercerá sobre los mismos, atribuciones de mando, dirección y disciplina. Para ser Comisionado, deberán reunirse los requisitos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE SEPTIEMBRE DE 2026)</small>
+
+Al frente de la Guardia Estatal, habrá un Comisionado quien tendrá el más alto rango y ejercerá sobre los mismos, atribuciones de mando, dirección y disciplina. Para ser Comisionado, deberán reunirse los requisitos siguientes:
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
 II. Tener reconocida buena conducta, no haber sido sentenciado por delito doloso o inhabilitado como servidor público, ni estar sujeto a proceso penal; y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 III. Comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2026)</small>
+
 Son atribuciones del Comisionado, en materia de seguridad pública, las siguientes:
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 I. Fortalecer la función de seguridad pública, a fin de salvaguardar la integridad y derechos de las personas, preservar las libertades, la paz y el orden público, así como generar inteligencia para prevenir e investigar los delitos;
 
-II. Ejercer el mando de los elementos que conforman las instituciones policiales, bajo las órdenes del Secretario;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2026)</small>
 
-III. Nombrar y remover a los titulares de las instituciones policiales a su cargo, previo acuerdo con el Secretario;
+II. Ejercer el mando de los elementos que conforman la Guardia Estatal, bajo las órdenes del Secretario;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2026)</small>
+
+III. Nombrar y remover a los titulares de los cuerpos de seguridad que integran la Guardia Estatal a su cargo, previo acuerdo con el Secretario;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 IV. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas urbanas y rurales, áreas de recreo y turísticas de competencia estatal, así como las instalaciones estratégicas estatales, de conformidad con las disposiciones legales aplicables;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
 V. En coordinación con la autoridad competente, realizar estudios de vialidad y transporte que permitan agilizar el tránsito de vehículos;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 VI. Participar en operativos conjuntos con instituciones federales, estatales o municipales, que se lleven a cabo conforme a lo dispuesto en las disposiciones legales aplicables;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
 VII. Obtener, analizar, estudiar y procesar información, así como poner en práctica métodos conducentes para la prevención y persecución de los delitos, sea directamente o mediante los sistemas de coordinación previstos en otras leyes;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 VIII. Coadyuvar en las acciones de auxilio para salvaguardar a las personas y sus bienes en caso de emergencias o desastres;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
 IX. Participar en la celebración de convenios con los Municipios para coordinar la función de seguridad pública en éstos;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 X. Llevar el control, verificación y administración de los registros estatales y municipales de personal, de armamento y equipo, de conformidad con el reglamento respectivo;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
 XI. Elaborar, coordinar, planear y dirigir las acciones necesarias para establecer y mejorar el Sistema Estatal de Información sobre Seguridad Pública y de Inteligencia Policial;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 XII. Coordinar y supervisar las acciones y operativos que en materia de seguridad pública e intercambio de información se realicen con los Municipios del Estado, entidades federativas, la Ciudad de México y la Federación;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
 XIII. Colaborar, cuando así lo soliciten otras autoridades estatales o federales competentes, para el ejercicio de sus funciones de vigilancia, verificación e inspección, que tengan conferidas por disposición de otras leyes;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 XIV. Proponer y, en su caso, celebrar actos jurídicos, relacionados con las atribuciones de la Guardia Estatal;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
 XV. Definir lineamientos de racionalidad, austeridad, disciplina, equidad, igualdad, legalidad y transparencia administrativas para el ejercicio, seguimiento y control de los recursos que se aporten para la operación y funcionamiento de la Guardia Estatal;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 XVI. Supervisar, vigilar e inspeccionar que los servicios de Seguridad Privada se apeguen a las disposiciones legales y reglamentarias correspondientes;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
 XVII. Promover la Coordinación Interinstitucional con autoridades de los diferentes órdenes de gobierno, con el fin de optimizar y aplicar con eficiencia los recursos, así como fomentar la participación ciudadana en materia de seguridad pública y reinserción social, en el ámbito de su respectiva competencia;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 XVIII. Ejercer acciones de coordinación con las diferentes Dependencias y entidades del Estado y los municipios, en situaciones de emergencia y desastre, conforme a lo establecido en la Ley de Protección Civil del Estado de Tabasco;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
 XIX. Emitir los acuerdos, instructivos, manuales de organización y de procedimientos, y demás normatividad que rija las actividades de las direcciones generales y unidades administrativas de la Guardia Estatal, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 XX. Dar cumplimiento a los mandamientos que giren las autoridades competentes de la federación y del Estado, las autoridades jurisdiccionales administrativas y órganos autónomos, en el ejercicio de sus funciones;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
 XXI. Coordinar todo lo relativo al mantenimiento del orden tanto al interior como al exterior de los Centros Penitenciarios, en el ámbito de su competencia;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
 XXII. Informar al Secretario sobre el desempeño de las atribuciones de la Guardia Estatal y de los resultados alcanzados; y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 XXIII. Las demás que le señale esta Ley, otras disposiciones legales y administrativas y las que determine el Secretario.
 
@@ -1389,45 +1431,45 @@ La Guardia Estatal es un órgano desconcentrado de la Secretaría, con autonomí
 
 La Guardia Estatal ejercerá en todo el territorio del Estado las atribuciones que le otorga la presente Ley, con estricto respeto a las que corresponden a las competencias de las instituciones de policía federal y municipal.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 48 Bis.
 
-De la Policía de Investigación e Inteligencia
+De la Guardia de Investigación e Inteligencia.
 
-La Policía de Investigación e Inteligencia es una corporación de la Secretaría. Se organizará y funcionará conforme a esta Ley y sus reglamentos para realizar las investigaciones necesarias para el esclarecimiento de los hechos probablemente constitutivos de delitos, así como realizar análisis criminal y de contexto que permita generar productos, identificar patrones criminales que sean de relevancia y utilidad para la investigación y persecución de los delitos.
+La Guardia de Investigación e Inteligencia, se organizará y funcionará conforme a esta Ley y sus reglamentos para realizar las investigaciones necesarias para el esclarecimiento de los hechos probablemente constitutivos de delitos, así como realizar análisis criminal y de contexto que permita generar productos, identificar patrones criminales que sean de relevancia y utilidad para la investigación y persecución de los delitos.
 
-Al frente de la Policía de Investigación e Inteligencia habrá un titular, quien ejercerá sobre la misma, atribuciones de mando, dirección y disciplina.
+Al frente de la Guardia de Investigación e Inteligencia habrá un titular, quien ejercerá sobre la misma, atribuciones de mando, dirección y disciplina.
 
-La Policía de Investigación e Inteligencia ejercerá en todo el territorio del Estado, en coordinación con los tres órdenes de gobierno, las atribuciones que le otorga la Ley General y la presente Ley, en el ámbito de su competencia.
+La Guardia de Investigación e Inteligencia ejercerá en todo el territorio del Estado, en coordinación con los tres órdenes de gobierno, las atribuciones que le otorga la Ley General y la presente Ley, en el ámbito de su competencia.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 48 Ter.
 
-De la Policía Estatal de Caminos
+De la Guardia Estatal de Caminos.
 
-La Policía Estatal de Caminos es una corporación de la Secretaría. Se organizará y funcionará conforme a esta Ley y sus reglamentos. Al frente de la Policía Estatal de Caminos habrá un titular, quien ejercerá sobre la misma, atribuciones de mando, dirección y disciplina.
+La Guardia Estatal de Caminos, se organizará y funcionará conforme a esta Ley y sus reglamentos. Al frente de la Guardia Estatal de Caminos habrá un titular, quien ejercerá sobre la misma, atribuciones de mando, dirección y disciplina.
 
-La Policía Estatal de Caminos ejercerá en todo el territorio del Estado las atribuciones que le otorga la presente Ley, así como la Ley General de Tránsito y Vialidad del Estado de Tabasco y demás disposiciones aplicables, en coordinación con las autoridades de los tres órdenes de gobierno, con estricto respeto a las que corresponden a las competencias de las instituciones del orden federal y municipal.
+La Guardia Estatal de Caminos ejercerá en todo el territorio del Estado las atribuciones que le otorga la presente Ley, así como la Ley General de Tránsito y Vialidad del Estado de Tabasco y demás disposiciones aplicables, en coordinación con las autoridades de los tres órdenes de gobierno, con estricto respeto a las que corresponden a las competencias de las instituciones del orden federal y municipal.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 48 Quater.
 
-De la Policía Penitenciaria
+De la Guardia Penitenciaria.
 
-La Policía Penitenciaria es una corporación de la Secretaría. Se organizará y funcionará conforme a esta Ley y sus reglamentos. Al frente de la Policía Penitenciaria habrá un titular, quien ejercerá sobre la misma, atribuciones de mando, dirección y disciplina.
+La Guardia Penitenciaria, se organizará y funcionará conforme a esta Ley y sus reglamentos. Al frente de la Guardia Penitenciaria habrá un titular, quien ejercerá sobre la misma, atribuciones de mando, dirección y disciplina.
 
-La Policía Penitenciaria ejercerá en todo el territorio del Estado las atribuciones que le otorga la presente Ley y la Ley Nacional de Ejecución Penal, en el ámbito de su competencia.
+La Guardia Penitenciaria ejercerá en todo el territorio del Estado las atribuciones que le otorga la presente Ley y la Ley Nacional de Ejecución Penal, en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 49.
 
-Policía Auxiliar y la Bancaria, Industrial y Comercial
+De la Guardia Auxiliar, Bancaria, Industrial y Comercial.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2025)</small>
-
-La Policía Auxiliar y la Bancaria Industrial y Comercial tendrá al frente a un titular, quien se encargará de su funcionamiento; su operación, los gastos necesarios para su labor, así como el pago de salario y demás prestaciones de sus elementos serán financiados por un fondo, que se denominará "Fondo Para la Operación de las Policías Auxiliar y la Bancaria Industrial y Comercial", que la persona titular del Poder Ejecutivo establecerá por conducto de la Secretaría de Administración y Finanzas, el cual se integrará de los recursos que ingresen por la contratación de los servicios que proporcione.
+La Guardia Auxiliar, Bancaria, Industrial y Comercial tendrá al frente a un titular, quien se encargará de su funcionamiento; su operación, los gastos necesarios para su labor, así como el pago de salario y demás prestaciones de sus elementos serán financiados por un fondo, que se denominará “Fondo Para la Operación de las Policías Auxiliar y la Bancaria Industrial y Comercial”, que la persona titular del Poder Ejecutivo establecerá por conducto de la Secretaría de Administración y Finanzas, el cual se integrará de los recursos que ingresen por la contratación de los servicios que proporcione.
 
 ###### Artículo 50.
 
@@ -3880,3 +3922,17 @@ TERCERO.- En un plazo no mayor a ciento ochenta días naturales siguientes a la 
 CUARTO.- En tanto se realicen las adecuaciones conducentes, todas las referencias hechas a la Policía Estatal, órgano desconcentrado de la Secretaría de Seguridad y Protección Ciudadana, se entenderán como Guardia Estatal.
 
 QUINTO.- La Unidad de Apoyo Jurídico u homólogo de la Guardia Estatal, se ajustará a las disposiciones establecidas por la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y el Reglamento Interior de la Secretaría de Seguridad y Protección Ciudadana, por lo que la Guardia Estatal deberá realizar las gestiones conducentes ante las Secretarías competentes para efecto de llevar a cabo las transferencias de plazas.
+
+P.O. 23 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 292 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 46, 47, PÁRRAFOS PRIMERO, SEGUNDO; Y TERCERO, FRACCIONES II Y III; 48 BIS, 48 TER, 48 QUÁTER Y 49 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones normativas y reglamentarias necesarias para dar cumplimiento a lo dispuesto en el mismo.
+
+CUARTO.- En tanto se realicen las adecuaciones conducentes, todas las referencias hechas en las leyes, reglamentos y demás disposiciones jurídicas aplicables a la Policía Estatal Preventiva, Policía de Investigación e Inteligencia, Policía Estatal de Caminos, Policía Penitenciaria y la Policía Auxiliar, Bancaria, Industrial y Comercial, se entenderán como Guardia Estatal Preventiva, Guardia de Investigación e Inteligencia, Guardia Estatal de Caminos, Guardia Penitenciaria y la Guardia Auxiliar, Bancaria, Industrial y Comercial, respectivamente.
+
+QUINTO.- La actualización de la imagen institucional y demás elementos, se realizará de manera gradual y progresiva. La Secretaría de Seguridad y Protección Ciudadana podrá agotar sus existencias actuales y realizar el cambio conforme a los nuevos procesos de adquisición o renovación programada, sin que ello implique una obligación de erogación inmediata de recursos extraordinarios.
