@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-conducta-de-la-comision-de-agua-y-alcantarillado-1397
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-25"
-last_updated: "2019-11-25"
+last_updated: "2026-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO DE CONDUCTA DE LA COMISION DE AGUA Y ALCANTARILLADO DE SISTEMAS INTERMUNICIPALES DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA COMISIÓN DE AGUA Y ALCANTARILLADO DE SISTEMAS INTERMUNICIPALES DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA COMISIÓN DE AGUA Y ALCANTARILLADO DE SISTEMAS INTERMUNICIPALES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2026 (ABROGADO).
 
 Código publicado al Número 47 del Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 25 de noviembre de 2019.
 
@@ -558,3 +560,15 @@ DIRECTOR GENERAL DE LA COMISIÓN DE AGUA Y ALCANTARILLADO DE SISTEMAS INTERMUNIC
 LIC. JOSÉ JESÚS SANJUANERO RODRÍGUEZ.
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA COMISIÓN DE AGUA Y ALCANTARILLADO DE SISTEMAS INTERMUNICIPALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Acuerdo que contiene el Código de Conducta de la Comisión de Agua y Alcantarillado de Sistemas Intermunicipales, publicado en el Periódico Oficial del Estado de Hidalgo el 25 de noviembre de 2019.
+
+TERCERO. El presente Acuerdo será publicado en la página web de Oficial de la Comisión de Agua y Alcantarillado de Sistemas Intermunicipales.
