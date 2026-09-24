@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-del-derecho-de-autor-11721"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-05-22"
-last_updated: "2005-09-14"
+last_updated: "2026-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11721&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1998-05-15"
 ---
 # REGLAMENTO DE LA LEY FEDERAL DEL DERECHO DE AUTOR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE LA LEY FEDERAL DEL DERECHO DE AUTOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION : 14 DE SEPTIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN : 24 DE SEPTIEMBRE DE 2026.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el viernes 22 de mayo de 1998.
 
@@ -323,11 +325,107 @@ Se entiende por espectro electromagnético lo establecido en la fracción II del
 
 Son medios electrónicos aquellos que hagan posible el acceso remoto al público de obras literarias y artísticas por medio del espectro radioeléctrico o las redes de telecomunicación.
 
-### CAPÍTULO I. DE LA LIMITACIÓN POR CAUSA DE UTILIDAD PÚBLICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE SEPTIEMBRE DE 2026)</small>
+
+### CAPÍTULO V. DE LAS MEDIDAS TECNOLÓGICAS DE PROTECCIÓN, LA INFORMACIÓN SOBRE LA GESTIÓN DE DERECHOS Y LOS PROVEEDORES DE SERVICIOS DE INTERNET
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 37 Bis.
+
+La protección referida en el artículo 114 Bis de la Ley, respecto a las medidas tecnológicas de protección efectiva y a la información sobre la gestión de derechos, será independiente de la otorgada a los derechos de autor y derechos conexos.
+
+No constituirán elusiones a las medidas tecnológicas de protección o a la información sobre la gestión de derechos, aquellos casos en los que el contenido o material relacionado con estas, no sea objeto de protección conforme a la Ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 37 Ter.
+
+Para efectos de los artículos 114 Septies, 114 Octies y 232 Quinquies de la Ley, se entenderá por “material” o “materiales”, “contenido” o “contenidos”:
+
+I. Las obras señaladas en el artículo 13 de la Ley;
+
+II. Las interpretaciones o ejecuciones;
+
+III. Las ediciones;
+
+IV. Los fonogramas o videogramas;
+
+V. Las emisiones;
+
+VI. La imagen, incluida la voz, de las personas artistas intérpretes o ejecutantes a que se refiere el artículo 87 de la Ley, y
+
+VII. Los otros derechos de propiedad intelectual tutelados por la Ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 37 Quáter.
+
+El aviso a que se refiere el artículo 114 Octies, fracción III, de la Ley, deberá contener, además, la información siguiente:
+
+I. La ubicación electrónica que identifique el sitio en el que se encuentra el contenido o material que se reclama por no tener autorización o afectar cualquiera de los derechos tutelados por la Ley, el cual deberá encontrarse a disposición en el sitio de internet o como parte del servicio ofrecido por el Proveedor de Servicios en Línea;
+
+II. Una breve descripción de los hechos que se estiman violan o afectan los derechos tutelados en la Ley;
+
+III. Nombre completo de la persona que presenta el aviso, manifestando si lo hace como titular del derecho de autor, derecho conexo u otro derecho de propiedad intelectual protegido por la Ley o en representación de una persona tercera, en cuyo caso, se deberá indicar el nombre completo de la persona representante, así como el nombre completo de la persona física o la denominación o razón social de la persona moral que representa;
+
+IV. Información que permita al Proveedor de Servicios en Línea ponerse en contacto con la persona que presenta el aviso, como un número de teléfono o dirección de correo electrónico y una dirección de correo electrónico alterna, en caso de contar con ella;
+
+V. Domicilio de la persona que presenta el aviso;
+
+VI. Declaración bajo protesta de decir verdad que la información del aviso es verídica, que tiene conocimiento de buena fe que el uso del contenido o material objeto del aviso no está autorizado y que la persona que presenta el aviso es la legítima titular del derecho de autor, derecho conexo u otro derecho de propiedad intelectual protegido por la Ley o que es representante autorizada por la persona titular, y
+
+VII. Manifestación expresa de que se conoce la sanción aplicable conforme al artículo 232 Quinquies de la Ley en caso de presentar un aviso con información falsa.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 37 Quinquies.
+
+Los Proveedores de Servicios en Línea no podrán condicionar la adopción de lo dispuesto en el Artículo 114 Octies, fracción II de la Ley, a la presentación de certificados de registro, títulos o cualquiera otra documentación a cargo de la persona titular del derecho de autor, derecho conexo u otro derecho de propiedad intelectual protegido por la Ley o de la persona que presente el aviso. Lo dispuesto en el presente artículo no será aplicable para el caso del contra-aviso.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 37 Sexies.
+
+Los Proveedores de Servicios en Línea a que se refieren los artículos 114 Septies, fracción II, y 114 Octies, fracción II de la Ley, pondrán a disposición de las personas usuarias, de forma clara y accesible, el formulario que podrá ser presentado por la persona titular del derecho de autor, derecho conexo u otro derecho de propiedad intelectual protegido por la Ley, o por la persona autorizada, el cual contendrá, además de los requisitos señalados en el artículo 37 Quáter de este Reglamento, información suficiente para recibir avisos de las personas titulares de dichos derechos, incluyendo una dirección de correo electrónico alterna, en caso de contar con ella.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 37 Septies.
+
+El contra-aviso a que se refiere el artículo 114 Octies, fracción III de la Ley, deberá incluir, además de lo dispuesto en dicha fracción, la información siguiente:
+
+I. Nombre completo de la persona que presenta el contra-aviso, manifestando si lo hace como titular del derecho de autor, derecho conexo u otro derecho de propiedad intelectual protegido por la Ley o en representación de una persona tercera, en cuyo caso, se deberá indicar el nombre completo de la persona representante, así como el nombre completo de la persona física o la denominación o razón social de la persona moral que representa;
+
+II. Información que permita al Proveedor de Servicios en Línea ponerse en contacto con la persona que presenta el contra-aviso, como un número de teléfono o dirección de correo electrónico y una dirección de correo electrónico alterna, en caso de contar con ella;
+
+III. Domicilio de la persona que presenta el contra-aviso;
+
+IV. Convenio, contrato, licencia de uso o cualquier otro documento por el cual se transmitan derechos patrimoniales que establezca la Ley, para demostrar la titularidad o la autorización con la que cuenta o, en su caso, declarar bajo protesta de decir verdad que el uso del contenido o material se encuentra justificado conforme a las limitaciones o excepciones a los derechos protegidos por la Ley, o que está en el dominio público, y
+
+V. Manifestación expresa de que se conoce la sanción aplicable conforme al artículo 232 Quinquies de la Ley en caso de presentar un contra-aviso con información falsa.
+
+En ningún caso, el Proveedor de Servicios en Línea quedará obligado a validar la autenticidad o idoneidad de la documentación exhibida por la persona que hubiere presentado el contra-aviso.
+
+La remoción o restauración del contenido o material por parte del Proveedor de Servicios en Línea no constituye una validación de la documentación exhibida por cualquiera de las partes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 37 Octies.
+
+El Proveedor de Servicios en Línea que reciba un contra-aviso notificará inmediatamente a la persona que haya presentado el aviso original y proporcionará una copia de dicho contra-aviso.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 37 Nonies.
+
+El Proveedor de Servicios en Línea que reciba un contra-aviso, y una vez satisfechos todos los requisitos previstos en el presente Reglamento, habilitará el contenido o material objeto del contra-aviso dentro de un periodo de diez a quince días hábiles siguientes a la fecha en que haya recibido el contra-aviso correspondiente.
+
+El Proveedor de Servicios en Línea deberá abstenerse de habilitar el contenido o material objeto del contra-aviso o, en caso de que haya sido habilitado, deberá remover, retirar, eliminar o inhabilitar de nuevo el contenido objeto del contra-aviso, si la persona que realizó el aviso original presenta documentación con la que acredite que inició un procedimiento judicial o administrativo, una denuncia penal o un mecanismo alternativo de solución de controversias en un plazo no mayor a quince días hábiles a partir de la fecha en el que el Proveedor de Servicios en Línea haya informado sobre el contra-aviso a la persona quien presentó el aviso original.
 
 ## TÍTULO V. DE LAS LIMITACIONES DEL DERECHO DE AUTOR
 
-### CAPÍTULO II. DE LA LIMITACIÓN A LOS DERECHOS PATRIMONIALES
+### CAPÍTULO I. DE LA LIMITACIÓN POR CAUSA DE UTILIDAD PÚBLICA
 
 ###### Artículo 38.
 
@@ -393,7 +491,7 @@ IV. La remuneración compensatoria en favor del titular de derechos patrimoniale
 
 El Decreto que autoriza la edición o traducción de la obra se sujetará a las disposiciones de los tratados y convenios internacionales en materia de derechos de autor y derechos conexos suscritos y ratificados por México.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. DE LA LIMITACIÓN A LOS DERECHOS PATRIMONIALES
 
 ###### Artículo 44.
 
@@ -437,7 +535,7 @@ V. Cualquier expresión originaria que constituya una obra literaria o artístic
 
 ## TÍTULO VII. DE LOS DERECHOS CONEXOS
 
-### CAPÍTULO I. DISPOSICIONES COMUNES A REGISTRO Y RESERVAS
+### CAPÍTULO ÚNICO
 
 ###### Artículo 49.
 
@@ -463,7 +561,7 @@ Corresponde a los artistas intérpretes o ejecutantes una participación en las 
 
 ## TÍTULO VIII. DE LOS REGISTROS
 
-### CAPÍTULO II. DEL REGISTRO PÚBLICO DEL DERECHO DE AUTOR
+### CAPÍTULO I. DISPOSICIONES COMUNES A REGISTRO Y RESERVAS
 
 ###### Artículo 53.
 
@@ -499,7 +597,7 @@ Los anexos podrán ser copias simples, en cuyo caso se deberá pagar la cuota qu
 
 El Instituto decretará de oficio la caducidad de los trámites y solicitudes en las que el interesado, debiendo hacer alguna promoción, no la haya realizado durante un lapso de tres meses siempre que no exista otro plazo previsto al efecto en la Ley o en este Reglamento.
 
-### CAPÍTULO III. DE LAS RESERVAS DE DERECHOS AL USO EXCLUSIVO
+### CAPÍTULO II. DEL REGISTRO PÚBLICO DEL DERECHO DE AUTOR
 
 ###### Artículo 57.
 
@@ -619,7 +717,7 @@ I. El Registro notificará personalmente al afectado los motivos y fundamentos q
 
 II. Transcurrido el término, y previo estudio de los antecedentes relativos, se dictará la resolución administrativa que proceda, la que se notificará al interesado en el domicilio que hubiere señalado en la solicitud de registro.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LAS RESERVAS DE DERECHOS AL USO EXCLUSIVO
 
 ###### Artículo 70.
 
@@ -721,7 +819,7 @@ En los procedimientos de declaración administrativa, los incidentes de previo y
 
 ## TÍTULO IX. DE LOS NÚMEROS INTERNACIONALES NORMALIZADOS
 
-### CAPÍTULO II. DEL NÚMERO INTERNACIONAL NORMALIZADO DEL LIBRO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 86.
 
@@ -781,7 +879,7 @@ I. Los Números Internacionales Normalizados del Libro y los títulos o edicione
 
 II. Los Números Internacionales Normalizados para Publicaciones Periódicas y los títulos de las publicaciones seriadas que les correspondan.
 
-### CAPÍTULO III. DEL NÚMERO INTERNACIONAL NORMALIZADO PARA PUBLICACIONES PERIÓDICAS
+### CAPÍTULO II. DEL NÚMERO INTERNACIONAL NORMALIZADO DEL LIBRO
 
 ###### Artículo 93.
 
@@ -835,7 +933,7 @@ El Instituto podrá otorgar Números Internacionales Normalizados del Libro aun 
 
 El Número Internacional Normalizado del Libro asignado a un determinado título o edición de un título, deberá aparecer impreso en la publicación al reverso de la portada, en la página legal o en lugar visible.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. DEL NÚMERO INTERNACIONAL NORMALIZADO PARA PUBLICACIONES PERIÓDICAS
 
 ###### Artículo 99.
 
@@ -869,7 +967,7 @@ El Número Internacional Normalizado para Publicaciones Periódicas deberá apar
 
 ## TÍTULO X. DEL INSTITUTO NACIONAL DEL DERECHO DE AUTOR
 
-### CAPÍTULO I. DE LA REPRESENTACIÓN
+### CAPÍTULO ÚNICO
 
 ###### Artículo 103.
 
@@ -953,7 +1051,7 @@ En los casos de ausencia temporal, impedimento o excusa del Director General, la
 
 ## TÍTULO XI. DE LA GESTIÓN COLECTIVA DE DERECHOS
 
-### CAPÍTULO II. DE LAS SOCIEDADES DE GESTIÓN COLECTIVA
+### CAPÍTULO I. DE LA REPRESENTACIÓN
 
 ###### Artículo 108.
 
@@ -999,9 +1097,7 @@ El apoderado deberá dar aviso de inmediato y por escrito al Instituto de cada p
 
 El Instituto llevará una relación tanto de los apoderados autorizados como de los poderdantes con quienes se relacionen, la cual podrá ser consultada libremente.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
+### CAPÍTULO II. DE LAS SOCIEDADES DE GESTIÓN COLECTIVA
 
 ###### Artículo 115.
 
@@ -1163,7 +1259,9 @@ Los requerimientos de informes, las prácticas de visitas de inspección y de au
 
 ## TÍTULO XII. DE LA SOLUCIÓN DE CONTROVERSIAS
 
-### CAPÍTULO II. DEL PROCEDIMIENTO DE AVENENCIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 137.
 
@@ -1175,7 +1273,7 @@ Cualquier violación a los derechos y a las prerrogativas establecidos por la Le
 
 El ejercicio de las acciones establecidas en la Ley dejará a salvo el derecho de iniciar otro procedimiento de conformidad con la misma, el Código Civil Federal, el Código de Comercio, la Ley de la Propiedad Industrial o, en su caso, la legislación común aplicable, así como presentar denuncia o querella en materia penal.
 
-### CAPÍTULO III. DEL ARBITRAJE
+### CAPÍTULO II. DEL PROCEDIMIENTO DE AVENENCIA
 
 ###### Artículo 139.
 
@@ -1215,7 +1313,7 @@ Si agotado el procedimiento de avenencia las partes no hubiesen llegado a un arr
 
 El Instituto podrá en todo momento proponer soluciones al conflicto de intereses entre las partes, siempre que no haya oposición de alguna de ellas y sin que la propuesta del Instituto constituya declaración sobre las situaciones de hecho o de derecho existentes entre ellas.
 
-### CAPÍTULO I. DE LAS INFRACCIONES EN MATERIA DE DERECHOS DE AUTOR
+### CAPÍTULO III. DEL ARBITRAJE
 
 ###### Artículo 143.
 
@@ -1277,7 +1375,7 @@ El grupo arbitral no podrá cobrar honorarios adicionales por la aclaración, re
 
 ## TÍTULO XIII. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
-### CAPÍTULO II. DE LA SOLICITUD DE INFORMES, VISITAS DE INSPECCIÓN Y MEDIDAS PRECAUTORIAS Y DE ASEGURAMIENTO
+### CAPÍTULO I. DE LAS INFRACCIONES EN MATERIA DE DERECHOS DE AUTOR
 
 ###### Artículo 156.
 
@@ -1325,7 +1423,7 @@ Rendidas las pruebas y escuchados los alegatos, el Instituto dictará resolució
 
 La persona que inicie en forma temeraria este procedimiento administrativo, responderá por los daños y perjuicios causados.
 
-### CAPÍTULO III. DE LAS TARIFAS
+### CAPÍTULO II. DE LA SOLICITUD DE INFORMES, VISITAS DE INSPECCIÓN Y MEDIDAS PRECAUTORIAS Y DE ASEGURAMIENTO
 
 ###### Artículo 161.
 
@@ -1361,7 +1459,7 @@ II. Se haya solicitado una medida y no se haya otorgado la garantía exigida, y
 
 III. La sentencia definitiva ejecutoriada declare que no existió violación ni amenaza de violación a los derechos del solicitante de la medida.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. DE LAS TARIFAS
 
 ###### Artículo 166.
 
@@ -1422,6 +1520,8 @@ Recibidas las propuestas a que se refiere el artículo anterior el Instituto las
 Las tarifas expedidas por el Instituto preverán que los montos propuestos se actualicen los días primero de enero y primero de julio de cada año, en la misma medida en la que se haya incrementado durante el semestre inmediato anterior el Índice Nacional de Precios al Consumidor que publica mensualmente el Banco de México.
 
 ## TÍTULO XIV. DE LAS INFRACCIONES EN MATERIA DE COMERCIO
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 174.
 
@@ -1514,3 +1614,13 @@ D.O.F. 14 DE SEPTIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+D.O.F. 24 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE LA LEY FEDERAL DEL DERECHO DE AUTOR”.]
+
+Primero.- El presente Decreto entrará en vigor a los noventa días hábiles siguientes a su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los avisos y contra-avisos presentados con anterioridad a la entrada en vigor del presente Decreto se sustanciarán conforme a las disposiciones vigentes al momento de su presentación.
+
+Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales para el ejercicio fiscal ni en subsecuentes.
