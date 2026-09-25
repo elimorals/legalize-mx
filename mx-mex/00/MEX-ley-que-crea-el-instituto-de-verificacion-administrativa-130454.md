@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-instituto-de-verificacion-administrativa-130454
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-17"
-last_updated: "2024-04-05"
+last_updated: "2026-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección Quinta al Número 52 de la Gaceta del Gobierno del Estado de México, el lunes 17 de septiembre de 2018.
 
@@ -493,7 +493,9 @@ NOVENO. Las solicitudes de Dictamen Único de Factibilidad que prevé la Ley de 
 
 Pasados 30 días hábiles a partir de la entrada en vigor del presente Decreto sin que el peticionario se pronuncie en términos del párrafo anterior, la Comisión remitirá los expedientes respectivos a las autoridades municipales.
 
-DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad y que se encontraban vigentes a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
 
 DÉCIMO PRIMERO. Los peticionarios que cuenten con trámites en proceso para la obtención del Dictamen Único de Factibilidad, ingresados con antelación a la entrada en vigor del presente Decreto, contarán con 30 días hábiles para, en su caso, continuar con su trámite ante la Comisión, presentando para ello los requisitos faltantes, atendiendo las prevenciones o manifestando por escrito su intención de continuar con el trámite.
 
@@ -558,3 +560,19 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 25 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 358.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, Y DE LA LEY DE VIVIENDA DEL ESTADO DE MÉXICO; Y SE REFORMA EL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO NÚMERO 230 DE LA “LX” LEGISLATURA DEL ESTADO DE MÉXICO, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES Y SE EXPIDE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO” EL 5 ENERO DE 2021”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto serán tramitados y resueltos conforme a las disposiciones vigentes al inicio de su sustanciación.
+
+CUARTO. La Comisión de Impacto Estatal, en un término no mayor a noventa días hábiles a partir de la entrada en vigor del presente Decreto, expedirá y publicará los criterios referidos en el artículo 4, fracción XVI, del presente Decreto.
+
+QUINTO. El Poder Ejecutivo del Estado, en un plazo que no exceda de ciento ochenta días hábiles, a partir de la entrada en vigor del presente Decreto, deberá reformar las disposiciones reglamentarias correspondientes de conformidad con el presente Decreto.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera, y deberán cubrirse con cargo al presupuesto aprobado a los entes públicos competentes para el ejercicio fiscal en curso y subsecuentes.
