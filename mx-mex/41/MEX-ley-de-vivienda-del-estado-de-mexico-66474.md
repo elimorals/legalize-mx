@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-vivienda-del-estado-de-mexico-66474"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-22"
-last_updated: "2025-04-29"
+last_updated: "2026-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE VIVIENDA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el jueves 22 de enero de 2009.
 
@@ -51,9 +51,11 @@ La presente Ley es de orden público e interés social y de observancia general;
 
 La vivienda es un sector prioritario para el desarrollo económico y la integración social del Estado de México; el gobierno del Estado y los municipios, impulsarán y organizarán las actividades inherentes en la materia, por sí y con la participación de los sectores social o privado, de conformidad con las disposiciones de esta Ley.
 
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 3.
 
-La política estatal y los programas, así como el conjunto de instrumentos y acciones que señala este ordenamiento, se conducirán al desarrollo y promoción de las actividades de las dependencias y entidades de la administración pública estatal en materia de vivienda, su coordinación con los municipios y la concertación con los sectores social o privado.
+La política estatal y los programas, así como el conjunto de instrumentos y acciones que señala este ordenamiento, se conducirán al desarrollo y promoción de las actividades de las dependencias y entidades de la administración pública estatal en materia de vivienda, su coordinación con los municipios y la concertación con los sectores social o privado, a fin de sentar las bases para aspirar a un desarrollo estatal más equitativo, que integre entre sí a los centros de población más desarrollados con los centros de desarrollo productivo, considerando también a los de menor desarrollo, para corregir las disparidades regionales y las inequidades sociales derivadas de un desordenado crecimiento de las zonas urbanas.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -223,7 +225,17 @@ XI. Promover el desarrollo de programas para la distribución de materiales para
 
 XII. Difundir e informar de manera permanente a la población sobre los programas y acciones de vivienda, para que tenga un mejor conocimiento y participación en los mismos.
 
-XIII. Las demás que le confiera esta Ley, y demás ordenamientos aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XIII. Gestionar, impulsar y promover políticas públicas, acciones, beneficios o programas de vivienda de alquiler; priorizando a quienes se encuentren en situación de riesgo, pobreza, vulnerabilidad o marginación.
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XIV. Incentivar y gestionar la participación del sector privado en los programas de vivienda social, en favor de grupos vulnerables en pobreza o pobreza extrema.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XV. Las demás que le confiera esta Ley, y demás ordenamientos aplicables en la materia.
 
 ###### Artículo 15.
 
@@ -295,7 +307,33 @@ XVI. Las instancias gubernamentales implementarán mecanismos de acceso a la inf
 
 XVII. Promover, gestionar y estimular la producción y distribución de materiales para la autoconstrucción, mejoramiento y rehabilitación de vivienda a efecto de reducir sus costos en beneficio de la población de escasos recursos económicos.
 
-XVIII. Procurar que previo al desarrollo de la vivienda, se verifique la existencia de condiciones adecuadas de suelo, de equipamiento urbano regional y local, y de servicios públicos con las reservas de suelo suficiente para el sustento del medio ambiente, conforme a las disposiciones de las leyes federales y estatales de la materia.
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XVIII. Fomentar la calidad de la vivienda;
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XIX. Proveer esquemas que permitan la participación de las comunidades de diversas regiones de la entidad, incluidos los pueblos y comunidades indígenas y afromexicanas, principalmente situadas en zonas en alta y muy alta marginación.
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XX. Incorporar estrategias que fomenten la concurrencia de los sectores público, social y privado para satisfacer las necesidades de vivienda, en sus diferentes tipos y modalidades.
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XXI. Promover medidas de mejora regulatoria encaminadas a fortalecer la seguridad jurídica y disminuir los costos de la vivienda.
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XXII. Promover una distribución y atención equilibrada de las acciones de vivienda en todo el territorio estatal, considerando las necesidades y condiciones locales y regionales, así como los distintos tipos y modalidades del proceso habitacional.
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XXIII. Promover medidas que proporcionen a la población información suficiente para la toma de decisiones sobre las tendencias del desarrollo urbano en su localidad y acerca de las opciones que ofrecen los programas institucionales y el mercado, de acuerdo con sus necesidades, posibilidades y preferencias.
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XXIV. Impulsar o propiciar el acceso a una vivienda digna y adecuada mediante la implementación de acciones de alquiler, con la participación de los sectores público, social y/o privado.
 
 ### CAPÍTULO II. DE LOS PROGRAMAS DE VIVIENDA
 
@@ -463,15 +501,33 @@ VIII. Estará sujeto a un proceso de seguimiento y evaluación por parte de la u
 
 El Sistema Estatal de Vivienda, es el instrumento permanente de coordinación institucional entre las entidades federales, estatales y municipales, así como de concertación con los sectores social o privado, que tiene por objeto:
 
-I. Cumplir con los fines y objetivos de esta Ley, así como con la política, los programas y las acciones en materia de suelo y vivienda.
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-II. Integrar las acciones y procesos para la aplicación y ejecución de las necesidades de vivienda, preferentemente de la población de escasos recursos económicos.
+I. Coordinar y concertar las acciones para cumplir los objetivos, prioridades y estrategias de las políticas y programas de suelo y vivienda, así como de los fines y objetivos de esta Ley.
+
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+II. Dar integralidad y coherencia a las acciones, instrumentos y procesos orientados a la satisfacción de las necesidades de vivienda, particularmente de la población en situación de pobreza.
 
 III. Integrar, generar y difundir la información de vivienda para la adecuada planeación, instrumentación y seguimiento de los programas.
 
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+IV. Promover y garantizar la participación articulada de todos los factores productivos cuyas actividades incidan en el desarrollo de la vivienda.
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+V. Fortalecer la coordinación entre el Gobierno Estatal y los municipios, así como inducir acciones de concertación con los sectores social y privado, y
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+VI. Promover la coordinación interinstitucional entre las diferentes instancias federales relacionadas con la vivienda.
+
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 22.
 
-El Sistema Estatal de Vivienda estará integrado (sic) el Ejecutivo del Estado, la Secretaría, el Instituto y los municipios, y en su caso con la participación de los sectores público, social o privado.
+El Sistema Estatal de Vivienda estará integrado por el Ejecutivo del Estado, la Secretaría, el Instituto y los municipios, y en su caso con la participación de los sectores público, social o privado.
 
 ## TÍTULO TERCERO. DE LA COORDINACIÓN, DE LA CONCERTACIÓN Y DE LA PARTICIPACIÓN SOCIAL
 
@@ -846,3 +902,19 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 TERCERO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Ley de Desarrollo Social del Estado de México se entenderán hechas a la Ley de Bienestar y Desarrollo Social del Estado de México.
 
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 25 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 358.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, Y DE LA LEY DE VIVIENDA DEL ESTADO DE MÉXICO; Y SE REFORMA EL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO NÚMERO 230 DE LA "LX" LEGISLATURA DEL ESTADO DE MÉXICO, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES Y SE EXPIDE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" EL 5 ENERO DE 2021".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto serán tramitados y resueltos conforme a las disposiciones vigentes al inicio de su sustanciación.
+
+CUARTO. La Comisión de Impacto Estatal, en un término no mayor a noventa días hábiles a partir de la entrada en vigor del presente Decreto, expedirá y publicará los criterios referidos en el artículo 4, fracción XVI, del presente Decreto.
+
+QUINTO. El Poder Ejecutivo del Estado, en un plazo que no exceda de ciento ochenta días hábiles, a partir de la entrada en vigor del presente Decreto, deberá reformar las disposiciones reglamentarias correspondientes de conformidad con el presente Decreto.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera, y deberán cubrirse con cargo al presupuesto aprobado a los entes públicos competentes para el ejercicio fiscal en curso y subsecuentes.
