@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-empresa-publica-del-estado-180220"
 country: "mx"
 rank: "estatuto"
 publication_date: "2025-05-30"
-last_updated: "2025-09-12"
+last_updated: "2026-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180220&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,6 +26,8 @@ issue_date: "2025-05-28"
 ESTATUTO ORGÁNICO DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE SEPTIEMBRE DE 2025.
+
+(REPUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2026)
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 30 de mayo de 2025.
 
@@ -12046,6 +12048,8 @@ El presente Estatuto Orgánico de la Empresa Pública del Estado, Petróleos Mex
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
 
 D.O.F. 12 DE SEPTIEMBRE DE 2025.
+
+REPUBLICADA, D.O.F. 25 DE SEPTIEMBRE DE 2026.
 
 > <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL "AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁ SER CONSULTADO EL ESTATUTO ORGÁNICO DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS", QUE SE RELACIONA CON LA REFORMA AL PRESENTE ORDENAMIENTO".]</small>
 
