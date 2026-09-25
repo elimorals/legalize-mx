@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2026-08-06"
+last_updated: "2026-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "HID"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE SEPTIEMBRE DE 2026 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE SEPTIEMBRE DE 2026.]</small>
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -2116,6 +2116,10 @@ X.- Cuando la víctima se encuentre en estado de embarazo o puerperio;
 XI.- Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género; o
 
 XII.- Cuando la víctima se encuentre en estado de indefensión.
+
+> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2026)</small>
+
+Si la víctima de abuso sexual fuere persona menor de edad o que no tenga capacidad para comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo, se impondrá de cinco a nueve años de prisión y multa de 200 a 500 veces la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2021)</small>
 
