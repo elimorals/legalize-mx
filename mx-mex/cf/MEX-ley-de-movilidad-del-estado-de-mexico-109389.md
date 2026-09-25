@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-movilidad-del-estado-de-mexico-109389"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-12"
-last_updated: "2024-05-21"
+last_updated: "2026-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE MOVILIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE MAYO DE 2024 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE SEPTIEMBRE DE 2026 (ABROGADA).
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 12 de agosto de 2015.
 
@@ -1247,7 +1247,9 @@ NOVENO. Las solicitudes de Dictamen Único de Factibilidad que prevé la Ley de 
 
 Pasados 30 días hábiles a partir de la entrada en vigor del presente Decreto sin que el peticionario se pronuncie en términos del párrafo anterior, la Comisión remitirá los expedientes respectivos a las autoridades municipales.
 
-DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad y que se encontraban vigentes a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
 
 DÉCIMO PRIMERO. Los peticionarios que cuenten con trámites en proceso para la obtención del Dictamen Único de Factibilidad, ingresados con antelación a la entrada en vigor del presente Decreto, contarán con 30 días hábiles para, en su caso, continuar con su trámite ante la Comisión, presentando para ello los requisitos faltantes, atendiendo las prevenciones o manifestando por escrito su intención de continuar con el trámite.
 
@@ -1388,3 +1390,19 @@ DÉCIMO CUARTO. A partir de la entrada en vigor de la presente Ley se tendrán c
 DÉCIMO QUINTO. La Legislatura deberá armonizar la legislación correspondiente en un lapso de ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
 
 DÉCIMO SEXTO. En el caso de las personas que, a través de un contrato electrónico de transporte celebrado en términos del Código Civil del Estado de México, ofrece a un usuario un medio de traslado siendo el prestador de servicios electrónicos el intermediario para tal fin, mediante una aplicación electrónica tecnológica; deberán de obtener su certificado médico toxicológico en un término que no exceda de ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley.
+
+G.G. 25 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 358.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, Y DE LA LEY DE VIVIENDA DEL ESTADO DE MÉXICO; Y SE REFORMA EL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO NÚMERO 230 DE LA “LX” LEGISLATURA DEL ESTADO DE MÉXICO, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES Y SE EXPIDE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO” EL 5 ENERO DE 2021”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto serán tramitados y resueltos conforme a las disposiciones vigentes al inicio de su sustanciación.
+
+CUARTO. La Comisión de Impacto Estatal, en un término no mayor a noventa días hábiles a partir de la entrada en vigor del presente Decreto, expedirá y publicará los criterios referidos en el artículo 4, fracción XVI, del presente Decreto.
+
+QUINTO. El Poder Ejecutivo del Estado, en un plazo que no exceda de ciento ochenta días hábiles, a partir de la entrada en vigor del presente Decreto, deberá reformar las disposiciones reglamentarias correspondientes de conformidad con el presente Decreto.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera, y deberán cubrirse con cargo al presupuesto aprobado a los entes públicos competentes para el ejercicio fiscal en curso y subsecuentes.
