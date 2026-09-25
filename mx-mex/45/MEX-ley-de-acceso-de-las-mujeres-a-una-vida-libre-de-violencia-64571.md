@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2026-03-27"
+last_updated: "2026-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -1933,7 +1933,9 @@ Corresponde a la Fiscalía General de Justicia del Estado de México:
 
 I. Garantizar mecanismos expeditos, sin dilación en la procuración de justicia para asegurar el acceso de las mujeres a la justicia plena;
 
-II. Se deroga.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+II. Investigar con perspectiva de género y debida diligencia, todas las muertes violentas de mujeres y niñas, bajo el protocolo del feminicidio;
 
 III. Realizar estudios, formular y ejecutar lineamientos sobre la procuración y el acceso de las niñas, adolescentes y mujeres a la justicia;
 
@@ -2896,3 +2898,11 @@ Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 25 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 362.- POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 50 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, Y SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 353 Y SE ADICIONA LA FRACCIÓN XXXIV AL ARTÍCULO 353 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
