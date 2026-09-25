@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2026-09-02"
+last_updated: "2026-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE SEPTIEMBRE DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE SEPTIEMBRE DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2867,6 +2867,10 @@ h) El derecho de todas las personas sin distinción de sexo, raza, etnia, edad, 
 
 I. Acción urbanística: Los actos o actividades tendientes al uso o aprovechamiento del suelo dentro de áreas urbanas o urbanizables, tales como subdivisiones, fusiones, relotificaciones, condominios, conjuntos urbanos, así como de construcción, ampliación, remodelación, reparación, demolición o reconstrucción de inmuebles, de propiedad pública o privada, incluyendo las obras de equipamiento, infraestructura y servicios urbanos.
 
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+I Bis. Área Privativa: Al espacio en un condominio destinado a vivienda, local, naves y elementos anexos que le correspondan, tales como estacionamiento, cuarto de servicio, jaulas de tendido, lavaderos y cualquier otro elemento que no sean áreas y bienes de uso común, sobre el cual existe un derecho de propiedad y de uso exclusivo, debidamente acreditado.
+
 II. Áreas Urbanas: Las previstas en los planes de desarrollo urbano, constituidas por zonas edificadas parcial o totalmente, en donde existen al menos estructura vial y servicios de agua potable, drenaje y energía eléctrica, sin perjuicio de que coexistan con predios baldíos o carentes de servicios.
 
 III. Áreas Urbanizables: Las previstas en los planes de desarrollo urbano para el crecimiento de los centros de población, por encontrarse vinculadas en su conformación geográfica a las áreas urbanas y reunir condiciones física y geográficamente aptas para ser dotadas de infraestructura, equipamiento y servicios públicos y no presentar características de las áreas no urbanizables, cuya extensión y superficie se calcula en función de las necesidades del nuevo suelo indispensable para su expansión.
@@ -2875,9 +2879,17 @@ III. Áreas Urbanizables: Las previstas en los planes de desarrollo urbano para 
 
 IV. Áreas no Urbanizables: A las que los planes de desarrollo urbano aplicables, determinan como no aptas para la urbanización, por tratarse de áreas naturales protegidas, distritos de riego, zonas de recarga de mantos acuíferos, manantiales y cualquier área de alto valor ambiental prevista en los programas de ordenamiento ecológico; tierras de alto rendimiento agrícola, pecuario, o forestal, o preferentemente forestal; derechos de vía, zonas arqueológicas y demás bienes del patrimonio natural y cultural; los terrenos inundables y los que tengan riesgos previsibles de desastre, los que acusen fallas o fracturas en su estratificación geológica o que contengan galerías o túneles provenientes de laboreos mineros agotados o abandonados que no puedan rehabilitarse; las zonas de restricción que establezcan las autoridades competentes alrededor de los cráteres de volcanes y barrancas, las zonas de amortiguamiento y de seguridad de los centros penitenciarios que establezcan las autoridades correspondientes de la materia; así como los terrenos ubicados por encima de la cota que establezcan los organismos competentes para la dotación del servicio de agua potable; y las demás que como no urbanizables definan los planes de desarrollo urbano respectivos.
 
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+IV Bis. Área Vendible o Enajenable: Al espacio de un predio o condominio, que es susceptible de un aprovechamiento con fines comerciales, de servicios o industriales.
+
 V. Asentamiento Humano: Al conjunto de personas radicado en un área físicamente localizada, considerando sus sistemas de convivencia, los elementos naturales y las obras materiales que lo integran.
 
 VI. Asentamiento Humano Irregular: Al conjunto de personas radicado en un área determinada en contravención a las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+VI Bis. Caminos vecinales: A las vías de tránsito local de titularidad municipal, de bajo flujo vehicular, cuyo propósito es conectar pequeños centros poblados, parcelas, zonas agrícolas, industriales o comunidades cercanas, y que a su vez se vinculan con la red de vías públicas principales. Su función es garantizar la circulación de personas, bienes y servicios dentro del municipio y entre localidades próximas, contribuyendo a la integración territorial y al ordenamiento del desarrollo urbano y rural local.
 
 VII. Centro de Población: A la localidad considerada como ciudad, villa o pueblo por la Ley Orgánica Municipal del Estado de México, delimitada por la poligonal envolvente de las áreas urbanas y urbanizables que determine el plan de desarrollo urbano respectivo.
 
@@ -2897,7 +2909,9 @@ XIV. Condominio Vertical: A la modalidad en la que cada condómino es propietari
 
 XV. Condominio Horizontal: A la modalidad en la cual cada condómino es propietario exclusivo de un área privativa del terreno y en su caso, de la edificación que se construya en ella, a la vez que es copropietario de las áreas, edificios e instalaciones de uso general.
 
-XVI. Condominio Mixto: A la combinación en un mismo predio de las modalidades señaladas en las fracciones XIV y XV de este artículo.
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XVI. Condominio Mixto: A la combinación en un mismo predio de las modalidades señaladas en las fracciones XIV y XV de este artículo; de igual forma cuando se combinen usos de suelo comercial, de servicios y habitacional.
 
 XVII. Conjunto Urbano: A la modalidad que se adopta en la ejecución del desarrollo urbano que tiene por objeto estructurar o reordenar, como una unidad espacial integral, el trazo de la infraestructura vial, la división del suelo, las normas de usos, aprovechamientos y destinos del suelo, las obras de infraestructura, urbanización y equipamiento urbano, la ubicación de edificios y la imagen urbana de un predio ubicado en áreas urbanas o urbanizables.
 
@@ -2930,6 +2944,10 @@ XXVIII. Instituciones Gubernamentales: A las dependencias, entidades y organismo
 XXIX. Impacto Urbano: A la modificación al entorno del territorio por causa de actividades, proyectos, programas, edificaciones, obras públicas o privadas, servicios o acciones en general, que producen un efecto diferencial y sustantivo en el entorno urbano;
 
 XXX. Libro: Al Libro Quinto del Código Administrativo del Estado de México.
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XXX Bis. Licencia de Uso de Suelo: Al documento que autoriza ejercer el uso y aprovechamiento de un predio determinado, en el cual se establecen las normas a las cuales se encuentra sujeto el mismo, tales como: el coeficiente de ocupación del suelo, el coeficiente de utilización del suelo, la altura máxima de edificación, el número de cajones de estacionamiento, y en su caso el alineamiento y número oficial, además de señalar las restricciones procedentes del Plan Municipal de Desarrollo Urbano.
 
 XXXI. Lote: A la fracción de terreno que constituirá una unidad de propiedad, resultante de una autorización de fusión, subdivisión o conjunto urbano.
 
@@ -2987,9 +3005,19 @@ XLVII. Terreno Preferentemente Forestal: Aquel que habiendo estado cubierto por 
 
 XLVIII. Usos: A los fines particulares a que podrán destinarse determinadas áreas, predios o lotes.
 
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XLVIII Bis. Vacío Urbano: Son espacios de suelo que permanecen sin ocuparse, o con construcciones temporales al interior de las zonas urbanas. Generalmente están rodeados de infraestructura urbana básica como agua potable, electrificación, drenaje y alcantarillado.
+
 XLIX. Vía privada: Al área de uso común de un condominio, destinada al tránsito de personas y vehículos en su interior.
 
-L. Vía Pública: A la que forme parte de la infraestructura vial primaria o local.
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+L. Vía Pública: Todo espacio de dominio público y uso común destinado al tránsito de personas peatonas y vehículos, así como a la prestación de servicios públicos y la instalación de infraestructura y mobiliario.
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+L Bis. Vivienda Intraurbana: Es el aprovechamiento habitacional orientado a la ejecución de vivienda que se realiza a través del desarrollo de inmuebles en vacíos urbanos, áreas subutilizadas o deterioradas que se encuentran en las zonas urbanas consolidadas previstas en los planes municipales de desarrollo urbano.
 
 LI. Zona Metropolitana: Al espacio territorial cuya delimitación abarca a uno o más centros de población y las zonas adyacentes sobre las que tienen influencia dominante, ubicados en el territorio de dos o más municipios, pertenecientes a una o más entidades federativas y de la Ciudad de México en su caso.
 
@@ -3047,9 +3075,13 @@ XIII. La delimitación de zonas de riesgo y el establecimiento de polígonos de 
 
 XIV. La rehabilitación de espacios públicos en desuso, a fin de transformarlos en áreas que generen un beneficio social;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-XV. Aquellas otras que así reconociera la legislación estatal o federal aplicable a la materia.
+XV. La creación de áreas verdes urbanas, así como también la ampliación y mejoramiento de las ya existentes; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XVI. Aquellas otras que así reconociera la legislación Estatal o Federal aplicable en la materia.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
@@ -3143,9 +3175,9 @@ II. Expedir dictámenes de congruencia de los planes municipales de desarrollo u
 
 III. Expedir las evaluaciones técnicas de impacto, en los casos y con las formalidades previstas en este Libro y demás disposiciones jurídicas aplicables;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-IV. Emitir las autorizaciones de conjuntos urbanos, condominios, subdivisiones, relotificaciones, fusiones y en los casos previstos en este Libro y la reglamentación correspondiente:
+IV. Emitir las autorizaciones de conjuntos urbanos, condominios, subdivisiones, relotificaciones y fusiones, de acuerdo con lo establecido en este Libro, su Reglamento y demás normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3157,7 +3189,9 @@ b) El inicio de obras de urbanización, infraestructura y equipamiento urbano y 
 
 c) La promoción y publicidad del desarrollo;
 
-d) La enajenación y gravamen de lotes;
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+d) La enajenación y gravamen de lotes y áreas privativas;
 
 e) La liberación o sustitución de las garantías constituidas;
 
@@ -3167,11 +3201,17 @@ f) La subrogación o causahabiencia del titular de la autorización;
 
 g) El cambio de tipo o del nombre comercial de los conjuntos urbanos, subdivisiones y condominios;
 
-h) La extinción por renuncia de autorizaciones; y
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+h) La extinción por renuncia de autorizaciones;
 
-i) Cualquier otra que en términos de este Libro y su reglamento requiera autorización.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+i) Cualquier otra que en términos de este Libro y su reglamento requiera autorización; y
+
+> <small>(ADICIONADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+j) Autorizar fideicomitir, gravar o afectar lotes, la subrogación y causahabiencia de derechos y obligaciones de los acuerdos de autorización.
 
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3179,9 +3219,9 @@ V. Establecer políticas específicas para la autorización de conjuntos urbanos
 
 VI. Supervisar la ejecución de las obras de urbanización, infraestructura y equipamiento urbano de conjuntos urbanos, subdivisiones y condominios, de conformidad con lo que establezcan las disposiciones reglamentarias del presente Libro y demás ordenamientos jurídicos aplicables, en aquellos casos en que dicha facultad no esté específicamente atribuida a otra dependencia u organismos auxiliar del ámbito federal, estatal o municipal;
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-VII. Coordinar la entrega-recepción a los municipios y a las autoridades estatales competentes, de las áreas de donación, de las vías públicas y de las obras de urbanización, infraestructura primaria y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios.
+VII. Coordinar la entrega-recepción a los municipios y a las autoridades estatales competentes de las áreas de donación, obras de urbanización, equipamiento urbano y en su caso infraestructura primaria de los conjuntos urbanos; así como, en subdivisiones y condominios en los que se establezcan obras de equipamiento y áreas de donación, así mismo, vigilar la entrega de las obras de urbanización de los condominios por parte del titular de la autorización al comité de administración o persona que administra el condominio y en caso de no estar constituido dicho comité, al municipio;
 
 VIII. Autorizar la apertura, prolongación, ampliación o modificación de vías públicas de competencia municipal, no previstas en los planes municipales de desarrollo urbano;
 
@@ -3189,7 +3229,9 @@ IX. Establecer y operar el Sistema Estatal;
 
 X. Aprobar el plano de lotificación para la localización, deslinde y fraccionamiento de las zonas de urbanización ejidal o comunal y su reserva de crecimiento;
 
-XI. Establecer lineamientos de carácter urbano para la regularización de la tenencia de la tierra;
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XI. Coadyuvar en la elaboración de lineamientos de carácter urbano para la regularización de la tenencia de la tierra, con las autoridades competentes;
 
 XII. Coordinar acciones con las demás instancias competentes, para prevenir y evitar asentamientos humanos irregulares;
 
@@ -3263,9 +3305,9 @@ I. Formular, aprobar, ejecutar, evaluar, modificar y actualizar los planes munic
 
 II. Participar en la elaboración o modificación del respectivo plan regional de desarrollo urbano o de los parciales que de éste deriven, cuando incluya parte o la totalidad de su territorio;
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-III. Aprobar los proyectos ejecutivos, las memorias de cálculo y las especificaciones técnicas de las obras de infraestructura hidráulica, sanitaria y de urbanización, que establezcan los acuerdos de autorización de conjuntos urbanos, subdivisiones y condominios, con excepción de los proyectos que sean de competencia de las autoridades estatales o federales.
+III. Aprobar los proyectos ejecutivos, las memorias de cálculo, las especificaciones técnicas de las obras de infraestructura hidráulica, sanitaria y de urbanización, que establezcan los acuerdos de autorización de conjuntos urbanos, subdivisiones y condominios, a través de sus dependencias, entidades u organismos descentralizados competentes, con excepción de los proyectos que sean de competencia de las autoridades estatales o federales;
 
 > <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -3337,9 +3379,13 @@ XXIV. Atender y cumplir los lineamientos y normas relativas a polígonos de prot
 
 XXV. Promover con la participación del Estado, polígonos de actuación; polígonos sujetos a densificación y polígonos para el desarrollo o aprovechamiento prioritario o estratégico de inmuebles, que permitan llevar a cabo acciones específicas para el crecimiento, consolidación, mejoramiento y conservación de los centros de población.
 
-> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-XXVI. Las demás que le confieran este Libro, y otras disposiciones jurídicas.
+XXVI. Proponer, gestionar y realizar, en coordinación con los gobiernos Federal y Estatal, las acciones necesarias para planificar, preservar y mejorar las áreas verdes urbanas en los asentamientos humanos del municipio, con especial énfasis en aquellos en donde exista mayor deterioro ambiental o sean considerados como de atención prioritaria; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XXVII. Las demás que le confieran este Libro y otras disposiciones jurídicas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -3413,9 +3459,19 @@ XIII. Proponer a las autoridades de los tres órdenes de gobierno la realizació
 
 XIV. Apoyar a las autoridades en la promoción, difusión y cumplimiento de los planes y programas de la materia.
 
-> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-XV. Las demás que sean necesarias para el cumplimiento de su objeto y funciones.
+XV. Formular propuestas en materia de planificación y creación de áreas verdes urbanas;
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XVI. Promover mecanismos de participación ciudadana para la creación, recuperación, uso y vigilancia de las áreas verdes urbanas;
+
+y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+XVII. Las demás que sean necesarias para el cumplimiento de sus funciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -4137,9 +4193,9 @@ X. Su titular tendrá, en los términos y condiciones previstos en la reglamenta
 
 a) Ceder a título gratuito al Estado y al municipio la propiedad de las superficies de terreno para vías públicas y áreas de donación para equipamiento urbano, que establezcan los acuerdos de autorización.
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-Tratándose de los conjuntos urbanos, las áreas de donación de terreno destinadas a equipamiento urbano a favor del Estado y del municipio, según corresponda, podrán cumplirse previa determinación de la Secretaría, por medio del depósito del valor económico que se determine a través del Instituto de Información e Investigación Geográfica Estadística y Catastral del Estado de México; o a través de la ejecución de obra pública en el lugar y bajo las especificaciones que determine la Secretaría dentro del mismo municipio, en proporción al valor económico que determine el Instituto de Información e Investigación Geográfica Estadística y Catastral del Estado de México, de conformidad con las disposiciones reglamentarias de éste y demás disposiciones jurídicas aplicables;
+Tratándose de los conjuntos urbanos, las áreas de donación de terreno destinadas a equipamiento urbano a favor del Estado y del municipio, según corresponda, podrán cumplirse previa determinación de la Secretaría, por medio del depósito del valor económico que se determine a través del Instituto de Información e Investigación Geográfica Estadística y Catastral del Estado de México; de conformidad con las disposiciones reglamentarias de éste y demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -4147,27 +4203,39 @@ Los depósitos en numerario a favor del Estado deberán realizarse al Fideicomis
 
 b) Construir las obras de infraestructura, urbanización y equipamiento urbano, de conformidad con lo que establezca el presente Libro y su reglamentación.
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-Tratándose de obras de equipamiento urbano regional, el titular de la autorización podrá cumplir con dicha obligación, mediante el depósito de su valor económico al Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional o para la ejecución de obra pública dentro del Municipio correspondiente, de conformidad con lo que establezcan las disposiciones reglamentarias de este Libro.
+Tratándose de obras de equipamiento urbano regional, el titular de la autorización podrá cumplir con dicha obligación, mediante el depósito de su valor económico al Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional, de conformidad con lo que establezcan las disposiciones reglamentarias de este Libro.
+
+> <small>(ADICIONADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+El cálculo del valor de las obras de equipamiento urbano regional y municipal será determinado por la Secretaría, con base al tabulador de precios unitarios, generado por las dependencias estatales y municipales, así como organismos auxiliares que resulten beneficiarios con dichas obras, entidades que deberán de tomar en consideración la tipología del proyecto. Asimismo, el tabulador de precios unitarios deberá ser actualizado anualmente.
+
+> <small>(ADICIONADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+Cuando estas obras no se hayan cumplido dentro del plazo fijado y el ejercicio fiscal haya cambiado, su valor será actualizado de conformidad a lo determinado por la autoridad competente.
 
 La realización de estas obras se hará del conocimiento público de conformidad con lo que establezca los proyectos ejecutivos, las memorias de cálculo y lo que corresponda de acuerdo con la normatividad aplicable;
 
-c) Instalar un medidor electrónico de consumo para determinar el volumen del suministro de agua por cada unidad privativa que se ubique en el conjunto urbano autorizado;
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+c) Adquirir e instalar un medidor electrónico de consumo para determinar el volumen del suministro de agua por cada unidad privativa que se ubique en el conjunto urbano autorizado;
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 d) Presentar a la Secretaría los proyectos ejecutivos, memorias de cálculo y especificaciones técnicas, debidamente aprobados por las autoridades competentes, de las obras de urbanización, infraestructura y equipamiento urbano que establezcan los respectivos acuerdos de autorización.
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-e) Iniciar las obras de urbanización, infraestructura y equipamiento urbano que establezcan los acuerdos de autorización de los desarrollos, en un plazo máximo de nueve meses contados a partir de la publicación de la autorización en el Periódico Oficial "Gaceta del Gobierno".
+e) Obtener la autorización e iniciar las obras de urbanización, infraestructura y equipamiento urbano que establezcan los acuerdos de autorización de los desarrollos, en un plazo máximo de nueve meses contados a partir de la publicación de la autorización en el Periódico Oficial “Gaceta del Gobierno”;
 
 f) Dedicar definitivamente al uso para el que fueron hechas, las instalaciones del conjunto urbano, tales como clubes, construcciones para actividades deportivas, culturales o recreativas y otras que se utilicen como promoción para la venta de lotes;
 
 g) Garantizar la construcción de las obras de infraestructura, urbanización y equipamiento urbano que establezcan los acuerdos de autorización, mediante fianza o hipoteca; garantías que deberá constituir a favor del Gobierno del Estado, por un monto equivalente al cien por ciento del presupuesto a costo directo de las obras por realizar;
 
-h) Garantizar los defectos y vicios ocultos de las obras de infraestructura, urbanización y equipamiento urbano, mediante fianza o hipoteca; garantías que deberá constituir a favor del Gobierno del Estado o del municipio según corresponda la recepción de las mismas, por un monto equivalente al veinte por ciento del valor de las obras al momento de su entrega recepción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+h) Garantizar los defectos y vicios ocultos de las obras de infraestructura, urbanización y equipamiento urbano, mediante fianza o hipoteca; garantías que deberá constituir a favor del Gobierno del Estado o del municipio según corresponda la recepción de las mismas, por un periodo de tres años y un monto equivalente al veinte por ciento del valor de las obras al momento de su entrega recepción.
 
 La realización de estas obras se hará del conocimiento público de conformidad con lo que establezca el reglamento;
 
@@ -4179,11 +4247,17 @@ k) Abstenerse de enajenar los lotes de terreno hipotecados a favor del Estado o 
 
 l) Pagar los impuestos y derechos de conformidad con lo que establezcan los acuerdos de autorización del desarrollo;
 
-m) Proporcionar a las autoridades federales, estatales y municipales competentes, toda la información y documentación que se les requiera, para la supervisión de las obras de infraestructura, urbanización y equipamiento urbano que establezcan las autorizaciones, así como otorgar a los peritos designados para la supervisión de las obras, todas las facilidades que se requieran para el adecuado seguimiento de las mismas y acatar las observaciones que le formulen las autoridades competentes, con motivo de la supervisión que realicen durante la ejecución de las obras;
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-n) Dar aviso de la terminación de las obras de infraestructura, urbanización y equipamiento y hacer la entrega de las mismas a las autoridades municipales o estatales según corresponda, de conformidad con lo que prescriban las disposiciones reglamentarias del presente Libro;
+m) Proporcionar a las autoridades federales, estatales y municipales competentes, el fácil acceso al desarrollo, así como proporcionar toda la información y documentación que les sea requerida, para la adecuada supervisión de las obras de infraestructura, urbanización y equipamiento urbano que establezcan las autorizaciones; de igual manera, otorgar al personal designado para la supervisión, el reporte de avance progresivo de las obras, y todas las facilidades que se requieran para el adecuado seguimiento de las mismas y acatar las observaciones que formulen las autoridades competentes, con motivo de las supervisiones que se realicen durante la ejecución de las obras;
 
-o) Prestar gratuitamente los servicios de suministro de agua potable y drenaje a los adquirentes de las viviendas del desarrollo autorizado, hasta en tanto el desarrollador entregue al Municipio correspondiente las obras de infraestructura, urbanización y equipamiento urbano establecidas en la Autorización; y
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+n) Dar aviso de la terminación de las obras de infraestructura, urbanización y equipamiento y hacer la entrega formal de las mismas a las autoridades municipales, estatales o al comité de administración o a la persona que administra el condominio según corresponda, de conformidad con lo que prescriban las disposiciones reglamentarias del presente Libro;
+
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+o) Prestar gratuitamente los servicios de suministro de agua potable y drenaje a los adquirentes de las viviendas del desarrollo autorizado, hasta en tanto el desarrollador entregue formalmente al Municipio correspondiente o, en su caso, al comité de administración o a la persona que administra el condominio, las obras de infraestructura, urbanización y equipamiento urbano establecidas en la Autorización; y
 
 p) Las demás que establezcan otras disposiciones legales aplicables.
 
@@ -4195,9 +4269,7 @@ a) El titular de la autorización del conjunto urbano y el propietario del terre
 
 b) En el caso de fideicomisos, el fideicomitente y la fiduciaria en lo que corresponda.
 
-> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
-
-c) Compradores de lotes en bloque.
+c) (DEROGADO, G.G. 25 DE SEPTIEMBRE DE 2026)
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4211,7 +4283,9 @@ a) Un primer permiso por el cincuenta por ciento al inicio de la ejecución de l
 
 b) Un segundo permiso por el veinticinco por ciento, cuando se tenga concluido el cincuenta por ciento de las obras señaladas.
 
-c) El restante veinticinco por ciento, cuando se tenga concluido el cien por ciento de dichas obras.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+c) El restante veinticinco por ciento, cuando se tenga concluido el cien por ciento de dichas obras y entregadas formalmente a la autoridad municipal, estatal o al comité de administración o a la persona que administra el condominio.
 
 > <small>[N. DE E. PERTENECE A LA FRACCIÓN XIII, G.G. 10 DE ENERO DE 2018]</small>
 
@@ -4249,11 +4323,11 @@ XVI. No se emitirán nuevas autorizaciones a los solicitantes o sus socios, en c
 
 40.- La subdivisión y fusión de un predio requiere de la previa autorización de la Secretaría, de conformidad con lo que establezcan las disposiciones reglamentarias del presente Libro y las demás aplicables.
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 5.
 
-41.- Las subdivisiones que impliquen la autorización de treinta o más viviendas, o en usos diferentes al habitacional, un coeficiente de utilización de tres mil o más metros cuadrados de construcción, quedarán sujetas a los lineamientos que para los conjuntos urbanos establece el artículo 5.38 del presente Código, con excepción de la obligación de ceder superficies de terreno para vías públicas.
+41.- Las subdivisiones que impliquen la autorización de treinta o más viviendas o de predios con superficie mayor a tres mil metros cuadrados, quedarán sujetas a lo establecido en las disposiciones reglamentarias de este Libro. Al igual que las subdivisiones con usos diferentes al habitacional, con un coeficiente de utilización de tres mil o más metros cuadrados de construcción.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
@@ -4283,9 +4357,9 @@ e) Las resultantes de predios afectados por la determinación de límites estata
 
 II. La dimensión mínima de los lotes resultantes de una subdivisión, será la que determine el plan municipal de desarrollo urbano respectivo. Cuando no exista plan o habiéndolo éste no determine la normatividad aplicable, el Ayuntamiento la fijará con el apoyo técnico de la Secretaría.
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-III. Los titulares de subdivisiones de predios o inmuebles con tres mil metros cuadrados o más de superficie, ubicados en áreas urbanas o urbanizables, quedarán obligados a ceder áreas de donación para equipamiento urbano, de acuerdo con el uso que se autorice, de conformidad con lo que establezca la reglamentación del presente Libro;
+III. Los titulares de subdivisiones de predios o inmuebles con tres mil metros cuadrados o más de superficie, así como las que impliquen la autorización de treinta o más viviendas, o subdivisiones en usos diferentes al habitacional con un coeficiente de utilización de tres mil o más metros cuadrados de construcción, ubicados en áreas urbanas o urbanizables, quedarán obligados a ceder áreas de donación y construir equipamiento urbano, de acuerdo con el uso que se autorice, de conformidad con lo que establezca la reglamentación del presente Libro;
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4373,21 +4447,19 @@ IV. Las que soliciten las autoridades federales, estatales y municipales respect
 
 Para efectos de la facultad prevista en el artículo 5 de la Ley que Regula el Régimen de Propiedad en Condominio en el Estado de México y demás normatividad en la materia, se deberá observar lo previsto en este Código.
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 5.
 
-50.- Para la autorización de los condominios que impliquen el desarrollo de treinta o más viviendas, o en otros usos, un coeficiente de utilización de tres mil o más metros cuadrados de construcción, serán aplicables los lineamientos que para los conjuntos urbanos establece el artículo 5.38 del presente Código, con excepción de la obligación prevista para el titular de la autorización, de ceder superficies de terreno para vías públicas, así como la relativa a entregar a las autoridades municipales o estatales de la materia, las obras de urbanización y equipamiento del condominio.
+50.- Para la autorización de los condominios que impliquen el desarrollo de treinta o más viviendas, o aquellos que se ejecuten en predios con una superficie de tres mil o más metros cuadrados de terreno, o en otros usos diferentes al habitacional con un coeficiente de utilización de tres mil o más metros cuadrados de construcción, serán aplicables los lineamientos que para los conjuntos urbanos establece el artículo 5.38 del presente Código, de acuerdo con el uso, tipología y número de viviendas que se autoricen, de conformidad con lo que establezca la reglamentación del presente Libro.
 
-Los titulares de los condominios que se proyecte realizar en lotes provenientes de conjuntos urbanos o subdivisiones autorizados, cuya venta haya sido igualmente autorizada y en los cuales se hayan aprobado las normas de uso y aprovechamiento del suelo de los lotes mencionados, no estarán afectos a la obligación de obtener permisos de venta, ejecutar obras ni donar áreas para equipamiento urbano.
+Los titulares de los condominios que se proyecte realizar en lotes provenientes de conjuntos urbanos o subdivisiones autorizadas no estarán afectos a la obligación de ejecutar obras ni donar áreas para equipamiento urbano, siempre y cuando no se incremente el número de lotes y/o viviendas previamente autorizadas.
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 5.
 
-51.- En condominios horizontales y verticales habitacionales y mixtos, el número máximo de viviendas deberá ser concordante con la densidad y normatividad establecidas en los planes municipales de desarrollo urbano.
-
-Tratándose de condominios horizontales, se deberá contar con una administración condominal hasta por cada sesenta viviendas y en condominios verticales, una administración condominal por cada edificio. En condominios que incluyan usos mixtos compatibles, la administración condominal comprenderá los condominios horizontales o verticales según corresponda y conforme la autorización respectiva.
+51.- En condominios horizontales y verticales habitacionales y mixtos, el número máximo de viviendas deberá ser concordante con la densidad y normatividad establecidas en los planes municipales de desarrollo urbano o a la autorización del conjunto urbano autorizado. Tratándose de condominios horizontales, se deberá contar con una administración condominal hasta por cada sesenta viviendas y en condominios verticales, una administración condominal por cada edificio. En condominios que incluyan usos mixtos compatibles, la administración condominal comprenderá los condominios horizontales o verticales según corresponda y conforme la autorización respectiva.
 
 > <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
@@ -11693,9 +11765,9 @@ I. Derecho de Vía.- A la franja de terreno de anchura variable, determinada en 
 
 II. Carril Confinado.- Es el carril en la infraestructura vial destinado para uso exclusivo de los vehículos que operan en los sistemas de transporte masivo o de alta capacidad;
 
-> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
-III. Evaluación Técnica de Impacto en materia Vial. A la resolución técnica de la Secretaría de Movilidad, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto urbano, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto;
+III. Evaluación Técnica de Impacto en materia de Movilidad. A la resolución técnica de la Secretaría de Movilidad, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto urbano, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto;
 
 IV. Estación de Transferencia Modal.- Instalaciones con equipo tecnológico donde converge el transporte de alta capacidad con otro u otros medios de transporte;
 
@@ -12613,17 +12685,17 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 ### CAPITULO QUINTO. De las evaluaciones técnicas de factibilidad
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 17.
 
-58.- Se emitirán las evaluaciones técnicas de impacto en materia vial, tratándose de los casos a que se refiere el artículo 5.35 de este Código, para lo cual, podrán utilizarse las tecnologías de la información, medios y plataformas tecnológicas respectivas.
+58.- Se emitirán las evaluaciones técnicas de impacto en materia de movilidad, tratándose de los casos a que se refiere el artículo 5.35 de este Código, para lo cual, podrán utilizarse las tecnologías de la información, medios y plataformas tecnológicas respectivas.
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
 
 ###### Artículo 17.
 
-59.- La evaluación técnica de impacto en materia vial es la resolución técnica que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto urbano, así como las obras y acciones que, en su caso, deban llevarse a cabo para mitigar su efecto.
+59.- La evaluación técnica de impacto en materia de movilidad es la resolución técnica que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto urbano, así como las obras y acciones que, en su caso, deban llevarse a cabo para mitigar su efecto, de conformidad con lo dispuesto en el artículo 72 de la Ley de Movilidad y Seguridad Vial del Estado de México y sus Municipios.
 
 ###### Artículo 17.
 
@@ -12647,9 +12719,7 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 63.- Los Organismos Auxiliares sectorizados conforme a su competencia emitirán los siguientes dictámenes:
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
-
-I. La evaluación técnica de impacto en materia vial establecido en el artículo 17.59;
+I. (DEROGADA, G.G. 25 DE SEPTIEMBRE DE 2026)
 
 II. El dictamen de procedencia para helipuertos y aeropistas establecido en el artículo 17.61; y
 
@@ -17781,7 +17851,9 @@ NOVENO. Las solicitudes de Dictamen Único de Factibilidad que prevé la Ley de 
 
 Pasados 30 días hábiles a partir de la entrada en vigor del presente Decreto sin que el peticionario se pronuncie en términos del párrafo anterior, la Comisión remitirá los expedientes respectivos a las autoridades municipales.
 
-DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2026)</small>
+
+DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad y que se encontraban vigentes a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
 
 DÉCIMO PRIMERO. Los peticionarios que cuenten con trámites en proceso para la obtención del Dictamen Único de Factibilidad, ingresados con antelación a la entrada en vigor del presente Decreto, contarán con 30 días hábiles para, en su caso, continuar con su trámite ante la Comisión, presentando para ello los requisitos faltantes, atendiendo las prevenciones o manifestando por escrito su intención de continuar con el trámite.
 
@@ -18266,3 +18338,29 @@ TERCERO. El Poder Ejecutivo del Estado realizará las modificaciones necesarias 
 CUARTO. Las disposiciones previstas en el presente Decreto serán aplicables al procedimiento relativo al otorgamiento de la Presea "Estado de México" 2026, cuya entrega se realizará en marzo de 2027.
 
 QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 25 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 358.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, Y DE LA LEY DE VIVIENDA DEL ESTADO DE MÉXICO; Y SE REFORMA EL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO NÚMERO 230 DE LA “LX” LEGISLATURA DEL ESTADO DE MÉXICO, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES Y SE EXPIDE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO” EL 5 ENERO DE 2021. EXPOSICIONES DE MOTIVOS. DICTAMEN".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto serán tramitados y resueltos conforme a las disposiciones vigentes al inicio de su sustanciación.
+
+CUARTO. La Comisión de Impacto Estatal, en un término no mayor a noventa días hábiles a partir de la entrada en vigor del presente Decreto, expedirá y publicará los criterios referidos en el artículo 4, fracción XVI, del presente Decreto.
+
+QUINTO. El Poder Ejecutivo del Estado, en un plazo que no exceda de ciento ochenta días hábiles, a partir de la entrada en vigor del presente Decreto, deberá reformar las disposiciones reglamentarias correspondientes de conformidad con el presente Decreto.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera, y deberán cubrirse con cargo al presupuesto aprobado a los entes públicos competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 25 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 359.- POR EL QUE SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 5.4, LA FRACCIÓN XXVI DEL ARTÍCULO 5.10, Y LA FRACCIÓN XV DEL ARTÍCULO 5.12, Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 5.4, LA FRACCIÓN XXVII AL ARTÍCULO 5.10, Y LAS FRACCIONES XVI Y XVII AL ARTÍCULO 5.12 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Poder Ejecutivo del Estado, en el ámbito de sus atribuciones, deberá realizar las adecuaciones correspondientes a las disposiciones reglamentarias, a fin de armonizar su contenido con lo previsto en el presente Decreto.
