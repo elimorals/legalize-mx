@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2026-09-02"
+last_updated: "2026-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2026.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1949,11 +1949,11 @@ XV. Las demás que le confieran las Leyes.
 
 El cargo de persona Magistrada no es renunciable, sino por causa justificada calificada por el Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTÍCULO 95.
 
-La Presidencia del Supremo Tribunal de Justicia del Estado se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación, por orden de prelación.
+La Presidencia del Supremo Tribunal de Justicia del Estado se renovará cada tres años de manera rotatoria, mediante elección que haga el Pleno de entre sus integrantes, atendiendo al principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -4484,3 +4484,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La titular de la Fiscalía General del Estado de San Luis Potosí María Manuela García Cázares que se encuentra en funciones a la entrada en vigor del presente Decreto, continuará en el ejercicio de su encargo, en los términos previstos en el acto de su toma de protesta e inicio de funciones, sin que las reformas a las condiciones de elegibilidad contempladas en este Decreto le sean aplicables de manera retroactiva o afecten sus derechos adquiridos, garantizando la continuidad institucional del órgano autónomo.
+
+P.O. 28 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0599.- QUE REFORMA EL ARTÍCULO 95, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Magistratura que ocupe la Presidencia a la fecha de este Decreto, ocupará el cargo hasta el quince de septiembre de dos mil veintiocho, a fin de ajustarse al plazo de tres años, previsto en el artículo 95 de la Constitución Política del Estado de San Luis Potosí.
+
+De igual forma, la Magistratura que sea electa para ocupar la Presidencia en el dos mil treinta y cuatro, ocupará el cargo dos años, a fin de empatar la jornada comicial de proceso electoral local ordinario.
