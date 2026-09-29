@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2026-08-25"
+last_updated: "2026-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -1653,9 +1653,17 @@ VI.- Proporcionar la información que sea requerida por las autoridades;
 
 VII.- Entregar a la autoridad educativa la documentación e información necesaria que permitan verificar el cumplimiento de los requisitos para seguir impartiendo educación, conforme a los lineamientos emitidos para tal efecto;
 
-VIII.- Solicitar el refrendo del reconocimiento de validez oficial de estudios al término de la vigencia que se establezca, en los términos de esta Ley y demás disposiciones legales y normativas aplicables; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
 
-IX.- Dar aviso a la autoridad educativa competente el cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación.
+VIII.- Solicitar el refrendo del reconocimiento de validez oficial de estudios al término de la vigencia que se establezca, en los términos de esta Ley y demás disposiciones legales y normativas aplicables;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
+
+IX.- Dar aviso a la autoridad educativa competente el cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
+
+X.- Otorgar a los alumnos que hayan cumplido satisfactoriamente con todos los requisitos establecidos por la institución educativa; un escrito en el que se establezca el tiempo estimado de entrega de los documentos de certificación y titulación, el cual deberá ser razonable y ajustarse a los plazos establecidos por la autoridad educativa competente, este compromiso deberá entregarse al estudiante o a su representante legal al momento de acreditar la totalidad de los requisitos académicos correspondientes.
 
 ###### ARTÍCULO 134.
 
@@ -2016,6 +2024,14 @@ La aplicación del presente Decreto se llevará a cabo con cargo al presupuesto 
 P.O. 25 DE AGOSTO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1372 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XVI, DEL ARTÍCULO 55, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1395 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VIII Y IX, Y SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 133, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
