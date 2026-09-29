@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2026-07-06"
+last_updated: "2026-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2325,13 +2325,19 @@ ARTICULO 189 BIS.- Se aplicarán las sanciones de tres a cinco años de prisión
 
 ### CAPITULO VI. IMPARTICION ILICITA DE EDUCACION
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
 
-ARTICULO 189 TER.- Al que preste servicios educativos que conforme a la Ley requieren autorización o reconocimiento de validez oficial de estudios y no los haya obtenido, se le impondrá una sanción de tres a seis años de prisión y multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización. Si la referida autorización se encuentra en trámite, esto no será motivo para librarse de la responsabilidad.
+ARTICULO 189 TER.- Al que preste servicios educativos que conforme a la Ley requieren autorización o reconocimiento de validez oficial de estudios y no los haya obtenido, se le impondrá una sanción de cuatro a ocho años de prisión y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización, sanción aplicable por cada institución de educación que tenga en operación bajo las mismas condiciones. Si la autorización legal correspondiente se encuentra en trámite, ello no lo excluye de dicha responsabilidad.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 Si en este delito tuviere intervención cualquier servidor público, la pena aplicable se aumentará de una a dos terceras partes de las que le corresponda por el delito cometido y se le impondrá, además, la destitución e inhabilitación de cinco a diez años para desempeñar un empleo, cargo o comisión públicos.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la legislación administrativa y las sanciones que correspondan, en su caso.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 Este delito se perseguirá de oficio.
 
@@ -6021,13 +6027,17 @@ XVII.- Al que por cualquier razón tuviere a su cargo la administración o el cu
 
 XVIII.- Al que obtenga de otro una cantidad de dinero o cualquier otro lucro otorgándole o endosándole a nombre propio o de otro un título de crédito de los denominados pagarés a la orden y que el otorgante sabe que no ha de pagarle o que en el momento de la suscripción del mismo es económicamente insolvente a sabiendas que no tiene bienes suficientes para garantizar su pago, o al que libre un cheque a favor de otra persona a sabiendas que no tiene fondos suficientes para su pago en el momento de librarlo. Del mismo modo, al que teniendo la obligación de pago de cualquier título de crédito, realice conductas distintas a las señaladas en esta fracción con la finalidad de no cumplir con la obligación contraída.
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
 
-XIX.- Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores; y
+XIX.- Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
 
-XX.- Al que, por medio de la red de redes, plataformas digitales, tiendas en línea, o cualquier medio electrónico o tecnológico como redes sociales, sitios web o aplicaciones móviles, engañe o incite al error al consumidor mediante la venta, renta, traspaso o cualquier tipo operación relacionada con bienes inmuebles, productos o servicios falsos.
+XX.- Al que, por medio de la red de redes, plataformas digitales, tiendas en línea o cualquier medio electrónico o tecnológico como redes sociales, sitios web o aplicaciones móviles, engañe o incite al error al consumidor mediante la venta, renta, traspaso o cualquier tipo de operación relacionada con bienes inmuebles, productos o servicios falsos; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
+
+XXI.- Al que expida, entregue u ofrezca títulos profesionales, diplomas o grados académicos sin contar con la autenticación de la autoridad o institución pública competente que haya otorgado la autorización o el reconocimiento de validez oficial de estudios.
 
 ###### ARTICULO 419.
 
@@ -8398,6 +8408,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1130 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 58, FRACCIÓN IX; SE ADICIONAN LOS ARTÍCULOS 207-SEPTIES Y 207-OCTIES; Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 207-SEXIES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1392 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 189 TER, PÁRRAFO PRIMERO; Y 418, FRACCIONES XIX Y XX; Y SE ADICIONA LA FRACCIÓN XXI, AL ARTÍCULO 418, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
