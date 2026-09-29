@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2026-07-06"
+last_updated: "2026-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -705,7 +705,9 @@ III. Entrega inmediata de objetos de uso personal y documentos de identidad de l
 
 IV. Medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares.
 
-2. Tratándose de niñas hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación, con base en lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE SEPTIEMBRE DE 2026)</small>
+
+2.- Tratándose de niños, niñas, adolescentes y demás personas agredidas, hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación; de igual manera, como medida de protección, al tratarse de casos de peligro inminente o extrema urgencia, podrán tomarse las siguientes acciones:
 
 I. Prohibir el acceso a la persona agresora al domicilio, permanente o temporal de la mujer, o la niña, en situación de violencia, así como acercarse al lugar de trabajo, estudio o cualquier lugar que frecuente;
 
@@ -1906,3 +1908,15 @@ La Secretaría de Salud, en coordinación con las autoridades competentes, emiti
 ###### ARTÍCULO TERCERO.
 
 Las instituciones de salud públicas y privadas deberán realizar las adecuaciones administrativas, operativas y de capacitación que resulten necesarias para cumplir lo dispuesto en este Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1391 MEDIANTE EL CUAL SE REFORMA EL NUMERAL 2, DEL ARTÍCULO 9 DUODECIES, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
