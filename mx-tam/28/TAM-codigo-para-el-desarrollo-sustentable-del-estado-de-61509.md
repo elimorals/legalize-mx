@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2026-08-25"
+last_updated: "2026-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -333,13 +333,17 @@ XLIX. Secretaría: La Secretaría de Desarrollo Urbano y Medio Ambiente;
 
 L. Secretaría Federal: La Secretaría de Medio Ambiente y Recursos Naturales;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
 
-LI. Servicios ambientales: Los que brindan los ecosistemas de manera natural o por medio del manejo sustentable de los recursos naturales que los integran, tales como: la provisión del agua en calidad y cantidad; la captura de bióxido de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, los ecosistemas y las formas de vida; la protección y recuperación de suelos; y el paisaje y la recreación, entre otros; y
+LI. Servicios ambientales: Los que brindan los ecosistemas de manera natural o por medio del manejo sustentable de los recursos naturales que los integran, tales como: la provisión del agua en calidad y cantidad; la captura de bióxido de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, los ecosistemas y las formas de vida; la protección y recuperación de suelos; y el paisaje y la recreación, entre otros;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
+
+LII. Viveros didácticos: Espacios públicos delimitados y equipados, para cultivo de plantas, con el objeto principal de la enseñanza, pedagogía ambiental y científica sobre el ciclo biológico de las mismas; y
 
 > <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2022)</small>
 
-LII. Zona de restricción: Área en la que se restringe toda actividad de aprovechamiento en virtud de que la misma, por la ubicación en que se realiza, genera un daño al medio ambiente o causa una grave afectación a zonas naturales protegidas.
+LIII. Zona de restricción: Área en la que se restringe toda actividad de aprovechamiento en virtud de que la misma, por la ubicación en que se realiza, genera un daño al medio ambiente o causa una grave afectación a zonas naturales protegidas.
 
 ### CAPITULO II. DE LA LEGALIDAD Y SUPLETORIEDAD
 
@@ -5606,3 +5610,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado, a través de la dependencia competente en materia de desarrollo sustentable, promoverá la incorporación de los criterios de agroecología en los instrumentos de planeación ambiental, de conformidad con la disponibilidad presupuestaria y las disposiciones jurídicas aplicables.
+
+P.O. 29 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1396 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 170, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMA LA FRACCIÓN LI Y SE ADICIONA UNA FRACCIÓN LII, RECORRIÉNDOSE LA SUBSECUENTE EN SU ORDEN NATURAL AL ARTÍCULO 4, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, 120 días hábiles posteriores a su publicación en el Periódico Oficial del Estado.
