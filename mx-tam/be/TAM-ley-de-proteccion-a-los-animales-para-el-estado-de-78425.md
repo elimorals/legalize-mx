@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2026-07-06"
+last_updated: "2026-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -323,11 +323,15 @@ X. Crear el Registro Municipal Animal, con objeto de identificar y registrar a l
 
 XI. En la medida de lo posible y con base en su disponibilidad presupuestal, garantizarán la esterilización gratuita de animales, así como su trato digno y respetuoso en los centros de control animal, sancionando a quienes incurran en maltrato animal en los términos de esta ley;
 
-> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
 
-XII. La elaboración del Reglamento Municipal de Protección Animal; y
+XII. La elaboración del Reglamento Municipal de Protección Animal;
 
-XIII. Las demás que la presente Ley y demás ordenamientos jurídicos aplicables les confieran.
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
+
+XIII. Capacitar y asesorar a las personas servidoras públicas con funciones de prevención, atención y sanción de la violencia contra los seres sintientes, así como establecer protocolos de actuación para su rescate, cuidado, concientización y respeto, con el fin de garantizar intervenciones efectivas y un trato digno hacia ellos; y
+
+XIV. Las demás que la presente Ley y demás ordenamientos jurídicos aplicables les confieran.
 
 ### CAPITULO III. DEL FONDO PARA LA PROTECCION A LOS ANIMALES
 
@@ -1580,6 +1584,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1133 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1, PÁRRAFO ÚNICO, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1397 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII, Y SE ADICIONA UNA FRACCIÓN XIII, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL DEL ARTÍCULO 7, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
