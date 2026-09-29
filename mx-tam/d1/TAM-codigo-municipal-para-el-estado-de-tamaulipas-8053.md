@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2026-09-10"
+last_updated: "2026-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -2553,15 +2553,15 @@ En lo no previsto para este impuesto, serán de aplicación supletoria la Ley de
 
 Los derechos que cobren las Tesorerías Municipales, serán estrictamente los que señala la Ley de Ingresos Municipales en los montos, tasas y tarifas que la misma determina.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTICULO 140.
 
-Los propietarios o poseedores de predios baldíos o no edificados, de viviendas, construcciones o edificaciones abandonadas, que se ubiquen en las zonas urbanas o suburbanas de los municipios y reflejen mal aspecto y falta de conservación en relación con los inmuebles que colinden, están obligados a realizar la limpieza y desmonte de los mismos para evitar la proliferación de focos de infección y prevenir que se conviertan en espacios de inseguridad para las personas, así como contribuir a la buena imagen del Municipio. En caso de no hacerlo, el servicio será prestado por el Ayuntamiento, el cual realizará la limpieza o desmonte correspondiente, haciéndolo cuando menos en un contorno externo en el caso de viviendas, construcciones o edificaciones deshabitadas y en condición de abandono, con cargo al propietario o poseedor, a través de la notificación respectiva, con base en la reglamentación correspondiente.
+Las personas propietarias o poseedoras de predios baldíos o no edificados, de viviendas, construcciones o edificaciones abandonadas, que se ubiquen en las zonas urbanas o suburbanas de los municipios y reflejen mal aspecto y falta de conservación en relación con los inmuebles que colinden, están obligados a realizar la limpieza y desmonte de los mismos para evitar la proliferación de focos de infección y prevenir que se conviertan en espacios de inseguridad para las personas, así como contribuir a la buena imagen del Municipio. En caso de no hacerlo, el servicio será prestado por el Ayuntamiento, el cual realizará la limpieza o desmonte correspondiente, haciéndolo cuando menos en un contorno externo en el caso de viviendas, construcciones o edificaciones deshabitadas y en condición de abandono, con cargo al propietario o poseedor, a través de la notificación respectiva, con base en la reglamentación correspondiente.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
 
-Los propietarios o poseedores de predios baldíos o no edificados, de viviendas, construcciones o edificaciones abandonadas, que se ubiquen en las zonas urbanas o suburbanas de los municipios, a que se refiere el primer párrafo, que hagan caso omiso a los exhortos o notificaciones para que cumplan con su obligación y respecto de los cuales el Ayuntamiento o la autoridad administrativa competente, ante esta falta administrativa, hubiesen realizado el servicio de limpieza o desmonte de conformidad con los programas permanentes de saneamiento ambiental e higiene a las comunidades, serán sujetos de cobro por derechos de los servicios de limpieza o desmonte realizados conforme al procedimiento que para el caso, establezcan los ayuntamientos en sus reglamentos y leyes de ingresos. Estos programas especificarán periodos para la realización de los servicios de limpieza y desmonte de tal suerte que se contemple su aplicación permanente en todo el Municipio.
+Las personas propietarias o poseedoras de predios baldíos o no edificados, de viviendas, construcciones o edificaciones abandonadas, que se ubiquen en las zonas urbanas o suburbanas de los municipios, a que se refiere el primer párrafo, que hagan caso omiso a los exhortos o notificaciones para que cumplan con su obligación y respecto de los cuales el Ayuntamiento o la autoridad administrativa competente, ante esta falta administrativa, hubiesen realizado el servicio de limpieza o desmonte de conformidad con los programas permanentes de saneamiento ambiental e higiene a las comunidades, serán sujetos de cobro por derechos de los servicios de limpieza o desmonte realizados conforme al procedimiento que para el caso establezcan los Ayuntamientos en sus reglamentos, leyes de ingresos y demás leyes aplicables en la materia. Estos programas especificarán periodos para la realización de los servicios de limpieza y desmonte de tal suerte que se contemple su aplicación permanente en todo el Municipio.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2006)</small>
 
@@ -2947,9 +2947,9 @@ V.- Panteones.
 
 VI.- Rastro.
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2026)</small>
 
-VII.- Calles, parques y jardines y su equipamiento.
+VII.- Calles, parques y jardines y su equipamiento, mediante la provisión de plantas producidas los (sic) viveros didácticos y otros mecanismos.
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
 
@@ -7484,3 +7484,27 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los Presidentes o Presidentas Municipales, Sindico y Regidores, que ya hayan presentado su informe anual, deberán entregar el informe correspondiente a este año a este Congreso del Estado, dentro de los 10 días siguientes a la entrada en vigor del presente Decreto y el mismo tiempo para que se hagan públicos.
+
+P.O. 29 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1394 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 140, PÁRRAFOS PRIMERO Y SEGUNDO DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos del Estado deberán armonizar, en su caso, las disposiciones reglamentarias correspondientes dentro de los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones contenidas en leyes especiales en materia de limpieza y desmalezado de predios urbanos y semiurbanos serán aplicables en lo que no se opongan al presente Decreto y demás ordenamientos aplicables.
+
+P.O. 29 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1396 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 170, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMA LA FRACCIÓN LI Y SE ADICIONA UNA FRACCIÓN LII, RECORRIÉNDOSE LA SUBSECUENTE EN SU ORDEN NATURAL AL ARTÍCULO 4, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, 120 días hábiles posteriores a su publicación en el Periódico Oficial del Estado.
