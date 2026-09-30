@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2026-06-04"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -817,9 +817,17 @@ Las tecnologías de la información, comunicación, conocimiento y aprendizaje d
 
 Al efecto, deberán atenderse las disposiciones que la autoridad educativa federal establezca en la Agenda Digital Educativa.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
 
-Para efecto del párrafo segundo de este artículo, las autoridades educativas determinarán el uso complementario que se dará al uso del celular y demás dispositivos electrónicos como material educativo de apoyo a la enseñanza y aprendizaje de estudiantes del nivel básico, estableciendo para ello los lineamientos necesarios para su aplicación dentro de la jornada escolar.
+En los servicios de educación básica queda restringido, durante toda la jornada escolar, el uso personal y no pedagógico de teléfonos celulares y demás dispositivos electrónicos personales de comunicación, conectividad o acceso digital.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+Podrán utilizarse dichos dispositivos cuando su uso responda a una finalidad pedagógica determinada por el personal docente. La restricción tampoco será aplicable cuando su utilización resulte necesaria ante una situación de emergencia, por razones de salud o para garantizar el ejercicio de derechos reconocidos en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+Durante los períodos en que resulte aplicable la restricción, los dispositivos deberán permanecer fuera de uso. Las autoridades educativas, organismos e instituciones competentes establecerán, en el ámbito de sus respectivas atribuciones, las medidas necesarias para la aplicación de estas disposiciones.
 
 ###### ARTÍCULO 61.
 
@@ -2466,3 +2474,13 @@ TERCERO. Los procedimientos y trámites que se iniciaron con anterioridad a la e
 CUARTO. El Ejecutivo del Estado deberá realizar las gestiones necesarias para incorporar en la Ley de Ingresos del Estado de San Luis Potosí, las previsiones relativas a los derechos aplicables por los servicios derivados del registro de la publicidad educativa. Dichos derechos deberán establecerse conforme a los principios de legalidad, proporcionalidad, y destino específico del ingreso público, integrándose en la Ley de Hacienda del Estado para su plena vigencia y aplicación.
 
 QUINTO. Las instituciones educativas particulares dispondrán de un plazo de noventa días naturales, contado a partir de la publicación de los lineamientos a que se refiere el Artículo Segundo Transitorio, para adecuarse a lo previsto en este Decreto. Dicho proceso se llevará a cabo conforme al marco de concurrencia previsto en la legislación federal y respetando las atribuciones exclusivas de la Federación y lo dispuesto en la Ley General de Educación.
+
+P.O. 30 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0600.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 60, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 3 de noviembre del año de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Las autoridades educativas, organismos e instituciones competentes deberán emitir o, en su caso, adecuar, en el ámbito de sus respectivas atribuciones, los lineamientos y demás disposiciones necesarias para la aplicación del presente Decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+TERCERO. La implementación del presente Decreto deberá realizarse con pleno respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás disposiciones aplicables.
