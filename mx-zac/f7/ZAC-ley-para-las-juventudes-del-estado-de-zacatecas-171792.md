@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-las-juventudes-del-estado-de-zacatecas-171792"
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-28"
-last_updated: "2024-02-28"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LAS JUVENTUDES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Número 17 del Periódico Oficial del Estado de Zacatecas, el miércoles 28 de febrero de 2024.
 
@@ -363,9 +363,17 @@ VIII. Tener acceso a los estímulos, subsidios y facilidades administrativas dec
 
 IX. Obtener su primera licencia de conducir, por única ocasión de manera gratuita, siempre y cuando acredite la edad de dieciocho años y los requisitos establecidos en la legislación correspondiente y de acuerdo con la suficiencia presupuestal;
 
-X. Recibir, acceder y analizar información sistematizada, objetiva y oportuna para proyectos económicos e intereses colectivos, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
 
-XI. Que se procure el arraigo de las y los jóvenes rurales a sus comunidades, bajo condiciones económicas dignas.
+X. Recibir, acceder y analizar información sistematizada, objetiva y oportuna para proyectos económicos e intereses colectivos;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+XI. Que se procure el arraigo de las y los jóvenes rurales a sus comunidades, bajo condicioneseconómicas (sic) dignas, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+XII. Recibir educación en materia financiera.
 
 Capacitación para el auto empleo y el trabajo
 
@@ -1736,3 +1744,13 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Cuarta Legislatura del E
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del poder Ejecutivo del Estado, a los treinta y un días del mes de enero del año dos mil veinticuatro. GOBERNADOR DEL ESTADO.- DAVID MONREAL ÁVILA. SECRETARIO GENERAL DE GOBIERNO.- RODRIGO REYES MUGÜERZA. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 224.- SE REFORMA LA LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS, EN MATERIA DE EDUCACIÓN FINANCIERA".]
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+{Artículo (sic) segundo.- Se derogan las disposiciones que contravengan este Decreto.
