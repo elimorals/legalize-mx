@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-comision-de-derechos-humanos-del-estado-de-morelos-55
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-06"
-last_updated: "2021-01-27"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de junio de 2007.
 
@@ -567,13 +567,13 @@ No se admitirán comunicaciones anónimas, por lo que toda queja deberá ratific
 
 Cuando las y los quejosos o las y los agraviados se encuentren recluidos en un centro de detención o reclusión, sus quejas deberán ser transmitidas sin demora alguna a la Comisión a través de las y los visitadores.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
 
 ###### ARTÍCULO 30.
 
-La Comisión deberá poner a disposición de las y los reclamantes, formularios que faciliten el trámite, y en todo caso, orientará a los comparecientes sobre el contenido de su queja o reclamación. Las quejas también podrán presentarse oralmente, cuando las y los comparecientes no puedan leer o escribir o por discapacidad, estén privadas o privados de su libertad o sean menores de edad, debiendo ratificarse de ser posible ante las y los visitadores en el mismo acto por sí o por sus representantes. Tratándose de personas que no hablen o entiendan el idioma español, se les proporcionará gratuitamente un traductor.
+La Comisión deberá poner a disposición de los reclamantes, formularios que faciliten el trámite, y en todos los casos ejercerá la suplencia en la deficiencia de la queja, para lo cual orientará y apoyará a los comparecientes sobre el contenido de su queja o reclamación. Las quejas también podrán presentarse oralmente, cuando los comparecientes no puedan leer o escribir o por discapacidad, estén privados de su libertad o sean menores de edad, debiendo ratificarse de ser posible ante los Visitadores en el mismo acto por sí o por sus representantes. Tratándose de personas que no hablen o entiendan el idioma español, se les proporcionará gratuitamente un traductor.
 
-Cuando un (sic) una quejosa o quejoso habiendo designado persona de su confianza y en caso de posterior revocación de su designación, éste deberá hacerlo saber a la Comisión, dentro de un término de cinco días naturales posteriores al acaecimiento de dicha circunstancia; en caso contrario las notificaciones y actuaciones posteriores se le notificarán por estrados.
+Cuando una quejosa o un quejoso hubieran designado persona de su confianza, y posteriormente revoquen tal designación, se deberá hacer saber dicha circunstancia a la Comisión, dentro de un término de cinco días naturales posteriores al acaecimiento de dicha circunstancia; en caso contrario las notificaciones y actuaciones posteriores se le notificarán por estrados.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
@@ -898,3 +898,13 @@ P.O. 27 DE ENERO DE 2021.
 PRIMERA. Remítase el presente decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 30 DE SEPTIEMBRE DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO MIL CIENTO CINCUENTA Y TRES POR EL QUE SE REFORMA EL ARTÍCULO 30 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado.
+
+TERCERA. Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
