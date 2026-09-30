@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transporte-transito-y-vialidad-del-estado-de-96734"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-20"
-last_updated: "2025-10-04"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 20 de noviembre de 2013.
 
@@ -827,11 +827,15 @@ IV. Transitar con más pasajeros de los permitidos de acuerdo a las característ
 
 V. Instalar claxon, bocinas, escapes y en general dispositivos que emitan sonido que provoquen contaminación auditiva, y
 
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
 
-VI. Ingerir bebidas alcohólicas, estupefacientes, psicotrópicos o cualquier otra sustancia tóxica en el interior de cualquier vehículo clasificado en la presente Ley y su reglamento; y
+VI. Ingerir bebidas alcohólicas, estupefacientes, psicotrópicos o cualquier otra sustancia tóxica en el interior de cualquier vehículo clasificado en la presente Ley y su reglamento;
 
-VII. Todas las demás que se consideren necesarias y se establezcan en los reglamentos.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+VII. Transportar a menores de edad en la parte trasera de camionetas de carga, sin la supervisión de una persona adulta responsable, y
+
+VIII. Todas las demás que se consideren necesarias y se establezcan en los reglamentos.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -2124,3 +2128,13 @@ P.O. 4 DE OCTUBRE DE 2025.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 223.- SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 37 DE LA LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS, EN MATERIA DE SEGURIDAD VIAL Y PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, se publicará la modificación al Reglamento General de la Ley de Transporte, Tránsito y Vialidad del Estado de Zacatecas, para armonizarlo a esta reforma.
+
+Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
