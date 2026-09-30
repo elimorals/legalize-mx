@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-del-estado-de-zacatecas-117705"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-03"
-last_updated: "2025-10-15"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de diciembre de 2016.
 
@@ -1567,21 +1567,27 @@ XIV. Unidad o Instituto de Planeación Municipal.
 
 Requisitos de los titulares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
 ###### Artículo 99.
 
-Son requisitos para ser titular de una dependencia municipal:
+Son requisitos para ser persona titular o encargada de una dependencia municipal:
 
 I. Tener ciudadanía mexicana, en pleno uso de sus derechos políticos;
 
 II. Residir en el Municipio, cuando menos un año antes de su designación;
 
-III. Acreditar educación media superior y experiencia en la materia.
+III. Acreditar educación med Requisitos de los titulares ia superior y experiencia en la materia.
 
 En municipios mayores de veinticinco mil habitantes, además de la experiencia en la materia, deberá acreditar mediante cédula profesional nivel de licenciatura en las áreas afines al cargo;
 
 IV. No haber sido condenado en sentencia firme o ejecutoria por delito intencional; y
 
 V. Tener reconocida capacidad y honestidad.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+VI. No estar en el supuesto establecido en la fracción VII del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Capítulo II. Secretaría de Gobierno Municipal
 
@@ -4428,3 +4434,15 @@ Dicho plazo podrá acotarse mediante declaratoria pública que emitan las Autori
 Octavo. Cumplido el plazo de extinción del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, establecido en el artículo segundo transitorio del Decreto número 124, del 7 de junio de 2025, por el cual se emitieron reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia de simplificación orgánica, la persona servidora pública que, previo a la extinción, ocupaba la presidencia de dicho Organismo, asumirá las facultades y obligaciones de liquidadora en los términos de la normatividad aplicable.
 
 Noveno. La Legislatura del Estado tendrá un plazo improrrogable de 90 días naturales, posteriores a la entrada en vigor del presente Decreto para actualizar y reformar las leyes que determinan atribuciones u obligaciones en materia de transparencia y protección de datos personales.
+
+P.O. 30 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 109 “SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacateas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente instrumento.
