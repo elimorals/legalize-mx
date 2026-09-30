@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-de-seguridad-publica-de-zacatecas-87832
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-05"
-last_updated: "2024-08-10"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de mayo de 2012.
 
@@ -175,9 +175,19 @@ XII. Participar en la ejecución de las acciones para el resguardo de la infraes
 
 XIII. Determinar la participación de la sociedad civil y de las instituciones académicas, en los procesos de evaluación de las políticas de prevención del delito, así como de las Instituciones de Seguridad Pública, a través de mecanismos eficaces;
 
-XIV. Instrumentar los sistemas complementarios de seguridad social para los miembros de las Instituciones de Seguridad Pública, sus familias y dependientes, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
 
-XV. Las demás atribuciones específicas que se establezcan en la legislación aplicable.
+XIV. Instrumentar los sistemas complementarios de seguridad social para los miembros de las Instituciones de Seguridad Pública, sus familias y dependientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+XV. Informar a las dependencias y entidades de la administración pública estatal, así como a la Fiscalía General de Justicia del Estado, según corresponda, sobre la presencia de animales en situación de abandono o maltrato que detecten en el ejercicio de sus funciones, en los términos de las leyes en la materia;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+XVI. Implementar mecanismos de colaboración y concertación, según corresponda, con las asociaciones en materia de protección animal, relacionado con las facultades señaladas en la fracción anterior, y
+
+XVII. Las demás atribuciones específicas que se establezcan en la legislación aplicable.
 
 Convenios con otros órdenes de gobierno
 
@@ -351,13 +361,25 @@ XII. Organizar, coordinar y operar el Centro;
 
 XIII. Operar el Sistema Estatal de Seguridad Pública a través del Secretariado Ejecutivo, en los términos de la presente ley;
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
 
-XIV. Informar trimestralmente a la Legislatura del Estado, a través de la Comisión legislativa de Seguridad Pública, sobre los avances de los programas y estrategias estatales de seguridad pública, así como de la situación que en la materia prevalezca en la entidad, en el que se detalle la información de las regiones que presentan mayores riesgos para la seguridad de la población, y
+XIV. Informar trimestralmente a la Legislatura del Estado, a través de la Comisión legislativa de Seguridad Pública, sobre los avances de los programas y estrategias estatales de seguridad pública, así como de la situación que en la materia prevalezca en la entidad, en el que se detalle la información de las regiones que presentan mayores riesgos para la seguridad de la población;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+XV. Informar a las dependencias y entidades de la administración pública estatal, así como a la Fiscalía General de Justicia del Estado, según corresponda, sobre la presencia de animales en situación de abandono o maltrato que detecten en el ejercicio de sus funciones, en los términos de las leyes en la materia;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+XVI. Impulsar la creación de un protocolo único para canalizar las denuncias en materia de protección animal;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+XVII. Crear y actualizar un registro estadístico anual sobre las incidencias de abandono y maltrato animal detectadas por las instituciones policiales, mismo que será enviado para su conocimiento a la Legislatura del Estado, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE FEBRERO DE 2021)</small>
 
-XV. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
+XVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
 
 Atribuciones de los Ayuntamientos
 
@@ -2156,3 +2178,15 @@ La campaña de difusión se llevará a cabo, por lo menos, dos meses antes del p
 Artículo cuarto. En un plazo que no exceda de 60 días, contados a partir de la publicación de este decreto, el Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento General para armonizarlo con lo previsto por este instrumento legislativo.
 
 Artículo quinto. Las disposiciones legales que hagan mención a la Policía de Seguridad Vial del Estado, se entenderán dirigidas a la Policía Vial Preventiva.
+
+P.O. 30 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 193.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS, EN MATERIA DE DETECCIÓN Y REPORTE DE CASOS DE MALTRATO O ABANDONO ANIMAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Las Instituciones Policiales del Estado deberán adecuar sus protocolos y capacitar a su personal para la correcta identificación y reporte de casos de abandono o maltrato animal.
+
+Tercero. La Secretaría de Seguridad de Pública, en coordinación con la Secretaría de Agua y Medio Ambiente, implementarán un programa permanente de capacitación a los elementos de las corporaciones policiales, en materia de protección animal.
+
+Cuarto. Se derogan las disposiciones que se opongan al presente Decreto.
