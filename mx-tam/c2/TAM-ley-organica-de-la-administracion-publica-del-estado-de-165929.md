@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2026-08-18"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -518,6 +518,14 @@ III. Observar las disposiciones de la ley que rige las relaciones entre el Gobie
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
 IV. Mantener actualizada la normatividad en materia de Escalafón y el Tabulador de Sueldos de los servidores públicos del Estado, así como administrar y regular el otorgamiento y pago de pensiones;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+IV Bis. Administrar y revisar la nómina de pensiones por Decreto;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+IV Ter. Proponer a la persona titular del Ejecutivo Estatal la modificación o revocación de las pensiones por Decreto;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
@@ -2434,3 +2442,15 @@ Todos los procesos de orden jurídico de diversa naturaleza, que se encuentren e
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 Las disposiciones normativas y administrativas correspondientes al marco jurídico aplicable en la materia deberán adecuarse a los procesos legislativos, en un plazo no mayor a ciento veinte días naturales siguientes contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1416 MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES IV BIS Y IV TER AL ARTÍCULO 28, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Administración realizará las modificaciones necesarias a su reglamentación y demás normatividad aplicable, a fin de dar cumplimiento al presente Decreto.
