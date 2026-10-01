@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2026-09-25"
+last_updated: "2026-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE SEPTIEMBRE DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE OCTUBRE DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -17663,9 +17663,9 @@ La persona titular del Poder Ejecutivo, por conducto de la persona titular de la
 
 Con base en los estados contables y presupuestales se formulará la Cuenta Pública para su presentación a la Legislatura.
 
-> <small>(REFORMADO, G.G. 25 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2026)</small>
 
-Las áreas competentes de los poderes Legislativo y Judicial, así como de los organismos electorales, de la Comisión de Derechos Humanos del Estado de México, del Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, de la Universidad Autónoma del Estado de México, del Tribunal de Justicia Administrativa del Estado de México, y de la Fiscalía General de Justicia del Estado de México, remitirán los estados contables y presupuestales a que se refiere el párrafo anterior al Poder Ejecutivo, a través de la Secretaría, en los plazos y términos que determine la Secretaría para tal efecto, para su incorporación a la Cuenta Pública estatal.
+Las áreas competentes de los poderes Legislativo y Judicial, así como de los organismos electorales, de la Comisión de Derechos Humanos del Estado de México, de la Universidad Autónoma del Estado de México, del Tribunal de Justicia Administrativa del Estado de México, y de la Fiscalía General de Justicia del Estado de México, remitirán los estados contables y presupuestales a que se refiere el párrafo anterior al Poder Ejecutivo, a través de la Secretaría, en los plazos y términos que determine la Secretaría para tal efecto, para su incorporación a la Cuenta Pública estatal.
 
 > <small>(ADICIONADO, G.G. 25 DE MAYO DE 2022)</small>
 
@@ -20928,3 +20928,65 @@ CUARTO. La Comisión de Impacto Estatal, en un término no mayor a noventa días
 QUINTO. El Poder Ejecutivo del Estado, en un plazo que no exceda de ciento ochenta días hábiles, a partir de la entrada en vigor del presente Decreto, deberá reformar las disposiciones reglamentarias correspondientes de conformidad con el presente Decreto.
 
 SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera, y deberán cubrirse con cargo al presupuesto aprobado a los entes públicos competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 1 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 365.- POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS; SE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MÉXICO Y MUNICIPIOS; SE REFORMAN LAS FRACCIONES XXXII Y XXXIII DEL ARTÍCULO 47 Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 46 Y LAS FRACCIONES XXXIV Y XXXV AL ARTÍCULO 47 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 38, LAS FRACCIONES IV, X Y XI DEL ARTÍCULO 65, LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO CUARTO DEL LIBRO PRIMERO Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 71 DE LA LEY DE ARCHIVOS Y ADMINISTRACIÓN DE DOCUMENTOS DEL ESTADO DE MÉXICO Y MUNICIPIOS; SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 10 Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 10 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS; SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 1.49, LA FRACCIÓN V DEL ARTÍCULO 1.50, EL ARTÍCULO 1.51 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 1.53, Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 1.50 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 353 DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abrogan la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de México y Municipios, publicadas en el Periódico Oficial "Gaceta del Gobierno" el 4 de mayo de 2016 y el 30 de mayo de 2017, respectivamente.
+
+CUARTO. Las referencias, menciones, atribuciones o funciones contenidas en leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+QUINTO. Los derechos laborales de las personas servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, serán respetados, en términos de la legislación aplicable.
+
+SEXTO. De conformidad con el Artículo Cuarto Transitorio del Decreto 198 por el que se reforman y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 4 de noviembre de 2025, a la entrada en vigor del presente Decreto se extinguirá el órgano constitucional autónomo denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios; para el cumplimiento de lo anterior, la Secretaría de Finanzas de conformidad con lo establecido en las disposiciones jurídicas aplicables, en un plazo no mayor a 5 días hábiles, contados a partir de la entrada en vigor del presente Decreto, nombrará a una persona representante legal, responsable del proceso de liquidación del referido Instituto, quien tendrá las más amplias facultades para actos de administración, dominio, pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o cláusula especial, en términos de las disposiciones jurídicas aplicables, y para realizar cualquier acción que coadyuve al eficiente proceso de liquidación.
+
+El órgano constitucional autónomo denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios conservará su personalidad jurídica, exclusivamente para efectos del proceso de liquidación y de las acciones previstas en los presentes artículos transitorios.
+
+Para efectos del proceso de liquidación y transferencia de recursos del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, y de la respectiva asunción de funciones y atribuciones por parte de las instancias correspondientes, en un plazo no mayor a 5 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se establecerá una Comisión Transitoria de Transferencia integrada por personas representantes de las Secretarías de Finanzas y de la Contraloría, la Consejería Jurídica y la Oficialía Mayor, y la persona representante legal designada para realizar el proceso de liquidación. Dicha Comisión Transitoria de Transferencia será la encargada de establecer los procedimientos y directrices de forma colegiada para la determinación de las acciones y el seguimiento de las gestiones para la liquidación del citado Instituto y su transferencia a las instancias competentes.
+
+La Comisión Transitoria de Transferencia podrá invitar a participar en sus reuniones a personas servidoras públicas de las instancias que asuman facultades y atribuciones en términos del presente Decreto y a las personas que previo a la entrada en vigor del Decreto prestaban sus servicios o se desempeñaban como personas servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, incluidas las personas Comisionadas. La citada Comisión permanecerá en funciones por lo menos 6 meses y quedará sin efectos a partir de que la misma resuelva que su objeto ha sido totalmente concluido.
+
+El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios en un plazo no mayor a 5 días hábiles contados a partir de la entrada en vigor del presente Decreto deberá entregar a la persona representante legal encargada del proceso de liquidación, una relación de la plantilla del personal que presta sus servicios en dicho Instituto, que incluya su relación laboral, modalidad, salario y antigüedad, a fin de que realice las acciones que correspondan, conforme a las disposiciones jurídicas aplicables. La Comisión Transitoria deberá establecer los lineamientos para la contratación, continuidad o en su caso, liquidación, del personal que prestaba sus servicios en dicho Instituto.
+
+Las personas que se desempeñaron como servidoras públicas en el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, están obligadas a presentar la declaración patrimonial y de intereses de conclusión del encargo, conforme a las disposiciones legales aplicables y a través del Sistema de Situación Patrimonial (SITPAT), dentro de los sesenta días naturales siguientes contados a partir de la publicación del presente decreto. Las personas que dentro de los diez días previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, incluyendo a las personas Comisionadas, deben presentar acta administrativa de entrega-recepción institucional e individual, según corresponda, a la persona servidora pública que la Secretaría de la Contraloría designe y conforme a la normativa aplicable, en los formatos de la referida dependencia o en los medios que ésta determine, en el entendido que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+SÉPTIMO. Los recursos materiales y financieros, incluidos los bienes inmuebles, con que cuente el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios a la entrada en vigor del presente Decreto, serán transferidos a la Secretaría de la Contraloría, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Asimismo, el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios deberá entregar a la citada dependencia la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes al periodo aplicable, de conformidad con las disposiciones jurídicas aplicables, dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+La Secretaría de Finanzas, exclusivamente para efectos de la implementación del presente Decreto, podrá autorizar las adecuaciones, ampliaciones y traspasos presupuestarios estrictamente necesarios para la integración y funcionamiento del órgano desconcentrado denominado Transparencia Mexiquense, de las funciones que se transfieren, y para la protección de los derechos laborales del personal del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios únicamente informando en todo caso a la Legislatura Local, incluidos en los traspasos que rebasen el 3% del presupuesto total autorizado anual a las instancias correspondientes.
+
+OCTAVO. Los registros, padrones y sistemas, internos y externos con los que cuenta el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría de la Contraloría dentro de los quince días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+La transferencia de los registros, padrones, sistemas y bases de datos deberá realizarse observando las medidas de seguridad administrativas, físicas y técnicas previstas en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y en la legislación estatal aplicable, a fin de garantizar su integridad, disponibilidad y confidencialidad.
+
+NOVENO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, en materia de acceso a la información pública y datos personales, se sustanciarán ante Transparencia Mexiquense conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, en materia de acceso a la información pública, se llevará a cabo por Transparencia Mexiquense.
+
+Transparencia Mexiquense podrá remitir a la Autoridad garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+DÉCIMO. La persona titular del Poder Ejecutivo del Estado deberá expedir las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, incluida la emisión del Reglamento Interior de Transparencia Mexiquense, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, a fin de armonizarlos a lo previsto en el mismo.
+
+DÉCIMO PRIMERO. Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley de Archivos y Administración de Documentos del Estado de México y Municipios y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría de la Contraloría dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+La Secretaría de la Contraloría, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
+
+DÉCIMO SEGUNDO. El Órgano Interno de Control del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control de la Secretaría de la Contraloría dentro de los veinte días hábiles siguientes a su entrada en vigor, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+DÉCIMO TERCERO. El Subsistema de Transparencia y Acceso a la Información del Estado de México deberá instalarse a más tardar en ciento veinte días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría de la Contraloría.
+
+DÉCIMO CUARTO. Los Poderes Legislativo y Judicial; y los órganos constitucionales autónomos del Estado de México en un plazo máximo de treinta días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+Para efectos de lo previsto en este Transitorio y el Transitorio Noveno, se suspenden por un plazo de hasta noventa días naturales contados a partir de la entrada en vigor de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades que se mencionan en el párrafo anterior y de Transparencia Mexiquense.
+
+DÉCIMO QUINTO. La Secretaría de la Contraloría emitirá los lineamientos a los que hace referencia el artículo 1.49 del Código Administrativo del Estado de México atendiendo al principio de progresividad sobre los lineamientos vigentes y a las disposiciones del presente Decreto en un plazo no mayor a 60 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO SEXTO. La Secretaría de la Contraloría instalará el Comité de Registro de Testigos Sociales con base en los lineamientos correspondientes en un plazo no mayor a 90 días hábiles a partir de la entrada en vigor del presente Decreto, mientras tanto el actual Comité de Registro de Testigos Sociales mantendrá su función la que concluye con la instalación del nuevo Comité.
+
+DÉCIMO SÉPTIMO. Las secretarías de Finanzas y de la Contraloría, la Consejería Jurídica y la Oficialía Mayor, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del mismo en términos de las disposiciones jurídicas aplicables.
