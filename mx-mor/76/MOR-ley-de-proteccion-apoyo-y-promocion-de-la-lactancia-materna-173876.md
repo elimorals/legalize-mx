@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-proteccion-apoyo-y-promocion-de-la-lactancia-materna-173
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-31"
-last_updated: "2024-07-31"
+last_updated: "2026-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROTECCIÓN, APOYO Y PROMOCIÓN DE LA LACTANCIA MATERNA PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2026.
 
 Ley publicada en el Número 6335 Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 31 de julio de 2024.
 
@@ -177,7 +177,9 @@ Los derechos se ejercerán a través de las medidas de protección, apoyo y prom
 
 Son obligaciones de los establecimientos del Sistema Estatal de Salud destinadas a la atención materno infantil las siguientes:
 
-I. Concientizar y sensibilizar al personal de salud sobre la importancia de promover la lactancia materna desde la etapa prenatal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2026)</small>
+
+I. Concientizar, capacitar y sensibilizar al personal de Salud, población en general, empleadores del sector público y privado, prestadores de servicios en espacios públicos e instituciones educativas mediante campañas sobre la importancia de promover la lactancia materna desde la etapa prenatal;
 
 II. Capacitar al personal para orientar a las madres sobre la técnica de lactancia materna optima, para que dicho proceso sea continuo hasta los dos años de edad de sus hijos;
 
@@ -394,3 +396,13 @@ SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO MIL CIENTO CINCUENTA Y CINCO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 12, DE LA LEY DE PROTECCIÓN, APOYO Y PROMOCIÓN DE LA LACTANCIA MATERNA PARA EL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Morelos, para que en uso de sus atribuciones y facultades conforme a lo dispuesto (sic) artículos 44, 47, y 70 fracciones XVI y XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos, se realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
