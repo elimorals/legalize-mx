@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-i-2022-del-presidente-de-1563
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-03-08"
-last_updated: "2022-03-08"
+last_updated: "2026-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=156327&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-03-02"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION I/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE ESTABLECEN LAS MEDIDAS Y ATRIBUCIONES PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO LABORAL]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO V/2026, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTITRÉS DE SEPTIEMBRE DE DOS MIL VEINTISÉIS, POR EL QUE SE EMITE EL PROTOCOLO DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA DE GÉNERO, LABORAL Y DISCRIMINACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL S.J.F. DE 2 DE OCTUBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN I/2022, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTIOCHO DE FEBRERO DE DOS MIL VEINTIDÓS, POR EL QUE SE ESTABLECEN LAS MEDIDAS Y ATRIBUCIONES PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO LABORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 2 DE OCTUBRE DE 2026 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 8 de marzo de 2022.
 
@@ -320,3 +322,23 @@ Así lo acordó y firma el Ministro Arturo Zaldívar Lelo de Larrea, Presidente 
 Ministro Presidente Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente.- Director General de Asuntos Jurídicos, Luis Fernando Corona Horta.- Firmado electrónicamente.
 
 EN LA CIUDAD DE MÉXICO A DOS DE MARZO DE DOS MIL VEINTIDÓS, EL MAESTRO LUIS FERNANDO CORONA HORTA, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN LOS ARTÍCULOS 9, FRACCIÓN X, Y 35, FRACCIÓN XX, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN RELACIÓN CON EL NUMERAL SEGUNDO, FRACCIÓN I, DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DEL VEINTIOCHO DE ENERO DE DOS MIL DIECINUEVE, POR EL QUE SE MODIFICA ORGÁNICA Y FUNCIONALMENTE SU ESTRUCTURA ADMINISTRATIVA. CERTIFICA: Que la presente copia constante de treinta fojas útiles concuerda fiel y exactamente con el ACUERDO GENERAL DE ADMINISTRACIÓN I/2022, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTIOCHO DE FEBRERO DE DOS MIL VEINTIDÓS, POR EL QUE SE ESTABLECEN LAS MEDIDAS Y ATRIBUCIONES PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO LABORAL, formalizado mediante Firma Electrónica Certificada del Poder Judicial de la Federación, mismo que obra en los archivos de la Dirección General a mi cargo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 2 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO V/2026, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTITRÉS DE SEPTIEMBRE DE DOS MIL VEINTISÉIS, POR EL QUE SE EMITE EL PROTOCOLO DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA DE GÉNERO, LABORAL Y DISCRIMINACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abrogan los instrumentos normativos siguientes:
+
+I. Acuerdo General de Administración IX/2021 del dos de septiembre de dos mil veintiuno, del Ministro Presidente de la Suprema Corte de Justicia de la Nación, por el que se emiten las directrices del mecanismo integral para prevenir, atender y erradicar el acoso sexual y cualquier otra forma de violencia sexual y de género, y
+
+II. Acuerdo General de Administración I/2022 del Presidente de la Suprema Corte de Justicia de la Nación, de veintiocho de febrero de dos mil veintidós, por el que se establecen las medidas y atribuciones para prevenir, atender y erradicar el acoso laboral.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Acuerdo General.
+
+CUARTO. Las acciones de atención, orientación o acompañamiento iniciadas antes de la entrada en vigor del presente Acuerdo General que se encuentren pendientes de conclusión continuarán tramitándose hasta su terminación conforme a las disposiciones de los instrumentos normativos vigentes al momento de su inicio.
+
+QUINTO. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo establecido en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
