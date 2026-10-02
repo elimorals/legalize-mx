@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-ix-2021-del-ministro-150988"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-09-07"
-last_updated: "2023-03-31"
+last_updated: "2026-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150988&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2021-09-03"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION IX/2021, DEL MINISTRO PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE EMITEN LAS DIRECTRICES DEL MECANISMO INTEGRAL PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO SEXUAL Y CUALQUIER OTRA FORMA DE VIOLENCIA SEXUAL Y DE GENERO]
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2023, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTICUATRO DE MARZO DE DOS MIL VEINTITRÉS, POR EL QUE SE ESTABLECEN LAS DENOMINACIONES Y ATRIBUCIONES DE LA UNIDAD GENERAL DE CONOCIMIENTO CIENTÍFICO Y DERECHOS HUMANOS, ASÍ COMO DE LA DIRECCIÓN GENERAL DE PREVENCIÓN, ATENCIÓN Y SEGUIMIENTO A CASOS DE VIOLENCIA DE GÉNERO”, PUBLICADO EN EL D.O.F. EL 31 DE MARZO DE 2023, SE MODIFICA LA DENOMINACIÓN DE LA UNIDAD GENERAL DE IGUALDAD DE GÉNERO, PARA QUEDAR COMO DIRECCIÓN GENERAL DE PREVENCIÓN, ATENCIÓN Y SEGUIMIENTO A CASOS DE VIOLENCIA DE GÉNERO, LA QUE EJERCERÁ LAS ATRIBUCIONES PREVISTAS EN LOS ARTÍCULOS SEXTO Y OCTAVO DEL PRESENTE ORDENAMIENTO.]</small>
+NOTA 1: [DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2023, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTICUATRO DE MARZO DE DOS MIL VEINTITRÉS, POR EL QUE SE ESTABLECEN LAS DENOMINACIONES Y ATRIBUCIONES DE LA UNIDAD GENERAL DE CONOCIMIENTO CIENTÍFICO Y DERECHOS HUMANOS, ASÍ COMO DE LA DIRECCIÓN GENERAL DE PREVENCIÓN, ATENCIÓN Y SEGUIMIENTO A CASOS DE VIOLENCIA DE GÉNERO”, PUBLICADO EN EL D.O.F. EL 31 DE MARZO DE 2023, SE MODIFICA LA DENOMINACIÓN DE LA UNIDAD GENERAL DE IGUALDAD DE GÉNERO, PARA QUEDAR COMO DIRECCIÓN GENERAL DE PREVENCIÓN, ATENCIÓN Y SEGUIMIENTO A CASOS DE VIOLENCIA DE GÉNERO, LA QUE EJERCERÁ LAS ATRIBUCIONES PREVISTAS EN LOS ARTÍCULOS SEXTO Y OCTAVO DEL PRESENTE ORDENAMIENTO.]
+
+NOTA 2: [DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO V/2026, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTITRÉS DE SEPTIEMBRE DE DOS MIL VEINTISÉIS, POR EL QUE SE EMITE EL PROTOCOLO DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA DE GÉNERO, LABORAL Y DISCRIMINACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL S.J.F. DE 2 DE OCTUBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 ACUERDO GENERAL DE ADMINISTRACIÓN IX/2021 DEL DOS DE SEPTIEMBRE DE DOS MIL VEINTIUNO, DEL MINISTRO PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITEN LAS DIRECTRICES DEL MECANISMO INTEGRAL PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO SEXUAL Y CUALQUIER OTRA FORMA DE VIOLENCIA SEXUAL Y DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 2 DE OCTUBRE DE 2026 (ABROGADO).
 
 Acuerdo publicado en el Número 5 del Diario Oficial de la Federación, el martes 7 de septiembre de 2021.
 
@@ -416,3 +418,21 @@ QUINTO. La Oficialía Mayor, en coordinación con los órganos y áreas competen
 SEXTO. Se derogan las disposiciones jurídicas que se opongan al presente Acuerdo General de Administración.
 
 SÉPTIMO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+S.J.F. 2 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL NÚMERO V/2026, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTITRÉS DE SEPTIEMBRE DE DOS MIL VEINTISÉIS, POR EL QUE SE EMITE EL PROTOCOLO DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA DE GÉNERO, LABORAL Y DISCRIMINACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abrogan los instrumentos normativos siguientes:
+
+I. Acuerdo General de Administración IX/2021 del dos de septiembre de dos mil veintiuno, del Ministro Presidente de la Suprema Corte de Justicia de la Nación, por el que se emiten las directrices del mecanismo integral para prevenir, atender y erradicar el acoso sexual y cualquier otra forma de violencia sexual y de género, y
+
+II. Acuerdo General de Administración I/2022 del Presidente de la Suprema Corte de Justicia de la Nación, de veintiocho de febrero de dos mil veintidós, por el que se establecen las medidas y atribuciones para prevenir, atender y erradicar el acoso laboral.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Acuerdo General.
+
+CUARTO. Las acciones de atención, orientación o acompañamiento iniciadas antes de la entrada en vigor del presente Acuerdo General que se encuentren pendientes de conclusión continuarán tramitándose hasta su terminación conforme a las disposiciones de los instrumentos normativos vigentes al momento de su inicio.
+
+QUINTO. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo establecido en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
