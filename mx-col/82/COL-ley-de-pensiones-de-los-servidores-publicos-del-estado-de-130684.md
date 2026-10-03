@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-de-los-servidores-publicos-del-estado-de-13068
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-28"
-last_updated: "2025-12-06"
+last_updated: "2026-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2026.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el viernes 28 de septiembre de 2018.
 
@@ -2297,6 +2297,18 @@ a) En el caso de pensión por jubilación, al aprobarse la misma por el Institut
 
 b) En el caso de pensión por vejez, o por retiro anticipado en edad avanzada, al aprobarse la misma por el Instituto de Pensiones de los Servidores Públicos del Estado de Colima en los términos previstos en esta Ley, además, se harán acreedores, a una prestación económica adicional en forma proporcional, con la finalidad de que ésta se tome como referencia para fijar el porcentaje del monto de la pensión que corresponda en cada caso. Citada cantidad que tendrá la temporalidad y efectos que la pensión decretada.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2026)</small>
+
+Artículo Cuadragésimo Cuarto. Se establece, por única ocasión y con carácter temporal, un Programa Especial de Crédito Hipotecario para la Adquisición de Vivienda, en beneficio de las personas afiliadas que cumplan con los requisitos para acceder a un crédito hipotecario conforme a lo establecido en la presente Ley, que formen parte del personal policial funcionalmente operativo adscrito a la Secretaría de Seguridad y Protección Ciudadana del Gobierno del Estado de Colima y que no cuenten con vivienda propia, exclusivamente para la adquisición de una casa o departamento nuevo destinado a su habitación.
+
+Las personas afiliadas que se acojan al Programa previsto en el párrafo anterior accederán al crédito hipotecario con una tasa de interés anual del cuatro por ciento, la cual permanecerá fija durante la vigencia del crédito.
+
+El monto de los créditos hipotecarios que se otorguen al amparo del Programa no podrá exceder de $680,000.00 (seiscientos ochenta mil pesos 00/100 M.N.).
+
+El otorgamiento del crédito hipotecario estará sujeto a la disponibilidad de recursos del Instituto, sin que la implementación del Programa pueda comprometer los recursos destinados al pago de las pensiones y demás prestaciones de carácter prioritario.
+
+Las personas afiliadas interesadas en acogerse al Programa deberán presentar ante el Instituto su solicitud a más tardar el 30 de octubre de 2026.
+
 El Gobernador del Estado dispondrá se publique, circule y observe.
 
 Dado en el Recinto Oficial del Poder Legislativo a los veintisiete días del mes de septiembre del año dos mil dieciocho.
@@ -2420,3 +2432,21 @@ P.O. 6 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 197.- POR EL QUE SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 494, POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO DÉCIMO SEGUNDO DE LA LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 3 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 366.- POR EL QUE SE ADICIONA EL ARTÍCULO CUADRAGÉSIMO CUARTO TRANSITORIO A LA LEY
+
+DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA, PARA ESTABLECER UN PROGRAMA DE CRÉDITO HIPOTECARIO PARA LA ADQUISICIÓN DE VIVIENDA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. El Instituto de Pensiones de los Servidores Públicos del Estado de Colima deberá, dentro de los 15 días hábiles siguientes a la entrada en vigor del presente Decreto, elaborar y poner a disposición de las personas afiliadas los formatos, mecanismos y demás instrumentos administrativos necesarios para la presentación, recepción y trámite de las solicitudes de acceso al Programa previsto en el artículo Cuadragésimo Cuarto Transitorio de la Ley de Pensiones de los Servidores Públicos del Estado de Colima.
+
+TERCERO. Para el otorgamiento de los créditos hipotecarios comprendidos en el presente Programa, por única ocasión y durante su vigencia, se exceptuará la aplicación de las disposiciones contenidas en los artículos 57, 129 y 138 de esta Ley, exclusivamente en lo relativo a la existencia, cuantía y porcentaje máximo de los excedentes que podrán destinarse al otorgamiento de créditos hipotecarios, permaneciendo aplicables las demás disposiciones previstas en dichos artículos.
+
+Los recursos necesarios para la ejecución del Programa se cubrirán exclusivamente con cargo a la Cuenta Institucional del Gobierno del Estado, conforme a su disponibilidad financiera y sin afectar ni comprometer la suficiencia de los recursos
+
+destinados al pago oportuno de las pensiones, gastos funerarios, seguros de vida, gratificaciones anuales y demás prestaciones a cargo de dicha Cuenta.
+
+En ningún caso podrán afectarse recursos de otras Cuentas Institucionales ni realizarse transferencias entre ellas para financiar el Programa.
