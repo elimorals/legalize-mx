@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2026-08-25"
+last_updated: "2026-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -287,9 +287,9 @@ Estos contendrán, entre otras, las previsiones que regulen y faciliten el trán
 
 Al efecto, preverán aquellas disposiciones que resulten necesarias para cumplir el propósito de privilegiar la seguridad de las personas, el fortalecimiento y desarrollo de la cultura cívica y del respeto en la circulación y conducción de automotores, y de todas aquellas disposiciones que garanticen el cumplimiento de la responsabilidad civil en caso de daños, lesiones o muerte con motivo del tránsito de vehículos.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2026)</small>
 
-Los Ayuntamientos deberán establecer en sus Reglamentos, de conformidad con las leyes y reglamentos estatales, la obligación de las autoridades municipales competentes, de elaborar y colocar, de acuerdo a las Normas Oficiales Mexicanas aplicables, en cantidad suficiente en sus respectivas jurisdicciones, en general, y de manera particular, en zonas escolares, hospitalarias o de salud, recreativas y comerciales.
+Los Ayuntamientos deberán establecer en sus reglamentos, de conformidad con las leyes y reglamentos estatales, la obligación de las autoridades municipales competentes, de elaborar y colocar, de acuerdo a las Normas Oficiales Mexicanas aplicables, en cantidad suficiente los señalamientos viales en sus respectivas jurisdicciones, en general, y de manera particular, en zonas escolares, hospitalarias o de salud, recreativas y comerciales.
 
 ###### ARTICULO 7º.
 
@@ -1698,3 +1698,11 @@ Las disposiciones reglamentarias deberán prever, al menos, el procedimiento par
 ###### ARTÍCULO TERCERO.
 
 En tanto se realiza la armonización señalada en el artículo anterior, continuarán aplicándose las disposiciones municipales vigentes en materia de tránsito, movilidad, estacionamiento y utilización de la vía pública, en todo aquello que no se oponga al presente Decreto.
+
+P.O. 5 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1409 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 6°, PÁRRAFO QUINTO, DE LA LEY DE TRÁNSITO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
