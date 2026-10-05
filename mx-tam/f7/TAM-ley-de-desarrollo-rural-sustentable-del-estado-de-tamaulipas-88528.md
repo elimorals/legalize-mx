@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-rural-sustentable-del-estado-de-tamaulipas-88
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2025-06-18"
+last_updated: "2026-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -249,13 +249,17 @@ XIV. Fomentar la producción de cultivos alternativos de mayor rentabilidad, int
 
 XV. Promover la concurrencia de los órdenes de gobierno y sectores en la gestión del desarrollo rural;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2026)</small>
 
-XVI. Fortalecer la organización social y productiva de la mujer rural; y
+XVI. Fortalecer la organización social y productiva de la mujer rural;
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2026)</small>
 
-XVII. Garantizar la participación de las mujeres del medio rural en la toma de decisiones en la comunidad, entorno al control, protección y aprovechamiento de los recursos naturales.
+XVII. Garantizar la participación de las mujeres del medio rural en la toma de decisiones en la comunidad, entorno (sic) al control, protección y aprovechamiento de los recursos naturales; y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2026)</small>
+
+XVIII. Promover, fomentar y facilitar, en materia de competencia de la Secretaría, la obtención de certificaciones, denominaciones de origen, indicaciones geográficas protegidas, marcas colectivas y otros sellos de calidad para productos agroalimentarios, forestales y pesqueros originarios de Tamaulipas, que cuenten con características únicas derivadas de su procedencia geográfica y métodos de producción, así como establecer acciones para su protección y reconocimiento a nivel nacional e internacional.
 
 ###### ARTÍCULO 7.
 
@@ -1654,3 +1658,15 @@ P.O. 18 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1405 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVI Y XVII, Y SE ADICIONA UNA FRACCIÓN XVIII AL ARTÍCULO 6, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Rural, Pesca y Acuacultura y en coordinación con la Secretaría de Desarrollo Económico, promoverá la celebración de convenios de colaboración con el Instituto Mexicano de la Propiedad Industrial y demás instancias competentes, así como la adecuación de sus programas institucionales, a fin de dar cumplimiento a las acciones de fomento, acompañamiento y protección agroalimentaria previstas en el presente Decreto.
