@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2025-09-30"
+last_updated: "2026-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -1417,9 +1417,23 @@ V. Resolver los asuntos que la Mesa Directiva del Congreso les turne en un plazo
 
 VI. Dictaminar, atender o resolver las iniciativas, proyectos y proposiciones turnadas a las mismas en los términos de los programas legislativos acordados por la Junta de Coordinación Política;
 
-VII. Si por razón de su competencia tuviera que turnarse un asunto a dos o más comisiones, éstas actuarán unidas y dictaminarán conjuntamente; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2026)</small>
 
-VIII. Realizar las actividades que se deriven de esta Ley, de los ordenamientos aplicables, de los acuerdos tomados por el Pleno del Congreso y los que adopten por sí mismas con relación a la materia o materias de su competencia.
+VII. Si por razón de su competencia tuviera que turnarse un asunto a dos o más comisiones, éstas actuarán unidas y dictaminarán conjuntamente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2026)</small>
+
+VIII. Rendir un informe de conclusión, en el mes de septiembre del año en que se renuevan las diputaciones del Congreso del Estado, la persona diputada titular de la Presidencia de cada comisión deberá elaborar el informe y entregar los archivos para su depósito en la Dirección General de Servicios Parlamentarios; y a la Mesa Directiva en funciones, para conocimiento, el que se incluirá para la entrega-recepción de la comisión que corresponda de la Legislatura entrante.
+
+El informe a que se refiere el párrafo anterior contendrá lo siguiente:
+
+a) La relación de iniciativas, minutas, proposiciones y demás asuntos pendientes, dictaminados o resueltos, en definitiva; y
+
+b) El listado de dictámenes elaborados en la comisión, que quedan con carácter de proyectos para la siguiente Legislatura.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE OCTUBRE DE 2026)</small>
+
+IX. Realizar las actividades que se deriven de esta Ley, de los ordenamientos aplicables, de los acuerdos tomados por el Pleno del Congreso y los que adopten por sí mismas con relación a la materia o materias de su competencia.
 
 #### Sección Segunda. Los Consejos, Comités y Grupos de Amistad
 
@@ -2690,3 +2704,11 @@ P.O. 30 DE SEPTIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 618.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
