@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2026-06-10"
+last_updated: "2026-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -801,13 +801,17 @@ LXV. Crear, implementar, operar y actualizar Programas de apoyo en favor de los 
 
 LXVI. Celebrar convenios de colaboración con las Asociaciones Civiles de Usuarios y Sociedades de Responsabilidad Limitada de los distritos, unidades de riego y distrito de temporal tecnificado, así como con comunidades y usuarios del agua marginados, para trabajos de rehabilitación, conservación y mantenimiento de la infraestructura hidroagrícola;
 
-> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2026)</small>
 
-LXVII. Impulsar la gestión integral del agua en el ámbito de los Consejos de Cuenca integrados en el estado, mediante la organización de usuarios para la atención de la problemática del agua en cuencas y acuíferos; y
+LXVII. Impulsar la gestión integral del agua en el ámbito de los Consejos de Cuenca integrados en el estado, mediante la organización de usuarios para la atención de la problemática del agua en cuencas y acuíferos;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2026)</small>
+
+LXVIII. Implementar, en el ámbito de su competencia, acciones de prevención, mitigación y atención ante situaciones de sequía y escasez hídrica, mediante la emisión de alertas tempranas, la elaboración de diagnósticos hidrométricos periódicos, la adopción de medidas de uso eficiente del agua y la ejecución de protocolos de abastecimiento emergente de agua potable para garantizar su acceso prioritario para consumo humano; y
 
 (ADICIONADA, P.O. 16 DE JUNIO DE 2011) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LXVIII. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
+LXIX. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
@@ -4010,6 +4014,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 10 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1068 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1407 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXVII, Y SE ADICIONA UNA FRACCIÓN LXVIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE AL ARTÍCULO 6 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
