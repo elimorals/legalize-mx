@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-los-fideicomisos-instituidos-en-113701"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-03-30"
-last_updated: "2024-10-21"
+last_updated: "2026-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113701&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2026-10-05"
 
 ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE OCTUBRE DE 2026.
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 30 de marzo de 2016.
 
@@ -296,19 +296,45 @@ V. Atender a las instancias fiscalizadoras externas en las auditorías y requeri
 
 VI. Suscribir en ausencia del Titular de la Contraloría Interna la información financiera cuya fecha de entrega tenga término, para dar cumplimiento a las obligaciones que establezca la Comisión Nacional Bancaria y de Valores.
 
-> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-Artículo 14 bis.- La Subdirección de Proyectos y Estrategia tiene como objetivo administrar el seguimiento de la estrategia institucional, los proyectos relevantes de la Institución, así como establecer y coordinar la estrategia y operación de los Centros de Desarrollo Tecnológico y tiene las siguientes funciones:
+Artículo 14 bis.- La Subdirección de Proyectos y Estrategia tiene como objetivo administrar el seguimiento de la estrategia institucional, los proyectos relevantes de la Institución, así como establecer y coordinar la estrategia y operación de los Centros de Desarrollo Tecnológico, asimismo, proponer y diseñar estrategias, acciones y mecanismos de mercadotecnia y comunicación institucional para fortalecer el posicionamiento de FIRA y tiene las siguientes funciones:
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2021)</small>
 
 I. Diseñar e implementar el proceso de administración de la estrategia Institucional.
 
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
 II. Efectuar el seguimiento a la planeación estratégica de la Institución mediante la coordinación con las Unidades Administrativas de la Institución responsables de su implementación.
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2021)</small>
 
 III. Elaborar análisis e informes periódicos de seguimiento a la estratégica (sic), identificando desviaciones y observaciones.
 
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
 IV. Llevar a cabo el seguimiento a los principales proyectos de la institución mediante la aplicación de metodologías y herramientas que permitan la efectiva gestión de los mismos.
 
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
 V. Establecer y coordinar la estrategia y operación de los Centros de Desarrollo Tecnológico integrándolos a los proyectos institucionales de FIRA
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+VI. Coordinar e impulsar el desarrollo de acciones de mercadeo, difusión y promoción de los programas, productos y servicios de FIRA, en vinculación con intermediarios financieros y acreditados finales, así como con las áreas de mercadotecnia de dichos intermediarios, a fin de identificar oportunidades para su desarrollo y promoción e implementar las políticas de comunicación correspondientes.
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+VII. Coordinar las actividades de comunicación relacionadas con la celebración de convenios, acuerdos, acciones y oportunidades de cooperación, en coordinación con las diferentes unidades administrativas, así como fungir como medio de comunicación de los compromisos y resultados que deriven de dichos instrumentos.
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+VIII. Coordinar la elaboración, ejecución y seguimiento del Plan Estratégico de Comunicación y de Mercadotecnia de los programas, productos y servicios de FIRA, incluyendo la realización de estudios de mercado para la identificación de oportunidades de negocio, así como proponer y administrar la imagen institucional conforme a las disposiciones normativas en materia de comunicación.
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+IX. Elaborar, administrar y dar seguimiento al presupuesto en materia de comunicación, mercadeo, promoción y publicidad de los programas, productos y servicios de FIRA, así como supervisar la medición y evaluación del impacto de las campañas y acciones de comunicación.
 
 > <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2021)</small>
 
@@ -332,27 +358,33 @@ V. Administrar y proponer las estrategias y políticas, en conjunto con las unid
 
 DE LAS DIRECCIONES GENERALES ADJUNTAS
 
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
 ###### Artículo 15.
 
-La Dirección General Adjunta de Administración y Jurídica tiene como objetivo optimizar la administración de los recursos humanos y materiales a fin de proveer a FIRA de los recursos necesarios para el ejercicio de sus funciones; coordinar las acciones jurídicas para que el actuar de FIRA se lleve a cabo en cumplimiento de las disposiciones legales y normativas que le sean aplicables; así como coordinar el proceso integral de seguimiento y rescate de garantías pagadas y la recuperación de todos los derechos de cobro y tiene las siguientes funciones:
+La Dirección General Adjunta de Administración y Jurídica tiene como objetivo optimizar la administración de los recursos humanos y materiales a fin de proveer a FIRA de los recursos necesarios para el ejercicio de sus funciones; coordinar las acciones jurídicas para que el actuar de FIRA se lleve a cabo en cumplimiento de las disposiciones legales y normativas que le sean aplicables; así como coordinar la recuperación de activos, garantías pagadas y demás derechos de cobro y tiene las siguientes funciones:
 
 I. Representar legalmente a FIRA.
 
-II. Coordinar las acciones legales y brindar asesoría jurídica a FIRA.
+II. Coordinar la actualización de la Estructura Orgánica y del Estatuto Orgánico.
 
-III. Coordinar el proceso integral de seguimiento y rescate de garantías pagadas y la recuperación de todos los derechos de cobro de FIRA.
+III. Coordinar, administrar, supervisar el diseño, autorizar y en el caso que proceda someter ante las instancias correspondientes la aprobación de: normas, programas en materia de administración de recursos humanos y materiales, así como políticas y procedimientos en materia administrativa, cultura organizacional, servicios generales, seguridad física, protección civil, y todo aquello que sea necesario para la correcta administración de FIRA.
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2021)</small>
-
-I (SIC). Coordinar las acciones para el cumplimiento de las obligaciones establecidas en la legislación y normativa aplicable en materia de acceso a la información, transparencia y protección de datos personales.
+IV. Dirigir la administración de los recursos humanos, materiales y servicios generales.
 
 V. Coordinar la elaboración, implementación, evaluación y seguimiento de los programas y medidas aplicables a los presupuestos autorizados a FIRA para el ejercicio del gasto corriente e inversión física con base en las disposiciones legales aplicables.
 
 VI. Suscribir, rescindir y dar por terminados los contratos y convenios en materia de adquisiciones, arrendamientos, servicios, obra pública; así como los contratos de trabajo con el personal al servicio de FIRA.
 
-VII. Coordinar, administrar, diseñar, autorizar y en su caso someter ante las instancias correspondientes las normas, políticas, programas y procedimientos para su implementación en materia jurídica, recuperación, recursos humanos, recursos materiales, estructura orgánica, estatuto orgánico, cultura organizacional, servicios generales, seguridad física, protección civil, así como todo aquello que sea necesario para la correcta administración de FIRA.
+VII. Conducir la función jurídica institucional, coordinar y supervisar las acciones legales idóneas para salvaguardar los intereses jurídicos de FIRA, así como brindar asesoría jurídica a FIRA.
 
-VIII. Coordinar, administrar y participar en el funcionamiento y formalización de los Comités correspondientes.
+VIII. Coordinar jurídicamente la emisión de normativa interna institucional, y supervisar el diseño que lleve a cabo las diversas áreas de FIRA, brindado apoyo para que la sometan a la autorización de los Órganos Colegiados de FIRA.
+
+IX. Supervisar que se lleve a cabo la recuperación de activos, garantías pagadas y demás derechos de cobro.
+
+X. Coordinar las acciones para el cumplimiento de las obligaciones establecidas en la legislación y normativa aplicable en materia de acceso a la información pública, transparencia y protección de datos personales.
+
+XI. Coordinar, administrar y participar en el funcionamiento y formalización de los Comités correspondientes.
 
 ###### Artículo 16.
 
@@ -362,123 +394,209 @@ I. Dirección Jurídica y de Recuperación.
 
 II. Dirección de Administración.
 
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
 ###### Artículo 17.
 
-La Dirección Jurídica y de Recuperación tiene como objetivo coordinar las acciones para el cumplimiento de las disposiciones legales y normativas que deban aplicarse a FIRA, así como coordinar el proceso integral de seguimiento y rescate de garantías pagadas y la recuperación de todos los derechos de cobro de FIRA y tiene las siguientes funciones:
+La Dirección Jurídica y de Recuperación tiene como objetivo implementar las acciones para el cumplimiento de las disposiciones legales y normativas que deban aplicarse a FIRA, es la responsable de la defensa de la Institución ante las autoridades jurídicas y administrativas, ejecuta la recuperación de activos, garantías pagadas y demás derechos de cobro a favor de FIRA, y lleva a cabo la instrumentación jurídica de los programas institucionales, de los asuntos jurídico financieros, normativos y de los comités correspondientes en FIRA y tiene las siguientes funciones:
 
-I. Representar legalmente a FIRA, coordinar las acciones legales y la elaboración de contratos, convenios y demás instrumentos jurídicos así como asesorar a las unidades administrativas de FIRA.
+I. Representar legalmente a FIRA, implementar las acciones legales, autorizar la elaboración de contratos, convenios y demás instrumentos jurídicos, así como asesorar a las unidades administrativas de FIRA.
 
-II. Coordinar las acciones para la recuperación de la cartera judicial, el seguimiento y recuperación de garantías pagadas y de otros derechos de cobro de FIRA.
+II. Atender las consultas jurídicas que le sean formuladas por las unidades administrativas de FIRA o por su superior jerárquico.
 
-III. Implementar las acciones jurídicas para la elaboración, autorización y emisión de normativa, así como dar cumplimiento al marco legal y normativo aplicable a FIRA.
+III. Instruir las acciones para la recuperación de activos, el seguimiento y recuperación de garantías pagadas y de otros derechos de cobro de FIRA.
 
-IV. Coordinar, administrar y participar en las labores jurídicas para el funcionamiento y formalización de los Comités correspondientes.
+IV. Implementar las acciones jurídicas para la elaboración, autorización y emisión de normativa, así como dar cumplimiento al marco legal y normativo aplicable a FIRA.
 
-V. Suscribir, rescindir y dar por terminados los contratos y convenios en los que participa FIRA, incluyendo los contratos en materia laboral y administrativa.
+V. Realizar, administrar y participar en las labores jurídicas para el funcionamiento y formalización de los Comités correspondientes.
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+VI. Suscribir, rescindir y dar por terminados los contratos y convenios en los que participa FIRA, incluyendo los contratos en materia laboral, administrativa y financiera.
 
-VI. Coordinar las acciones para el cumplimiento de las obligaciones establecidas en la legislación y normativa aplicable en materia de acceso a la información, transparencia y protección de datos personales.
+VII. Ejecutar las acciones para el cumplimiento de las obligaciones establecidas en la legislación y normativa aplicable en materia de acceso a la información pública, transparencia y protección de datos personales.
 
-VII. Asesorar en la atención de observaciones y requerimientos de instancias fiscalizadoras.
+VIII. Asesorar a las diversas áreas y atender las observaciones y requerimientos de instancias fiscalizadoras.
 
 ###### Artículo 18.
 
 La Dirección Jurídica y de Recuperación tiene adscritas las siguientes unidades administrativas:
 
-I. Subdirección Jurídica de Asuntos Administrativos.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-II. Subdirección Jurídica de Asuntos Contenciosos.
+I. Subdirección Jurídica Financiera y Regulación Institucional.
 
-III. Subdirección Jurídica de Asuntos Financieros.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+II. Subdirección Jurídica Contenciosa.
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+III. Subdirección Jurídica Corporativa, Regulatoria y de Transparencia.
 
 IV. Subdirección de Comités.
 
-V. Subdirección de Cobranza y Seguimiento a Garantías Pagadas.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+V. Subdirección Jurídica Operativa y de Recuperación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 19.
 
-La Subdirección Jurídica de Asuntos Administrativos tiene como objetivo asesorar y dar apoyo jurídico en materia administrativa y tiene las siguientes funciones:
+La Subdirección Jurídica Financiera y Regulación Institucional tiene como objetivo asesorar y dar apoyo jurídico a las distintas áreas de FIRA en materia normativa interna con apego del marco jurídico institucional y tiene las siguientes funciones:
 
 I. Representar legalmente a FIRA en términos de los poderes conferidos.
 
-II. Elaborar los contratos, convenios y demás instrumentos jurídicos de colaboración con los distintos organismos, dependencias, entidades y en general con cualquier persona moral, así como los relacionados con las adquisiciones, arrendamientos, servicios, enajenación de bienes inmuebles y muebles, obra pública, capacitación del personal, laborales y demás actividades referentes a la administración interna de FIRA.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-III. Atender los requerimientos y consultas que se le formulen y las que le sean turnadas por su superior jerárquico.
+II. Atender las consultas jurídicas que le sean formuladas por las unidades administrativas de FIRA o por su superior jerárquico.
 
-IV. Emitir opinión en la elaboración, autorización, emisión y publicación de manuales, procedimientos, acuerdos, circulares y normativa interna, así como el estudio y análisis de las disposiciones legales de interés y del marco jurídico institucional.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-V. Administrar el Catálogo de Poderes Notariales o Mandatos otorgados al personal de FIRA, y de los representantes de FIRA ante instancias externas.
+III. Elaborar, revisar, actualizar y, en su caso, validar los contratos, convenios y demás instrumentos jurídicos vinculados con las operaciones de deuda, así como financiamiento que la institución celebre con entidades nacionales e internacionales.
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-VI. Realizar las acciones para el cumplimiento de las obligaciones establecidas en la legislación y normativa aplicable en materia de acceso a la información, transparencia y protección de datos personales.
+IV. Analizar jurídicamente esquemas estructurados y mecanismos de operación en los que intervenga FIRA.
 
-VIII. Asesorar en la atención de observaciones y requerimientos de instancias fiscalizadoras.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+V. Participar en el análisis jurídico de las operaciones vinculadas con la administración del patrimonio y obligaciones financieras que asuma FIRA.
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+VI. Llevar el control y seguimiento de los contratos y convenios que realicen en el ámbito de sus funciones.
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+VII. Coadyuvar, revisar analizar, emitir opinión, así como dar el visto bueno en la elaboración, autorización, emisión y publicación de manuales de operación, normativa interna, que realicen las demás áreas de FIRA conforme al marco jurídico institucional.
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+VIII. Asesorar a las diversas áreas y atender las observaciones y requerimientos de instancias fiscalizadoras.
+
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 20.
 
-La Subdirección Jurídica de Asuntos Contenciosos tiene como objetivo llevar a cabo las acciones legales de FIRA ante las autoridades judiciales y/o administrativas en defensa y protección de sus intereses y tiene las siguientes funciones:
+La Subdirección Jurídica Contenciosa tiene como objetivo llevar a cabo las acciones legales de FIRA ante las autoridades judiciales y/o administrativas en defensa y protección de sus intereses y tiene las siguientes funciones:
 
 I. Representar legalmente a FIRA en términos de los poderes conferidos.
 
-II. Llevar a cabo las actividades de cobranza extrajudicial y judicial.
+II. Atender los requerimientos y consultas que se le formulen y las que le sean turnadas por su superior jerárquico.
 
-III. Llevar el control y seguimiento a las actividades que realicen los prestadores de servicios externos en materia administrativa y judicial.
+III. Llevar a cabo las actividades de cobranza extrajudicial y judicial.
 
-IV. Atender los requerimientos y consultas que se le formulen y las que le sean turnadas por su superior jerárquico.
+IV. Llevar el control y seguimiento a las actividades que realicen los prestadores de servicios externos en materia administrativa y judicial.
 
 V. Rescindir y dar por terminados los contratos, convenios e instrumentos jurídicos celebrados por FIRA en materia de crédito, fondeo, adquisiciones, arrendamientos, servicios, obra pública y en general de cualquier instrumento contractual en que participe FIRA.
 
 VI. Dar por terminados los contratos de trabajo celebrados con los empleados de FIRA, así como representar a ésta en los casos de terminación de la relación laboral ante la autoridad competente.
 
-VII. Asesorar en la atención de observaciones y requerimientos de instancias fiscalizadoras.
+VII. Asesorar a las diversas áreas y atender las observaciones y requerimientos de instancias fiscalizadoras.
+
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 21.
 
-La Subdirección Jurídica de Asuntos Financieros tiene como objetivo dar asesoría y determinar las acciones jurídicas para llevar a cabo la operación financiera de FIRA y tiene las siguientes funciones:
+La Subdirección Jurídica Corporativa, Regulatoria y de Transparencia tiene como objetivo brindar asesoría y determinar las acciones jurídicas necesarias para llevar a cabo la formalización de los contratos de servicios y programas de apoyo de FIRA que se prestan a los intermediarios financieros así como analizar las iniciativas legislativas del Poder Ejecutivo o Legislativo; los decretos, acuerdos y demás disposiciones normativas o programas publicados en el Diario Oficial de la Federación y la regulación emitida por las autoridades administrativas competentes. De igual forma, atenderá los requerimientos en materia de acceso a la información pública, transparencia y protección de datos personales; y llevará el registro y la actualización de los apoderados de FIRA y tiene las siguientes funciones:
 
 I. Representar legalmente a FIRA en términos de los poderes.
 
 II. Atender los requerimientos y consultas que se le formulen y las que le sean turnadas por su superior jerárquico.
 
-III. Elaborar los instrumentos jurídicos que se requieran para salvaguardar la legalidad de las operaciones relacionadas con los asuntos jurídicos financieros.
+III. Elaborar, revisar, actualizar y, en su caso validar los contratos, convenios y demás instrumentos jurídicos de colaboración que celebre FIRA con Dependencias, Entidades de la Administración Pública Federal, Gobiernos Estatales o Municipales.
 
-IV. Elaborar los instrumentos jurídicos que se requieran para salvaguardar la legalidad de los programas de FIRA y su instrumentación.
+IV. Elaborar, revisar, actualizar y, en su caso validar los contratos, convenios y demás instrumentos jurídicos necesarios para salvaguardar la legalidad y la integridad de FIRA en las operaciones relacionadas con los servicios de fondeo y garantía, que celebre FIRA con intermediarios financieros, Dependencias y Entidades de la Administración Pública Federal, Gobiernos Estatales o Municipales y demás instancias participantes.
 
-V. Llevar el control y seguimiento a las actividades que realicen los prestadores de servicios externos en materia jurídica administrativa y financiera.
+V. Llevar el control y seguimiento de los contratos y convenios que realicen en el ámbito de sus funciones.
+
+VI. Revisar, analizar y difundir las disposiciones legales y normativas de interés para el marco jurídico institucional.
+
+VII. Revisar, analizar y difundir las iniciativas de ley, publicadas por el Poder Legislativo en las respectivas gacetas legislativas que incidan en la operación de FIRA.
+
+VIII. Ejecutar las acciones necesarias para el cumplimiento de las obligaciones previstas en la legislación y normativa aplicable en materia de acceso a la información pública, transparencia y protección de datos personales.
+
+IX. Administrar y actualizar el Catálogo de Poderes Notariales y Mandatos otorgados al personal de FIRA, así como el registro de representantes legales de FIRA ante instancias externas, asegurando su debida formalización, vigencia y control documental.
+
+X. Analizar y emitir su opinión respecto de los aspectos jurídicos y en su caso, coadyuvar en el diseño de nuevos programas institucionales que desarrollen las otras áreas de FIRA.
+
+XI. Asesorar a las diversas áreas y atender las observaciones y requerimientos de instancias fiscalizadoras.
 
 ###### Artículo 22.
 
 La Subdirección de Comités tiene como objetivo coordinar el funcionamiento de los Comités Técnicos y otros Comités en los que la Dirección Jurídica y la Subdirección de Comités atienden el secretariado respectivo y tiene las siguientes funciones:
 
-I. Vigilar el cumplimiento al marco legal y normativo aplicable en el funcionamiento de los Comités Técnicos y otros Comités y coordinar la operación y seguimiento al cumplimiento de los acuerdos de los mismos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-II. Administrar y coordinar los asuntos que serán presentados en las sesiones de los Comités Técnicos y otros Comités y hacerlos del conocimiento de los miembros cumpliendo con las disposiciones legales y normativas.
+I. Atender los requerimientos y consultas que se le formulen y las que le sean turnadas por su superior jerárquico.
 
-III. Levantar y custodiar las actas, cuadernos y material de audio de las sesiones en apego a las reglas de operación correspondientes.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-IV. Integrar el informe de seguimiento de acuerdos e informar del avance y su cumplimiento a los miembros de los Comités.
+II. Vigilar el cumplimiento al marco legal y normativo aplicable en el funcionamiento de los Comités Técnicos y otros Comités y coordinar la operación y seguimiento al cumplimiento de los acuerdos de estos.
 
-V. Atender las consultas y requerimientos sobre el funcionamiento y asuntos relacionados con los Comités Técnicos y otros Comités en los que la Dirección Jurídica y la Subdirección de Comités atienden el secretariado respectivo.
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+III. Administrar y coordinar los asuntos que serán presentados en las sesiones de los Comités Técnicos y otros Comités y hacerlos del conocimiento de los miembros cumpliendo con las disposiciones legales y normativas.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+IV. Levantar y custodiar las actas, cuadernos y material de audio de las sesiones en apego a las reglas de operación correspondientes.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+V. Integrar el informe de seguimiento de acuerdos e informar del avance y su cumplimiento a los miembros de los Comités.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+VI. Atender las consultas y requerimientos sobre el funcionamiento y asuntos relacionados con los Comités Técnicos y otros Comités en los que la Dirección Jurídica y la Subdirección de Comités atienden el secretariado respectivo.
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+VII. Asesorar a las diversas áreas y atender las observaciones y requerimientos de instancias fiscalizadoras.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 23.
 
-La Subdirección de Cobranza y Seguimiento a Garantías Pagadas tiene como objetivo implementar las acciones jurídico-normativas para la recuperación de garantías pagadas y otros derechos de cobro y tiene las siguientes funciones:
+La Subdirección Jurídica Operativa y de Recuperación tiene como objetivo asesorar y dar apoyo jurídico a las demás áreas de FIRA, en materia administrativa; realizar los instrumentos jurídicos para la reestructuración de reconocimientos de adeudo o mediación de los contratos servicios de fondeo y garantía; implementar las acciones jurídico-normativas para la recuperación de activos, garantías pagadas y demás derechos de cobro a favor de FIRA y tiene las siguientes funciones:
 
 I. Representar legalmente a FIRA en términos de los poderes conferidos.
 
-II. Administrar, analizar y dar seguimiento a la cobranza administrativa, extrajudicial y judicial de las garantías pagadas a los intermediarios financieros.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-III. Analizar y opinar sobre los tratamientos de cartera a garantías pagadas y otros derechos de cobro, daciones en pago de bienes y derechos, para su presentación al Comité correspondiente.
+II. Administrar, ejecutar y dar seguimiento a la cobranza administrativa, extrajudicial y judicial de las garantías pagadas a los intermediarios financieros.
 
-IV. Autorizar el registro de antecedentes de crédito y/o garantías en el sistema informático institucional y administrar la información institucional para las sociedades de información crediticia.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+III. Analizar, opinar, llevar el control y seguimiento sobre los tratamientos de cartera a garantías pagadas y otros derechos de cobro, daciones en pago de bienes y derechos, para su presentación al Comité correspondiente.
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+IV. Administrar y llevar el control del registro de antecedentes de crédito y/o garantías en el sistema informático institucional y administrar la información institucional para las sociedades de información crediticia.
 
 V. Atender los requerimientos y consultas que se le formulen y las que le sean turnadas por su superior jerárquico.
 
 VI. Realizar la cobranza administrativa y extrajudicial de otros derechos de cobro de FIRA.
 
-VII. Elaborar los instrumentos jurídicos que se requieran para salvaguardar la legalidad de los esquemas de saneamiento.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+VII. Elaborar, revisar, actualizar y, en su caso, validar los contratos, convenios y demás instrumentos jurídicos que se requieran para salvaguardar la legalidad de los esquemas de saneamiento.
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+VIII. Elaborar, revisar, actualizar y en su caso validar los contratos, convenios y demás instrumentos jurídicos vinculados con adquisiciones, arrendamientos, prestación de servicios, enajenación de bienes muebles e inmuebles, obra pública, capacitación del personal, relaciones laborales y demás actos inherentes a la administración interna de FIRA.
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+IX. Llevar el control y seguimiento de los contratos y convenios que realicen en el ámbito de sus funciones.
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+X. Asesorar a las diversas áreas y atender las observaciones y requerimientos de instancias fiscalizadoras.
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+XI. Elaborar, revisar, actualizar y, en su caso validar los contratos, convenios y demás instrumentos jurídicos necesarios para salvaguardar la legalidad y la integridad de FIRA en las operaciones relacionadas con la restructuración de reconocimientos de adeudo o mediación de los contratos de los servicios de fondeo y garantía, que celebre FIRA con intermediarios financieros, Dependencias y Entidades de la Administración Pública Federal, Gobiernos Estatales o Municipales y demás instancias participantes.
 
 ###### Artículo 24.
 
@@ -982,7 +1100,9 @@ I. Coordinar el diseño e implementación de normas y políticas para la evaluac
 
 II. Coordinar el diseño e implementación de normas, políticas y estrategias para la operación de los créditos y servicio de garantías de FIRA, así como para la supervisión y monitoreo de los intermediarios financieros, y la supervisión a los acreditados y beneficiarios en sus operaciones de crédito, servicio de garantías y apoyos.
 
-III. Coordinar las acciones para proponer cambios a las facultades de autorización de los productos y servicios de FIRA, y analizar y autorizar los productos y servicios en materia de crédito, servicio de garantías y apoyos de FIRA.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+III. Coordinar las acciones para proponer cambios a las facultades de autorización de los productos y servicios de FIRA, y analizar y autorizar los productos y servicios en materia de crédito y servicio de garantías de FIRA.
 
 IV. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2017)
 
@@ -996,17 +1116,23 @@ II. Dirección de Crédito.
 
 III. Dirección de Supervisión y Monitoreo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
 ###### Artículo 65.
 
-La Dirección de Enlace con Intermediarios Financieros tiene como objetivo diseñar las estrategias, políticas y metodologías para la evaluación, admisión, y registro, análisis del desempeño, y tratamiento de los intermediarios financieros que operen de forma directa con FIRA y tiene las siguientes funciones:
+La Dirección de Enlace con Intermediarios Financieros tiene como objetivo diseñar las estrategias, políticas y metodologías para la evaluación, admisión, registro, análisis del desempeño, y tratamiento de los intermediarios financieros que operen de forma directa con FIRA y tiene las siguientes funciones:
 
-I. Establecer el diseño e implementación de políticas, metodologías y procedimientos para evaluar y autorizar el registro de intermediarios financieros, así como evaluar y analizar el desempeño de aquellos que ya operan de manera directa con FIRA para establecer acciones preventivas y correctivas que deriven en su fortalecimiento.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+I. Establecer el diseño e implementación de políticas, metodologías y procedimientos para evaluar y autorizar el registro de intermediarios financieros, así como evaluar y analizar el desempeño de aquellos que ya operan de manera directa con FIRA, para establecer acciones preventivas y correctivas que deriven en su fortalecimiento.
 
 II. Establecer el diseño e implementación de políticas, metodologías y procedimientos para proponer esquemas de saneamiento mediante reestructuras operativas y/o financieras que requieran los intermediarios financieros, así como dar seguimiento a los esquemas aprobados e informar a los Organos Colegiados que correspondan.
 
 III. Coordinar a las unidades administrativas correspondientes para establecer las acciones de cobranza administrativa y extrajudicial de crédito.
 
-IV. Coordinar las acciones de enlace con las autoridades financieras y asociaciones de intermediarios financieros, así como gestionar las actualizaciones normativas con base en las necesidades identificadas.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+IV. Proponer las actualizaciones normativas con base en las necesidades identificadas, en la gestión de las funciones encomendadas.
 
 ###### Artículo 66.
 
@@ -1016,27 +1142,39 @@ I. Subdirección de Evaluación de Intermediarios Financieros.
 
 II. Subdirección de Tratamiento de Intermediarios Financieros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
 ###### Artículo 67.
 
-La Subdirección de Evaluación de Intermediarios Financieros tiene como objetivo diseñar y aplicar las políticas, metodologías y procedimientos para evaluar, autorizar el registro y analizar el desempeño de los intermediarios financieros que operen de forma directa con FIRA y tiene las siguientes funciones:
+La Subdirección de Evaluación de Intermediarios Financieros tiene como objetivo diseñar y aplicar las políticas, metodologías, procedimientos y herramientas para evaluar, autorizar el registro y analizar el desempeño de los intermediarios financieros que operen de forma directa con FIRA y tiene las siguientes funciones:
 
 I. Diseñar e implementar políticas, metodologías y procedimientos para evaluar y autorizar el registro de intermediarios financieros para que operen de manera directa con FIRA.
 
-II. Evaluar el desempeño de los intermediarios financieros en operación directa con FIRA y en su caso informar a las unidades administrativas correspondientes sobre posibles riesgos en su operación.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+II. Evaluar el desempeño de los intermediarios financieros en operación directa con FIRA, a través de herramientas y sistemas que permitan identificar oportunamente riesgos en su operación informando en su caso a las unidades administrativas correspondientes.
 
 III. Definir estrategias de fortalecimiento del desempeño operativo y/o financiero de los intermediarios financieros en operación directa con FIRA, acciones preventivas y/ o correctivas; y dar seguimiento a las mismas.
 
-IV. Fungir como enlace con las autoridades financieras y asociaciones de intermediarios financieros; así como detectar necesidades de actualización normativa en materia de evaluación a intermediarios financieros.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+IV. Proponer las actualizaciones normativas, en materia de evaluación a intermediarios financieros, con base en las necesidades identificadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 68.
 
-La Subdirección de Tratamiento de Intermediarios Financieros tiene como objetivo diseñar y aplicar las políticas y procedimientos para implementar la cobranza administrativa y extrajudicial de créditos y esquemas de saneamiento de los intermediarios financieros que operen de forma directa con FIRA y tiene las siguientes funciones:
+La Subdirección de Tratamiento de Intermediarios Financieros tiene como objetivo diseñar y aplicar las políticas y procedimientos para implementar la cobranza administrativa y extrajudicial de créditos y esquemas de saneamiento o en su caso, esquemas de salida, de los intermediarios financieros que operen de forma directa con FIRA y tiene las siguientes funciones:
 
-1. Diseñar, proponer y coordinar la ejecución de esquemas de saneamiento para los intermediarios financieros, así como dar seguimiento al complimiento de los esquemas aprobados.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+I (SIC). Diseñar, proponer y coordinar la ejecución de esquemas de saneamiento o en su caso, esquemas de salida, para los intermediarios financieros, así como dar seguimiento al cumplimiento de los esquemas aprobados.
 
 2. Diseñar e implementar las políticas, metodologías y procedimientos para establecer las acciones de cobranza administrativa y extrajudicial de crédito del intermediario financiero.
 
-3. Realizar las acciones con las unidades administrativas correspondientes para implementar las estrategias de cobranza administrativa y extrajudicial de crédito.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+III (SIC). Realizar las acciones con las unidades administrativas correspondientes para implementar las estrategias de cobranza administrativa y extrajudicial de crédito de los intermediarios financieros en operación directa.
 
 ###### Artículo 69.
 
@@ -1046,7 +1184,9 @@ I. Establecer el diseño y ejecución de las normas y políticas para la operaci
 
 II. Establecer el diseño e implementación de la metodología de evaluación para la autorización de techos operativos de crédito y servicio de garantía.
 
-III. Emitir opinión y dictamen para la autorización de créditos, servicio de garantía, apoyos y tratamientos de cartera; así como emitir opinión sobre dispensas de rescates, penas convencionales y demás asuntos sometidos a consideración de los Comités de Crédito.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+III. Emitir opinión y dictamen para la autorización de créditos, servicio de garantía y tratamientos de cartera; así como emitir opinión sobre dispensas de rescates, penas convencionales y demás asuntos sometidos a consideración de los Comités de Crédito.
 
 IV. Coordinar, administrar y participar en las labores para el funcionamiento y formalización de los Comités de Crédito.
 
@@ -1070,11 +1210,17 @@ IV. Subdirección de Normatividad
 
 La Subdirección de Análisis de Crédito tiene como objetivo analizar y decidir sobre las operaciones de crédito y servicio de garantía y tiene las siguientes funciones:
 
-I. Coordinar el diseño, examinación de su desempeño, actualización y ejecución de las metodologías de evaluación de crédito.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-II. Evaluar y dictaminar solicitudes de crédito, otorgamiento del servicio de garantía, apoyos, tratamientos de cartera, dispensas de rescates y penas convencionales, y demás en la materia; así como de los asuntos sometidos a consideración de los Comités de Crédito.
+I. Coordinar el diseño, examinación de su desempeño, actualización y ejecución de las metodologías de evaluación de crédito de los riesgos ambientales y sociales.
 
-III. Realizar las acciones para el funcionamiento de los Comités de Crédito, gestionar la presentación de asuntos a su consideración y dar seguimiento a los acuerdos emitidos.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+II. Evaluar y dictaminar solicitudes de crédito, otorgamiento del servicio de garantía, tratamientos de cartera, dispensas de rescates y penas convencionales, y demás asuntos en la materia de crédito y servicio de garantía para los Comités de Crédito.
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+III. Realizar las acciones para el funcionamiento de los Comités de Crédito, gestionar la presentación de asuntos a su consideración y dar seguimiento a los acuerdos emitidos e informar sobre su operación ante organismos internos y externos de la Administración Pública Federal.
 
 IV. Fungir como enlace con las instituciones gubernamentales para gestionar los casos en materia de crédito que deban ser autorizados por el Comité de Crédito y Programas Especiales y los Comités Técnicos.
 
@@ -1086,23 +1232,41 @@ I. Diseñar, examinar el desempeño, actualizar y ejecutar las metodologías de 
 
 II. Evaluar y dictaminar las solicitudes de techos operativos de crédito y servicio de garantías e integrar el expediente de crédito de intermediarios financieros.
 
-III. Analizar y dictaminar la viabilidad financiera de los esquemas de saneamiento de intermediarios financieros que se presentan a los Comités correspondientes
+III. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 73.
 
-La Subdirección de Seguimiento y Análisis de Productos y Acreditados tiene como objetivo dar seguimiento, analizar y evaluar los productos, servicios de FIRA y acreditados para proponer adecuaciones normativas que mejoren la administración de riesgo en las operaciones de crédito, así como fortalecer y llevar el control de las estructuras externas involucradas en el análisis de crédito y tiene las siguientes funciones:
+La Subdirección de Seguimiento y Análisis de Productos y Acreditados tiene como objetivo dar seguimiento, analizar y evaluar los productos, servicios de FIRA y acreditados para proponer políticas, herramientas y en su caso adecuaciones normativas que fortalezcan la administración de riesgo en las operaciones de crédito y tiene las siguientes funciones:
 
-I. Realizar el seguimiento y análisis de los productos y servicios de FIRA, para en su caso, proponer adecuaciones normativas con la finalidad que éstos se orienten a las necesidades del sector y mejoren la gestión de riesgo de crédito.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-II. Analizar y dar seguimiento al desempeño de acreditados y grupos de riesgo que representen mayores saldos de crédito para identificar tendencias, desviaciones y en su caso implementar medidas que mejoren la gestión de riesgo de crédito
+I. Realizar el seguimiento y análisis de los productos y servicios de FIRA, para en su caso, proponer políticas, herramientas y adecuaciones normativas con la finalidad que éstos se orienten a las necesidades del sector y fortalezcan la gestión de riesgo de crédito.
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+II. Analizar y dar seguimiento al desempeño de acreditados y grupos de riesgo que representen mayores saldos de crédito o estratégicos para FIRA, a fin de segmentar, identificar tendencias, desviaciones y en su caso implementar medidas o herramientas que mejoren la gestión de riesgo de crédito.
 
 III. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2017)
 
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+IV. Participar con otras unidades administrativas en el análisis de riesgo de crédito asociado al diseño de nuevos productos y a la mejora de programas en operación, a fin de contribuir al cumplimiento del Programa Institucional y de los objetivos estratégicos de FIRA.
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+V. Gestionar la contratación y operación de servicios especializados de información y herramientas técnicas para la evaluación, seguimiento y administración del riesgo de crédito que le sean asignados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
 ###### Artículo 74.
 
-La Subdirección de Normatividad tiene como objetivo diseñar, aplicar y actualizar las normas y políticas de crédito, garantías y apoyos financieros y tiene las siguientes funciones:
+La Subdirección de Normatividad tiene como objetivo diseñar, aplicar y actualizar las normas y políticas de crédito y garantías y tiene las siguientes funciones:
 
-I. Diseñar, formalizar, implementar y actualizar las normas y políticas de crédito, garantías y apoyos financieros; así como atender consultas sobre su interpretación.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+I. Diseñar, formalizar, implementar y actualizar las normas y políticas de crédito y garantías; así como atender consultas sobre su interpretación.
 
 II. Dictaminar las consultas de elegibilidad que los intermediarios financieros realicen.
 
@@ -1123,6 +1287,10 @@ IV. Coordinar el diseño y aplicación de las políticas para dictaminar la apli
 V. Coordinar el dictamen de los resultados del monitoreo y supervisión de los intermediarios financieros, acreditados y beneficiarios; así como dar seguimiento de su situación e informar a las áreas y Comités respectivos.
 
 VI. Coordinar el diseño, implementación, aplicación de la metodología para certificación de Almacenes Generales de Depósito y de otros prestadores de servicios que participan con FIRA; así como coordinar la certificación, autorización y seguimiento a los planes de autocorrección.
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+VII. Implementar y autorizar un programa anual de supervisión de intermediarios financieros en función de su calidad crediticia y nivel de riesgo, así como de las propuestas de los Órganos Facultados de FIRA y de otras áreas.
 
 ###### Artículo 76.
 
@@ -1404,33 +1572,41 @@ IV. Diseñar e instrumentar la estrategia y contratación de productos derivados
 
 V. Elaborar metodologías para determinar las tasas de interés de la cartera de crédito a tasa fija y en dólares.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 97.
 
-La Dirección General Adjunta de Promoción de Negocios tiene como objetivo dirigir las estrategias para integrar y establecer el Plan Anual de Negocios, para identificar, diseñar, desarrollar, autorizar y ampliar la oferta de programas, productos y servicios, tendientes a facilitar el acceso al financiamiento, fortalecer la relación de negocios con intermediarios financieros y con empresas tractoras para promover y ampliar la inclusión financiera en el medio rural, dirigir las estrategias para establecer y ejecutar los planes de comunicación social, mercadotecnia y de enlace institucional, así como identificar, analizar y adoptar elementos de innovación tecnológica, financiera y geoespacial y tiene las siguientes funciones:
+La Dirección General Adjunta de Promoción de Negocios tiene como objetivo dirigir las estrategias para identificar, diseñar, desarrollar, instrumentar, autorizar y ampliar la oferta de programas, productos y servicios, tendientes a facilitar el acceso al financiamiento, fortalecer la relación de negocios con intermediarios financieros y con empresas tractoras para promover y ampliar la inclusión financiera en el medio rural, dirigir las estrategias de enlace institucional, así como impulsar la articulación del ecosistema de innovación tecnológica del sector agroalimentario y tiene las siguientes funciones:
 
-I. Dirigir las estrategias y acciones para establecer el Plan Anual de Negocios y proponerlo a la Dirección General, así como definir las acciones para su seguimiento.
+I. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
 
 II. Proponer y dirigir las estrategias y acciones para la identificación, diseño, desarrollo y ampliación de los programas, productos y servicios, así como su presentación a la Dirección General, tendientes a facilitar el acceso al financiamiento, atender áreas prioritarias para el desarrollo nacional, impulsar el desarrollo de negocios en el medio rural y aumentar la capacidad productiva, rentable y competitiva de la población prioritaria y su integración en las redes de valor.
 
 III. Dirigir y determinar las estrategias, normas y programas de capacitación para el desarrollo y fortalecimiento de los productores, intermediarios financieros y empresas de los sectores objetivos de FIRA, así como para incorporar nuevos intermediarios financieros, con el propósito de ampliar la inclusión financiera en el medio rural e identificar, desarrollar y fortalecer la relación de negocios con empresas tractoras.
 
-> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-IV. Definir las estrategias y programas para la formación, capacitación, actualización, registro, habilitación, fortalecimiento y certificación de los prestadores de servicios especializados en asistencia técnica, transferencia de tecnología y evaluación de proyectos, así como la calificación de los Almacenes Generales de Depósito como prestadores de servicios.
+IV. Definir las estrategias y programas para la formación, capacitación, actualización, registro, habilitación, fortalecimiento y certificación de los prestadores de servicios especializados en asistencia técnica y transferencia de tecnología y evaluación de proyectos.
 
 V. Proponer las estrategias y determinar las acciones en coordinación con las unidades administrativas correspondientes, para la celebración de convenios y alianzas estratégicas con entidades y dependencias del Gobierno Federal, así como con instituciones públicas y privadas para atender áreas prioritarias, aumentar los montos de financiamiento, la productividad, rentabilidad y competitividad del medio rural.
 
-VI. Dirigir las estrategias y acciones para establecer y ejecutar el plan de comunicación social para administrar la imagen institucional, las relaciones con los medios de comunicación y la difusión de los compromisos y resultados de FIRA; así como el plan de mercadotecnia a nivel nacional y elaborar campañas de difusión y publicidad para promover y posicionar los programas, productos y servicios de FIRA.
+VI. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
 
 VII. Dirigir las estrategias y acciones de enlace institucional para el establecimiento de acuerdos, acciones y oportunidades de cooperación con entidades y dependencias del Gobierno Federal, así como con instituciones públicas y privadas, en coordinación con las diferentes unidades administrativas de FIRA.
 
 VIII. Dirigir y establecer las estrategias y acciones para la creación y modificación de las Reglas de Operación de los apoyos que otorga FIRA, así como proponerlas a la Dirección General, con el propósito de facilitar el acceso al financiamiento en el medio rural y aumentar su competitividad.
 
-> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-IX. Coordinar la identificación, análisis y el desarrollo de planes de adopción de los elementos y herramientas tecnológicas, financieras y geoespaciales en los procesos internos de prospección, otorgamiento, monitoreo y supervisión de créditos, para coadyuvar en la gestión de riesgos y provisión de asesoría técnica inteligente entre los intermediarios financieros y acreditados y beneficiarios finales y población en general.
+IX. Dirigir la articulación y fortalecimiento del ecosistema de innovación tecnológica del sector agroalimentario, así como coordinar las acciones relacionadas con la obtención, integración y análisis de información tecnológica y territorial, orientadas a la promoción de la innovación y la inclusión tecnológica en el medio rural.
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+X. Dirigir la instrumentación y consolidación de esquemas, programas, productos y soluciones financieras hasta su maduración institucional.
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+XI. Proponer y contribuir en la elaboración, revisión y actualización de las normas y políticas de crédito, garantías y apoyos financieros de FIRA, en coordinación con otras unidades administrativas.
 
 ###### Artículo 98.
 
@@ -1440,7 +1616,9 @@ I. Dirección de Atención Corporativa a Intermediarios Financieros.
 
 II. Dirección de Programas y Proyectos.
 
-III. Dirección de Desarrollo y Promoción de Productos y Servicios.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+III. Dirección de Innovación y Desarrollo de Productos y Servicios.
 
 ###### Artículo 99.
 
@@ -1452,7 +1630,7 @@ II. Establecer acciones que contribuyan a fortalecer la operación directa con I
 
 III. Coordinar las acciones para determinar la estrategia en el desarrollo de canales para fortalecer la operación con los intermediarios financieros.
 
-IV. Coordinar la atención y calificación de los Almacenes Generales de Depósito como prestadores de servicios.
+IV. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
 
 V. Vincular a los Intermediarios Financieros Bancarios y no Bancarios en oportunidades de negocio y proyectos viables con los productores que no cuenten con servicios financieros o tengan acceso insuficiente al financiamiento.
 
@@ -1470,7 +1648,9 @@ La Subdirección de Atención Corporativa a Intermediarios Financieros Bancarios
 
 I. Diseñar e implementar las acciones para identificar, proponer y dar seguimiento a la incorporación de nuevos intermediarios financieros bancarios a la operación con FIRA, así como fortalecer, dar seguimiento y ejecutar acciones de atención corporativa a la operación tanto de los nuevos intermediarios bancarios como de los ya existentes.
 
-II. Dar seguimiento en coordinación con otras unidades administrativas, a la operación y desempeño de los intermediarios financieros Bancarios, así como de las entidades masificadoras de crédito.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+II. Dar seguimiento en coordinación con otras unidades administrativas, a la operación y desempeño de los intermediarios financieros Bancarios.
 
 III. Identificar nuevos programas, productos y servicios, así como mejoras a los existentes para elevar la calidad de la operación de los Intermediarios Financieros Bancarios.
 
@@ -1480,7 +1660,9 @@ IV. Vincular a los Intermediarios Financieros Bancarios en oportunidades de nego
 
 La Subdirección de Atención Corporativa a Intermediarios Financieros No Bancarios tiene como objetivo instrumentar acciones para establecer, fortalecer y dar seguimiento a la relación de negocios a nivel corporativo con intermediarios financieros no bancarios en operación directa, así como de la incorporación de nuevos, para incentivar la inclusión financiera de la población objetivo de FIRA, e incrementar la operación y calidad de los programas, productos y servicios institucionales y tiene las siguientes funciones:
 
-I. Diseñar e implementar las acciones para identificar, proponer, fortalecer y dar seguimiento a la incorporación de nuevos intermediarios financieros no bancarios a la operación con FIRA, así como con los que ya operan, ejecutar acciones de atención corporativa y calificar a los Almacenes Generales de Depósito como prestadores de servicio.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+I. Diseñar e implementar las acciones para identificar, proponer, fortalecer y dar seguimiento a la incorporación de nuevos intermediarios financieros no bancarios a la operación con FIRA, así como con los que ya operan y ejecutar acciones de atención corporativa.
 
 II. Dar seguimiento en coordinación con otras unidades administrativas, a la operación y desempeño de los intermediarios financieros no Bancarios.
 
@@ -1506,7 +1688,11 @@ V. Coordinar el diseño e implementación de mecanismos de seguimiento y mejora 
 
 VI. Coordinar la actualización, registro, certificación y habilitación de prestadores de servicios especializados en asistencia técnica, transferencia de tecnología y evaluación de proyectos, la ejecución de los programas de formación y fortalecimiento para ellos, así como documentar, difundir y replicar los conocimientos y experiencias obtenidas.
 
-VII. Coordinar la integración y seguimiento del Plan Anual de Negocios en conjunto con las unidades administrativas correspondientes, así como proponer las medidas necesarias para asegurar su cumplimiento.
+VII. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+VIII. Coordinar las relaciones interinstitucionales en la celebración de convenios, acuerdos, acciones y oportunidades de cooperación, en coordinación con las diferentes unidades administrativas.
 
 ###### Artículo 104.
 
@@ -1528,7 +1714,7 @@ III. Dar seguimiento, en coordinación con otras unidades administrativas, a los
 
 IV. Documentar, difundir y replicar, en coordinación con otras unidades administrativas, el conocimiento y experiencia sobre tecnologías, modelos organizativos y de desarrollo exitosos logrados a través de empresas tractoras.
 
-V. Integrar en coordinación con otras unidades administrativas el Plan Anual de Negocios, darle seguimiento y proponer medidas para asegurar su cumplimiento.
+V. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
 
 ###### Artículo 106.
 
@@ -1544,29 +1730,31 @@ III. Elaborar e instrumentar la habilitación y certificación de prestadores de
 
 IV. Documentar, difundir y replicar, en coordinación con otras unidades administrativas, el conocimiento y experiencia sobre tecnologías, mecanismos de integración, modelos organizativos y desarrollo de proyectos exitosos.
 
-V. Integrar en coordinación con otras unidades administrativas el Plan Anual de Negocios, darle seguimiento y proponer medidas para asegurar su cumplimiento
+V. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
 
 VI. Instrumentar modelos organizativos, productivos, tecnológicos, financieros y de integración a las redes de valor a partir de los diagnósticos de mapeo de redes, así como coordinar el diseño y ejecución de programas de capacitación y asistencia técnica para incrementar la competitividad en el sector e inclusión financiera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 107.
 
-La Dirección de Desarrollo y Promoción de Productos y Servicios tiene como objetivo analizar, adoptar y procesar elementos de innovación tecnológica, financiera y geoespacial, diseñar nuevos programas, productos y servicios en coordinación con otras unidades administrativas dar seguimiento a su instrumentación, operación y evaluación tanto de los nuevos como de los ya existentes, así como aplicar estrategias de mercadotecnia para impulsarlos; establecer acciones y mecanismos de enlace institucional y administrar la política de comunicación y tiene las siguientes funciones:
+La Dirección de Innovación y Desarrollo de Productos y Servicios tiene por objeto coordinar el diseño, desarrollo e instrumentación de nuevos programas, productos y servicios, así como la mejora de los existentes, en coordinación con las unidades administrativas competentes e impulsar la articulación del ecosistema de innovación tecnológica del sector agroalimentario y tiene las siguientes funciones:
 
 I. Coordinar el diseño de programas, productos y servicios con las necesidades identificadas de Intermediarios Financieros y acreditados finales: por redes de valor, segmento de productores, regiones, esquemas de integración y modelos de negocios.
 
 II. Coordinar la gestión para autorizar, instrumentar, dar seguimiento a la operación y desempeño de los nuevos programas, productos y servicios, así como de aquellos que requieren mejoras.
 
-III. Coordinar el desarrollo de acciones para el mercadeo y difusión de los programas, productos y servicios para la promoción con intermediarios financieros y acreditados finales.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-IV. Coordinar las relaciones interinstitucionales en la celebración de convenios, acuerdos, acciones y oportunidades de cooperación, en coordinación con las diferentes unidades administrativas, así como ser el medio de comunicación de sus compromisos y resultados.
+III. Impulsar acciones que promuevan la articulación del ecosistema de innovación tecnológica del sector agroalimentario, así como coordinar la obtención, procesamiento y/o análisis de información tecnológica y territorial que fomenten la innovación e inclusión tecnológica del campo.
 
-V. Coordinar la elaboración, ejecución y seguimiento del Plan Estratégico de Comunicación y de Mercadotecnia de los programas, productos y servicios de FIRA, así como a la elaboración de los presupuestos correspondientes.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+IV. Coordinar la instrumentación y consolidación de esquemas, programas, productos y soluciones financieras hasta su maduración institucional.
 
-VI. Coordinar las labores de identificación, análisis, procesamiento y adopción de tendencias de innovación tecnológica, financiera y geoespacial para diseñar, desarrollar e implementar herramientas para soportar procesos internos e incrementar la gestión de riesgos en el portafolio de proyectos de FIRA, de los intermediarios financieros y acreditados y beneficiarios finales y población en general.
+V. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
+
+VI. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2021)</small>
 
@@ -1574,29 +1762,41 @@ VI. Coordinar las labores de identificación, análisis, procesamiento y adopci�
 
 La Dirección de Desarrollo y Promoción de Productos y Servicios tiene adscritas las siguientes unidades administrativas:
 
-I. Subdirección de Promoción de Productos y Servicios.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+I. Subdirección de Soluciones Financieras.
 
 II. Subdirección de Desarrollo de Productos y Servicios.
 
-> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-III. Subdirección de Desarrollo de Innovación Tecnológica
+III. Centro para la Innovación e Inclusión Tecnológica del Campo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 109.
 
-La Subdirección de Promoción de Productos y Servicios tiene como objetivo proponer y diseñar estrategias, acciones y mecanismos de mercadotecnia y comunicación institucional para fortalecer el posicionamiento de FIRA y tiene las siguientes funciones:
+La Subdirección de Soluciones Financieras tiene como objetivo instrumentar, implementar y consolidar esquemas, programas, productos y soluciones financieras hasta su maduración institucional, en coordinación con otras unidades administrativas, y tiene las siguientes funciones:
 
-I. Coadyuvar en las actividades de enlace institucional para la celebración de convenios, acuerdos, acciones y oportunidades de cooperación, en coordinación con las diferentes unidades administrativas, así como en la comunicación de sus compromisos y resultados.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-II. Elaborar, ejecutar y dar seguimiento al Plan Estratégico de Comunicación y de Mercadotecnia, incluyendo estudios de mercado para identificar oportunidades de negocio, así como proponer y administrar la imagen institucional de acuerdo a las disposiciones normativas en materia de comunicación.
+I. Implementar nuevos esquemas, programas, productos y soluciones financieras, asegurando su alineación con los objetivos estratégicos institucionales.
 
-III. Elaborar y administrar el presupuesto en materia de comunicación, promoción y publicidad así como supervisar la medición del impacto de las campañas.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-IV. Impulsar las relaciones con las áreas de mercadotecnia de los intermediarios financieros a fin de identificar oportunidades para el desarrollo y promoción de programas, productos y servicios; e implementar las políticas de comunicación.
+II. Coordinar con las unidades administrativas competentes la definición y atención de los requerimientos normativos, operativos, contractuales y tecnológicos necesarios para la correcta operación de los esquemas, programas, productos y soluciones financieras.
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+III. Supervisar y monitorear el desempeño de los esquemas, programas, productos y soluciones financieras de reciente creación, con base en sus resultados y en coordinación con las áreas competentes, y proponer acciones para su mejora o continuidad.
+
+IV. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 110.
 
-La Subdirección de Desarrollo de Productos y Servicios tiene como objetivo diseñar, gestionar e implementar nuevos programas, productos y servicios en coordinación con otras unidades administrativas en función de las necesidades identificadas en el mercado, así como mejoras a los ya existentes, dar seguimiento y evaluar su desempeño y tiene las siguientes funciones:
+La Subdirección de Desarrollo de Productos y Servicios tiene como objetivo diseñar, gestionar e implementar nuevos programas, productos y servicios en coordinación con otras unidades administrativas en función de las necesidades identificadas en el mercado, así como mejoras a los ya existentes y darles seguimiento y tiene las siguientes funciones:
 
 I. Diseñar programas, productos y servicios para atender a los sectores objetivos de FIRA con base en las necesidades identificadas de Intermediarios Financieros y acreditados finales.
 
@@ -1604,27 +1804,37 @@ II. Gestionar la autorización e instrumentación de los nuevos programas produc
 
 III. Dar seguimiento a la operación y evaluación del desempeño de los nuevos programas, productos y servicios, así como de los ya existentes.
 
-> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-Artículo 110 bis.- La Subdirección de Desarrollo de Innovación Tecnológica tiene como objetivo identificar, analizar, proponer, desarrollar, evaluar y divulgar, elementos y herramientas de innovación tecnológica, financiera, geoespacial y de percepción remota, para fortalecer los procesos internos de crédito, promoción e inteligencia, que sirvan para promover la administración de riesgos y asistencia técnica inteligente entre los intermediarios financieros y acreditados y beneficiarios finales y tiene las siguientes funciones:
+Artículo 110 bis.- El Centro para la Innovación e Inclusión Tecnológica del Campo tiene como objetivo impulsar acciones para la articulación del ecosistema de innovación tecnológica del sector agroalimentario, así como concentrar, procesar y analizar información tecnológica y territorial para orientar estrategias de innovación, decisiones institucionales e instrumentos en beneficio de productores y empresas, y tiene las siguientes funciones:
 
-I. Identificar, analizar y priorizar tendencias de innovación tecnológica y financiera, su potencial utilidad para FIRA y la situación actual del mercado en términos de tendencias y participantes, para soportar los procesos internos de prospección, promoción, otorgamiento, monitoreo y supervisión de créditos.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-II. Determinar, implementar y supervisar la adopción de las herramientas tecnológicas y financieras necesarias en la Institución para fortalecer a los procesos internos de prospección, promoción, otorgamiento, monitoreo y supervisión de créditos.
+I. Integrar información tecnológica, territorial y de adopción de productores y empresas, así como insumos analíticos que orienten decisiones institucionales e instrumentos de apoyo en beneficio del sector agroalimentario.
 
-III. Desarrollar, gestionar y dirigir la implementación de la estrategia Geoespacial en FIRA, referido a las modificaciones normativas, operativas y de proceso requeridas para la adopción y promoción Institucional de las herramientas geoespaciales y de percepción remota requeridas para fortalecer los procesos internos para la mejor gestión de riesgos y provisión de asistencia técnica de los intermediarios financieros y acreditados y beneficiarios finales.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-IV. Determinar e implementar las herramientas geoespaciales y de percepción remota en la Institución, que sirvan para fortalecer procesos internos de administración y supervisión de créditos con carácter preventivo entre los intermediarios financieros y acreditados finales.
+II. Fomentar la integración y organización de plataformas, datos y soluciones en un sistema funcional, actuando como polo de información que promueva la articulación del ecosistema de innovación del campo y la adopción tecnológica de productores, empresas e instituciones del sector agroalimentario y rural.
 
-V. Identificar y desarrollar elementos de vinculación y colaboración con otras Instituciones nacionales e internacionales, como Convenios de Colaboración, para fortalecer el desarrollo y la implementación de los elementos y herramientas en la estrategia Geoespacial de FIRA
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
-VI. Identificar y analizar herramientas, servicios y tendencias en el mercado geoespacial y de percepción remota.
+III. Impulsar la vinculación e integración con actores académicos, tecnológicos, productivos, sector privado y organismos multilaterales; así como informar y difundir datos e información estratégica que promuevan la innovación e inclusión tecnológica del campo.
+
+IV. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
+
+V. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
+
+VI. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2026)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 111.
 
-La Dirección General Adjunta de Coordinación de Regionales tiene como objetivo dirigir y establecer las estrategias y acciones a nivel nacional para la ejecución y cumplimiento del Plan Anual de Negocios a través de la venta, colocación e implementación de los programas, productos y servicios institucionales, representar a FIRA ante los Gobiernos de los Estados, dar seguimiento a la cartera de clientes e identificar oportunidades de negocio y nuevos intermediarios financieros para incrementar la promoción, el financiamiento, las capacidades y competencias de los productores y empresas del medio rural y tiene las siguientes funciones:
+La Dirección General Adjunta de Coordinación de Regionales tiene como objetivo dirigir y establecer las estrategias y acciones a nivel nacional para integrar, establecer, ejecutar y cumplir el Plan Anual de Negocios a través de la venta, colocación e implementación de los programas, productos y servicios institucionales, representar a FIRA ante los Gobiernos de los Estados, dar seguimiento a la cartera de clientes e identificar oportunidades de negocio y nuevos intermediarios financieros para incrementar la promoción, el financiamiento, las capacidades y competencias de los productores y empresas del medio rural y tiene las siguientes funciones:
 
-I. Dirigir y establecer las estrategias y acciones a nivel nacional para la ejecución y cumplimiento del Plan Anual de Negocios, así como participar en la elaboración del mismo.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2026)</small>
+
+I. Dirigir y establecer las estrategias y acciones a nivel nacional para integrar, establecer, ejecutar y cumplir el Plan Anual de Negocios, así como participar en la elaboración del mismo.
 
 II. Determinar las estrategias y acciones para proponer la creación y modificación de programas, productos y servicios institucionales para que sean adaptados, suficientes, oportunos y accesibles de acuerdo a las necesidades de las diferentes regiones del País.
 
@@ -2061,3 +2271,9 @@ D.O.F. 21 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA".]
 
 ÚNICO. - El presente Estatuto Orgánico, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DE LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA”.]
+
+ÚNICO.- Las modificaciones al Estatuto Orgánico, entrará (sic) en vigor una vez que se cuente con la aprobación y registro emitido por la Secretaría Anticorrupción y Buen Gobierno.
