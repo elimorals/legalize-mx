@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg481-2019-del-consejo-general-del-instituto-139169
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-11-22"
-last_updated: "2019-11-22"
+last_updated: "2026-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139169&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2019-11-06"
 
 MANUAL PARA RECABAR LA OPINIÓN Y EL CONSENTIMIENTO INFORMADO DE NIÑAS, NIÑOS Y ADOLESCENTES PARA LA UTILIZACIÓN DE SU IMAGEN O CUALQUIER DATO QUE LOS HAGA IDENTIFICABLES EN PROPAGANDA POLÍTICO-ELECTORAL Y MENSAJES ELECTORALES, ACTOS POLÍTICOS, ACTOS DE PRECAMPAÑA O CAMPAÑA A TRAVÉS DE CUALQUIER MEDIO DE DIFUSIÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LA ACTUALIZACIÓN DEL MANUAL PARA RECABAR LA OPINIÓN Y EL CONSENTIMIENTO INFORMADO DE NIÑAS, NIÑOS Y ADOLESCENTES PARA LA UTILIZACIÓN DE SU IMAGEN O CUALQUIER DATO QUE LOS HAGA IDENTIFICABLES EN PROPAGANDA POLÍTICO-ELECTORAL Y MENSAJES ELECTORALES, ACTOS POLÍTICOS, ACTOS DE PRECAMPAÑA O CAMPAÑA A TRAVÉS DE CUALQUIER MEDIO DE DIFUSIÓN PUBLICADA EN EL D.O.F. DE 6 DE OCTUBRE DE 2026, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2026.
 
 Manual publicado en el Diario Oficial de la Federación, el viernes 22 de noviembre de 2019.
 
@@ -74,3 +76,41 @@ https://www.ine.mx/sesion-extraordinaria-del-consejo-general-06-noviembre-2019/
 Página DOF
 
 www.dof.gob.mx/2019/INE/CGext201911_06_ap_8.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE OCTUBRE DE 2026.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN LOS LINEAMIENTOS Y ANEXOS PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN MATERIA POLÍTICO-ELECTORAL, EN ACATAMIENTO A LA SENTENCIA DICTADA EN LOS RECURSOS DE REVISIÓN DEL PROCEDIMIENTO ESPECIAL SANCIONADOR SUP-REP-893/2024 Y SU ACUMULADO SUP-REP-900/2024 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN.]</small>
+
+PRIMERO. Se aprueba la modificación a los Lineamientos para la Protección de Niñas, Niños y Adolescentes en materia de propaganda y mensajes electorales, aprobados mediante Acuerdos INE/CG20/2017, INE/CG508/2018 e INE/CG481/2019. Se agregan al presente y forman parte del mismo, los Lineamientos modificados como Anexo 2.
+
+SEGUNDO. Se aprueban las modificaciones al Manual para recabar la opinión y el consentimiento informado de niñas, niños y adolescentes para la utilización de su imagen o cualquier dato que los haga identificables en propaganda político-electoral y mensajes electorales, actos políticos o proselitistas, actos de precampaña o campaña a través de cualquier medio de difusión, mismo que forma parte de este Acuerdo como Anexo 3.
+
+TERCERO. Se aprueban las modificaciones a las guías metodológicas para realizar la conversación y recabar la opinión informada de las niñas, niños y adolescentes, las cuales se integran a este Acuerdo como Anexo 4.
+
+CUARTO. Los Partidos Políticos Nacionales o locales, candidaturas a cargos de elección popular, Autoridades Electorales y demás sujetos obligados deberán verificar que, en caso de recibir aportaciones en especie, que consistan en algún bien o servicio que conlleve la utilización de la imagen, voz o cualquier dato que haga identificable a niñas, niños o adolescentes, se cumpla con lo establecido en los Lineamientos para la protección de los derechos de niñas, niños y adolescentes en materia político-electoral.
+
+QUINTO. Las modificaciones a los presentes Lineamientos, la aprobación del Manual y las modificaciones a las guías metodológicas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEXTO. Se instruye a la Secretaría Ejecutiva para que, a través de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, notifique el presente Acuerdo a los Partidos Políticos Nacionales a fin de que por su conducto se haga del conocimiento de las organizaciones vinculadas a ellos; y a los Organismos Públicos Locales Electorales, a fin de que por su conducto se notifique a su vez a los partidos políticos con registro local para su conocimiento y a su vez, para que lo hagan del conocimiento de las organizaciones vinculadas a ellos.
+
+SÉPTIMO. Se instruye a la Secretaría Ejecutiva para que, a través de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, notifique el presente Acuerdo a las autoridades electorales federales y locales.
+
+OCTAVO. Se instruye a la Secretaría Ejecutiva de este Instituto a realizar las acciones necesarias a fin de informar a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, sobre el cumplimiento a la ejecutoria, dentro de las 24 horas siguientes de aprobado este Acuerdo
+
+NOVENO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la página electrónica del Instituto Nacional Electoral.
+
+El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 3 de septiembre de 2026, por votación unánime de las y los Consejeros Electorales, Maestro Arturo Castillo Loza, Maestro Arturo Manuel Chávez López, Maestra Blanca Yassahara Cruz García, Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona, Maestro José Martín Fernando Faz Mora, Maestra Frida Denisse Gómez Puga, Carla Astrid Humphrey Jordan, Maestra Rita Bell López Vences, Maestro Jorge Montaño Ventura y de la Consejera Presidenta, Licenciada Guadalupe Taddei Zavala.
+
+La Consejera Presidenta del Consejo General, Lic. Guadalupe Taddei Zavala.- Rúbrica.- La Secretaria del Consejo General, Dra. Claudia Arlett Espino.- Rúbrica.
+
+El Acuerdo y los anexos pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://portal.ine.mx/sesion-extraordinaria-del-consejo-general-03-de-septiembre-de-2026/
+
+Página DOF
+
+www.dof.gob.mx/2026/INE/CGext202609_03_ap_08.pdf
