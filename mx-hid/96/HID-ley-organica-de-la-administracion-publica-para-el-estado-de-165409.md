@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-165
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-03-31"
-last_updated: "2025-12-26"
+last_updated: "2026-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2026.
 
 Ley publicada en el Alcance Tres Número 13 del Periódico Oficial del Estado de Hidalgo, el viernes 31 de marzo de 2023.
 
@@ -142,6 +142,10 @@ IV.- Cuando sea necesario, la dotación de recursos para su funcionamiento.
 ###### Artículo 9.
 
 La Persona Titular del Poder Ejecutivo del Estado determinará los asuntos específicos en que las Dependencias y Entidades de la Administración Pública Estatal deban coordinarse entre sí, así como con las Administraciones Municipales y en el marco del Sistema Nacional de Planeación, con dependencias y entidades de la Administración Pública Federal, mediante la celebración de los acuerdos correspondientes.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+Como parte de la coordinación entre Dependencias y Entidades, éstas deberán proporcionar la información necesaria para el cumplimiento de sus atribuciones y objetivos institucionales, previa solicitud justificada, de conformidad con las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
@@ -997,11 +1001,15 @@ XXIX.- Las demás que en relación a su competencia, le señale la Persona Titul
 
 A la Secretaría de Contraloría, corresponde el despacho de los siguientes asuntos:
 
-I.- Planear, programar, establecer, organizar y coordinar el sistema de control y evaluación gubernamental; inspeccionar debidamente el ejercicio y evaluación del gasto público central y paraestatal y su congruencia con el presupuesto de egresos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+I.- Planear, programar, establecer, organizar y coordinar el sistema de control interno, evaluación y mejora de la gestión gubernamental; inspeccionar debidamente el ejercicio y evaluación del gasto público central y paraestatal y su congruencia con el Presupuesto de Egresos;
 
 II.- Expedir los criterios normativos que regulen el funcionamiento de los procedimientos de control de la Administración Pública Central y Paraestatal y requerir, de las Dependencias, la instrumentación de normas y procedimientos complementarios para el debido ejercicio de las facultades que aseguren el estricto control;
 
-III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como del ejercicio del gasto público de la Administración Pública Estatal, en congruencia con el Código Fiscal y el Presupuesto de Egresos, promoviendo las acciones necesarias para asesorar y apoyar a los Órganos Internos de Control de las Dependencias y Entidades de la Administración Pública del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como del ejercicio del gasto público de la Administración Pública Estatal, en congruencia con el Código Fiscal y el Presupuesto de Egresos;
 
 IV.- Designar a los auditores externos de las Entidades y Dependencias de la Administración Pública cuando se requiera, así como normar, controlar y evaluar su actividad de acuerdo a su desempeño y comportamiento profesional;
 
@@ -1043,7 +1051,9 @@ XXII.- Designar y remover con base en las normas y controles de desempeño a los
 
 XXIII.- Designar, coordinar y remover a los titulares de los Órganos Internos de Control de las Dependencias y Entidades de la Administración Pública Estatal, garantizando la igualdad de oportunidades con base en el mérito, experiencia y formación académica, quienes dependerán jerárquica, funcional y presupuestalmente de la Secretaría de Contraloría, mismos que tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales, representando a la persona titular de dicha Secretaría;
 
-XXIV.- Designar, coordinar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados Órganos Internos de Control quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+XXIV.- Designar, coordinar y remover a las autoridades investigadoras, substanciadoras y resolutoras de la Secretaría y de los Órganos Internos de Control quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría;
 
 XXV.- Recibir y resolver las inconformidades que presenten los proveedores y contratistas del Gobierno del Estado que consideren que sus derechos fueron afectados;
 
@@ -1053,7 +1063,9 @@ XXVII.- Establecer los lineamientos y criterios que permitan llevar a cabo la ad
 
 XXVIII.- Participar en las actas de entrega-recepción que formulen las personas servidoras públicas y las unidades administrativas de las Dependencias y Entidades de la Administración Pública del Estado, a fin de verificar el cumplimiento de la normatividad aplicable;
 
-XXIX.- Llevar un registro de las personas servidoras públicas que han sido inhabilitadas en los Poderes del Estado de Hidalgo o por los Ayuntamientos, informando oportunamente a la Secretaría de la Función Pública para que se incorporen los datos al Padrón Nacional de Inhabilitados y, a su vez, recibir de ésta las actualizaciones del mismo, para que con ambos elementos conformar un padrón que permita a la Dependencia expedir las constancias de no inhabilitación a aquellas personas que pretendan ingresar al servicio público;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+XXIX.- Llevar un registro de las personas servidoras públicas que han sido inhabilitadas en los Poderes del Estado de Hidalgo o por los Ayuntamientos, informando oportunamente a la Secretaría Anticorrupción y Buen Gobierno Federal para que se incorporen los datos al Padrón Nacional de Inhabilitados y, a su vez, recibir de ésta las actualizaciones del mismo, para que con ambos elementos conformar un padrón que permita a la Dependencia expedir las constancias de no inhabilitación a aquellas personas que pretendan ingresar al servicio público;
 
 XXX.- Ejercer las atribuciones derivadas de los convenios que, en materia de su competencia, celebre el Estado con la Federación y los Municipios;
 
@@ -1065,11 +1077,15 @@ XXXIII.- Instrumentar mecanismos para evaluar permanentemente la calidad e impac
 
 XXXIV.- Conocer y resolver en el ámbito de su competencia, los recursos de revocación y de cualquier otro medio de impugnación que legalmente se interponga en contra de sus actos y resoluciones;
 
-XXXV.- Coordinar el sistema de atención a denuncias, peticiones, sugerencias o reconocimientos que se formulen por cualquier ciudadano en relación al desempeño o actuación de las personas servidoras públicas, así como conocer las acciones que de ellas deriven;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+XXXV.- Coordinar la atención a denuncias, peticiones, sugerencias o reconocimientos que se formulen por cualquier ciudadano en relación al desempeño o actuación de las personas servidoras públicas, así como conocer las acciones que de ellas deriven;
 
 XXXVI.- Implementar los mecanismos de coordinación, bases, principios, políticas, acciones y evaluaciones, que emita el Comité Coordinador del Sistema Estatal Anticorrupción, así como atender las recomendaciones que propicien la integridad, transparencia de la gestión pública, prevención, detención y sanción de responsabilidades administrativas y hechos de corrupción;
 
-XXXVII.- Regular, formular, ejecutar y coordinar las políticas y lineamientos, así como programas en materia de transparencia, acceso y difusión de la información pública gubernamental, corrección y protección de datos personales, implementando las medidas necesarias para una eficaz colaboración y asistencia técnica con el órgano garante en la materia, los organismos federales, estatales, municipales e internacionales, de conformidad con la legislación aplicable y vigente en la materia;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+XXXVII.- Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información y protección de datos personales, en el ámbito del Poder Ejecutivo y los municipios del Estado;
 
 XXXVIII.- Coadyuvar con las Dependencias y Entidades de la Administración Pública Estatal en las controversias o asuntos en materia de acceso a la información y protección de datos personales;
 
@@ -1103,7 +1119,19 @@ LII.- En coordinación con la Secretaría de Hacienda dictar las medidas de raci
 
 LIII.- Elaborar y emitir de manera conjunta con la Secretaría de Hacienda, la Oficialía Mayor y la Unidad de Planeación y Prospectiva, las políticas y medidas de austeridad, racionalidad y optimización presupuestal que deberán de observar las Dependencias y Entidades del Poder Ejecutivo en el ejercicio del gasto público, para las acciones de gobierno que determine la Persona Titular del Poder Ejecutivo del Estado a través de la Comisión Intersecretarial de Gasto Público y Financiamiento, y
 
-LIV.- Las demás que en relación a su competencia, le señale la Persona Titular del Poder Ejecutivo del Estado, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+LIV.- Establecer las políticas, bases y normativa para determinar la información de interés público que, en materia de anticorrupción y buen gobierno, se deba difundir proactivamente;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+LV.- Promover y consolidar los principios de transparencia y acceso a la información pública, y los mecanismos de participación ciudadana en la ejecución y evaluación de la gestión pública;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+LVI.- Impulsar la publicación de información de interés público y de datos en formatos accesibles a la ciudadanía, y
+
+LVII.- Las demás que en relación a su competencia, le señale la Persona Titular del Poder Ejecutivo del Estado, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
 
 ###### Artículo 38.
 
@@ -1529,9 +1557,13 @@ La Unidad de Planeación y Prospectiva, tendrá las siguientes atribuciones:
 
 I.- Instrumentar y operar el proceso de Planeación para el Desarrollo Estatal, en términos de la legislación aplicable y con sujeción a las políticas, objetivos y metas que para tal efecto establezca la Persona Titular del Poder Ejecutivo del Estado y se determinen en el Sistema Estatal de Planeación Democrática;
 
-II.- Definir las políticas y lineamientos para la orientación y formulación del Plan Estatal de Desarrollo y de los programas que de él se deriven, bajo una orientación a la prospectiva, al equilibrio económico, social y de cuidado del medio ambiente con la concurrencia de las instancias competentes en la materia;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
 
-III.- Coordinar e intervenir con la participación de las Dependencias y Entidades del Poder Ejecutivo del Estado, los municipios y los sectores social y privado en el proceso de formulación, instrumentación, seguimiento, evaluación y actualización del Plan Estatal de Desarrollo, así como los Programas Regionales, Metropolitanos y Sectoriales y aquellos de carácter especial que determine la Persona Titular del Poder Ejecutivo del Estado y definir, en coordinación con la Secretaría de Contraloría, los lineamientos para el control de los objetivos y prioridades en él señalados;
+II.- Definir las políticas y lineamientos para la orientación, formulación y evaluación del Plan Estatal de Desarrollo, Planes y Programas que de él se deriven, bajo una orientación a la prospectiva, al equilibrio económico, social, científico y a la transformación digital, así como de cuidado del medio ambiente con la concurrencia de las instancias competentes en la materia;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+III.- Coordinar e intervenir con la participación de las Dependencias, Entidades, los municipios y los sectores social y privado en el proceso de formulación, instrumentación, seguimiento, evaluación y actualización del Plan Estatal de Desarrollo, Planes, Programas Regionales, Metropolitanos, Sectoriales, Especiales y aquellos que determine la persona titular del Poder Ejecutivo;
 
 IV.- Impulsar la vinculación, coordinación y congruencia entre el Plan Estatal de Desarrollo y los programas que genere el Gobierno con los de la administración pública federal y los municipios de la Entidad, en el marco del Sistema Estatal de Planeación Democrática;
 
@@ -1549,13 +1581,17 @@ X.- Proponer a la Persona Titular del Poder Ejecutivo del Estado, la regionaliza
 
 XI.- Promover e instrumentar estrategias y líneas de acción hacia las regiones, municipios y localidades, a través de programas y proyectos que impacten en el desarrollo regional, debiendo establecer coordinación y concertación con las Dependencias y Entidades de la Administración Pública del Estado;
 
-XII.- Establecer los lineamientos que sirvan de base para la elaboración de los programas sectoriales, metropolitanos, regionales y especiales;
+XII.- (DEROGADA, P.O. 6 DE OCTUBRE DE 2026)
 
-XIII.- Coadyuvar en el proceso de formulación, programación, instrumentación y evaluación de los proyectos estratégicos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+XIII.- Coadyuvar en el proceso de formulación, programación, instrumentación, divulgación y evaluación de los proyectos estratégicos, incluyendo aquellos en materia de humanidades, ciencia, y transformación digital;
 
 XIV.- Elaborar estudios, proyectos regionales y municipales que permitan apoyar el desarrollo local, bajo mecanismos de coordinación y vinculación institucional con las Dependencias y Entidades de la Administración Pública Estatal, Municipal y Federal, con la sociedad organizada, y en su caso, con otras entidades federativas;
 
-XV.- Dar seguimiento a los mecanismos de vinculación con Dependencias y Entidades Federales, Estatales y Municipales relacionados con las acciones que impulsen el desarrollo regional;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+XV.- Dar seguimiento a los mecanismos de vinculación con Dependencias y Entidades Federales, Estatales y Municipales relacionados con las acciones que impulsen el desarrollo científico y de transformación digital en la Entidad;
 
 XVI.- Coordinar con los ayuntamientos, la integración, seguimiento y evaluación de los programas objeto de los Convenios Municipales de Desarrollo Regional, representando en ellos al Estado;
 
@@ -1565,13 +1601,19 @@ XVIII.- Coadyuvar en la celebración de mecanismos de coordinación instituciona
 
 XIX.- Formular y proponer a la Persona Titular del Poder Ejecutivo del Estado, la celebración de convenios de coordinación con la Administración Pública Federal, Estatal, Municipal y en su caso, con otras entidades federativas relacionados con su competencia;
 
-XX.- Desarrollar, coordinar, integrar y actualizar el Sistema de Información Georreferenciada del Gobierno del Estado de Hidalgo, con la información proporcionada por las Dependencias y Entidades de la Administración Pública, y en su caso, solicitar e integrar la que sea necesaria para la adecuada toma de decisiones.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
 
-En los casos donde las Dependencias y Entidades de la Administración Pública Estatal cuenten con sistemas de información de cualquier índole, la Unidad de Planeación y Prospectiva valorará si estos deben ser considerados subsistemas del Sistema de Información Georreferenciado del Gobierno del Estado de Hidalgo, en cuyo caso, establecerán de manera conjunta, un programa de homologación técnica y conceptual que los haga compatibles y útiles para la toma de decisiones fundamentada;
+XX.- Desarrollar, coordinar, integrar y actualizar el Sistema de Información Georreferenciada del Estado de Hidalgo, con la información proporcionada por las Dependencias y Entidades, incorporando herramientas de análisis avanzadas y modelos espaciales.
 
-XXI.- Proporcionar a solicitud expresa de los municipios, la asesoría técnica necesaria para la elaboración y desarrollo de estudios y proyectos municipales, regionales y metropolitanos, así como participar en la promoción y apoyo de los programas y proyectos orientados a crear y modernizar la infraestructura necesaria para el desarrollo del Estado, en el ámbito de sus facultades;
+En los casos donde las Dependencias y Entidades cuenten con sistemas de información geográfica, la Unidad de Planeación y Prospectiva valorará si estos deben ser considerados subsistemas del Sistema de Información Georreferenciada del Estado de Hidalgo, en cuyo caso, establecerán de manera conjunta, un programa de homologación técnica y conceptual que los haga compatibles y útiles para la toma de decisiones fundamentales;
 
-XXII.- Asesorar a los municipios, en el ámbito de su competencia, cuando así lo soliciten y en coordinación con las Dependencias del ramo correspondientes, en el diseño de políticas y mecanismos técnicos y de control, para la elaboración de sus Planes y Programas de Desarrollo Municipal y Urbano;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+XXI.- Proporcionar a solicitud expresa de los municipios, la asesoría técnica necesaria para el diseño de políticas, mecanismos técnicos y de control para la elaboración de sus Planes, Proyectos y Programas de Desarrollo Municipal, urbano, metropolitano y regional; así como en la elaboración de estudios orientados a crear y modernizar la infraestructura para el desarrollo del Estado;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+XXII.- Solicitar a las Dependencias y Entidades la información que dentro del ámbito de su competencia hayan generado, previa justificación de que esta es necesaria para el cumplimiento de las atribuciones de la Unidad de Planeación y Prospectiva;
 
 XXIII.- Validar, en coordinación con la Secretaría de Hacienda, los catálogos de Precios Unitarios y los Precios Unitarios Extraordinarios aplicables a la obra pública y las acciones a ejecutar por los municipios, Dependencias y Entidades de la Administración Pública Estatal;
 
@@ -1599,9 +1641,13 @@ XXXIV.- Realizar diagnósticos y estudios técnicos especializados que permitan 
 
 XXXV.- Dictaminar la viabilidad y el impacto de los programas y acciones públicos susceptibles de ser financiados en el Estado, bajo un análisis técnico social y económico, que permita alcanzar los objetivos del Plan Estatal de Desarrollo;
 
-XXXVI.- Coordinar y efectuar análisis, diagnósticos y estudios que permitan contar con información estratégica y recomendaciones de carácter técnico, así como aprobar e instruir en coordinación con las autoridades competentes la elaboración de los indicadores de impacto y desempeño de la gestión gubernamental;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
 
-XXXVII.- Normar, implementar y coordinar el Sistema Estatal de Monitoreo y Evaluación en el marco de la plataforma establecida en el Plan Estatal de Desarrollo y los indicadores definidos para tal efecto por las Dependencias y Entidades;
+XXXVI.- Coordinar y efectuar análisis, diagnósticos y estudios que permitan contar con información estratégica y recomendaciones de carácter técnico, así como aprobar e instruir en coordinación con las autoridades competentes la elaboración de los indicadores de impacto y desempeño de la gestión gubernamental, incluyendo para ello, el uso de metodologías de análisis de datos estadísticos y geográficos;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+XXXVII.- Normar, implementar y coordinar el Sistema Estatal de Monitoreo y Evaluación, en el marco del Plan Estatal de Desarrollo y conforme a la plataforma que éste establezca;
 
 XXXVIII.- Coordinar y normar los procesos de evaluación estratégica y de las acciones implementadas en las áreas de la Administración Pública tendientes a medir el impacto que sus programas y proyectos tienen en el incremento al bienestar;
 
@@ -1619,13 +1665,17 @@ XLIV.- Promover y otorgar, asesoría y asistencia técnica, a los Ayuntamientos,
 
 XLV.- Solicitar a las Dependencias y Entidades de la Administración Pública Estatal, en el caso que así se requiera, la reorientación de las acciones y estrategias de gobierno en coherencia con la planeación estatal, previa instrucción de la Persona Titular del Poder Ejecutivo del Estado;
 
-XLVI.- Participar conjuntamente con organismos internacionales, el Gobierno Federal, otros Estados y municipios, en materia de desregulación de trámites y simplificación administrativa;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+XLVI.- Participar conjuntamente con organismos internacionales, el Gobierno Federal, entidades federativas y municipios, en materia de simplificación administrativa y digitalización de trámites y servicios, en términos de la Ley Nacional para Eliminar Trámites Burocráticos;
 
 XLVII.- Coadyuvar, participar, asesorar y validar las estrategias de gobierno que permitan cumplir con los objetivos del Plan Estatal de Desarrollo y los objetivos y metas de desarrollo sostenible;
 
 XLVIII.- Monitorear y evaluar en coordinación con la Secretaría de Hacienda el desempeño del gasto de los recursos ejecutados conforme a la planeación estatal y los Objetivos de Desarrollo Sostenible de la Agenda 2030;
 
-XLIX.- Implementar esquemas de cooperación con instancias de investigación e instituciones de educación superior;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+XLIX.- Implementar y coordinar esquemas de cooperación con instancias de investigación e instituciones de educación superior estatales, nacionales e internacionales y, en especial, con aquellas relacionadas con el desarrollo de la ciencia, humanidades y transformación digital con el propósito de generar escenarios prospectivos;
 
 L.- Integrar, administrar, coordinar y consolidar un banco de proyectos que opere como un repositorio o cartera de opciones viables para ser financiados a través de fondos públicos o alternativos, así como actualizar la información de los mismos;
 
@@ -1635,9 +1685,33 @@ LII.- Emitir opinión técnica a la Secretaría de Hacienda respecto de los proy
 
 LIII.- Elaborar y emitir de manera conjunta con la Secretaría de Hacienda, la Secretaría de Contraloría y la Oficialía Mayor, las políticas y medidas de austeridad, racionalidad y optimización presupuestal que deberán de observar las Dependencias y Entidades del Poder Ejecutivo del Estado en el ejercicio del gasto público, para las acciones de gobierno que determine la Persona Titular del Poder Ejecutivo del Estado a través de la Comisión Intersecretarial de Gasto Público y Financiamiento;
 
-LIV.- Coordinar e implementar la política en materia de mejora regulatoria, que dé cumplimiento al Plan Estatal de Desarrollo, y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2026)</small>
 
-LV.- Las demás que en relación a su competencia, le señale la Persona Titular del Poder Ejecutivo, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
+LIV.- Promover e implementar políticas y estrategias en materia de transformación digital, ciencia y mejores prácticas regulatorias que contribuyan a la automatización de los procesos para la atención de trámites y servicios, impulsando el uso de nuevas tecnologías a fin de minimizar la burocracia;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+LV.- Gestionar la cooperación con organismos nacionales e internacionales para la creación de un banco de proyectos de transformación digital;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+LVI.- Coordinar y operar el Laboratorio de Políticas Públicas del Estado de Hidalgo, para la generación de información estratégica, como un espacio para el análisis de datos y evaluación;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+LVII.- Fomentar la difusión, divulgación y aplicación del conocimiento sobre transformación digital, a través de la colaboración, cooperación e intercambio, con los diversos sectores de la sociedad a nivel nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+LVIII.- Coordinar, supervisar y vigilar el cumplimiento de las disposiciones de la Ley Nacional para Eliminar Trámites Burocráticos en el ámbito de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+LIX.- Supervisar y dar seguimiento al cumplimiento de las disposiciones jurídico-administrativas aplicables a las Entidades, así como evaluar su gestión en congruencia con los objetivos y metas del Plan Estatal de Desarrollo; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+LX.- Las demás que, en relación a su competencia, le señale la Persona Titular del Poder Ejecutivo, las leyes, reglamentos, decretos, acuerdos, convenios y demás disposiciones vigentes en el Estado.
 
 ### CAPÍTULO VI. DEL GABINETE SOCIAL DEL ESTADO DE HIDALGO
 
@@ -1826,3 +1900,73 @@ P.O. 26 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 363 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO Y A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE RECTORÍA DEL SISTEMA ESTATAL DE SALUD".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 728 – LXVI POR EL QUE SE EXPIDEN LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO; LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE HIDALGO; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se abrogan la Ley de Transparencia y Acceso a la Información Pública para el Estado de Hidalgo publicada en el Periódico Oficial del Estado de Hidalgo el día 4 de mayo de 2016 y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado de Hidalgo el 24 de julio de 2017, así como las disposiciones reglamentarias que de ellas derivan.
+
+Asimismo, se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo dispuesto en el presente Decreto.
+
+TERCERO. A la entrada en vigor del presente Decreto, se entenderá extinto el ente público denominado Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, salvo lo dispuesto en los artículos Décimo Segundo y Décimo Tercero transitorios.
+
+CUARTO. A partir del día siguiente a la entrada en vigor del presente Decreto, todas las atribuciones en materia de transparencia y acceso a la información pública en el estado de Hidalgo se entenderán conferidas a Transparencia para el Pueblo de Hidalgo, así como a las demás Autoridades Garantes, en términos de lo dispuesto en el presente Decreto y en el ámbito de sus respectivas competencias.
+
+Tratándose de las atribuciones en materia de protección de datos personales en posesión de los Sujetos obligados en el Estado de Hidalgo, se entenderán transferidas a la Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo, así como a las demás Autoridades Garantes, en términos de lo dispuesto en el presente Decreto y en el ámbito de sus respectivas competencias.
+
+Las menciones, referencias o atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, se entenderán hechas o conferidas a las Autoridades Garantes, conforme a lo dispuesto en el presente Decreto.
+
+QUINTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto, tramitados ante el Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, en materia de acceso a la información pública y protección de datos personales en posesión de los sujetos Obligados, se sustanciarán ante Transparencia para el Pueblo de Hidalgo y la Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo, según corresponda, conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto, en materia de acceso a la información pública y protección de datos personales, se llevará a cabo por Transparencia para el Pueblo de Hidalgo.
+
+Transparencia para el Pueblo de Hidalgo remitirá a la Autoridad Garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le correspondan conforme al ámbito de sus atribuciones, para su atención.
+
+SEXTO. La Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo, la Contraloría General del Poder Judicial; la Contraloría Interna del Poder Legislativo y los órganos internos de control u homólogos de los organismos constitucionales y legalmente autónomos en el Estado de Hidalgo, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en el mismo.
+
+SÉPTIMO. A partir de la entrada en vigor de este Decreto, se suspenden por un plazo de noventa días naturales, todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en el propio Decreto y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información y derechos ARCO que se tramitan a través de la Plataforma Nacional de Transparencia.
+
+OCTAVO. Los recursos humanos con que cuente el Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, pasarán a formar parte de la Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo a partir del día siguiente de la entrada en vigor del presente Decreto; para lo cual el Instituto transferirá a la Secretaría de Hacienda del Poder Ejecutivo del Estado de Hidalgo, los recursos correspondientes al valor total restante del presupuesto del rubro de servicios personales, a fin de que esa dependencia, en coordinación con la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo, realicen las acciones que correspondan, conforme a las disposiciones jurídicas aplicables.
+
+NOVENO. El Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo transferirá a la Secretaría de Hacienda del Poder Ejecutivo del Estado de Hidalgo, los recursos correspondientes a las economías y ahorros que se generen derivados del proceso de desincorporación en la modalidad de extinción de dicho ente público, en términos de la normatividad aplicable.
+
+DÉCIMO. Los recursos materiales con que cuente el Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, serán asignados a la Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo; para lo cual el Instituto concretará dicha transferencia mediante donación a la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo, a fin de que esa dependencia realice el análisis de factibilidad correspondiente para la recepción de los bienes donados, con base en la información que posea el Instituto al momento de la entrada en vigor del presente Decreto, conforme a las disposiciones jurídicas aplicables.
+
+La Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo a través de su área administrativa dará seguimiento a la transferencia de los bienes donados.
+
+DÉCIMO PRIMERO. Los registros, padrones y sistemas, internos y externos, con los que cuente el Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, así como los sistemas informáticos utilizados por el mismo, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo, a fin de que esa dependencia realice las acciones que correspondan, conforme a las disposiciones jurídicas aplicables.
+
+DÉCIMO SEGUNDO. Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo para el ejercicio de sus funciones sustantivas, competencias o facultades, serán transferidos a la Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo, de conformidad con la Ley de Archivos para el Estado de Hidalgo y demás disposiciones jurídicas aplicables.
+
+DÉCIMO TERCERO. El Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo subsistirá con personalidad jurídica únicamente para efectos del proceso de desincorporación en la modalidad de extinción y su respectiva transferencia.
+
+DÉCIMO CUARTO. Para efectos de las obligaciones establecidas para el Instituto en los transitorios Séptimo, Octavo, Noveno, Décimo y Décimo Primero del presente Decreto, el Comité Interinstitucional de Transición a que hace referencia el transitorio Octavo del Decreto Número 580 – LXVI “Por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado de Hidalgo, relativo a la simplificación orgánica en materia de acceso a la información pública y protección de datos personales” a propuesta de su Presidente, nombrará de entre el personal del Instituto a una persona, con nivel Directivo, como liquidador en el proceso de desincorporación en la modalidad de extinción del Instituto y su respectiva transferencia.
+
+La persona que sea nombrada como liquidador, contará con la representación legal del Instituto para ejercer los actos relacionados con su desincorporación en la modalidad de extinción y transferencia, así como realizar las gestiones correspondientes para cumplir con las obligaciones administrativas y financieras del propio Instituto, y que se hayan generado hasta antes de la entrada en vigor del presente Decreto, incluyendo aquellas con motivo de las relaciones laborales.
+
+DÉCIMO QUINTO. El Órgano Interno de Control del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control de la Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo dentro de los veinte días hábiles siguientes a su entrada en vigor, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+DÉCIMO SEXTO. En un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, la persona Titular del Poder Ejecutivo del Estado de Hidalgo, con la intervención de la Secretaría de Contraloría del Poder Ejecutivo del Estado, deberá emitir las disposiciones y adecuaciones reglamentarias relativas a la legislación contenida en dicho Decreto.
+
+DÉCIMO SÉPTIMO. La persona Titular del Poder Ejecutivo del Estado de Hidalgo, en un término no mayor de quince días naturales siguientes a la entrada en vigor del presente Decreto, nombrará al Titular del Órgano desconcentrado denominado Transparencia para el Pueblo de Hidalgo.
+
+DÉCIMO OCTAVO. Las personas servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, deberán presentar la declaración patrimonial y de intereses de conclusión, así como la declaración inicial en caso de formar parte de la Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo, de conformidad con las disposiciones jurídicas aplicables, y deberán realizarlo en los sistemas de la Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo habilitados para tales efectos o en los medios que esta determine.
+
+De la misma manera, también es aplicable a las personas que se hayan desempeñado como personas servidoras públicas en el referido Instituto y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con dicha obligación.
+
+DÉCIMO NOVENO. Todas las personas servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, dentro de los treinta días hábiles posteriores a la entrada en vigor del presente Decreto, deben realizar el proceso de entrega-recepción, según corresponda, a la persona servidora pública designada por la Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo, conforme a la normativa aplicable, considerando que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+VIGÉSIMO. El Comité del Subsistema de Transparencia del Estado de Hidalgo deberá instalarse a más tardar dentro de los treinta días hábiles a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría de Contraloría del Poder Ejecutivo del Estado de Hidalgo.
+
+P.O. 6 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 729 – LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Unidad de Planeación y Prospectiva, en un plazo no mayor de 90 días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones a su Reglamento Interior y a las disposiciones administrativas necesarias para la operatividad de las áreas que la conforman.
