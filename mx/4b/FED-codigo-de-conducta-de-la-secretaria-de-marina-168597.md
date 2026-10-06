@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-de-la-secretaria-de-marina-168597"
 country: "mx"
 rank: "codigo"
 publication_date: "2023-11-24"
-last_updated: "2023-11-24"
+last_updated: "2026-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168597&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2023-10-23"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE MARINA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PÁRRAFO QUINTO DEL APARTADO “RENDICIÓN DE PROTESTA” DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA 2026, PUBLICADO EN EL D.O.F. DE 6 DE OCTUBRE DE 2026, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2026 (SIN EFECTOS).
 
 Código publicado en el Diario Oficial de la Federación, el viernes 24 de noviembre de 2023.
 
@@ -466,3 +468,19 @@ Teniente de Corbeta SAIN
 Jesús Javier Alonso Salas
 
 Representante del Órgano Interno de Control
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE OCTUBRE DE 2026.
+
+> <small>[N. DE E. VIGENCIA DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA 2026”.]</small>
+
+[...]
+
+“RENDICIÓN DE PROTESTA” [N. DE E. VÉASE D.O.F. 6 DE OCTUBRE DE 2026, PÁGINA 19.]
+
+[…]
+
+Párrafo Quinto.…..
+
+“El presente instrumento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Quedando sin efecto el Código de Conducta de la Secretaría de Marina, de fecha 18 de mayo de 2023.”
