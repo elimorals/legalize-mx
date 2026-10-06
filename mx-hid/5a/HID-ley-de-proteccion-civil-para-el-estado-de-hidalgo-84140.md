@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2026-08-28"
+last_updated: "2026-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -589,7 +589,7 @@ XXIII.- Requerir a los Presidentes Municipales, directores, administradores, pro
 
 XXIV.- Organizar y operar el registro de inventarios de recursos humanos y materiales disponibles, susceptibles de movilización y alojamiento en caso de emergencia;
 
-XXV.- Los consultores y capacitadores en materia de protección civil, tendrán que tramitar ante la Subsecretaria su registro correspondiente, quedando sujeta su alta al padrón respectivo, una vez cumplidos los requisitos previamente establecidos, y debiendo renovar el mismo anualmente;
+XXV.- (DEROGADA, P.O. 6 DE OCTUBRE DE 2026)
 
 XXVI.- Ordenar y realizar visitas de supervisión a los locales o establecimientos, negocios e industrias, a fin de verificar el cumplimiento de las disposiciones, para la prevención y atención de riesgos, en caso de imponer sanciones por incumplimiento se estará a lo dispuesto en su Reglamento;
 
@@ -1301,9 +1301,13 @@ Las inspecciones y supervisiones de protección civil tienen el carácter de vis
 
 Las infracciones, sanciones y recursos en materia de protección civil serán resueltos de acuerdo a lo dispuesto en el Reglamento de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2026)</small>
 
-## TÍTULO DECIMO NOVENO. De Los Particulares
+## TÍTULO DÉCIMO NOVENO. De los Particulares y Consultores Externos
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+### CAPÍTULO I. De los Particulares
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
 
@@ -1322,6 +1326,172 @@ Los responsables de la administración y operación de las actividades señalada
 ###### Artículo 87.
 
 Toda persona física o moral deberá informar a las autoridades competentes, haciéndolo de forma directa de cualquier alto riesgo, siniestro o desastre que se presente o pudiera presentarse.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+### CAPÍTULO II. De los Consultores Externos en Materia de Protección Civil
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 88.
+
+Los Consultores Externos son aquellas personas físicas o morales con personal certificado que cuentan con conocimientos especializados para prestar servicios profesionales en materia de protección civil, tales como otorgar asesoría, brindar capacitación, realizar estudios de riesgo y vulnerabilidad, elaborar programas internos y especiales, emitir Cartas de Corresponsabilidad, entre otros.
+
+Para el ejercicio de su actividad, los Consultores Externos deberán obtener su registro ante la Subsecretaría, mediante la presentación de los documentos que acrediten su competencia profesional o técnica en los términos que establezca el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 89.
+
+La Carta de Corresponsabilidad es el documento expedido por los Consultores Externos, mediante el cual se responsabilizan solidariamente con la persona física o moral que solicitó la elaboración de la misma, así como del funcionamiento y aplicación de los programas internos y especiales elaborados. Ello, sin perjuicio de la autorización que deban emitir otras autoridades de acuerdo con la normatividad aplicable.
+
+En caso de que el Consultor Externo sea una persona física, la Carta de Corresponsabilidad deberá ir firmada por éste y por el sujeto obligado. En caso de que el Consultor Externo sea una persona moral, la Carta de Corresponsabilidad deberá ir firmada por el representante legal de ésta, así como por quien elaboró el programa interno o especial siempre que cuente con registro como consultor externo, y por el sujeto obligado.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 90.
+
+Los Consultores Externos que pretendan obtener su registro en el Estado de Hidalgo, a efecto de que se les permita brindar servicios en materia de protección civil, deberán cumplir los siguientes requisitos:
+
+I. Contar con ciudadanía mexicana, en ejercicio pleno de sus derechos;
+
+II. Contar con experiencia mínima de tres años en materia de protección civil, precisando la especialidad del registro del consultor;
+
+III. Presentar escrito en el que se manifieste, bajo protesta de decir verdad, no desempeñar empleo, cargo o comisión en el sector público que resulte incompatible o implique conflicto de interés para la obtención del registro. En caso de tratarse de persona moral, el escrito deberá presentarse por cada persona que la integre;
+
+IV. Presentar solicitud por escrito, dirigido a la persona titular de la Subsecretaría, la cual deberá contener:
+
+a) Nombre tratándose de persona física o razón social para el caso de persona moral;
+
+b) Registro Federal de Contribuyentes de la persona física o moral;
+
+c) Clave Única de Registro de Población de la persona física, así como del representante legal tratándose de persona moral;
+
+d) Número telefónico de la persona física y, en caso de ser persona moral, el número telefónico del representante legal y de las oficinas;
+
+e) Correo electrónico del solicitante;
+
+f) Señalar en la solicitud si se trata de un nuevo registro o renovación;
+
+g) Copia de identificación oficial en caso de persona física y tratándose de persona moral copia del acta constitutiva debidamente protocolizada, así como copia del instrumento con el que acredite la personalidad jurídica del o los representantes legales, y
+
+h) Copia del documento que acredite el domicilio fiscal del solicitante.
+
+V. En caso de personas capacitadoras, presentar registro por la Secretaría del Trabajo y Previsión Social con la totalidad de los cursos ofertados, anexando cartas descriptivas de los mismos y el formato del diploma o constancia que se emite al concluirlos.
+
+La documentación solicitada deberá estar vigente al momento de su presentación.
+
+En el caso de personas morales, las personas físicas que las integren y que estén directamente a cargo de brindar los servicios señalados, deberán cumplir con los requisitos anteriormente descritos.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 91.
+
+Las personas físicas y morales que brinden servicios en materia de Protección Civil deberán cumplir con alguno de los siguientes perfiles académicos:
+
+I. Perfil de Formación Técnica, el cual se acreditará mediante:
+
+a) Documento expedido por el Centro Nacional de Prevención de Desastres (CENAPRED) o por la Escuela Nacional de Protección Civil; y
+
+b) Cursos o programas de capacitación en temas relacionados con protección civil, gestión integral de riesgos, prevención y atención de desastres, o materias afines.
+
+Las personas con formación técnica sólo podrán impartir capacitación y elaborar programas internos y/o especiales para un máximo de 500 empleados o personas.
+
+II. Perfil de Formación Profesional, el cual se acreditará mediante:
+
+a) Título y cédula profesional que amparen una carrera afín al área de Protección Civil. Para efectos de esta Ley, se considerarán igualmente válidos los títulos y cédulas profesionales de especialidad, maestría o doctorado relacionados con la protección civil, gestión integral de riesgos, atención de emergencias, seguridad, ingeniería o disciplinas afines, expedidos por instituciones educativas con reconocimiento de validez oficial de estudios; y
+
+b) Constancias, diplomas o certificados de cursos en temas relacionados con protección civil, gestión integral de riesgos, prevención y atención de desastres o materias afines, expedidos durante el año inmediato anterior a la fecha de presentación de la solicitud o renovación del registro.
+
+Para obtener el registro en la especialidad de elaboración de Estudios de Riesgos y Vulnerabilidad, así como para la elaboración de programas internos y especiales, se deberá presentar además currículum vitae del profesional con carrera afín que acredite tener la competencia académica en materia de estudios de riesgo y vulnerabilidad, proporcionando copia de los diplomados, especialidades, maestría, registros y/o licencias respectivas.
+
+La documentación que compruebe los conocimientos y experiencia deberá ser emitida por instituciones gubernamentales, educativas públicas y privadas con registro oficial.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 92.
+
+Los costos del registro y la renovación estarán sujetos a las disposiciones de la Ley Estatal de Derechos del Estado de Hidalgo.
+
+El registro de la persona moral deberá incluir el nombre de cada persona física que preste servicios como consultor externo. El registro de cada consultor generará un costo individual.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 93.
+
+Se establecerá un Comité de Autorización de Consultores Externos como órgano colegiado auxiliar de la Coordinación Estatal de Protección Civil, cuyas atribuciones serán las siguientes:
+
+I. Analizar y, en su caso, autorizar los expedientes de las solicitudes de registro, renovación y cancelación de las autorizaciones para fungir como Consultor Externo;
+
+II. Celebrar sesiones ordinarias al menos dos veces por año, y sesiones extraordinarias las veces que sea necesario;
+
+III. Determinar en los casos que sea necesario, previo estudio y análisis correspondiente, la cancelación del registro como Consultor Externo, y
+
+IV. Las demás que establezca el Reglamento de esta Ley y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 94.
+
+El Comité de Autorización de Consultores Externos se integrará por las personas titulares de las siguientes dependencias y unidades administrativas:
+
+I. Secretaría de Gobierno, quien fungirá como presidente;
+
+II. Subsecretaría, quien fungirá como secretario ejecutivo, y
+
+III. Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible.
+
+Los titulares de cada una de las instancias señaladas contarán con voz y voto; asimismo, podrán designar suplentes, quienes deberán contar con nivel jerárquico de Subsecretaría para que actúen en su representación.
+
+El cargo de las personas integrantes del Comité será de carácter honorífico, ejerciendo sus funciones bajo los principios de transparencia, objetividad, eficiencia, eficacia y honradez.
+
+Con el fin de optimizar su operación, el Comité deberá dar cumplimiento a las disposiciones normativas que para tal efecto se establezcan en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 95.
+
+Los Consultores Externos perderán su registro cuando avalen actividades para las que no están autorizados o en los casos en que omitan, simulen, alteren o manipulen la información que sustenta la Carta de Corresponsabilidad, previa sustanciación del procedimiento administrativo correspondiente ante la Subsecretaría de Protección Civil y Gestión de Riesgos, en el que se garantice su derecho de audiencia y defensa.
+
+Lo anterior, sin perjuicio de las sanciones penales o administrativas que señale la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 96.
+
+Las personas que obtengan el registro y autorización para fungir como Consultor Externo, tendrán las obligaciones siguientes:
+
+I. Abstenerse de incurrir en circunstancias que representen cualquier conflicto de interés que ponga en riesgo la independencia y profesionalismo con que debe conducirse en el cumplimiento de las obligaciones que derivan de su contratación;
+
+II. Desempeñar su servicio con apego a las disposiciones previstas en la Ley General de Protección Civil, esta Ley y demás disposiciones aplicables, garantizando que los estudios, programas internos, programas especiales, capacitaciones, evaluaciones, dictámenes y demás documentos que emita se encuentren sustentados en información veraz, actualizada y técnicamente comprobable;
+
+III. Conservar durante un plazo mínimo de cinco años la documentación, evidencia técnica y soporte documental que sustente los programas, estudios, capacitaciones y demás servicios realizados;
+
+IV. Informar a la Subsecretaría cualquier modificación relacionada con su domicilio, representante legal, personal registrado, acreditaciones o documentación presentada para la obtención o renovación del registro, dentro de los treinta días hábiles siguientes a que ocurra, y
+
+V. Las demás que establezca esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 97.
+
+Durante la vigencia de su registro y como requisito indispensable de renovación del mismo, los Consultores Externos con registro como capacitadores en materia de Protección Civil deberán impartir anualmente de manera gratuita un mínimo de diez horas de capacitación a planteles escolares públicos de educación inicial y básica, así como a otros que determine la Subsecretaría.
+
+En el caso de los Consultores Externos con autorización para elaborar Programas Internos y Especiales, deberán elaborar dos Programas Internos gratuitamente para planteles escolares públicos de educación inicial y básica determinados por la Subsecretaría, en coordinación con las autoridades educativas competentes.
+
+En caso de tratarse de persona moral, deberá cumplirse por cada persona dada de alta.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 98.
+
+Los colegios de profesionistas registrados en los términos de la Ley General de Educación, asociaciones e instituciones educativas politécnicas y tecnológicas que formen parte del Sistema Educativo Nacional, podrán capacitar a los Consultores Externos, previo convenio celebrado con la Secretaría de Gobierno a través de la Subsecretaría.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 99.
+
+El padrón de Consultores Externos, previa autorización del Comité de Autorización de Consultores Externos, deberá ser publicado a través de los medios oficiales que se dispongan para tal efecto.
 
 ## TRANSITORIOS
 
@@ -1468,3 +1638,15 @@ P.O. 28 DE AGOSTO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 719 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 50 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE ACCESIBILIDAD E INCLUSIÓN EN PROGRAMAS DE PREVENCIÓN Y AUTOPROTECCIÓN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 727 - LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE CONSULTORES EXTERNOS EN PROTECCIÓN CIVIL".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, deberán efectuarse las reformas correspondientes al Reglamento de la Ley de Protección Civil del Estado de Hidalgo.
+
+TERCERO. El Comité de Autorización de Consultores Externos deberá instalarse y llevar a cabo su primera sesión dentro de los quince días hábiles siguientes a la entrada en vigor del Decreto por el que se realicen las adecuaciones correspondientes al Reglamento de la Ley de Protección Civil del Estado de Hidalgo.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
