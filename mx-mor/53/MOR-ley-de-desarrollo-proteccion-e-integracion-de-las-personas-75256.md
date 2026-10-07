@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-proteccion-e-integracion-de-las-personas-7525
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-09"
-last_updated: "2026-04-29"
+last_updated: "2026-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de junio de 2010.
 
@@ -117,11 +117,17 @@ III. Equidad. Entendiéndose como los derechos que mujeres y hombres tienen para
 
 IV. Corresponsabilidad. La concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley;
 
-V. Atención diferenciada. Aquella que obliga a las autoridades del Gobierno del Estado y municipios a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
+V. Atención diferenciada. Aquella que obliga a las autoridades del Gobierno del Estado y municipios a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores;
 
-VI. Atención preferente. Es aquella que obliga a los distintos órdenes de gobierno, al sector social y privado, a implementar acciones preferentes acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores, así como la implementación de prerrogativas que erradiquen las brechas de desigualdad.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+VI. Atención preferente. Es aquella que obliga a los distintos órdenes de gobierno, al sector social y privado, a implementar acciones preferentes acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores, así como la implementación de prerrogativas que erradiquen las brechas de desigualdad, y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+VII. Igualdad Sustantiva. Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 ### CAPÍTULO II. DE LOS DERECHOS
 
@@ -185,7 +191,9 @@ c. A recibir capacitación para desempeñarse en actividades laborales acordes a
 
 d. Acceder a las oportunidades de empleo que promuevan las instituciones oficiales o particulares; y
 
-e. A gozar de igualdad de oportunidades en el acceso al trabajo o de otras opciones que les permitan un ingreso propio y desempeñarse en forma productiva tanto tiempo como lo deseen, así como a recibir protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+e. A gozar de igualdad de oportunidades en el acceso al trabajo, al autoempleo y al emprendimiento, o de otras opciones que les permitan un ingreso propio y desempeñarse en forma productiva tanto tiempo como lo deseen, así como a recibir protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral.
 
 VI. De la asistencia social:
 
@@ -193,7 +201,9 @@ a) Los programas a favor de las personas adultas mayores, comprenderán, entre o
 
 I. Integración de clubes de la tercera edad;
 
-II. Capacitación, bolsa de trabajo y productividad;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+II. Capacitación, bolsa de trabajo, productividad, y emprendimiento;
 
 III. Asistencia legal;
 
@@ -256,6 +266,18 @@ IX. Del acceso a los Servicios:
 a. A que los servicios y establecimientos de uso público implementen medidas para facilitar el uso y/o acceso adecuado;
 
 b. A contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros.
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+X. De la inclusión productiva:
+
+a) Recibir apoyo institucional para desarrollar proyectos productivos;
+
+b) Acceder a programas de microcréditos, capacitación, incubación y acompañamiento técnico;
+
+c) Participar en ferias, espacios de comercialización y redes de emprendimiento intergeneracional, y
+
+d) Acceder a incentivos fiscales estatales y municipales sujetos a la disponibilidad presupuestal, con el objeto de fomentar su formalización, consolidación y permanencia.
 
 ###### Artículo 7.
 
@@ -465,15 +487,19 @@ VII. Promocionar la estabilidad y el bienestar familiar;
 
 VIII. Procurar que cada año en el presupuesto de egresos, se otorgue una cantidad responsable que permita dar continuidad a los programas estatales en beneficio de las personas adultas mayores, así como para el cumplimiento de esta Ley;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
 
-IX. Implementar estrategias y programas a través de la Secretaría de Desarrollo Económico y del Trabajo para que promuevan dentro de la administración pública estatal y municipal, así como en las empresas privadas a través de incentivos; a contratar a personas adultas mayores de acuerdo a sus capacidades, profesiones, oficios, experiencia y conocimientos teóricos y prácticos; y
+IX. Implementar estrategias y programas a través de la Secretaría de Desarrollo Económico y del Trabajo para que promuevan dentro de la administración pública estatal y municipal, así como en las empresas privadas a través de incentivos; a contratar a personas adultas mayores de acuerdo a sus capacidades, profesiones, oficios, experiencia y conocimientos teóricos y prácticos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
 
-X. Garantizar el principio de atención preferente a las personas adultas mayores que requieran de los servicios de atención al público que proporcionen, de manera que cuenten con todo tipo de facilidades para acceder a los servicios que estas presten e implementar medidas de acompañamiento especial en el trámite respectivo cuando sea indispensable; y
+X. Garantizar el principio de atención preferente a las personas adultas mayores que requieran de los servicios de atención al público que proporcionen, de manera que cuenten con todo tipo de facilidades para acceder a los servicios que estas presten e implementar medidas de acompañamiento especial en el trámite respectivo cuando sea indispensable;
 
-XI. Las demás que le confieran otros ordenamientos jurídicos en la materia.
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+XI. Establecer dentro de sus planes y programas de desarrollo social y económico, acciones específicas para facilitar el emprendimiento y la inclusión productiva de las personas adultas mayores, y
+
+XII. Las demás que le confieran otros ordenamientos jurídicos en la materia.
 
 ### CAPÍTULO II. DE LAS SECRETARÍAS Y SUBSECRETARÍAS
 
@@ -563,59 +589,63 @@ X. Fomentar entre toda la población una cultura de la vejez, de respeto, apreci
 
 Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, en materia de adultos mayores:
 
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+I. Prestar servicios de orientación jurídica en forma gratuita, acompañamiento y canalización institucional;
+
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-I. Desarrollar los lineamientos, mecanismos e instrumentos para la organización y funcionamiento de las instituciones de atención a las personas adultas mayores, como lo son albergues, casas de día programas de esparcimiento y apoyos varios, para su desarrollo integral;
+II. Desarrollar los lineamientos, mecanismos e instrumentos para la organización y funcionamiento de las instituciones de atención a las personas adultas mayores, como lo son albergues, casas de día programas de esparcimiento y apoyos varios, para su desarrollo integral;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE MAYO DE 2019)</small>
 
-II. Otorgar servicios de calidad y calidez a las personas adultas mayores, brindándoles una atención especializada en su salud física, mental, emocional y espiritual, ayudándoles a vivir con mayor dignidad, que les permita vivir con entusiasmo y alegría;
+III. Otorgar servicios de calidad y calidez a las personas adultas mayores, brindándoles una atención especializada en su salud física, mental, emocional y espiritual, ayudándoles a vivir con mayor dignidad, que les permita vivir con entusiasmo y alegría;
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-III. Brindar alojamiento a las personas adultas mayores que por eventualidad hayan sido afectados por una contingencia o siniestro y se encuentren desprotegidos. otorgándoles un trato digno con calidad y respeto;
+IV. Brindar alojamiento a las personas adultas mayores que por eventualidad hayan sido afectados por una contingencia o siniestro y se encuentren desprotegidos. otorgándoles un trato digno con calidad y respeto;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2019)</small>
 
-IV. Fomentar la Participación de las personas adultas mayores en Congresos y Encuentros convocados por los DIF Nacionales, Estatales y Municipales, motivándolos a mantener un estilo de vida saludable a través del deporte, la cultura y la educación; proyectar a la sociedad una imagen positiva del proceso de envejecimiento y de la vejez misma y capacitación sobre el auto cuidado, así como a cuidadores primarios;
+V. Fomentar la Participación de las personas adultas mayores en Congresos y Encuentros convocados por los DIF Nacionales, Estatales y Municipales, motivándolos a mantener un estilo de vida saludable a través del deporte, la cultura y la educación; proyectar a la sociedad una imagen positiva del proceso de envejecimiento y de la vejez misma y capacitación sobre el auto cuidado, así como a cuidadores primarios;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE MAYO DE 2019)</small>
 
-V. Brindar espacios y servicios de asistencia social con atención integral a las personas adultas mayores que se valgan física y mentalmente por sí mismos; activos y funcionales. Promoviendo la cultura de una vejez digna, activa, productiva y ocupativa;
+VI. Brindar espacios y servicios de asistencia social con atención integral a las personas adultas mayores que se valgan física y mentalmente por sí mismos; activos y funcionales. Promoviendo la cultura de una vejez digna, activa, productiva y ocupativa;
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-VI. Impulsar acciones que promuevan la calidad de vida en las personas adultas mayores, en un marco de integración y participación social y familiar, fomentando la creación de espacios autogestivos en los municipios con la finalidad de satisfacer sus necesidades de una manera integral y participativa;
+VII. Impulsar acciones que promuevan la calidad de vida en las personas adultas mayores, en un marco de integración y participación social y familiar, fomentando la creación de espacios autogestivos en los municipios con la finalidad de satisfacer sus necesidades de una manera integral y participativa;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE MAYO DE 2019)</small>
 
-VII. Promover la participación y el desarrollo humano a través de la recreación, el esparcimiento y la educación no formal, para contribuir al bienestar y elevar la calidad de vida de las personas adultas mayores del Estado;
+VIII. Promover la participación y el desarrollo humano a través de la recreación, el esparcimiento y la educación no formal, para contribuir al bienestar y elevar la calidad de vida de las personas adultas mayores del Estado;
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-VIII. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y, en general, cualquier acto que perjudique a las personas adultas mayores;
+IX. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y, en general, cualquier acto que perjudique a las personas adultas mayores;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE MAYO DE 2019)</small>
 
-IX. Implementar acciones para garantizar la cobertura en materia alimentaria para las personas adultas mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
+X. Implementar acciones para garantizar la cobertura en materia alimentaria para las personas adultas mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2019)</small>
 
-X. Coadyuvar con Fiscalía General del Estado, en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;
+XI. Coadyuvar con Fiscalía General del Estado, en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE MAYO DE 2019)</small>
 
-XI. Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores;
+XII. Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
 
-XII. Promover, mediante la vía conciliatoria, la solución a la problemática familiar; y,
+XIII. Promover, mediante la vía conciliatoria, la solución a la problemática familiar, y,
 
 > <small>[N. DE E. VÉASE LA LITERALIDAD DEL P.O. DE 22 DE MAYO DE 2019, PÁGINA 22]</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-XIII. Las demás que le confieran otros ordenamientos jurídicos. La finalidad de estos programas es mantener la integridad y autosuficiencia de las personas adultas mayores y retrasar su deterioro, garantizando su seguridad, autosuficiencia y subsistencia para una vida digna o bien, proporcionar los cuidados paliativos necesarios para un buen morir.
+XIV. Las demás que le confieran otros ordenamientos jurídicos. La finalidad de estos programas es mantener la integridad y autosuficiencia de las personas adultas mayores y retrasar su deterioro, garantizando su seguridad, autosuficiencia y subsistencia para una vida digna o bien, proporcionar los cuidados paliativos necesarios para un buen morir.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2019)</small>
 
@@ -687,15 +717,27 @@ La Secretaría del Trabajo vigilará el pleno ejercicio de los derechos laborale
 
 I. La promoción (sic) empleos como actividades lucrativas o voluntarias, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
 
-II. El fomento a la creación de organizaciones productivas de las personas adultas mayores;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
 
-III. La capacitación a las personas adultas mayores, para que adquieran conocimientos y destrezas en actividades productivas;
+II. El fomento a la creación de organizaciones productivas y de emprendimiento de las personas adultas mayores, esto en coordinación con los municipios, instituciones educativas, organismos empresariales y organizaciones civiles;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+III. La capacitación a las personas adultas mayores, para que adquieran conocimientos y destrezas en actividades productivas y en emprendurismo, que fomenten su inclusión, empleo, y emprendimiento;
 
 IV. La organización de una bolsa de trabajo mediante la cual se identifiquen actividades laborales que puedan ser desempeñadas por las personas adultas mayores y orientarlas para que presenten ofertas de trabajo;
 
-V. La Asesoría jurídica gratuita a las personas adultas mayores que decidan retirarse de sus actividades laborales; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
 
-VI. La Creación de mecanismos de autoempleo mediante capacitación y financiamiento para que las personas adultas mayores adquieran conocimientos y destrezas en el campo de formulación y ejecución de proyectos productivos;
+V. La Asesoría jurídica gratuita a las personas adultas mayores que decidan retirarse de sus actividades laborales;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+VI. La Creación de mecanismos de autoempleo y emprendimiento mediante capacitación y el acceso a financiamiento público, con asesoría técnica, legal y financiera, así como a incubadoras y centros de capacitación y de desarrollo empresarial para que las personas adultas mayores adquieran conocimientos y destrezas en el campo de la formulación y ejecución de proyectos productivos, y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+VII. Incentivar la celebración de convenios intergeneracionales de mentoría, asociación o transferencia de conocimientos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2018)</small>
 
@@ -1198,3 +1240,15 @@ PRIMERA. Remítase el presente decreto, a la Persona Titular del Poder Ejecutivo
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que opongan al presente decreto.
+
+P.O. 7 DE OCTUBRE DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIENTO OCHO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente decreto a la Gobernadora Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERA. Por cuanto a las reformas y adiciones a las disposiciones de los artículos 6 en su fracción X, y 33 en sus fracciones III y VI, entrarán en vigor a partir del ejercicio fiscal del año dos mil veintisiete y estarán sujetas a la disponibilidad presupuestal.
+
+CUARTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente decreto.
