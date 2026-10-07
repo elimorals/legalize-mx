@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110192"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2026-09-11"
+last_updated: "2026-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2015.
 
@@ -299,9 +299,17 @@ Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a no
 
 Éstos deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2026)</small>
+
 ###### Artículo 13.
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar, conforme a los principios del interés superior de la niñez y la protección integral frente a toda forma de reclutamiento o utilización de niñas, niños y adolescentes para fines criminales por parte de grupos delictivos, mediante políticas públicas de prevención, rescate, rehabilitación, atención, reintegración y reparación del daño. Asimismo, deberán garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 13 Bis.
+
+Las autoridades estatales y municipales deberán implementar protocolos especializados para la detección temprana, atención psicológica, reinserción social y justicia restaurativa de niñas, niños y adolescentes víctimas de reclutamiento, en coordinación con el Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes, la Secretaría de Seguridad Pública, la Secretaría de Educación Pública y Cultura y la Fiscalía General del Estado.
 
 ### CAPÍTULO TERCERO. DEL DERECHO DE PRIORIDAD
 
@@ -2396,3 +2404,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Educación Pública y Cultura, deberá emitir los protocolos que regulen el uso responsable y seguro de teléfonos celulares y demás dispositivos electrónicos en instituciones de educación básica y media superior, en un plazo de ciento veinte días naturales, posteriores al inicio de vigencia del presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 538 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA Y AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades estatales y municipales, en un plazo de noventa días naturales contados a partir del inicio de vigencia del presente Decreto, deberán adecuar los protocolos de investigación, persecución penal y atención a víctimas, reconociendo expresamente a las niñas, niños y adolescentes reclutados como víctimas del delito.
