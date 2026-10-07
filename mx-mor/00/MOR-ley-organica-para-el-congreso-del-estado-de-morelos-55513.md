@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2026-07-01"
+last_updated: "2026-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -547,9 +547,11 @@ El Presidente de la Mesa Directiva es el Presidente del Congreso del Estado y en
 
 El Presidente responderá sólo ante el pleno del Congreso del Estado, cuando en el ejercicio de sus atribuciones se aparte de las disposiciones que las rigen.
 
+(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2026
+
 ###### Artículo 36.
 
-Son atribuciones del Presidente de la Mesa Directiva:
+Son atribuciones de la Presidencia Mesa Directiva:
 
 I. Presidir las sesiones del Congreso del Estado;
 
@@ -563,7 +565,11 @@ V. Conceder la palabra a los diputados, así como conducir los debates y las del
 
 VI. Poner a consideración de los diputados el acta de la sesión anterior y en su oportunidad someterla a su aprobación;
 
-VII. Presentar para su aprobación al pleno del Congreso del Estado, el orden del día acordado con la Conferencia para la Dirección y Programación de los Trabajos Legislativos y en su caso complementarla;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+VII. Presentar al pleno del Congreso del Estado para su aprobación y, en su caso dispensa de lectura, el orden del día remitido con la anticipación debida al correo electrónico en la cuenta oficial de las personas legisladoras, acordados con la Conferencia para la Dirección y Programación de los Trabajos Legislativos y de ser el caso complementarla;
+
+De igual forma instruir a la persona titular de la Secretaría de Servicios Legislativos y Parlamentarios para que el orden del día se publique en la página electrónica del Congreso veinticuatro horas antes de la celebración de la sesión del Pleno.
 
 VIII. Retirar del orden del día a petición de la Comisión o diputado que corresponda, los dictámenes o puntos de acuerdo que le sean solicitados retirar la sesión;
 
@@ -855,7 +861,9 @@ IV. Designar a los siguientes servidores públicos:
 
 a) Al secretario técnico de la propia Junta Política y de Gobierno;
 
-b) Al coordinador del área de Comunicación Social del Congreso del Estado;
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+b) A la persona titular de la Comunicación Social del Congreso del Estado; unidad administrativa a la que se le adscriben directamente las áreas encargadas del audio y video del salón de Plenos del Congreso del Estado;
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2022)</small>
 
@@ -3958,3 +3966,13 @@ QUINTA.– La Junta Política y de Gobierno deberá presentar al Pleno el acuerd
 SEXTA.– La Mesa Directiva, en un plazo de veinte días posteriores a la instalación de la nueva Comisión, deberá realizar el turno de los asuntos, expedientes y archivos que por su naturaleza competan a la Comisión de Pueblos y Comunidades Indígenas y Afromexicanas y que se encuentren en trámite en otras comisiones.
 
 SÉPTIMA.– Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+P.O. 7 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CINCO.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y DEL REGLAMENTO, AMBOS PARA EL CONGRESO DEL ESTADO DE MORELOS, EN MATERIA DE EFICIENCIA Y USO DE TECNOLOGÍAS EN EL DESARROLLO DE LAS SESIONES”.]
+
+PRIMERA. El presente decreto entró en vigor al momento de su aprobación por el Pleno del Congreso del Estado de Morelos, en términos de lo dispuesto por los artículos 38, segundo párrafo, de la Constitución Política del Estado Libre y Soberano de Morelos y 4 de la Ley Orgánica para el Congreso del Estado de Morelos.
+
+SEGUNDA. Remítase el presente decreto a la titular del Poder Ejecutivo para su publicación respectiva en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
