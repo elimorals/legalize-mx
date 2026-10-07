@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2026-09-04"
+last_updated: "2026-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2026.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -3471,11 +3471,11 @@ Cuando las llamadas o mensajes falsos las realicen menores de edad, se sancionar
 
 ### CAPITULO I. CORRUPCION Y EXPLOTACION DE MENORES E INCAPACES, PORNOGRAFIA INFANTIL, PROSTITUCION DE MENORES Y TURISMO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2026)</small>
 
 ###### ARTICULO 273.
 
-Al que procure o facilite la corrupción de un menor de dieciocho años de edad o de quien no tenga capacidad para comprender el significado del hecho, mediante actos encaminados a su perversión sexual, o impulsándolo a la práctica de la prostitución, la mendicidad; o bien al consumo de bebidas embriagantes, permitiendo la venta de éstas o suministrándoselas de cualquier forma; lo estimule o induzca a formar parte de una asociación delictuosa, a pertenecer a la delincuencia organizada o a cometer cualquier delito, se le impondrá de cinco a doce años de prisión y de quinientos a setecientos días multa, y se le inhabilitará para ser tutor o curador.
+Al que por cualquier medio procure, permita o facilite la corrupción de un menor de dieciocho años de edad o de quien no tenga capacidad para comprender el significado del hecho, mediante actos encaminados a su perversión sexual, o impulsándolo a la práctica de la prostitución, la mendicidad; o bien al consumo de bebidas embriagantes, permitiendo la venta de éstas o suministrándosela de cualquier forma, se le impondrá de cinco a doce años de prisión y de quinientos a setecientos días multa, y se le inhabilitará para ser tutor o curador.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -3537,9 +3537,29 @@ ARTICULO 274 BIS E.- Comete el delito de turismo sexual quien financie, promueva
 
 A quien realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho o de persona que no tiene capacidad de resistir la conducta, en virtud de las conductas antes descritas, se le impondrá una pena de doce a dieciséis años de prisión y de dos mil a tres mil días multa.
 
-### CAPITULO II. LENOCINIO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE OCTUBRE DE 2026)</small>
 
-### CAPITULO III
+### CAPÍTULO I BIS. RECLUTAMIENTO DE NIÑAS, NIÑOS O ADOLESCENTES PARA REALIZAR ACTMDADES DELICTIVAS
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+ARTICULO 274 Bis F. Comete el delito de reclutamiento de niñas, niños o adolescentes, quien por sí o por interpósita persona reclute, enliste, integre o incorpore por cualquier forma o medio a una o varias personas menores de dieciocho años de edad para realizar actividades delictivas tipificadas en este Código o en otras leyes.
+
+A la persona responsable se le impondrá una pena de diez a veinte años de prisión y de ochocientos a mil seiscientos días multa, con independencia de las sanciones que correspondan por otros delitos cometidos.
+
+Las penas establecidas en el párrafo anterior se aumentarán hasta en una mitad cuando:
+
+I. El delito fuere cometido por persona que tenga relación de parentesco por consanguinidad, afinidad o civil con la víctima o por quien tenga a la víctima bajo su custodia, guarda o educación;
+
+II. Se cometa ejerciendo violencia física o psicológica, abuso de poder, aprovechamiento de una situación de vulnerabilidad o cualquier otra forma que anule o limite la voluntad de la víctima;
+
+III. Se cometa por persona servidora pública; o
+
+IV. La víctima se encuentre en circunstancia de abandono, en situación de orfandad, migración, desplazamiento forzado, condición de calle o discapacidad, o cualquier otra condición especial de vulnerabilidad.
+
+Será equiparable al delito de reclutamiento de niñas, niños o adolescentes para realizar actividades delictivas, y se sancionará con las mismas penas y agravantes previstas en el presente artículo, cuando la conducta se cometa en contra de quien no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+
+### CAPITULO II. LENOCINIO
 
 ###### ARTICULO 275.
 
@@ -3549,7 +3569,7 @@ Si el agente fuere ascendiente, tutor, curador, cónyuge, concubinario o concubi
 
 > <small>(DEROGADO POR EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY ESTATAL PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS, P.O. 13 DE JULIO DE 2011)</small>
 
-### CAPITULO UNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
+### CAPITULO III
 
 ###### ARTICULO 276.
 
@@ -3557,7 +3577,7 @@ Si el agente fuere ascendiente, tutor, curador, cónyuge, concubinario o concubi
 
 ## TITULO QUINTO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
-### CAPITULO UNICO. RESPONSABILIDAD PROFESIONAL
+### CAPITULO UNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
 ###### ARTICULO 277.
 
@@ -3573,21 +3593,7 @@ Al que profane un cadáver con actos de necrofilia, se le impondrá prisión de 
 
 ## TITULO SEXTO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
 
-### CAPITULO UNICO. DELITOS COMETIDOS CONTRA LA LIBRE EXPRESION Y PERSONAS DEFENSORAS DE DERECHOS HUMANOS
-
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2022)</small>
-
-ARTICULO 283 BIS. Se aplicará de seis meses a cuatro años de prisión y de doscientos a trescientos días multa, a quien:
-
-I. Utilizando violencia evite se ejerza la actividad periodística o de personas defensoras de derechos humanos; y
-
-II. Obstaculice, impida o reprima la libertad de expresión o la actividad realizada por personas defensoras de derechos humanos.
-
-El presente delito se perseguirá por querella.
-
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2022)</small>
-
-ARTICULO 283 BIS A. Cuando la conducta prevista en el artículo anterior sea cometida por un servidor público en el ejercicio de sus funciones, la pena se aumentará hasta en el doble de la prevista en el artículo 283 Bis.
+### CAPITULO UNICO. RESPONSABILIDAD PROFESIONAL
 
 ###### ARTICULO 279.
 
@@ -3639,13 +3645,27 @@ A los encargados, empleados o dependientes de farmacias, que al surtir una recet
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MAYO DE 2022)</small>
 
-### CAPITULO I. SEDICION
+### CAPITULO UNICO. DELITOS COMETIDOS CONTRA LA LIBRE EXPRESION Y PERSONAS DEFENSORAS DE DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2022)</small>
+
+ARTICULO 283 BIS. Se aplicará de seis meses a cuatro años de prisión y de doscientos a trescientos días multa, a quien:
+
+I. Utilizando violencia evite se ejerza la actividad periodística o de personas defensoras de derechos humanos; y
+
+II. Obstaculice, impida o reprima la libertad de expresión o la actividad realizada por personas defensoras de derechos humanos.
+
+El presente delito se perseguirá por querella.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2022)</small>
+
+ARTICULO 283 BIS A. Cuando la conducta prevista en el artículo anterior sea cometida por un servidor público en el ejercicio de sus funciones, la pena se aumentará hasta en el doble de la prevista en el artículo 283 Bis.
 
 #### SECCION CUARTA. DELITOS CONTRA EL ESTADO
 
 ## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
-### CAPITULO II. MOTIN
+### CAPITULO I. SEDICION
 
 ###### ARTICULO 284.
 
@@ -3653,7 +3673,7 @@ A los que en forma tumultuaria resistan o ataquen a la autoridad con alguna de l
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les sancionará con prisión de uno a cuatro años.
 
-### CAPITULO III. REBELION
+### CAPITULO II. MOTIN
 
 ###### ARTICULO 285.
 
@@ -3661,7 +3681,7 @@ Se aplicará la pena de tres meses a cuatro años y de treinta a trescientos dí
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín, se les aplicará la pena de uno a cinco años de prisión y de sesenta a quinientos días multa.
 
-### CAPITULO IV. TERRORISMO
+### CAPITULO III. REBELION
 
 ###### ARTICULO 286.
 
@@ -3701,7 +3721,7 @@ Los rebeldes no serán responsables de los homicidios ni de las lesiones inferid
 
 No se aplicará pena alguna por el delito de rebelión a los que depongan las armas antes de ser tomados prisioneros, salvo que hubieren cometido otros delitos durante la rebelión o los que se mencionan en el artículo anterior.
 
-### CAPITULO V. SABOTAJE
+### CAPITULO IV. TERRORISMO
 
 ###### ARTICULO 291.
 
@@ -3709,7 +3729,7 @@ Salvo que sea delito de la competencia federal, se impondrá prisión de tres a 
 
 Se aplicará prisión de uno a nueve años, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
 
-### CAPITULO VI. CONSPIRACION
+### CAPITULO V. SABOTAJE
 
 ###### ARTICULO 292.
 
@@ -3723,9 +3743,7 @@ III.- Recursos o elementos esenciales, destinados al mantenimiento del orden pú
 
 Se aplicará prisión de seis meses a cinco años, al que teniendo conocimiento de las actividades de un saboteador y de su identidad no lo haga saber a las autoridades.
 
-### CAPITULO VI BIS. DELITOS CONTRA LAS ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PUBLICA Y DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2013)</small>
+### CAPITULO VI. CONSPIRACION
 
 ###### ARTICULO 293.
 
@@ -3733,7 +3751,9 @@ A quienes resuelvan de concierto cometer uno o varios delitos previstos en el pr
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE JULIO DE 2013)</small>
 
-### CAPITULO VII. DISPOSICIONES COMUNES
+### CAPITULO VI BIS. DELITOS CONTRA LAS ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PUBLICA Y DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 293 Bis.
 
@@ -3763,7 +3783,7 @@ La pena señalada en este numeral se aumentará desde un tercio hasta un tanto m
 
 La pena prevista en este artículo se aumentará hasta en una mitad más a quien, para la comisión del delito, utilice, induzca u obligue a menores de edad, personas adultas mayores o que no tienen capacidad para comprender el significado del hecho o resistirlo.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO VII. DISPOSICIONES COMUNES
 
 ###### ARTICULO 294.
 
@@ -3779,7 +3799,7 @@ A los mexicanos que cometan alguno de los delitos previstos en el artículo ante
 
 ## TITULO SEGUNDO. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR LOS SERVIDORES PUBLICOS
 
-### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PUBLICO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 296.
 
@@ -3789,7 +3809,7 @@ Para los efectos de este Código, servidor público es toda persona que desempe�
 
 Los servidores públicos que cometan alguno de los delitos previstos en el presente Título, serán sancionados con las penas de prisión y multa que para cada caso se señalan y privación del cargo e inhabilitación para desempeñar otro empleo, cargo o comisión pública, hasta por el doble del tiempo de la pena corporal que corresponda al delito cometido.
 
-### CAPITULO III. DESEMPEÑO IRREGULAR DE LA FUNCION PUBLICA
+### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PUBLICO
 
 ###### ARTICULO 298.
 
@@ -3825,9 +3845,7 @@ Al responsable de los delitos previstos en las fracciones IV y V se les impondr�
 
 Al servidor público que indebidamente y en perjuicio del servicio abandone las funciones que legalmente tenga conferidas, se le aplicará prisión de tres meses a tres años y de diez a ciento veinte días multa.
 
-### CAPITULO IV. ABUSO DE AUTORIDAD
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+### CAPITULO III. DESEMPEÑO IRREGULAR DE LA FUNCION PUBLICA
 
 ###### ARTICULO 300.
 
@@ -3861,7 +3879,9 @@ Cuando el monto del producto del delito o de los daños o perjuicios causados, e
 
 Se impondrá de uno a ocho años de prisión y de treinta a ciento ochenta días de multa al servidor público que autorice indebidamente o permita la ocupación irregular de áreas y predios en los Centros de Población, el Asentamiento Humano o construcción en polígonos de protección, salvaguarda y amortiguamiento en torno a la infraestructura o equipamientos de seguridad estatal o de protección en derechos de vía, o que no acate el área urbanizable.
 
-### CAPITULO V. INTIMIDACION
+### CAPITULO IV. ABUSO DE AUTORIDAD
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 301.
 
@@ -3905,21 +3925,19 @@ I. De dos a seis años de prisión y de treinta a quinientos días multa, destit
 
 II. De ocho a doce años de prisión y de mil a mil quinientos días multa, destitución e inhabilitación de siete a diecisiete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO VI. COALICION DE SERVIDORES PUBLICOS
+### CAPITULO V. INTIMIDACION
 
 ###### ARTICULO 302.
 
 Al servidor público que por sí o por interpósita persona, utilizando la violencia física o moral, intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la comisión de un delito, se le aplicarán de dos a seis años de prisión y de cincuenta a cuatrocientos cincuenta días multa.
 
-### CAPITULO VI (SIC). PECULADO
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+### CAPITULO VI. COALICION DE SERVIDORES PUBLICOS
 
 ###### ARTICULO 303.
 
 A los servidores públicos que se coaliguen para tomar medidas contrarias a una ley, reglamento o disposición de carácter general, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas, se les impondrá de seis meses a tres años de prisión y de treinta a ciento ochenta días multa, este delito se perseguirá por querella.
 
-### CAPITULO VII. COHECHO
+### CAPITULO VI (SIC). PECULADO
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
@@ -3951,7 +3969,9 @@ Además, a los responsables de este delito se les impondrá inhabilitación de d
 
 Cuando se configuren los supuestos previstos en los párrafos anteriores, si el servidor público reintegra la totalidad de los recursos públicos antes de concluir el ejercicio fiscal correspondiente en que tenían que ser aplicados, se le impondrá pena de prisión de uno a cuatro años, inhabilitación para ejercer cargos, empleos o comisiones en el servicio público por un término de tres a seis años, y de trescientos a quinientos días multa.
 
-### CAPITULO VIII. CONCUSION
+### CAPITULO VII. COHECHO
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 305.
 
@@ -3981,13 +4001,13 @@ ARTICULO 305 Bis A.- En ningún caso se devolverá a los responsables del delito
 
 Cuando el delito de cohecho sea cometido por algún elemento de los cuerpos policíacos o servidor de seguridad pública o servidor de la administración o procuración de justicia, se aumentarán las penas hasta en una mitad.
 
-### CAPITULO IX. ENRIQUECIMIENTO ILICITO
+### CAPITULO VIII. CONCUSION
 
 ###### ARTICULO 306.
 
 Al servidor público que con ese carácter y a título de impuesto o contribución, recargo, renta, réditos, salarios o emolumentos, exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida o mayor cantidad que la señalada por la ley, se le impondrán de seis meses a tres años de prisión y de treinta a ciento ochenta días multa.
 
-### CAPITULO X. NEGOCIACIONES ILICITAS
+### CAPITULO IX. ENRIQUECIMIENTO ILICITO
 
 ###### ARTICULO 307.
 
@@ -3995,7 +4015,7 @@ Al servidor público que con motivo de su empleo, cargo o comisión en el servic
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Fondo Auxiliar para la Administración de Justicia del Estado.
 
-### CAPITULO XI. TRAFICO DE INFLUENCIA
+### CAPITULO X. NEGOCIACIONES ILICITAS
 
 ###### ARTICULO 308.
 
@@ -4007,7 +4027,7 @@ II.- Mediante la realización de los actos a que se refiere la fracción anterio
 
 III.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público, a su cónyuge o a sus parientes consanguíneos o por afinidad hasta el cuarto grado o a sociedades de las que el agente forme parte.
 
-### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS
+### CAPITULO XI. TRAFICO DE INFLUENCIA
 
 ###### ARTICULO 309.
 
@@ -4019,15 +4039,15 @@ II.- Indebidamente solicite o promueva alguna resolución o la realización de c
 
 ## TITULO TERCERO. DELITOS CONTRA LA ADMINISTRACION PUBLICA COMETIDOS POR PARTICULARES
 
-### CAPITULO II. COHECHO COMETIDO POR PARTICULARES
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS
 
 ###### ARTICULO 310.
 
 Al particular que por sí o por interpósita persona promueva una conducta ilícita de un servidor público o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrá prisión de tres meses a dos años y de diez a cien días multa.
 
-### CAPITULO III. ADQUISICION U OCULTACION INDEBIDA DE RECURSOS PUBLICOS
+### CAPITULO II. COHECHO COMETIDO POR PARTICULARES
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 311.
 
@@ -4045,13 +4065,13 @@ II. De tres a ocho años de prisión y de quinientos a un mil días multa cuando
 
 No será sancionado el particular que denuncie ante el Ministerio Público dentro de los quince días siguientes a los hechos, la entrega que haya efectuado a un servidor público de dinero o cualquier otra dádiva cuando éste lo hubiera solicitado o lo incitara a ello.
 
-### CAPITULO IV. FALSEDAD ANTE AUTORIDAD
+### CAPITULO III. ADQUISICION U OCULTACION INDEBIDA DE RECURSOS PUBLICOS
 
 ###### ARTICULO 313.
 
 Al que a sabiendas adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, se le aplicará prisión de seis meses a cinco años y de treinta a trescientos días multa.
 
-### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPITULO IV. FALSEDAD ANTE AUTORIDAD
 
 ###### ARTICULO 314.
 
@@ -4069,7 +4089,7 @@ IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testig
 
 El testigo, perito o intérprete que retracte espontáneamente sus falsas declaraciones rendidas ante cualquier autoridad administrativa o ante la judicial, antes de que se pronuncie sentencia en la instancia en que las diere, sólo pagará de treinta a ciento ochenta días multa, pero si faltare a la verdad al retractar sus declaraciones, se le aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo.
 
-### CAPITULO VI. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### ARTICULO 316.
 
@@ -4107,13 +4127,13 @@ Se aplicará de uno a dos años de prisión y de diez mil a treinta mil días mu
 
 Si la conducta a que se refiere el párrafo anterior la realiza un integrante de alguna institución de seguridad pública, se aplicará de dos a cinco años de prisión, de veinte mil a cuarenta mil días multa e inhabilitación para ejercer cualquier empleo o cargo público en cualquier ámbito de gobierno hasta por veinte años.
 
-### CAPITULO VII. DELITOS COMETIDOS CONTRA SERVIDORES PUBLICOS
+### CAPITULO VI. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 322.
 
 Al que indebidamente destruya, retire, oculte o de cualquier otro modo quebrante los sellos puestos por orden legítima de la autoridad competente, se le aplicará prisión de tres meses a dos años o de sesenta a ciento ochenta días multa.
 
-### CAPITULO VIII. USURPACION DE FUNCIONES
+### CAPITULO VII. DELITOS COMETIDOS CONTRA SERVIDORES PUBLICOS
 
 ###### ARTICULO 323.
 
@@ -4123,17 +4143,13 @@ Al que cometa un delito en contra de un servidor público o agente de la autorid
 
 Se aplicará el doble de la pena prevista en el párrafo anterior, cuando el delito se cometa en contra de médicos, cirujanos, personal de enfermería o cualquier persona que realice actividades de atención médica perteneciente al Sistema Estatal de Salud, durante el período que comprenda una emergencia sanitaria. Para efectos de lo previsto en éste párrafo, el periodo que comprenda una emergencia sanitaria será la que se establezca en el acuerdo que emitan las autoridades sanitarias correspondientes en que dicha circunstancia así se declare, y de no precisarse plazo o fecha, lo será a partir de aquella en que el acuerdo de declaración se emita y hasta la fecha en que se declare su conclusión.
 
-### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y CONDECORACIONES
+### CAPITULO VIII. USURPACION DE FUNCIONES
 
 ###### ARTICULO 324.
 
 Al que indebidamente se atribuya y ejerza funciones propias de un servidor público, se le aplicarán de seis meses a cinco años de prisión y de veinte a cien días multa.
 
-### CAPÍTULO X. OCUPACIÓN IRREGULAR DE ÁREAS Y PREDIOS
-
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2018)</small>
-
-ARTICULO 325 BIS.- A quien promueva, induzca o se beneficie de la ocupación irregular de áreas, predios, polígonos de protección, salvaguarda y amortiguamiento en torno a la infraestructura o equipamientos de seguridad estatal, de protección en derechos de vía o que no acaten el área urbanizable se le impondrá prisión de uno a ocho años y de cien a mil días de multa.
+### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y CONDECORACIONES
 
 ###### ARTICULO 325.
 
@@ -4141,11 +4157,15 @@ Al que usare uniformes oficiales, condecoraciones, grados jerárquicos, distinti
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE AGOSTO DE 2018)</small>
 
-### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
+### CAPÍTULO X. OCUPACIÓN IRREGULAR DE ÁREAS Y PREDIOS
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2018)</small>
+
+ARTICULO 325 BIS.- A quien promueva, induzca o se beneficie de la ocupación irregular de áreas, predios, polígonos de protección, salvaguarda y amortiguamiento en torno a la infraestructura o equipamientos de seguridad estatal, de protección en derechos de vía o que no acaten el área urbanizable se le impondrá prisión de uno a ocho años y de cien a mil días de multa.
 
 ## TITULO CUARTO. DELITOS CONTRA LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. TORTURA
+### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
 
 ###### ARTICULO 326.
 
@@ -4245,7 +4265,7 @@ Además de las penas establecidas en el presente artículo la persona servidora 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2019)</small>
 
-### CAPITULO III. FRAUDE PROCESAL
+### CAPITULO II. TORTURA
 
 ###### ARTICULO 328.
 
@@ -4271,7 +4291,7 @@ Además de las penas establecidas en el presente artículo la persona servidora 
 
 (DEROGADO, P.O. 22 DE JULIO DE 2019)
 
-### CAPITULO IV. IMPUTACION DE HECHOS FALSOS Y SIMULACION DE PRUEBAS
+### CAPITULO III. FRAUDE PROCESAL
 
 ###### ARTICULO 334.
 
@@ -4281,9 +4301,7 @@ Se entenderá simulado, salvo prueba en contrario, el juicio que se siga en cont
 
 También se entenderá simulado, salvo prueba en contrario, el que se siga contra cualquier otra persona, si con ese motivo se desposee al depositario de la cosa previamente embargada o secuestrada en otro juicio o procedimiento, siempre que éste no la reclame dentro de los tres días siguientes.
 
-### CAPITULO V. EVASION DE PRESOS
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+### CAPITULO IV. IMPUTACION DE HECHOS FALSOS Y SIMULACION DE PRUEBAS
 
 ###### ARTICULO 335.
 
@@ -4293,7 +4311,9 @@ No se procederá contra el agente, sino después de que se dicte resolución irr
 
 Son aplicables para este delito, en lo conducente, los artículos 197, 198, 199 y 200 de este Código.
 
-### CAPITULO VI. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO V. EVASION DE PRESOS
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 336.
 
@@ -4317,7 +4337,7 @@ Al evadido no se le aplicará sanción, salvo que obre en concierto con otro u o
 
 Este delito puede ser cometido culposamente.
 
-### CAPITULO VII. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPITULO VI. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 341.
 
@@ -4347,7 +4367,7 @@ Salvo causa de fuerza mayor, por el quebrantamiento de cualquier otra pena no pr
 
 A quien de cualquier modo favorezca el quebrantamiento de algunas de las sanciones a que refiere este capítulo, se le aplicará prisión de tres meses a un año.
 
-### CAPITULO VIII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO VII. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 ###### ARTICULO 348.
 
@@ -4373,7 +4393,7 @@ III.- Los que estén ligados al delincuente por amor, respeto, gratitud o estrec
 
 La excusa no favorecerá a quien obre por motivos reprobables o emplee medios delictuosos.
 
-### CAPITULO IX. DELITOS DE ABOGADOS DEFENSORES Y LITIGANTES
+### CAPITULO VIII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### ARTICULO 351.
 
@@ -4381,9 +4401,7 @@ Al que empleare violencia para hacer efectivo un derecho o pretendido derecho qu
 
 Este delito sólo podrá perseguirse por querella de parte.
 
-### CAPITULO UNICO. DE LOS DELITOS ELECTORALES
-
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+### CAPITULO IX. DELITOS DE ABOGADOS DEFENSORES Y LITIGANTES
 
 ###### ARTICULO 352.
 
@@ -4413,9 +4431,9 @@ Al defensor de oficio que cometa alguno de los delitos a que se refiere el artí
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE ABRIL DE 1995)</small>
 
-### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS, SILVESTRES O FERALES
+### CAPITULO UNICO. DE LOS DELITOS ELECTORALES
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 354.
 
@@ -4657,9 +4675,9 @@ Se impondrán hasta 500 días multa a los ministros de cultos religiosos que, en
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2022)</small>
 
-### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
+### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS, SILVESTRES O FERALES
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
 
 ###### ARTICULO 364.
 
@@ -4699,9 +4717,9 @@ ARTICULO 364 BIS A.- Los delitos previstos en este Capítulo se perseguirán por
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2020)</small>
 
-### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
 
-> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 365.
 
@@ -4800,6 +4818,10 @@ Los delitos previstos en este Capítulo se perseguirán de oficio.
 ## TÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 376.
 
@@ -5686,3 +5708,15 @@ La Secretaría General de Gobierno del Poder Ejecutivo del Estado a través del 
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 538 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA Y AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades estatales y municipales, en un plazo de noventa días naturales contados a partir del inicio de vigencia del presente Decreto, deberán adecuar los protocolos de investigación, persecución penal y atención a víctimas, reconociendo expresamente a las niñas, niños y adolescentes reclutados como víctimas del delito.
