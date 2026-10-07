@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2026-07-22"
+last_updated: "2026-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1739,6 +1739,30 @@ XII.- Considerar la opinión y preferencia de las niñas, niños y adolescentes 
 
 XIII.- Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+ARTÍCULO 181 BIS.- Derecho a la convivencia fraterna
+
+Las niñas, niños y adolescentes tienen derecho a mantener relaciones personales, contacto directo y convivencia regular con sus hermanas y hermanos, así como con sus abuelas, abuelos y demás redes de apoyo familiar, aun cuando existan procesos de separación, custodia, tutela, acogimiento o cualquier otra medida que implique su residencia en hogares distintos, siempre que ello no resulte contrario a su interés superior.
+
+Las autoridades judiciales, administrativas y de asistencia social deberán adoptar las medidas necesarias para garantizar y preservar el vínculo fraterno familiar, privilegiando en todo momento el interés superior de la niñez y adolescencia.
+
+Para el cumplimiento de este derecho, se deberán considerar las siguientes disposiciones:
+
+I. En los procedimientos de guarda, custodia o tutela, las autoridades jurisdiccionales deberán procurar que las hermanas y los hermanos permanezcan juntos, así como que se preserve el vínculo y la convivencia con las abuelas, los abuelos y demás redes familiares, salvo que existan razones debidamente fundadas que lo impidan.
+
+II. Cuando por causas justificadas los hermanos deban residir separados, la autoridad jurisdiccional establecerá régimen de visitas, comunicación o convivencia, que garantice el mantenimiento regular y significativo del vínculo fraterno familiar, así como la vinculación afectiva.
+
+III. Las instituciones públicas o privadas encargadas del cuidado, acogimiento o resguardo de niñas, niños y adolescentes deberán implementar mecanismos que promuevan y faciliten la convivencia fraterna, incluyendo acompañamiento psicosocial y seguimiento institucional.
+
+IV. El Sistema Estatal para el Desarrollo Integral de la Familia emitirá y aplicará protocolos de actuación, conciliación y reunificación familiar, orientados a preservar y fortalecer los vínculos afectivos entre hermanos, abuelas, abuelos y redes de apoyo familiar.
+
+V. Las resoluciones judiciales o administrativas que impliquen separación de hermanos deberán fundarse y motivarse expresamente, valorando los efectos psicológicos, afectivos y sociales que dicha separación pueda generar, así como la opinión de las niñas, niños y adolescentes conforme a su edad, madurez y desarrollo evolutivo, quienes deberán ser escuchados de manera directa y con la asistencia de personal especializado en las áreas de psicología o trabajo social.
+
+Para efectos de este artículo, se entenderá por redes de apoyo familiar a los ascendientes, parientes colaterales hasta el cuarto grado y personas que mantengan un vínculo afectivo previo, significativo y seguro con la niña, niño o adolescente, que no represente un riesgo para su integridad.
+
+El derecho a la convivencia fraterna familiar forma parte del derecho a vivir en familia y deberá interpretarse conforme a los principios de interés superior de la niñez, unidad familiar, afectividad, y participación infantil, previstos en la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre los Derechos del Niño, la Ley General de los Derechos de Niñas, Niños y Adolescentes del Estado de Morelos y demás disposiciones aplicables.
+
 ### CAPÍTULO II. DE LOS HIJOS DE MATRIMONIO
 
 ###### ARTÍCULO 182.
@@ -3113,15 +3137,17 @@ INTERVENCIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA. En todo pro
 
 En caso de que el Sistema para el Desarrollo Integral de la Familia no acepte o, consienta la adopción del menor o incapaz, deberá acreditar fehacientemente los motivos por los cuales considera no sea favorable dicha adopción, así como que acredite que el menor o incapaz se encontraría en peligro su desarrollo físico, mental o cualquiera otro motivo análogo.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2026)</small>
+
 ###### ARTÍCULO 370.
 
-EFECTOS DEL REGISTRO CIVIL. La resolución que apruebe la adopción ordenará al Oficial del Registro Civil que levante acta de nacimiento, en la que figurarán como padres los adoptantes y como abuelos los padres de éstos, sin hacer mención de la adopción. También ordenará la cancelación, en su caso, del acta de nacimiento del adoptado así como de la Clave Única de Registro de Población correspondiente, debiendo el Registro Civil notificar lo anterior al Registro Nacional de Población y asignar una nueva Clave Única de Registro de Población correspondiente a la nueva acta de nacimiento.
+EFECTOS DEL REGISTRO CIVIL. La resolución que apruebe la adopción ordenará al Oficial del Registro Civil que levante acta de nacimiento, en la que figurarán como padres los adoptantes y como abuelos los padres de éstos, sin mencionar la adopción. También ordenará la cancelación, en su caso, del acta de nacimiento del adoptado, así como de la Clave Única de Registro de Población correspondiente, debiendo el Registro Civil notificar lo anterior al Registro Nacional de Población y asignar una nueva Clave Única de Registro de Población correspondiente a la nueva acta de nacimiento.
 
-La resolución judicial se guardará en el apéndice del acta, quedando absolutamente prohibido dar información sobre ella, excepto en los siguientes casos y siempre que sea por orden de juez competente:
+La resolución judicial se guardará en el apéndice del acta, quedando absolutamente prohibido dar información sobre ella, excepto en los siguientes casos:
 
 I.- Para efectos de impedimento para contraer matrimonio, y
 
-II.- Cuando el adoptado desee conocer sus antecedentes familiares, deberá contar con la mayoría e (sic) edad; si fuere menor de edad se requerirá el consentimiento del o los adoptantes.
+II.- Cuando el adoptado desee conocer sus antecedentes familiares, deberá contar con al menos dieciséis años; si fuere menor de esa edad, se requerirá el consentimiento del o los adoptantes.
 
 ### CAPÍTULO II. DE LA ADOPCIÓN INTERNACIONAL
 
@@ -7438,3 +7464,25 @@ PRIMERA. Remítase el presente Decreto a la Gobernadora Constitucional del Estad
 SEGUNDA. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano oficial de difusión del Gobierno del Estado.
 
 TERCERA. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO MIL CIENTO SESENTA Y TRES.- POR EL CUAL SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 30 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. El Sistema Estatal para el Desarrollo Integral de la Familia (DIF Morelos), en un plazo no mayor a 120 días naturales a partir de la publicación del presente decreto, deberá actualizar su protocolo de actuación para identificar y validar las redes de apoyo de las niñas, niños y adolescentes en procesos de guarda, custodia y convivencia, garantizando que dichos vínculos sean siempre en beneficio del interés superior de la niñez
+
+CUARTA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
+
+P.O. 7 DE OCTUBRE DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIENTO SETENTA Y CUATRO POR EL QUE SE REFORMA EL ARTÍCULO 370 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de (sic) Gobierno del Estado de Morelos.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
