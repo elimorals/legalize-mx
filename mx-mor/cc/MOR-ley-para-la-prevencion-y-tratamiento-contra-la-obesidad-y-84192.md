@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-prevencion-y-tratamiento-contra-la-obesidad-y-84192
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2015-04-22"
+last_updated: "2026-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA LA PREVENCIÓN Y TRATAMIENTO CONTRA LA OBESIDAD Y SOBREPESO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -141,15 +141,35 @@ I. Formular el Programa Estatal;
 
 II. Promover y ampliar, permanentemente, la adopción del Programa Estatal;
 
-III. Promover las (sic) participación de Organizaciones no Gubernamentales, en las acciones previstas por el Programa Estatal;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+III. Promover la participación de Organizaciones no Gubernamentales, en las acciones previstas por el Programa Estatal;
 
 IV. Proponer acciones tendientes a eliminar la discriminación y la estigmatización en el ámbito laboral, educacional o social, frente a los problemas del sobrepeso y la obesidad;
 
 V. Garantizar el conocimiento, difusión y acceso a la información de la sociedad en general, en materia de prevención y combate de los problemas del sobrepeso y la obesidad, a través de los Centros para la Prevención y Atención del Sobrepeso y la Obesidad;
 
-VI. Motivar y apoyar la participación social, pública y privada en la prevención y combate de los problemas del sobrepeso y la obesidad, así como promover la celebración de convenios de colaboración con estos sectores para la operatividad de los Centros para la Prevención y Atención del Sobrepeso y la Obesidad, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2026)</small>
 
-VII. Las demás que le reconozcan esta Ley y otras normas aplicables.
+VI. Motivar y apoyar la participación social, pública y privada en la prevención y combate de los problemas del sobrepeso y la obesidad, así como promover la celebración de convenios de colaboración con estos sectores para la operatividad de los Centros para la Prevención y Atención del Sobrepeso y la Obesidad;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+VII. Garantizar el conocimiento, difusión y acceso a la información de la sociedad en general en materia de etiquetado en los alimentos en términos de la Norma Oficial Mexicana;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+VIII. Regular en el ámbito de su competencia la publicidad de alimentos y bebidas no saludables dirigidas a niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+IX. Establecer Programas de prevención y tratamiento de la obesidad y el sobrepeso en los centros de salud y hospitales del estado;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2026)</small>
+
+X. Promover la actividad física en los espacios públicos y privados, y ofrecer programas de ejercicio físico gratuitos o a bajo costo, y
+
+XI. Las demás que le reconozcan esta Ley y otras normas aplicables.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -396,3 +416,11 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 7 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO OCHENTA Y UNO.- POR EL QUE SE ADICIONAN LAS FRACCIONES VII, VIII, IX Y X Y SE RECORREN (SIC) EN SU ORDEN NATURAL LA QUE ERA VII PARA SER XI DEL ARTÍCULO 9 DE LA LEY PARA LA PREVENCIÓN Y TRATAMIENTO CONTRA LA OBESIDAD Y SOBREPESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Gobernadora Constitucional del Estado de Morelos, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a), del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
