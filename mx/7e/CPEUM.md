@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2026-06-02"
+last_updated: "2026-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE OCTUBRE DE 2026.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -3272,21 +3272,33 @@ Se deposita el ejercicio del Supremo Poder Ejecutivo de la Unión en un solo ind
 
 La elección del presidente será directa y en los términos que disponga la ley electoral. El cargo de presidente de los Estados Unidos Mexicanos puede ser revocado en los términos establecidos en esta Constitución.
 
-> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 1927)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE OCTUBRE DE 2026)</small>
 
 ###### Art. 82.
 
-Para ser Presidente se requiere:
+Para ser Presidente o Presidenta se requiere:
 
-> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE OCTUBRE DE 2026)</small>
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, hijo de padre o madre mexicanos y haber residido en el país al menos durante veinte años;
+I.- Ser ciudadano o ciudadana mexicana por nacimiento, en pleno goce de sus derechos, hijo o hija de padre o madre mexicanos; no tener ni adquirir otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley, y haber residido en el país al menos durante veinte años.
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2026)</small>
+
+Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana.
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2026)</small>
+
+Quedan comprendidos en esta prohibición el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución.
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 1927)</small>
 
 II.- Tener 35 años cumplidos al tiempo de la elección;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 20 DE AGOSTO DE 1993)</small>
 
 III.- Haber residido en el país durante todo el año anterior al día de la elección. La ausencia del país hasta por treinta días, no interrumpe la residencia;
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 1927)</small>
 
 IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
@@ -4820,9 +4832,13 @@ b) El gobernador interino, el provisional o el ciudadano que, bajo cualquier den
 
 c) La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.
 
-> <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2026)</small>
 
-Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa.
+Sólo podrá ser gobernador o gobernadora constitucional de un Estado un ciudadano o ciudadana mexicana por nacimiento que no tenga ni adquiera otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley, así como ser nativo o nativa de dicho Estado, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa.
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2026)</small>
+
+Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana. Quedan comprendidos en esta prohibición, entre otros supuestos, el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución, y de las constituciones de las entidades federativas.
 
 II.- El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
 
@@ -5144,7 +5160,13 @@ El titular de la entidad de fiscalización de la Ciudad de México será electo 
 
 III. La persona titular del Poder Ejecutivo se denominará Jefa o Jefe de Gobierno de la Ciudad de México y tendrá a su cargo la administración pública de la entidad; será electa por votación universal, libre, secreta y directa, no podrá durar en su encargo más de seis años y su mandato podrá ser revocado. Quien haya ocupado la titularidad del Ejecutivo local designado o electo, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni con el carácter de interino, provisional, sustituto o encargado del despacho. Tampoco podrá participar en la elección de este cargo, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del Poder Ejecutivo.
 
-La Constitución Política de la Ciudad de México establecerá las facultades del Jefe de Gobierno y los requisitos que deberá reunir quien aspire a ocupar dicho encargo.
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2026)</small>
+
+La Constitución Política de la Ciudad de México establecerá las facultades del Jefe o Jefa de Gobierno y los requisitos que deberá reunir quien aspire a ocupar dicho encargo. En todo caso se requerirá ser ciudadana o ciudadano mexicano por nacimiento y no tener ni adquirir otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley.
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2026)</small>
+
+Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana. Quedan comprendidos en esta prohibición, entre otros supuestos, el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución, y de la Constitución Política de la Ciudad de México.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
 
@@ -9825,3 +9847,19 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de su competencia, deberán armonizar el marco normativo para adecuarlo al contenido de este Decreto, antes del 5 de junio de 2026.
 
 Tercero.- El Instituto Nacional Electoral, los organismos públicos locales electorales, el Tribunal Electoral del Poder Judicial de la Federación y los tribunales electorales de las entidades federativas revisarán y adecuarán sus disposiciones normativas y administrativas para garantizar el cumplimiento de lo previsto en el presente Decreto.
+
+D.O.F. 7 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 82, 116 Y 122 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE NACIONALIDAD ÚNICA PARA EL EJERCICIO DE LA TITULARIDAD DE LOS PODERES EJECUTIVOS FEDERAL Y LOCALES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Lo dispuesto en este Decreto será aplicable a partir del proceso electoral correspondiente al año 2028.
+
+Tercero. Lo dispuesto en este Decreto no será aplicable a quienes se encuentren en ejercicio de los cargos a que este se refiere, a la fecha de su entrada en vigor.
+
+Cuarto. El Congreso de la Unión realizará las adecuaciones a la Ley de Nacionalidad y a la legislación electoral dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Quinto. Los certificados de nacionalidad mexicana expedidos con anterioridad a la entrada en vigor del presente Decreto conservarán su validez y surtirán plenos efectos respecto de los cargos y funciones distintos de los señalados en los artículos 82, 116, fracción I, y 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos.
+
+Sexto. Las entidades federativas armonizarán sus constituciones y su legislación electoral con lo dispuesto en el presente Decreto dentro de los noventa días naturales siguientes a su entrada en vigor. En tanto, lo dispuesto en este Decreto será de aplicación directa.
