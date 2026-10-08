@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2025-12-19"
+last_updated: "2026-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE OCTUBRE DE 2026.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -7810,9 +7810,11 @@ VII. Por cualquier otro servicio distinto a los señalados en las fracciones ant
 
 No se causará el pago de los derechos a que se refiere este artículo, cuando se trate de bienes adquiridos a favor de la Ciudad de México mediante algún juicio o procedimiento de extinción de dominio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
 ###### ARTICULO 224.
 
-Por los servicios de control vehicular que se presten respecto a motocicletas y motonetas, se pagarán las siguientes cuotas:
+Por los servicios de control vehicular que se presten respecto a motocicletas, motonetas y Vehículos Motorizados Eléctricos Personales, se pagarán las cuotas siguientes:
 
 > <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
@@ -7842,9 +7844,9 @@ VI. Por el trámite de baja de vehículo $485.00
 
 VII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $230.00
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2026)</small>
 
-Tratándose de motocicletas y motonetas eléctricas, los pagos de derechos a que se refieren las fracciones I, II, IV y V de este artículo, tendrán una reducción del 50%.
+Tratándose de motocicletas y motonetas eléctricas, así como de Vehículos Motorizados Eléctricos Personales, los pagos de derechos a que se refieren las fracciones I, II, IV y V de este artículo, tendrán una reducción del 50%.
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -7946,13 +7948,13 @@ a). Tipo “A”, para conducir vehículos particulares $1,142.00
 
 b). Tipo “A”, para conducir vehículos particulares, con vigencia permanente $1,500.00
 
-(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020) (REFORMADO EN SU CUOTA, G.O. 19 DE DICIEMBRE DE 2025)
+(REFORMADO, G.O. 8 DE OCTUBRE DE 2026) (REFORMADO EN SU CUOTA, G.O. 19 DE DICIEMBRE DE 2025)
 
-c). Tipo "A1", para conducir motocicletas $572.00, y
+c). Tipo "A1", para conducir motocicletas y Vehículos Motorizados Eléctricos Personales $572.00, y
 
-(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020) (REFORMADO EN SU CUOTA, G.O. 19 DE DICIEMBRE DE 2025)
+(REFORMADO, G.O. 8 DE OCTUBRE DE 2026) (REFORMADO EN SU CUOTA, G.O. 19 DE DICIEMBRE DE 2025)
 
-d). Tipo "A2", para conducir vehículos particulares y motocicletas $1,142.00
+d). Tipo "A2", para conducir vehículos particulares, motocicletas y Vehículos Motorizados Eléctricos Personales $1,142.00
 
 III. Por licencia tarjetón tipo "B" para conducir taxis, por su expedición y renovación:
 
@@ -27881,3 +27883,11 @@ ARTÍCULO CUADRAGÉSIMO TERCERO.- Durante el ejercicio fiscal de 2026 la persona
 ARTÍCULO CUADRAGÉSIMO CUARTO.- Los contribuyentes que realicen el pago de los derechos establecidos en el artículo 219, fracción I, inciso c) del Código Fiscal de la Ciudad de México, referente al Alta Conmemorativa, quedarán eximidos de la obligación de pago de los derechos previstos en el artículo 219, fracción VI del mismo ordenamiento, correspondientes a la Baja de vehículo.
 
 Lo anterior, sin perjuicio de la obligación de realizar los trámites administrativos de baja vehicular y devolución de láminas ante las autoridades competentes, a fin de garantizar la correcta actualización del Padrón Vehicular de la Ciudad de México.
+
+G.O. 8 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 224 Y LOS INCISOS C) Y D) DE LA FRACCIÓN II DEL ARTÍCULO 229, AMBOS DEL CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para los efectos constitucionales conducentes.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
