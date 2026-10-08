@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-y-conservacion-de-arboles-urbanos-del-109135"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-21"
-last_updated: "2025-11-04"
+last_updated: "2026-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SLP"
 
 LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2026.
 
-Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 21 de julio de 2015
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 21 de julio de 2015.
 
 Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
@@ -200,6 +200,14 @@ VII. Celebrar acuerdos, convenios de coordinación y cooperación para el cumpli
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2024)</small>
 
 VIII. Realizar campañas de forestación y reforestación así como de información del cuidado de áreas verdes e impulsar programas de participación ciudadana que promuevan el mantenimiento, mejoramiento, preservación, restauración, fomento, y plantación de árboles;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2026)</small>
+
+Los ayuntamientos deberán considerar, dentro de sus instrumentos de planeación ambiental y conforme a su disponibilidad presupuestaria, capacidades institucionales y condiciones territoriales, la implementación o fortalecimiento de campañas de forestación y reforestación durante el inicio de su administración constitucional.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2026)</small>
+
+Asimismo, podrán remitir a la Secretaría de Ecología y Gestión Ambiental información estadística relacionada con las acciones emprendidas en materia de arbolado urbano, con el propósito de fortalecer los mecanismos de coordinación, evaluación y seguimiento de las políticas ambientales municipales.
 
 IX. Autorizar las solicitudes correspondiente respecto de los trabajos de derribo de árboles urbanos existentes en el territorio del municipio, fundamentado en el dictamen técnico de perito dictaminador en poda, derribo, trasplante y restitución de árboles, en los términos de esta Ley y la reglamentación aplicable;
 
@@ -1020,6 +1028,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0303.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0608.- QUE REALIZA ADICIÓN AL ARTÍCULO 10, DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
