@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2026-07-23"
+last_updated: "2026-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE OCTUBRE DE 2026.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -2006,6 +2006,10 @@ La Ciudad de México adoptará para su régimen interior la forma de gobierno re
 
 Artículo 29
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+Del Congreso de la Ciudad De México
+
 Del Congreso de la Ciudad
 
 A. Integración
@@ -2076,9 +2080,9 @@ i) No ser ministro de culto religioso, a menos que hubiere dejado de serlo con c
 
 j) No haber sido consejera o consejero, magistrada o magistrado electoral, a menos que haya concluido su encargo o se haya separado del mismo, tres años antes del inicio del proceso electoral local correspondiente.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE JUNIO DE 2026)</small>
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE OCTUBRE DE 2026)
 
-D. De las competencias del Congreso de la Ciudad de México.
+D. De las competencias del Congreso de la Ciudad de México
 
 El Congreso de la Ciudad de México tendrá las siguientes competencias legislativas:
 
@@ -2118,19 +2122,27 @@ p) Elaborar un sistema de evaluación de resultados de su trabajo legislativo, a
 
 q) Promover la conformación del Parlamento Metropolitano; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE DICIEMBRE DE 2024)</small>
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE OCTUBRE DE 2026)
 
 r) Con relación a la elección de personas titulares de magistraturas y juzgados integrantes del Poder Judicial de la Ciudad de México:
 
 I. Nombrar por el voto de las dos terceras partes de los miembros presentes, a una persona integrante del órgano de administración del poder judicial;
 
-II. Emitir la convocatoria para la integración de las candidaturas de (sic) Poder Judicial Local;
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2026)</small>
 
-III. Integrar el Comité de Evaluación del Poder Legislativo;
+II. Publicar la convocatoria para la integración del listado de candidaturas a más tardar el 30 de abril del año anterior al de la elección judicial que corresponda, que contendrá las etapas completas del procedimiento, sus fechas, plazos improrrogables y los cargos a elegir. La Presidencia del Órgano de Administración Judicial hará del conocimiento del Congreso de la Ciudad de México los cargos sujetos a elección, la especialización por materia y demás información que se requiera;
 
-IV. Recibir las candidaturas del Poder Ejecutivo, del Poder Judicial, integrar las del poder legislativo y remitirlas al Instituto Electoral de la Ciudad de México; y
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2026)</small>
 
-V. Otorgar o negar las solicitudes de licencia o separación definitiva de las personas servidoras públicas del Poder Judicial en los términos que establezcan las leyes;
+III. Integrar el Comité de Evaluación del Poder Legislativo en términos de lo previsto por esta Constitución;
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+IV. Recibir las candidaturas de los Poderes Ejecutivo y Judicial e integrar las del Poder Legislativo y remitirlas al Instituto Electoral de la Ciudad de México en los plazos que refiera la convocatoria; y
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+V. Otorgar o negar las solicitudes de licencia o separación definitiva de las personas juzgadoras del Poder Judicial en los términos que establezcan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables;
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -2210,6 +2222,8 @@ g) Los organismos autónomos, en las materias de su competencia.
 
 Artículo 31
 
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE OCTUBRE DE 2026)
+
 De la Comisión Permanente
 
 1. La Comisión Permanente estará conformada por el veinte por ciento de los integrantes del Congreso de la Ciudad de México, además de una o un sustituto por cada integrante. Sesionará en los recesos a fin de desahogar proposiciones y comunicaciones; turnar las iniciativas y mociones a los órganos correspondientes. No podrá desahogar dictámenes de mociones, leyes, decretos ni designaciones.
@@ -2222,9 +2236,15 @@ De la Comisión Permanente
 
 5. La Comisión Permanente tiene competencia para aprobar solicitudes de licencia de las y los diputados y tomar protesta a los legisladores suplentes.
 
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+6. La Comisión Permanente tiene competencia para otorgar o negar las solicitudes de licencia o separación definitiva de las personas juzgadoras del Poder Judicial en los términos que establezcan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables, durante los períodos de receso.
+
 ### CAPÍTULO II. DE LA FUNCIÓN EJECUTIVA
 
 Artículo 32
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE OCTUBRE DE 2026)
 
 De la Jefatura de Gobierno
 
@@ -2264,7 +2284,11 @@ j) No ser ministro de culto religioso, a menos que hubiere dejado de serlo con c
 
 k) No haber sido consejera o consejero, magistrada o magistrado electorales, a menos que haya concluido su encargo o se haya separado del mismo, al menos tres años antes de la fecha de inicio del proceso electoral local correspondiente.
 
-C. De las Competencias
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE OCTUBRE DE 2026)</small>
+
+C) De las competencias
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE OCTUBRE DE 2026)
 
 1. La persona titular de la Jefatura de Gobierno tiene las siguientes competencias:
 
@@ -2278,13 +2302,15 @@ d) Presentar al Congreso de la Ciudad de México la iniciativa de Ley de Ingreso
 
 e) Proponer al Congreso a la persona titular encargada del control interno de la Ciudad de México observando lo dispuesto en el numeral 3 del artículo 61 de esta Constitución;
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 23 DE DICIEMBRE DE 2024)</small>
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE OCTUBRE DE 2026)
 
 f) Con relación a la elección de personas integrantes del Poder Judicial:
 
 I. Nombrar una persona integrante del Órgano de Administración del Poder Judicial;
 
-II. Integrar el Comité de Evaluación para el Proceso de Selección de personas candidatas del poder judicial;
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+II. Integrar el Comité de Evaluación para el Proceso de Selección de personas candidatas del Poder Judicial, en términos de lo previsto por esta Constitución;
 
 III. Postular a las personas candidatas para la elección de las personas integrantes del Poder Judicial de la Ciudad de México, conforme al procedimiento previsto en la presente constitución y la ley;
 
@@ -2372,6 +2398,8 @@ Los compromisos establecidos en el convenio de coalición serán regulados en lo
 
 Artículo 35
 
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE OCTUBRE DE 2026)
+
 Del Poder Judicial
 
 A. De la función judicial
@@ -2395,6 +2423,8 @@ Aunado a lo anterior, en la función jurisdiccional se privilegiarán los princi
 > <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
 Para garantizar el acceso a la justicia de forma ágil y oportuna, el Poder Judicial, el Tribunal Electoral, el Sistema de Justicia Laboral y el Tribunal de Justicia Administrativa, todos de la Ciudad de México, contarán con un Sistema de Justicia Electrónica, acorde con el principio de equivalencia funcional y mediante el uso de las tecnologías de la información y la comunicación, a efecto de proporcionar las herramientas para tramitar los juicios y sus instancias, en forma electrónica, de manera alternativa y adicional a su tramitación escrita, de acuerdo con su naturaleza y formalidades esenciales.
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE OCTUBRE DE 2026)
 
 B. De su integración y funcionamiento
 
@@ -2448,47 +2478,81 @@ Las personas titulares de Magistraturas y Juzgados del Poder Judicial, incluyend
 
 8. La separación definitiva de Magistradas y Magistrados del Tribunal de Disciplina Judicial y Magistradas y Magistrados del Tribunal Electoral, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso o, en sus recesos, por la Comisión Permanente.
 
-> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2026)</small>
 
-9. Las licencias de las personas magistradas o juezas, cuando no excedan de un mes, podrán ser concedidas por el Órgano de Administración Judicial; para el caso de Magistradas o Magistrados, esto se hará por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes; y será el Pleno del Tribunal Electoral quien las conceda para el caso de Magistradas y Magistrados Electorales.
+9. Las licencias de las personas magistradas o juezas, cuando no excedan de un mes, podrán ser concedidas por el Órgano de Administración Judicial; y será el Pleno del Tribunal de Disciplina Judicial quien conceda para el caso de sus Magistradas y Magistrados.
 
-Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2026)</small>
 
-> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+Las licencias que excedan de este tiempo, deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los integrantes presentes del Congreso, y en sus recesos por la Comisión Permanente para el caso de Magistradas y Magistrados del Tribunal de Disciplina Judicial; y por el Órgano de Administración Judicial para el caso de Magistradas, Magistrados, Juezas y Jueces. Ninguna licencia podrá exceder del término de un año.
 
-10. Cuando la falta de una Magistrada, Magistrado, Jueza o Juez excediere de un mes sin licencia o dicha falta se deba a su defunción, o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso de la Ciudad de México tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2026)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
+10. Cuando la falta de una Magistrada o Magistrado del Tribunal de Disciplina Judicial excediere de un mes sin licencia o por cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso de la Ciudad de México tomará protesta a la persona que sea designada como sustituta para que desempeñe el cargo por el periodo restante.
 
-C. De la elección de personas Magistradas y Jueces.
+> <small>(ADICIONADA, G.O. 8 DE OCTUBRE DE 2026)</small>
 
-El Tribunal Superior de Justicia de la Ciudad de México tendrá las siguientes funciones:
+11. En caso de defunción, renuncia, destitución o ausencia definitiva de Magistradas y Magistrados, Juezas y Jueces, el Órgano de Administración Judicial declarará vacante el cargo y deberá renovarse para un nuevo período de elección inmediata posterior que corresponda.
 
-(NOTA: EL 10 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, PARTES 2 Y 3 Y APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 83/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL INCISO a) DEL APARTADO C) DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE OCTUBRE DE 2026)</small>
 
-a) Ejercer el control de constitucionalidad, CONVENCIONALIDAD y legalidad EN LOS TÉRMINOS QUE ESTABLECE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, y determinar la inaplicación de las leyes o decretos contrarios a esta Constitución, en las materias de sus respectivas competencias; y
+C. De la elección de personas Magistradas y Jueces
 
-(NOTA: EL 10 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, PARTES 2 Y 3 Y APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 83/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO b) DEL APARTADO C) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2026)</small>
 
-b) Proteger y salvaguardar los derechos humanos y sus garantías reconocidos por esta Constitución Y POR LOS TRATADOS INTERNACIONALES.
+La elección de las personas juzgadoras adscritas al Poder Judicial se sujetará estrictamente a las bases, etapas, procedimientos, términos, modalidades, requisitos, duración de los cargos y demás disposiciones que señalan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y demás leyes aplicables, para la elección de las personas juzgadoras adscritas al Poder Judicial de la Federación, en lo que resulte aplicable.
+
+a) (DEROGADO, G.O. 8 DE OCTUBRE DE 2026)
+
+b) (DEROGADO, G.O. 8 DE OCTUBRE DE 2026)
 
 > <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 23 DE DICIEMBRE DE 2024)</small>
 
 1. Las Magistradas y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y las Juezas y Jueces, que integran el Poder Judicial de la Ciudad de México, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones ordinarias locales del año que corresponda conforme al procedimiento siguiente:
 
-a) El Congreso de la Ciudad de México publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del proceso, sus fechas y plazos improrrogables y los cargos a elegir. El Órgano de Administración Judicial informará al Congreso los cargos sujetos a elección, la especialización por materia y la demás información que se requiera;
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+a) El Congreso de la Ciudad de México publicará la convocatoria para la integración del listado de candidaturas a más tardar el treinta de abril del año anterior al de la elección que corresponda, que contendrá las etapas completas del proceso, sus fechas y plazos improrrogables y los cargos a elegir. El Órgano de Administración Judicial informará al Congreso los cargos sujetos a elección, la especialización por materia y la demás información que se requiera.
 
 b) Cada Poder de la Ciudad de México postulará un listado de personas candidatas conforme a lo establecido en el presente apartado. Para la evaluación y selección de sus postulaciones, se observará lo siguiente:
 
-i. Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas interesadas que acrediten los requisitos establecidos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en las leyes, considerando la presentación de un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2026)</small>
 
-ii. Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales y seleccionará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
+i. Los Poderes establecen mecanismos públicos, abiertos, trasparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de las personas interesadas que acrediten los requisitos establecidos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en las leyes;
 
-iii. Cada Comité de Evaluación integrará un listado de las diez personas mejor evaluadas para cada cargo de Magistradas y Magistrados integrantes del Tribunal de Disciplina Judicial, y de las seis personas mejor evaluadas para cada cargo Magistraturas, Juezas y Jueces. Posteriormente, depurarán cada listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder de la Ciudad de México para su aprobación y envío al Congreso.
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2026)</small>
 
-> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+ii. Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica.
 
-2. El Congreso recibirá las postulaciones y remitirá los listados al Instituto Electoral de la Ciudad de México a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+Las personas coordinadoras de los tres Comités integrarán una Comisión Coordinadora responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos y emitir acuerdos que regulen los trabajos de los tres Comités.
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+iii. Cada Comité seleccionará, conforme a los criterios definidos por la Comisión Coordinadora, a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
+
+> <small>(ADICIONADA, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+iv. Los Comités de Evaluación integrarán un listado de las cuatro personas mejor evaluadas para cada cargo.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+Posteriormente, depurará dicho listado mediante insaculación pública para ajustarlo a dos personas para cada cargo.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+Los Comités garantizarán la paridad de género en el listado de personas a insacular por materia o especialidad, de ser aplicable. Asimismo, observarán la paridad de género en el listado de propuestas posterior a la insaculación.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder para su aprobación y envío al Congreso.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+Para los efectos del párrafo anterior, cada uno de los Poderes postulará a dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de la persona titular de la Jefatura de Gobierno; el Poder Legislativo, lo hará mediante votación calificada de dos tercios de sus integrantes presentes; y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, por mayoría de votos de las dos terceras partes de sus integrantes presentes.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE OCTUBRE DE 2026)</small>
+
+2. El Congreso recibirá postulaciones y remitirá los listados al Instituto Electoral de la Ciudad de México, en los plazos que refiera la convocatoria a efecto de que organice el proceso electivo.
 
 Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes de la Ciudad de México, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente.
 
@@ -2496,17 +2560,51 @@ Las personas candidatas podrán ser postuladas simultáneamente por uno o varios
 
 3. El Instituto Electoral de la Ciudad de México efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, observando el principio de paridad de género, acatando los lineamientos que al efecto emita.
 
-También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral de la Ciudad de México, quien resolverá las impugnaciones antes de que el Congreso instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas electas tomarán protesta de su encargo ante el órgano legislativo.
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+También declarará la validez de la elección y enviará los resultados al Tribunal Electoral de la Ciudad de México, quien resolverá las impugnaciones antes de que el Congreso instale el primer periodo de sesiones del año de la elección que corresponda, fecha en que las personas electas tomarán protesta de su encargo ante el órgano legislativo. Las autoridades electorales no podrán modificar los resultados de la elección ni la asignación de cargos después de esa fecha.
 
 El Instituto Electoral de la Ciudad de México estará facultado para emitir los acuerdos generales o lineamientos que resulten necesarios para dar cumplimiento a lo dispuesto en el presente numeral.
 
-> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
 
-4. Cada uno de los Poderes de la Ciudad de México postulará hasta dos personas para cada cargo de Magistrada o Magistrado, Jueza o Juez; y hasta tres personas para cada cargo del Tribunal de Disciplina Judicial: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo postulará mediante la votación calificada de las dos terceras partes de sus integrantes presentes, y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, postulará mediante la votación de las dos terceras partes de sus integrantes presentes.
+Para el caso de Magistradas y Magistrados del Tribunal de Disciplina Judicial, la elección se realizará en todo el territorio de la Ciudad de México conforme al procedimiento previsto en este artículo y en los términos que dispongan las leyes aplicables.
 
-> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
 
-5. El Congreso incorporará a los listados que remita al Instituto Electoral de la Ciudad de México a las personas que se encuentren en funciones en los cargos señalados en el numeral anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos, observando la paridad de género.
+Para la elección de Magistradas, Magistrados, Juezas y Jueces del Tribunal Superior de Justicia, se dividirá la Ciudad de México en los distritos judiciales que sean necesarios para garantizar que la ciudadanía elija una candidatura por cada especialidad o materia, bajo el principio de paridad de género, identificando el Poder que postula a la persona candidata o si está en funciones.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+Las asignaciones de personas candidatas por distrito se hará de forma aleatoria en acto público por parte del Instituto Electoral de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+El Instituto Electoral de la Ciudad de México realizará en cada elección judicial las modificaciones necesarias al marco geográfico electoral para adecuar los distritos judiciales al número de cargos y especialidades a elegir.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+Las boletas electorales de la elección judicial distinguirán al Poder postulante, y cuando corresponda, a las personas juzgadoras en funciones en los cargos a elegir. Asimismo, distinguirán las especialidades que correspondan a cada ámbito territorial y contendrán los nombres completos de las personas candidatas.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+Las candidaturas se ubicarán en recuadros para que la ciudadanía señale su preferencia, debiendo elegir una sola candidatura por especialidad o materia.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+La jornada electoral judicial se celebrará en la misma ubicación donde se realicen las elecciones ordinarias federales o locales de ese año. Las autoridades electorales adoptarán las medidas necesarias para garantizar que la jornada electoral judicial se desarrolle sin la intervención de personas representantes de partidos políticos.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+El escrutinio y cómputo de los votos se realizará en la casilla que fueron sufragados.
+
+4. (DEROGADO, G.O. 8 DE OCTUBRE DE 2026)
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+5. Las personas juzgadoras que aspiren a un cargo de elección distinta al que ostentan deberán separarse del cargo mediante renuncia expresa e irrevocable, la cual informarán al Órgano de Administración Judicial antes de su registro en el proceso correspondiente, en términos de lo que establezca la convocatoria respectiva. El Órgano de Administración Judicial comunicará de inmediato la vacante a la autoridad competente para que el cargo sea sujeto a elección.
+
+Tratándose de Magistradas y Magistrados del Tribunal de Disciplina Judicial, se estará a lo dispuesto por el numeral 11 del Apartado B de este artículo.
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -2618,9 +2716,9 @@ Es un órgano dependiente de la Presidencia del Tribunal Superior de Justicia de
 
 En el ejercicio de sus funciones deberá garantizar la objetividad e imparcialidad de los dictámenes que emita, de conformidad con las leyes y los estándares nacionales e internacionales en la materia.
 
-> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], G.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE OCTUBRE DE 2026)</small>
 
-G. Del Tribunal de Disciplina Judicial
+G. Del Tribunal de Disciplina
 
 1. La disciplina del personal del Poder Judicial de la Ciudad de México estará a cargo de un Tribunal de Disciplina Judicial, que contará con independencia técnica y de gestión para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución y las leyes aplicables.
 
@@ -2637,6 +2735,10 @@ Las sanciones que emita el Tribunal podrán incluir la amonestación, suspensió
 5. El Tribunal de conformidad con lo que prevea la ley correspondiente, desahogará el procedimiento de responsabilidades administrativas en primera instancia a través de comisiones conformadas por tres de sus integrantes, que fungirán como autoridad sustanciadora y resolutora en los asuntos de su competencia. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de estas.
 
 6. EI (sic) Tribunal evaluará el desempeño de las personas titulares de Magistraturas y Juzgados que resulten electas en la elección local que corresponda durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2026)</small>
+
+En coordinación con el Instituto de Estudios Judiciales del Poder Judicial de la Ciudad de México implementará programas de actualización y capacitación permanente obligatoria para las personas magistradas y juezas.
 
 7. La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
 
@@ -5049,3 +5151,23 @@ PRIMERO: Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO: Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 8 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO, EN MATERIA DE REFORMA AL PODER JUDICIAL”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Los cargos de personas magistradas y de juezas que no hayan sido objeto de elección en el proceso judicial del año 2025, así como las vacantes correspondientes, se elegirán sin excepción el primer domingo de junio del año 2028, conforme a lo previsto en este Decreto.
+
+Las personas magistradas y juezas que concluirán su encargo en el año de la elección ordinaria 2027, permanecerán en funciones hasta el año 2028, concluyendo su encargo en la fecha en que tomen protesta las personas que emanen de la elección judicial respectiva.
+
+CUARTO.- La persona que ocupe la presidencia del Tribunal Superior de Justicia de la Ciudad de México que se encuentre en funciones a la fecha de entrada en vigor del presente Decreto, continuará en dicho encargo hasta en tanto tome protesta aquella que sea electa en los términos que establece esta Constitución.
+
+QUINTO.- Las personas magistradas y juezas que deseen postularse en el proceso electoral judicial del año 2028, deberán cumplir con las bases, etapas, procedimientos, términos, modalidades, requisitos y demás disposiciones que señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes aplicables, así como la convocatoria respectiva.
+
+SEXTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que (sic) ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal y subsecuentes.
+
+SÉPTIMO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
