@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2026-03-17"
+last_updated: "2026-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,24 +20,6 @@ issue_date: "1946-03-27"
 state: "SLP"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
-
-CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
-
-Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
-
-GONZALO N. SANTOS, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed:
-
-Que el H. XXXVIII Congreso Constitucional del Estado se ha servido enviarme el siguiente
-
-DECRETO NUM. 8
-
-El H. XXXVIII Congreso Constitucional del Estado Libre y Soberano de San Luis Potosí, decreta lo siguiente:
-
-CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
 DISPOSICIONES PRELIMINARES
 
@@ -4710,8 +4692,6 @@ ART. 1102.- La sentencia ejecutoria que declare procedente la acción de prescri
 ART. 1103.- La prescripción negativa se verifica por el sólo transcurso del tiempo fijado por la Ley.
 
 ART. 1104.- Fuera de los casos de excepción, se necesita el lapso de diez años, contados desde que una obligación pudo exigirse, para que se extinga el derecho de pedir su cumplimiento.
-
-ART. 1105.- La obligación de dar alimentos es imprescriptible.
 
 ART. 1106.- Prescriben en dos años:
 
