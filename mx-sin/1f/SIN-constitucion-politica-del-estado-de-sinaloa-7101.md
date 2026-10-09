@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2026-09-16"
+last_updated: "2026-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2026.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -5109,31 +5109,43 @@ P.O. 6 DE JUNIO DE 2025.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-Segundo. La renovación de la totalidad de los cargos de elección en el Poder Judicial del Estado se realizará en la elección estatal ordinaria del año 2027, de conformidad con lo dispuesto en el presente Decreto.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2026)</small>
+
+Segundo. La renovación de la totalidad de los cargos de elección en el Poder Judicial del Estado se realizará en la elección estatal del año 2028, de conformidad con lo dispuesto en el presente Decreto.
 
 Tercero. El Pleno del Supremo Tribunal de Justicia del Estado y el Consejo de la Judicatura del Estado continuarán ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, hasta que inicien en funciones el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial.
 
 El periodo de los nombramientos de las Consejeras y Consejeros de la Judicatura del Estado en funciones a la entrada en vigor del presente Decreto se prorrogarán hasta la creación del Tribunal de Disciplina Judicial y el Órgano de Administración Judicial.
 
-Cuarto. El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial iniciarán sus funciones en la fecha en que se les tome protesta a las y los Magistrados del Tribunal de Disciplina Judicial que emanen del proceso electoral de 2027. En esa misma fecha, el Consejo de la Judicatura del Estado quedará extinto.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2026)</small>
+
+Cuarto. El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial iniciarán sus funciones en la fecha en que se les tome protesta a las Magistradas y los Magistrados del Tribunal de Disciplina Judicial que emanen del proceso electoral del año 2028. En esa misma fecha, el Consejo de la Judicatura del Estado quedará extinto.
 
 Los procedimientos de responsabilidades administrativas que se encuentren en trámite previo al inicio de las funciones del Tribunal de Disciplina Judicial, continuarán su substanciación bajo las mismas reglas en que hayan iniciado hasta su conclusión.
 
 El Pleno del Supremo Tribunal de Justicia del Estado implementará un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales en lo que corresponde a sus funciones administrativas y de carrera judicial.
 
-Quinto. Para garantizar el escalonamiento en el Tribunal de Disciplina Judicial en la elección de 2027, por única ocasión se elegirá una magistratura por tres años; otra magistratura por seis años; y, otra magistratura por nueve años.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2026)</small>
 
-Sexto. Las Salas de Circuito continuarán sus funciones hasta el día en que se les tome protesta a las y los Magistrados del Pleno del Supremo Tribunal de Justicia del Estado que resulten electos en el proceso electoral de 2027.
+Quinto. Para garantizar el escalonamiento en el Tribunal de Disciplina Judicial en la elección del año 2028, por única ocasión se elegirá una magistratura por dos años; otra magistratura por cinco años; y, otra magistratura por ocho años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2026)</small>
+
+Sexto. Las Salas de Circuito continuarán sus funciones hasta el día en que se les tome protesta a las Magistradas y los Magistrados del Pleno del Supremo Tribunal de Justicia del Estado que resulten electos en el proceso electoral del año 2028.
 
 El Pleno del Supremo Tribunal de Justicia del Estado expedirá los acuerdos necesarios para la atención de los asuntos en trámite a cargo de las Salas de Circuito.
 
-Séptimo. El Congreso del Estado realizará las adecuaciones a las leyes estatales que correspondan para dar cumplimiento al presente Decreto, con la debida anticipación para el proceso electoral de 2027.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2026)</small>
+
+Séptimo. El Congreso del Estado realizará las adecuaciones a las leyes estatales que correspondan para dar cumplimiento al presente Decreto, con la debida anticipación para el proceso electoral del año 2028.
 
 Octavo. Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado serán respetados en su totalidad.
 
 Las Juezas y Jueces del Poder Judicial del Estado que concluyan su encargo por haber declinado su candidatura o no resultar electas por la ciudadanía para un nuevo periodo, serán acreedoras, siempre y cuando no tengan derecho a la jubilación, al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado, así como a las demás prestaciones a que tengan derecho, mismas que serán cubiertas con recursos estatales extraordinarios al momento de su retiro.
 
-Las Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado que concluyan su encargo por no postularse o no haber sido electos en la elección del año 2027, serán beneficiarias de un haber de retiro proporcional al tiempo de su desempeño, siempre y cuando no tengan derecho al retiro voluntario.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2026)</small>
+
+Las Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado que concluyan su encargo por no postularse o no haber sido electos en la elección del año 2028, serán beneficiarias de un haber de retiro proporcional al tiempo de su desempeño, siempre y cuando no tengan derecho al retiro voluntario.
 
 Noveno. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -5216,3 +5228,11 @@ SEGUNDO. El Congreso del Estado deberá armonizar en un plazo máximo de 120 dí
 TERCERO. Las reglas establecidas sobre la prohibición del nepotismo electoral contenidas en los artículos del presente Decreto, serán aplicables a partir del proceso electoral local, a celebrarse en el año de 2030.
 
 CUARTO. Respecto a la prohibición de reelección de las personas servidoras públicas señaladas en el presente Decreto, serán aplicables a partir del proceso electoral local, a celebrarse en el 2030. En consecuencia, las personas que en el 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+P.O. 9 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 509 POR EL QUE SE REFORMAN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 86, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
