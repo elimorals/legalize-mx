@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-periodico-oficial-del-estado-de-baja-california-3074"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-10"
-last_updated: "2026-04-17"
+last_updated: "2026-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 10 de noviembre de 1992.
 
@@ -87,13 +87,15 @@ X.- Las fe de erratas, y
 
 XI.- Los acuerdos y resoluciones que emitan los Organismos Constitucionales Autónomos Estatales que sean de interés general.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2026)</small>
+
 ###### ARTICULO 4.
 
-Es obligación del Gobernador del Estado, como lo establece el Artículo 49 Fracción I de la Constitución Política del Estado, publicar en el Periódico Oficial del Estado, los ordenamientos y disposiciones a que se refiere el Artículo anterior.
+Es obligación de la persona titular del Poder Ejecutivo del Estado, como lo establece el artículo 49 fracción I de la Constitución Política del Estado, publicar en el Periódico Oficial del Estado, los ordenamientos y disposiciones a que se refiere el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2026)</small>
 
-ARTICULO 4 BIS.- En los casos, en que las leyes y decretos no sean observadas ni publicadas por el Ejecutivo del Estado en los plazos a que se refiere el primer párrafo y el Apartado A del Artículo 34 de la Constitución Política del Estado, corresponderá al Presidente del Congreso del Estado dentro de los quince días siguientes a que venzan los plazos para ello, ordenar su publicación en el Periódico Oficial del Estado sin que se requiera refrendo.
+ARTICULO 4 BIS.- En los casos, en que las leyes y decretos no sean observadas ni publicadas por el Ejecutivo del Estado en los plazos a que se refiere el primer párrafo y el Apartado A del artículo 34 de la Constitución Política del Estado, corresponderá a la Presidenta o al Presidente del Congreso del Estado dentro de los quince días siguientes a que venzan los plazos para ello, ordenar su publicación en el Periódico Oficial del Estado sin que se requiera refrendo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
@@ -240,3 +242,9 @@ P.O. 17 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 253 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 318 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4 Y 4 BIS DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
