@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-empresa-publica-del-estado-comision-180
 country: "mx"
 rank: "estatuto"
 publication_date: "2025-06-02"
-last_updated: "2025-06-02"
+last_updated: "2026-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180241&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2025-05-21"
 
 ESTATUTO ORGÁNICO DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2026.
 
 Estatuto publicado en la Edición Vespertina del Número 145/2025 del Diario Oficial de la Federación, el lunes 2 de junio de 2025.
 
@@ -63,7 +63,19 @@ ESTATUTO ORGÁNICO DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECT
 
 ### CAPÍTULO VII. Funciones Específicas de las áreas adscritas a la Dirección General
 
-### CAPÍTULO VIII. Funciones Específicas de las áreas adscritas a la Dirección de Operación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+### CAPÍTULO VIII. Funciones Específicas de las áreas adscritas a la Dirección de Generación y Productores Externos
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+### CAPÍTULO VIII Bis. Funciones Específicas de las áreas adscritas a la Dirección de Redes Eléctricas
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+### CAPÍTULO VIII Ter. Funciones Específicas de las áreas adscritas a la Dirección de Política Comercial
+
+> <small>(DEROGADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
 ### CAPÍTULO IX. Funciones Específicas de las áreas adscritas a la Dirección de Servicios Especializados y Estrategia Comercial
 
@@ -77,39 +89,35 @@ ESTATUTO ORGÁNICO DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECT
 
 ### CAPÍTULO XIV. Funciones Específicas de las áreas adscritas a la Dirección Jurídica
 
-### CAPÍTULO I. Disposiciones Generales
-
-### CAPÍTULO I. Disposiciones Generales
-
 ## TÍTULO QUINTO. De la Relación de la Comisión y sus Empresas Filiales
 
-### CAPÍTULO I. Unidad de Responsabilidades
+### CAPÍTULO I. Disposiciones Generales
 
 ## TÍTULO SEXTO. De la Representación Legal de la Comisión ante Autoridades Jurisdiccionales y Administrativas
 
-### CAPÍTULO I. Integración y Funciones de la Unidad de Transparencia y el Comité de Transparencia
+### CAPÍTULO I. Disposiciones Generales
 
 ## TÍTULO SÉPTIMO. De la Instancia en Materia de Responsabilidades
 
-### CAPÍTULO I. Integración y Funciones
+### CAPÍTULO I. Unidad de Responsabilidades
 
 ## TÍTULO OCTAVO. De la Instancia en Materia de Transparencia y Rendición de Cuentas
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO I. Integración y Funciones de la Unidad de Transparencia y el Comité de Transparencia
 
 ## TÍTULO NOVENO. De la Instancia Colegiada en materia de Recursos de Reconsideración
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO I. Integración y Funciones
 
 ## TÍTULO DÉCIMO. De las Suplencias
 
-### CAPÍTULO II. Estructura y Organización Básica
+### CAPÍTULO I. Disposiciones Generales
 
 ## TRANSITORIOS
 
 ## TÍTULO PRIMERO. De la Naturaleza, Objeto y Estructura, de la Empresa Pública del Estado, Comisión Federal de Electricidad
 
-### CAPÍTULO I. Integración y Funciones del Consejo de Administración y sus Comités Auxiliares
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 1.
 
@@ -169,7 +177,7 @@ VI. Reglamento: el Reglamento de la Ley de la Empresa Pública del Estado, Comis
 
 VII. Reglas de Funcionamiento: las Reglas de Operación y Funcionamiento del Consejo de Administración y de los Comités Auxiliares de la Comisión Federal de Electricidad.
 
-### CAPÍTULO II. Funcionamiento del Consejo de Administración y sus Comités auxiliares
+### CAPÍTULO II. Estructura y Organización Básica
 
 ###### Artículo 4.
 
@@ -181,9 +189,19 @@ B. Dirección General;
 
 C. Estructura Básica:
 
-I. Dirección de Operación;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-II. Dirección de Servicios Especializados y Estrategia Comercial;
+I. Dirección de Generación y Productores Externos;
+
+> <small>(ADICIONADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+I Bis. Dirección de Redes Eléctricas;
+
+> <small>(ADICIONADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+I Ter. Dirección de Política Comercial;
+
+II. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
 
 III. Dirección de Finanzas;
 
@@ -211,7 +229,7 @@ V. CFE Capital S. de R.L. de C.V.
 
 ## TÍTULO SEGUNDO. Del Órgano Supremo de Administración
 
-### CAPÍTULO I. Funciones y Estructura
+### CAPÍTULO I. Integración y Funciones del Consejo de Administración y sus Comités Auxiliares
 
 ###### Artículo 5.
 
@@ -263,7 +281,7 @@ Excepcionalmente, en aquellos casos en que por su urgencia se justifique, el Con
 
 La Comisión cuenta con una persona titular de la Comisaría designada conforme a la Ley y debe desempeñar las funciones que la misma establezca.
 
-### CAPÍTULO I. De la Dirección General, las Direcciones y las áreas a ellas adscritas
+### CAPÍTULO II. Funcionamiento del Consejo de Administración y sus Comités auxiliares
 
 ###### Artículo 10.
 
@@ -315,7 +333,7 @@ Asimismo, la Prosecretaría representa a los Comités para todos los trámites e
 
 ## TÍTULO TERCERO. De la Auditoría Interna
 
-### CAPÍTULO II. Funciones de la Dirección General
+### CAPÍTULO I. Funciones y Estructura
 
 ###### Artículo 12.
 
@@ -331,7 +349,7 @@ El personal adscrito a la Auditoría Interna tiene a su cargo las funciones prev
 
 ## TÍTULO CUARTO. De la Estructura Básica
 
-### CAPÍTULO III. Funciones Genéricas de las Direcciones
+### CAPÍTULO I. De la Dirección General, las Direcciones y las áreas a ellas adscritas
 
 ###### Artículo 14.
 
@@ -345,11 +363,17 @@ III. Coordinación de Relaciones Interinstitucionales y Justicia Energética;
 
 IV. Coordinación Nuclear; y
 
-V. Coordinación de Contratos de Producción Externa de Energía.
+V. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
+
+> <small>(ADICIONADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+VI. Coordinación de Servicios Especializados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 15.
 
-A la Dirección de Operación están adscritas las siguientes áreas:
+A la Dirección de Generación y Productores Externos están adscritas las siguientes áreas:
 
 I. Subdirección de Generación
 
@@ -369,37 +393,65 @@ I.VII Coordinación Regional de Producción Norte; y
 
 I.VIII Coordinación Regional de Producción Sureste.
 
-II. Subdirección de Transmisión.
+II. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
 
-II.I Coordinación de Redes de Transporte Eléctrico;
+II.I (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
 
-II.II Coordinación de Mantenimiento de Equipo de Subestaciones; y
+II.II (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
 
-II.III Coordinación de Monitoreo y Operación de Activos.
+II.III (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
 
-III. Subdirección de Distribución.
+III. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
 
-III.I Coordinación de Distribución, y
+III.I (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
 
-III.II Coordinación Comercial.
+III.II (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
 
 IV. Subdirección de Seguridad Física;
 
-V. Coordinación de Mercado Eléctrico Mayorista; y
+V. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
 
 VI. Coordinación Técnica.
 
+> <small>(ADICIONADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+VII. Coordinación de Contratos de Producción Externa de Energía.
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 15 Bis.
+
+A la Dirección de Redes Eléctricas están adscritas las siguientes áreas:
+
+I. Subdirección de Transmisión.
+
+I.I Coordinación de Redes de Transporte Eléctrico;
+
+I.II Coordinación de Mantenimiento de Equipo de Subestaciones; y
+
+I.III Coordinación de Monitoreo y Operación de Activos.
+
+II. Subdirección de Distribución.
+
+II.I Coordinación de Distribución.
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 15 Ter.
+
+A la Dirección de Política Comercial están adscritas las siguientes áreas:
+
+I. Subdirección de Estrategia Comercial.
+
+I.I Coordinación Comercial; y
+
+I.II Coordinación del Mercado Eléctrico Mayorista.
+
+II. Subdirección de Servicios de Conectividad.
+
 ###### Artículo 16.
 
-A la Dirección de Servicios Especializados y Estrategia Comercial están adscritas las siguientes áreas:
-
-I. Subdirección de Estrategia Comercial; y
-
-II. Subdirección de Servicios Especializados y Nuevos Productos.
-
-II.I Coordinación de Servicios Especializados; y
-
-II.II Coordinación TELECOM.
+(DEROGADO, D.O.F. 9 DE OCTUBRE DE 2026)
 
 ###### Artículo 17.
 
@@ -471,7 +523,7 @@ II. Coordinación de Estrategia Legal y Asuntos Consultivos; y
 
 III. Coordinación de Proyectos y Derechos Inmobiliarios.
 
-### CAPÍTULO IV. Funciones Genéricas de las Subdirecciones
+### CAPÍTULO II. Funciones de la Dirección General
 
 ###### Artículo 22.
 
@@ -481,7 +533,7 @@ Al efecto, tiene las funciones establecidas en la Ley, las que puede ejercer por
 
 Corresponde a la persona titular de la Dirección General la designación de la persona servidora pública que lleve a cabo la supervisión operativa del proceso de generación nuclear, conforme a los lineamientos internacionales y nacionales en la materia.
 
-### CAPÍTULO V. Funciones Genéricas de las Coordinaciones
+### CAPÍTULO III. Funciones Genéricas de las Direcciones
 
 ###### Artículo 23.
 
@@ -505,7 +557,9 @@ VIII. Suscribir los documentos relativos al ejercicio de sus funciones y los que
 
 IX. Suscribir los contratos, convenios y demás instrumentos jurídicos relativos a las contrataciones requeridas en el área a su cargo;
 
-X. Delegar funciones a los titulares de las áreas a su cargo, sin perjuicio de su ejercicio directo, y expedir los acuerdos respectivos para tal efecto;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+X. Delegar funciones a las personas titulares de las áreas a su cargo, sin perjuicio de su ejercicio directo, y expedir los acuerdos respectivos para tal efecto;
 
 XI. Validar la información necesaria y correspondiente para la elaboración del informe anual de la Comisión y, en su caso, empresas filiales;
 
@@ -527,7 +581,7 @@ XIX. Desempeñar las funciones conforme a las disposiciones jurídicas, administ
 
 XX. Las demás que les confieran el Consejo, la persona titular de la Dirección General, el presente Estatuto, los manuales de organización y demás ordenamientos aplicables.
 
-### CAPÍTULO VI. Funciones Específicas de las Direcciones
+### CAPÍTULO IV. Funciones Genéricas de las Subdirecciones
 
 ###### Artículo 24.
 
@@ -543,7 +597,9 @@ IV. Conducir y dar seguimiento a las acciones de desarrollo sostenible del área
 
 V. Desempeñar las atribuciones y comisiones que su superior jerárquico le delegue o encomiende y mantenerlo informado sobre el desarrollo de sus actividades;
 
-VI. Delegar funciones a los titulares de las áreas a su cargo;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+VI. Delegar funciones a las personas titulares de las áreas a su cargo;
 
 VII. Suscribir los documentos relativos al ejercicio de sus funciones y de las que le correspondan por delegación o suplencia;
 
@@ -553,7 +609,7 @@ IX. Desempeñar las funciones conforme a las disposiciones jurídicas, administr
 
 X. Las demás que les confieran el Consejo, la persona titular de la Dirección General, la Dirección correspondiente, el presente Estatuto, los manuales de organización respectivos y los demás ordenamientos aplicables.
 
-### CAPÍTULO VII. Funciones Específicas de las áreas adscritas a la Dirección General
+### CAPÍTULO V. Funciones Genéricas de las Coordinaciones
 
 ###### Artículo 25.
 
@@ -569,7 +625,9 @@ IV. Verificar los resultados del Programa de Desarrollo Sostenible de la Comisi�
 
 V. Desempeñar las atribuciones y comisiones que su superior jerárquico le delegue o encomiende y mantenerlo informado sobre el desarrollo de sus actividades;
 
-VI. Delegar funciones a los titulares de las áreas a su cargo, sin perjuicio de su ejercicio directo, y expedir los acuerdos respectivos para tal efecto;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+VI. Delegar funciones a las personas titulares de despacho de las áreas a su cargo, sin perjuicio de su ejercicio directo, y expedir los acuerdos respectivos para tal efecto;
 
 VII. Suscribir los documentos relativos al ejercicio de sus funciones y de las que le correspondan por delegación o suplencia;
 
@@ -579,13 +637,17 @@ IX. Desempeñar las funciones conforme a las disposiciones jurídicas, administr
 
 X. Las demás funciones que les confiera el Consejo, y la persona titular de la Subdirección, correspondiente, el presente Estatuto, los manuales de organización respectivos y los ordenamientos aplicables.
 
-### CAPÍTULO VIII. Funciones Específicas de las áreas adscritas a la Dirección de Operación
+### CAPÍTULO VI. Funciones Específicas de las Direcciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 26.
 
-A la Dirección de Operación le corresponden las siguientes funciones:
+A la Dirección de Generación y Productores Externos le corresponde las siguientes funciones:
 
-I. Dirigir los procesos operativos de generación, transmisión, distribución, suministro básico, suministro de combustibles, proyectos geotermoeléctricos, lo relativo al mercado eléctrico mayorista de éstos, y la seguridad física de las instalaciones estratégicas;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+I. Dirigir los procesos operativos de generación, suministro de combustibles y proyectos geotermoeléctricos; coordinar los requerimientos de seguridad física de las instalaciones estratégicas; administrar, en el ámbito de su competencia, la relación técnica y contractual con los productores externos; y proporcionar a la Dirección de Política Comercial la información técnica, de disponibilidad, costos y restricciones operativas necesaria para la representación comercial de las centrales eléctricas de la Comisión y de aquellas cuya representación corresponda a ésta, en los términos de este Estatuto;
 
 II. Validar y proponer a la Dirección General la asignación de las unidades de generación y centrales eléctricas a las Coordinaciones Regionales de Producción, para la aprobación del Consejo;
 
@@ -593,19 +655,23 @@ III. Aprobar y emitir los criterios técnicos, directrices operativas, de desarr
 
 IV. Validar y proporcionar la información que integra el Programa de Desarrollo de la Comisión de los procesos de la Dirección;
 
-V. Establecer las directrices del programa anual de mantenimiento de la infraestructura e instalaciones operativas de los procesos de su competencia;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+V. Establecer las directrices del programa anual de mantenimiento de la infraestructura e instalaciones operativas, así como de la seguridad física de las unidades y centrales de generación, en el ámbito de su competencia.
 
 VI. Validar los requerimientos financieros de los procesos de la Dirección;
 
-VII. Establecer e integrar el programa operativo anual y su evaluación, alineado con el Programa de Desarrollo y el Plan de Sostenibilidad de la Comisión;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+VII. Establecer e integrar el programa operativo anual y su evaluación, de los procesos de su competencia, alineado con el Programa de Desarrollo y el Plan de Sostenibilidad de la Comisión;
 
 VIII. Validar y gestionar los proyectos de inversión de acuerdo con las necesidades operativas en el ámbito de su competencia;
 
-IX. Autorizar la celebración de contratos de cobertura eléctrica con otros participantes del mercado eléctrico mayorista.
+IX. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
 
-X. Dirimir las diferencias que se presenten en el proceso de compraventa de energía y productos asociados en el contexto del mercado eléctrico mayorista, incluyendo costos de transferencia, así como de servicios compartidos;
+X. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
 
-XI. Dirigir la atención de emergencias y suspensiones del servicio público de energía eléctrica por desastres, casos fortuitos o de fuerza mayor;
+XI. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2026)
 
 XII. Vigilar la aplicación de la política de identificación, seguimiento y evaluación de riesgos en los procesos de la Dirección;
 
@@ -615,33 +681,97 @@ XIV. Emitir la normatividad interna de los procesos operativos en el ámbito de 
 
 XV. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección General.
 
-###### Artículo 27.
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-A la Dirección de Servicios Especializados y Estrategia Comercial le corresponden las siguientes funciones:
+###### Artículo 26 Bis.
 
-I. Dirigir los servicios de telecomunicaciones e internet, ahorro y eficiencia energética, servicios especializados, pruebas a equipos y materiales;
+A la Dirección de Redes Eléctricas le corresponden las siguientes funciones:
 
-II. Validar y proporcionar la información que integra el Programa de Desarrollo de la Comisión de los procesos de la Dirección;
+I. Dirigir los procesos operativos de transmisión y distribución de energía eléctrica;
 
-III. Vigilar la estrategia comercial de insumos primarios, bienes y servicios de acuerdo con el objeto de la Comisión y sus empresas filiales: CFE Calificados, CFEnergía y CFE International, en el ámbito de su competencia y, en su caso, emitir las recomendaciones correspondientes;
+II. Dirigir la expansión, operación y modernización de la Red Nacional de Transmisión y de las Redes Generales de Distribución, con criterios de confiabilidad, continuidad, calidad, resiliencia, eficiencia, reducción de pérdidas y atención de restricciones y congestiones;
 
-IV. Establecer las políticas, normas, lineamientos y estrategias comerciales, de operación y gestión, así como los indicadores clave en los proyectos, productos, bienes y servicios ofrecidos por la Comisión;
+III. Aprobar y emitir los criterios técnicos y directrices operativas, de desarrollo tecnológico, modernización y evaluación del desempeño de la Dirección, incluyendo indicadores de confiabilidad, continuidad, calidad, resiliencia, pérdidas y capacidad de transferencia;
 
-V. Establecer metas estratégicas e indicadores clave para el desempeño de los proyectos, productos o servicios del ámbito de su competencia, conforme al Programa de Desarrollo de la Comisión;
+IV. Validar y proporcionar la información que integra el Programa de Desarrollo de la Comisión de los procesos de la Dirección;
 
-VI. Proponer los precios de los productos y servicios del ámbito de su competencia, en los términos de la Ley;
+V. Establecer las directrices del programa anual de mantenimiento y construcción de la infraestructura e instalaciones operativas de los procesos de su competencia;
 
-VII. Aprobar medidas preventivas, correctivas y de control de riesgos, en materia comercial;
+VI. Validar los requerimientos financieros de los procesos de la Dirección;
 
-VIII. Promover el desarrollo, innovación y la mejora de la calidad de los productos y servicios en actividades comerciales de la Comisión;
+VII. Establecer e integrar el programa operativo anual y su evaluación, de los procesos de su competencia, alineado con el Programa de Desarrollo y el Plan de Sostenibilidad de la Comisión;
 
-IX. Celebrar alianzas en materia comercial con entidades públicas, académicas y privadas, previa autorización del Consejo;
+VIII. Validar y gestionar los proyectos de inversión de acuerdo con las necesidades operativas en el ámbito de su competencia;
+
+IX. Dirigir las acciones para el restablecimiento de la Red Nacional de Transmisión y de Redes Generales de Distribución, en las zonas afectadas por desastres, casos fortuitos o de fuerza mayor, en el ámbito de su competencia;
+
+X. Vigilar la aplicación de la política de identificación, seguimiento y evaluación de riesgos en los procesos de la Dirección;
+
+XI. Establecer las políticas de seguridad industrial, en el ámbito de su competencia;
+
+XII. Emitir la normatividad interna de los procesos operativos en el ámbito de su competencia;
+
+XIII. Proponer a la Dirección General los proyectos de inversión y modernización de la infraestructura de la Red Nacional de Transmisión y de las Redes Generales de Distribución; y
+
+XIV. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección General.
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 26 Ter.
+
+A la Dirección de Política Comercial le corresponden las siguientes funciones:
+
+I. Dirigir los procesos comerciales de suministro básico y de participación de la Comisión en el Mercado Eléctrico Mayorista, así como los procesos de telecomunicaciones e internet en el ámbito de su competencia, distinguiendo las decisiones comerciales de las responsabilidades de operación física de las centrales y redes;
+
+II. Aprobar y emitir los criterios técnicos, directrices operativas, de desarrollo tecnológico, modernización y evaluación del desempeño de la Dirección;
+
+III. Validar y proporcionar la información que integra el Programa de Desarrollo de la Comisión de los procesos de la Dirección;
+
+IV. Establecer las directrices del programa anual de mantenimiento de la infraestructura e instalaciones operativas de los procesos de su competencia;
+
+V. Validar los requerimientos financieros de los procesos de la Dirección;
+
+VI. Establecer e integrar el programa operativo anual y su evaluación, de los procesos de su competencia, alineado con el Programa de Desarrollo y al Plan de Sostenibilidad de la Comisión;
+
+VII. Validar y gestionar los proyectos de inversión de acuerdo con las necesidades operativas en el ámbito de su competencia;
+
+VIII. Autorizar, conforme a las políticas corporativas de riesgo, límites de exposición y niveles de atribución aprobados por las instancias competentes, la celebración de contratos de cobertura eléctrica con otros participantes del Mercado Eléctrico Mayorista;
+
+IX. Coordinar y, en el ámbito de sus atribuciones, resolver las diferencias de carácter comercial que se presenten en los procesos de compraventa de energía y productos asociados en el Mercado Eléctrico Mayorista, incluyendo costos de transferencia y servicios compartidos, sin invadir las atribuciones técnicas u operativas de las áreas de generación y redes;
 
 X. Contribuir en la provisión de cobertura social del servicio de internet y telecomunicaciones;
 
-XI. Establecer proyectos y programas de aprovechamiento de recursos, ahorro y uso eficiente de la energía, telecomunicaciones e internet, así como, provisión de servicios especializados; y
+XI. Vigilar la estrategia comercial de insumos primarios, bienes y servicios de acuerdo con el objeto de la Comisión y de sus empresas filiales CFE Calificados, S.A. de C.V., CFEnergía S.A. de C.V. y CFE International, LLC, en coordinación con las áreas operativas y financieras competentes y, en su caso, emitir las recomendaciones correspondientes;
 
-XII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección General.
+XII. Establecer las políticas, normas, lineamientos y estrategias comerciales, de operación y gestión, así como los indicadores clave en los proyectos, productos, bienes y servicios ofrecidos por la Comisión;
+
+XIII. Establecer metas estratégicas e indicadores clave para el desempeño de los proyectos, productos o servicios del ámbito de su competencia, conforme al Programa de Desarrollo de la Comisión;
+
+XIV. Proponer, en el ámbito de su competencia y en los términos de la Ley, las metodologías, criterios y precios de productos y servicios no sujetos a tarifa regulada, sin perjuicio de las atribuciones de las autoridades competentes en materia tarifaria;
+
+XV. Aprobar medidas preventivas, correctivas y de control de riesgos, en materia comercial;
+
+XVI. Promover el desarrollo, innovación y la mejora de la calidad de los productos y servicios en actividades comerciales de la Comisión;
+
+XVII. Celebrar alianzas en materia comercial con entidades públicas, académicas y privadas, previa autorización del Consejo;
+
+XVIII. Establecer la política comercial y los programas corporativos de aprovechamiento de recursos, ahorro y uso eficiente de la energía, telecomunicaciones e internet, cuya ejecución técnica corresponderá a las áreas competentes;
+
+XIX. Vigilar la aplicación de la política de identificación, seguimiento y evaluación de riesgos en los procesos de la Dirección;
+
+XX. Emitir la normatividad interna de los procesos operativos en el ámbito de su competencia;
+
+XXI. Establecer medidas de administración de riesgos y continuidad operativa en los procesos comerciales de suministro básico, telecomunicaciones e internet;
+
+XXII. Autorizar los mecanismos de cobranza de la venta de energía eléctrica, nuevos productos y servicios a usuarios finales, en el ámbito de su competencia;
+
+XXIII. Dirigir la estrategia y participación comercial de la Comisión en el Mercado Eléctrico Mayorista; coordinar la presentación de ofertas con base en la información técnica y operativa proporcionada por las áreas de generación; y vigilar el cumplimiento de los contratos de cobertura eléctrica, de las tarifas reguladas y de las demás disposiciones aplicables; y
+
+XXIV. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección General.
+
+###### Artículo 27.
+
+(DEROGADO, D.O.F. 9 DE OCTUBRE DE 2026)
 
 ###### Artículo 28.
 
@@ -676,6 +806,14 @@ XIII. Vigilar el cumplimiento de las obligaciones fiscales de la Comisión;
 XIV. Fungir como representante legal del Consejo y sus Comités auxiliares, ante instancias y autoridades financieras, bursátiles, bancarias y en general ante todas aquellas autoridades de acuerdo con su ámbito de competencia;
 
 XV. Proponer los lineamientos de austeridad en materia financiera-presupuestal; y
+
+> <small>(ADICIONADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+XV Bis. Requerir y dar seguimiento a la información y documentación relacionada con las políticas, estrategias, actividades comerciales y de negocio que realizan las empresas filiales CFEnergía, S.A. de C.V., CFE Capital, S. de R.L. de C.V. y CFE International, LLC, en el ámbito de su competencia y, en su caso, emitir las recomendaciones correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+XV Ter. Proponer y verificar el cumplimiento de los indicadores de desempeño de las empresas filiales CFEnergía, S.A. de C.V., CFE Capital, S. de R.L. de C.V. y CFE International, LLC, en el ámbito de su competencia y, en su caso, emitir las recomendaciones correspondientes;
 
 XVI. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección General.
 
@@ -801,7 +939,7 @@ XV. Las demás que se le confieran por las autoridades respectivas, así como la
 
 Las funciones previstas en el presente capítulo no pueden ser desempeñadas por ninguna otra dirección o área diversa a las señaladas en cada artículo para cada Dirección y sus áreas adscritas, salvo en los casos que expresamente se prevea en la normatividad interna que emita cada Dirección en sus respectivos ámbitos de competencia, o por autorización expresa de ésta y de la persona titular de la Dirección General.
 
-### CAPÍTULO IX. Funciones Específicas de las áreas adscritas a la Dirección de Servicios Especializados y Estrategia Comercial
+### CAPÍTULO VII. Funciones Específicas de las áreas adscritas a la Dirección General
 
 ###### Artículo 34.
 
@@ -901,33 +1039,47 @@ XV. Las demás que se le confieran por las autoridades respectivas, así como la
 
 ###### Artículo 38.
 
-A la Coordinación de Contratos de Producción Externa de Energía le corresponden las siguientes funciones:
+(DEROGADO, D.O.F. 9 DE OCTUBRE DE 2026)
 
-I. Evaluar y coordinar la celebración de contratos de cobertura eléctrica con otros participantes del mercado eléctrico mayorista y, administrar los contratos de producción independiente de energía, así como los contratos de subastas de corto, mediano y largo plazo, con excepción de las cláusulas cuya administración corresponde al Centro Nacional de Control de Energía, en los términos que defina la Secretaría de Energía;
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-II. Representar en el mercado eléctrico mayorista a las centrales eléctricas consideradas en los contratos de producción independiente de energía o aquellas que hayan contratado su representación;
+###### Artículo 38 Bis.
 
-III. Realizar las actividades de comercialización a que se refiere el artículo 60 de la Ley del Sector Eléctrico, excepto la prestación del suministro eléctrico, respecto a la generación de las centrales eléctricas que represente o aquellas centrales eléctricas que hayan contratado su representación;
+A la Coordinación de Servicios Especializados le corresponden las siguientes funciones:
 
-IV. Celebrar con el Centro Nacional de Control de Energía los contratos y convenios necesarios para poder llevar a cabo la operación de las centrales eléctricas que represente o aquellas centrales eléctricas que hayan contratado su representación;
+I. Proveer los servicios de ahorro y eficiencia energética, servicios especializados, pruebas a equipos y materiales;
 
-V. Presentar ofertas de compraventa de energía, potencia y productos asociados en los términos establecidos en las disposiciones jurídicas aplicables, en el ámbito de su competencia;
+II. Integrar el desarrollo de sistemas de gestión de la energía y programas de eficiencia energética;
 
-VI. Realizar las transacciones de compraventa referidas en el artículo 112 de la Ley del Sector Eléctrico, así como las demás transacciones previstas en la normatividad aplicable;
+III. Administrar los servicios integrales de ingeniería, certificación y pruebas de laboratorio en la Comisión;
 
-VII. Dar seguimiento a los programas de mantenimiento de las centrales eléctricas que represente o aquellas centrales eléctricas que hayan contratado su representación;
+IV. Difundir campañas de ahorro y uso eficiente de la energía, en el ámbito de competencia de la Comisión;
 
-VIII. Proponer a la persona titular de la Dirección General los lineamientos para los esquemas de desarrollo mixto para la generación de energía eléctrica;
+V. Gestionar la actualización y verificación de la normalización técnica de la Comisión;
 
-IX. Participar en la celebración de alianzas y esquemas de desarrollo mixto de conformidad con lo establecido en las disposiciones jurídicas aplicables;
+VI. Aplicar las políticas, normas, lineamientos y estrategias, de operación y gestión de bienes y servicios;
 
-X. Requerir y dar seguimiento a la información y documentación relacionada con las políticas, estrategias, actividades comerciales y de negocio que realizan las empresas filiales CFE Calificados y CFE Intermediación de Contratos Legados, de conformidad con lo establecido en la Ley del Sector Eléctrico, a fin de presentarlo al Comité de Empresas Filiales;
+VII. Aplicar los mecanismos en los procesos de certificación, verificación e inspección, de los equipos, bienes y servicios de la Comisión;
 
-XI. Proponer y verificar el cumplimiento de los indicadores de desempeño de las empresas filiales CFE Calificados y CFE Intermediación de Contratos Legados, a fin de presentarlo al Comité de Empresas Filiales; y
+VIII. Proyectar las metas estratégicas e indicadores clave para el desempeño de los proyectos, productos y servicios, conforme al Programa de Desarrollo de la Comisión y al programa operativo anual, en el ámbito de su competencia;
 
-XII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección General.
+IX. Proponer los precios de los productos y servicios del ámbito de su competencia, conforme a las metodologías, criterios y autorizaciones aplicables;
 
-### CAPÍTULO X. Funciones Específicas de las áreas adscritas a la Dirección de Finanzas
+X. Implementar medidas preventivas, correctivas y de control de riesgos;
+
+XI. Conducir el desarrollo, innovación de procesos y la calidad de los productos y servicios especializados de la Comisión;
+
+XII. Desarrollar nuevos productos, bienes y servicios, en el ámbito de su competencia;
+
+XIII. Implementar las acciones a considerar en el proceso del Programa de Desarrollo de la Comisión, y realizar su evaluación periódica;
+
+XIV. Integrar los proyectos y programas para el aprovechamiento de recursos, para el ahorro y uso eficiente de la energía, así como, la provisión de servicios especializados; y
+
+XV. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección General.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+### CAPÍTULO VIII. Funciones Específicas de las áreas adscritas a la Dirección de Generación y Productores Externos
 
 ###### Artículo 39.
 
@@ -937,15 +1089,21 @@ I. Dirigir el proceso de generación, el suministro de combustibles y almacenami
 
 II. Definir la asignación de las unidades de generación y centrales eléctricas a las Coordinaciones Regionales de Producción, para la aprobación del Consejo;
 
-III. Vigilar la representación y operación en el mercado eléctrico mayorista de las centrales eléctricas propiedad de la Comisión incluyendo a la generación nucleoeléctrica;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+III. Vigilar la disponibilidad, operación y desempeño técnico de las unidades y centrales eléctricas propiedad de la Comisión, incluyendo la generación nucleoeléctrica, y proporcionar oportunamente a las áreas responsables de la participación comercial en el Mercado Eléctrico Mayorista la información técnica y operativa necesaria;
 
 IV. Validar los criterios técnicos, directrices operativas, de desarrollo tecnológico y modernización e indicadores de desempeño de la Subdirección;
 
 V. Plantear la información necesaria para integrar el Programa de Desarrollo de la Comisión en el ámbito de su competencia;
 
-VI. Autorizar el programa anual de mantenimiento de las centrales eléctricas; con excepción de la nucleoeléctrica;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-VII. Vigilar el cumplimiento del programa operativo anual y la aplicación de las políticas del Plan de Sostenibilidad alineados al Plan de Desarrollo, en el proceso de generación;
+VI. Actualizar el programa anual de mantenimiento de las unidades y centrales eléctricas; con excepción de la nucleoeléctrica;
+
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+VII. Vigilar el cumplimiento del programa operativo anual y la aplicación de las políticas del Plan de Sostenibilidad alineados al Programa de Desarrollo, en el proceso de generación en el ámbito de la Subdirección;
 
 VIII. Validar y gestionar los proyectos de inversión y modernización de la generación y almacenamiento de energía eléctrica asociada a la generación;
 
@@ -959,13 +1117,19 @@ XII. Promover una cultura de seguridad e higiene industrial bajo la normatividad
 
 XIII. Emitir la normatividad de los procesos operativos en el ámbito de su competencia; y
 
-XIV. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativa (sic) que emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Operación.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+XIV. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Generación y Productores Externos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 40.
 
-A la Coordinación Nacional de Generación Termoeléctrica y Energías Intermitentes le corresponden las siguientes funciones:
+A la Coordinación Nacional de Generación Termoeléctrica y Energías Renovables Variables le corresponden las siguientes funciones:
 
-I. Emitir las directrices del proceso de generación de energía termoeléctrica y energías intermitentes, y almacenamiento de energía eléctrica con criterios de disponibilidad, continuidad y confiabilidad;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+I. Emitir las directrices del proceso de generación de energía termoeléctrica y energías renovables variables, y almacenamiento de energía eléctrica con criterios de disponibilidad, continuidad y confiabilidad;
 
 II. Administrar las unidades móviles de emergencia;
 
@@ -973,7 +1137,9 @@ III. Proponer y vigilar el cumplimiento de los criterios técnicos, directrices 
 
 IV. Instrumentar las acciones del Programa de Desarrollo de la Comisión, y del programa operativo anual en el ámbito de su competencia;
 
-V. Consolidar el programa anual de mantenimiento de las centrales eléctricas y activos de almacenamiento que le correspondan;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+V. Consolidar el programa anual de mantenimiento, modernización y gestión del ciclo de vida de las unidades y centrales eléctricas y de los activos de almacenamiento que le correspondan, considerando su disponibilidad, confiabilidad y capacidad de prestación de energía, potencia y productos asociados;
 
 VI. Presupuestar los requerimientos financieros de sus procesos de generación;
 
@@ -987,13 +1153,19 @@ X. Coordinar la aplicación de la política de identificación, seguimiento y ev
 
 XI. Fomentar una cultura de seguridad e higiene industrial bajo la normatividad y medidas de aplicación en los procesos técnicos-operativos y en los riesgos de trabajo; y
 
-XII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Generación.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+XII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Generación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
 ###### Artículo 41.
 
-A la Coordinación Nacional de Generación Hidroeléctrica le corresponden las siguientes funciones:
+A la Coordinación Nacional de Energía Hidroeléctrica y Geotérmica le corresponden las siguientes funciones:
 
-I. Emitir las directrices del proceso de generación de energía hidroeléctrica, y almacenamiento de energía con criterios de disponibilidad, continuidad y confiabilidad;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+I. Emitir las directrices del proceso de generación de energía hidroeléctrica y geotérmica, y almacenamiento de energía con criterios de disponibilidad, continuidad y confiabilidad.
 
 II. Proponer y vigilar el cumplimiento de los criterios técnicos, directrices operativas, de desarrollo tecnológico y modernización e indicadores de desempeño de la Subdirección;
 
@@ -1013,7 +1185,9 @@ IX. Coordinar la aplicación de la política de identificación, seguimiento y e
 
 X. Fomentar una cultura de seguridad e higiene industrial bajo la normatividad y medidas de aplicación en los procesos técnicos-operativos y en los riesgos de trabajo; y
 
-XI. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Generación.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+XI. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Generación.
 
 ###### Artículo 42.
 
@@ -1035,7 +1209,9 @@ VII. Validar el cumplimiento del programa operativo anual y las políticas del P
 
 VIII. Coordinar la elaboración y analizar los pronósticos de generación, proyectos de inversión y diferentes escenarios de evaluación del desempeño de las centrales eléctricas dentro del Sistema Eléctrico Nacional en el corto y mediano plazo, conforme a las condiciones futuras esperadas de disponibilidad de combustibles, mantenimientos, demanda eléctrica y precios de combustible;
 
-IX. Establecer acciones de mejora continua en la determinación de metas operativas y financieras relacionadas con el mercado eléctrico mayorista y entidades reguladoras en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+IX. Establecer acciones de mejora continua en la determinación de metas operativas y financieras con entidades reguladoras en el ámbito de su competencia;
 
 X. Coordinar la operación del contrato de participante de mercado, permisos de generación de energía eléctrica y transporte de usos propios de las centrales eléctricas, en el mercado eléctrico mayorista;
 
@@ -1045,13 +1221,17 @@ XII. Vigilar la gestión comercial de los contratos de combustibles de las centr
 
 XIII. Proponer y desarrollar estrategias de operación y comercialización en el mercado eléctrico mayorista, con base en los requerimientos de generación, demanda de energía y condiciones operativas, conforme al contrato de participante de mercado, normativa relacionada al mercado eléctrico mayorista y sector eléctrico en el ámbito de su competencia;
 
-XIV. Coordinar el cumplimiento normativo del sector eléctrico, en el ámbito del mercado eléctrico mayorista de las Coordinaciones Regionales de Producción;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+XIV. Coordinar el cumplimiento normativo de las unidades y centrales eléctricas, en el ámbito del proceso de generación;
 
 XV. Validar y presentar la información relacionada con la operación y representación del mercado eléctrico mayorista en el ámbito de la Subdirección a los órganos reguladores;
 
 XVI. Fomentar una cultura de seguridad e higiene industrial bajo la normatividad y medidas de aplicación en los procesos técnicos-operativos y en los riesgos de trabajo; y
 
-XVII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Generación.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+XVII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Generación.
 
 ###### Artículo 43.
 
@@ -1059,7 +1239,9 @@ A las Coordinaciones Regionales de Producción le corresponden las siguientes fu
 
 I. Conducir la operación de las unidades de generación y centrales eléctricas que les sean asignadas, bajo criterios de disponibilidad, continuidad, seguridad y confiabilidad;
 
-II. Implementar los criterios técnicos y directrices, desarrollo tecnológico y modernización e indicadores de desempeño de las centrales de generación, en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+II. Implementar los criterios técnicos y directrices, desarrollo tecnológico y modernización e indicadores de desempeño de las unidades y centrales de generación, en el ámbito de su competencia;
 
 III. Instrumentar las acciones del proceso de generación en el Programa de Desarrollo de la Comisión y del programa operativo anual;
 
@@ -1081,13 +1263,91 @@ XI. Gestionar los requerimientos de corto, mediano y largo plazo de combustibles
 
 XII. Implementar las estrategias relacionadas a la operación y comercialización en el mercado eléctrico mayorista en el ámbito de su competencia;
 
-XIII. Celebrar los contratos de cobertura, mercado de corto plazo y operaciones de importación y exportación, de la Coordinación Regional;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+XIII. Instrumentar, en el ámbito de su competencia y previa autorización de la Dirección de Política Comercial conforme a las políticas corporativas de riesgo y a los niveles de atribución aplicables, los contratos de cobertura eléctrica que correspondan;
 
 XIV. Elaborar y proporcionar la información relacionada con la operación y representación del mercado eléctrico mayorista, de la Coordinación; y
 
-XV. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Generación.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-### CAPÍTULO XI. Funciones Específicas de las áreas adscritas a la Dirección de Administración
+XV. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Generación.
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 43 Bis.
+
+A la Subdirección de Seguridad Física le corresponden las siguientes funciones:
+
+I. Organizar la seguridad física de las instalaciones de la Comisión;
+
+II. Elaborar los programas de seguridad física de las instalaciones de la Comisión;
+
+III. Analizar los proyectos de inversión en seguridad física, con tecnología de alta generación para modificación y/o conservación de la infraestructura y equipo en el ámbito de su competencia;
+
+IV. Establecer en conjunto con los responsables de protección civil, protección ambiental y seguridad industrial, las acciones de seguridad física, en caso de movimientos socio-organizativos o en el restablecimiento del servicio de energía eléctrica en las zonas afectadas por desastres, casos fortuitos o de fuerza mayor;
+
+V. Detectar y prevenir los incidentes mediante la vigilancia y prevención con los equipos tecnológicos;
+
+VI. Determinar las acciones de patrullajes a las estructuras, líneas de transmisión y demás infraestructura del sistema eléctrico nacional, como bienes patrimoniales de la Comisión;
+
+VII. Administrar la licencia oficial colectiva de armamento concedida por la Secretaría de la Defensa Nacional;
+
+VIII. Convenir con las Secretarías de la Defensa Nacional y de Marina, acciones en materia de seguridad de las instalaciones de la Comisión;
+
+IX. Celebrar contratos o convenios con dependencias y entidades de la administración pública federal o local, en el ámbito de su competencia y conforme a la normatividad aplicable; y
+
+X. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Generación y Productores Externos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 43 Ter.
+
+A la Coordinación Técnica le corresponden las siguientes funciones:
+
+I. Verificar la aplicación de los criterios operativos y técnicos, de los proyectos geotermoeléctricos, de desarrollo tecnológico, modernización y evaluación del desempeño de los procesos de la Dirección de Generación y Productores Externos
+
+II. Integrar la información de los procesos operativos de la Dirección de Generación y Productores Externos para el Programa de Desarrollo.
+
+III. Integrar la información de los procesos de la Dirección de Generación y Productores Externos para el Plan de Sostenibilidad;
+
+IV. Evaluar el cumplimiento de los programas de mantenimiento predictivo, preventivo y correctivo de la infraestructura e instalaciones en el ámbito de la Dirección de Generación y Productores Externos;
+
+V. Validar la viabilidad de innovaciones operativas y de mejora continua de los procesos de la Dirección de Generación y Productores Externos;
+
+VI. Monitorear el cumplimiento de los programas, planes técnicos y operativos de los procesos de la Dirección de Generación y Productores Externos;
+
+VII. Revisar la viabilidad técnica de los proyectos de inversión del ámbito de competencia de la Dirección de Generación y Productores Externos;
+
+VIII. Analizar y atender requerimientos de los organismos de protección civil durante las situaciones de desastres, casos fortuitos o de fuerza mayor de la Dirección de Generación y Productores Externos;
+
+IX. Vigilar el cumplimiento de las políticas de seguridad industrial y administración de riesgos de la Dirección de Generación y Productores Externos; y
+
+X. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Generación y Productores Externos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 43 Quater.
+
+A la Coordinación de Contratos de Producción Externa de Energía le corresponden las siguientes funciones:
+
+I. Administrar los contratos de producción independiente de energía, en los términos que defina la Secretaría de Energía;
+
+II. Ejecutar la representación en el Mercado Eléctrico Mayorista de las centrales eléctricas consideradas en los contratos de producción independiente de energía o de aquellas que hayan contratado su representación, de conformidad con la estrategia comercial, políticas de riesgo y directrices emitidas por la Dirección de Política Comercial;
+
+III. Celebrar con el Centro Nacional de Control de Energía los contratos y convenios necesarios para poder llevar a cabo la operación de las centrales eléctricas que represente o aquellas centrales eléctricas que hayan contratado su representación;
+
+IV. Presentar las ofertas de compraventa de energía, potencia y productos asociados, con base en la información técnica y operativa validada por las áreas de generación y conforme a la estrategia comercial y de riesgos autorizada, en los términos de las disposiciones jurídicas aplicables;
+
+V. Dar seguimiento a los programas de mantenimiento de las centrales eléctricas que represente o aquellas centrales eléctricas que hayan contratado su representación;
+
+VI. Participar en la celebración de alianzas y esquemas de desarrollo mixto de conformidad con lo establecido en las disposiciones jurídicas aplicables; y
+
+VII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Generación y Productores Externos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+### CAPÍTULO VIII BIS. Funciones Específicas de las áreas adscritas a la Dirección de Redes Eléctricas
 
 ###### Artículo 44.
 
@@ -1105,15 +1365,21 @@ V. Autorizar el programa anual de mantenimiento de la Red Nacional de Transmisi�
 
 VI. Presupuestar los requerimientos financieros del proceso de transmisión;
 
-VII. Vigilar el cumplimiento del programa operativo anual y la aplicación de las políticas del Plan de Sostenibilidad alineado al Plan de Desarrollo, en el proceso de transmisión;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-VIII. Proponer a la Dirección de Operación los proyectos de inversión y modernización de la infraestructura de la Red Nacional de Transmisión;
+VII. Vigilar el cumplimiento del programa operativo anual y la aplicación de las políticas del Plan de Sostenibilidad alineado al Programa de Desarrollo, en el proceso de transmisión;
+
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+VIII. Proponer a la Dirección de Redes Eléctricas los proyectos de inversión, construcción y modernización de la infraestructura de la Red Nacional de Transmisión;
 
 IX. Instruir las acciones para el restablecimiento de la Red Nacional de Transmisión en las zonas afectadas por desastres, casos fortuitos o de fuerza mayor, en el ámbito de su competencia;
 
 X. Coordinar la aplicación de la política de identificación, seguimiento y evaluación de riesgos en el proceso de transmisión; y
 
-XI. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Operación.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+XI. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Redes Eléctricas.
 
 ###### Artículo 45.
 
@@ -1137,7 +1403,9 @@ VIII. Coordinar las acciones de restablecimiento de la Red Nacional de Transmisi
 
 IX. Implementar la política de identificación, seguimiento y evaluación de riesgos en el ámbito de su competencia; y
 
-X. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Transmisión.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+X. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Transmisión.
 
 ###### Artículo 46.
 
@@ -1161,7 +1429,9 @@ VIII. Coordinar la implementación de sistemas de protecciones, comunicaciones y
 
 IX. Implementar la política de identificación, seguimiento y evaluación de riesgos en el ámbito de su competencia; y
 
-X. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Transmisión.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+X. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Transmisión.
 
 ###### Artículo 47.
 
@@ -1193,6 +1463,10 @@ A la Subdirección de Distribución le corresponden las siguientes funciones:
 
 I. Conducir el proceso del servicio público de distribución, así como el de suministro básico de Energía Eléctrica;
 
+> <small>(ADICIONADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+I. Bis. Vigilar la confiabilidad y continuidad de red de baja tensión mediante una gestión preventiva y oportuna para la atención de riesgos y fallas;
+
 II. Coordinar la medición de la distribución de energía eléctrica en las Redes Generales de Distribución para su liquidación en el mercado eléctrico mayorista;
 
 III. Vigilar la aplicación de los criterios técnicos y directrices operativas, desarrollo tecnológico y modernización e indicadores de desempeño en el ámbito de la Subdirección;
@@ -1203,15 +1477,21 @@ V. Autorizar el programa anual de mantenimiento de las Redes Generales de Distri
 
 VI. Presupuestar los requerimientos financieros del proceso de distribución;
 
-VII. Vigilar el cumplimiento del programa operativo anual y la aplicación de las políticas del Plan de Sostenibilidad alineados al Plan de Desarrollo, en el proceso de distribución;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-VIII. Proponer a la Dirección de Operación los proyectos de inversión y modernización de la infraestructura de las Redes Generales de Distribución;
+VII. Vigilar el cumplimiento del Programa Operativo Anual y la aplicación de las políticas del Plan de Sostenibilidad alineados al Programa de Desarrollo, en el proceso de distribución;
+
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+VIII. Proponer a la Dirección de Redes Eléctricas los proyectos de inversión y modernización de la infraestructura de las Redes Generales de Distribución;
 
 IX. Instruir las acciones para el restablecimiento de las Redes Generales de Distribución en las zonas afectadas por desastres, casos fortuitos o de fuerza mayor, en el ámbito de su competencia;
 
 X. Coordinar la aplicación de la política de identificación, seguimiento y evaluación de riesgos en el proceso de distribución; y
 
-XI. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Operación.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+XI. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Redes Eléctricas.
 
 ###### Artículo 49.
 
@@ -1241,117 +1521,21 @@ XI. Coordinar la aplicación de la política de identificación, seguimiento y e
 
 XII. Evaluar los resultados de electrificación y de la planeación, construcción, operación y mantenimiento de las Redes Generales de Distribución; y
 
-XIII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Distribución.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-### CAPÍTULO XII. Funciones Específicas de las áreas adscritas a la Dirección de Ingeniería y Proyectos de Infraestructura
+XIII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Distribución.
 
-###### Artículo 50.
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-A la Coordinación Comercial le corresponden las siguientes funciones:
+### CAPÍTULO VIII TER. Funciones Específicas de las áreas adscritas a la Dirección de Política Comercial
 
-I. Vigilar la atención a los usuarios del suministro básico de energía eléctrica;
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-II. Implementar planes, programas y aplicar los criterios operativos y técnicos para el suministro básico, e indicadores que evalúen la operación de la Coordinación;
-
-III. Formular la información necesaria para integrar el Programa de Desarrollo de la Comisión en el ámbito de su competencia;
-
-IV. Proponer los proyectos de inversión y el programa anual de mantenimiento de los centros de atención al cliente;
-
-V. Presupuestar los requerimientos financieros del proceso de suministro básico;
-
-VI. Vigilar el cumplimiento del programa operativo anual y la aplicación de las políticas del Plan de Sostenibilidad en el ámbito de su competencia;
-
-VII. Proponer a la Subdirección de Distribución los proyectos de inversión de la infraestructura para los centros de atención de suministro básico;
-
-VIII. Instruir las acciones para el restablecimiento de los centros de atención de Suministro Básico en las zonas afectadas por desastres, casos fortuitos o de fuerza mayor;
-
-IX. Coordinar la aplicación de la política de identificación, seguimiento y evaluación de riesgos en el ámbito de su competencia;
-
-X. Validar las estrategias generales de facturación, de recuperación de ingresos y de medios de cobranza en los programas aplicables;
-
-XI. Aprobar los mecanismos de cobranza de la venta de energía eléctrica, nuevos productos y servicios a usuarios finales, en el ámbito de su competencia; y
-
-XII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Distribución.
-
-###### Artículo 51.
-
-A la Subdirección de Seguridad Física le corresponden las siguientes funciones:
-
-I. Organizar la seguridad física de las instalaciones de la Comisión;
-
-II. Elaborar los programas de seguridad física de las instalaciones de la Comisión;
-
-III. Analizar los proyectos de inversión en seguridad física, con tecnología de alta generación para modificación y/o conservación de la infraestructura y equipo en el ámbito de su competencia;
-
-IV. Establecer en conjunto con los responsables de protección civil, protección ambiental y seguridad industrial, las acciones de seguridad física, en caso de movimientos socio-organizativos o en el restablecimiento del servicio de energía eléctrica en las zonas afectadas por desastres, casos fortuitos o de fuerza mayor;
-
-V. Detectar y prevenir los incidentes mediante la vigilancia y prevención con los equipos tecnológicos;
-
-VI. Determinar las acciones de patrullajes a las estructuras, líneas de transmisión y demás infraestructura del sistema eléctrico nacional, como bienes patrimoniales de la Comisión;
-
-VII. Administrar la licencia oficial colectiva de armamento concedida por la Secretaría de la Defensa Nacional;
-
-VIII. Convenir con las Secretarías de la Defensa Nacional y de Marina, acciones en materia de seguridad de las instalaciones de la Comisión;
-
-IX. Celebrar contratos o convenios con dependencias y entidades de la administración pública federal o local, en el ámbito de su competencia y conforme a la normatividad aplicable; y
-
-X. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Operación.
-
-###### Artículo 52.
-
-A la Coordinación de Mercado Eléctrico Mayorista le corresponden las siguientes funciones:
-
-I. Coordinar las operaciones de los procesos de transmisión, distribución y suministro básico en el mercado eléctrico mayorista;
-
-II. Cumplir con los requisitos de los contratos de cobertura establecidos por las autoridades competentes.
-
-III. Supervisar los contratos de cobertura eléctrica de las áreas de la Dirección que participan en el mercado eléctrico mayorista;
-
-IV. Vigilar la liquidación de operaciones de contratos de cobertura, mercado de corto plazo y operaciones de importación y exportación de las áreas de la Dirección;
-
-V. Vigilar que se apliquen las tarifas reguladas definidas por el órgano regulador y el operador del mercado eléctrico mayorista de las áreas de la Dirección;
-
-VI. Coordinar la atención de los casos de controversias, en el ámbito de su competencia;
-
-VII. Vigilar el acreditamiento y transferencia de certificados de energías limpias en cumplimiento a los requisitos establecidos por las instancias competentes de las áreas de la Dirección;
-
-VIII. Evaluar los resultados de las operaciones de compraventa de energía en el mercado eléctrico mayorista de las áreas de la Dirección;
-
-IX. Coordinar la operación del contrato de participante de mercado y los permisos correspondientes en el mercado eléctrico mayorista; y
-
-X. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Operación.
-
-###### Artículo 53.
-
-A la Coordinación Técnica le corresponden las siguientes funciones:
-
-I. Verificar la aplicación de los criterios operativos y técnicos, de los proyectos geotermoeléctricos, de desarrollo tecnológico, modernización y evaluación del desempeño de los procesos de la Dirección;
-
-II. Integrar la información de los procesos operativos de la Dirección para el Programa de Desarrollo.
-
-III. Integrar la información de los procesos operativos de la Dirección para el Plan de Sostenibilidad;
-
-IV. Evaluar el cumplimiento de los programas de mantenimiento predictivo, preventivo y correctivo de la infraestructura e instalaciones operativas;
-
-V. Validar la viabilidad de innovaciones operativas y de mejora continua de los procesos de generación, transmisión y distribución de energía eléctrica;
-
-VI. Monitorear el cumplimiento de los programas, planes técnicos y operativos de los procesos de la Dirección;
-
-VII. Revisar la viabilidad técnica de los proyectos de inversión del ámbito de competencia de la Dirección;
-
-VIII. Analizar y atender requerimientos de los organismos de protección civil durante las situaciones de desastres, casos fortuitos o de fuerza mayor;
-
-IX. Vigilar el cumplimiento de las políticas de seguridad industrial y administración de riesgos en los procesos de la Dirección; y
-
-X. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Operación.
-
-### CAPÍTULO XIII. Funciones Específicas de las áreas adscritas a la Dirección de Planeación
-
-###### Artículo 54.
+###### Artículo 49 Bis.
 
 A la Subdirección de Estrategia Comercial le corresponden las siguientes funciones:
 
-I. Diseñar la estrategia comercial de insumos primarios, bienes y servicios de acuerdo con el objeto de la Comisión y, en su caso, de sus empresas filiales: CFE Calificados, CFEnergía y CFE International, en el ámbito de su competencia;
+I. Diseñar la estrategia comercial de insumos primarios, bienes y servicios de acuerdo con el objeto de la Comisión y, en su caso, de sus empresas filiales: CFE Calificados, S. A. de C. V., CFEnergía, S. A. de C. V., y CFE International LLC, en el ámbito de su competencia;
 
 II. Diseñar mecanismos para mejorar la comercialización de servicios y productos, así como para aprovechar las economías de escala y crear eficiencias operativas, optimización de los recursos e infraestructura de la Comisión;
 
@@ -1371,107 +1555,151 @@ IX. Evaluar y proponer alianzas en materia comercial con entidades públicas, ac
 
 X. Diseñar las acciones a considerar en el proceso del Programa de Desarrollo de la Comisión, y la evaluación periódica; y
 
-XI. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Servicios Especializados y Estrategia Comercial.
+XI. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Política Comercial.
 
-###### Artículo 55.
+###### Artículo 50.
 
-A la Subdirección de Servicios Especializados y Nuevos Productos le corresponden las siguientes funciones:
+A la Coordinación Comercial le corresponden las siguientes funciones:
 
-I. Coordinar y definir los servicios de telecomunicaciones e internet, ahorro y eficiencia energética, servicios especializados, pruebas a equipos y materiales;
+I. Vigilar la atención a los usuarios del suministro básico de energía eléctrica;
 
-II. Representar a la Comisión ante las autoridades y entes regulatorios en materia de Telecomunicaciones, eficiencia energética y normalización de los servicios especializados;
+II. Implementar planes, programas y aplicar los criterios operativos y técnicos para el suministro básico, e indicadores que evalúen la operación de la Coordinación;
 
-III. Implementar las políticas, normas, lineamientos y estrategias, de operación, gestión de bienes y servicios, así como de telecomunicaciones e Internet;
+III. Formular la información necesaria para integrar el Programa de Desarrollo de la Comisión en el ámbito de su competencia;
 
-IV. Evaluar las metas estratégicas e indicadores clave para el desempeño de los proyectos, productos y servicios, conforme al Programa de Desarrollo de la Comisión y programa operativo anual, en el ámbito de su competencia;
+IV. Proponer los proyectos de inversión y el programa anual de mantenimiento de los centros de atención al cliente;
 
-V. Evaluar los precios de los productos y servicios en el ámbito de su competencia;
+V. Presupuestar los requerimientos financieros del proceso de suministro básico;
 
-VI. Evaluar medidas preventivas, correctivas y de control de riesgos;
+VI. Vigilar el cumplimiento del programa operativo anual y la aplicación de las políticas del Plan de Sostenibilidad en el ámbito de su competencia;
 
-VII. Instrumentar el desarrollo, innovación de procesos y la calidad de los productos y servicios especializados de la Comisión;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-VIII. Establecer nuevos productos, bienes y servicios, en concordancia con el Programa de Desarrollo de la Comisión;
+VII. Proponer a la Subdirección de Estrategia Comercial los proyectos de inversión de la infraestructura para los centros de atención de suministro básico;
 
-IX. Evaluar y proponer alianzas con entidades públicas, académicas y privadas, para el desarrollo de nuevos productos, así como la implementación de prototipos y proyectos piloto;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-X. Vigilar la provisión de cobertura social del servicio de internet y telecomunicaciones;
+VIII. Instruir las acciones para el restablecimiento de los centros de atención de Suministro Básico y áreas a su cargo, en las zonas afectadas por desastres, casos fortuitos o de fuerza mayor;
 
-XI. Diseñar las acciones a considerar en el proceso del Programa de Desarrollo de la Comisión, y la evaluación periódica;
+IX. Coordinar la aplicación de la política de identificación, seguimiento y evaluación de riesgos en el ámbito de su competencia;
 
-XII. Diseñar los proyectos y programas para el aprovechamiento de recursos, para el ahorro y uso eficiente de la energía, telecomunicaciones e internet, así como, la provisión de servicios especializados; y
+X. Validar las estrategias generales de facturación, de recuperación de ingresos y de medios de cobranza en los programas aplicables;
 
-XIII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Servicios Especializados y Estrategia Comercial.
+XI. Aprobar los mecanismos de cobranza de la venta de energía eléctrica, nuevos productos y servicios a usuarios finales, en el ámbito de su competencia; y
 
-###### Artículo 56.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-A la Coordinación de Servicios Especializados le corresponden las siguientes funciones:
+XII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Estrategia Comercial.
 
-I. Proveer los servicios de ahorro y eficiencia energética, servicios especializados, pruebas a equipos y materiales;
+###### Artículo 51.
 
-II. Integrar el desarrollo de sistemas de gestión de la energía y programas de eficiencia energética;
+(DEROGADO, D.O.F. 9 DE OCTUBRE DE 2026)
 
-III. Administrar los servicios integrales de ingeniería, certificación y pruebas de laboratorio en la Comisión;
+###### Artículo 52.
 
-IV. Difundir campañas de ahorro y uso eficiente de la energía, en el ámbito de competencia de la Comisión;
+A la Coordinación de Mercado Eléctrico Mayorista le corresponden las siguientes funciones:
 
-V. Gestionar la actualización y verificación de la normalización técnica de la Comisión;
+I. Coordinar las operaciones de los procesos de transmisión, distribución y suministro básico en el mercado eléctrico mayorista;
 
-VI. Aplicar las políticas, normas, lineamientos y estrategias, de operación y gestión de bienes y servicios;
+II. Cumplir con los requisitos de los contratos de cobertura establecidos por las autoridades competentes.
 
-VII. Aplicar los mecanismos en los procesos de certificación, verificación e inspección, de los equipos, bienes y servicios de la Comisión;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-VIII. Proyectar las metas estratégicas e indicadores clave para el desempeño de los proyectos, productos y servicios, conforme al Programa de Desarrollo de la Comisión y al programa operativo anual, en el ámbito de su competencia;
+III. Supervisar, desde la perspectiva comercial y de cumplimiento, los contratos de cobertura eléctrica de las áreas de la Comisión que participan en el Mercado Eléctrico Mayorista, sin sustituir las atribuciones de autorización, administración contractual o control financiero que correspondan a otras áreas;
 
-IX. Determinar los precios de los productos y servicios del ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-X. Implementar medidas preventivas, correctivas y de control de riesgos;
+IV. Vigilar la liquidación de operaciones de contratos de cobertura, del mercado de corto plazo y de las operaciones de importación y exportación de las áreas de la Comisión, conciliando sus resultados con las áreas operativas y financieras competentes;
 
-XI. Conducir el desarrollo, innovación de procesos y la calidad de los productos y servicios especializados de la Comisión;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-XII. Desarrollar nuevos productos, bienes y servicios, en el ámbito de su competencia;
+V. Vigilar, en el ámbito de su competencia, la correcta aplicación de las tarifas reguladas y de las disposiciones emitidas por el órgano regulador y por el operador del Mercado Eléctrico Mayorista;
 
-XIII. Implementar las acciones a considerar en el proceso del Programa de Desarrollo de la Comisión, y realizar su evaluación periódica;
+VI. Coordinar la atención de los casos de controversias, en el ámbito de su competencia;
 
-XIV. Integrar los proyectos y programas para el aprovechamiento de recursos, para el ahorro y uso eficiente de la energía, así como, la provisión de servicios especializados; y
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-XV. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Servicios Especializados y Nuevos Productos.
+VII. Vigilar el acreditamiento y transferencia de certificados de energías limpias en cumplimiento a los requisitos establecidos por las instancias competentes;
 
-###### Artículo 57.
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-A la Coordinación TELECOM le corresponden las siguientes funciones:
+VIII. Evaluar los resultados de las operaciones de compraventa de energía en el mercado eléctrico mayorista de las áreas de la Dirección competente;
 
-I. Proveer servicios de enlaces de telecomunicaciones, incluyendo el Internet, y uso de infraestructura de telecomunicaciones de la Comisión, así mismo, el servicio asociado al programa de cobertura social;
+IX. Coordinar la operación del contrato de participante de mercado y los permisos correspondientes en el mercado eléctrico mayorista; y
 
-II. Desarrollar la planeación operativa en materia de enlaces de telecomunicaciones e Internet de la Comisión y administrar las actividades de habilitación de servicios asociados a la infraestructura de telecomunicaciones;
+> <small>(ADICIONADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-III. Gestionar la infraestructura y despliegue de redes de telecomunicaciones, en términos de la legislación aplicable, y brindar los servicios especializados de telecomunicaciones a la Comisión;
+IX Bis. Requerir y dar seguimiento a la información y documentación relacionada con las políticas, estrategias, actividades comerciales y de negocio que realizan las empresas filiales CFE Calificados, S.A. de C. V. y CFE Intermediación de Contratos Legados, S.A. de C. V. de conformidad con lo establecido en la Ley del Sector Eléctrico, en el ámbito de su competencia y en su caso, emitir las recomendaciones correspondientes;
 
-IV. Elaborar estudios de factibilidad en materia de infraestructura de telecomunicaciones;
+> <small>(ADICIONADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-V. Gestionar de manera centralizada las concesiones y títulos habilitantes que requiera la Comisión en materia de telecomunicaciones;
+IX Ter. Proponer y verificar el cumplimiento de los indicadores de desempeño de las empresas filiales CFE Calificados, S.A. de C. V. y CFE Intermediación de Contratos Legados, S.A. de C. V. en el ámbito de su competencia y en su caso, emitir las recomendaciones correspondientes; y
 
-VI. Aplicar las políticas, normas y lineamientos que regulen la comercialización y provisión de los servicios de telecomunicaciones de la Comisión y del Programa Social Internet para Todos;
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
 
-VII. Proyectar las metas estratégicas e indicadores clave para el desempeño de los proyectos, productos y servicios, conforme al Programa de Desarrollo de la Comisión y al programa operativo anual, en el ámbito de su competencia;
+X. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Estrategia Comercial.
 
-VIII. Determinar los precios de los productos y servicios en los términos de la Ley en el ámbito de su competencia;
+###### Artículo 53.
+
+(DEROGADO, D.O.F. 9 DE OCTUBRE DE 2026)
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+###### Artículo 53 Bis.
+
+A la Subdirección de Servicios de Conectividad le corresponden las siguientes funciones:
+
+I. Proveer servicios públicos asociados a la cobertura social de enlaces de telecomunicaciones e internet;
+
+II. Desarrollar la planeación operativa en materia de enlaces de telecomunicaciones e internet para servicio público;
+
+III. Gestionar la infraestructura y despliegue de redes de telecomunicaciones para el servicio público de telecomunicaciones e internet, en términos de la legislación aplicable;
+
+IV. Elaborar estudios de factibilidad en materia de infraestructura de telefonía celular e internet;
+
+V. Gestionar de manera centralizada las concesiones y títulos habilitantes para el servicio público en materia de telecomunicaciones e internet;
+
+VI. Aplicar las políticas, normas y lineamientos que regulen la comercialización y provisión de los servicios públicos de telecomunicaciones e internet;
+
+VII. Proyectar las metas estratégicas e indicadores clave para el desempeño de los proyectos, productos y servicios, conforme al Programa de Desarrollo de la Comisión y al Programa Operativo Anual, en el ámbito de su competencia;
+
+VIII. Proponer los precios de los productos y servicios en el ámbito de su competencia, en los términos de la Ley y conforme a las metodologías y autorizaciones aplicables;
 
 IX. Implementar medidas preventivas, correctivas y de control de riesgos en el ámbito de su competencia;
 
-X. Conducir el desarrollo, innovación de procesos y la calidad de los productos y servicios de telecomunicaciones e internet de la Comisión;
+X. Conducir el desarrollo, innovación de procesos y la calidad de los productos y servicios públicos de telecomunicaciones e internet de la Comisión;
 
 XI. Desarrollar modelos de comercialización, servicios, administración y uso de la infraestructura aplicable;
 
-XII. Conducir las acciones para la provisión de cobertura social del servicio de internet y telecomunicaciones;
+XII. Conducir las acciones para la provisión de cobertura social del servicio público de internet y telecomunicaciones;
 
 XIII. Implementar las acciones a considerar en el proceso del Programa de Desarrollo de la Comisión, y la evaluación periódica;
 
 XIV. Integrar los proyectos y programas para el aprovechamiento de recursos, telecomunicaciones e internet, así como la provisión de servicios especializados; y
 
-XV. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Servicios Especializados y Nuevos Productos.
+XV. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídicas y administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Política Comercial.
 
-### CAPÍTULO XIV. Funciones Específicas de las áreas adscritas a la Dirección Jurídica
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+### CAPÍTULO IX. Funciones Específicas de las áreas adscritas a la Dirección de Servicios Especializados y Estrategia Comercial
+
+###### Artículo 54.
+
+(DEROGADO, D.O.F. 9 DE OCTUBRE DE 2026)
+
+###### Artículo 55.
+
+(DEROGADO, D.O.F. 9 DE OCTUBRE DE 2026)
+
+###### Artículo 56.
+
+(DEROGADO, D.O.F. 9 DE OCTUBRE DE 2026)
+
+###### Artículo 57.
+
+(DEROGADO, D.O.F. 9 DE OCTUBRE DE 2026)
+
+### CAPÍTULO X. Funciones Específicas de las áreas adscritas a la Dirección de Finanzas
 
 ###### Artículo 58.
 
@@ -1553,7 +1781,7 @@ IX. Evaluar los riesgos de los programas y proyectos de inversión; y
 
 X. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Finanzas.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO XI. Funciones Específicas de las áreas adscritas a la Dirección de Administración
 
 ###### Artículo 62.
 
@@ -1733,7 +1961,7 @@ VIII. Normar los criterios y regular los procesos archivísticos de la administr
 
 IX. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Administración.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO XII. Funciones Específicas de las áreas adscritas a la Dirección de Ingeniería y Proyectos de Infraestructura
 
 ###### Artículo 69.
 
@@ -1865,7 +2093,7 @@ VI. Validar el acta Entrega - Recepción de los proyectos de subestaciones y lí
 
 VII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Subdirección de Ingeniería y Administración de la Construcción.
 
-### CAPÍTULO I. Unidad de Responsabilidades
+### CAPÍTULO XIII. Funciones Específicas de las áreas adscritas a la Dirección de Planeación
 
 ###### Artículo 76.
 
@@ -1951,7 +2179,7 @@ VI. Vigilar las acciones de transición energética y sostenibilidad de la Comis
 
 VII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección de Planeación.
 
-### CAPÍTULO I. Integración y Funciones de la Unidad de Transparencia y el Comité de Transparencia
+### CAPÍTULO XIV. Funciones Específicas de las áreas adscritas a la Dirección Jurídica
 
 ###### Artículo 80.
 
@@ -1985,7 +2213,9 @@ IV. Brindar la atención de los asuntos de carácter jurídico en que intervenga
 
 V. Definir estrategias legales para la resolución de los asuntos de carácter consultivo relacionados con actos, convenios, contratos, garantías o cualquier otro instrumento jurídico, que celebren las áreas de la Comisión;
 
-VI. Analizar, para posterior autorización del Abogado General, los contratos de prestación de servicios de carácter jurídico de la Comisión y, cuya administración, será responsabilidad del área que lo solicite; y
+> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
+VI. Analizar, para posterior autorización de la persona titular de la Dirección Jurídica, los contratos de prestación de servicios de carácter jurídico de la Comisión y, cuya administración, será responsabilidad del área que lo solicite; y
 
 VII. Las demás que se le confieran por las autoridades respectivas, así como las disposiciones jurídico-administrativas que se emitan, debiendo informar sobre el desarrollo de sus funciones a la persona titular de la Dirección Jurídica.
 
@@ -2009,7 +2239,7 @@ VII. Las demás que se le confieran por las autoridades respectivas, así como l
 
 ## TÍTULO QUINTO. De la Relación entre la Comisión y sus Empresas Filiales
 
-### CAPÍTULO I. Integración y Funciones
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 83.
 
@@ -2031,9 +2261,11 @@ Las empresas filiales se rigen por la Ley, el Reglamento, sus estatutos sociales
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
 ###### Artículo 87.
 
-Sin perjuicio de las funciones establecidas en los artículos 29, fracción VI; 32, fracción I y II; 65, fracción IX y 80, fracción I y II, la representación legal y defensa jurídica de la Comisión ante tribunales y demás autoridades en los asuntos derivados de actos competencia de la Subdirección de Transmisión, la Subdirección de Distribución, así como las Coordinaciones Regionales de Producción, estará a cargo de sus áreas jurídicas.
+Sin perjuicio de las funciones establecidas en los artículos 29, fracción VI; 32, fracción I y II; 65, fracción IX y 80, fracción I y II, la representación legal y defensa jurídica de la Comisión ante tribunales y demás autoridades en los asuntos derivados de actos competencia de la Subdirección de Transmisión, la Subdirección de Distribución, la Subdirección de Estrategia Comercial, así como las Coordinaciones Regionales de Producción, estará a cargo de sus áreas jurídicas.
 
 Las áreas jurídicas deben ejercer esta función bajo la vinculación operativa de la Dirección Jurídica y, tratándose de asuntos en materia laboral con la Dirección de Administración, de conformidad con los criterios y lineamientos que éstas dicten y conforme a lo establecido en el presente estatuto.
 
@@ -2045,6 +2277,8 @@ Lo anterior, atendiendo a los lineamientos en materia de recursos humanos que al
 
 ## TÍTULO SÉPTIMO. De la Instancia en Materia de Responsabilidades
 
+### CAPÍTULO I. Unidad de Responsabilidades
+
 ###### Artículo 89.
 
 La Unidad de Responsabilidades es la instancia competente para aplicar a las personas servidoras públicas de la Comisión, las leyes en materia de responsabilidades administrativas correspondientes.
@@ -2054,6 +2288,8 @@ La Unidad de Responsabilidades es la instancia competente para aplicar a las per
 La Unidad de Responsabilidades, debe desarrollar sus actividades con la estructura y las funciones que le otorguen la Ley, el Reglamento, así como las demás disposiciones jurídicas aplicables.
 
 ## TÍTULO OCTAVO. De la Instancia en Materia de Transparencia y Rendición de Cuentas
+
+### CAPÍTULO I. Integración y Funciones de la Unidad de Transparencia y el Comité de Transparencia
 
 ###### Artículo 91.
 
@@ -2070,6 +2306,8 @@ El Comité de Transparencia de la Comisión debe estar integrado por tres person
 Cada persona titular integrante propietaria, puede designar una persona suplente conforme se determine en las disposiciones jurídicas aplicables.
 
 ## TÍTULO NOVENO. De la Instancia Colegiada en materia de Recursos de Reconsideración
+
+### CAPÍTULO I. Integración y Funciones
 
 ###### Artículo 94.
 
@@ -2111,9 +2349,13 @@ La persona titular de la Dirección Jurídica y la instancia colegiada deben hab
 
 ## TÍTULO DÉCIMO. De las Suplencias
 
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2026)</small>
+
 ###### Artículo 100.
 
-En su ausencia, la persona titular de la Dirección General será suplida por las personas titulares de las Direcciones de Operación; Ingeniería y Proyectos de Infraestructura; Servicios Especializados y Estrategia Comercial; y Dirección Jurídica; en ese orden.
+En su ausencia, la persona titular de la Dirección General será suplida por las personas titulares de las Direcciones de Generación y Productores Externos; de Redes Eléctricas; de Política Comercial; Ingeniería y Proyectos de Infraestructura; y Dirección Jurídica; en ese orden.
 
 ###### Artículo 101.
 
@@ -2246,3 +2488,33 @@ DÉCIMO SEGUNDO. En tanto se expiden los nuevos Manuales de Organización que co
 El presente estatuto fue aprobado y expedido por el Consejo de Administración de la Empresa Pública del Estado, Comisión Federal de Electricidad, con fundamento en el artículo 13, 15, fracción XXII, 49, fracción XIX, 108 fracción IV y Transitorio Sexto de la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad, en la sesión segunda ordinaria celebrada el 21 de mayo de 2025, mediante acuerdo número CA-CFE-021/2025.
 
 En la Ciudad de México, a los veintiún días del mes de mayo de dos mil veinticinco.- La Directora General de la Empresa Pública del Estado, Comisión Federal de Electricidad, Emilia Esther Calleja Alor, con fundamento en el artículo 13, 15, fracción XXII y Transitorio Sexto de la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD”.]
+
+PRIMERO. La presente modificación al Estatuto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Comisión Federal de Electricidad cuenta con un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente instrumento, para realizar las acciones que resulten necesarias para armonizar las disposiciones internas de la Comisión, con lo señalado en el presente instrumento.
+
+TERCERO. Los derechos de personas trabajadoras no se verán afectados por las modificaciones de la estructura básica y funciones que se autorizan mediante la emisión de las modificaciones al presente Estatuto.
+
+CUARTO. Los asuntos que, a la entrada en vigor del presente instrumento, se encuentren en trámite en las áreas que se modifican, serán atendidos y concluidos por las áreas de la Comisión Federal de Electricidad previstas en el presente Estatuto, y que asumen las funciones de aquellas o las que se establezcan en los manuales de organización que asuman las funciones que correspondían a dichas unidades.
+
+QUINTO. Las personas titulares de las áreas que se modifican mediante este instrumento continuarán ejerciendo las funciones que vienen desempeñando, hasta la entrada en vigor de la presente modificación.
+
+Los actos jurídicos emitidos con fundamento en las disposiciones que se modifican o derogan continuarán vigentes con todos los efectos legales a que haya lugar, en lo que no se opongan al presente instrumento y hasta en tanto sean sustituidos, modificados o dejados sin efectos por la autoridad competente.
+
+SEXTO. Las referencias que se hacen y las funciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las áreas que cambian de denominación o se reasignan con motivo de este instrumento, se entenderán hechas o conferidas a las áreas que correspondan conforme al texto del presente Estatuto.
+
+SÉPTIMO. Los casos no contemplados en el presente Estatuto se atenderán procurando dar la solución más conveniente para el cumplimiento de los fines de la Comisión, conforme a la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad y a las determinaciones que al efecto establezca la persona titular de la Dirección General, con el apoyo y opinión de la Dirección Jurídica.
+
+OCTAVO. Los órganos colegiados y grupos de trabajo integrados por personas servidoras públicas, que al momento de la entrada en vigor del presente instrumento continúen en funciones, se conformarán por las personas titulares de las áreas que asuman las funciones correspondientes.
+
+NOVENO. Los acuerdos, circulares, lineamientos, instructivos y demás disposiciones que rigen la actuación de las personas servidoras públicas de la Comisión, continúan vigentes en lo que no se opongan al presente instrumento, hasta en tanto sean modificados, sustituidos o dejados sin efectos.
+
+DÉCIMO. Los actos, procedimientos, actuaciones o determinaciones a cargo de las áreas, que se encuentren en trámite a la entrada en vigor del presente instrumento, no se suspenderán y serán continuados y concluidos por las áreas competentes conforme al presente instrumento, con apego a las disposiciones normativas que resulten aplicables.
+
+DÉCIMO PRIMERO. En tanto se expidan las modificaciones a los Manuales de Organización que correspondan, las áreas previstas en el presente Estatuto ejercerán las funciones que les correspondan conforme a este instrumento y a las disposiciones internas vigentes, siempre que estas últimas no se opongan a lo previsto en este Estatuto.
