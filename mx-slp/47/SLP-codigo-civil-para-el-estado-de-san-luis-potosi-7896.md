@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2026-03-17"
+last_updated: "2026-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -4711,7 +4711,9 @@ ART. 1103.- La prescripción negativa se verifica por el sólo transcurso del ti
 
 ART. 1104.- Fuera de los casos de excepción, se necesita el lapso de diez años, contados desde que una obligación pudo exigirse, para que se extinga el derecho de pedir su cumplimiento.
 
-ART. 1105.- La obligación de dar alimentos es imprescriptible.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2026)</small>
+
+ART. 1105.- La obligación de dar alimentos es imprescriptible, de conformidad con en el artículo 164 del Código Familiar para el Estado de San Luis Potosí.
 
 ART. 1106.- Prescriben en dos años:
 
@@ -10764,5 +10766,13 @@ P.O. 17 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0490.- SE REFORMA EL ARTÍCULO 1448, DEL CÓDIGO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0617.- QUE REFORMA EL ARTÍCULO 1105, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
