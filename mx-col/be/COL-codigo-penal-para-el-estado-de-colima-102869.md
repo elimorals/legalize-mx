@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2026-08-29"
+last_updated: "2026-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2026.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1501,9 +1501,7 @@ Es imprescriptible la acción persecutoria en los siguientes casos:
 
 I. Por el delito de homicidio doloso, en todas sus formas y modalidades tipificadas en los artículos 120, 121 en relación al 124 Bis, 123 Bis, 124, 134 y 135, así como para los delitos de violación, en todas sus formas y modalidades tipificadas por los artículos 144 al 147, abuso sexual, tipificado en los artículos 149 a 151, tratándose de víctimas menores de edad, todos de este Código;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
-
-II. Por los delitos de peculado tipificados por los artículos 237 y 237 BIS, cohecho y enriquecimiento ilegítimo;
+II. (DEROGADA, P.O. 10 DE OCTUBRE DE 2026)
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
@@ -5186,6 +5184,14 @@ P.O. 4 DE JULIO DE 2026.
 P.O. 29 DE AGOSTO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 349.- POR EL QUE SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 162 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 10 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 369.- POR EL QUE SE DEROGA LA FRACCIÓN II, DEL ARTÍCULO 114 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
 
 ###### ARTÍCULO ÚNICO.
 
