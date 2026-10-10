@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-tratamiento-y-control-de-las-49482"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-18"
-last_updated: "2022-11-19"
+last_updated: "2026-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY PARA LA PREVENCION, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚM. 365.- POR EL QUE SE ABROGA LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA; Y SE EMITE LA LEY DE SALUD MENTAL Y ADICCIONES PARA EL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2026 (ABROGADA).
 
 Ley publicada en el Suplemento No 4 del Periódico Oficial del Estado de Colima, el sábado 18 de febrero de 2006.
 
@@ -744,3 +746,25 @@ P.O. 19 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO. Se derogan todas las disposiciones legales y normativas que se opongan al presente Decreto.
+
+P.O. 10 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 365.- POR EL QUE SE ABROGA LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA; Y SE EMITE LA LEY DE SALUD MENTAL Y ADICCIONES PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Las disposiciones reglamentarias de esta Ley deberán ser expedidas por la persona titular del Poder Ejecutivo del Estado y los Ayuntamientos, en sus respectivos ámbitos de competencia, dentro de los ciento ochenta días siguientes a la entrada en vigor de la misma y realizar las modificaciones reglamentarias correspondientes a efecto de que las autoridades estatales y municipales cumplan con las obligaciones y bases contenidas en este Decreto, por la Convención sobre los Derechos de las Personas con Discapacidad, la Ley General de Salud, la Ley General para la Inclusión de las Personas con Discapacidad, la Convención sobre los Derechos del Niño, y los Lineamientos de la OMS y la OPS sobre salud mental comunitaria, derechos humanos y desinstitucionalización.
+
+De considerarlo conveniente se podrá convocar a un proceso amplio de consulta y deliberación pública.
+
+TERCERO. La Comisión de Salud Mental y Adicciones de Colima, deberá ser instalada, en los términos de esta Ley, a más tardar dentro de sesenta días naturales después de la entrada en vigor del presente Decreto y expedir o actualizar su Reglamento Interior dentro de los sesenta días naturales siguientes a su instalación, el que deberá ser publicado en el Periódico Oficial del Estado. En tanto su entrada en vigor, seguirá rigiendo el Reglamento Interno vigente.
+
+Los procedimientos iniciados antes de la entrada en vigor de la presente Ley deberán ser concluidos con la legislación anterior.
+
+CUARTO. La Secretaría de Salud del Estado de Colima, en coordinación con la Secretaría de Educación, deberá elaborar, dentro del plazo de sesenta días naturales, un Programa Estatal de Formación, Capacitación y Reconversión Profesional en Salud Mental Comunitaria, conforme a los (sic) establecido en la presente ley.
+
+QUINTO. La Secretaría de Salud del Estado de Colima, en colaboración con la Comisión Estatal de Salud Mental y Adicciones de Colima, y las instituciones públicas involucradas, deberá diseñar, implementar y mantener un Sistema de Registro, Monitoreo y Evaluación de la implementación de la presente Ley, con el fin de asegurar su cumplimiento progresivo, transparente y participativo.
+
+SEXTO. En un plazo no mayor a seis meses a partir de la entrada en vigor de la presente Ley, la Comisión Estatal de Salud Mental y Adicciones de Colima, en coordinación con la Secretaría de Salud, la Comisión Estatal de Derechos Humanos, las organizaciones de personas usuarias, colectivos de familiares, academia, pueblos originarios y organismos especializados en salud mental comunitaria, deberá diseñar, aprobar y publicar un Protocolo Integral para la Intervención en Situaciones de Crisis en Salud Mental, el cual deberá ser de aplicación obligatoria en todos los servicios públicos, sociales y privados del Estado de Colima.
+
+SÉPTIMO. La Secretaría de Salud conforme a la suficiencia presupuestal asignada en el Presupuesto de Egresos del Estado de Colima para el ejercicio fiscal del año 2026, instrumentará las acciones establecidas en la presente Ley.
