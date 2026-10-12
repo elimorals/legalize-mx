@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2026-06-26"
+last_updated: "2026-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -433,9 +433,9 @@ Los bienes considerados como objeto del patrimonio de familia, se considerarán 
 
 XIV. El Estado reconoce los derechos de las personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas que habiten el territorio, sea cual fuese su situación o aspiración;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2026)</small>
 
-XV. Toda persona tiene derecho a la movilidad. El Estado y los municipios adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, bajo un sistema integral de calidad, aceptable, suficiente y accesible que, en condiciones de igualdad y sostenibilidad, permita un efectivo desplazamiento para la satisfacción de las necesidades y pleno desarrollo de toda persona; y
+XV. Toda persona tiene derecho a la movilidad. El Estado y los municipios adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, bajo un sistema integral de calidad, aceptable, suficiente y accesible que, en condiciones de igualdad y sostenibilidad, permita un efectivo desplazamiento para la satisfacción de las necesidades y pleno desarrollo de toda persona;
 
 > <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
@@ -445,9 +445,17 @@ El Estado garantizará el derecho al cuidado digno, bajo el principio de corresp
 
 El Estado, a través de las leyes que al efecto se expidan, establecerá la creación, organización y funcionamiento del Sistema Estatal de Cuidados, con enfoque de derechos humanos, perspectiva de género, inclusión y accesibilidad universal, integrando dimensiones económicas, sociales, políticas, culturales y biopsicosociales, con el objeto de garantizar, mediante políticas y servicios públicos de calidad, la atención y la corresponsabilidad en las tareas de cuidado, conforme a la legislación federal y local aplicable.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVI, P.O. 23 DE OCTUBRE DE 2025]</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2026)</small>
 
-Tendrán prioridad en la atención y acceso a los servicios del Sistema las personas que enfrenten mayores condiciones de vulnerabilidad.
+Tendrán prioridad en la atención y acceso a los servicios del Sistema las personas que enfrenten mayores condiciones de vulnerabilidad; y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2026)</small>
+
+XVII. Toda niña y niño, especialmente durante la primera infancia, tiene derecho a la lactancia materna como parte de su derecho a la alimentación, la salud y el desarrollo integral.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVII, P.O. 12 DE OCTUBRE DE 2026]</small>
+
+El Estado promoverá, protegerá y fomentará la lactancia materna, de conformidad con las disposiciones legales aplicables y observando en todo momento el principio del interés superior de la niñez.
 
 ###### Art. 17 Bis.
 
@@ -6232,3 +6240,15 @@ P.O. 26 DE JUNIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1423 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XV Y EL PÁRRAFO CUARTO DE LA FRACCIÓN XVI Y SE ADICIONA UNA FRACCIÓN XVII, AL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las acciones que, en su caso, deriven de la entrada en vigor del presente Decreto, se atenderán con cargo a los recursos humanos, materiales y financieros aprobados por las dependencias y entidades competentes.
